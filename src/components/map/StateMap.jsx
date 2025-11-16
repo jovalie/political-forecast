@@ -122,6 +122,9 @@ const StateMap = ({ statesData = null, onStateClick = null, onStateHover = null 
     }
   }, [isDark])
 
+  // Ref to track currently open tooltip layer
+  const openTooltipLayerRef = useRef(null)
+
   // Event handlers (memoized)
   const onEachFeature = useCallback((feature, layer) => {
     // Add click handler
@@ -130,28 +133,6 @@ const StateMap = ({ statesData = null, onStateClick = null, onStateHover = null 
         click: (e) => {
           e.originalEvent.preventDefault()
           onStateClick(feature)
-        },
-      })
-    }
-
-    // Add hover handlers
-    if (onStateHover) {
-      layer.on({
-        mouseover: (e) => {
-          const layer = e.target
-          layer.setStyle({
-            fillOpacity: 0.8,
-            weight: 2,
-          })
-          onStateHover(feature, true)
-        },
-        mouseout: (e) => {
-          const layer = e.target
-          layer.setStyle({
-            fillOpacity: 0.6,
-            weight: 1,
-          })
-          onStateHover(feature, false)
         },
       })
     }
@@ -165,6 +146,57 @@ const StateMap = ({ statesData = null, onStateClick = null, onStateHover = null 
         className: 'state-tooltip',
       })
     }
+
+    // Combined hover handlers for styling, tooltip management, and onStateHover callback
+    layer.on({
+      mouseover: (e) => {
+        const currentLayer = e.target
+        
+        // Update layer style
+        currentLayer.setStyle({
+          fillOpacity: 0.8,
+          weight: 2,
+        })
+
+        // Close any previously open tooltip
+        if (openTooltipLayerRef.current && openTooltipLayerRef.current !== currentLayer) {
+          openTooltipLayerRef.current.closeTooltip()
+        }
+
+        // Open this tooltip and track it
+        if (feature.properties && feature.properties.name) {
+          currentLayer.openTooltip()
+          openTooltipLayerRef.current = currentLayer
+        }
+
+        // Call onStateHover callback if provided
+        if (onStateHover) {
+          onStateHover(feature, true)
+        }
+      },
+      mouseout: (e) => {
+        const currentLayer = e.target
+        
+        // Update layer style
+        currentLayer.setStyle({
+          fillOpacity: 0.6,
+          weight: 1,
+        })
+
+        // Close this tooltip when mouse leaves
+        if (feature.properties && feature.properties.name) {
+          currentLayer.closeTooltip()
+          if (openTooltipLayerRef.current === currentLayer) {
+            openTooltipLayerRef.current = null
+          }
+        }
+
+        // Call onStateHover callback if provided
+        if (onStateHover) {
+          onStateHover(feature, false)
+        }
+      },
+    })
   }, [onStateClick, onStateHover])
 
   // Debug logging

@@ -82,6 +82,7 @@
 - **UX1.1**: Map must be zoomable and pannable
 - **UX1.2**: States must be clearly clickable with visual feedback
 - **UX1.3**: On hover, tooltip must display the #1 trending Law and Government topic for that state
+- **UX1.3.1**: Only one tooltip must be visible at a time - when hovering over a new state, any previously open tooltip must be closed before the new tooltip appears
 - **UX1.4**: On click, right-hand sidebar must slide in showing all Law and Government trends for the selected state
 - **UX1.5**: Sidebar must be dismissible (close button or click outside)
 - **UX1.6**: Sidebar must be responsive and adapt to mobile/desktop layouts
@@ -97,7 +98,7 @@
 - **UX3.1**: The UI must be minimalistic with clean, uncluttered layouts
 - **UX3.2**: The map must use a minimalistic base map style (Positron for light mode, Dark Matter for dark mode) that emphasizes data visualization over map details
 - **UX3.3**: Color coding must be distinct and accessible (WCAG AA compliant)
-- **UX3.4**: Topic labels must be readable and not overlap excessively
+- **UX3.4**: Topic labels (tooltips) must be readable and not overlap - only one tooltip should be visible at a time to prevent visual clutter
 - **UX3.5**: The UI must be intuitive and require minimal explanation
 - **UX3.6**: The application must support both light mode and dark mode with a user-toggleable theme switcher. The theme switcher must be styled as a toggle switch (not a button), and the application must auto-detect the user's system theme preference on initial load
 - **UX3.6.1**: The theme toggle switch must display monochrome line art icons (sun for light mode, moon with stars for dark mode) inside a circular knob

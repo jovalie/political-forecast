@@ -371,7 +371,7 @@ When reviewing code, check for:
 3. **Check code quality** - Run linters, formatters, type checkers
 4. **Test in browser** - Verify functionality manually
 5. **Update documentation** - Update comments/docs if needed
-6. **Commit with clear messages** - Write descriptive commit messages
+6. **Commit with extremely short messages** - Use concise, single-line commit messages (less than 10 words)
 
 ### Code Review Feedback Guidelines
 - **Be constructive** - Focus on improvement, not criticism
@@ -390,6 +390,13 @@ Before committing code, verify:
 - [ ] Code follows project conventions
 - [ ] Comments/documentation updated if needed
 - [ ] No sensitive data committed (check .env files)
+
+## Git Commit Messages
+- **Keep commit messages extremely short** - Use concise, single-line messages when possible
+- **Commit messages must be less than 10 words** - Enforce brevity and clarity
+- Focus on what changed, not why (unless the why is critical)
+- Examples: "Fix map hover tooltip", "Add theme toggle", "Update cursor rules"
+- Avoid verbose explanations in commit messages - use PR descriptions for details
 
 ## When Writing Code
 - Always consider mobile and desktop layouts
