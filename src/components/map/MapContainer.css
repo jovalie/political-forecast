@@ -1,0 +1,42 @@
+.map-container {
+  width: 100%;
+  height: 100%;
+  flex: 1;
+  border: none;
+  border-radius: 0;
+  overflow: hidden;
+  background-color: var(--bg-secondary);
+}
+
+/* Leaflet map container styling */
+.map-container .leaflet-container {
+  font-family: var(--font-serif);
+  background-color: var(--bg-secondary);
+}
+
+/* Dark theme adjustments for map */
+.map-container.dark-theme .leaflet-container {
+  background-color: var(--bg-secondary);
+}
+
+/* Customize Leaflet controls for theme */
+.map-container .leaflet-control {
+  background-color: var(--bg-primary);
+  border: var(--border-width) solid var(--border-color);
+  border-radius: var(--border-radius);
+}
+
+.map-container .leaflet-control a {
+  color: var(--text-primary);
+  background-color: var(--bg-primary);
+}
+
+.map-container .leaflet-control a:hover {
+  background-color: var(--border-color);
+}
+
+.map-container .leaflet-bar-part {
+  border-radius: var(--border-radius);
+}
+
+

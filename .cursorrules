@@ -1,0 +1,406 @@
+# Political Forecast - Cursor Rules
+
+## Project Overview
+Political Forecast is a React-based web application that visualizes trending Law and Government topics across U.S. states and DMAs using Google Trends data. The app features an interactive map with state-level and DMA-level views, updated daily via automated data ingestion.
+
+## Technology Stack
+- **Frontend Framework**: React (functional components with hooks)
+- **Map Library**: React Leaflet for interactive maps
+- **Visualization**: Plotly.js for data overlays and charting
+- **Deployment**: Vercel (static site with serverless functions for data ingestion)
+- **Data Format**: JSON files (state-level and DMA-level)
+- **Data Source**: Google Trends RSS feed (Law and Government category)
+
+## Design Requirements
+- **UI Style**: Minimalistic, clean, uncluttered layouts
+- **Typography**: Serif font family for all text elements
+- **Border Radius**: Right angles with minimal corner rounding (border-radius ≤ 2px)
+- **Theme**: Support both light mode and dark mode with user-toggleable theme switcher
+- **Responsive**: Fully optimized for both mobile and web (desktop) modes
+- **Accessibility**: WCAG AA compliant color coding and contrast
+- **Visual Feedback**: Clear clickable states with hover/active feedback
+
+## Code Style & Conventions
+
+### React Components
+- Use functional components with hooks (no class components)
+- Use TypeScript for type safety (if applicable) or PropTypes for prop validation
+- Component files should be PascalCase (e.g., `StateMap.tsx`, `ThemeToggle.tsx`)
+- Keep components small and focused on a single responsibility
+- Extract reusable logic into custom hooks
+- Use React.memo() for expensive map rendering components
+
+### File Structure
+```
+/src
+  /components      # Reusable UI components
+  /hooks          # Custom React hooks
+  /utils          # Utility functions and helpers
+  /data           # JSON data files (state-level, DMA-level)
+  /styles         # Global styles, theme configuration
+  /scripts        # Data ingestion scripts
+  /types          # TypeScript type definitions (if using TS)
+```
+
+### Naming Conventions
+- Components: PascalCase (`StateMap`, `DMADetail`)
+- Functions: camelCase (`fetchTrendingTopics`, `parseRSSFeed`)
+- Constants: UPPER_SNAKE_CASE (`MAX_BORDER_RADIUS`, `DATA_UPDATE_INTERVAL`)
+- Files: Match component/function name case
+- CSS classes: kebab-case (`state-map`, `dma-detail-view`)
+
+### State Management
+- Use React Context for theme (light/dark mode) and global app state
+- Use useState for local component state
+- Use useReducer for complex state logic (map view state, unique topic mode)
+- Avoid prop drilling - use Context API when state needs to be shared across multiple levels
+
+## Architecture Patterns
+
+### Data Flow
+1. Data ingestion script fetches from Google Trends RSS (Law and Government category)
+2. Script processes and aggregates data by state and DMA
+3. Data stored as static JSON files in `/data` directory
+4. Frontend loads JSON files on mount or via API routes
+5. React components render map with data visualization
+
+### Component Architecture
+- **MapContainer**: Main container managing map state and data loading
+- **StateMap**: Renders state-level map with React Leaflet
+- **DMAMap**: Renders DMA-level map when zoomed into a state
+- **ThemeProvider**: Context provider for light/dark mode
+- **UniqueTopicToggle**: Toggle component for unique topic mode
+- **TopicLegend**: Displays color-coded topic legend
+- **StateDetailsPanel**: Right-hand sidebar showing all trending topics for selected state
+- **TopicList**: Ordered list of topics with relevance scores and clickable links to Google News
+
+### Performance Optimization
+- Lazy load DMA data only when state is clicked
+- Memoize expensive calculations (topic filtering, unique topic selection)
+- Use React.memo() for map components to prevent unnecessary re-renders
+- Optimize JSON file sizes (< 500KB for state-level, < 200KB per DMA file)
+- Implement code splitting for route-based components
+- Use React.lazy() for heavy components
+
+## Data Handling
+
+### JSON Data Structure
+```json
+// State-level data structure
+{
+  "timestamp": "2024-01-15T00:00:00Z",
+  "states": [
+    {
+      "name": "California",
+      "code": "CA",
+      "topTopic": "Election Reform",
+      "category": "Law and Government",
+      "trendingScore": 95,
+      "topics": [
+        {
+          "name": "Election Reform",
+          "relevanceScore": 95,
+          "category": "Law and Government"
+        },
+        {
+          "name": "Voting Rights",
+          "relevanceScore": 87,
+          "category": "Law and Government"
+        }
+      ]
+    }
+  ]
+}
+
+// DMA-level data structure
+{
+  "state": "California",
+  "stateCode": "CA",
+  "timestamp": "2024-01-15T00:00:00Z",
+  "dmas": [
+    {
+      "name": "Los Angeles",
+      "topTopic": "Local Elections",
+      "category": "Law and Government",
+      "trendingScore": 88
+    }
+  ]
+}
+```
+
+### RSS Feed Processing
+- Handle rate limiting appropriately (respect Google Trends limits)
+- Validate all parsed data before storage
+- Handle missing or invalid data gracefully (log errors, use fallback values)
+- Store timestamps in ISO 8601 format
+- Implement retry logic for failed RSS fetches
+
+## Styling Guidelines
+
+### CSS/Styling Approach
+- Use CSS Modules or styled-components for component-scoped styles
+- Define theme variables for colors, fonts, spacing
+- Implement dark mode via CSS variables that switch based on theme context
+- Use serif font stack: `font-family: 'Georgia', 'Times New Roman', serif;`
+- Border radius: `border-radius: 0px` or `border-radius: 2px` maximum
+- Maintain consistent spacing scale (4px, 8px, 16px, 24px, 32px)
+
+### Theme Variables Example
+```css
+:root {
+  --font-serif: 'Georgia', 'Times New Roman', serif;
+  --border-radius: 2px;
+  --spacing-unit: 8px;
+}
+
+[data-theme="light"] {
+  --bg-primary: #ffffff;
+  --text-primary: #000000;
+  --border-color: #e0e0e0;
+}
+
+[data-theme="dark"] {
+  --bg-primary: #1a1a1a;
+  --text-primary: #ffffff;
+  --border-color: #404040;
+}
+```
+
+## Map Implementation
+
+### React Leaflet Best Practices
+- Use `useMap` hook for map instance access
+- Implement proper cleanup for map event listeners
+- Use `L.tileLayer` for map tiles (consider dark mode compatible tiles)
+- Optimize GeoJSON rendering for performance
+- Handle map bounds and zoom levels appropriately
+- Implement smooth transitions between state and DMA views
+
+### Map Features
+- State boundaries clickable with visual feedback
+- Color-coding based on trending topics
+- **Hover Interaction**: On mouseover, display the #1 trending Law and Government topic for that state in a tooltip
+- **Click Interaction**: On click, open a right-hand sidebar panel showing all Law and Government trends for that state, ordered by relevance
+- **Topic Navigation**: Each topic in the sidebar is clickable and links directly to Google News search results for that topic
+- Smooth zoom animation when transitioning to DMA view
+- Back button/control to return to state view
+
+## Error Handling
+- Implement error boundaries for React components
+- Graceful degradation if data fails to load
+- User-friendly error messages
+- Log errors for monitoring (console in dev, error tracking service in prod)
+- Handle network failures with retry logic
+- Validate JSON data structure before rendering
+
+## Testing Requirements
+
+### Test-Driven Development (TDD)
+- **Write tests before or alongside code changes** - Every feature should have corresponding tests
+- **Run tests after every code change** - Verify functionality before committing
+- **Fix failing tests immediately** - Do not commit code with failing tests
+- **Test edge cases** - Include tests for error states, empty data, invalid inputs
+
+### Testing Workflow
+- Run tests locally before committing: `npm test` or `npm run test:watch`
+- Ensure all tests pass before pushing to repository
+- Use test coverage tools to identify untested code paths
+- Aim for meaningful test coverage (focus on critical paths, not just percentage)
+
+### What to Test
+- **Component rendering** - Components render correctly with mock data
+- **User interactions** - Click handlers, hover states, form submissions
+- **State management** - Context updates, state changes, data flow
+- **Utility functions** - Pure functions, data transformations, URL generation
+- **Error handling** - Error boundaries, fallback states, error messages
+- **Theme switching** - Light/dark mode functionality
+- **Responsive behavior** - Mobile vs desktop layouts
+- **Map interactions** - Click, zoom, pan, state selection
+- **Data loading** - Loading states, error states, empty states
+- **Sidebar functionality** - Open, close, topic selection, Google News links
+
+### Testing Tools
+- Use React Testing Library for component testing
+- Use Jest as the test runner
+- Mock external dependencies (map libraries, API calls)
+- Use MSW (Mock Service Worker) for API mocking if needed
+- Test accessibility with @testing-library/jest-dom matchers
+
+### Test File Organization
+- Co-locate test files with components: `Component.test.tsx` or `Component.test.jsx`
+- Create `__tests__` directories for utility function tests
+- Use descriptive test names: `describe('StateMap', () => { it('should display tooltip on hover', ...) })`
+- Group related tests using `describe` blocks
+
+### Continuous Testing
+- Set up pre-commit hooks to run tests (using husky + lint-staged)
+- Configure CI/CD to run tests on every push
+- Fail builds if tests fail
+- Run tests in watch mode during development for immediate feedback
+
+## Deployment & CI/CD
+- Use Vercel for deployment
+- Set up Vercel Cron Jobs or GitHub Actions for daily data updates
+- Automate redeployment after data ingestion completes
+- Use environment variables for API keys and configuration
+- Implement build-time data validation
+
+## Code Quality & Review Standards
+
+### Code Review Process
+- **Review all code changes before merging** - No direct commits to main/master
+- **Request reviews for significant changes** - Get feedback on architecture decisions
+- **Review your own code first** - Self-review before requesting others
+- **Keep PRs small and focused** - One feature or fix per pull request
+- **Provide context in PR descriptions** - Explain what, why, and how
+
+### Code Review Checklist
+When reviewing code, check for:
+- [ ] **Readability** - Code is easy to understand without comments
+- [ ] **Naming** - Variables, functions, and components have descriptive names
+- [ ] **Structure** - Code follows project conventions and file structure
+- [ ] **Functionality** - Code works as intended and handles edge cases
+- [ ] **Performance** - No unnecessary re-renders, efficient algorithms
+- [ ] **Testing** - Tests are included and pass
+- [ ] **Error handling** - Errors are handled gracefully
+- [ ] **Accessibility** - Interactive elements are keyboard accessible
+- [ ] **Responsive** - Works on mobile and desktop
+- [ ] **Theme support** - Works in both light and dark modes
+- [ ] **Design consistency** - Follows minimalistic design principles
+- [ ] **Security** - No security vulnerabilities introduced
+
+### Code Quality Standards
+
+#### Readability
+- **Self-documenting code** - Code should explain itself through clear naming
+- **Clear variable names** - `selectedState` not `s`, `topicList` not `tl`
+- **Descriptive function names** - `handleStateClick` not `handleClick`
+- **Consistent naming patterns** - Follow established conventions
+- **Avoid abbreviations** - Use full words unless abbreviation is standard
+
+#### Code Organization
+- **Single Responsibility Principle** - Each function/component does one thing
+- **Small functions** - Functions should be < 50 lines when possible
+- **Small components** - Components should be < 200 lines when possible
+- **Logical grouping** - Related code should be grouped together
+- **Extract reusable logic** - Don't repeat code, create utilities
+
+#### Complexity Management
+- **Avoid deep nesting** - Maximum 3 levels of nesting
+- **Use early returns** - Reduce nesting with guard clauses
+- **Extract complex logic** - Move complex calculations to separate functions
+- **Break down large functions** - Split into smaller, focused functions
+- **Limit function parameters** - Maximum 3-4 parameters, use objects for more
+
+#### Comments & Documentation
+- **JSDoc for complex functions** - Document parameters, return values, examples
+- **Explain "why" not "what"** - Comments should explain reasoning, not obvious code
+- **Keep comments up to date** - Remove or update outdated comments
+- **Document edge cases** - Explain non-obvious behavior or workarounds
+- **Add TODO comments** - Mark temporary solutions or future improvements
+
+#### Code Smells to Avoid
+- **Magic numbers** - Extract to named constants (`MAX_BORDER_RADIUS = 2`)
+- **Duplicate code** - Extract to reusable functions/components
+- **Long parameter lists** - Use objects or configuration objects
+- **God objects** - Break down large objects into smaller, focused ones
+- **Dead code** - Remove unused imports, functions, variables
+- **Commented-out code** - Delete it, use version control for history
+- **Inconsistent patterns** - Follow established patterns in the codebase
+
+#### Performance Considerations
+- **Avoid unnecessary re-renders** - Use React.memo(), useMemo(), useCallback()
+- **Lazy load heavy components** - Use React.lazy() for code splitting
+- **Optimize expensive calculations** - Memoize with useMemo()
+- **Efficient data structures** - Choose appropriate data structures for operations
+- **Avoid premature optimization** - Optimize when there's a proven need
+
+#### Maintainability
+- **Follow project conventions** - Match existing code style
+- **Consistent formatting** - Use Prettier or similar for consistent formatting
+- **Type safety** - Use TypeScript or PropTypes for type checking
+- **Error handling** - Always handle potential errors
+- **Future-proof code** - Write code that's easy to modify and extend
+
+## Accessibility
+- Ensure all interactive elements are keyboard accessible
+- Provide ARIA labels for map regions
+- Maintain sufficient color contrast (WCAG AA)
+- Support screen readers with proper semantic HTML
+- Test with keyboard navigation only
+
+## Security
+- No sensitive user data collection
+- Sanitize any user inputs (if applicable)
+- Use HTTPS for all data fetching
+- Validate all external data sources
+- Implement proper CORS headers if using API routes
+
+## Performance Targets
+- Initial page load: < 3 seconds
+- Map rendering: < 2 seconds after data load
+- State-to-DMA transition: < 1 second
+- Optimize bundle size (code splitting, tree shaking)
+- Minimize re-renders with proper memoization
+
+## Google News Integration
+- Generate Google News search URLs using the format: `https://news.google.com/search?q={encodedTopic}`
+- URL encode topic names properly
+- Open links in a new tab (`target="_blank"`) with `rel="noopener noreferrer"` for security
+- Handle special characters and spaces in topic names when generating URLs
+- Example: `https://news.google.com/search?q=Election%20Reform`
+
+## Development Workflow
+
+### Before Writing Code
+1. **Understand the requirement** - Clarify what needs to be built
+2. **Plan the approach** - Think about structure before coding
+3. **Consider existing patterns** - Follow established conventions
+4. **Identify edge cases** - Plan for error states and edge cases
+
+### While Writing Code
+1. **Write tests alongside code** - Test-driven or test-alongside development
+2. **Run tests frequently** - Verify changes work as expected
+3. **Check for linting errors** - Fix issues immediately
+4. **Test manually** - Verify in browser (both themes, mobile/desktop)
+5. **Keep commits small** - Commit logical units of work
+
+### After Writing Code
+1. **Run full test suite** - Ensure all tests pass
+2. **Self-review code** - Review your own changes before committing
+3. **Check code quality** - Run linters, formatters, type checkers
+4. **Test in browser** - Verify functionality manually
+5. **Update documentation** - Update comments/docs if needed
+6. **Commit with clear messages** - Write descriptive commit messages
+
+### Code Review Feedback Guidelines
+- **Be constructive** - Focus on improvement, not criticism
+- **Explain why** - Provide reasoning for suggestions
+- **Suggest alternatives** - Offer solutions, not just problems
+- **Approve when ready** - Don't block on minor style preferences
+- **Request changes clearly** - Be specific about what needs to change
+
+### Pre-Commit Checklist
+Before committing code, verify:
+- [ ] All tests pass (`npm test`)
+- [ ] No linting errors (`npm run lint`)
+- [ ] Code is formatted consistently
+- [ ] Manual testing completed (both themes, mobile/desktop)
+- [ ] No console errors or warnings
+- [ ] Code follows project conventions
+- [ ] Comments/documentation updated if needed
+- [ ] No sensitive data committed (check .env files)
+
+## When Writing Code
+- Always consider mobile and desktop layouts
+- Test in both light and dark modes
+- Ensure minimalistic design principles are followed
+- Use serif fonts consistently
+- Keep border radius minimal (≤ 2px)
+- Optimize for performance from the start
+- Handle edge cases and error states
+- Write code that's easy to understand and maintain
+- **Run tests after every change**
+- **Self-review code before committing**
+- **Request code review for significant changes**
+
