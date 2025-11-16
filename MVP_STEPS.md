@@ -248,9 +248,9 @@ This guide outlines the step-by-step process for building the Political Forecast
 ## Phase 11: Version Control & Preparation
 
 ### Step 11.1: Git Setup
-- [ ] Initialize git repository (if not already done)
-- [ ] Create `.gitignore` (exclude node_modules, .env files, build)
-- [ ] Make initial commit
+- [x] Initialize git repository (repository exists)
+- [x] Create `.gitignore` (exclude node_modules, .env files, build)
+- [ ] Make initial commit (pending: uncommitted changes exist)
 - [ ] Create development branch structure (optional)
 
 ### Step 11.2: Environment Configuration
@@ -260,9 +260,9 @@ This guide outlines the step-by-step process for building the Political Forecast
 - [ ] Ensure secrets are not committed
 
 ### Step 11.3: Build Configuration
-- [ ] Configure build script
-- [ ] Test production build locally
-- [ ] Verify build output
+- [x] Configure build script (Vite build configured)
+- [ ] Test production build locally (`npm run build`)
+- [ ] Verify build output (check `dist/` directory)
 - [ ] Check bundle size
 
 ## Phase 12: Vercel Deployment
