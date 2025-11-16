@@ -12,7 +12,7 @@ function App() {
           <div className="app-header-content">
             <div className="app-header-text">
               <h1>Political Forecast</h1>
-              <p>Visualizing trending Law and Government topics across the United States</p>
+              <p className="app-header-subtitle">Where Policy Meets the People: State-by-State Trending Topics</p>
             </div>
             <ThemeToggle />
           </div>

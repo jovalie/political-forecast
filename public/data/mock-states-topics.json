@@ -1200,6 +1200,45 @@
           "category": "Law and Government"
         }
       ]
+    },
+    {
+      "name": "Puerto Rico",
+      "code": "PR",
+      "topTopic": "Cockfighting Legalization Debate",
+      "category": "Law and Government",
+      "trendingScore": 92,
+      "topics": [
+        {
+          "name": "Cockfighting Legalization Debate",
+          "relevanceScore": 92,
+          "category": "Law and Government"
+        },
+        {
+          "name": "Coqui Frog Noise Ordinance",
+          "relevanceScore": 88,
+          "category": "Law and Government"
+        },
+        {
+          "name": "Statehood Referendum Procedures",
+          "relevanceScore": 85,
+          "category": "Law and Government"
+        },
+        {
+          "name": "Pina Colada Happy Hour Regulations",
+          "relevanceScore": 79,
+          "category": "Law and Government"
+        },
+        {
+          "name": "Salsa Music Volume Limits",
+          "relevanceScore": 73,
+          "category": "Law and Government"
+        },
+        {
+          "name": "Beach Access Rights for Iguanas",
+          "relevanceScore": 68,
+          "category": "Law and Government"
+        }
+      ]
     }
   ]
 }

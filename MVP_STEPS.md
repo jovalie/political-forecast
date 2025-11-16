@@ -120,35 +120,39 @@ This guide outlines the step-by-step process for building the Political Forecast
 ### Step 5.1: Connect Topic Data to Map
 - [x] Load state topic data in MapContainer
 - [x] Merge topic data with GeoJSON features
-- [] Update tooltip to display: "#1 Trending in [State]: [Topic]" (e.g., "#1 Trending in California: Hollywood Taxes")
-- [ ] Test tooltip with real topic data
+- [x] Update tooltip to display: "Most Discussed in [State] - [Month Day, Year]" with topic in bold (e.g., "Most Discussed in California - January 15, 2024" with "Surfing Beach Access Rights" in bold)
+- [x] Include timestamp from data in tooltip display
+- [x] Test tooltip with mock topic data
 
 ### Step 5.2: State Details Sidebar
-- [ ] Create `StateDetailsPanel` component
-- [ ] Implement slide-in animation (right side on desktop, bottom on mobile)
-- [ ] Add close button
-- [ ] Implement click-outside-to-close functionality
-- [ ] Make sidebar responsive (full screen on mobile)
-- [ ] Style with minimalistic design (serif font, right angles)
+- [x] Create `StateDetailsPanel` component
+- [x] Implement slide-in animation (right side on desktop, bottom on mobile)
+- [x] Add close button
+- [x] Implement click-outside-to-close functionality
+- [x] Make sidebar responsive (full screen on mobile)
+- [x] Style with minimalistic design (serif font, right angles)
+- [x] Add escape key support to close sidebar
+- [x] Prevent body scroll when sidebar is open
 
 ### Step 5.3: Topic List Component
-- [ ] Create `TopicList` component
-- [ ] Display topics ordered by relevance (highest to lowest)
-- [ ] Show relevance scores
-- [ ] Style with minimalistic design (serif font, right angles)
+- [x] Create `TopicList` component
+- [x] Display topics ordered by relevance (highest to lowest)
+- [x] Show relevance scores
+- [x] Style with minimalistic design (serif font, right angles)
 
 ### Step 5.4: Google News Integration
-- [ ] Create utility function to generate Google News URLs
-- [ ] Implement URL encoding for topic names
-- [ ] Add click handlers to topic items
-- [ ] Open links in new tab with `rel="noopener noreferrer"`
-- [ ] Test Google News link generation
+- [x] Create utility function to generate Google News URLs
+- [x] Implement URL encoding for topic names
+- [x] Add click handlers to topic items
+- [x] Open links in new tab with `rel="noopener noreferrer"`
+- [x] Test Google News link generation
 
 ### Step 5.5: Connect Sidebar to Map
-- [ ] Pass selected state data to sidebar from MapContainer
-- [ ] Update sidebar when state is clicked (use existing `onStateClick` callback)
-- [ ] Handle sidebar state management (open/close)
-- [ ] Test full interaction flow (click state → sidebar opens → click topic → Google News)
+- [x] Pass selected state data to sidebar from MapContainer
+- [x] Update sidebar when state is clicked (use existing `onStateClick` callback)
+- [x] Handle sidebar state management (open/close)
+- [x] Close sidebar when clicking map background
+- [x] Test full interaction flow (click state → sidebar opens → click topic → Google News)
 
 ## Phase 6: Data Visualization & Polish
 
@@ -160,9 +164,11 @@ This guide outlines the step-by-step process for building the Political Forecast
 
 ### Step 6.2: Tooltip Enhancement
 - [x] Tooltip infrastructure complete (shows state name)
-- [ ] Update tooltip to display top topic when data is loaded (see Phase 5.1)
-- [ ] Ensure tooltip styling matches design system
-- [ ] Test tooltip positioning and visibility with topic data
+- [x] Update tooltip to display top topic when data is loaded (see Phase 5.1)
+- [x] Ensure tooltip styling matches design system (serif font, minimalistic design)
+- [x] Implement theme-aware tooltip colors (light/dark mode support)
+- [x] Update tooltip background and text colors dynamically when theme changes
+- [x] Test tooltip positioning and visibility with topic data
 
 ## Phase 7: Unique Topic Mode (Optional for MVP)
 
@@ -439,6 +445,7 @@ npm run lint           # Lint code (if configured)
 - **DMA Data**: DMA-level data can be complex. Consider implementing state-level view first, then adding DMA view in a later phase.
 - **Rate Limiting**: Be mindful of Google Trends rate limits. Implement proper delays and error handling.
 - **Mock Data**: Use mock data liberally during development to avoid hitting rate limits during testing.
+- **Tooltip Implementation**: Tooltips display "Most Discussed in [State] - [Month Day, Year]" format with the topic name in bold. Tooltips are theme-aware and automatically update colors when switching between light and dark modes. Implementation uses CSS variables with dynamic style updates via MutationObserver to ensure tooltips created after theme changes also have correct colors.
 
 ## Troubleshooting
 
@@ -453,17 +460,18 @@ npm run lint           # Lint code (if configured)
 **Current Progress**: 
 - ✅ Phase 1-3: Complete (Setup & Basic UI)
 - ✅ Phase 4: Complete (Data Structure & Mock Data)
-- ⚠️ Phase 5: In Progress (Sidebar & Data Integration - next priority)
-- ❌ Phase 6-8: Pending
+- ✅ Phase 5: Complete (Data Integration & Topic Display - tooltips, sidebar, Google News links)
+- ⚠️ Phase 6: Partially Complete (Tooltip enhancement done, Color coding pending)
+- ❌ Phase 7-8: Pending
 - ❌ Phase 9-16: Pending
 
 **Remaining MVP Timeline**: 
-- Phase 5: 1-2 days (Sidebar & Data Integration)
-- Phase 6: 0.5 days (Visualization polish)
+- ✅ Phase 5: Complete (Sidebar & Data Integration)
+- Phase 6: 0.5 days (Visualization polish - tooltips complete, color coding optional)
 - Phase 8: 2-3 days (Data Ingestion Script)
 - Phase 9: 1 day (Integration & Testing)
 - Phase 10-12: 1-2 days (Deployment)
 - Phase 13-16: 2-3 days (Automation & Launch)
 
-**Total Remaining**: ~1-2 weeks (depending on experience and time availability)
+**Total Remaining**: ~1-1.5 weeks (depending on experience and time availability)
 

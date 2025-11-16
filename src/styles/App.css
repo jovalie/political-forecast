@@ -35,6 +35,10 @@
   color: var(--text-primary);
 }
 
+.app-header-subtitle {
+  font-style: italic;
+}
+
 /* Mobile: Hide subtitle, place toggle next to title */
 @media (max-width: 768px) {
   .app-header-content {

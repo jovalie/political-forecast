@@ -7,7 +7,7 @@ import { generateTooltipText } from '../../utils/tooltipUtils'
 import './StateMap.css'
 
 // Component to handle map clicks (for clearing selected state)
-const MapClickHandler = ({ clickedLayerRef, allLayersRef, geoJsonLayerRef, styleRef, openTooltipLayerRef, isDark }) => {
+const MapClickHandler = ({ clickedLayerRef, allLayersRef, geoJsonLayerRef, styleRef, openTooltipLayerRef, isDark, onMapClick }) => {
   const map = useMap()
 
   useEffect(() => {
@@ -84,6 +84,11 @@ const MapClickHandler = ({ clickedLayerRef, allLayersRef, geoJsonLayerRef, style
         
         // Clear open tooltip reference
         openTooltipLayerRef.current = null
+
+        // Notify parent component (e.g., to close sidebar)
+        if (onMapClick) {
+          onMapClick()
+        }
       }
     }
 
@@ -92,7 +97,7 @@ const MapClickHandler = ({ clickedLayerRef, allLayersRef, geoJsonLayerRef, style
     return () => {
       map.off('click', handleMapClick)
     }
-  }, [map, clickedLayerRef, allLayersRef, geoJsonLayerRef, styleRef, openTooltipLayerRef, isDark])
+  }, [map, clickedLayerRef, allLayersRef, geoJsonLayerRef, styleRef, openTooltipLayerRef, isDark, onMapClick])
 
   return null
 }
@@ -173,7 +178,7 @@ const GeoJSONRenderer = ({ geoJSONDataRef, styleRef, onEachFeatureRef, dataReady
   return null
 }
 
-const StateMap = ({ statesData = null, statesTopicData = null, dataTimestamp = null, onStateClick = null, onStateHover = null }) => {
+const StateMap = ({ statesData = null, statesTopicData = null, dataTimestamp = null, onStateClick = null, onStateHover = null, onMapClick = null }) => {
   const { isDark } = useTheme()
   const [geoJSONData, setGeoJSONData] = useState(null)
   const [loading, setLoading] = useState(true)
@@ -873,6 +878,7 @@ const StateMap = ({ statesData = null, statesTopicData = null, dataTimestamp = n
         styleRef={styleRef}
         openTooltipLayerRef={openTooltipLayerRef}
         isDark={isDark}
+        onMapClick={onMapClick}
       />
     </>
   )

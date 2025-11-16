@@ -2,6 +2,7 @@ import React, { useEffect, useState } from 'react'
 import { MapContainer as LeafletMapContainer, TileLayer, useMap } from 'react-leaflet'
 import { useTheme } from '../ui/ThemeProvider'
 import StateMap from './StateMap'
+import StateDetailsPanel from './StateDetailsPanel'
 import { loadJSONData } from '../../utils/dataUtils'
 import 'leaflet/dist/leaflet.css'
 import './MapContainer.css'
@@ -38,6 +39,8 @@ const MapContainer = () => {
   const [statesTopicData, setStatesTopicData] = useState(null)
   const [dataTimestamp, setDataTimestamp] = useState(null)
   const [loadingTopics, setLoadingTopics] = useState(true)
+  const [selectedState, setSelectedState] = useState(null)
+  const [isSidebarOpen, setIsSidebarOpen] = useState(false)
 
   // Load topic data
   useEffect(() => {
@@ -58,6 +61,53 @@ const MapContainer = () => {
 
     loadTopicData()
   }, [])
+
+  // Handle state click - extract state data and open sidebar
+  const handleStateClick = (feature) => {
+    if (!feature || !feature.properties) {
+      return
+    }
+
+    const { name, topTopic, topics, trendingScore, category } = feature.properties
+
+    // Find the full state data from statesTopicData if available
+    let stateData = null
+    if (statesTopicData && name) {
+      stateData = statesTopicData.find((state) => state.name === name)
+    }
+
+    // Use merged data from feature if state data not found, or merge both
+    const finalStateData = {
+      name: name || 'Unknown State',
+      topTopic: topTopic || stateData?.topTopic || '',
+      topics: topics || stateData?.topics || [],
+      trendingScore: trendingScore || stateData?.trendingScore || 0,
+      category: category || stateData?.category || 'Law and Government',
+    }
+
+    setSelectedState(finalStateData)
+    setIsSidebarOpen(true)
+  }
+
+  // Handle sidebar close
+  const handleSidebarClose = () => {
+    setIsSidebarOpen(false)
+    // Delay clearing state to allow exit animation to complete
+    setTimeout(() => {
+      setSelectedState(null)
+    }, 400) // Match animation duration
+  }
+
+  // Handle map background click - close sidebar
+  const handleMapClick = () => {
+    if (isSidebarOpen) {
+      setIsSidebarOpen(false)
+      // Delay clearing state to allow exit animation to complete
+      setTimeout(() => {
+        setSelectedState(null)
+      }, 400) // Match animation duration
+    }
+  }
 
   // Use Positron (light) for light mode, Dark Matter for dark mode
   const tileUrl = isDark
@@ -84,8 +134,19 @@ const MapContainer = () => {
           key={isDark ? 'dark' : 'light'} // Force re-render when theme changes
         />
         <MapThemeUpdater isDark={isDark} />
-        <StateMap statesTopicData={statesTopicData} dataTimestamp={dataTimestamp} />
+        <StateMap 
+          statesTopicData={statesTopicData} 
+          dataTimestamp={dataTimestamp}
+          onStateClick={handleStateClick}
+          onMapClick={handleMapClick}
+        />
       </LeafletMapContainer>
+      <StateDetailsPanel
+        isOpen={isSidebarOpen}
+        onClose={handleSidebarClose}
+        stateData={selectedState}
+        dataTimestamp={dataTimestamp}
+      />
     </div>
   )
 }
