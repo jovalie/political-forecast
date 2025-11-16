@@ -13,13 +13,19 @@ const MapClickHandler = ({ clickedLayerRef, allLayersRef, geoJsonLayerRef, style
       // Check if the click was on a state layer
       // State clicks will have their propagation stopped, so if we get here and there's a clicked state,
       // it means the click was on the map background
-      // Also check if the click target is actually a state path element
+      // Also check if the click target is actually a state path element or tooltip
       const clickedElement = e.originalEvent.target
       const isStatePath = clickedElement.tagName === 'path' && 
                          clickedElement.closest('.leaflet-overlay-pane svg')
+      const isTooltip = clickedElement.closest('.leaflet-tooltip')
       
-      // If click was not on a state path (clicked on map background), clear selection
-      if (!isStatePath && clickedLayerRef.current) {
+      // Check if click hit a Leaflet layer (e.layer would be set if it did)
+      // Note: State clicks stop propagation, so e.layer might not be set even for state clicks
+      // But if e.layer is set, we definitely clicked on a layer, not the map background
+      const clickedOnLayer = e.layer && e.layer.feature
+      
+      // If click was not on a state path, tooltip, or layer (clicked on map background), clear selection
+      if (!isStatePath && !isTooltip && !clickedOnLayer && clickedLayerRef.current) {
         console.log('[MAP_CLICK] Clicked on map background, clearing selection')
         
         // Get all layers
@@ -32,6 +38,27 @@ const MapClickHandler = ({ clickedLayerRef, allLayersRef, geoJsonLayerRef, style
             return
           }
         }
+        
+        // Close ALL tooltips on all layers (both permanent and non-permanent)
+        allLayers.forEach((layer) => {
+          // Close any open tooltip (safe to call even if tooltip is not open)
+          try {
+            layer.closeTooltip()
+          } catch (err) {
+            // Tooltip might not be open, ignore error
+          }
+          
+          // Unbind and rebind all tooltips as non-permanent to ensure clean state
+          const layerFeature = layer.feature
+          if (layerFeature && layerFeature.properties && layerFeature.properties.name) {
+            layer.unbindTooltip()
+            layer.bindTooltip(layerFeature.properties.name, {
+              permanent: false,
+              direction: 'top',
+              className: 'state-tooltip',
+            })
+          }
+        })
         
         // Restore all states to normal style
         allLayers.forEach((layer) => {
@@ -50,22 +77,8 @@ const MapClickHandler = ({ clickedLayerRef, allLayersRef, geoJsonLayerRef, style
         // Clear clicked layer reference
         clickedLayerRef.current = null
         
-        // Close any permanent tooltip and restore it to non-permanent
-        if (openTooltipLayerRef.current) {
-          const prevLayer = openTooltipLayerRef.current
-          const prevFeature = prevLayer.feature
-          if (prevFeature && prevFeature.properties && prevFeature.properties.name) {
-            prevLayer.closeTooltip()
-            // Rebind with permanent: false
-            prevLayer.unbindTooltip()
-            prevLayer.bindTooltip(prevFeature.properties.name, {
-              permanent: false,
-              direction: 'top',
-              className: 'state-tooltip',
-            })
-          }
-          openTooltipLayerRef.current = null
-        }
+        // Clear open tooltip reference
+        openTooltipLayerRef.current = null
       }
     }
 
