@@ -85,9 +85,9 @@ This guide outlines the step-by-step process for building the Political Forecast
 - [x] Test state boundary rendering
 
 ### Step 3.3: Map Interactions
-- [ ] Implement hover tooltip showing #1 topic
-- [ ] Implement click handler for state selection
-- [ ] Add visual feedback for hover and click states
+- [x] Implement hover tooltip showing #1 topic
+- [x] Implement click handler for state selection
+- [x] Add visual feedback for hover and click states
 - [ ] Test map interactions
 
 ## Phase 4: Data Structure & Mock Data

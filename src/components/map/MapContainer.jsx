@@ -1,7 +1,8 @@
-import React, { useEffect } from 'react'
+import React, { useEffect, useState } from 'react'
 import { MapContainer as LeafletMapContainer, TileLayer, useMap } from 'react-leaflet'
 import { useTheme } from '../ui/ThemeProvider'
 import StateMap from './StateMap'
+import { loadJSONData } from '../../utils/dataUtils'
 import 'leaflet/dist/leaflet.css'
 import './MapContainer.css'
 
@@ -34,6 +35,27 @@ const MapThemeUpdater = ({ isDark }) => {
 
 const MapContainer = () => {
   const { isDark } = useTheme()
+  const [statesTopicData, setStatesTopicData] = useState(null)
+  const [loadingTopics, setLoadingTopics] = useState(true)
+
+  // Load topic data
+  useEffect(() => {
+    const loadTopicData = async () => {
+      try {
+        const data = await loadJSONData('/data/mock-states-topics.json')
+        if (data && data.states) {
+          setStatesTopicData(data.states)
+        }
+      } catch (error) {
+        console.error('Error loading topic data:', error)
+        // Continue without topic data - map will still work
+      } finally {
+        setLoadingTopics(false)
+      }
+    }
+
+    loadTopicData()
+  }, [])
 
   // Use Positron (light) for light mode, Dark Matter for dark mode
   const tileUrl = isDark
@@ -60,7 +82,7 @@ const MapContainer = () => {
           key={isDark ? 'dark' : 'light'} // Force re-render when theme changes
         />
         <MapThemeUpdater isDark={isDark} />
-        <StateMap />
+        <StateMap statesTopicData={statesTopicData} />
       </LeafletMapContainer>
     </div>
   )

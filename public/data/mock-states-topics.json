@@ -1,0 +1,246 @@
+{
+  "timestamp": "2024-01-15T00:00:00Z",
+  "states": [
+    {
+      "name": "California",
+      "code": "CA",
+      "topTopic": "Election Reform",
+      "category": "Law and Government",
+      "trendingScore": 95,
+      "topics": [
+        {
+          "name": "Election Reform",
+          "relevanceScore": 95,
+          "category": "Law and Government"
+        },
+        {
+          "name": "Voting Rights",
+          "relevanceScore": 87,
+          "category": "Law and Government"
+        },
+        {
+          "name": "Campaign Finance",
+          "relevanceScore": 72,
+          "category": "Law and Government"
+        }
+      ]
+    },
+    {
+      "name": "Texas",
+      "code": "TX",
+      "topTopic": "Immigration Policy",
+      "category": "Law and Government",
+      "trendingScore": 92,
+      "topics": [
+        {
+          "name": "Immigration Policy",
+          "relevanceScore": 92,
+          "category": "Law and Government"
+        },
+        {
+          "name": "Border Security",
+          "relevanceScore": 85,
+          "category": "Law and Government"
+        },
+        {
+          "name": "State Legislation",
+          "relevanceScore": 68,
+          "category": "Law and Government"
+        }
+      ]
+    },
+    {
+      "name": "Florida",
+      "code": "FL",
+      "topTopic": "Voting Rights",
+      "category": "Law and Government",
+      "trendingScore": 88,
+      "topics": [
+        {
+          "name": "Voting Rights",
+          "relevanceScore": 88,
+          "category": "Law and Government"
+        },
+        {
+          "name": "Election Security",
+          "relevanceScore": 79,
+          "category": "Law and Government"
+        },
+        {
+          "name": "State Elections",
+          "relevanceScore": 65,
+          "category": "Law and Government"
+        }
+      ]
+    },
+    {
+      "name": "New York",
+      "code": "NY",
+      "topTopic": "Criminal Justice Reform",
+      "category": "Law and Government",
+      "trendingScore": 90,
+      "topics": [
+        {
+          "name": "Criminal Justice Reform",
+          "relevanceScore": 90,
+          "category": "Law and Government"
+        },
+        {
+          "name": "Police Reform",
+          "relevanceScore": 82,
+          "category": "Law and Government"
+        },
+        {
+          "name": "Bail Reform",
+          "relevanceScore": 75,
+          "category": "Law and Government"
+        }
+      ]
+    },
+    {
+      "name": "Illinois",
+      "code": "IL",
+      "topTopic": "Gun Control Legislation",
+      "category": "Law and Government",
+      "trendingScore": 86,
+      "topics": [
+        {
+          "name": "Gun Control Legislation",
+          "relevanceScore": 86,
+          "category": "Law and Government"
+        },
+        {
+          "name": "Second Amendment",
+          "relevanceScore": 78,
+          "category": "Law and Government"
+        },
+        {
+          "name": "Public Safety",
+          "relevanceScore": 71,
+          "category": "Law and Government"
+        }
+      ]
+    },
+    {
+      "name": "Pennsylvania",
+      "code": "PA",
+      "topTopic": "Election Security",
+      "category": "Law and Government",
+      "trendingScore": 83,
+      "topics": [
+        {
+          "name": "Election Security",
+          "relevanceScore": 83,
+          "category": "Law and Government"
+        },
+        {
+          "name": "Voter ID Laws",
+          "relevanceScore": 76,
+          "category": "Law and Government"
+        },
+        {
+          "name": "Election Integrity",
+          "relevanceScore": 69,
+          "category": "Law and Government"
+        }
+      ]
+    },
+    {
+      "name": "Ohio",
+      "code": "OH",
+      "topTopic": "Redistricting",
+      "category": "Law and Government",
+      "trendingScore": 81,
+      "topics": [
+        {
+          "name": "Redistricting",
+          "relevanceScore": 81,
+          "category": "Law and Government"
+        },
+        {
+          "name": "Gerrymandering",
+          "relevanceScore": 74,
+          "category": "Law and Government"
+        },
+        {
+          "name": "Voting Districts",
+          "relevanceScore": 67,
+          "category": "Law and Government"
+        }
+      ]
+    },
+    {
+      "name": "Georgia",
+      "code": "GA",
+      "topTopic": "Election Reform",
+      "category": "Law and Government",
+      "trendingScore": 89,
+      "topics": [
+        {
+          "name": "Election Reform",
+          "relevanceScore": 89,
+          "category": "Law and Government"
+        },
+        {
+          "name": "Voting Access",
+          "relevanceScore": 80,
+          "category": "Law and Government"
+        },
+        {
+          "name": "Election Administration",
+          "relevanceScore": 73,
+          "category": "Law and Government"
+        }
+      ]
+    },
+    {
+      "name": "North Carolina",
+      "code": "NC",
+      "topTopic": "Voting Rights",
+      "category": "Law and Government",
+      "trendingScore": 84,
+      "topics": [
+        {
+          "name": "Voting Rights",
+          "relevanceScore": 84,
+          "category": "Law and Government"
+        },
+        {
+          "name": "Voter Suppression",
+          "relevanceScore": 77,
+          "category": "Law and Government"
+        },
+        {
+          "name": "Election Law",
+          "relevanceScore": 70,
+          "category": "Law and Government"
+        }
+      ]
+    },
+    {
+      "name": "Michigan",
+      "code": "MI",
+      "topTopic": "Election Security",
+      "category": "Law and Government",
+      "trendingScore": 82,
+      "topics": [
+        {
+          "name": "Election Security",
+          "relevanceScore": 82,
+          "category": "Law and Government"
+        },
+        {
+          "name": "Voting Technology",
+          "relevanceScore": 75,
+          "category": "Law and Government"
+        },
+        {
+          "name": "Election Infrastructure",
+          "relevanceScore": 68,
+          "category": "Law and Government"
+        }
+      ]
+    }
+  ]
+}
+

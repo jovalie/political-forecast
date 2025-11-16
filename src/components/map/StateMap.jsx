@@ -2,6 +2,8 @@ import React, { useState, useEffect, useMemo, useCallback, useRef } from 'react'
 import { GeoJSON, useMap } from 'react-leaflet'
 import L from 'leaflet'
 import { useTheme } from '../ui/ThemeProvider'
+import { mergeTopicDataWithGeoJSON } from '../../utils/dataUtils'
+import { generateTooltipText } from '../../utils/tooltipUtils'
 import './StateMap.css'
 
 // Component to handle map clicks (for clearing selected state)
@@ -49,15 +51,18 @@ const MapClickHandler = ({ clickedLayerRef, allLayersRef, geoJsonLayerRef, style
           }
           
           // Unbind and rebind all tooltips as non-permanent to ensure clean state
-          const layerFeature = layer.feature
-          if (layerFeature && layerFeature.properties && layerFeature.properties.name) {
-            layer.unbindTooltip()
-            layer.bindTooltip(layerFeature.properties.name, {
-              permanent: false,
-              direction: 'top',
-              className: 'state-tooltip',
-            })
-          }
+            const layerFeature = layer.feature
+            if (layerFeature) {
+              const tooltipText = generateTooltipText(layerFeature)
+              if (tooltipText) {
+                layer.unbindTooltip()
+                layer.bindTooltip(tooltipText, {
+                  permanent: false,
+                  direction: 'top',
+                  className: 'state-tooltip',
+                })
+              }
+            }
         })
         
         // Restore all states to normal style
@@ -168,16 +173,20 @@ const GeoJSONRenderer = ({ geoJSONDataRef, styleRef, onEachFeatureRef, dataReady
   return null
 }
 
-const StateMap = ({ statesData = null, onStateClick = null, onStateHover = null }) => {
+const StateMap = ({ statesData = null, statesTopicData = null, onStateClick = null, onStateHover = null }) => {
   const { isDark } = useTheme()
   const [geoJSONData, setGeoJSONData] = useState(null)
   const [loading, setLoading] = useState(true)
 
-  // Load GeoJSON data
+  // Load GeoJSON data and merge with topic data
   useEffect(() => {
     // If statesData is provided, use it
     if (statesData) {
-      setGeoJSONData(statesData)
+      // Merge topic data if available
+      const merged = statesTopicData
+        ? mergeTopicDataWithGeoJSON(statesData, statesTopicData)
+        : statesData
+      setGeoJSONData(merged)
       setLoading(false)
       return
     }
@@ -191,7 +200,13 @@ const StateMap = ({ statesData = null, onStateClick = null, onStateHover = null 
         }
         const data = await response.json()
         console.log('GeoJSON loaded:', data.features?.length, 'features')
-        setGeoJSONData(data)
+        
+        // Merge topic data if available
+        const merged = statesTopicData
+          ? mergeTopicDataWithGeoJSON(data, statesTopicData)
+          : data
+        
+        setGeoJSONData(merged)
       } catch (error) {
         console.error('Error loading GeoJSON:', error)
         // Fallback to empty feature collection
@@ -205,7 +220,7 @@ const StateMap = ({ statesData = null, onStateClick = null, onStateHover = null 
     }
 
     loadGeoJSON()
-  }, [statesData])
+  }, [statesData, statesTopicData])
 
   // Style function for state polygons (memoized)
   const getStateStyle = useMemo(() => {
@@ -309,15 +324,18 @@ const StateMap = ({ statesData = null, onStateClick = null, onStateHover = null 
         // Handle previous clicked state's tooltip (if switching states)
         if (prevClickedLayer && prevClickedLayer !== clickedLayer) {
           const prevFeature = prevClickedLayer.feature
-          if (prevFeature && prevFeature.properties && prevFeature.properties.name) {
-            prevClickedLayer.closeTooltip()
-            // Rebind with permanent: false
-            prevClickedLayer.unbindTooltip()
-            prevClickedLayer.bindTooltip(prevFeature.properties.name, {
-              permanent: false,
-              direction: 'top',
-              className: 'state-tooltip',
-            })
+          if (prevFeature) {
+            const prevTooltipText = generateTooltipText(prevFeature)
+            if (prevTooltipText) {
+              prevClickedLayer.closeTooltip()
+              // Rebind with permanent: false
+              prevClickedLayer.unbindTooltip()
+              prevClickedLayer.bindTooltip(prevTooltipText, {
+                permanent: false,
+                direction: 'top',
+                className: 'state-tooltip',
+              })
+            }
           }
         }
         
@@ -326,14 +344,17 @@ const StateMap = ({ statesData = null, onStateClick = null, onStateHover = null 
             prevOpenTooltipLayer !== clickedLayer && 
             prevOpenTooltipLayer !== prevClickedLayer) {
           const prevFeature = prevOpenTooltipLayer.feature
-          if (prevFeature && prevFeature.properties && prevFeature.properties.name) {
-            prevOpenTooltipLayer.closeTooltip()
-            prevOpenTooltipLayer.unbindTooltip()
-            prevOpenTooltipLayer.bindTooltip(prevFeature.properties.name, {
-              permanent: false,
-              direction: 'top',
-              className: 'state-tooltip',
-            })
+          if (prevFeature) {
+            const prevTooltipText = generateTooltipText(prevFeature)
+            if (prevTooltipText) {
+              prevOpenTooltipLayer.closeTooltip()
+              prevOpenTooltipLayer.unbindTooltip()
+              prevOpenTooltipLayer.bindTooltip(prevTooltipText, {
+                permanent: false,
+                direction: 'top',
+                className: 'state-tooltip',
+              })
+            }
           }
         }
         
@@ -341,10 +362,11 @@ const StateMap = ({ statesData = null, onStateClick = null, onStateHover = null 
         openTooltipLayerRef.current = null
         
         // Make clicked state's tooltip permanent
-        if (feature.properties && feature.properties.name) {
+        const tooltipText = generateTooltipText(feature)
+        if (tooltipText) {
           // Unbind current tooltip and rebind with permanent: true
           clickedLayer.unbindTooltip()
-          clickedLayer.bindTooltip(feature.properties.name, {
+          clickedLayer.bindTooltip(tooltipText, {
             permanent: true,
             direction: 'top',
             className: 'state-tooltip',
@@ -364,10 +386,10 @@ const StateMap = ({ statesData = null, onStateClick = null, onStateHover = null 
       },
     })
 
-    // Add state name to popup/tooltip
-    // Note: The GeoJSON uses 'name' property, not 'NAME'
-    if (feature.properties && feature.properties.name) {
-      layer.bindTooltip(feature.properties.name, {
+    // Add tooltip with state name and top topic
+    const tooltipText = generateTooltipText(feature)
+    if (tooltipText) {
+      layer.bindTooltip(tooltipText, {
         permanent: false,
         direction: 'top',
         className: 'state-tooltip',
@@ -434,7 +456,8 @@ const StateMap = ({ statesData = null, onStateClick = null, onStateHover = null 
         hoveredLayerRef.current = currentLayer
 
         // Handle tooltips - don't interfere with permanent tooltip on clicked state
-        if (feature.properties && feature.properties.name) {
+        const tooltipText = generateTooltipText(feature)
+        if (tooltipText) {
           // If hovering over the clicked state, ensure its tooltip is open (it should already be permanent)
           if (currentLayer === clickedLayerRef.current) {
             // Tooltip should already be open and permanent, just ensure it's tracked
@@ -541,7 +564,8 @@ const StateMap = ({ statesData = null, onStateClick = null, onStateHover = null 
         hoveredLayerRef.current = null
 
         // Close this tooltip when mouse leaves, but keep it open if it's the clicked state
-        if (feature.properties && feature.properties.name) {
+        const tooltipText = generateTooltipText(feature)
+        if (tooltipText) {
           // Don't close tooltip if this is the clicked state (it should remain permanent)
           if (currentLayer !== clickedLayerRef.current) {
             currentLayer.closeTooltip()
@@ -598,16 +622,19 @@ const StateMap = ({ statesData = null, onStateClick = null, onStateHover = null 
         
         // Restore clicked state's permanent tooltip
         const clickedFeature = clickedLayerRef.current.feature
-        if (clickedFeature && clickedFeature.properties && clickedFeature.properties.name) {
-          // Rebind with permanent: true
-          clickedLayerRef.current.unbindTooltip()
-          clickedLayerRef.current.bindTooltip(clickedFeature.properties.name, {
-            permanent: true,
-            direction: 'top',
-            className: 'state-tooltip',
-          })
-          clickedLayerRef.current.openTooltip()
-          openTooltipLayerRef.current = clickedLayerRef.current
+        if (clickedFeature) {
+          const tooltipText = generateTooltipText(clickedFeature)
+          if (tooltipText) {
+            // Rebind with permanent: true
+            clickedLayerRef.current.unbindTooltip()
+            clickedLayerRef.current.bindTooltip(tooltipText, {
+              permanent: true,
+              direction: 'top',
+              className: 'state-tooltip',
+            })
+            clickedLayerRef.current.openTooltip()
+            openTooltipLayerRef.current = clickedLayerRef.current
+          }
         }
         
         // Ensure all other states are dimmed
