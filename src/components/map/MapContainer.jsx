@@ -47,11 +47,10 @@ const MapContainer = () => {
         zoom={4}
         minZoom={3}
         maxZoom={10}
-        maxBounds={US_BOUNDS}
-        maxBoundsViscosity={1.0}
         style={{ height: '100%', width: '100%' }}
         zoomControl={true}
         scrollWheelZoom={true}
+        dragging={true}
       >
         <TileLayer
           attribution='&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors &copy; <a href="https://carto.com/attributions">CARTO</a>'

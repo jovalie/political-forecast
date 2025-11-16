@@ -24,6 +24,7 @@ const GeoJSONRenderer = ({ geoJSONDataRef, styleRef, onEachFeatureRef, dataReady
       style: styleRef.current,
       onEachFeature: onEachFeatureRef.current,
       pane: 'overlayPane', // Ensure it's in the overlay pane (above tiles)
+      interactive: true, // Allow interaction with states
     })
 
     // Add to map
