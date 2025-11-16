@@ -392,11 +392,12 @@ Before committing code, verify:
 - [ ] No sensitive data committed (check .env files)
 
 ## Git Commit Messages
-- **Keep commit messages extremely short** - Use concise, single-line messages when possible
-- **Commit messages must be less than 10 words** - Enforce brevity and clarity
+- **Keep commit messages brief yet descriptive** - Use concise, single-line messages when possible
+- **Commit messages must be less than 10 words** - Enforce brevity while maintaining clarity
 - Focus on what changed, not why (unless the why is critical)
-- Examples: "Fix map hover tooltip", "Add theme toggle", "Update cursor rules"
+- Examples: "Fix map hover tooltip", "Add theme toggle", "Update sidebar mobile behavior"
 - Avoid verbose explanations in commit messages - use PR descriptions for details
+- Balance brevity with descriptiveness - messages should clearly indicate what changed
 
 ## When Writing Code
 - Always consider mobile and desktop layouts

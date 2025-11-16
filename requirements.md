@@ -17,7 +17,7 @@
 - **FR2.4**: The system must color-code or label each state by its trending topic
 - **FR2.5**: The system must update state-level data daily
 - **FR2.6**: On mouseover, the system must display the #1 trending Law and Government topic for that state in a tooltip
-- **FR2.7**: On click, the system must open a right-hand sidebar panel showing all Law and Government trends for that state
+- **FR2.7**: On click, the system must open a sidebar panel showing all Law and Government trends for that state (right-hand side on desktop, bottom on mobile)
 - **FR2.8**: Topics in the sidebar must be ordered by relevance (highest to lowest)
 - **FR2.9**: Each topic in the sidebar must be clickable and link to Google News search results for that topic
 
@@ -46,7 +46,7 @@
 - **TR1.4**: The map must be initialized with center coordinates and zoom level optimized for viewing the continental United States (48 states)
 - **TR1.5**: The application must use Plotly.js for data visualization and charting
 - **TR1.6**: The application must be responsive and work on desktop and mobile devices
-- **TR1.7**: The application must implement a slide-in sidebar component for state details
+- **TR1.7**: The application must implement a slide-in sidebar component for state details (slides in from right on desktop, from bottom on mobile)
 - **TR1.8**: The application must generate Google News search URLs for topic links
 
 ### TR2: Data Processing
@@ -87,7 +87,7 @@
 - **UX1.3.3**: The hovered state must have a visually appealing border that works well in both light and dark modes (no harsh square borders)
 - **UX1.3.4**: The contrast between dimmed and non-dimmed states must be significant and clearly visible
 - **UX1.3.5**: Tooltips must be non-persistent by default (only visible on hover), but can become persistent when a state is clicked (see UX1.4.5)
-- **UX1.4**: On click, right-hand sidebar must slide in showing all Law and Government trends for the selected state
+- **UX1.4**: On click, sidebar must slide in showing all Law and Government trends for the selected state (from right on desktop, from bottom on mobile)
 - **UX1.4.1**: When a state is clicked, the dimmed/non-dimmed visual state must be maintained (no default purple highlight box)
 - **UX1.4.2**: The clicked state must remain visually highlighted with the same styling as when hovered
 - **UX1.4.3**: The dimmed/non-dimmed visual state must persist after clicking - when a state is clicked, all other states must remain dimmed and the clicked state must remain highlighted, even when the mouse moves away from the clicked state
@@ -96,7 +96,7 @@
 - **UX1.4.6**: When clicking on a different state, the previous state's persistent label must be removed and the new state's label must become persistent
 - **UX1.4.7**: When clicking on the map background, any persistent state label must be removed
 - **UX1.5**: Sidebar must be dismissible (close button or click outside)
-- **UX1.6**: Sidebar must be responsive and adapt to mobile/desktop layouts
+- **UX1.6**: Sidebar must be responsive and adapt to mobile/desktop layouts (slides from right on desktop, from bottom on mobile)
 
 ### UX2: Navigation
 - **UX2.1**: Users must be able to easily toggle between unique topic mode
