@@ -17,10 +17,21 @@
 }
 
 .leaflet-overlay-pane path {
-  stroke: #666666 !important;
-  stroke-width: 2px !important;
-  fill: #d0d0d0 !important;
-  fill-opacity: 0.7 !important;
+  transition: fill-opacity 0.2s ease, opacity 0.2s ease, stroke-width 0.2s ease;
+}
+
+/* Prevent Leaflet's default click highlight (purple box) */
+.leaflet-interactive {
+  outline: none !important;
+}
+
+.leaflet-interactive:focus {
+  outline: none !important;
+}
+
+/* Prevent any default browser focus styles */
+.leaflet-overlay-pane path:focus {
+  outline: none !important;
 }
 
 /* State tooltip styling */

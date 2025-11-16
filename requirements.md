@@ -82,8 +82,19 @@
 - **UX1.1**: Map must be zoomable and pannable
 - **UX1.2**: States must be clearly clickable with visual feedback
 - **UX1.3**: On hover, tooltip must display the #1 trending Law and Government topic for that state
-- **UX1.3.1**: Only one tooltip must be visible at a time - when hovering over a new state, any previously open tooltip must be closed before the new tooltip appears
+- **UX1.3.1**: Only one tooltip must be visible at a time - when hovering over a new state, any previously open tooltip must be closed before the new tooltip appears (except for persistent tooltips on clicked states)
+- **UX1.3.2**: When a state is hovered, all other states must become dimmed (reduced opacity) to provide visual focus on the hovered state
+- **UX1.3.3**: The hovered state must have a visually appealing border that works well in both light and dark modes (no harsh square borders)
+- **UX1.3.4**: The contrast between dimmed and non-dimmed states must be significant and clearly visible
+- **UX1.3.5**: Tooltips must be non-persistent by default (only visible on hover), but can become persistent when a state is clicked (see UX1.4.5)
 - **UX1.4**: On click, right-hand sidebar must slide in showing all Law and Government trends for the selected state
+- **UX1.4.1**: When a state is clicked, the dimmed/non-dimmed visual state must be maintained (no default purple highlight box)
+- **UX1.4.2**: The clicked state must remain visually highlighted with the same styling as when hovered
+- **UX1.4.3**: The dimmed/non-dimmed visual state must persist after clicking - when a state is clicked, all other states must remain dimmed and the clicked state must remain highlighted, even when the mouse moves away from the clicked state
+- **UX1.4.4**: When clicking on the map background (not on a state), the selection must be cleared - all states must return to their normal (non-dimmed) state
+- **UX1.4.5**: When a state is clicked, the state label (tooltip) must become persistent and remain visible even when the mouse moves away from the state
+- **UX1.4.6**: When clicking on a different state, the previous state's persistent label must be removed and the new state's label must become persistent
+- **UX1.4.7**: When clicking on the map background, any persistent state label must be removed
 - **UX1.5**: Sidebar must be dismissible (close button or click outside)
 - **UX1.6**: Sidebar must be responsive and adapt to mobile/desktop layouts
 
