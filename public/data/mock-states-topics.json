@@ -2,49 +2,193 @@
   "timestamp": "2024-01-15T00:00:00Z",
   "states": [
     {
-      "name": "California",
-      "code": "CA",
-      "topTopic": "Election Reform",
+      "name": "Alabama",
+      "code": "AL",
+      "topTopic": "College Football Regulations",
       "category": "Law and Government",
-      "trendingScore": 95,
+      "trendingScore": 94,
       "topics": [
         {
-          "name": "Election Reform",
-          "relevanceScore": 95,
+          "name": "College Football Regulations",
+          "relevanceScore": 94,
           "category": "Law and Government"
         },
         {
-          "name": "Voting Rights",
+          "name": "Tailgating Laws",
           "relevanceScore": 87,
           "category": "Law and Government"
         },
         {
-          "name": "Campaign Finance",
+          "name": "Stadium Funding",
+          "relevanceScore": 76,
+          "category": "Law and Government"
+        }
+      ]
+    },
+    {
+      "name": "Alaska",
+      "code": "AK",
+      "topTopic": "Moose Crossing Rights",
+      "category": "Law and Government",
+      "trendingScore": 88,
+      "topics": [
+        {
+          "name": "Moose Crossing Rights",
+          "relevanceScore": 88,
+          "category": "Law and Government"
+        },
+        {
+          "name": "Northern Lights Viewing Permits",
+          "relevanceScore": 82,
+          "category": "Law and Government"
+        },
+        {
+          "name": "Permanent Fund Dividends",
+          "relevanceScore": 75,
+          "category": "Law and Government"
+        }
+      ]
+    },
+    {
+      "name": "Arizona",
+      "code": "AZ",
+      "topTopic": "Cactus Protection Laws",
+      "category": "Law and Government",
+      "trendingScore": 91,
+      "topics": [
+        {
+          "name": "Cactus Protection Laws",
+          "relevanceScore": 91,
+          "category": "Law and Government"
+        },
+        {
+          "name": "Heat Wave Emergency Protocols",
+          "relevanceScore": 84,
+          "category": "Law and Government"
+        },
+        {
+          "name": "Desert Water Rights",
+          "relevanceScore": 78,
+          "category": "Law and Government"
+        }
+      ]
+    },
+    {
+      "name": "Arkansas",
+      "code": "AR",
+      "topTopic": "Razorback Mascot Legislation",
+      "category": "Law and Government",
+      "trendingScore": 85,
+      "topics": [
+        {
+          "name": "Razorback Mascot Legislation",
+          "relevanceScore": 85,
+          "category": "Law and Government"
+        },
+        {
+          "name": "Diamond Mining Regulations",
+          "relevanceScore": 79,
+          "category": "Law and Government"
+        },
+        {
+          "name": "Hot Springs Zoning",
           "relevanceScore": 72,
           "category": "Law and Government"
         }
       ]
     },
     {
-      "name": "Texas",
-      "code": "TX",
-      "topTopic": "Immigration Policy",
+      "name": "California",
+      "code": "CA",
+      "topTopic": "Surfing Beach Access Rights",
+      "category": "Law and Government",
+      "trendingScore": 95,
+      "topics": [
+        {
+          "name": "Surfing Beach Access Rights",
+          "relevanceScore": 95,
+          "category": "Law and Government"
+        },
+        {
+          "name": "Tech Company Regulations",
+          "relevanceScore": 89,
+          "category": "Law and Government"
+        },
+        {
+          "name": "Avocado Toast Tax Policy",
+          "relevanceScore": 81,
+          "category": "Law and Government"
+        }
+      ]
+    },
+    {
+      "name": "Colorado",
+      "code": "CO",
+      "topTopic": "Ski Resort Zoning Laws",
+      "category": "Law and Government",
+      "trendingScore": 93,
+      "topics": [
+        {
+          "name": "Ski Resort Zoning Laws",
+          "relevanceScore": 93,
+          "category": "Law and Government"
+        },
+        {
+          "name": "Marijuana Tourism Regulations",
+          "relevanceScore": 86,
+          "category": "Law and Government"
+        },
+        {
+          "name": "Mountain Trail Access",
+          "relevanceScore": 80,
+          "category": "Law and Government"
+        }
+      ]
+    },
+    {
+      "name": "Connecticut",
+      "code": "CT",
+      "topTopic": "Insurance Industry Oversight",
+      "category": "Law and Government",
+      "trendingScore": 87,
+      "topics": [
+        {
+          "name": "Insurance Industry Oversight",
+          "relevanceScore": 87,
+          "category": "Law and Government"
+        },
+        {
+          "name": "Yankee Candle Regulations",
+          "relevanceScore": 80,
+          "category": "Law and Government"
+        },
+        {
+          "name": "Suburb Zoning Laws",
+          "relevanceScore": 74,
+          "category": "Law and Government"
+        }
+      ]
+    },
+    {
+      "name": "Delaware",
+      "code": "DE",
+      "topTopic": "Corporate Incorporation Laws",
       "category": "Law and Government",
       "trendingScore": 92,
       "topics": [
         {
-          "name": "Immigration Policy",
+          "name": "Corporate Incorporation Laws",
           "relevanceScore": 92,
           "category": "Law and Government"
         },
         {
-          "name": "Border Security",
+          "name": "Tax Haven Regulations",
           "relevanceScore": 85,
           "category": "Law and Government"
         },
         {
-          "name": "State Legislation",
-          "relevanceScore": 68,
+          "name": "Chicken Industry Standards",
+          "relevanceScore": 77,
           "category": "Law and Government"
         }
       ]
@@ -52,119 +196,23 @@
     {
       "name": "Florida",
       "code": "FL",
-      "topTopic": "Voting Rights",
+      "topTopic": "Alligator Crossing Ordinances",
       "category": "Law and Government",
-      "trendingScore": 88,
+      "trendingScore": 96,
       "topics": [
         {
-          "name": "Voting Rights",
-          "relevanceScore": 88,
+          "name": "Alligator Crossing Ordinances",
+          "relevanceScore": 96,
           "category": "Law and Government"
         },
         {
-          "name": "Election Security",
-          "relevanceScore": 79,
-          "category": "Law and Government"
-        },
-        {
-          "name": "State Elections",
-          "relevanceScore": 65,
-          "category": "Law and Government"
-        }
-      ]
-    },
-    {
-      "name": "New York",
-      "code": "NY",
-      "topTopic": "Criminal Justice Reform",
-      "category": "Law and Government",
-      "trendingScore": 90,
-      "topics": [
-        {
-          "name": "Criminal Justice Reform",
+          "name": "Retirement Community Regulations",
           "relevanceScore": 90,
           "category": "Law and Government"
         },
         {
-          "name": "Police Reform",
-          "relevanceScore": 82,
-          "category": "Law and Government"
-        },
-        {
-          "name": "Bail Reform",
-          "relevanceScore": 75,
-          "category": "Law and Government"
-        }
-      ]
-    },
-    {
-      "name": "Illinois",
-      "code": "IL",
-      "topTopic": "Gun Control Legislation",
-      "category": "Law and Government",
-      "trendingScore": 86,
-      "topics": [
-        {
-          "name": "Gun Control Legislation",
-          "relevanceScore": 86,
-          "category": "Law and Government"
-        },
-        {
-          "name": "Second Amendment",
-          "relevanceScore": 78,
-          "category": "Law and Government"
-        },
-        {
-          "name": "Public Safety",
-          "relevanceScore": 71,
-          "category": "Law and Government"
-        }
-      ]
-    },
-    {
-      "name": "Pennsylvania",
-      "code": "PA",
-      "topTopic": "Election Security",
-      "category": "Law and Government",
-      "trendingScore": 83,
-      "topics": [
-        {
-          "name": "Election Security",
+          "name": "Theme Park Safety Standards",
           "relevanceScore": 83,
-          "category": "Law and Government"
-        },
-        {
-          "name": "Voter ID Laws",
-          "relevanceScore": 76,
-          "category": "Law and Government"
-        },
-        {
-          "name": "Election Integrity",
-          "relevanceScore": 69,
-          "category": "Law and Government"
-        }
-      ]
-    },
-    {
-      "name": "Ohio",
-      "code": "OH",
-      "topTopic": "Redistricting",
-      "category": "Law and Government",
-      "trendingScore": 81,
-      "topics": [
-        {
-          "name": "Redistricting",
-          "relevanceScore": 81,
-          "category": "Law and Government"
-        },
-        {
-          "name": "Gerrymandering",
-          "relevanceScore": 74,
-          "category": "Law and Government"
-        },
-        {
-          "name": "Voting Districts",
-          "relevanceScore": 67,
           "category": "Law and Government"
         }
       ]
@@ -172,47 +220,287 @@
     {
       "name": "Georgia",
       "code": "GA",
-      "topTopic": "Election Reform",
+      "topTopic": "Peach Industry Regulations",
       "category": "Law and Government",
       "trendingScore": 89,
       "topics": [
         {
-          "name": "Election Reform",
+          "name": "Peach Industry Regulations",
           "relevanceScore": 89,
           "category": "Law and Government"
         },
         {
-          "name": "Voting Access",
-          "relevanceScore": 80,
+          "name": "Peach State Branding Laws",
+          "relevanceScore": 82,
           "category": "Law and Government"
         },
         {
-          "name": "Election Administration",
-          "relevanceScore": 73,
+          "name": "Peach Festival Permits",
+          "relevanceScore": 75,
           "category": "Law and Government"
         }
       ]
     },
     {
-      "name": "North Carolina",
-      "code": "NC",
-      "topTopic": "Voting Rights",
+      "name": "Hawaii",
+      "code": "HI",
+      "topTopic": "Pineapple Export Regulations",
       "category": "Law and Government",
-      "trendingScore": 84,
+      "trendingScore": 88,
       "topics": [
         {
-          "name": "Voting Rights",
+          "name": "Pineapple Export Regulations",
+          "relevanceScore": 88,
+          "category": "Law and Government"
+        },
+        {
+          "name": "Volcano Evacuation Protocols",
+          "relevanceScore": 81,
+          "category": "Law and Government"
+        },
+        {
+          "name": "Luau Business Licensing",
+          "relevanceScore": 74,
+          "category": "Law and Government"
+        }
+      ]
+    },
+    {
+      "name": "Idaho",
+      "code": "ID",
+      "topTopic": "Potato Quality Standards",
+      "category": "Law and Government",
+      "trendingScore": 97,
+      "topics": [
+        {
+          "name": "Potato Quality Standards",
+          "relevanceScore": 97,
+          "category": "Law and Government"
+        },
+        {
+          "name": "Famous Potatoes Trademark",
+          "relevanceScore": 90,
+          "category": "Law and Government"
+        },
+        {
+          "name": "Potato Festival Regulations",
+          "relevanceScore": 83,
+          "category": "Law and Government"
+        }
+      ]
+    },
+    {
+      "name": "Illinois",
+      "code": "IL",
+      "topTopic": "Deep Dish Pizza Standards",
+      "category": "Law and Government",
+      "trendingScore": 86,
+      "topics": [
+        {
+          "name": "Deep Dish Pizza Standards",
+          "relevanceScore": 86,
+          "category": "Law and Government"
+        },
+        {
+          "name": "Chicago Style Hot Dog Laws",
+          "relevanceScore": 79,
+          "category": "Law and Government"
+        },
+        {
+          "name": "Windy City Zoning",
+          "relevanceScore": 72,
+          "category": "Law and Government"
+        }
+      ]
+    },
+    {
+      "name": "Indiana",
+      "code": "IN",
+      "topTopic": "Racing Track Regulations",
+      "category": "Law and Government",
+      "trendingScore": 91,
+      "topics": [
+        {
+          "name": "Racing Track Regulations",
+          "relevanceScore": 91,
+          "category": "Law and Government"
+        },
+        {
+          "name": "Corn Maze Safety Standards",
           "relevanceScore": 84,
           "category": "Law and Government"
         },
         {
-          "name": "Voter Suppression",
+          "name": "Hoosier Heritage Protection",
           "relevanceScore": 77,
+          "category": "Law and Government"
+        }
+      ]
+    },
+    {
+      "name": "Iowa",
+      "code": "IA",
+      "topTopic": "Corn Production Subsidies",
+      "category": "Law and Government",
+      "trendingScore": 94,
+      "topics": [
+        {
+          "name": "Corn Production Subsidies",
+          "relevanceScore": 94,
           "category": "Law and Government"
         },
         {
-          "name": "Election Law",
-          "relevanceScore": 70,
+          "name": "State Fair Regulations",
+          "relevanceScore": 87,
+          "category": "Law and Government"
+        },
+        {
+          "name": "Corn Palace Preservation",
+          "relevanceScore": 80,
+          "category": "Law and Government"
+        }
+      ]
+    },
+    {
+      "name": "Kansas",
+      "code": "KS",
+      "topTopic": "Tornado Shelter Requirements",
+      "category": "Law and Government",
+      "trendingScore": 89,
+      "topics": [
+        {
+          "name": "Tornado Shelter Requirements",
+          "relevanceScore": 89,
+          "category": "Law and Government"
+        },
+        {
+          "name": "Wheat Export Regulations",
+          "relevanceScore": 82,
+          "category": "Law and Government"
+        },
+        {
+          "name": "Dorothy's House Zoning",
+          "relevanceScore": 75,
+          "category": "Law and Government"
+        }
+      ]
+    },
+    {
+      "name": "Kentucky",
+      "code": "KY",
+      "topTopic": "Bourbon Distillery Laws",
+      "category": "Law and Government",
+      "trendingScore": 95,
+      "topics": [
+        {
+          "name": "Bourbon Distillery Laws",
+          "relevanceScore": 95,
+          "category": "Law and Government"
+        },
+        {
+          "name": "Horse Racing Regulations",
+          "relevanceScore": 88,
+          "category": "Law and Government"
+        },
+        {
+          "name": "Derby Day Ordinances",
+          "relevanceScore": 81,
+          "category": "Law and Government"
+        }
+      ]
+    },
+    {
+      "name": "Louisiana",
+      "code": "LA",
+      "topTopic": "Crawfish Season Regulations",
+      "category": "Law and Government",
+      "trendingScore": 93,
+      "topics": [
+        {
+          "name": "Crawfish Season Regulations",
+          "relevanceScore": 93,
+          "category": "Law and Government"
+        },
+        {
+          "name": "Mardi Gras Parade Permits",
+          "relevanceScore": 86,
+          "category": "Law and Government"
+        },
+        {
+          "name": "Jazz Festival Licensing",
+          "relevanceScore": 79,
+          "category": "Law and Government"
+        }
+      ]
+    },
+    {
+      "name": "Maine",
+      "code": "ME",
+      "topTopic": "Lobster Trap Regulations",
+      "category": "Law and Government",
+      "trendingScore": 92,
+      "topics": [
+        {
+          "name": "Lobster Trap Regulations",
+          "relevanceScore": 92,
+          "category": "Law and Government"
+        },
+        {
+          "name": "Lighthouse Preservation Laws",
+          "relevanceScore": 85,
+          "category": "Law and Government"
+        },
+        {
+          "name": "Lobster Roll Standards",
+          "relevanceScore": 78,
+          "category": "Law and Government"
+        }
+      ]
+    },
+    {
+      "name": "Maryland",
+      "code": "MD",
+      "topTopic": "Crab Industry Regulations",
+      "category": "Law and Government",
+      "trendingScore": 88,
+      "topics": [
+        {
+          "name": "Crab Industry Regulations",
+          "relevanceScore": 88,
+          "category": "Law and Government"
+        },
+        {
+          "name": "Old Bay Seasoning Standards",
+          "relevanceScore": 81,
+          "category": "Law and Government"
+        },
+        {
+          "name": "Crab Cake Authenticity Laws",
+          "relevanceScore": 74,
+          "category": "Law and Government"
+        }
+      ]
+    },
+    {
+      "name": "Massachusetts",
+      "code": "MA",
+      "topTopic": "Tea Party Historical Preservation",
+      "category": "Law and Government",
+      "trendingScore": 90,
+      "topics": [
+        {
+          "name": "Tea Party Historical Preservation",
+          "relevanceScore": 90,
+          "category": "Law and Government"
+        },
+        {
+          "name": "Clam Chowder Authenticity",
+          "relevanceScore": 83,
+          "category": "Law and Government"
+        },
+        {
+          "name": "Harvard Square Zoning",
+          "relevanceScore": 76,
           "category": "Law and Government"
         }
       ]
@@ -220,27 +508,698 @@
     {
       "name": "Michigan",
       "code": "MI",
-      "topTopic": "Election Security",
+      "topTopic": "Automotive Industry Regulations",
       "category": "Law and Government",
-      "trendingScore": 82,
+      "trendingScore": 91,
       "topics": [
         {
-          "name": "Election Security",
+          "name": "Automotive Industry Regulations",
+          "relevanceScore": 91,
+          "category": "Law and Government"
+        },
+        {
+          "name": "Great Lakes Protection",
+          "relevanceScore": 84,
+          "category": "Law and Government"
+        },
+        {
+          "name": "Cherry Festival Permits",
+          "relevanceScore": 77,
+          "category": "Law and Government"
+        }
+      ]
+    },
+    {
+      "name": "Minnesota",
+      "code": "MN",
+      "topTopic": "Hotdish Standards",
+      "category": "Law and Government",
+      "trendingScore": 87,
+      "topics": [
+        {
+          "name": "Hotdish Standards",
+          "relevanceScore": 87,
+          "category": "Law and Government"
+        },
+        {
+          "name": "10,000 Lakes Protection",
+          "relevanceScore": 80,
+          "category": "Law and Government"
+        },
+        {
+          "name": "Mall of America Regulations",
+          "relevanceScore": 73,
+          "category": "Law and Government"
+        }
+      ]
+    },
+    {
+      "name": "Mississippi",
+      "code": "MS",
+      "topTopic": "Blues Music Heritage Protection",
+      "category": "Law and Government",
+      "trendingScore": 85,
+      "topics": [
+        {
+          "name": "Blues Music Heritage Protection",
+          "relevanceScore": 85,
+          "category": "Law and Government"
+        },
+        {
+          "name": "Catfish Farming Regulations",
+          "relevanceScore": 78,
+          "category": "Law and Government"
+        },
+        {
+          "name": "River Navigation Rights",
+          "relevanceScore": 71,
+          "category": "Law and Government"
+        }
+      ]
+    },
+    {
+      "name": "Missouri",
+      "code": "MO",
+      "topTopic": "BBQ Sauce Authenticity Laws",
+      "category": "Law and Government",
+      "trendingScore": 92,
+      "topics": [
+        {
+          "name": "BBQ Sauce Authenticity Laws",
+          "relevanceScore": 92,
+          "category": "Law and Government"
+        },
+        {
+          "name": "Gateway Arch Preservation",
+          "relevanceScore": 85,
+          "category": "Law and Government"
+        },
+        {
+          "name": "Show-Me State Regulations",
+          "relevanceScore": 78,
+          "category": "Law and Government"
+        }
+      ]
+    },
+    {
+      "name": "Montana",
+      "code": "MT",
+      "topTopic": "Big Sky Zoning Laws",
+      "category": "Law and Government",
+      "trendingScore": 86,
+      "topics": [
+        {
+          "name": "Big Sky Zoning Laws",
+          "relevanceScore": 86,
+          "category": "Law and Government"
+        },
+        {
+          "name": "Grizzly Bear Protection",
+          "relevanceScore": 79,
+          "category": "Law and Government"
+        },
+        {
+          "name": "Ranch Land Preservation",
+          "relevanceScore": 72,
+          "category": "Law and Government"
+        }
+      ]
+    },
+    {
+      "name": "Nebraska",
+      "code": "NE",
+      "topTopic": "Cornhusker Trademark Protection",
+      "category": "Law and Government",
+      "trendingScore": 88,
+      "topics": [
+        {
+          "name": "Cornhusker Trademark Protection",
+          "relevanceScore": 88,
+          "category": "Law and Government"
+        },
+        {
+          "name": "Corn Production Standards",
+          "relevanceScore": 81,
+          "category": "Law and Government"
+        },
+        {
+          "name": "College Football Regulations",
+          "relevanceScore": 74,
+          "category": "Law and Government"
+        }
+      ]
+    },
+    {
+      "name": "Nevada",
+      "code": "NV",
+      "topTopic": "Casino Regulation Laws",
+      "category": "Law and Government",
+      "trendingScore": 96,
+      "topics": [
+        {
+          "name": "Casino Regulation Laws",
+          "relevanceScore": 96,
+          "category": "Law and Government"
+        },
+        {
+          "name": "Las Vegas Strip Zoning",
+          "relevanceScore": 89,
+          "category": "Law and Government"
+        },
+        {
+          "name": "Quick Marriage License Laws",
+          "relevanceScore": 82,
+          "category": "Law and Government"
+        }
+      ]
+    },
+    {
+      "name": "New Hampshire",
+      "code": "NH",
+      "topTopic": "Maple Syrup Standards",
+      "category": "Law and Government",
+      "trendingScore": 84,
+      "topics": [
+        {
+          "name": "Maple Syrup Standards",
+          "relevanceScore": 84,
+          "category": "Law and Government"
+        },
+        {
+          "name": "First Primary Regulations",
+          "relevanceScore": 77,
+          "category": "Law and Government"
+        },
+        {
+          "name": "Live Free or Die Trademark",
+          "relevanceScore": 70,
+          "category": "Law and Government"
+        }
+      ]
+    },
+    {
+      "name": "New Jersey",
+      "code": "NJ",
+      "topTopic": "Turnpike Toll Regulations",
+      "category": "Law and Government",
+      "trendingScore": 89,
+      "topics": [
+        {
+          "name": "Turnpike Toll Regulations",
+          "relevanceScore": 89,
+          "category": "Law and Government"
+        },
+        {
+          "name": "Diner Health Standards",
           "relevanceScore": 82,
           "category": "Law and Government"
         },
         {
-          "name": "Voting Technology",
+          "name": "Jersey Shore Zoning",
           "relevanceScore": 75,
+          "category": "Law and Government"
+        }
+      ]
+    },
+    {
+      "name": "New Mexico",
+      "code": "NM",
+      "topTopic": "Chile Pepper Standards",
+      "category": "Law and Government",
+      "trendingScore": 91,
+      "topics": [
+        {
+          "name": "Chile Pepper Standards",
+          "relevanceScore": 91,
           "category": "Law and Government"
         },
         {
-          "name": "Election Infrastructure",
-          "relevanceScore": 68,
+          "name": "Hot Air Balloon Regulations",
+          "relevanceScore": 84,
+          "category": "Law and Government"
+        },
+        {
+          "name": "Breaking Bad Tourism Laws",
+          "relevanceScore": 77,
+          "category": "Law and Government"
+        }
+      ]
+    },
+    {
+      "name": "New York",
+      "code": "NY",
+      "topTopic": "Pizza Slice Size Regulations",
+      "category": "Law and Government",
+      "trendingScore": 94,
+      "topics": [
+        {
+          "name": "Pizza Slice Size Regulations",
+          "relevanceScore": 94,
+          "category": "Law and Government"
+        },
+        {
+          "name": "Subway System Regulations",
+          "relevanceScore": 87,
+          "category": "Law and Government"
+        },
+        {
+          "name": "Broadway Theater Licensing",
+          "relevanceScore": 80,
+          "category": "Law and Government"
+        }
+      ]
+    },
+    {
+      "name": "North Carolina",
+      "code": "NC",
+      "topTopic": "BBQ Style Authenticity",
+      "category": "Law and Government",
+      "trendingScore": 90,
+      "topics": [
+        {
+          "name": "BBQ Style Authenticity",
+          "relevanceScore": 90,
+          "category": "Law and Government"
+        },
+        {
+          "name": "Tobacco Industry Regulations",
+          "relevanceScore": 83,
+          "category": "Law and Government"
+        },
+        {
+          "name": "Wright Brothers Memorial Protection",
+          "relevanceScore": 76,
+          "category": "Law and Government"
+        }
+      ]
+    },
+    {
+      "name": "North Dakota",
+      "code": "ND",
+      "topTopic": "Oil Pipeline Regulations",
+      "category": "Law and Government",
+      "trendingScore": 87,
+      "topics": [
+        {
+          "name": "Oil Pipeline Regulations",
+          "relevanceScore": 87,
+          "category": "Law and Government"
+        },
+        {
+          "name": "Cold Weather Emergency Protocols",
+          "relevanceScore": 80,
+          "category": "Law and Government"
+        },
+        {
+          "name": "Fargo Movie Tourism Laws",
+          "relevanceScore": 73,
+          "category": "Law and Government"
+        }
+      ]
+    },
+    {
+      "name": "Ohio",
+      "code": "OH",
+      "topTopic": "Buckeye Candy Standards",
+      "category": "Law and Government",
+      "trendingScore": 88,
+      "topics": [
+        {
+          "name": "Buckeye Candy Standards",
+          "relevanceScore": 88,
+          "category": "Law and Government"
+        },
+        {
+          "name": "Rock and Roll Hall of Fame Regulations",
+          "relevanceScore": 81,
+          "category": "Law and Government"
+        },
+        {
+          "name": "College Football Regulations",
+          "relevanceScore": 74,
+          "category": "Law and Government"
+        }
+      ]
+    },
+    {
+      "name": "Oklahoma",
+      "code": "OK",
+      "topTopic": "Tornado Shelter Mandates",
+      "category": "Law and Government",
+      "trendingScore": 92,
+      "topics": [
+        {
+          "name": "Tornado Shelter Mandates",
+          "relevanceScore": 92,
+          "category": "Law and Government"
+        },
+        {
+          "name": "Oil Industry Regulations",
+          "relevanceScore": 85,
+          "category": "Law and Government"
+        },
+        {
+          "name": "Route 66 Preservation",
+          "relevanceScore": 78,
+          "category": "Law and Government"
+        }
+      ]
+    },
+    {
+      "name": "Oregon",
+      "code": "OR",
+      "topTopic": "Coffee Shop Regulations",
+      "category": "Law and Government",
+      "trendingScore": 89,
+      "topics": [
+        {
+          "name": "Coffee Shop Regulations",
+          "relevanceScore": 89,
+          "category": "Law and Government"
+        },
+        {
+          "name": "Rain Tax Proposals",
+          "relevanceScore": 82,
+          "category": "Law and Government"
+        },
+        {
+          "name": "Keep Portland Weird Ordinances",
+          "relevanceScore": 75,
+          "category": "Law and Government"
+        }
+      ]
+    },
+    {
+      "name": "Pennsylvania",
+      "code": "PA",
+      "topTopic": "Cheesesteak Authenticity Laws",
+      "category": "Law and Government",
+      "trendingScore": 93,
+      "topics": [
+        {
+          "name": "Cheesesteak Authenticity Laws",
+          "relevanceScore": 93,
+          "category": "Law and Government"
+        },
+        {
+          "name": "Steel Industry Regulations",
+          "relevanceScore": 86,
+          "category": "Law and Government"
+        },
+        {
+          "name": "Liberty Bell Protection",
+          "relevanceScore": 79,
+          "category": "Law and Government"
+        }
+      ]
+    },
+    {
+      "name": "Rhode Island",
+      "code": "RI",
+      "topTopic": "Smallest State Regulations",
+      "category": "Law and Government",
+      "trendingScore": 83,
+      "topics": [
+        {
+          "name": "Smallest State Regulations",
+          "relevanceScore": 83,
+          "category": "Law and Government"
+        },
+        {
+          "name": "Coffee Milk Standards",
+          "relevanceScore": 76,
+          "category": "Law and Government"
+        },
+        {
+          "name": "Newport Mansions Preservation",
+          "relevanceScore": 69,
+          "category": "Law and Government"
+        }
+      ]
+    },
+    {
+      "name": "South Carolina",
+      "code": "SC",
+      "topTopic": "Sweet Tea Standards",
+      "category": "Law and Government",
+      "trendingScore": 91,
+      "topics": [
+        {
+          "name": "Sweet Tea Standards",
+          "relevanceScore": 91,
+          "category": "Law and Government"
+        },
+        {
+          "name": "Palmetto Tree Protection",
+          "relevanceScore": 84,
+          "category": "Law and Government"
+        },
+        {
+          "name": "Beach Access Rights",
+          "relevanceScore": 77,
+          "category": "Law and Government"
+        }
+      ]
+    },
+    {
+      "name": "South Dakota",
+      "code": "SD",
+      "topTopic": "Mount Rushmore Preservation",
+      "category": "Law and Government",
+      "trendingScore": 90,
+      "topics": [
+        {
+          "name": "Mount Rushmore Preservation",
+          "relevanceScore": 90,
+          "category": "Law and Government"
+        },
+        {
+          "name": "Wall Drug Advertising Laws",
+          "relevanceScore": 83,
+          "category": "Law and Government"
+        },
+        {
+          "name": "Sturgis Rally Regulations",
+          "relevanceScore": 76,
+          "category": "Law and Government"
+        }
+      ]
+    },
+    {
+      "name": "Tennessee",
+      "code": "TN",
+      "topTopic": "Music City Regulations",
+      "category": "Law and Government",
+      "trendingScore": 94,
+      "topics": [
+        {
+          "name": "Music City Regulations",
+          "relevanceScore": 94,
+          "category": "Law and Government"
+        },
+        {
+          "name": "Whiskey Distillery Laws",
+          "relevanceScore": 87,
+          "category": "Law and Government"
+        },
+        {
+          "name": "Graceland Preservation",
+          "relevanceScore": 80,
+          "category": "Law and Government"
+        }
+      ]
+    },
+    {
+      "name": "Texas",
+      "code": "TX",
+      "topTopic": "Everything is Bigger Laws",
+      "category": "Law and Government",
+      "trendingScore": 98,
+      "topics": [
+        {
+          "name": "Everything is Bigger Laws",
+          "relevanceScore": 98,
+          "category": "Law and Government"
+        },
+        {
+          "name": "BBQ Authenticity Standards",
+          "relevanceScore": 91,
+          "category": "Law and Government"
+        },
+        {
+          "name": "Oil Industry Regulations",
+          "relevanceScore": 84,
+          "category": "Law and Government"
+        }
+      ]
+    },
+    {
+      "name": "Utah",
+      "code": "UT",
+      "topTopic": "National Park Protection",
+      "category": "Law and Government",
+      "trendingScore": 92,
+      "topics": [
+        {
+          "name": "National Park Protection",
+          "relevanceScore": 92,
+          "category": "Law and Government"
+        },
+        {
+          "name": "Ski Resort Regulations",
+          "relevanceScore": 85,
+          "category": "Law and Government"
+        },
+        {
+          "name": "Jell-O Consumption Standards",
+          "relevanceScore": 78,
+          "category": "Law and Government"
+        }
+      ]
+    },
+    {
+      "name": "Vermont",
+      "code": "VT",
+      "topTopic": "Maple Syrup Quality Standards",
+      "category": "Law and Government",
+      "trendingScore": 95,
+      "topics": [
+        {
+          "name": "Maple Syrup Quality Standards",
+          "relevanceScore": 95,
+          "category": "Law and Government"
+        },
+        {
+          "name": "Ben & Jerry's Regulations",
+          "relevanceScore": 88,
+          "category": "Law and Government"
+        },
+        {
+          "name": "Bernie Sanders Day Proclamations",
+          "relevanceScore": 81,
+          "category": "Law and Government"
+        }
+      ]
+    },
+    {
+      "name": "Virginia",
+      "code": "VA",
+      "topTopic": "Historical Site Preservation",
+      "category": "Law and Government",
+      "trendingScore": 89,
+      "topics": [
+        {
+          "name": "Historical Site Preservation",
+          "relevanceScore": 89,
+          "category": "Law and Government"
+        },
+        {
+          "name": "Ham Industry Regulations",
+          "relevanceScore": 82,
+          "category": "Law and Government"
+        },
+        {
+          "name": "Peanut Standards",
+          "relevanceScore": 75,
+          "category": "Law and Government"
+        }
+      ]
+    },
+    {
+      "name": "Washington",
+      "code": "WA",
+      "topTopic": "Coffee Shop Zoning Laws",
+      "category": "Law and Government",
+      "trendingScore": 93,
+      "topics": [
+        {
+          "name": "Coffee Shop Zoning Laws",
+          "relevanceScore": 93,
+          "category": "Law and Government"
+        },
+        {
+          "name": "Tech Company Regulations",
+          "relevanceScore": 86,
+          "category": "Law and Government"
+        },
+        {
+          "name": "Rain Tax Proposals",
+          "relevanceScore": 79,
+          "category": "Law and Government"
+        }
+      ]
+    },
+    {
+      "name": "West Virginia",
+      "code": "WV",
+      "topTopic": "Coal Industry Regulations",
+      "category": "Law and Government",
+      "trendingScore": 88,
+      "topics": [
+        {
+          "name": "Coal Industry Regulations",
+          "relevanceScore": 88,
+          "category": "Law and Government"
+        },
+        {
+          "name": "Mountain Top Removal Laws",
+          "relevanceScore": 81,
+          "category": "Law and Government"
+        },
+        {
+          "name": "Country Roads Preservation",
+          "relevanceScore": 74,
+          "category": "Law and Government"
+        }
+      ]
+    },
+    {
+      "name": "Wisconsin",
+      "code": "WI",
+      "topTopic": "Cheese Quality Standards",
+      "category": "Law and Government",
+      "trendingScore": 96,
+      "topics": [
+        {
+          "name": "Cheese Quality Standards",
+          "relevanceScore": 96,
+          "category": "Law and Government"
+        },
+        {
+          "name": "Beer Industry Regulations",
+          "relevanceScore": 89,
+          "category": "Law and Government"
+        },
+        {
+          "name": "Packers Fan Protection Laws",
+          "relevanceScore": 82,
+          "category": "Law and Government"
+        }
+      ]
+    },
+    {
+      "name": "Wyoming",
+      "code": "WY",
+      "topTopic": "Cowboy Heritage Protection",
+      "category": "Law and Government",
+      "trendingScore": 85,
+      "topics": [
+        {
+          "name": "Cowboy Heritage Protection",
+          "relevanceScore": 85,
+          "category": "Law and Government"
+        },
+        {
+          "name": "Yellowstone Protection Laws",
+          "relevanceScore": 78,
+          "category": "Law and Government"
+        },
+        {
+          "name": "Rodeo Regulations",
+          "relevanceScore": 71,
           "category": "Law and Government"
         }
       ]
     }
   ]
 }
-
