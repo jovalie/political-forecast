@@ -93,66 +93,76 @@ This guide outlines the step-by-step process for building the Political Forecast
 ## Phase 4: Data Structure & Mock Data
 
 ### Step 4.1: Define Data Types
-- [ ] Create TypeScript interfaces/types (or PropTypes) for:
+- [x] Create TypeScript interfaces/types (or PropTypes) for:
   - State data structure
   - Topic data structure
   - DMA data structure
-- [ ] Document data schema
+- [x] Document data schema
 
 ### Step 4.2: Create Mock Data
-- [ ] Create sample JSON file with mock state data:
+- [x] Create sample JSON file with mock state data:
   - Include 5-10 states for testing
   - Include topics array with relevance scores
   - Follow the defined data structure
-- [ ] Create sample DMA data for 1-2 states
-- [ ] Place mock data in `/src/data` directory
+- [x] Create sample DMA data for 1-2 states
+- [x] Place mock data in `/public/data` directory (accessible via fetch)
 
 ### Step 4.3: Data Loading Utilities
-- [ ] Create utility function to load JSON data
-- [ ] Implement error handling for data loading
-- [ ] Create data validation function
-- [ ] Test data loading with mock data
+- [x] Create utility function to load JSON data (`loadJSONData`)
+- [x] Implement error handling for data loading
+- [x] Create data validation functions (state, DMA, GeoJSON)
+- [x] Create utility to merge topic data with GeoJSON
+- [x] Create utility to generate tooltip text
+- [x] Test data loading with mock data
 
-## Phase 5: State Details Sidebar
+## Phase 5: Data Integration & Topic Display
 
-### Step 5.1: Sidebar Component
+### Step 5.1: Connect Topic Data to Map
+- [ ] Load state topic data in MapContainer
+- [ ] Merge topic data with GeoJSON features
+- [ ] Update tooltip to display top topic (currently shows state name only)
+- [ ] Test tooltip with real topic data
+
+### Step 5.2: State Details Sidebar
 - [ ] Create `StateDetailsPanel` component
-- [ ] Implement slide-in animation (right side)
+- [ ] Implement slide-in animation (right side on desktop, bottom on mobile)
 - [ ] Add close button
 - [ ] Implement click-outside-to-close functionality
 - [ ] Make sidebar responsive (full screen on mobile)
+- [ ] Style with minimalistic design (serif font, right angles)
 
-### Step 5.2: Topic List Component
+### Step 5.3: Topic List Component
 - [ ] Create `TopicList` component
 - [ ] Display topics ordered by relevance (highest to lowest)
 - [ ] Show relevance scores
 - [ ] Style with minimalistic design (serif font, right angles)
 
-### Step 5.3: Google News Integration
+### Step 5.4: Google News Integration
 - [ ] Create utility function to generate Google News URLs
 - [ ] Implement URL encoding for topic names
 - [ ] Add click handlers to topic items
 - [ ] Open links in new tab with `rel="noopener noreferrer"`
 - [ ] Test Google News link generation
 
-### Step 5.4: Connect Sidebar to Map
-- [ ] Pass selected state data to sidebar
-- [ ] Update sidebar when state is clicked
-- [ ] Handle sidebar state management
-- [ ] Test full interaction flow
+### Step 5.5: Connect Sidebar to Map
+- [ ] Pass selected state data to sidebar from MapContainer
+- [ ] Update sidebar when state is clicked (use existing `onStateClick` callback)
+- [ ] Handle sidebar state management (open/close)
+- [ ] Test full interaction flow (click state → sidebar opens → click topic → Google News)
 
-## Phase 6: Data Visualization
+## Phase 6: Data Visualization & Polish
 
-### Step 6.1: Color Coding
+### Step 6.1: Color Coding (Optional for MVP)
 - [ ] Create color palette for topics (WCAG AA compliant)
 - [ ] Implement color assignment logic
 - [ ] Apply colors to state polygons
 - [ ] Create color legend component (optional for MVP)
 
-### Step 6.2: Topic Display
-- [ ] Display top topic on map (tooltip on hover)
+### Step 6.2: Tooltip Enhancement
+- [x] Tooltip infrastructure complete (shows state name)
+- [ ] Update tooltip to display top topic when data is loaded (see Phase 5.1)
 - [ ] Ensure tooltip styling matches design system
-- [ ] Test tooltip positioning and visibility
+- [ ] Test tooltip positioning and visibility with topic data
 
 ## Phase 7: Unique Topic Mode (Optional for MVP)
 
@@ -440,12 +450,20 @@ npm run lint           # Lint code (if configured)
 
 ---
 
-**Estimated Timeline**: 
-- Phase 1-3: 2-3 days (Setup & Basic UI)
-- Phase 4-6: 3-4 days (Map & Data Integration)
-- Phase 7-9: 2-3 days (Features & Testing)
+**Current Progress**: 
+- ✅ Phase 1-3: Complete (Setup & Basic UI)
+- ✅ Phase 4: Complete (Data Structure & Mock Data)
+- ⚠️ Phase 5: In Progress (Sidebar & Data Integration - next priority)
+- ❌ Phase 6-8: Pending
+- ❌ Phase 9-16: Pending
+
+**Remaining MVP Timeline**: 
+- Phase 5: 1-2 days (Sidebar & Data Integration)
+- Phase 6: 0.5 days (Visualization polish)
+- Phase 8: 2-3 days (Data Ingestion Script)
+- Phase 9: 1 day (Integration & Testing)
 - Phase 10-12: 1-2 days (Deployment)
 - Phase 13-16: 2-3 days (Automation & Launch)
 
-**Total MVP Timeline**: ~2-3 weeks (depending on experience and time availability)
+**Total Remaining**: ~1-2 weeks (depending on experience and time availability)
 
