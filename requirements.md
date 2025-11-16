@@ -12,13 +12,14 @@
 
 ### FR2: State-Level Visualization
 - **FR2.1**: The system must display an interactive map of the United States
-- **FR2.2**: The system must show the #1 trending topic from Law and Government category for each state
-- **FR2.3**: The system must color-code or label each state by its trending topic
-- **FR2.4**: The system must update state-level data daily
-- **FR2.5**: On mouseover, the system must display the #1 trending Law and Government topic for that state in a tooltip
-- **FR2.6**: On click, the system must open a right-hand sidebar panel showing all Law and Government trends for that state
-- **FR2.7**: Topics in the sidebar must be ordered by relevance (highest to lowest)
-- **FR2.8**: Each topic in the sidebar must be clickable and link to Google News search results for that topic
+- **FR2.2**: On initial load, the map must be centered on the continental United States (48 states), with an appropriate zoom level to show all continental states clearly
+- **FR2.3**: The system must show the #1 trending topic from Law and Government category for each state
+- **FR2.4**: The system must color-code or label each state by its trending topic
+- **FR2.5**: The system must update state-level data daily
+- **FR2.6**: On mouseover, the system must display the #1 trending Law and Government topic for that state in a tooltip
+- **FR2.7**: On click, the system must open a right-hand sidebar panel showing all Law and Government trends for that state
+- **FR2.8**: Topics in the sidebar must be ordered by relevance (highest to lowest)
+- **FR2.9**: Each topic in the sidebar must be clickable and link to Google News search results for that topic
 
 ### FR3: Unique Topic Mode
 - **FR3.1**: The system must provide a toggle to enable/disable unique topic mode
@@ -41,10 +42,12 @@
 ### TR1: Frontend
 - **TR1.1**: The application must be built using React
 - **TR1.2**: The application must use React Leaflet for map rendering
-- **TR1.3**: The application must use Plotly.js for data visualization and charting
-- **TR1.4**: The application must be responsive and work on desktop and mobile devices
-- **TR1.5**: The application must implement a slide-in sidebar component for state details
-- **TR1.6**: The application must generate Google News search URLs for topic links
+- **TR1.3**: The application must use CartoDB Positron tiles (light mode) and CartoDB Dark Matter tiles (dark mode) for the base map, providing a minimalistic, data-visualization-friendly style
+- **TR1.4**: The map must be initialized with center coordinates and zoom level optimized for viewing the continental United States (48 states)
+- **TR1.5**: The application must use Plotly.js for data visualization and charting
+- **TR1.6**: The application must be responsive and work on desktop and mobile devices
+- **TR1.7**: The application must implement a slide-in sidebar component for state details
+- **TR1.8**: The application must generate Google News search URLs for topic links
 
 ### TR2: Data Processing
 - **TR2.1**: The system must include an RSS feed ingestion script
@@ -92,21 +95,22 @@
 
 ### UX3: Visual Design
 - **UX3.1**: The UI must be minimalistic with clean, uncluttered layouts
-- **UX3.2**: Color coding must be distinct and accessible (WCAG AA compliant)
-- **UX3.3**: Topic labels must be readable and not overlap excessively
-- **UX3.4**: The UI must be intuitive and require minimal explanation
-- **UX3.5**: The application must support both light mode and dark mode with a user-toggleable theme switcher. The theme switcher must be styled as a toggle switch (not a button), and the application must auto-detect the user's system theme preference on initial load
-- **UX3.5.1**: The theme toggle switch must display monochrome line art icons (sun for light mode, moon with stars for dark mode) inside a circular knob
-- **UX3.5.2**: The toggle switch must be icon-only (no text labels) for a minimalistic design
-- **UX3.5.3**: The toggle switch must have smooth animations (0.3s ease transitions) when switching between themes
-- **UX3.5.4**: The toggle switch must persist user's theme preference in localStorage, overriding system preference after first manual toggle
-- **UX3.5.5**: The toggle switch must be responsive: compact size on desktop (60px × 32px), slightly smaller on mobile (52px × 28px)
-- **UX3.5.6**: The toggle switch must be accessible with proper ARIA labels and keyboard navigation support
-- **UX3.5.7**: The toggle switch track and knob must use theme-aware colors that adapt to the current theme
-- **UX3.5.8**: The toggle switch must provide visual feedback on hover and active states
-- **UX3.6**: The application must be fully responsive, optimized for both mobile and web (desktop) modes
-- **UX3.7**: UI elements must use right angles with minimal corner rounding (border-radius ≤ 2px)
-- **UX3.8**: The application must use a serif font family for all text elements
+- **UX3.2**: The map must use a minimalistic base map style (Positron for light mode, Dark Matter for dark mode) that emphasizes data visualization over map details
+- **UX3.3**: Color coding must be distinct and accessible (WCAG AA compliant)
+- **UX3.4**: Topic labels must be readable and not overlap excessively
+- **UX3.5**: The UI must be intuitive and require minimal explanation
+- **UX3.6**: The application must support both light mode and dark mode with a user-toggleable theme switcher. The theme switcher must be styled as a toggle switch (not a button), and the application must auto-detect the user's system theme preference on initial load
+- **UX3.6.1**: The theme toggle switch must display monochrome line art icons (sun for light mode, moon with stars for dark mode) inside a circular knob
+- **UX3.6.2**: The toggle switch must be icon-only (no text labels) for a minimalistic design
+- **UX3.6.3**: The toggle switch must have smooth animations (0.3s ease transitions) when switching between themes
+- **UX3.6.4**: The toggle switch must persist user's theme preference in localStorage, overriding system preference after first manual toggle
+- **UX3.6.5**: The toggle switch must be responsive: compact size on desktop (60px × 32px), slightly smaller on mobile (52px × 28px)
+- **UX3.6.6**: The toggle switch must be accessible with proper ARIA labels and keyboard navigation support
+- **UX3.6.7**: The toggle switch track and knob must use theme-aware colors that adapt to the current theme
+- **UX3.6.8**: The toggle switch must provide visual feedback on hover and active states
+- **UX3.7**: The application must be fully responsive, optimized for both mobile and web (desktop) modes
+- **UX3.8**: UI elements must use right angles with minimal corner rounding (border-radius ≤ 2px)
+- **UX3.9**: The application must use a serif font family for all text elements
 
 ## Data Requirements
 

@@ -79,10 +79,10 @@ This guide outlines the step-by-step process for building the Political Forecast
 - [x] Test map rendering and basic interactions (zoom, pan)
 
 ### Step 3.2: State Boundaries
-- [ ] Obtain US states GeoJSON data
-- [ ] Create `StateMap` component to render state boundaries
-- [ ] Style state polygons with basic colors
-- [ ] Test state boundary rendering
+- [x] Obtain US states GeoJSON data
+- [x] Create `StateMap` component to render state boundaries
+- [x] Style state polygons with basic colors
+- [x] Test state boundary rendering
 
 ### Step 3.3: Map Interactions
 - [ ] Implement hover tooltip showing #1 topic

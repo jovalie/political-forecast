@@ -1,0 +1,55 @@
+/* Ensure GeoJSON layers are visible and interactive */
+.leaflet-interactive {
+  pointer-events: auto !important;
+  opacity: 1 !important;
+  display: block !important;
+}
+
+/* Ensure overlay pane is visible */
+.leaflet-overlay-pane {
+  z-index: 400 !important;
+}
+
+/* Ensure SVG paths are visible */
+.leaflet-overlay-pane svg {
+  position: relative;
+  z-index: 1;
+}
+
+.leaflet-overlay-pane path {
+  stroke: #666666 !important;
+  stroke-width: 2px !important;
+  fill: #d0d0d0 !important;
+  fill-opacity: 0.7 !important;
+}
+
+/* State tooltip styling */
+.state-tooltip {
+  background-color: var(--bg-primary);
+  border: var(--border-width) solid var(--border-color);
+  border-radius: var(--border-radius);
+  color: var(--text-primary);
+  font-family: var(--font-serif);
+  font-size: 0.875rem;
+  padding: calc(var(--spacing-unit) * 0.5) calc(var(--spacing-unit) * 1);
+  white-space: nowrap;
+  box-shadow: 0 2px 4px var(--shadow);
+}
+
+/* Leaflet tooltip arrow */
+.state-tooltip.leaflet-tooltip-top:before {
+  border-top-color: var(--bg-primary);
+}
+
+.state-tooltip.leaflet-tooltip-bottom:before {
+  border-bottom-color: var(--bg-primary);
+}
+
+.state-tooltip.leaflet-tooltip-left:before {
+  border-left-color: var(--bg-primary);
+}
+
+.state-tooltip.leaflet-tooltip-right:before {
+  border-right-color: var(--bg-primary);
+}
+

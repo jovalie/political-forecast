@@ -35,19 +35,25 @@
   color: var(--text-primary);
 }
 
-/* Mobile: Stack header content vertically */
+/* Mobile: Hide subtitle, place toggle next to title */
 @media (max-width: 768px) {
   .app-header-content {
-    flex-direction: column;
-    align-items: flex-start;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-between;
+  }
+  
+  .app-header-text {
+    flex: 0 1 auto;
   }
   
   .app-header h1 {
     font-size: 1.5rem;
+    margin-bottom: 0;
   }
   
   .app-header p {
-    font-size: 0.875rem;
+    display: none;
   }
 }
 
@@ -59,5 +65,7 @@
   width: 100%;
   margin: 0;
   overflow: hidden;
+  min-height: 0; /* Important for flex children */
+  position: relative; /* Ensure proper positioning */
 }
 

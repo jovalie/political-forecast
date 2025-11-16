@@ -46,6 +46,12 @@
   box-sizing: border-box;
 }
 
+html, body {
+  height: 100%;
+  width: 100%;
+  overflow: hidden; /* Prevent body scroll */
+}
+
 body {
   font-family: var(--font-serif);
   background-color: var(--bg-primary);
@@ -54,6 +60,9 @@ body {
 }
 
 #root {
-  min-height: 100vh;
+  height: 100%;
+  width: 100%;
+  display: flex;
+  flex-direction: column;
 }
 
