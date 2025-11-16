@@ -7,7 +7,7 @@ import { generateTooltipText } from '../../utils/tooltipUtils'
 import './StateMap.css'
 
 // Component to handle map clicks (for clearing selected state)
-const MapClickHandler = ({ clickedLayerRef, allLayersRef, geoJsonLayerRef, styleRef, openTooltipLayerRef }) => {
+const MapClickHandler = ({ clickedLayerRef, allLayersRef, geoJsonLayerRef, styleRef, openTooltipLayerRef, isDark }) => {
   const map = useMap()
 
   useEffect(() => {
@@ -53,7 +53,7 @@ const MapClickHandler = ({ clickedLayerRef, allLayersRef, geoJsonLayerRef, style
           // Unbind and rebind all tooltips as non-permanent to ensure clean state
             const layerFeature = layer.feature
             if (layerFeature) {
-              const tooltipText = generateTooltipText(layerFeature)
+              const tooltipText = generateTooltipText(layerFeature, isDark)
               if (tooltipText) {
                 layer.unbindTooltip()
                 layer.bindTooltip(tooltipText, {
@@ -92,7 +92,7 @@ const MapClickHandler = ({ clickedLayerRef, allLayersRef, geoJsonLayerRef, style
     return () => {
       map.off('click', handleMapClick)
     }
-  }, [map, clickedLayerRef, allLayersRef, geoJsonLayerRef, styleRef, openTooltipLayerRef])
+  }, [map, clickedLayerRef, allLayersRef, geoJsonLayerRef, styleRef, openTooltipLayerRef, isDark])
 
   return null
 }
@@ -173,7 +173,7 @@ const GeoJSONRenderer = ({ geoJSONDataRef, styleRef, onEachFeatureRef, dataReady
   return null
 }
 
-const StateMap = ({ statesData = null, statesTopicData = null, onStateClick = null, onStateHover = null }) => {
+const StateMap = ({ statesData = null, statesTopicData = null, dataTimestamp = null, onStateClick = null, onStateHover = null }) => {
   const { isDark } = useTheme()
   const [geoJSONData, setGeoJSONData] = useState(null)
   const [loading, setLoading] = useState(true)
@@ -184,10 +184,28 @@ const StateMap = ({ statesData = null, statesTopicData = null, onStateClick = nu
     if (statesData) {
       // Merge topic data if available
       const merged = statesTopicData
-        ? mergeTopicDataWithGeoJSON(statesData, statesTopicData)
+        ? mergeTopicDataWithGeoJSON(statesData, statesTopicData, dataTimestamp)
         : statesData
       setGeoJSONData(merged)
       setLoading(false)
+      return
+    }
+
+    // If we already have GeoJSON data and topic data just loaded, merge them
+    // Use functional update to access latest geoJSONData
+    if (statesTopicData && geoJSONData) {
+      setGeoJSONData((currentGeoJSON) => {
+        if (currentGeoJSON && currentGeoJSON.features && currentGeoJSON.features.length > 0) {
+          const firstFeature = currentGeoJSON.features[0]
+          // Only re-merge if topic data is not already present
+          if (!firstFeature.properties?.topTopic) {
+            console.log('Re-merging GeoJSON with topic data')
+            return mergeTopicDataWithGeoJSON(currentGeoJSON, statesTopicData, dataTimestamp)
+          }
+        }
+        return currentGeoJSON
+      })
+      // Don't load if we're just re-merging
       return
     }
 
@@ -200,11 +218,23 @@ const StateMap = ({ statesData = null, statesTopicData = null, onStateClick = nu
         }
         const data = await response.json()
         console.log('GeoJSON loaded:', data.features?.length, 'features')
+        console.log('Topic data available:', !!statesTopicData, statesTopicData?.length, 'states')
         
         // Merge topic data if available
         const merged = statesTopicData
-          ? mergeTopicDataWithGeoJSON(data, statesTopicData)
+          ? mergeTopicDataWithGeoJSON(data, statesTopicData, dataTimestamp)
           : data
+        
+        console.log('Merged GeoJSON:', merged.features?.length, 'features')
+        // Log a sample feature to verify merge
+        if (merged.features && merged.features.length > 0) {
+          const sampleFeature = merged.features[0]
+          console.log('Sample feature after merge:', {
+            name: sampleFeature.properties?.name,
+            topTopic: sampleFeature.properties?.topTopic,
+            hasTopics: !!sampleFeature.properties?.topics
+          })
+        }
         
         setGeoJSONData(merged)
       } catch (error) {
@@ -220,7 +250,7 @@ const StateMap = ({ statesData = null, statesTopicData = null, onStateClick = nu
     }
 
     loadGeoJSON()
-  }, [statesData, statesTopicData])
+  }, [statesData, statesTopicData, dataTimestamp])
 
   // Style function for state polygons (memoized)
   const getStateStyle = useMemo(() => {
@@ -325,7 +355,7 @@ const StateMap = ({ statesData = null, statesTopicData = null, onStateClick = nu
         if (prevClickedLayer && prevClickedLayer !== clickedLayer) {
           const prevFeature = prevClickedLayer.feature
           if (prevFeature) {
-            const prevTooltipText = generateTooltipText(prevFeature)
+            const prevTooltipText = generateTooltipText(prevFeature, isDark)
             if (prevTooltipText) {
               prevClickedLayer.closeTooltip()
               // Rebind with permanent: false
@@ -345,7 +375,7 @@ const StateMap = ({ statesData = null, statesTopicData = null, onStateClick = nu
             prevOpenTooltipLayer !== prevClickedLayer) {
           const prevFeature = prevOpenTooltipLayer.feature
           if (prevFeature) {
-            const prevTooltipText = generateTooltipText(prevFeature)
+            const prevTooltipText = generateTooltipText(prevFeature, isDark)
             if (prevTooltipText) {
               prevOpenTooltipLayer.closeTooltip()
               prevOpenTooltipLayer.unbindTooltip()
@@ -362,7 +392,9 @@ const StateMap = ({ statesData = null, statesTopicData = null, onStateClick = nu
         openTooltipLayerRef.current = null
         
         // Make clicked state's tooltip permanent
-        const tooltipText = generateTooltipText(feature)
+        // Use layer.feature to get the most up-to-date feature
+        const clickedFeature = clickedLayer.feature || feature
+        const tooltipText = generateTooltipText(clickedFeature, isDark)
         if (tooltipText) {
           // Unbind current tooltip and rebind with permanent: true
           clickedLayer.unbindTooltip()
@@ -387,7 +419,7 @@ const StateMap = ({ statesData = null, statesTopicData = null, onStateClick = nu
     })
 
     // Add tooltip with state name and top topic
-    const tooltipText = generateTooltipText(feature)
+    const tooltipText = generateTooltipText(feature, isDark)
     if (tooltipText) {
       layer.bindTooltip(tooltipText, {
         permanent: false,
@@ -456,7 +488,9 @@ const StateMap = ({ statesData = null, statesTopicData = null, onStateClick = nu
         hoveredLayerRef.current = currentLayer
 
         // Handle tooltips - don't interfere with permanent tooltip on clicked state
-        const tooltipText = generateTooltipText(feature)
+        // Use layer.feature to get the most up-to-date feature (which may have been updated with topic data)
+        const currentFeature = currentLayer.feature || feature
+        const tooltipText = generateTooltipText(currentFeature, isDark)
         if (tooltipText) {
           // If hovering over the clicked state, ensure its tooltip is open (it should already be permanent)
           if (currentLayer === clickedLayerRef.current) {
@@ -564,7 +598,9 @@ const StateMap = ({ statesData = null, statesTopicData = null, onStateClick = nu
         hoveredLayerRef.current = null
 
         // Close this tooltip when mouse leaves, but keep it open if it's the clicked state
-        const tooltipText = generateTooltipText(feature)
+        // Use layer.feature to get the most up-to-date feature
+        const currentFeature = currentLayer.feature || feature
+        const tooltipText = generateTooltipText(currentFeature, isDark)
         if (tooltipText) {
           // Don't close tooltip if this is the clicked state (it should remain permanent)
           if (currentLayer !== clickedLayerRef.current) {
@@ -583,13 +619,171 @@ const StateMap = ({ statesData = null, statesTopicData = null, onStateClick = nu
     })
   }, [onStateClick, onStateHover, isDark])
 
+  // Update tooltip styles when theme changes
+  useEffect(() => {
+    // Update all tooltip styles to match current theme
+    const updateTooltipStyles = () => {
+      const tooltips = document.querySelectorAll('.state-tooltip')
+      const bgColor = getComputedStyle(document.documentElement).getPropertyValue('--bg-primary').trim() || (isDark ? '#1a1a1a' : '#ffffff')
+      const textColor = getComputedStyle(document.documentElement).getPropertyValue('--text-primary').trim() || (isDark ? '#ffffff' : '#000000')
+      const borderColor = getComputedStyle(document.documentElement).getPropertyValue('--border-color').trim() || (isDark ? '#404040' : '#e0e0e0')
+      const shadow = getComputedStyle(document.documentElement).getPropertyValue('--shadow').trim() || (isDark ? 'rgba(0, 0, 0, 0.3)' : 'rgba(0, 0, 0, 0.1)')
+
+      tooltips.forEach((tooltip) => {
+        tooltip.style.backgroundColor = bgColor
+        tooltip.style.color = textColor
+        tooltip.style.borderColor = borderColor
+        tooltip.style.boxShadow = `0 2px 4px ${shadow}`
+        
+        // Update arrow color using CSS custom property (Leaflet uses ::before pseudo-element)
+        // We need to inject a style tag or update the computed style
+        const styleId = 'tooltip-arrow-styles'
+        let styleEl = document.getElementById(styleId)
+        if (!styleEl) {
+          styleEl = document.createElement('style')
+          styleEl.id = styleId
+          document.head.appendChild(styleEl)
+        }
+        styleEl.textContent = `
+          .state-tooltip.leaflet-tooltip-top:before {
+            border-top-color: ${bgColor} !important;
+          }
+          .state-tooltip.leaflet-tooltip-bottom:before {
+            border-bottom-color: ${bgColor} !important;
+          }
+          .state-tooltip.leaflet-tooltip-left:before {
+            border-left-color: ${bgColor} !important;
+          }
+          .state-tooltip.leaflet-tooltip-right:before {
+            border-right-color: ${bgColor} !important;
+          }
+        `
+      })
+    }
+
+    // Update immediately and set up interval to catch newly created tooltips
+    updateTooltipStyles()
+    const timer1 = setTimeout(updateTooltipStyles, 100)
+    const timer2 = setTimeout(updateTooltipStyles, 500)
+
+    // Also set up a MutationObserver to watch for new tooltips being added
+    const observer = new MutationObserver((mutations) => {
+      let shouldUpdate = false
+      mutations.forEach((mutation) => {
+        mutation.addedNodes.forEach((node) => {
+          if (node.nodeType === 1) { // Element node
+            if (node.classList?.contains('state-tooltip') || node.querySelector?.('.state-tooltip')) {
+              shouldUpdate = true
+            }
+          }
+        })
+      })
+      if (shouldUpdate) {
+        updateTooltipStyles()
+      }
+    })
+    // Observe the map container where Leaflet tooltips are typically added
+    const mapContainer = document.querySelector('.leaflet-container')
+    if (mapContainer) {
+      observer.observe(mapContainer, {
+        childList: true,
+        subtree: true
+      })
+    }
+
+    return () => {
+      clearTimeout(timer1)
+      clearTimeout(timer2)
+      observer.disconnect()
+    }
+  }, [isDark])
+
+  // Update layer feature references and rebind tooltips when merged data is available
+  useEffect(() => {
+    if (!geoJSONData || !geoJsonLayerRef.current || loading) {
+      return
+    }
+
+    // Check if we have topic data in the merged GeoJSON
+    const hasTopicData = geoJSONData.features?.some(
+      (feature) => feature.properties?.topTopic
+    )
+
+    if (!hasTopicData) {
+      return
+    }
+
+    console.log('Updating layer features with merged topic data')
+    
+    // Use a small delay to ensure layers are ready
+    const timer = setTimeout(() => {
+      const allLayers = geoJsonLayerRef.current?.getLayers()
+      if (!allLayers || !geoJSONData.features) {
+        return
+      }
+
+      // Create a map of state names to merged features for quick lookup
+      const featureMap = new Map()
+      geoJSONData.features.forEach((feature) => {
+        const stateName = feature.properties?.name
+        if (stateName) {
+          featureMap.set(stateName, feature)
+        }
+      })
+
+      let updatedCount = 0
+      allLayers.forEach((layer) => {
+        const oldFeature = layer.feature
+        if (oldFeature) {
+          const stateName = oldFeature.properties?.name
+          // Get the updated feature from the merged data
+          const updatedFeature = featureMap.get(stateName)
+          
+          if (updatedFeature && updatedFeature.properties?.topTopic) {
+            // Update the layer's feature reference to point to the merged feature
+            layer.feature = updatedFeature
+            updatedCount++
+            
+            const tooltipText = generateTooltipText(updatedFeature, isDark)
+            if (tooltipText) {
+              // Don't rebind if this is the clicked state (it has a permanent tooltip)
+              const isClickedState = layer === clickedLayerRef.current
+              if (!isClickedState) {
+                // Unbind and rebind with updated text
+                layer.unbindTooltip()
+                layer.bindTooltip(tooltipText, {
+                  permanent: false,
+                  direction: 'top',
+                  className: 'state-tooltip',
+                })
+              } else {
+                // For clicked state, update the permanent tooltip
+                layer.unbindTooltip()
+                layer.bindTooltip(tooltipText, {
+                  permanent: true,
+                  direction: 'top',
+                  className: 'state-tooltip',
+                })
+                layer.openTooltip()
+              }
+            }
+          }
+        }
+      })
+      console.log('Updated', updatedCount, 'layers with topic data')
+    }, 200) // Small delay to ensure layers are ready
+
+    return () => clearTimeout(timer)
+  }, [geoJSONData, loading, isDark])
+
   // Debug logging
   useEffect(() => {
     if (geoJSONData) {
       console.log('StateMap render - geoJSONData:', {
         hasData: !!geoJSONData,
         featureCount: geoJSONData.features?.length || 0,
-        loading
+        loading,
+        hasTopicData: geoJSONData.features?.some(f => f.properties?.topTopic)
       })
     }
   }, [geoJSONData, loading])
@@ -623,7 +817,7 @@ const StateMap = ({ statesData = null, statesTopicData = null, onStateClick = nu
         // Restore clicked state's permanent tooltip
         const clickedFeature = clickedLayerRef.current.feature
         if (clickedFeature) {
-          const tooltipText = generateTooltipText(clickedFeature)
+          const tooltipText = generateTooltipText(clickedFeature, isDark)
           if (tooltipText) {
             // Rebind with permanent: true
             clickedLayerRef.current.unbindTooltip()
@@ -678,6 +872,7 @@ const StateMap = ({ statesData = null, statesTopicData = null, onStateClick = nu
         geoJsonLayerRef={geoJsonLayerRef}
         styleRef={styleRef}
         openTooltipLayerRef={openTooltipLayerRef}
+        isDark={isDark}
       />
     </>
   )

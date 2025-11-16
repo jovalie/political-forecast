@@ -36,6 +36,7 @@ const MapThemeUpdater = ({ isDark }) => {
 const MapContainer = () => {
   const { isDark } = useTheme()
   const [statesTopicData, setStatesTopicData] = useState(null)
+  const [dataTimestamp, setDataTimestamp] = useState(null)
   const [loadingTopics, setLoadingTopics] = useState(true)
 
   // Load topic data
@@ -45,6 +46,7 @@ const MapContainer = () => {
         const data = await loadJSONData('/data/mock-states-topics.json')
         if (data && data.states) {
           setStatesTopicData(data.states)
+          setDataTimestamp(data.timestamp)
         }
       } catch (error) {
         console.error('Error loading topic data:', error)
@@ -82,7 +84,7 @@ const MapContainer = () => {
           key={isDark ? 'dark' : 'light'} // Force re-render when theme changes
         />
         <MapThemeUpdater isDark={isDark} />
-        <StateMap statesTopicData={statesTopicData} />
+        <StateMap statesTopicData={statesTopicData} dataTimestamp={dataTimestamp} />
       </LeafletMapContainer>
     </div>
   )

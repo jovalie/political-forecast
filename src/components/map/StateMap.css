@@ -42,9 +42,33 @@
   color: var(--text-primary);
   font-family: var(--font-serif);
   font-size: 0.875rem;
-  padding: calc(var(--spacing-unit) * 0.5) calc(var(--spacing-unit) * 1);
-  white-space: nowrap;
+  padding: calc(var(--spacing-unit) * 0.75) calc(var(--spacing-unit) * 1);
   box-shadow: 0 2px 4px var(--shadow);
+  min-width: 150px;
+  text-align: center;
+}
+
+/* Ensure tooltip content can wrap and display HTML properly */
+.state-tooltip * {
+  margin: 0;
+  padding: 0;
+}
+
+/* Tooltip content styling - inherits theme colors from container */
+.tooltip-content {
+  color: var(--text-primary);
+}
+
+.tooltip-header {
+  color: var(--text-primary);
+  font-size: 0.9em;
+}
+
+.tooltip-topic {
+  color: var(--text-primary);
+  font-weight: bold;
+  font-size: 1.1em;
+  margin-top: 4px;
 }
 
 /* Leaflet tooltip arrow */

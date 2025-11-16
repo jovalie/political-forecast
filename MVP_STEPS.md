@@ -118,9 +118,9 @@ This guide outlines the step-by-step process for building the Political Forecast
 ## Phase 5: Data Integration & Topic Display
 
 ### Step 5.1: Connect Topic Data to Map
-- [ ] Load state topic data in MapContainer
-- [ ] Merge topic data with GeoJSON features
-- [ ] Update tooltip to display top topic (currently shows state name only)
+- [x] Load state topic data in MapContainer
+- [x] Merge topic data with GeoJSON features
+- [] Update tooltip to display: "#1 Trending in [State]: [Topic]" (e.g., "#1 Trending in California: Hollywood Taxes")
 - [ ] Test tooltip with real topic data
 
 ### Step 5.2: State Details Sidebar
