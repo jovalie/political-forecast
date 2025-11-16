@@ -475,3 +475,18 @@ npm run lint           # Lint code (if configured)
 
 **Total Remaining**: ~1-1.5 weeks (depending on experience and time availability)
 
+## Future Enhancements (Post-MVP)
+
+### Sidebar Improvements
+- [ ] Add AI-generated summary of trending topics for each state
+- [ ] Implement news article cards with previews and images
+- [ ] Add direct links to relevant news articles (beyond Google News search)
+- [ ] Consider adding topic trends over time (if historical data available)
+
+### Additional Pages
+- [ ] Create About page explaining:
+  - What Political Forecast is
+  - Data collection methodology (Google Trends)
+  - Update frequency
+  - Contact/team information
+
