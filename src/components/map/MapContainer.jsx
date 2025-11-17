@@ -1,9 +1,9 @@
-import React, { useEffect, useState } from 'react'
+import React, { useEffect, useState, useCallback } from 'react'
 import { MapContainer as LeafletMapContainer, TileLayer, useMap } from 'react-leaflet'
 import { useTheme } from '../ui/ThemeProvider'
 import StateMap from './StateMap'
 import StateDetailsPanel from './StateDetailsPanel'
-import { loadJSONData } from '../../utils/dataUtils'
+import { loadJSONData, getDataUrl } from '../../utils/dataUtils'
 import 'leaflet/dist/leaflet.css'
 import './MapContainer.css'
 
@@ -41,6 +41,11 @@ const MapContainer = () => {
   const [loadingTopics, setLoadingTopics] = useState(true)
   const [selectedState, setSelectedState] = useState(null)
   const [isSidebarOpen, setIsSidebarOpen] = useState(false)
+  
+  // Debug: Log sidebar state changes
+  useEffect(() => {
+    console.log('[MapContainer] Sidebar state changed - isOpen:', isSidebarOpen, 'selectedState:', selectedState?.name)
+  }, [isSidebarOpen, selectedState])
 
   // Load topic data
   useEffect(() => {
@@ -49,18 +54,43 @@ const MapContainer = () => {
         // Try to load real data first, fall back to mock data
         let data = null
         try {
-          data = await loadJSONData('/data/states-topics.json')
+          const dataUrl = getDataUrl('data/states-topics.json')
+          console.log('[MapContainer] Loading topic data from:', dataUrl)
+          data = await loadJSONData(dataUrl)
+          console.log('[MapContainer] Loaded topic data:', {
+            hasData: !!data,
+            hasStates: !!data?.states,
+            statesCount: data?.states?.length,
+            timestamp: data?.timestamp
+          })
         } catch (error) {
-          console.log('Real data not found, using mock data:', error.message)
-          data = await loadJSONData('/data/mock-states-topics.json')
+          console.log('[MapContainer] Real data not found, using mock data:', error.message)
+          const mockDataUrl = getDataUrl('data/mock-states-topics.json')
+          data = await loadJSONData(mockDataUrl)
+          console.log('[MapContainer] Loaded mock topic data:', {
+            hasData: !!data,
+            hasStates: !!data?.states,
+            statesCount: data?.states?.length
+          })
         }
         
         if (data && data.states) {
+          if (Array.isArray(data.states)) {
+            console.log(`[MapContainer] Setting ${data.states.length} states with topic data`)
           setStatesTopicData(data.states)
           setDataTimestamp(data.timestamp)
+          } else {
+            console.error('[MapContainer] data.states is not an array:', typeof data.states, data.states)
+          }
+        } else {
+          console.warn('[MapContainer] Data loaded but missing states array:', {
+            hasData: !!data,
+            hasStates: !!data?.states,
+            dataKeys: data ? Object.keys(data) : []
+          })
         }
       } catch (error) {
-        console.error('Error loading topic data:', error)
+        console.error('[MapContainer] Error loading topic data:', error)
         // Continue without topic data - map will still work
       } finally {
         setLoadingTopics(false)
@@ -71,15 +101,15 @@ const MapContainer = () => {
   }, [])
 
   // Handle state click - extract state data and open sidebar
-  const handleStateClick = (feature) => {
-    console.log('[MAP_CONTAINER] handleStateClick called with feature:', feature?.properties?.name, 'has properties:', !!feature?.properties)
+  const handleStateClick = useCallback((feature) => {
+    console.log('[MapContainer] handleStateClick called with:', feature)
     if (!feature || !feature.properties) {
-      console.warn('[MAP_CONTAINER] handleStateClick: Invalid feature, missing properties')
+      console.warn('[MapContainer] handleStateClick: Invalid feature, missing properties')
       return
     }
 
     const { name, topTopic, topics, trendingScore, category } = feature.properties
-    console.log('[MAP_CONTAINER] handleStateClick: Extracted data for', name, 'topics:', topics?.length)
+    console.log('[MapContainer] Extracted data - name:', name, 'topics:', topics?.length)
 
     // Find the full state data from statesTopicData if available
     // Handle DC name variations: "Washington DC" and "District of Columbia"
@@ -114,11 +144,11 @@ const MapContainer = () => {
       category: stateData?.category || category || 'Law and Government',
     }
 
-    console.log('[MAP_CONTAINER] handleStateClick: Setting state and opening sidebar', finalStateData.name)
+    console.log('[MapContainer] Setting state data:', finalStateData.name, 'and opening sidebar')
     setSelectedState(finalStateData)
     setIsSidebarOpen(true)
-    console.log('[MAP_CONTAINER] handleStateClick: Sidebar state set, isSidebarOpen should be true')
-  }
+    console.log('[MapContainer] Sidebar should be open now')
+  }, [statesTopicData])
 
   // Handle sidebar close
   const handleSidebarClose = () => {
@@ -145,6 +175,7 @@ const MapContainer = () => {
     ? 'https://{s}.basemaps.cartocdn.com/dark_all/{z}/{x}/{y}{r}.png'
     : 'https://{s}.basemaps.cartocdn.com/light_all/{z}/{x}/{y}{r}.png'
 
+
   return (
     <div className="map-container">
       <LeafletMapContainer
@@ -170,6 +201,7 @@ const MapContainer = () => {
           dataTimestamp={dataTimestamp}
           onStateClick={handleStateClick}
           onMapClick={handleMapClick}
+          isSidebarOpen={isSidebarOpen}
         />
       </LeafletMapContainer>
       <StateDetailsPanel

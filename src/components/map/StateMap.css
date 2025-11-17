@@ -88,15 +88,4 @@
   border-right-color: var(--bg-primary);
 }
 
-/* DC Marker styling */
-.dc-marker {
-  background: transparent !important;
-  border: none !important;
-  cursor: pointer;
-  transition: transform 0.2s ease;
-}
-
-.dc-marker:hover {
-  transform: scale(1.1);
-}
 
