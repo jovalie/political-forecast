@@ -2,8 +2,9 @@ import React, { useState, useEffect, useMemo, useCallback, useRef } from 'react'
 import { GeoJSON, useMap } from 'react-leaflet'
 import L from 'leaflet'
 import { useTheme } from '../ui/ThemeProvider'
-import { mergeTopicDataWithGeoJSON } from '../../utils/dataUtils'
+import { mergeTopicDataWithGeoJSON, getColorByTopicCount } from '../../utils/dataUtils'
 import { generateTooltipText } from '../../utils/tooltipUtils'
+import DCMarker from './DCMarker'
 import './StateMap.css'
 
 // Component to handle map clicks (for clearing selected state)
@@ -24,10 +25,13 @@ const MapClickHandler = ({ clickedLayerRef, allLayersRef, geoJsonLayerRef, style
       // Check if click hit a Leaflet layer (e.layer would be set if it did)
       // Note: State clicks stop propagation, so e.layer might not be set even for state clicks
       // But if e.layer is set, we definitely clicked on a layer, not the map background
-      const clickedOnLayer = e.layer && e.layer.feature
+      const clickedOnLayer = e.layer && (e.layer.feature || e.layer.isDC)
       
-      // If click was not on a state path, tooltip, or layer (clicked on map background), clear selection
-      if (!isStatePath && !isTooltip && !clickedOnLayer && clickedLayerRef.current) {
+      // Check if click was on DC marker
+      const isDCMarker = clickedElement.closest('.dc-marker') || (e.layer && e.layer.isDC)
+      
+      // If click was not on a state path, tooltip, layer, or DC marker (clicked on map background), clear selection
+      if (!isStatePath && !isTooltip && !clickedOnLayer && !isDCMarker && clickedLayerRef.current) {
         console.log('[MAP_CLICK] Clicked on map background, clearing selection')
         
         // Get all layers
@@ -67,10 +71,15 @@ const MapClickHandler = ({ clickedLayerRef, allLayersRef, geoJsonLayerRef, style
         
         // Restore all states to normal style
         allLayers.forEach((layer) => {
+          // Skip DC marker (it's not a state layer)
+          if (layer.isDC) {
+            return
+          }
           const layerFeature = layer.feature
           if (layerFeature && styleRef.current) {
             const baseStyle = styleRef.current(layerFeature)
             layer.setStyle({
+              fillColor: baseStyle.fillColor,
               fillOpacity: baseStyle.fillOpacity,
               opacity: baseStyle.opacity,
               weight: baseStyle.weight,
@@ -78,6 +87,8 @@ const MapClickHandler = ({ clickedLayerRef, allLayersRef, geoJsonLayerRef, style
             })
           }
         })
+        
+        // Restore DC marker to normal if it exists (handled by DCMarker component's useEffect)
         
         // Clear clicked layer reference
         clickedLayerRef.current = null
@@ -178,7 +189,7 @@ const GeoJSONRenderer = ({ geoJSONDataRef, styleRef, onEachFeatureRef, dataReady
   return null
 }
 
-const StateMap = ({ statesData = null, statesTopicData = null, dataTimestamp = null, onStateClick = null, onStateHover = null, onMapClick = null }) => {
+const StateMap = ({ statesData = null, statesTopicData = null, dataTimestamp = null, onStateClick = null, onStateHover = null, onMapClick = null, onDCClick = null }) => {
   const { isDark } = useTheme()
   const [geoJSONData, setGeoJSONData] = useState(null)
   const [loading, setLoading] = useState(true)
@@ -260,10 +271,17 @@ const StateMap = ({ statesData = null, statesTopicData = null, dataTimestamp = n
   // Style function for state polygons (memoized)
   const getStateStyle = useMemo(() => {
     return (feature) => {
+      // Get topic count from feature properties
+      const topicCount = feature?.properties?.topics?.length || 0
+      const fillColor = getColorByTopicCount(topicCount, isDark)
+      
+      // Border color should be slightly darker/lighter than fill for contrast
+      const borderColor = isDark ? '#909090' : '#666666'
+      
       return {
-        fillColor: isDark ? '#505050' : '#d0d0d0',
+        fillColor: fillColor,
         fillOpacity: 0.8,
-        color: isDark ? '#909090' : '#666666',
+        color: borderColor,
         weight: 1.5,
         opacity: 1,
       }
@@ -317,7 +335,7 @@ const StateMap = ({ statesData = null, statesTopicData = null, dataTimestamp = n
           opacity: 1,
         })
         
-        // Dim all other states
+        // Dim all other states (but not DC marker - it's handled separately)
         console.log('[CLICK] Clicked layer:', clickedLayer)
         console.log('[CLICK] allLayersRef.current length:', allLayersRef.current?.length)
         
@@ -338,7 +356,8 @@ const StateMap = ({ statesData = null, statesTopicData = null, dataTimestamp = n
         if (allLayers && allLayers.length > 0) {
           let dimmedCount = 0
           allLayers.forEach((otherLayer) => {
-            if (otherLayer !== clickedLayer) {
+            // Skip DC marker (it's not a state layer and handles its own styling)
+            if (otherLayer !== clickedLayer && !otherLayer.isDC) {
               otherLayer.setStyle({
                 fillOpacity: 0.15,
                 opacity: 0.3,
@@ -472,7 +491,8 @@ const StateMap = ({ statesData = null, statesTopicData = null, dataTimestamp = n
           
           // Dim all other states with greater contrast (except clicked state and current hovered)
           allLayers.forEach((otherLayer) => {
-            if (otherLayer !== currentLayer && otherLayer !== clickedLayerRef.current) {
+            // Skip DC marker (it's not a state layer)
+            if (otherLayer !== currentLayer && otherLayer !== clickedLayerRef.current && !otherLayer.isDC) {
               otherLayer.setStyle({
                 fillOpacity: 0.15,
                 opacity: 0.3,
@@ -586,10 +606,15 @@ const StateMap = ({ statesData = null, statesTopicData = null, dataTimestamp = n
           console.log('[MOUSEOUT] No clicked state, restoring all to normal')
           // No clicked state - restore all states to normal
           allLayers.forEach((otherLayer) => {
+            // Skip DC marker (it's not a state layer)
+            if (otherLayer.isDC) {
+              return
+            }
             const layerFeature = otherLayer.feature
             if (layerFeature && styleRef.current) {
               const baseStyle = styleRef.current(layerFeature)
               otherLayer.setStyle({
+                fillColor: baseStyle.fillColor,
                 fillOpacity: baseStyle.fillOpacity,
                 opacity: baseStyle.opacity,
                 weight: baseStyle.weight,
@@ -709,14 +734,8 @@ const StateMap = ({ statesData = null, statesTopicData = null, dataTimestamp = n
       return
     }
 
-    // Check if we have topic data in the merged GeoJSON
-    const hasTopicData = geoJSONData.features?.some(
-      (feature) => feature.properties?.topTopic
-    )
-
-    if (!hasTopicData) {
-      return
-    }
+    // Always update tooltips, even if we don't have topic data for all states
+    // This ensures states without topic data still get tooltips showing "No trending data available"
 
     console.log('Updating layer features with merged topic data')
     
@@ -737,45 +756,65 @@ const StateMap = ({ statesData = null, statesTopicData = null, dataTimestamp = n
       })
 
       let updatedCount = 0
+      let tooltipUpdatedCount = 0
+      let styleUpdatedCount = 0
       allLayers.forEach((layer) => {
+        // Skip DC marker (it's not a state layer)
+        if (layer.isDC) {
+          return
+        }
+        
         const oldFeature = layer.feature
         if (oldFeature) {
           const stateName = oldFeature.properties?.name
-          // Get the updated feature from the merged data
-          const updatedFeature = featureMap.get(stateName)
+          // Get the updated feature from the merged data (or use old feature if not found)
+          const updatedFeature = featureMap.get(stateName) || oldFeature
           
-          if (updatedFeature && updatedFeature.properties?.topTopic) {
-            // Update the layer's feature reference to point to the merged feature
-            layer.feature = updatedFeature
-            updatedCount++
-            
-            const tooltipText = generateTooltipText(updatedFeature, isDark)
-            if (tooltipText) {
-              // Don't rebind if this is the clicked state (it has a permanent tooltip)
-              const isClickedState = layer === clickedLayerRef.current
-              if (!isClickedState) {
-                // Unbind and rebind with updated text
-                layer.unbindTooltip()
-                layer.bindTooltip(tooltipText, {
-                  permanent: false,
-                  direction: 'top',
-                  className: 'state-tooltip',
-                })
-              } else {
-                // For clicked state, update the permanent tooltip
-                layer.unbindTooltip()
-                layer.bindTooltip(tooltipText, {
-                  permanent: true,
-                  direction: 'top',
-                  className: 'state-tooltip',
-                })
-                layer.openTooltip()
-              }
+          // Always update the layer's feature reference
+          layer.feature = updatedFeature
+          updatedCount++
+          
+          // Update style with new topic data (unless this is the clicked state, which maintains its highlight)
+          const isClickedState = layer === clickedLayerRef.current
+          if (!isClickedState && styleRef.current) {
+            const baseStyle = styleRef.current(updatedFeature)
+            layer.setStyle({
+              fillColor: baseStyle.fillColor,
+              fillOpacity: baseStyle.fillOpacity,
+              opacity: baseStyle.opacity,
+              weight: baseStyle.weight,
+              color: baseStyle.color,
+            })
+            styleUpdatedCount++
+          }
+          
+          // Always update tooltip, even if there's no topic data
+          const tooltipText = generateTooltipText(updatedFeature, isDark)
+          if (tooltipText) {
+            tooltipUpdatedCount++
+            // Don't rebind if this is the clicked state (it has a permanent tooltip)
+            if (!isClickedState) {
+              // Unbind and rebind with updated text
+              layer.unbindTooltip()
+              layer.bindTooltip(tooltipText, {
+                permanent: false,
+                direction: 'top',
+                className: 'state-tooltip',
+              })
+            } else {
+              // For clicked state, update the permanent tooltip
+              layer.unbindTooltip()
+              layer.bindTooltip(tooltipText, {
+                permanent: true,
+                direction: 'top',
+                className: 'state-tooltip',
+              })
+              layer.openTooltip()
             }
           }
         }
       })
-      console.log('Updated', updatedCount, 'layers with topic data')
+      console.log('Updated', updatedCount, 'layers,', tooltipUpdatedCount, 'tooltips updated,', styleUpdatedCount, 'styles updated')
     }, 200) // Small delay to ensure layers are ready
 
     return () => clearTimeout(timer)
@@ -839,7 +878,8 @@ const StateMap = ({ statesData = null, statesTopicData = null, dataTimestamp = n
         // Ensure all other states are dimmed
         const allLayers = geoJsonLayerRef.current.getLayers()
         allLayers.forEach((otherLayer) => {
-          if (otherLayer !== clickedLayerRef.current) {
+          // Skip DC marker (it's not a state layer)
+          if (otherLayer !== clickedLayerRef.current && !otherLayer.isDC) {
             otherLayer.setStyle({
               fillOpacity: 0.15,
               opacity: 0.3,
@@ -861,6 +901,9 @@ const StateMap = ({ statesData = null, statesTopicData = null, dataTimestamp = n
     return null
   }
 
+  // Get DC data from statesTopicData
+  const dcData = statesTopicData?.find(state => state.name === 'Washington DC' || state.name === 'District of Columbia')
+
   return (
     <>
       <GeoJSONRenderer
@@ -870,6 +913,16 @@ const StateMap = ({ statesData = null, statesTopicData = null, dataTimestamp = n
         dataReady={!!geoJSONData && geoJSONData.features?.length > 0}
         allLayersRef={allLayersRef}
         geoJsonLayerRef={geoJsonLayerRef}
+      />
+      <DCMarker
+        dcData={dcData}
+        dataTimestamp={dataTimestamp}
+        onDCClick={onDCClick}
+        clickedLayerRef={clickedLayerRef}
+        allLayersRef={allLayersRef}
+        openTooltipLayerRef={openTooltipLayerRef}
+        isDark={isDark}
+        onMapClick={onMapClick}
       />
       <MapClickHandler
         clickedLayerRef={clickedLayerRef}
