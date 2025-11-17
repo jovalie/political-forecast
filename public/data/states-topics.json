@@ -1,86 +1,102 @@
 {
-  "timestamp": "2025-11-17T12:07:29.139Z",
+  "timestamp": "2025-11-17T20:24:34.629Z",
   "states": [
     {
       "name": "California",
       "code": "CA",
-      "topTopic": "venezuelan military",
+      "topTopic": "sheikh hasina",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
         {
-          "name": "venezuelan military",
+          "name": "sheikh hasina",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "17h ago",
+          "searchVolume": "2K+",
+          "started": "9h ago",
+          "percentageIncrease": "600%"
+        },
+        {
+          "name": "lindsey halligan",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "1h ago",
           "percentageIncrease": "500%"
         },
         {
-          "name": "oj simpson",
+          "name": "tekashi",
           "relevanceScore": 95,
           "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "17h ago",
+          "searchVolume": "100+",
+          "started": "2h ago",
           "percentageIncrease": "200%"
         },
         {
-          "name": "sheikh hasina",
-          "relevanceScore": 90,
+          "name": "oj simpson death",
+          "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "1h ago",
-          "percentageIncrease": "100%"
+          "started": "5h ago",
+          "percentageIncrease": "200%"
+        },
+        {
+          "name": "vnexpress",
+          "relevanceScore": 85,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "6h ago",
+          "percentageIncrease": "75%"
         }
       ]
     },
     {
       "name": "Arizona",
       "code": "AZ",
-      "topTopic": "why are flags at half mast today",
+      "topTopic": "oj simpson",
       "category": "Law and Government",
       "trendingScore": 95,
       "topics": [
         {
-          "name": "why are flags at half mast today",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "19h ago",
-          "percentageIncrease": "200%"
-        },
-        {
-          "name": "portugal",
+          "name": "oj simpson",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "20h ago",
-          "percentageIncrease": "400%"
+          "started": "6h ago",
+          "percentageIncrease": "200%"
         }
       ]
     },
     {
       "name": "Florida",
       "code": "FL",
-      "topTopic": "venezuelan military",
+      "topTopic": "lindsey halligan",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
         {
-          "name": "venezuelan military",
+          "name": "lindsey halligan",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "17h ago",
-          "percentageIncrease": "600%"
+          "searchVolume": "100+",
+          "started": "1h ago",
+          "percentageIncrease": "500%"
         },
         {
-          "name": "tax",
+          "name": "sheikh hasina",
           "relevanceScore": 95,
           "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "7h ago",
+          "percentageIncrease": "300%"
+        },
+        {
+          "name": "new york times",
+          "relevanceScore": 90,
+          "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "22h ago",
-          "percentageIncrease": "400%"
+          "started": "9h ago",
+          "percentageIncrease": "100%"
         }
       ]
     },
@@ -96,33 +112,41 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "15h ago",
+          "started": "23h ago",
           "percentageIncrease": "600%"
         },
         {
-          "name": "why are the flags at half mast today",
+          "name": "sheikh hasina",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "17h ago",
-          "percentageIncrease": "300%"
+          "started": "3h ago",
+          "percentageIncrease": "400%"
         }
       ]
     },
     {
       "name": "Illinois",
       "code": "IL",
-      "topTopic": "oj simpson",
+      "topTopic": "sheikh hasina",
       "category": "Law and Government",
-      "trendingScore": 95,
+      "trendingScore": 100,
       "topics": [
         {
-          "name": "oj simpson",
+          "name": "sheikh hasina",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "6h ago",
+          "percentageIncrease": "600%"
+        },
+        {
+          "name": "fema",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "12h ago",
-          "percentageIncrease": "200%"
+          "started": "30 minutes ago",
+          "percentageIncrease": "400%"
         }
       ]
     },
@@ -163,34 +187,42 @@
     {
       "name": "Michigan",
       "code": "MI",
-      "topTopic": "traverse city shooting",
+      "topTopic": "prime",
       "category": "Law and Government",
-      "trendingScore": 90,
+      "trendingScore": 100,
       "topics": [
         {
-          "name": "traverse city shooting",
-          "relevanceScore": 90,
+          "name": "prime",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "72K+",
+          "started": "6h ago",
+          "percentageIncrease": "1000%"
+        },
+        {
+          "name": "sheikh hasina",
+          "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "12h ago",
-          "percentageIncrease": "100%"
+          "started": "5h ago",
+          "percentageIncrease": "900%"
         }
       ]
     },
     {
       "name": "Massachusetts",
       "code": "MA",
-      "topTopic": "bombas",
+      "topTopic": "lindsey halligan",
       "category": "Law and Government",
-      "trendingScore": 90,
+      "trendingScore": 100,
       "topics": [
         {
-          "name": "bombas",
-          "relevanceScore": 90,
+          "name": "lindsey halligan",
+          "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "19h ago",
-          "percentageIncrease": "100%"
+          "started": "40 minutes ago",
+          "percentageIncrease": "700%"
         }
       ]
     },
@@ -214,17 +246,33 @@
     {
       "name": "New Jersey",
       "code": "NJ",
-      "topTopic": "venezuelan military",
+      "topTopic": "sheikh hasina",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
+        {
+          "name": "sheikh hasina",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "7h ago",
+          "percentageIncrease": "600%"
+        },
         {
           "name": "venezuelan military",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "14h ago",
+          "started": "22h ago",
           "percentageIncrease": "600%"
+        },
+        {
+          "name": "oj simpson",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "15h ago",
+          "percentageIncrease": "300%"
         }
       ]
     },
@@ -272,33 +320,50 @@
           "name": "sheikh hasina",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "10 minutes ago",
+          "searchVolume": "2K+",
+          "started": "8h ago",
           "percentageIncrease": "1000%"
+        },
+        {
+          "name": "lindsey halligan",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "1K+",
+          "started": "1h ago",
+          "trendBreakdown": "fox",
+          "percentageIncrease": "800%"
+        },
+        {
+          "name": "fema",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "50 minutes ago",
+          "percentageIncrease": "500%"
         },
         {
           "name": "cne ecuador",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "13h ago",
+          "started": "21h ago",
           "trendBreakdown": "consulta",
-          "percentageIncrease": "400%"
+          "percentageIncrease": "300%"
         },
         {
-          "name": "venezuelan military",
+          "name": "food",
           "relevanceScore": 95,
           "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "16h ago",
+          "searchVolume": "100+",
+          "started": "13h ago",
           "percentageIncrease": "400%"
         },
         {
-          "name": "silive",
+          "name": "wktv",
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "50 minutes ago",
+          "started": "9h ago",
           "percentageIncrease": "100%"
         }
       ]
@@ -341,34 +406,25 @@
     {
       "name": "Pennsylvania",
       "code": "PA",
-      "topTopic": "why are flags at half mast today",
+      "topTopic": "sheikh hasina",
       "category": "Law and Government",
-      "trendingScore": 95,
+      "trendingScore": 100,
       "topics": [
         {
-          "name": "why are flags at half mast today",
-          "relevanceScore": 95,
+          "name": "sheikh hasina",
+          "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "2K+",
-          "started": "21h ago",
-          "trendBreakdown": "why",
-          "percentageIncrease": "300%"
+          "searchVolume": "500+",
+          "started": "6h ago",
+          "percentageIncrease": "600%"
         },
         {
           "name": "oj simpson",
           "relevanceScore": 95,
           "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "12h ago",
-          "percentageIncrease": "200%"
-        },
-        {
-          "name": "wfmz",
-          "relevanceScore": 90,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "30 minutes ago",
-          "percentageIncrease": "100%"
+          "searchVolume": "500+",
+          "started": "20h ago",
+          "percentageIncrease": "300%"
         }
       ]
     },
@@ -392,115 +448,117 @@
     {
       "name": "Tennessee",
       "code": "TN",
-      "topTopic": "trump and bill",
+      "topTopic": "knoxville weather",
       "category": "Law and Government",
-      "trendingScore": 90,
+      "trendingScore": 85,
       "topics": [
         {
-          "name": "trump and bill",
-          "relevanceScore": 90,
+          "name": "knoxville weather",
+          "relevanceScore": 85,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "23h ago",
-          "percentageIncrease": "100%"
+          "started": "8h ago",
+          "percentageIncrease": "50%"
         }
       ]
     },
     {
       "name": "Texas",
       "code": "TX",
-      "topTopic": "portugal",
+      "topTopic": "sheikh hasina",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
         {
-          "name": "portugal",
+          "name": "sheikh hasina",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "21h ago",
-          "percentageIncrease": "700%"
-        },
-        {
-          "name": "venezuelan military",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "17h ago",
-          "percentageIncrease": "400%"
+          "started": "7h ago",
+          "percentageIncrease": "500%"
         }
       ]
     },
     {
       "name": "Virginia",
       "code": "VA",
-      "topTopic": "venezuelan military",
+      "topTopic": "river north correctional center",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
+        {
+          "name": "river north correctional center",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "2K+",
+          "started": "4h ago",
+          "percentageIncrease": "1000%"
+        },
+        {
+          "name": "fema",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "50 minutes ago",
+          "trendBreakdown": "abc",
+          "percentageIncrease": "700%"
+        },
+        {
+          "name": "sheikh hasina",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "7h ago",
+          "percentageIncrease": "700%"
+        },
         {
           "name": "venezuelan military",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "14h ago",
-          "percentageIncrease": "800%"
-        },
-        {
-          "name": "oj simpson",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "12h ago",
-          "percentageIncrease": "200%"
-        },
-        {
-          "name": "why are flags at half mast today",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "20h ago",
-          "percentageIncrease": "200%"
-        },
-        {
-          "name": "fox news",
-          "relevanceScore": 85,
-          "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "50 minutes ago",
-          "percentageIncrease": "75%"
+          "started": "23h ago",
+          "percentageIncrease": "900%"
         }
       ]
     },
     {
       "name": "District of Columbia",
       "code": "DC",
-      "topTopic": "why are flags at half mast today",
+      "topTopic": "sheikh hasina",
       "category": "Law and Government",
-      "trendingScore": 95,
+      "trendingScore": 100,
       "topics": [
         {
-          "name": "why are flags at half mast today",
-          "relevanceScore": 95,
+          "name": "sheikh hasina",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "1K+",
+          "started": "7h ago",
+          "percentageIncrease": "900%"
+        },
+        {
+          "name": "fema",
+          "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "19h ago",
-          "percentageIncrease": "200%"
+          "started": "1h ago",
+          "trendBreakdown": "david",
+          "percentageIncrease": "900%"
         },
         {
-          "name": "spain",
+          "name": "nigeria",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "22h ago",
+          "percentageIncrease": "500%"
+        },
+        {
+          "name": "alexis wilkins",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "21h ago",
-          "percentageIncrease": "400%"
-        },
-        {
-          "name": "purple",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "21h ago",
+          "started": "20 minutes ago",
           "percentageIncrease": "300%"
         }
       ]
@@ -508,16 +566,16 @@
     {
       "name": "Oklahoma",
       "code": "OK",
-      "topTopic": "fox news",
+      "topTopic": "news on",
       "category": "Law and Government",
       "trendingScore": 90,
       "topics": [
         {
-          "name": "fox news",
+          "name": "news on",
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "40 minutes ago",
+          "started": "9h ago",
           "percentageIncrease": "100%"
         }
       ]
@@ -553,6 +611,40 @@
           "searchVolume": "100+",
           "started": "19h ago",
           "percentageIncrease": "500%"
+        }
+      ]
+    },
+    {
+      "name": "Idaho",
+      "code": "ID",
+      "topTopic": "fox news",
+      "category": "Law and Government",
+      "trendingScore": 85,
+      "topics": [
+        {
+          "name": "fox news",
+          "relevanceScore": 85,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "8h ago",
+          "percentageIncrease": "50%"
+        }
+      ]
+    },
+    {
+      "name": "Kansas",
+      "code": "KS",
+      "topTopic": "fox news",
+      "category": "Law and Government",
+      "trendingScore": 85,
+      "topics": [
+        {
+          "name": "fox news",
+          "relevanceScore": 85,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "9h ago",
+          "percentageIncrease": "75%"
         }
       ]
     }
