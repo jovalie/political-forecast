@@ -1,13 +1,16 @@
 {
   "name": "political-forecast",
   "version": "1.0.0",
+  "type": "module",
   "description": "Political Forecast is a dynamic web application that visualizes the most popular political topics across the United States, updated daily using Google Trends data. Unlike Google Trends' native map, this app compares multiple political topics per category, showing which subject is trending the most in each state and allowing exploration down to the DMA (Designated Market Area) level.",
   "main": "index.js",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
     "preview": "vite preview",
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "ingest": "node scripts/ingestData.js",
+    "ingest:sample": "node scripts/ingestData.js California Puerto Rico"
   },
   "keywords": [],
   "author": "",
@@ -16,10 +19,12 @@
     "date-fns": "^4.1.0",
     "leaflet": "^1.9.4",
     "plotly.js": "^3.3.0",
+    "puppeteer": "^24.30.0",
     "react": "^19.2.0",
     "react-dom": "^19.2.0",
     "react-leaflet": "^5.0.0",
-    "react-plotly.js": "^2.6.0"
+    "react-plotly.js": "^2.6.0",
+    "rss-parser": "^3.13.0"
   },
   "devDependencies": {
     "@types/leaflet": "^1.9.21",
