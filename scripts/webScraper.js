@@ -163,12 +163,17 @@ async function extractTrendsFromPage(page) {
           // Extract search volume from cell 2 or cell 3
           // Cell 2 format: "venezuelan military 1K+ searches"
           // Cell 3 format: "1K + arrow_upward 500%"
+          // Exclude years (4-digit numbers starting with 20xx) from matching
           let searchVolume = 'N/A'
-          const volumeMatch2 = cell2Text.match(/(\d+[KMB]?\+?)(?:\s*searches|arrow|%|$)/i)
-          const volumeMatch3 = cell3Text.match(/(\d+[KMB]?\+?)(?:\s*arrow|%|$)/i)
-          if (volumeMatch2 && volumeMatch2[1]) {
+          // Pattern: 1-3 digits (not starting with 20 to avoid years) followed by optional K/M/B and +
+          // Look for patterns like "1K+", "500+", "200+" but not "2025" or "2025200+"
+          const volumeMatch2 = cell2Text.match(/\b([1-9]\d{0,2}[KMB]?\+?)(?:\s*searches|arrow|%|$)/i)
+          const volumeMatch3 = cell3Text.match(/\b([1-9]\d{0,2}[KMB]?\+?)(?:\s*arrow|%|$)/i)
+          
+          // Filter out matches that start with "20" (years) or are too long (likely concatenated)
+          if (volumeMatch2 && volumeMatch2[1] && !volumeMatch2[1].startsWith('20') && volumeMatch2[1].length <= 5) {
             searchVolume = volumeMatch2[1]
-          } else if (volumeMatch3 && volumeMatch3[1]) {
+          } else if (volumeMatch3 && volumeMatch3[1] && !volumeMatch3[1].startsWith('20') && volumeMatch3[1].length <= 5) {
             searchVolume = volumeMatch3[1]
           }
           
@@ -656,9 +661,11 @@ async function extractTrendsFromPage(page) {
             }
 
             // Extract search volume - look for patterns like "1K+", "500+", "200+"
+            // Exclude years (4-digit numbers starting with 20xx) and large numbers that might be years
             let searchVolume = 'N/A'
-            const volumeMatch = rowText.match(/(\d+[KMB]?\+?)(?:\s*searches|arrow|%|$)/i)
-            if (volumeMatch && volumeMatch[1] && !volumeMatch[1].includes('%')) {
+            // Pattern: 1-3 digits followed by optional K/M/B and +, but exclude if it starts with 20 (year)
+            const volumeMatch = rowText.match(/\b([1-9]\d{0,2}[KMB]?\+?)(?:\s*searches|arrow|%|$)/i)
+            if (volumeMatch && volumeMatch[1] && !volumeMatch[1].includes('%') && !volumeMatch[1].startsWith('20')) {
               searchVolume = volumeMatch[1]
             }
 
