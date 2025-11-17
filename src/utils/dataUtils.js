@@ -303,9 +303,9 @@ function normalizeTopicName(topicName) {
  * @returns {string} Hex color code
  */
 export function getColorByTopicCount(topicCount, isDark = false) {
-  // Handle states with no topics - white
+  // Handle states with no topics - white for light mode, dark gray for dark mode
   if (!topicCount || topicCount === 0) {
-    return '#ffffff'
+    return isDark ? '#303030' : '#ffffff'
   }
 
   // Monochrome scale: more topics = darker gray

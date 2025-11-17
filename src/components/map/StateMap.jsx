@@ -845,12 +845,22 @@ const StateMap = ({ statesData = null, statesTopicData = null, dataTimestamp = n
     geoJSONDataRef.current = geoJSONData
   }, [getStateStyle, onEachFeature, geoJSONData])
 
-  // Restore clicked state's style after re-renders to ensure persistence
+  // Update all layer styles when theme changes
   useEffect(() => {
-    // Use a small delay to ensure the layer is available
+    if (!geoJsonLayerRef.current || loading) {
+      return
+    }
+
     const timer = setTimeout(() => {
-      if (clickedLayerRef.current && geoJsonLayerRef.current) {
-        const hoverColor = isDark ? '#808080' : '#333333'
+      const allLayers = geoJsonLayerRef.current?.getLayers()
+      if (!allLayers || allLayers.length === 0) {
+        return
+      }
+
+      const hoverColor = isDark ? '#808080' : '#333333'
+
+      // If there's a clicked state, maintain its highlight and dim others
+      if (clickedLayerRef.current) {
         // Restore clicked state's highlight
         clickedLayerRef.current.setStyle({
           fillOpacity: 0.9,
@@ -877,7 +887,6 @@ const StateMap = ({ statesData = null, statesTopicData = null, dataTimestamp = n
         }
         
         // Ensure all other states are dimmed
-        const allLayers = geoJsonLayerRef.current.getLayers()
         allLayers.forEach((otherLayer) => {
           // Skip DC marker (it's not a state layer)
           if (otherLayer !== clickedLayerRef.current && !otherLayer.isDC) {
@@ -887,11 +896,30 @@ const StateMap = ({ statesData = null, statesTopicData = null, dataTimestamp = n
             })
           }
         })
+      } else {
+        // No clicked state - update all states to normal style with theme-aware colors
+        allLayers.forEach((layer) => {
+          // Skip DC marker (it's not a state layer)
+          if (layer.isDC) {
+            return
+          }
+          const layerFeature = layer.feature
+          if (layerFeature && styleRef.current) {
+            const baseStyle = styleRef.current(layerFeature)
+            layer.setStyle({
+              fillColor: baseStyle.fillColor,
+              fillOpacity: baseStyle.fillOpacity,
+              opacity: baseStyle.opacity,
+              weight: baseStyle.weight,
+              color: baseStyle.color,
+            })
+          }
+        })
       }
     }, 100)
     
     return () => clearTimeout(timer)
-  }, [isDark, geoJSONData]) // Re-run when theme changes or data changes
+  }, [isDark, geoJSONData, loading]) // Re-run when theme changes or data changes
 
   if (loading) {
     return null
