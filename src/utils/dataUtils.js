@@ -43,15 +43,17 @@ export function getDataUrl(path) {
  */
 export async function loadJSONData(url) {
   try {
-    // Use getDataUrl to construct the URL, which handles relative paths correctly
-    // This avoids base path duplication issues
     let fullUrl = url
     
     // If it's already a full URL (http/https), use it as-is
     if (url.startsWith('http://') || url.startsWith('https://')) {
       fullUrl = url
+    } else if (url.startsWith('/')) {
+      // If it already starts with /, it's an absolute path - use it directly
+      // This prevents double-application of base paths
+      fullUrl = url
     } else {
-      // Use getDataUrl to construct relative path from current location
+      // Relative path - use getDataUrl to construct path from current location
       fullUrl = getDataUrl(url)
     }
     
