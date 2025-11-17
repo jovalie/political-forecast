@@ -1,4 +1,654 @@
 {
-  "timestamp": null,
-  "states": []
+  "timestamp": "2025-11-17T03:44:37.125Z",
+  "states": [
+    {
+      "name": "California",
+      "code": "CA",
+      "topTopic": "oj simpson",
+      "category": "Law and Government",
+      "trendingScore": 80,
+      "topics": [
+        {
+          "name": "oj simpson",
+          "relevanceScore": 80,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "9h ago",
+          "percentageIncrease": "100%"
+        },
+        {
+          "name": "venezuelan military",
+          "relevanceScore": 80,
+          "category": "Law and Government",
+          "searchVolume": "1K+",
+          "started": "9h ago",
+          "percentageIncrease": "500%"
+        },
+        {
+          "name": "caltrans",
+          "relevanceScore": 80,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "12h ago",
+          "percentageIncrease": "100%"
+        },
+        {
+          "name": "tariff stimulus check",
+          "relevanceScore": 80,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "20h ago",
+          "percentageIncrease": "100%"
+        },
+        {
+          "name": "bombas",
+          "relevanceScore": 80,
+          "category": "Law and Government",
+          "searchVolume": "200+",
+          "started": "11h ago",
+          "percentageIncrease": "100%"
+        },
+        {
+          "name": "ecuador",
+          "relevanceScore": 80,
+          "category": "Law and Government",
+          "searchVolume": "200+",
+          "started": "23h ago",
+          "percentageIncrease": "700%"
+        }
+      ]
+    },
+    {
+      "name": "Arizona",
+      "code": "AZ",
+      "topTopic": "why are flags at half mast today",
+      "category": "Law and Government",
+      "trendingScore": 80,
+      "topics": [
+        {
+          "name": "why are flags at half mast today",
+          "relevanceScore": 80,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "10h ago",
+          "percentageIncrease": "200%"
+        }
+      ]
+    },
+    {
+      "name": "Florida",
+      "code": "FL",
+      "topTopic": "venezuelan military",
+      "category": "Law and Government",
+      "trendingScore": 80,
+      "topics": [
+        {
+          "name": "venezuelan military",
+          "relevanceScore": 80,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "8h ago",
+          "percentageIncrease": "700%"
+        },
+        {
+          "name": "oj simpson",
+          "relevanceScore": 80,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "16h ago",
+          "percentageIncrease": "300%"
+        },
+        {
+          "name": "why are flags at half mast today",
+          "relevanceScore": 80,
+          "category": "Law and Government",
+          "searchVolume": "200+",
+          "started": "10h ago",
+          "percentageIncrease": "100%"
+        },
+        {
+          "name": "tariff stimulus check",
+          "relevanceScore": 80,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "15h ago",
+          "percentageIncrease": "300%"
+        },
+        {
+          "name": "laura loomer",
+          "relevanceScore": 80,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "16h ago",
+          "percentageIncrease": "100%"
+        }
+      ]
+    },
+    {
+      "name": "Georgia",
+      "code": "GA",
+      "topTopic": "why are the flags at half mast today",
+      "category": "Law and Government",
+      "trendingScore": 80,
+      "topics": [
+        {
+          "name": "why are the flags at half mast today",
+          "relevanceScore": 80,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "9h ago",
+          "percentageIncrease": "300%"
+        },
+        {
+          "name": "venezuelan military",
+          "relevanceScore": 80,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "6h ago",
+          "percentageIncrease": "600%"
+        },
+        {
+          "name": "laura loomer",
+          "relevanceScore": 80,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "15h ago",
+          "trendBreakdown": "taylor",
+          "percentageIncrease": "200%"
+        }
+      ]
+    },
+    {
+      "name": "Illinois",
+      "code": "IL",
+      "topTopic": "purple",
+      "category": "Law and Government",
+      "trendingScore": 80,
+      "topics": [
+        {
+          "name": "purple",
+          "relevanceScore": 80,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "23h ago",
+          "percentageIncrease": "100%"
+        },
+        {
+          "name": "venezuelan military",
+          "relevanceScore": 80,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "6h ago",
+          "percentageIncrease": "500%"
+        },
+        {
+          "name": "oj simpson",
+          "relevanceScore": 80,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "3h ago",
+          "percentageIncrease": "300%"
+        },
+        {
+          "name": "ifc",
+          "relevanceScore": 80,
+          "category": "Law and Government",
+          "searchVolume": "200+",
+          "started": "24h ago",
+          "percentageIncrease": "500%"
+        },
+        {
+          "name": "laura loomer",
+          "relevanceScore": 80,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "22h ago",
+          "percentageIncrease": "300%"
+        }
+      ]
+    },
+    {
+      "name": "Indiana",
+      "code": "IN",
+      "topTopic": "amber czech",
+      "category": "Law and Government",
+      "trendingScore": 80,
+      "topics": [
+        {
+          "name": "amber czech",
+          "relevanceScore": 80,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "16h ago",
+          "percentageIncrease": "200%"
+        }
+      ]
+    },
+    {
+      "name": "Maryland",
+      "code": "MD",
+      "topTopic": "why are flags at half mast today",
+      "category": "Law and Government",
+      "trendingScore": 80,
+      "topics": [
+        {
+          "name": "why are flags at half mast today",
+          "relevanceScore": 80,
+          "category": "Law and Government",
+          "searchVolume": "200+",
+          "started": "12h ago",
+          "percentageIncrease": "200%"
+        }
+      ]
+    },
+    {
+      "name": "Michigan",
+      "code": "MI",
+      "topTopic": "why are flags at half mast today",
+      "category": "Law and Government",
+      "trendingScore": 80,
+      "topics": [
+        {
+          "name": "why are flags at half mast today",
+          "relevanceScore": 80,
+          "category": "Law and Government",
+          "searchVolume": "200+",
+          "started": "10h ago",
+          "percentageIncrease": "300%"
+        },
+        {
+          "name": "traverse city shooting",
+          "relevanceScore": 80,
+          "category": "Law and Government",
+          "searchVolume": "200+",
+          "started": "4h ago",
+          "trendBreakdown": "traverse",
+          "percentageIncrease": "400%"
+        }
+      ]
+    },
+    {
+      "name": "Massachusetts",
+      "code": "MA",
+      "topTopic": "bombas",
+      "category": "Law and Government",
+      "trendingScore": 80,
+      "topics": [
+        {
+          "name": "bombas",
+          "relevanceScore": 80,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "16h ago",
+          "percentageIncrease": "100%"
+        }
+      ]
+    },
+    {
+      "name": "Missouri",
+      "code": "MO",
+      "topTopic": "chief",
+      "category": "Law and Government",
+      "trendingScore": 80,
+      "topics": [
+        {
+          "name": "chief",
+          "relevanceScore": 80,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "3h ago",
+          "percentageIncrease": "600%"
+        }
+      ]
+    },
+    {
+      "name": "New Jersey",
+      "code": "NJ",
+      "topTopic": "why are flags at half mast today",
+      "category": "Law and Government",
+      "trendingScore": 80,
+      "topics": [
+        {
+          "name": "why are flags at half mast today",
+          "relevanceScore": 80,
+          "category": "Law and Government",
+          "searchVolume": "200+",
+          "started": "11h ago",
+          "percentageIncrease": "400%"
+        },
+        {
+          "name": "cne ecuador",
+          "relevanceScore": 80,
+          "category": "Law and Government",
+          "searchVolume": "200+",
+          "started": "4h ago",
+          "percentageIncrease": "500%"
+        }
+      ]
+    },
+    {
+      "name": "North Carolina",
+      "code": "NC",
+      "topTopic": "charlotte news",
+      "category": "Law and Government",
+      "trendingScore": 80,
+      "topics": [
+        {
+          "name": "charlotte news",
+          "relevanceScore": 80,
+          "category": "Law and Government",
+          "searchVolume": "5K+",
+          "started": "16h ago",
+          "trendBreakdown": "charlotte",
+          "percentageIncrease": "700%"
+        },
+        {
+          "name": "why are flags at half mast today",
+          "relevanceScore": 80,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "10h ago",
+          "percentageIncrease": "200%"
+        },
+        {
+          "name": "oj simpson",
+          "relevanceScore": 80,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "4h ago",
+          "percentageIncrease": "300%"
+        },
+        {
+          "name": "ice",
+          "relevanceScore": 80,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "8h ago",
+          "percentageIncrease": "100%"
+        },
+        {
+          "name": "venezuela",
+          "relevanceScore": 80,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "16h ago",
+          "percentageIncrease": "100%"
+        }
+      ]
+    },
+    {
+      "name": "New York",
+      "code": "NY",
+      "topTopic": "kris boyd",
+      "category": "Law and Government",
+      "trendingScore": 80,
+      "topics": [
+        {
+          "name": "kris boyd",
+          "relevanceScore": 80,
+          "category": "Law and Government",
+          "searchVolume": "20K+",
+          "started": "11h ago",
+          "trendBreakdown": "jets"
+        },
+        {
+          "name": "cne ecuador",
+          "relevanceScore": 80,
+          "category": "Law and Government",
+          "searchVolume": "1K+",
+          "started": "4h ago",
+          "trendBreakdown": "consulta",
+          "percentageIncrease": "400%"
+        },
+        {
+          "name": "venezuelan military",
+          "relevanceScore": 80,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "8h ago",
+          "percentageIncrease": "400%"
+        },
+        {
+          "name": "why are flags at half mast today",
+          "relevanceScore": 80,
+          "category": "Law and Government",
+          "searchVolume": "200+",
+          "started": "10h ago",
+          "percentageIncrease": "100%"
+        },
+        {
+          "name": "travel",
+          "relevanceScore": 80,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "20h ago",
+          "percentageIncrease": "200%"
+        },
+        {
+          "name": "olivia henderson",
+          "relevanceScore": 80,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "18h ago",
+          "percentageIncrease": "200%"
+        },
+        {
+          "name": "laura loomer",
+          "relevanceScore": 80,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "22h ago",
+          "percentageIncrease": "100%"
+        },
+        {
+          "name": "ecuador",
+          "relevanceScore": 80,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "23h ago",
+          "percentageIncrease": "400%"
+        }
+      ]
+    },
+    {
+      "name": "Ohio",
+      "code": "OH",
+      "topTopic": "venezuelan military",
+      "category": "Law and Government",
+      "trendingScore": 80,
+      "topics": [
+        {
+          "name": "venezuelan military",
+          "relevanceScore": 80,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "6h ago",
+          "percentageIncrease": "600%"
+        },
+        {
+          "name": "purple",
+          "relevanceScore": 80,
+          "category": "Law and Government",
+          "searchVolume": "200+",
+          "started": "23h ago",
+          "percentageIncrease": "200%"
+        },
+        {
+          "name": "why are the flags at half mast today",
+          "relevanceScore": 80,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "11h ago",
+          "percentageIncrease": "300%"
+        }
+      ]
+    },
+    {
+      "name": "Oregon",
+      "code": "OR",
+      "topTopic": "devon dobek update",
+      "category": "Law and Government",
+      "trendingScore": 80,
+      "topics": [
+        {
+          "name": "devon dobek update",
+          "relevanceScore": 80,
+          "category": "Law and Government",
+          "searchVolume": "200+",
+          "started": "21h ago",
+          "trendBreakdown": "devon",
+          "percentageIncrease": "300%"
+        }
+      ]
+    },
+    {
+      "name": "Pennsylvania",
+      "code": "PA",
+      "topTopic": "why are flags at half mast today",
+      "category": "Law and Government",
+      "trendingScore": 80,
+      "topics": [
+        {
+          "name": "why are flags at half mast today",
+          "relevanceScore": 80,
+          "category": "Law and Government",
+          "searchVolume": "2K+",
+          "started": "12h ago",
+          "trendBreakdown": "why",
+          "percentageIncrease": "300%"
+        },
+        {
+          "name": "venezuelan military",
+          "relevanceScore": 80,
+          "category": "Law and Government",
+          "searchVolume": "200+",
+          "started": "7h ago",
+          "percentageIncrease": "400%"
+        },
+        {
+          "name": "oj simpson",
+          "relevanceScore": 80,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "4h ago",
+          "percentageIncrease": "300%"
+        }
+      ]
+    },
+    {
+      "name": "South Carolina",
+      "code": "SC",
+      "topTopic": "amber alert charlotte nc",
+      "category": "Law and Government",
+      "trendingScore": 80,
+      "topics": [
+        {
+          "name": "amber alert charlotte nc",
+          "relevanceScore": 80,
+          "category": "Law and Government",
+          "searchVolume": "200+",
+          "started": "14h ago"
+        }
+      ]
+    },
+    {
+      "name": "Tennessee",
+      "code": "TN",
+      "topTopic": "trump and bill",
+      "category": "Law and Government",
+      "trendingScore": 80,
+      "topics": [
+        {
+          "name": "trump and bill",
+          "relevanceScore": 80,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "23h ago",
+          "percentageIncrease": "100%"
+        }
+      ]
+    },
+    {
+      "name": "Texas",
+      "code": "TX",
+      "topTopic": "venezuelan military",
+      "category": "Law and Government",
+      "trendingScore": 80,
+      "topics": [
+        {
+          "name": "venezuelan military",
+          "relevanceScore": 80,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "8h ago",
+          "percentageIncrease": "400%"
+        }
+      ]
+    },
+    {
+      "name": "Virginia",
+      "code": "VA",
+      "topTopic": "why are flags at half mast today",
+      "category": "Law and Government",
+      "trendingScore": 80,
+      "topics": [
+        {
+          "name": "why are flags at half mast today",
+          "relevanceScore": 80,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "11h ago",
+          "percentageIncrease": "200%"
+        },
+        {
+          "name": "venezuelan military",
+          "relevanceScore": 80,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "6h ago"
+        },
+        {
+          "name": "oj simpson",
+          "relevanceScore": 80,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "4h ago",
+          "percentageIncrease": "300%"
+        }
+      ]
+    },
+    {
+      "name": "District of Columbia",
+      "code": "DC",
+      "topTopic": "why are flags at half mast today",
+      "category": "Law and Government",
+      "trendingScore": 80,
+      "topics": [
+        {
+          "name": "why are flags at half mast today",
+          "relevanceScore": 80,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "11h ago",
+          "percentageIncrease": "200%"
+        },
+        {
+          "name": "purple",
+          "relevanceScore": 80,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "12h ago",
+          "percentageIncrease": "300%"
+        },
+        {
+          "name": "spain",
+          "relevanceScore": 80,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "13h ago",
+          "percentageIncrease": "400%"
+        }
+      ]
+    }
+  ]
 }

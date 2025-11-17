@@ -292,16 +292,16 @@ export function getColorByTopicCount(topicCount, isDark = false) {
     // Dark theme: darker grays for more topics (but lighter than light theme for contrast)
     // 1 topic = light gray, 10+ topics = darker gray
     const grayValues = [
-      200, // 1 topic - light gray
-      180, // 2 topics
-      160, // 3 topics
-      140, // 4 topics
-      120, // 5 topics
-      100, // 6 topics
-      80,  // 7 topics
-      70,  // 8 topics
-      60,  // 9 topics
-      50,  // 10+ topics - darker gray
+      160, // 1 topic - light gray (was 3 topics)
+      140, // 2 topics (was 4 topics)
+      120, // 3 topics (was 5 topics)
+      100, // 4 topics (was 6 topics)
+      80,  // 5 topics (was 7 topics)
+      70,  // 6 topics (was 8 topics)
+      60,  // 7 topics (was 9 topics)
+      50,  // 8 topics (was 10+ topics)
+      45,  // 9 topics
+      40,  // 10+ topics - darker gray
     ]
     const index = Math.min(Math.max(topicCount, 1), 10) - 1
     const gray = grayValues[index]
@@ -311,16 +311,16 @@ export function getColorByTopicCount(topicCount, isDark = false) {
     // Light theme: darker grays for more topics
     // 1 topic = light gray, 10+ topics = dark gray
     const grayValues = [
-      240, // 1 topic - very light gray
-      220, // 2 topics
-      200, // 3 topics
-      180, // 4 topics
-      160, // 5 topics
-      140, // 6 topics
-      120, // 7 topics
-      100, // 8 topics
-      80,  // 9 topics
-      60,  // 10+ topics - dark gray
+      200, // 1 topic - light gray (was 3 topics)
+      180, // 2 topics (was 4 topics)
+      160, // 3 topics (was 5 topics)
+      140, // 4 topics (was 6 topics)
+      120, // 5 topics (was 7 topics)
+      100, // 6 topics (was 8 topics)
+      80,  // 7 topics (was 9 topics)
+      60,  // 8 topics (was 10+ topics)
+      50,  // 9 topics
+      40,  // 10+ topics - dark gray
     ]
     const index = Math.min(Math.max(topicCount, 1), 10) - 1
     const gray = grayValues[index]
