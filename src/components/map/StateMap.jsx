@@ -128,128 +128,97 @@ const GeoJSONRenderer = ({ geoJSONDataRef, styleRef, onEachFeatureRef, dataReady
       return
     }
 
-    if (!geoJSONDataRef.current || !geoJSONDataRef.current.features || geoJSONDataRef.current.features.length === 0) {
-      console.log('[GeoJSONRenderer] No GeoJSON data available yet')
+    // Function to create the layer if data is available
+    const createLayerIfReady = () => {
+      if (!geoJSONDataRef.current || !geoJSONDataRef.current.features || geoJSONDataRef.current.features.length === 0) {
+        console.log('[GeoJSONRenderer] No GeoJSON data available yet')
+        return false
+      }
+
+      if (!onEachFeatureRef.current || !styleRef.current) {
+        console.log('[GeoJSONRenderer] Style or onEachFeature not ready yet')
+        return false
+      }
+
+      if (layerRef.current) {
+        return true // Layer already created
+      }
+
+      // Create the layer
+      console.log('[GeoJSONRenderer] Creating GeoJSON layer with', geoJSONDataRef.current.features.length, 'features')
+      const geoJsonLayer = L.geoJSON(geoJSONDataRef.current, {
+        style: styleRef.current,
+        onEachFeature: onEachFeatureRef.current,
+        pane: 'overlayPane',
+        interactive: true,
+      })
+
+      if (geoJsonLayerRef) {
+        geoJsonLayerRef.current = geoJsonLayer
+      }
+
+      if (allLayersRef) {
+        const geoJsonLayers = geoJsonLayer.getLayers()
+        allLayersRef.current = geoJsonLayers
+      }
+
+      geoJsonLayer.eachLayer((layer) => {
+        if (layer.setInteractive) {
+          layer.setInteractive(true)
+        }
+        if (layer._path) {
+          layer._path.style.pointerEvents = 'auto'
+          layer._path.style.cursor = 'pointer'
+          const pathClickHandler = (e) => {
+            if (layer.fire) {
+              layer.fire('click', {
+                latlng: map.mouseEventToLatLng(e),
+                layer: layer,
+                originalEvent: e
+              })
+            }
+          }
+          layer._path.addEventListener('click', pathClickHandler)
+          layer._pathClickHandler = pathClickHandler
+        }
+      })
+
+      geoJsonLayer.addTo(map)
+      layerRef.current = geoJsonLayer
+      geoJsonLayer.bringToFront()
+      console.log('[GeoJSONRenderer] GeoJSON layer added to map:', geoJsonLayer.getLayers().length, 'layers')
+      return true
+    }
+
+    // Try to create immediately
+    if (createLayerIfReady()) {
       return
     }
 
-    // Ensure onEachFeatureRef is set before creating layer
-    if (!onEachFeatureRef.current) {
-      console.warn('[GeoJSONRenderer] onEachFeatureRef.current is not set yet, waiting...')
-      // Wait a bit and try again
-      const timer = setTimeout(() => {
-        if (onEachFeatureRef.current && !layerRef.current) {
-          // Retry creating the layer
-          const geoJsonLayer = L.geoJSON(geoJSONDataRef.current, {
-            style: styleRef.current,
-            onEachFeature: onEachFeatureRef.current,
-            pane: 'overlayPane',
-            interactive: true,
-          })
-          
-          if (geoJsonLayerRef) {
-            geoJsonLayerRef.current = geoJsonLayer
-          }
-          
-          if (allLayersRef) {
-            const existingLayers = allLayersRef.current || []
-            const geoJsonLayers = geoJsonLayer.getLayers()
-            allLayersRef.current = geoJsonLayers
-          }
-          
-          geoJsonLayer.addTo(map)
-          layerRef.current = geoJsonLayer
-          geoJsonLayer.bringToFront()
-          console.log('GeoJSON layer added to map (retry):', geoJsonLayer.getLayers().length, 'layers')
-        }
-      }, 100)
-      return () => clearTimeout(timer)
-    }
-
-    // Create GeoJSON layer using refs for style functions
-    const geoJsonLayer = L.geoJSON(geoJSONDataRef.current, {
-      style: styleRef.current,
-      onEachFeature: onEachFeatureRef.current,
-      pane: 'overlayPane', // Ensure it's in the overlay pane (above tiles)
-      interactive: true, // Allow interaction with states
-    })
-
-    // Store the GeoJSON layer itself for accessing layers later
-    if (geoJsonLayerRef) {
-      geoJsonLayerRef.current = geoJsonLayer
-    }
-
-    // Store all individual layers for dimming functionality
-    if (allLayersRef) {
-      const geoJsonLayers = geoJsonLayer.getLayers()
-      allLayersRef.current = geoJsonLayers
-    }
-    
-    // Ensure all layers are interactive and have pointer events
-    geoJsonLayer.eachLayer((layer) => {
-      if (layer.setInteractive) {
-        layer.setInteractive(true)
-      }
-      // Ensure the underlying SVG element is clickable
-      if (layer._path) {
-        layer._path.style.pointerEvents = 'auto'
-        layer._path.style.cursor = 'pointer'
-        // Add direct click listener as fallback
-        const pathClickHandler = (e) => {
-          // Fire Leaflet click event on the layer
-          if (layer.fire) {
-            layer.fire('click', {
-              latlng: map.mouseEventToLatLng(e),
-              layer: layer,
-              originalEvent: e
-            })
-          }
-        }
-        layer._path.addEventListener('click', pathClickHandler)
-        // Store handler for cleanup
-        layer._pathClickHandler = pathClickHandler
-      }
-    })
-
-    // Add to map
-    geoJsonLayer.addTo(map)
-    layerRef.current = geoJsonLayer
-    
-    // Bring layer to front so it appears above tile layer
-    geoJsonLayer.bringToFront()
-    
-    console.log('GeoJSON layer added to map:', geoJsonLayer.getLayers().length, 'layers')
-    const bounds = geoJsonLayer.getBounds()
-    console.log('GeoJSON layer bounds:', bounds ? `${bounds.getSouth()} to ${bounds.getNorth()}, ${bounds.getWest()} to ${bounds.getEast()}` : 'null')
-    console.log('Map zoom:', map.getZoom(), 'Center:', map.getCenter() ? `${map.getCenter().lat}, ${map.getCenter().lng}` : 'null')
-    console.log('Map bounds:', map.getBounds() ? `${map.getBounds().getSouth()} to ${map.getBounds().getNorth()}, ${map.getBounds().getWest()} to ${map.getBounds().getEast()}` : 'null')
-    
-    // Check if layer is actually on the map
-    const hasLayer = map.hasLayer(geoJsonLayer)
-    console.log('Map has GeoJSON layer:', hasLayer)
-    
-    // Check overlay pane for SVG
-    setTimeout(() => {
-      const overlayPane = map.getPane('overlayPane')
-      if (overlayPane) {
-        const svgs = overlayPane.querySelectorAll('svg')
-        console.log('SVG elements in overlayPane:', svgs.length)
-        svgs.forEach((svg, i) => {
-          const paths = svg.querySelectorAll('path')
-          console.log(`SVG ${i}: ${paths.length} paths, viewBox: ${svg.getAttribute('viewBox')}`)
-        })
+    // If not ready, set up polling to check periodically
+    const checkInterval = setInterval(() => {
+      if (createLayerIfReady()) {
+        clearInterval(checkInterval)
       }
     }, 100)
 
-    // Cleanup only on unmount
+    // Also try after a short delay
+    const timeout = setTimeout(() => {
+      if (createLayerIfReady()) {
+        clearInterval(checkInterval)
+      }
+    }, 200)
+
     return () => {
+      clearInterval(checkInterval)
+      clearTimeout(timeout)
       if (layerRef.current) {
-        console.log('Removing GeoJSON layer from map')
+        console.log('[GeoJSONRenderer] Removing GeoJSON layer from map')
         map.removeLayer(layerRef.current)
         layerRef.current = null
       }
     }
-  }, [map, dataReady]) // Recreate when data becomes available
+  }, [map, dataReady]) // Re-run when dataReady changes or map is available
 
   return null
 }
