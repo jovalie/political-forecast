@@ -360,8 +360,8 @@ const StateMap = ({ statesData = null, statesTopicData = null, dataTimestamp = n
             // Skip DC marker (it's not a state layer and handles its own styling)
             if (otherLayer !== clickedLayer && !otherLayer.isDC) {
               otherLayer.setStyle({
-                fillOpacity: 0.15,
-                opacity: 0.3,
+                fillOpacity: 0.4,
+                opacity: 0.6,
               })
               dimmedCount++
             }
@@ -495,8 +495,8 @@ const StateMap = ({ statesData = null, statesTopicData = null, dataTimestamp = n
             // Skip DC marker (it's not a state layer)
             if (otherLayer !== currentLayer && otherLayer !== clickedLayerRef.current && !otherLayer.isDC) {
               otherLayer.setStyle({
-                fillOpacity: 0.15,
-                opacity: 0.3,
+                fillOpacity: 0.4,
+                opacity: 0.6,
               })
             }
           })
@@ -578,8 +578,8 @@ const StateMap = ({ statesData = null, statesTopicData = null, dataTimestamp = n
             allLayers.forEach((otherLayer) => {
               if (otherLayer !== clickedLayerRef.current) {
                 otherLayer.setStyle({
-                  fillOpacity: 0.15,
-                  opacity: 0.3,
+                  fillOpacity: 0.4,
+                  opacity: 0.6,
                 })
               }
             })
@@ -598,8 +598,8 @@ const StateMap = ({ statesData = null, statesTopicData = null, dataTimestamp = n
             // Restore the current layer to dimmed state if it's not the clicked one
             if (currentLayer !== clickedLayerRef.current) {
               currentLayer.setStyle({
-                fillOpacity: 0.15,
-                opacity: 0.3,
+                fillOpacity: 0.4,
+                opacity: 0.6,
               })
             }
           }
@@ -891,8 +891,8 @@ const StateMap = ({ statesData = null, statesTopicData = null, dataTimestamp = n
           // Skip DC marker (it's not a state layer)
           if (otherLayer !== clickedLayerRef.current && !otherLayer.isDC) {
             otherLayer.setStyle({
-              fillOpacity: 0.15,
-              opacity: 0.3,
+              fillOpacity: 0.4,
+              opacity: 0.6,
             })
           }
         })
