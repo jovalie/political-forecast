@@ -173,42 +173,132 @@ async function extractTrendsFromPage(page) {
           }
           
           // Extract percentage increase from all cells (Google Trends structure may vary)
-          // Format: "+500%", "500%", "arrow_upward 500%", "↑ 500%", etc.
-          // Handle multi-digit percentages (4-5 digits like 1000%, 10000%)
+          // Format: "+500%", "500%", "arrow_upward 500%", "↑ 500%", "1,000%", "1000%", etc.
+          // Handle multi-digit percentages (up to 6 digits like 100000%)
           let percentageIncrease = null
           
           // Check all cells for percentage (cell 2, 3, 4, etc.)
           const allCellTexts = [cell2Text, cell3Text, cell4Text, cell5Text].filter(t => t && t.length > 0)
           
+          // Also check the entire row text for percentage
+          const rowText = row.textContent.trim()
+          allCellTexts.push(rowText)
+          
           for (const cellText of allCellTexts) {
             // Try multiple patterns to catch different formats
-            // Pattern 1: "+500%" or "+1000%" (with plus sign)
-            let percentageMatch = cellText.match(/\+([1-9]\d{0,4}|0)%/i)
+            // Pattern 1: "+500%" or "+1000%" or "+1,000%" (with plus sign, with or without comma)
+            let percentageMatch = cellText.match(/\+([1-9]\d{0,5}(?:,\d{3})*|0)%/i)
             
             // Pattern 2: After arrow indicators (various formats)
             if (!percentageMatch) {
-              percentageMatch = cellText.match(/(?:arrow[_\s]*upward|arrow[_\s]*down|↑|↓|up|down|trending[_\s]*up|trending[_\s]*down)[\s]*[+\-]?([1-9]\d{0,4}|0)%/i)
+              percentageMatch = cellText.match(/(?:arrow[_\s]*upward|arrow[_\s]*down|↑|↓|up|down|trending[_\s]*up|trending[_\s]*down)[\s]*[+\-]?([1-9]\d{0,5}(?:,\d{3})*|0)%/i)
             }
             
-            // Pattern 3: Standalone percentage with word boundaries
+            // Pattern 3: Standalone percentage with word boundaries (with or without comma)
             if (!percentageMatch) {
-              percentageMatch = cellText.match(/(?:^|\s|>|&lt;)([+\-]?)([1-9]\d{0,4}|0)%(?:\s|$|&lt;|>)/i)
+              percentageMatch = cellText.match(/(?:^|\s|>|&lt;)([+\-]?)([1-9]\d{0,5}(?:,\d{3})*|0)%(?:\s|$|&lt;|>)/i)
             }
             
-            // Pattern 4: Any percentage in the cell (more permissive)
+            // Pattern 4: Any percentage in the cell (more permissive, with or without comma)
             if (!percentageMatch) {
-              percentageMatch = cellText.match(/\b([+\-]?)([1-9]\d{0,4}|0)%\b/i)
+              percentageMatch = cellText.match(/\b([+\-]?)([1-9]\d{0,5}(?:,\d{3})*|0)%\b/i)
+            }
+            
+            // Pattern 5: Percentage without word boundaries (catch edge cases)
+            if (!percentageMatch) {
+              percentageMatch = cellText.match(/([+\-]?)([1-9]\d{0,5}(?:,\d{3})*|0)%/i)
             }
             
             if (percentageMatch) {
               // Extract the number (could be in match[1] or match[2] depending on pattern)
-              const matchedNumber = percentageMatch[2] || percentageMatch[1]
+              let matchedNumber = percentageMatch[2] || percentageMatch[1]
+              
+              // Remove commas if present
+              if (matchedNumber) {
+                matchedNumber = matchedNumber.replace(/,/g, '')
+              }
               
               // Validate it's a proper number (not "000", must be "0" or start with 1-9)
-            if (matchedNumber && matchedNumber !== '000' && matchedNumber !== '0000' && matchedNumber !== '00000' && 
-                (matchedNumber === '0' || /^[1-9]/.test(matchedNumber))) {
-              percentageIncrease = matchedNumber + '%'
+              if (matchedNumber && matchedNumber !== '000' && matchedNumber !== '0000' && matchedNumber !== '00000' && matchedNumber !== '000000' && 
+                  (matchedNumber === '0' || /^[1-9]/.test(matchedNumber))) {
+                percentageIncrease = matchedNumber + '%'
                 break // Found it, stop looking
+              }
+            }
+          }
+          
+          // Also check aria-labels and data attributes for percentage
+          if (!percentageIncrease) {
+            const rowElement = row
+            if (rowElement) {
+              // Check aria-label
+              const ariaLabel = rowElement.getAttribute('aria-label') || ''
+              const ariaMatch = ariaLabel.match(/([+\-]?)([1-9]\d{0,5}(?:,\d{3})*|0)%/i)
+              if (ariaMatch) {
+                let matchedNumber = ariaMatch[2] || ariaMatch[1]
+                if (matchedNumber) {
+                  matchedNumber = matchedNumber.replace(/,/g, '')
+                  if (matchedNumber && matchedNumber !== '000' && matchedNumber !== '0000' && matchedNumber !== '00000' && matchedNumber !== '000000' && 
+                      (matchedNumber === '0' || /^[1-9]/.test(matchedNumber))) {
+                    percentageIncrease = matchedNumber + '%'
+                  }
+                }
+              }
+              
+              // Check data attributes
+              if (!percentageIncrease) {
+                const dataAttrs = Array.from(rowElement.attributes)
+                  .filter(attr => attr.name.startsWith('data-'))
+                  .map(attr => attr.value)
+                  .join(' ')
+                const dataMatch = dataAttrs.match(/([+\-]?)([1-9]\d{0,5}(?:,\d{3})*|0)%/i)
+                if (dataMatch) {
+                  let matchedNumber = dataMatch[2] || dataMatch[1]
+                  if (matchedNumber) {
+                    matchedNumber = matchedNumber.replace(/,/g, '')
+                    if (matchedNumber && matchedNumber !== '000' && matchedNumber !== '0000' && matchedNumber !== '00000' && matchedNumber !== '000000' && 
+                        (matchedNumber === '0' || /^[1-9]/.test(matchedNumber))) {
+                      percentageIncrease = matchedNumber + '%'
+                    }
+                  }
+                }
+              }
+              
+              // Check all child elements for percentage in their text or attributes
+              if (!percentageIncrease) {
+                const allElements = rowElement.querySelectorAll('*')
+                for (const el of allElements) {
+                  const elText = el.textContent || ''
+                  const elMatch = elText.match(/([+\-]?)([1-9]\d{0,5}(?:,\d{3})*|0)%/i)
+                  if (elMatch) {
+                    let matchedNumber = elMatch[2] || elMatch[1]
+                    if (matchedNumber) {
+                      matchedNumber = matchedNumber.replace(/,/g, '')
+                      if (matchedNumber && matchedNumber !== '000' && matchedNumber !== '0000' && matchedNumber !== '00000' && matchedNumber !== '000000' && 
+                          (matchedNumber === '0' || /^[1-9]/.test(matchedNumber))) {
+                        percentageIncrease = matchedNumber + '%'
+                        break
+                      }
+                    }
+                  }
+                  
+                  // Also check element attributes
+                  if (!percentageIncrease) {
+                    const elAriaLabel = el.getAttribute('aria-label') || ''
+                    const elAriaMatch = elAriaLabel.match(/([+\-]?)([1-9]\d{0,5}(?:,\d{3})*|0)%/i)
+                    if (elAriaMatch) {
+                      let matchedNumber = elAriaMatch[2] || elAriaMatch[1]
+                      if (matchedNumber) {
+                        matchedNumber = matchedNumber.replace(/,/g, '')
+                        if (matchedNumber && matchedNumber !== '000' && matchedNumber !== '0000' && matchedNumber !== '00000' && matchedNumber !== '000000' && 
+                            (matchedNumber === '0' || /^[1-9]/.test(matchedNumber))) {
+                          percentageIncrease = matchedNumber + '%'
+                          break
+                        }
+                      }
+                    }
+                  }
+                }
               }
             }
           }
@@ -572,35 +662,45 @@ async function extractTrendsFromPage(page) {
               searchVolume = volumeMatch[1]
             }
 
-            // Extract percentage increase - look for patterns like "+500%", "500%", "1000%", "10000%"
-            // Handle multi-digit percentages (4-5 digits like 1000%, 10000%)
+            // Extract percentage increase - look for patterns like "+500%", "500%", "1000%", "1,000%", "10000%"
+            // Handle multi-digit percentages (up to 6 digits like 100000%)
             // Check multiple patterns to catch different Google Trends formats
             let percentageIncrease = null
             
-            // Pattern 1: "+500%" or "+1000%" (with plus sign prefix)
-            let percentageMatch = rowText.match(/\+([1-9]\d{0,4}|0)%/i)
+            // Pattern 1: "+500%" or "+1000%" or "+1,000%" (with plus sign prefix, with or without comma)
+            let percentageMatch = rowText.match(/\+([1-9]\d{0,5}(?:,\d{3})*|0)%/i)
             
             // Pattern 2: After arrow indicators (various formats)
             if (!percentageMatch) {
-              percentageMatch = rowText.match(/(?:arrow[_\s]*upward|arrow[_\s]*down|↑|↓|up|down|trending[_\s]*up|trending[_\s]*down)[\s]*[+\-]?([1-9]\d{0,4}|0)%/i)
+              percentageMatch = rowText.match(/(?:arrow[_\s]*upward|arrow[_\s]*down|↑|↓|up|down|trending[_\s]*up|trending[_\s]*down)[\s]*[+\-]?([1-9]\d{0,5}(?:,\d{3})*|0)%/i)
             }
             
-            // Pattern 3: Standalone percentage with word boundaries
+            // Pattern 3: Standalone percentage with word boundaries (with or without comma)
             if (!percentageMatch) {
-              percentageMatch = rowText.match(/(?:^|\s|>|&lt;)([+\-]?)([1-9]\d{0,4}|0)%(?:\s|$|&lt;|>)/i)
+              percentageMatch = rowText.match(/(?:^|\s|>|&lt;)([+\-]?)([1-9]\d{0,5}(?:,\d{3})*|0)%(?:\s|$|&lt;|>)/i)
             }
             
-            // Pattern 4: Any percentage in the row text (more permissive)
+            // Pattern 4: Any percentage in the row text (more permissive, with or without comma)
             if (!percentageMatch) {
-              percentageMatch = rowText.match(/\b([+\-]?)([1-9]\d{0,4}|0)%\b/i)
+              percentageMatch = rowText.match(/\b([+\-]?)([1-9]\d{0,5}(?:,\d{3})*|0)%\b/i)
+            }
+            
+            // Pattern 5: Percentage without word boundaries (catch edge cases)
+            if (!percentageMatch) {
+              percentageMatch = rowText.match(/([+\-]?)([1-9]\d{0,5}(?:,\d{3})*|0)%/i)
             }
             
             if (percentageMatch) {
               // Extract the number (could be in match[1] or match[2] depending on pattern)
-              const matchedNumber = percentageMatch[2] || percentageMatch[1]
+              let matchedNumber = percentageMatch[2] || percentageMatch[1]
+              
+              // Remove commas if present
+              if (matchedNumber) {
+                matchedNumber = matchedNumber.replace(/,/g, '')
+              }
               
               // Validate it's a proper number (not "000", must be "0" or start with 1-9)
-              if (matchedNumber && matchedNumber !== '000' && matchedNumber !== '0000' && matchedNumber !== '00000' && 
+              if (matchedNumber && matchedNumber !== '000' && matchedNumber !== '0000' && matchedNumber !== '00000' && matchedNumber !== '000000' && 
                   (matchedNumber === '0' || /^[1-9]/.test(matchedNumber))) {
                 percentageIncrease = matchedNumber + '%'
               }
@@ -612,12 +712,15 @@ async function extractTrendsFromPage(page) {
               if (rowElement) {
                 // Check aria-label
                 const ariaLabel = rowElement.getAttribute('aria-label') || ''
-                const ariaMatch = ariaLabel.match(/([+\-]?)([1-9]\d{0,4}|0)%/i)
+                const ariaMatch = ariaLabel.match(/([+\-]?)([1-9]\d{0,5}(?:,\d{3})*|0)%/i)
                 if (ariaMatch) {
-                  const matchedNumber = ariaMatch[2] || ariaMatch[1]
-                  if (matchedNumber && matchedNumber !== '000' && matchedNumber !== '0000' && matchedNumber !== '00000' && 
-                      (matchedNumber === '0' || /^[1-9]/.test(matchedNumber))) {
-                    percentageIncrease = matchedNumber + '%'
+                  let matchedNumber = ariaMatch[2] || ariaMatch[1]
+                  if (matchedNumber) {
+                    matchedNumber = matchedNumber.replace(/,/g, '')
+                    if (matchedNumber && matchedNumber !== '000' && matchedNumber !== '0000' && matchedNumber !== '00000' && matchedNumber !== '000000' && 
+                        (matchedNumber === '0' || /^[1-9]/.test(matchedNumber))) {
+                      percentageIncrease = matchedNumber + '%'
+                    }
                   }
                 }
                 
@@ -627,12 +730,52 @@ async function extractTrendsFromPage(page) {
                     .filter(attr => attr.name.startsWith('data-'))
                     .map(attr => attr.value)
                     .join(' ')
-                  const dataMatch = dataAttrs.match(/([+\-]?)([1-9]\d{0,4}|0)%/i)
+                  const dataMatch = dataAttrs.match(/([+\-]?)([1-9]\d{0,5}(?:,\d{3})*|0)%/i)
                   if (dataMatch) {
-                    const matchedNumber = dataMatch[2] || dataMatch[1]
-                    if (matchedNumber && matchedNumber !== '000' && matchedNumber !== '0000' && matchedNumber !== '00000' && 
-                        (matchedNumber === '0' || /^[1-9]/.test(matchedNumber))) {
-                      percentageIncrease = matchedNumber + '%'
+                    let matchedNumber = dataMatch[2] || dataMatch[1]
+                    if (matchedNumber) {
+                      matchedNumber = matchedNumber.replace(/,/g, '')
+                      if (matchedNumber && matchedNumber !== '000' && matchedNumber !== '0000' && matchedNumber !== '00000' && matchedNumber !== '000000' && 
+                          (matchedNumber === '0' || /^[1-9]/.test(matchedNumber))) {
+                        percentageIncrease = matchedNumber + '%'
+                      }
+                    }
+                  }
+                }
+                
+                // Check all child elements for percentage in their text or attributes
+                if (!percentageIncrease) {
+                  const allElements = rowElement.querySelectorAll('*')
+                  for (const el of allElements) {
+                    const elText = el.textContent || ''
+                    const elMatch = elText.match(/([+\-]?)([1-9]\d{0,5}(?:,\d{3})*|0)%/i)
+                    if (elMatch) {
+                      let matchedNumber = elMatch[2] || elMatch[1]
+                      if (matchedNumber) {
+                        matchedNumber = matchedNumber.replace(/,/g, '')
+                        if (matchedNumber && matchedNumber !== '000' && matchedNumber !== '0000' && matchedNumber !== '00000' && matchedNumber !== '000000' && 
+                            (matchedNumber === '0' || /^[1-9]/.test(matchedNumber))) {
+                          percentageIncrease = matchedNumber + '%'
+                          break
+                        }
+                      }
+                    }
+                    
+                    // Also check element attributes
+                    if (!percentageIncrease) {
+                      const elAriaLabel = el.getAttribute('aria-label') || ''
+                      const elAriaMatch = elAriaLabel.match(/([+\-]?)([1-9]\d{0,5}(?:,\d{3})*|0)%/i)
+                      if (elAriaMatch) {
+                        let matchedNumber = elAriaMatch[2] || elAriaMatch[1]
+                        if (matchedNumber) {
+                          matchedNumber = matchedNumber.replace(/,/g, '')
+                          if (matchedNumber && matchedNumber !== '000' && matchedNumber !== '0000' && matchedNumber !== '00000' && matchedNumber !== '000000' && 
+                              (matchedNumber === '0' || /^[1-9]/.test(matchedNumber))) {
+                            percentageIncrease = matchedNumber + '%'
+                            break
+                          }
+                        }
+                      }
                     }
                   }
                 }
@@ -919,11 +1062,30 @@ export async function scrapeGoogleTrends(geoCode, options = {}) {
                 if (item.title || item.name || item.query || item.text) {
                   const title = item.title || item.name || item.query || item.text
                   if (title && typeof title === 'string' && title.length > 3 && title.length < 200) {
+                    // Extract percentage increase from various possible fields
+                    let percentageIncrease = null
+                    if (item.percentageIncrease || item.percentage || item.increase || item.change) {
+                      const pct = item.percentageIncrease || item.percentage || item.increase || item.change
+                      // Handle both string and number formats
+                      if (typeof pct === 'number') {
+                        percentageIncrease = pct.toString() + '%'
+                      } else if (typeof pct === 'string') {
+                        // Remove any existing % sign and add it back
+                        const cleaned = pct.replace(/%/g, '').trim()
+                        if (cleaned && /^\d+$/.test(cleaned)) {
+                          percentageIncrease = cleaned + '%'
+                        } else if (pct.includes('%')) {
+                          percentageIncrease = pct
+                        }
+                      }
+                    }
+                    
                     found.push({
                       title: title,
                       searchVolume: item.volume || item.searchVolume || item.count || 'N/A',
                       started: item.started || item.time || item.timestamp || 'N/A',
                       trendBreakdown: item.breakdown || item.related || null,
+                      percentageIncrease: percentageIncrease,
                       link: item.url || item.link || null,
                       index: found.length
                     })
@@ -1063,12 +1225,13 @@ export async function scrapeGoogleTrends(geoCode, options = {}) {
 }
 
 /**
- * Calculate relevance score based on search volume and recency
+ * Calculate relevance score based on search volume, recency, and percentage increase
  * @param {string} searchVolume - Search volume text
  * @param {string} started - Started time text
+ * @param {string|null} percentageIncrease - Percentage increase (e.g., "1000%", "500%")
  * @returns {number} Relevance score (0-100)
  */
-export function calculateRelevanceScore(searchVolume, started) {
+export function calculateRelevanceScore(searchVolume, started, percentageIncrease = null) {
   let score = 50 // Base score
 
   // Boost score based on search volume indicators
@@ -1091,6 +1254,28 @@ export function calculateRelevanceScore(searchVolume, started) {
     }
   }
 
+  // Boost score based on percentage increase (higher increase = higher score)
+  if (percentageIncrease) {
+    // Extract numeric value from percentage string (e.g., "1000%" -> 1000)
+    const pctMatch = percentageIncrease.toString().match(/(\d+)/)
+    if (pctMatch) {
+      const pctValue = parseInt(pctMatch[1], 10)
+      if (pctValue >= 10000) {
+        score += 30 // Very high increase (10000%+)
+      } else if (pctValue >= 1000) {
+        score += 25 // High increase (1000-9999%)
+      } else if (pctValue >= 500) {
+        score += 20 // Medium-high increase (500-999%)
+      } else if (pctValue >= 200) {
+        score += 15 // Medium increase (200-499%)
+      } else if (pctValue >= 100) {
+        score += 10 // Low-medium increase (100-199%)
+      } else if (pctValue >= 50) {
+        score += 5 // Low increase (50-99%)
+      }
+    }
+  }
+
   return Math.min(100, Math.max(0, score))
 }
 
@@ -1101,7 +1286,7 @@ export function calculateRelevanceScore(searchVolume, started) {
  */
 export function formatTrendsForOutput(trends) {
   return trends.map(trend => {
-    const relevanceScore = calculateRelevanceScore(trend.searchVolume, trend.started)
+    const relevanceScore = calculateRelevanceScore(trend.searchVolume, trend.started, trend.percentageIncrease)
     
     return {
       name: trend.title,

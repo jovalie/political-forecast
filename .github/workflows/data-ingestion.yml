@@ -85,6 +85,7 @@ jobs:
           DELAY_MS: 5000 # 5 second delay between requests
         run: npm run ingest
         continue-on-error: false
+        timeout-minutes: 110 # Allow up to 110 minutes for scraping (within 120 min job timeout)
 
       - name: Check for data changes
         id: check-changes
@@ -97,12 +98,16 @@ jobs:
             echo "No changes to data file"
           fi
 
+      - name: Get current branch
+        id: branch
+        run: echo "branch=$(git branch --show-current)" >> $GITHUB_OUTPUT
+
       - name: Commit and push changes
         if: steps.check-changes.outputs.has_changes == 'true'
         run: |
           git add public/data/states-topics.json
           git commit -m "Update trending topics data"
-          git push origin HEAD:main || git push origin HEAD:master
+          git push origin HEAD:${{ steps.branch.outputs.branch }}
 
       - name: Summary
         if: always()
@@ -120,7 +125,13 @@ jobs:
           echo "" >> $GITHUB_STEP_SUMMARY
           if [ "${{ steps.check-changes.outputs.has_changes }}" == "true" ]; then
             echo "🔄 Changes committed to repository" >> $GITHUB_STEP_SUMMARY
+            echo "🚀 Vercel will automatically redeploy on push" >> $GITHUB_STEP_SUMMARY
           else
-            echo "ℹ️ No changes detected" >> $GITHUB_STEP_SUMMARY
+            echo "ℹ️ No changes detected - data is up to date" >> $GITHUB_STEP_SUMMARY
           fi
+          echo "" >> $GITHUB_STEP_SUMMARY
+          echo "### Workflow Details" >> $GITHUB_STEP_SUMMARY
+          echo "- **Trigger**: ${{ github.event_name }}" >> $GITHUB_STEP_SUMMARY
+          echo "- **Run ID**: ${{ github.run_id }}" >> $GITHUB_STEP_SUMMARY
+          echo "- **Commit**: ${{ github.sha }}" >> $GITHUB_STEP_SUMMARY
 

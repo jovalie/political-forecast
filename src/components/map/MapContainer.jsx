@@ -79,9 +79,21 @@ const MapContainer = () => {
     const { name, topTopic, topics, trendingScore, category } = feature.properties
 
     // Find the full state data from statesTopicData if available
+    // Handle DC name variations: "Washington DC" and "District of Columbia"
     let stateData = null
     if (statesTopicData && name) {
-      stateData = statesTopicData.find((state) => state.name === name)
+      stateData = statesTopicData.find((state) => {
+        // Match exact name or handle DC name variations
+        if (state.name === name) {
+          return true
+        }
+        // Handle DC name variations
+        if ((name === 'Washington DC' || name === 'District of Columbia') &&
+            (state.name === 'Washington DC' || state.name === 'District of Columbia')) {
+          return true
+        }
+        return false
+      })
     }
 
     // Use merged data from feature if state data not found, or merge both
