@@ -39,6 +39,14 @@
   will-change: transform, opacity;
 }
 
+/* Desktop: Sidebar takes up 2/3 of viewport width */
+@media (min-width: 769px) {
+  .state-details-panel {
+    width: 66.67vw;
+    max-width: 66.67vw;
+  }
+}
+
 .state-details-panel.open {
   transform: translateX(0);
   opacity: 1;

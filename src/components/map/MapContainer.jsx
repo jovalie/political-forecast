@@ -1,9 +1,9 @@
-import React, { useEffect, useState } from 'react'
+import React, { useEffect, useState, useCallback } from 'react'
 import { MapContainer as LeafletMapContainer, TileLayer, useMap } from 'react-leaflet'
 import { useTheme } from '../ui/ThemeProvider'
 import StateMap from './StateMap'
 import StateDetailsPanel from './StateDetailsPanel'
-import { loadJSONData } from '../../utils/dataUtils'
+import { loadJSONData, getDataUrl } from '../../utils/dataUtils'
 import 'leaflet/dist/leaflet.css'
 import './MapContainer.css'
 
@@ -41,6 +41,11 @@ const MapContainer = () => {
   const [loadingTopics, setLoadingTopics] = useState(true)
   const [selectedState, setSelectedState] = useState(null)
   const [isSidebarOpen, setIsSidebarOpen] = useState(false)
+  
+  // Debug: Log sidebar state changes
+  useEffect(() => {
+    console.log('[MapContainer] Sidebar state changed - isOpen:', isSidebarOpen, 'selectedState:', selectedState?.name)
+  }, [isSidebarOpen, selectedState])
 
   // Load topic data (real per-state files)
   useEffect(() => {
@@ -56,6 +61,7 @@ const MapContainer = () => {
         const results = []
         let timestamp = null
 
+        console.log('[MapContainer] Loading topic data from individual state files')
         for (const code of stateCodes) {
           try {
             const file = await loadJSONData(`/data/states/${code}.json`)
@@ -66,14 +72,16 @@ const MapContainer = () => {
               results.push(file.states[0]) // push the state's data entry
             }
           } catch (err) {
-            console.warn(`Missing or unreadable ${code}.json`)
+            console.warn(`[MapContainer] Missing or unreadable ${code}.json`)
           }
         }
 
+        console.log(`[MapContainer] Loaded ${results.length} states with topic data`)
         setStatesTopicData(results)
         setDataTimestamp(timestamp)
       } catch (error) {
-        console.error('Error loading topic data:', error)
+        console.error('[MapContainer] Error loading topic data:', error)
+        // Continue without topic data - map will still work
       } finally {
         setLoadingTopics(false)
       }
@@ -83,31 +91,54 @@ const MapContainer = () => {
   }, [])
 
   // Handle state click - extract state data and open sidebar
-  const handleStateClick = (feature) => {
+  const handleStateClick = useCallback((feature) => {
+    console.log('[MapContainer] handleStateClick called with:', feature)
     if (!feature || !feature.properties) {
+      console.warn('[MapContainer] handleStateClick: Invalid feature, missing properties')
       return
     }
 
     const { name, topTopic, topics, trendingScore, category } = feature.properties
+    console.log('[MapContainer] Extracted data - name:', name, 'topics:', topics?.length)
 
     // Find the full state data from statesTopicData if available
+    // Handle DC name variations: "Washington DC" and "District of Columbia"
     let stateData = null
     if (statesTopicData && name) {
-      stateData = statesTopicData.find((state) => state.name === name)
+      stateData = statesTopicData.find((state) => {
+        // Match exact name or handle DC name variations
+        if (state.name === name) {
+          return true
+        }
+        // Handle DC name variations
+        if ((name === 'Washington DC' || name === 'District of Columbia') &&
+            (state.name === 'Washington DC' || state.name === 'District of Columbia')) {
+          return true
+        }
+        return false
+      })
     }
 
-    // Use merged data from feature if state data not found, or merge both
+    // Merge data: prefer stateData if found, otherwise use feature properties
+    // For topics: use stateData topics if available and non-empty, otherwise use feature topics
+    const stateDataTopics = Array.isArray(stateData?.topics) ? stateData.topics : []
+    const featureTopics = Array.isArray(topics) ? topics : []
+    // Prefer stateData topics if they exist and have items, otherwise use feature topics
+    const finalTopics = (stateDataTopics.length > 0) ? stateDataTopics : featureTopics
+    
     const finalStateData = {
-      name: name || 'Unknown State',
-      topTopic: topTopic || stateData?.topTopic || '',
-      topics: topics || stateData?.topics || [],
-      trendingScore: trendingScore || stateData?.trendingScore || 0,
-      category: category || stateData?.category || 'Law and Government',
+      name: name || stateData?.name || 'Unknown State',
+      topTopic: stateData?.topTopic || topTopic || '',
+      topics: finalTopics,
+      trendingScore: stateData?.trendingScore ?? trendingScore ?? 0,
+      category: stateData?.category || category || 'Law and Government',
     }
 
+    console.log('[MapContainer] Setting state data:', finalStateData.name, 'and opening sidebar')
     setSelectedState(finalStateData)
     setIsSidebarOpen(true)
-  }
+    console.log('[MapContainer] Sidebar should be open now')
+  }, [statesTopicData])
 
   // Handle sidebar close
   const handleSidebarClose = () => {
@@ -134,6 +165,7 @@ const MapContainer = () => {
     ? 'https://{s}.basemaps.cartocdn.com/dark_all/{z}/{x}/{y}{r}.png'
     : 'https://{s}.basemaps.cartocdn.com/light_all/{z}/{x}/{y}{r}.png'
 
+
   return (
     <div className="map-container">
       <LeafletMapContainer
@@ -159,6 +191,7 @@ const MapContainer = () => {
           dataTimestamp={dataTimestamp}
           onStateClick={handleStateClick}
           onMapClick={handleMapClick}
+          isSidebarOpen={isSidebarOpen}
         />
       </LeafletMapContainer>
       <StateDetailsPanel

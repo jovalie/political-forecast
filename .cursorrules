@@ -226,6 +226,39 @@ Political Forecast is a React-based web application that visualizes trending Law
 - Use MSW (Mock Service Worker) for API mocking if needed
 - Test accessibility with @testing-library/jest-dom matchers
 
+### Automated Browser Testing with Cursor IDE
+- **Use Cursor's in-IDE browser for automated testing** - Cursor provides built-in browser automation tools for testing web applications
+- **When to use automated browser testing**:
+  - Test user interactions (clicks, hovers, form submissions)
+  - Verify visual rendering and layout
+  - Test theme switching (light/dark mode)
+  - Test responsive behavior (mobile/desktop)
+  - Verify map interactions (state selection, tooltips, sidebar)
+  - Test Google News link generation and navigation
+  - Validate end-to-end user flows
+- **Browser testing workflow**:
+  1. Start the development server (`npm start` or `npm run dev`)
+  2. Use Cursor's browser tools to navigate to `http://localhost:5173` (or your dev server URL)
+  3. Use `browser_snapshot` to capture the current page state
+  4. Use `browser_click`, `browser_type`, `browser_hover` for interactions
+  5. Use `browser_extract` to verify data and content
+  6. Use `browser_wait_for` to wait for async operations
+  7. Take screenshots with `browser_take_screenshot` for visual verification
+- **Best practices for browser testing**:
+  - Test critical user flows (state selection → sidebar → topic click)
+  - Verify both light and dark themes
+  - Test responsive layouts by resizing the browser window
+  - Verify tooltip content and positioning
+  - Test sidebar open/close functionality
+  - Verify Google News links open correctly
+  - Test error states (missing data, network failures)
+  - Use descriptive element references when interacting with the page
+- **Integration with development workflow**:
+  - Run automated browser tests before committing code
+  - Use browser testing to verify fixes for reported bugs
+  - Test new features with browser automation before manual testing
+  - Capture screenshots for documentation and bug reports
+
 ### Test File Organization
 - Co-locate test files with components: `Component.test.tsx` or `Component.test.jsx`
 - Create `__tests__` directories for utility function tests
@@ -362,16 +395,18 @@ When reviewing code, check for:
 1. **Write tests alongside code** - Test-driven or test-alongside development
 2. **Run tests frequently** - Verify changes work as expected
 3. **Check for linting errors** - Fix issues immediately
-4. **Test manually** - Verify in browser (both themes, mobile/desktop)
-5. **Keep commits small** - Commit logical units of work
+4. **Test with Cursor's browser** - Use automated browser testing to verify interactions and visual rendering
+5. **Test manually** - Verify in browser (both themes, mobile/desktop)
+6. **Keep commits small** - Commit logical units of work
 
 ### After Writing Code
 1. **Run full test suite** - Ensure all tests pass
-2. **Self-review code** - Review your own changes before committing
-3. **Check code quality** - Run linters, formatters, type checkers
-4. **Test in browser** - Verify functionality manually
-5. **Update documentation** - Update comments/docs if needed
-6. **Commit with extremely short messages** - Use concise, single-line commit messages (less than 10 words)
+2. **Run automated browser tests** - Use Cursor's browser tools to verify user interactions and visual rendering
+3. **Self-review code** - Review your own changes before committing
+4. **Check code quality** - Run linters, formatters, type checkers
+5. **Test in browser** - Verify functionality manually
+6. **Update documentation** - Update comments/docs if needed
+7. **Commit with extremely short messages** - Use concise, single-line commit messages (less than 10 words)
 
 ### Code Review Feedback Guidelines
 - **Be constructive** - Focus on improvement, not criticism
@@ -383,6 +418,7 @@ When reviewing code, check for:
 ### Pre-Commit Checklist
 Before committing code, verify:
 - [ ] All tests pass (`npm test`)
+- [ ] Automated browser tests completed (using Cursor's in-IDE browser)
 - [ ] No linting errors (`npm run lint`)
 - [ ] Code is formatted consistently
 - [ ] Manual testing completed (both themes, mobile/desktop)

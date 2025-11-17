@@ -1,0 +1,137 @@
+name: Data Ingestion Pipeline
+
+on:
+  schedule:
+    # Run every 12 hours at 00:00 and 12:00 UTC
+    - cron: '0 */12 * * *'
+  workflow_dispatch: # Allow manual triggering
+
+jobs:
+  ingest-data:
+    name: Ingest Google Trends Data
+    runs-on: ubuntu-latest
+    timeout-minutes: 120 # Allow up to 2 hours for all 51 locations
+    permissions:
+      contents: write # Required to commit and push changes
+      actions: read # Required to read workflow status
+    
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+          cache: 'npm'
+
+      - name: Install dependencies
+        run: npm ci
+
+      - name: Install jq for JSON parsing
+        run: sudo apt-get install -y jq
+
+      - name: Install Puppeteer dependencies
+        run: |
+          sudo apt-get update
+          sudo apt-get install -y \
+            ca-certificates \
+            fonts-liberation \
+            libappindicator3-1 \
+            libasound2t64 \
+            libatk-bridge2.0-0 \
+            libatk1.0-0 \
+            libc6 \
+            libcairo2 \
+            libcups2 \
+            libdbus-1-3 \
+            libexpat1 \
+            libfontconfig1 \
+            libgbm1 \
+            libgcc1 \
+            libglib2.0-0 \
+            libgtk-3-0 \
+            libnspr4 \
+            libnss3 \
+            libpango-1.0-0 \
+            libpangocairo-1.0-0 \
+            libstdc++6 \
+            libx11-6 \
+            libx11-xcb1 \
+            libxcb1 \
+            libxcomposite1 \
+            libxcursor1 \
+            libxdamage1 \
+            libxext6 \
+            libxfixes3 \
+            libxi6 \
+            libxrandr2 \
+            libxrender1 \
+            libxss1 \
+            libxtst6 \
+            lsb-release \
+            wget \
+            xdg-utils
+
+      - name: Configure Git
+        run: |
+          git config --global user.name 'github-actions[bot]'
+          git config --global user.email 'github-actions[bot]@users.noreply.github.com'
+
+      - name: Run data ingestion
+        env:
+          DELAY_MS: 5000 # 5 second delay between requests
+        run: npm run ingest
+        continue-on-error: false
+        timeout-minutes: 110 # Allow up to 110 minutes for scraping (within 120 min job timeout)
+
+      - name: Check for data changes
+        id: check-changes
+        run: |
+          if [ -n "$(git status --porcelain public/data/states-topics.json)" ]; then
+            echo "has_changes=true" >> $GITHUB_OUTPUT
+            echo "Data file has been updated"
+          else
+            echo "has_changes=false" >> $GITHUB_OUTPUT
+            echo "No changes to data file"
+          fi
+
+      - name: Get current branch
+        id: branch
+        run: echo "branch=$(git branch --show-current)" >> $GITHUB_OUTPUT
+
+      - name: Commit and push changes
+        if: steps.check-changes.outputs.has_changes == 'true'
+        run: |
+          git add public/data/states-topics.json
+          git commit -m "Update trending topics data"
+          git push origin HEAD:${{ steps.branch.outputs.branch }}
+
+      - name: Summary
+        if: always()
+        run: |
+          echo "## Data Ingestion Summary" >> $GITHUB_STEP_SUMMARY
+          echo "" >> $GITHUB_STEP_SUMMARY
+          if [ -f public/data/states-topics.json ]; then
+            STATE_COUNT=$(jq '.states | length' public/data/states-topics.json)
+            TIMESTAMP=$(jq -r '.timestamp' public/data/states-topics.json)
+            echo "✅ Successfully ingested data for **$STATE_COUNT** states/territories" >> $GITHUB_STEP_SUMMARY
+            echo "📅 Timestamp: $TIMESTAMP" >> $GITHUB_STEP_SUMMARY
+          else
+            echo "❌ Data file not found" >> $GITHUB_STEP_SUMMARY
+          fi
+          echo "" >> $GITHUB_STEP_SUMMARY
+          if [ "${{ steps.check-changes.outputs.has_changes }}" == "true" ]; then
+            echo "🔄 Changes committed to repository" >> $GITHUB_STEP_SUMMARY
+            echo "🚀 Vercel will automatically redeploy on push" >> $GITHUB_STEP_SUMMARY
+          else
+            echo "ℹ️ No changes detected - data is up to date" >> $GITHUB_STEP_SUMMARY
+          fi
+          echo "" >> $GITHUB_STEP_SUMMARY
+          echo "### Workflow Details" >> $GITHUB_STEP_SUMMARY
+          echo "- **Trigger**: ${{ github.event_name }}" >> $GITHUB_STEP_SUMMARY
+          echo "- **Run ID**: ${{ github.run_id }}" >> $GITHUB_STEP_SUMMARY
+          echo "- **Commit**: ${{ github.sha }}" >> $GITHUB_STEP_SUMMARY
+

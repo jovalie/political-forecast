@@ -2,7 +2,7 @@ import React, { useState, useEffect, useMemo, useCallback, useRef } from 'react'
 import { GeoJSON, useMap } from 'react-leaflet'
 import L from 'leaflet'
 import { useTheme } from '../ui/ThemeProvider'
-import { mergeTopicDataWithGeoJSON } from '../../utils/dataUtils'
+import { mergeTopicDataWithGeoJSON, getColorByTopicCount, getDataUrl } from '../../utils/dataUtils'
 import { generateTooltipText } from '../../utils/tooltipUtils'
 import './StateMap.css'
 
@@ -15,19 +15,20 @@ const MapClickHandler = ({ clickedLayerRef, allLayersRef, geoJsonLayerRef, style
       // Check if the click was on a state layer
       // State clicks will have their propagation stopped, so if we get here and there's a clicked state,
       // it means the click was on the map background
-      // Also check if the click target is actually a state path element or tooltip
+      // Also check if the click target is actually a state path element, marker, or tooltip
       const clickedElement = e.originalEvent.target
       const isStatePath = clickedElement.tagName === 'path' && 
                          clickedElement.closest('.leaflet-overlay-pane svg')
       const isTooltip = clickedElement.closest('.leaflet-tooltip')
+      const isMarker = clickedElement.closest('.leaflet-marker-icon')
       
       // Check if click hit a Leaflet layer (e.layer would be set if it did)
       // Note: State clicks stop propagation, so e.layer might not be set even for state clicks
       // But if e.layer is set, we definitely clicked on a layer, not the map background
       const clickedOnLayer = e.layer && e.layer.feature
       
-      // If click was not on a state path, tooltip, or layer (clicked on map background), clear selection
-      if (!isStatePath && !isTooltip && !clickedOnLayer && clickedLayerRef.current) {
+      // If click was not on a state path, marker, tooltip, or layer (clicked on map background), clear selection
+      if (!isStatePath && !isTooltip && !isMarker && !clickedOnLayer && clickedLayerRef.current) {
         console.log('[MAP_CLICK] Clicked on map background, clearing selection')
         
         // Get all layers
@@ -68,14 +69,18 @@ const MapClickHandler = ({ clickedLayerRef, allLayersRef, geoJsonLayerRef, style
         // Restore all states to normal style
         allLayers.forEach((layer) => {
           const layerFeature = layer.feature
-          if (layerFeature && styleRef.current) {
-            const baseStyle = styleRef.current(layerFeature)
-            layer.setStyle({
-              fillOpacity: baseStyle.fillOpacity,
-              opacity: baseStyle.opacity,
-              weight: baseStyle.weight,
-              color: baseStyle.color,
-            })
+          if (layerFeature) {
+            if (layer.setStyle && styleRef.current) {
+              // This is a GeoJSON layer (state) - restore to normal style
+              const baseStyle = styleRef.current(layerFeature)
+              layer.setStyle({
+                fillColor: baseStyle.fillColor,
+                fillOpacity: baseStyle.fillOpacity,
+                opacity: baseStyle.opacity,
+                weight: baseStyle.weight,
+                color: baseStyle.color,
+              })
+            }
           }
         })
         
@@ -108,72 +113,112 @@ const GeoJSONRenderer = ({ geoJSONDataRef, styleRef, onEachFeatureRef, dataReady
   const layerRef = useRef(null)
 
   useEffect(() => {
+    console.log('[GeoJSONRenderer] Effect triggered:', {
+      hasLayerRef: !!layerRef.current,
+      hasGeoJSONData: !!geoJSONDataRef.current,
+      featureCount: geoJSONDataRef.current?.features?.length || 0,
+      hasStyleRef: !!styleRef.current,
+      hasOnEachFeatureRef: !!onEachFeatureRef.current,
+      dataReady
+    })
+    
     // Don't add if layer already exists
     if (layerRef.current) {
+      console.log('[GeoJSONRenderer] Layer already exists, skipping')
       return
     }
 
-    if (!geoJSONDataRef.current || !geoJSONDataRef.current.features || geoJSONDataRef.current.features.length === 0) {
+    // Function to create the layer if data is available
+    const createLayerIfReady = () => {
+      if (!geoJSONDataRef.current || !geoJSONDataRef.current.features || geoJSONDataRef.current.features.length === 0) {
+        console.log('[GeoJSONRenderer] No GeoJSON data available yet')
+        return false
+      }
+
+      if (!onEachFeatureRef.current || !styleRef.current) {
+        console.log('[GeoJSONRenderer] Style or onEachFeature not ready yet')
+        return false
+      }
+
+      if (layerRef.current) {
+        return true // Layer already created
+      }
+
+      // Create the layer
+      console.log('[GeoJSONRenderer] Creating GeoJSON layer with', geoJSONDataRef.current.features.length, 'features')
+      const geoJsonLayer = L.geoJSON(geoJSONDataRef.current, {
+        style: styleRef.current,
+        onEachFeature: onEachFeatureRef.current,
+        pane: 'overlayPane',
+        interactive: true,
+      })
+
+      if (geoJsonLayerRef) {
+        geoJsonLayerRef.current = geoJsonLayer
+      }
+
+      if (allLayersRef) {
+        const geoJsonLayers = geoJsonLayer.getLayers()
+        allLayersRef.current = geoJsonLayers
+      }
+
+      geoJsonLayer.eachLayer((layer) => {
+        if (layer.setInteractive) {
+          layer.setInteractive(true)
+        }
+        if (layer._path) {
+          layer._path.style.pointerEvents = 'auto'
+          layer._path.style.cursor = 'pointer'
+          const pathClickHandler = (e) => {
+            if (layer.fire) {
+              layer.fire('click', {
+                latlng: map.mouseEventToLatLng(e),
+                layer: layer,
+                originalEvent: e
+              })
+            }
+          }
+          layer._path.addEventListener('click', pathClickHandler)
+          layer._pathClickHandler = pathClickHandler
+        }
+      })
+
+      geoJsonLayer.addTo(map)
+      layerRef.current = geoJsonLayer
+      geoJsonLayer.bringToFront()
+      console.log('[GeoJSONRenderer] GeoJSON layer added to map:', geoJsonLayer.getLayers().length, 'layers')
+      return true
+    }
+
+    // Try to create immediately
+    if (createLayerIfReady()) {
       return
     }
 
-    // Create GeoJSON layer using refs for style functions
-    const geoJsonLayer = L.geoJSON(geoJSONDataRef.current, {
-      style: styleRef.current,
-      onEachFeature: onEachFeatureRef.current,
-      pane: 'overlayPane', // Ensure it's in the overlay pane (above tiles)
-      interactive: true, // Allow interaction with states
-    })
-
-    // Store the GeoJSON layer itself for accessing layers later
-    if (geoJsonLayerRef) {
-      geoJsonLayerRef.current = geoJsonLayer
-    }
-
-    // Store all individual layers for dimming functionality
-    if (allLayersRef) {
-      allLayersRef.current = geoJsonLayer.getLayers()
-    }
-
-    // Add to map
-    geoJsonLayer.addTo(map)
-    layerRef.current = geoJsonLayer
-    
-    // Bring layer to front so it appears above tile layer
-    geoJsonLayer.bringToFront()
-    
-    console.log('GeoJSON layer added to map:', geoJsonLayer.getLayers().length, 'layers')
-    const bounds = geoJsonLayer.getBounds()
-    console.log('GeoJSON layer bounds:', bounds ? `${bounds.getSouth()} to ${bounds.getNorth()}, ${bounds.getWest()} to ${bounds.getEast()}` : 'null')
-    console.log('Map zoom:', map.getZoom(), 'Center:', map.getCenter() ? `${map.getCenter().lat}, ${map.getCenter().lng}` : 'null')
-    console.log('Map bounds:', map.getBounds() ? `${map.getBounds().getSouth()} to ${map.getBounds().getNorth()}, ${map.getBounds().getWest()} to ${map.getBounds().getEast()}` : 'null')
-    
-    // Check if layer is actually on the map
-    const hasLayer = map.hasLayer(geoJsonLayer)
-    console.log('Map has GeoJSON layer:', hasLayer)
-    
-    // Check overlay pane for SVG
-    setTimeout(() => {
-      const overlayPane = map.getPane('overlayPane')
-      if (overlayPane) {
-        const svgs = overlayPane.querySelectorAll('svg')
-        console.log('SVG elements in overlayPane:', svgs.length)
-        svgs.forEach((svg, i) => {
-          const paths = svg.querySelectorAll('path')
-          console.log(`SVG ${i}: ${paths.length} paths, viewBox: ${svg.getAttribute('viewBox')}`)
-        })
+    // If not ready, set up polling to check periodically
+    const checkInterval = setInterval(() => {
+      if (createLayerIfReady()) {
+        clearInterval(checkInterval)
       }
     }, 100)
 
-    // Cleanup only on unmount
+    // Also try after a short delay
+    const timeout = setTimeout(() => {
+      if (createLayerIfReady()) {
+        clearInterval(checkInterval)
+      }
+    }, 200)
+
     return () => {
+      clearInterval(checkInterval)
+      clearTimeout(timeout)
       if (layerRef.current) {
-        console.log('Removing GeoJSON layer from map')
+        console.log('[GeoJSONRenderer] Removing GeoJSON layer from map')
         map.removeLayer(layerRef.current)
         layerRef.current = null
       }
     }
-  }, [map, dataReady]) // Depend on dataReady to trigger when data becomes available
+  }, [map, dataReady]) // Re-run when dataReady changes or map is available
 
   return null
 }
@@ -184,7 +229,8 @@ const StateMap = ({
   onStateClick = null,
   onStateHover = null,
   onMapClick = null,
-  statesData = null
+  statesData = null,
+  isSidebarOpen = false
 }) => {
   const { isDark } = useTheme()
   const [geoJSONData, setGeoJSONData] = useState(null)
@@ -192,16 +238,17 @@ const StateMap = ({
 
   // Load GeoJSON data and merge with topic data
   useEffect(() => {
-    // If statesData is provided, use it
-    if (statesData) {
-      // Merge topic data if available
-      const merged = statesTopicData
-        ? mergeTopicDataWithGeoJSON(statesData, statesTopicData, dataTimestamp)
-        : statesData
-      setGeoJSONData(merged)
-      setLoading(false)
-      return
-    }
+      // If statesData is provided, use it
+      if (statesData) {
+        // Merge topic data if available
+        const merged = statesTopicData
+          ? mergeTopicDataWithGeoJSON(statesData, statesTopicData, dataTimestamp)
+          : statesData
+        
+        setGeoJSONData(merged)
+        setLoading(false)
+        return
+      }
 
     // If we already have GeoJSON data and topic data just loaded, merge them
     // Use functional update to access latest geoJSONData
@@ -212,7 +259,8 @@ const StateMap = ({
           // Only re-merge if topic data is not already present
           if (!firstFeature.properties?.topTopic) {
             console.log('Re-merging GeoJSON with topic data')
-            return mergeTopicDataWithGeoJSON(currentGeoJSON, statesTopicData, dataTimestamp)
+            const merged = mergeTopicDataWithGeoJSON(currentGeoJSON, statesTopicData, dataTimestamp)
+            return merged
           }
         }
         return currentGeoJSON
@@ -224,7 +272,8 @@ const StateMap = ({
     // Otherwise, load from file
     const loadGeoJSON = async () => {
       try {
-        const response = await fetch('/data/us-states.geojson')
+        const geoJsonUrl = getDataUrl('data/us-states.geojson')
+        const response = await fetch(geoJsonUrl)
         if (!response.ok) {
           throw new Error(`Failed to load GeoJSON data: ${response.status} ${response.statusText}`)
         }
@@ -237,10 +286,21 @@ const StateMap = ({
           ? mergeTopicDataWithGeoJSON(data, statesTopicData, dataTimestamp)
           : data
         
-        console.log('Merged GeoJSON:', merged.features?.length, 'features')
+        // Filter out DC (District of Columbia) from GeoJSON - it will be rendered as a star marker instead
+        const filteredFeatures = merged.features?.filter((feature) => {
+          const name = feature.properties?.name
+          return name !== 'District of Columbia' && name !== 'Washington DC'
+        }) || []
+        
+        const filteredGeoJSON = {
+          ...merged,
+          features: filteredFeatures,
+        }
+        
+        console.log('Merged GeoJSON:', filteredGeoJSON.features?.length, 'features (DC filtered out)')
         // Log a sample feature to verify merge
-        if (merged.features && merged.features.length > 0) {
-          const sampleFeature = merged.features[0]
+        if (filteredGeoJSON.features && filteredGeoJSON.features.length > 0) {
+          const sampleFeature = filteredGeoJSON.features[0]
           console.log('Sample feature after merge:', {
             name: sampleFeature.properties?.name,
             topTopic: sampleFeature.properties?.topTopic,
@@ -248,7 +308,7 @@ const StateMap = ({
           })
         }
         
-        setGeoJSONData(merged)
+        setGeoJSONData(filteredGeoJSON)
       } catch (error) {
         console.error('Error loading GeoJSON:', error)
         // Fallback to empty feature collection
@@ -267,10 +327,17 @@ const StateMap = ({
   // Style function for state polygons (memoized)
   const getStateStyle = useMemo(() => {
     return (feature) => {
+      // Get topic count from feature properties
+      const topicCount = feature?.properties?.topics?.length || 0
+      const fillColor = getColorByTopicCount(topicCount, isDark)
+      
+      // Border color should be slightly darker/lighter than fill for contrast
+      const borderColor = isDark ? '#909090' : '#666666'
+      
       return {
-        fillColor: isDark ? '#505050' : '#d0d0d0',
+        fillColor: fillColor,
         fillOpacity: 0.8,
-        color: isDark ? '#909090' : '#666666',
+        color: borderColor,
         weight: 1.5,
         opacity: 1,
       }
@@ -287,14 +354,37 @@ const StateMap = ({
   const hoveredLayerRef = useRef(null)
   // Ref to track clicked/selected layer
   const clickedLayerRef = useRef(null)
+  // Ref to store onStateClick so it's always current in closures
+  const onStateClickRef = useRef(onStateClick)
+  const onStateHoverRef = useRef(onStateHover)
+
+  // Update refs when callbacks change (and initialize immediately)
+  useEffect(() => {
+    onStateClickRef.current = onStateClick
+    onStateHoverRef.current = onStateHover
+  }, [onStateClick, onStateHover])
+  
+  // Also update refs immediately on render (before useEffect runs)
+  onStateClickRef.current = onStateClick
+  onStateHoverRef.current = onStateHover
 
   // Event handlers (memoized)
   const onEachFeature = useCallback((feature, layer) => {
+    // Ensure the feature is stored on the layer for later access
+    layer.feature = feature
     // Add click handler (always attach, even if onStateClick is not provided)
+    // Also make the layer explicitly interactive
+    if (layer.setInteractive) {
+      layer.setInteractive(true)
+    }
+    
     layer.on({
       click: (e) => {
-        e.originalEvent.preventDefault()
-        e.originalEvent.stopPropagation()
+        // Only prevent default if originalEvent exists (real user clicks)
+        if (e.originalEvent) {
+          e.originalEvent.preventDefault()
+          e.originalEvent.stopPropagation()
+        }
         // Stop Leaflet event propagation to prevent map click handler from firing
         L.DomEvent.stopPropagation(e)
         
@@ -325,37 +415,29 @@ const StateMap = ({
         })
         
         // Dim all other states
-        console.log('[CLICK] Clicked layer:', clickedLayer)
-        console.log('[CLICK] allLayersRef.current length:', allLayersRef.current?.length)
-        
         // Get all layers - try allLayersRef first, then try to get from GeoJSON layer
         let allLayers = allLayersRef.current
         if (!allLayers || allLayers.length === 0) {
           // Fallback: try to get layers from the GeoJSON layer ref
           if (geoJsonLayerRef.current && typeof geoJsonLayerRef.current.getLayers === 'function') {
             allLayers = geoJsonLayerRef.current.getLayers()
-            console.log('[CLICK] Got layers from geoJsonLayerRef, count:', allLayers.length)
             // Update the ref for future use
             allLayersRef.current = allLayers
-          } else {
-            console.warn('[CLICK] Could not get layers from geoJsonLayerRef!')
           }
         }
         
         if (allLayers && allLayers.length > 0) {
-          let dimmedCount = 0
           allLayers.forEach((otherLayer) => {
             if (otherLayer !== clickedLayer) {
-              otherLayer.setStyle({
-                fillOpacity: 0.15,
-                opacity: 0.3,
-              })
-              dimmedCount++
+              if (otherLayer.setStyle) {
+                // This is a GeoJSON layer (state) - dim it
+                otherLayer.setStyle({
+                  fillOpacity: 0.4,
+                  opacity: 0.6,
+                })
+              }
             }
           })
-          console.log('[CLICK] Dimmed', dimmedCount, 'layers')
-        } else {
-          console.warn('[CLICK] Could not dim layers - allLayers is empty!')
         }
         
         // Close any previously permanent tooltip and restore it to non-permanent
@@ -421,11 +503,18 @@ const StateMap = ({
         
         // Track clicked layer
         clickedLayerRef.current = clickedLayer
-        console.log('[CLICK] Set clickedLayerRef.current')
         
         // Call the click callback if provided
-        if (onStateClick) {
-          onStateClick(feature)
+        // Use clickedLayer.feature (which has merged topic data) instead of the original feature
+        // Use ref to get the latest onStateClick value
+        const currentOnStateClick = onStateClickRef.current
+        if (currentOnStateClick && typeof currentOnStateClick === 'function') {
+          const featureToUse = clickedLayer.feature || feature
+          try {
+            currentOnStateClick(featureToUse)
+          } catch (error) {
+            console.error('[StateMap] Error calling onStateClick:', error)
+          }
         }
       },
     })
@@ -480,10 +569,13 @@ const StateMap = ({
           // Dim all other states with greater contrast (except clicked state and current hovered)
           allLayers.forEach((otherLayer) => {
             if (otherLayer !== currentLayer && otherLayer !== clickedLayerRef.current) {
-              otherLayer.setStyle({
-                fillOpacity: 0.15,
-                opacity: 0.3,
-              })
+              if (otherLayer.setStyle) {
+                // This is a GeoJSON layer (state) - dim it
+                otherLayer.setStyle({
+                  fillOpacity: 0.4,
+                  opacity: 0.6,
+                })
+              }
             }
           })
           
@@ -522,13 +614,25 @@ const StateMap = ({
           }
         }
 
-        // Call onStateHover callback if provided
-        if (onStateHover) {
-          onStateHover(feature, true)
+        // Call onStateHover callback if provided (use ref for latest value)
+        if (onStateHoverRef.current) {
+          onStateHoverRef.current(feature, true)
         }
       },
       mouseout: (e) => {
         const currentLayer = e.target
+        
+        // Close tooltip FIRST (before restoring styles) - don't close if it's the clicked state
+        if (currentLayer !== clickedLayerRef.current) {
+          try {
+            currentLayer.closeTooltip()
+            if (openTooltipLayerRef.current === currentLayer) {
+              openTooltipLayerRef.current = null
+            }
+          } catch (err) {
+            // Tooltip might not be open, ignore error
+          }
+        }
         
         // Ensure allLayersRef is populated - try to get from GeoJSON layer if empty
         let allLayers = allLayersRef.current
@@ -537,66 +641,68 @@ const StateMap = ({
             allLayers = geoJsonLayerRef.current.getLayers()
             allLayersRef.current = allLayers
           } else {
+            // Clear hovered layer reference and return
+            hoveredLayerRef.current = null
             return
           }
         }
         
-        console.log('[MOUSEOUT] Current layer:', currentLayer)
-        console.log('[MOUSEOUT] clickedLayerRef.current:', clickedLayerRef.current)
-        
         // If there's a clicked state, maintain the dimmed state for all non-clicked states
         if (clickedLayerRef.current) {
-          console.log('[MOUSEOUT] Has clicked state, maintaining dimmed state')
           const hoverColor = isDark ? '#808080' : '#333333'
           
           // If mouse leaves the clicked state itself, maintain its highlighted state
           // and keep other states dimmed
           if (currentLayer === clickedLayerRef.current) {
             // Keep clicked state highlighted
-            clickedLayerRef.current.setStyle({
-              fillOpacity: 0.9,
-              weight: 1.5,
-              color: hoverColor,
-              opacity: 1,
-            })
+            if (clickedLayerRef.current.setStyle) {
+              clickedLayerRef.current.setStyle({
+                fillOpacity: 0.9,
+                weight: 1.5,
+                color: hoverColor,
+                opacity: 1,
+              })
+            }
             
             // Keep all other states dimmed
             allLayers.forEach((otherLayer) => {
-              if (otherLayer !== clickedLayerRef.current) {
+              if (otherLayer !== clickedLayerRef.current && otherLayer.setStyle) {
                 otherLayer.setStyle({
-                  fillOpacity: 0.15,
-                  opacity: 0.3,
+                  fillOpacity: 0.4,
+                  opacity: 0.6,
                 })
               }
             })
           }
-          // If mouse leaves a non-clicked state, ensure it stays dimmed
+          // If mouse leaves a non-clicked state, restore it to dimmed state
           // and maintain clicked state's highlight
           else {
             // Ensure clicked state remains highlighted
-            clickedLayerRef.current.setStyle({
-              fillOpacity: 0.9,
-              weight: 1.5,
-              color: hoverColor,
-              opacity: 1,
-            })
+            if (clickedLayerRef.current.setStyle) {
+              clickedLayerRef.current.setStyle({
+                fillOpacity: 0.9,
+                weight: 1.5,
+                color: hoverColor,
+                opacity: 1,
+              })
+            }
             
             // Restore the current layer to dimmed state if it's not the clicked one
-            if (currentLayer !== clickedLayerRef.current) {
+            if (currentLayer !== clickedLayerRef.current && currentLayer.setStyle) {
               currentLayer.setStyle({
-                fillOpacity: 0.15,
-                opacity: 0.3,
+                fillOpacity: 0.4,
+                opacity: 0.6,
               })
             }
           }
         } else {
-          console.log('[MOUSEOUT] No clicked state, restoring all to normal')
-          // No clicked state - restore all states to normal
+          // No clicked state - restore ALL states to normal (including the current layer)
           allLayers.forEach((otherLayer) => {
             const layerFeature = otherLayer.feature
-            if (layerFeature && styleRef.current) {
+            if (layerFeature && styleRef.current && otherLayer.setStyle) {
               const baseStyle = styleRef.current(layerFeature)
               otherLayer.setStyle({
+                fillColor: baseStyle.fillColor,
                 fillOpacity: baseStyle.fillOpacity,
                 opacity: baseStyle.opacity,
                 weight: baseStyle.weight,
@@ -609,27 +715,13 @@ const StateMap = ({
         // Clear hovered layer reference
         hoveredLayerRef.current = null
 
-        // Close this tooltip when mouse leaves, but keep it open if it's the clicked state
-        // Use layer.feature to get the most up-to-date feature
-        const currentFeature = currentLayer.feature || feature
-        const tooltipText = generateTooltipText(currentFeature, isDark)
-        if (tooltipText) {
-          // Don't close tooltip if this is the clicked state (it should remain permanent)
-          if (currentLayer !== clickedLayerRef.current) {
-            currentLayer.closeTooltip()
-            if (openTooltipLayerRef.current === currentLayer) {
-              openTooltipLayerRef.current = null
-            }
-          }
-        }
-
-        // Call onStateHover callback if provided
-        if (onStateHover) {
-          onStateHover(feature, false)
+        // Call onStateHover callback if provided (use ref for latest value)
+        if (onStateHoverRef.current) {
+          onStateHoverRef.current(feature, false)
         }
       },
     })
-  }, [onStateClick, onStateHover, isDark])
+  }, [isDark]) // Only depend on isDark, use refs for onStateClick/onStateHover
 
   // Update tooltip styles when theme changes
   useEffect(() => {
@@ -712,20 +804,27 @@ const StateMap = ({
 
   // Update layer feature references and rebind tooltips when merged data is available
   useEffect(() => {
+    console.log('[StateMap] Layer update effect triggered:', {
+      hasGeoJSONData: !!geoJSONData,
+      hasGeoJsonLayerRef: !!geoJsonLayerRef.current,
+      loading,
+      featureCount: geoJSONData?.features?.length || 0,
+      hasTopicData: geoJSONData?.features?.some(f => f.properties?.topTopic) || false
+    })
+    
     if (!geoJSONData || !geoJsonLayerRef.current || loading) {
+      console.log('[StateMap] Layer update effect skipped:', {
+        noGeoJSONData: !geoJSONData,
+        noGeoJsonLayerRef: !geoJsonLayerRef.current,
+        loading
+      })
       return
     }
 
-    // Check if we have topic data in the merged GeoJSON
-    const hasTopicData = geoJSONData.features?.some(
-      (feature) => feature.properties?.topTopic
-    )
+    // Always update tooltips, even if we don't have topic data for all states
+    // This ensures states without topic data still get tooltips showing "No trending data available"
 
-    if (!hasTopicData) {
-      return
-    }
-
-    console.log('Updating layer features with merged topic data')
+    console.log('[StateMap] Updating layer features with merged topic data')
     
     // Use a small delay to ensure layers are ready
     const timer = setTimeout(() => {
@@ -744,45 +843,66 @@ const StateMap = ({
       })
 
       let updatedCount = 0
+      let tooltipUpdatedCount = 0
+      let styleUpdatedCount = 0
       allLayers.forEach((layer) => {
         const oldFeature = layer.feature
         if (oldFeature) {
           const stateName = oldFeature.properties?.name
-          // Get the updated feature from the merged data
-          const updatedFeature = featureMap.get(stateName)
+          // Get the updated feature from the merged data (or use old feature if not found)
+          const updatedFeature = featureMap.get(stateName) || oldFeature
           
-          if (updatedFeature && updatedFeature.properties?.topTopic) {
-            // Update the layer's feature reference to point to the merged feature
-            layer.feature = updatedFeature
-            updatedCount++
-            
-            const tooltipText = generateTooltipText(updatedFeature, isDark)
-            if (tooltipText) {
-              // Don't rebind if this is the clicked state (it has a permanent tooltip)
-              const isClickedState = layer === clickedLayerRef.current
-              if (!isClickedState) {
-                // Unbind and rebind with updated text
-                layer.unbindTooltip()
-                layer.bindTooltip(tooltipText, {
-                  permanent: false,
-                  direction: 'top',
-                  className: 'state-tooltip',
-                })
-              } else {
-                // For clicked state, update the permanent tooltip
-                layer.unbindTooltip()
-                layer.bindTooltip(tooltipText, {
-                  permanent: true,
-                  direction: 'top',
-                  className: 'state-tooltip',
-                })
-                layer.openTooltip()
-              }
+          // Always update the layer's feature reference
+          layer.feature = updatedFeature
+          updatedCount++
+          
+          // Update style with new topic data (unless this is the clicked state, which maintains its highlight)
+          const isClickedState = layer === clickedLayerRef.current
+          if (!isClickedState && styleRef.current) {
+            const baseStyle = styleRef.current(updatedFeature)
+            layer.setStyle({
+              fillColor: baseStyle.fillColor,
+              fillOpacity: baseStyle.fillOpacity,
+              opacity: baseStyle.opacity,
+              weight: baseStyle.weight,
+              color: baseStyle.color,
+            })
+            styleUpdatedCount++
+          }
+          
+          // Always update tooltip, even if there's no topic data
+          const tooltipText = generateTooltipText(updatedFeature, isDark)
+          if (tooltipText) {
+            tooltipUpdatedCount++
+            // Don't rebind if this is the clicked state (it has a permanent tooltip)
+            if (!isClickedState) {
+              // Unbind and rebind with updated text
+              layer.unbindTooltip()
+              layer.bindTooltip(tooltipText, {
+                permanent: false,
+                direction: 'top',
+                className: 'state-tooltip',
+              })
+            } else {
+              // For clicked state, update the permanent tooltip
+              layer.unbindTooltip()
+              layer.bindTooltip(tooltipText, {
+                permanent: true,
+                direction: 'top',
+                className: 'state-tooltip',
+              })
+              layer.openTooltip()
             }
           }
         }
       })
-      console.log('Updated', updatedCount, 'layers with topic data')
+      console.log('[StateMap] Updated', updatedCount, 'layers,', tooltipUpdatedCount, 'tooltips updated,', styleUpdatedCount, 'styles updated')
+      
+      // Ensure layer is brought to front after updates
+      if (geoJsonLayerRef.current) {
+        geoJsonLayerRef.current.bringToFront()
+        console.log('[StateMap] Layer brought to front after style updates')
+      }
     }, 200) // Small delay to ensure layers are ready
 
     return () => clearTimeout(timer)
@@ -812,12 +932,22 @@ const StateMap = ({
     geoJSONDataRef.current = geoJSONData
   }, [getStateStyle, onEachFeature, geoJSONData])
 
-  // Restore clicked state's style after re-renders to ensure persistence
+  // Update all layer styles when theme changes
   useEffect(() => {
-    // Use a small delay to ensure the layer is available
+    if (!geoJsonLayerRef.current || loading) {
+      return
+    }
+
     const timer = setTimeout(() => {
-      if (clickedLayerRef.current && geoJsonLayerRef.current) {
-        const hoverColor = isDark ? '#808080' : '#333333'
+      const allLayers = geoJsonLayerRef.current?.getLayers()
+      if (!allLayers || allLayers.length === 0) {
+        return
+      }
+
+      const hoverColor = isDark ? '#808080' : '#333333'
+
+      // If there's a clicked state, maintain its highlight and dim others
+      if (clickedLayerRef.current) {
         // Restore clicked state's highlight
         clickedLayerRef.current.setStyle({
           fillOpacity: 0.9,
@@ -844,12 +974,26 @@ const StateMap = ({
         }
         
         // Ensure all other states are dimmed
-        const allLayers = geoJsonLayerRef.current.getLayers()
         allLayers.forEach((otherLayer) => {
           if (otherLayer !== clickedLayerRef.current) {
             otherLayer.setStyle({
-              fillOpacity: 0.15,
-              opacity: 0.3,
+              fillOpacity: 0.4,
+              opacity: 0.6,
+            })
+          }
+        })
+      } else {
+        // No clicked state - update all states to normal style with theme-aware colors
+        allLayers.forEach((layer) => {
+          const layerFeature = layer.feature
+          if (layerFeature && styleRef.current) {
+            const baseStyle = styleRef.current(layerFeature)
+            layer.setStyle({
+              fillColor: baseStyle.fillColor,
+              fillOpacity: baseStyle.fillOpacity,
+              opacity: baseStyle.opacity,
+              weight: baseStyle.weight,
+              color: baseStyle.color,
             })
           }
         })
@@ -857,7 +1001,63 @@ const StateMap = ({
     }, 100)
     
     return () => clearTimeout(timer)
-  }, [isDark, geoJSONData]) // Re-run when theme changes or data changes
+  }, [isDark, geoJSONData, loading]) // Re-run when theme changes or data changes
+
+  // Clear selection when sidebar closes
+  useEffect(() => {
+    if (!isSidebarOpen && clickedLayerRef.current) {
+      // Sidebar closed - clear selection and restore all states to normal
+      let allLayers = allLayersRef.current
+      if (!allLayers || allLayers.length === 0) {
+        // Try to get layers from GeoJSON layer if allLayersRef is empty
+        if (geoJsonLayerRef.current && typeof geoJsonLayerRef.current.getLayers === 'function') {
+          allLayers = geoJsonLayerRef.current.getLayers()
+          allLayersRef.current = allLayers
+        }
+      }
+      
+      if (allLayers && allLayers.length > 0) {
+        // Restore all states to normal style
+        allLayers.forEach((layer) => {
+          const layerFeature = layer.feature
+          if (layerFeature && styleRef.current) {
+            if (layer.setStyle) {
+              // This is a GeoJSON layer (state) - restore to base style
+              const baseStyle = styleRef.current(layerFeature)
+              layer.setStyle({
+                fillColor: baseStyle.fillColor,
+                fillOpacity: baseStyle.fillOpacity,
+                opacity: baseStyle.opacity,
+                weight: baseStyle.weight,
+                color: baseStyle.color,
+              })
+            }
+            
+            // Close any permanent tooltip and restore to non-permanent
+            try {
+              layer.closeTooltip()
+              const tooltipText = generateTooltipText(layerFeature, isDark)
+              if (tooltipText) {
+                layer.unbindTooltip()
+                layer.bindTooltip(tooltipText, {
+                  permanent: false,
+                  direction: 'top',
+                  className: 'state-tooltip',
+                })
+              }
+            } catch (err) {
+              // Tooltip might not be open, ignore error
+            }
+          }
+        })
+      }
+      
+      // Clear references
+      clickedLayerRef.current = null
+      openTooltipLayerRef.current = null
+      hoveredLayerRef.current = null
+    }
+  }, [isSidebarOpen, isDark])
 
   if (loading) {
     return null

@@ -3,11 +3,10 @@
 ## What We Accomplished Today, November 16
 
 We have a map interface with some mock data, complete with sliding sidebars and a light/mode dark mode toggle. There is also a mobile interface. 
-
 ## Next Steps
 
 **Implementing Live Data**
-- Set up data ingestion script to fetch from Google Trends RSS feed
+- Fetch from Google Trends RSS feed
 - Process and aggregate data by state
 - Generate state-level JSON files - maybe we can store this data in a database.
 -  Google Trends RSS data is missing some interesting information, like "Search Volume" and "Started" (e.g., "	
