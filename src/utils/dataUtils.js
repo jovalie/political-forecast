@@ -115,3 +115,217 @@ export function validateGeoJSON(geoJSON) {
   )
 }
 
+/**
+ * Enhanced hash function with better distribution
+ * Uses multiple hash passes to reduce collisions
+ * @param {string} str - String to hash
+ * @returns {number} Hash value
+ */
+function hashString(str) {
+  let hash1 = 0
+  let hash2 = 0
+  
+  for (let i = 0; i < str.length; i++) {
+    const char = str.charCodeAt(i)
+    // First hash: djb2 algorithm
+    hash1 = ((hash1 << 5) + hash1) + char
+    // Second hash: sdbm algorithm
+    hash2 = char + (hash2 << 6) + (hash2 << 16) - hash2
+  }
+  
+  // Combine both hashes for better distribution
+  // Use Math.abs to ensure positive result (XOR can produce negative numbers)
+  const combined = Math.abs(Math.abs(hash1) ^ Math.abs(hash2))
+  return combined
+}
+
+/**
+ * Convert HSL to RGB and then to hex
+ * @param {number} h - Hue (0-360)
+ * @param {number} s - Saturation (0-100)
+ * @param {number} l - Lightness (0-100)
+ * @returns {string} Hex color code
+ */
+function hslToHex(h, s, l) {
+  h = h / 360
+  s = s / 100
+  l = l / 100
+
+  let r, g, b
+
+  if (s === 0) {
+    r = g = b = l // achromatic
+  } else {
+    const hue2rgb = (p, q, t) => {
+      if (t < 0) t += 1
+      if (t > 1) t -= 1
+      if (t < 1/6) return p + (q - p) * 6 * t
+      if (t < 1/2) return q
+      if (t < 2/3) return p + (q - p) * (2/3 - t) * 6
+      return p
+    }
+
+    const q = l < 0.5 ? l * (1 + s) : l + s - l * s
+    const p = 2 * l - q
+
+    r = hue2rgb(p, q, h + 1/3)
+    g = hue2rgb(p, q, h)
+    b = hue2rgb(p, q, h - 1/3)
+  }
+
+  const toHex = (c) => {
+    const hex = Math.round(c * 255).toString(16)
+    return hex.length === 1 ? '0' + hex : hex
+  }
+
+  return `#${toHex(r)}${toHex(g)}${toHex(b)}`
+}
+
+/**
+ * Normalize topic name to handle variations intelligently
+ * Handles differences like:
+ * - "why are flags at half mast today" vs "why are the flags at half mast today"
+ * - "donald trump and bill clinton" vs "trump and clinton"
+ * Uses general rules without hardcoding specific names
+ * @param {string} topicName - Raw topic name
+ * @returns {string} Normalized topic name
+ */
+function normalizeTopicName(topicName) {
+  if (!topicName || typeof topicName !== 'string') {
+    return ''
+  }
+
+  let normalized = topicName
+  
+  // Convert to lowercase
+  normalized = normalized.toLowerCase()
+  
+  // Remove punctuation
+  normalized = normalized.replace(/[.,!?;:'"()\[\]{}]/g, '')
+  
+  // Normalize whitespace (multiple spaces to single space, trim)
+  normalized = normalized.replace(/\s+/g, ' ').trim()
+  
+  // Remove titles/prefixes (president, mr, dr, etc.)
+  normalized = normalized.replace(/\b(president|pres|mr|mrs|ms|dr|senator|sen|representative|rep|governor|gov)\s+/gi, '')
+  
+  // Remove common stop words (articles, common verbs, etc.)
+  // This handles "why are flags" vs "why are the flags"
+  const stopWords = /\b(a|an|the|are|is|was|were|be|been|being|have|has|had|do|does|did|will|would|should|could|may|might|can)\s+/gi
+  normalized = normalized.replace(stopWords, ' ')
+  
+  // Normalize whitespace after stop word removal
+  normalized = normalized.replace(/\s+/g, ' ').trim()
+  
+  // Handle name normalization: "firstname lastname" -> "lastname" when in context with "and"
+  // Pattern: "X Y and Z W" -> "Y and W" (extract last names)
+  // This handles "donald trump and bill clinton" -> "trump and clinton"
+  const namePairPattern = /(\w+)\s+(\w+)\s+(and|&)\s+(\w+)\s+(\w+)/i
+  const namePairMatch = normalized.match(namePairPattern)
+  if (namePairMatch) {
+    // We have "first1 last1 and first2 last2" -> "last1 and last2"
+    normalized = `${namePairMatch[2]} ${namePairMatch[3]} ${namePairMatch[5]}`
+  } else {
+    // Check for individual name pairs when separated by "and"
+    // Split by "and" or "&" to process each segment
+    const segments = normalized.split(/\s+(and|&)\s+/i)
+    
+    if (segments.length > 1) {
+      // We have multiple segments separated by "and" - likely names
+      const processedSegments = segments.map((segment, index) => {
+        // Keep conjunction words as-is
+        if (/^(and|&)$/i.test(segment.trim())) {
+          return segment.trim()
+        }
+        
+        const words = segment.trim().split(/\s+/)
+        
+        // If segment has exactly 2 words and first word is short (<=7 chars),
+        // treat as "firstname lastname" and extract just lastname
+        // This works for names like "donald trump", "bill clinton", etc.
+        if (words.length === 2 && words[0].length <= 7) {
+          return words[1] // Return last name only
+        }
+        
+        // If segment has 3+ words that all look like name parts (short words),
+        // extract the last word (likely the last name)
+        if (words.length >= 3) {
+          const allShort = words.every(w => w.length <= 8)
+          if (allShort) {
+            return words[words.length - 1] // Return last word
+          }
+        }
+        
+        // Otherwise, keep the segment as-is
+        return segment.trim()
+      })
+      
+      normalized = processedSegments.join(' ')
+    }
+  }
+  
+  // Final cleanup: normalize whitespace
+  normalized = normalized.replace(/\s+/g, ' ').trim()
+  
+  return normalized
+}
+
+/**
+ * Get color for a state based on the number of trending topics
+ * Monochrome scale: more topics = darker, no topics = white
+ * @param {number} topicCount - Number of trending topics
+ * @param {boolean} isDark - Whether dark theme is active
+ * @returns {string} Hex color code
+ */
+export function getColorByTopicCount(topicCount, isDark = false) {
+  // Handle states with no topics - white
+  if (!topicCount || topicCount === 0) {
+    return '#ffffff'
+  }
+
+  // Monochrome scale: more topics = darker gray
+  // Scale from 1 topic (light gray) to 10+ topics (dark gray)
+  // For light theme: white to dark gray
+  // For dark theme: light gray to darker gray (inverted for contrast)
+  
+  if (isDark) {
+    // Dark theme: darker grays for more topics (but lighter than light theme for contrast)
+    // 1 topic = light gray, 10+ topics = darker gray
+    const grayValues = [
+      200, // 1 topic - light gray
+      180, // 2 topics
+      160, // 3 topics
+      140, // 4 topics
+      120, // 5 topics
+      100, // 6 topics
+      80,  // 7 topics
+      70,  // 8 topics
+      60,  // 9 topics
+      50,  // 10+ topics - darker gray
+    ]
+    const index = Math.min(Math.max(topicCount, 1), 10) - 1
+    const gray = grayValues[index]
+    const hex = gray.toString(16).padStart(2, '0')
+    return `#${hex}${hex}${hex}`
+  } else {
+    // Light theme: darker grays for more topics
+    // 1 topic = light gray, 10+ topics = dark gray
+    const grayValues = [
+      240, // 1 topic - very light gray
+      220, // 2 topics
+      200, // 3 topics
+      180, // 4 topics
+      160, // 5 topics
+      140, // 6 topics
+      120, // 7 topics
+      100, // 8 topics
+      80,  // 9 topics
+      60,  // 10+ topics - dark gray
+    ]
+    const index = Math.min(Math.max(topicCount, 1), 10) - 1
+    const gray = grayValues[index]
+    const hex = gray.toString(16).padStart(2, '0')
+    return `#${hex}${hex}${hex}`
+  }
+}
+
