@@ -2,8 +2,8 @@ name: Data Ingestion Pipeline
 
 on:
   schedule:
-    # Run every 12 hours at 00:00 and 12:00 UTC
-    - cron: '0 */12 * * *'
+    # Run every 2 hours
+    - cron: '0 */2 * * *'
   workflow_dispatch: # Allow manual triggering
 
 jobs:
@@ -19,6 +19,7 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v4
         with:
+          ref: main
           token: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Setup Node.js
@@ -98,16 +99,12 @@ jobs:
             echo "No changes to data file"
           fi
 
-      - name: Get current branch
-        id: branch
-        run: echo "branch=$(git branch --show-current)" >> $GITHUB_OUTPUT
-
       - name: Commit and push changes
         if: steps.check-changes.outputs.has_changes == 'true'
         run: |
           git add public/data/states-topics.json
-          git commit -m "Update trending topics data"
-          git push origin HEAD:${{ steps.branch.outputs.branch }}
+          git commit -m "Update trending topics data [skip ci]"
+          git push origin main
 
       - name: Summary
         if: always()
@@ -125,7 +122,7 @@ jobs:
           echo "" >> $GITHUB_STEP_SUMMARY
           if [ "${{ steps.check-changes.outputs.has_changes }}" == "true" ]; then
             echo "🔄 Changes committed to repository" >> $GITHUB_STEP_SUMMARY
-            echo "🚀 Vercel will automatically redeploy on push" >> $GITHUB_STEP_SUMMARY
+            echo "🚀 GitHub Pages will automatically redeploy on push" >> $GITHUB_STEP_SUMMARY
           else
             echo "ℹ️ No changes detected - data is up to date" >> $GITHUB_STEP_SUMMARY
           fi
