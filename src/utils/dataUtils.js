@@ -6,19 +6,34 @@ export function getBaseUrl() {
   // import.meta.env.BASE_URL is set by Vite and includes the base path
   // It already has a leading slash, so we just need to ensure it ends with a slash
   const base = import.meta.env.BASE_URL || '/'
-  return base.endsWith('/') ? base : `${base}/`
+  const normalizedBase = base.endsWith('/') ? base : `${base}/`
+  
+  // Log base URL in both dev and prod to help debug production issues
+  console.log('[getBaseUrl] BASE_URL:', import.meta.env.BASE_URL, 'normalized:', normalizedBase, 'window.location.pathname:', window.location.pathname)
+  
+  return normalizedBase
 }
 
 /**
  * Construct a full URL for a data file, respecting the base path
+ * Uses relative paths to avoid base path duplication issues
  * @param {string} path - Path to the data file (e.g., 'data/states-topics.json')
- * @returns {string} Full URL with base path
+ * @returns {string} URL relative to current page location
  */
 export function getDataUrl(path) {
-  const base = getBaseUrl()
-  // Remove leading slash from path if present to avoid double slashes
+  // Remove leading slash from path if present
   const cleanPath = path.startsWith('/') ? path.slice(1) : path
-  return `${base}${cleanPath}`
+  
+  // Use relative path from current page location
+  // This automatically handles subdirectory deployments
+  // If we're at /political-forecast/, then 'data/file.json' becomes /political-forecast/data/file.json
+  // If we're at /, then 'data/file.json' becomes /data/file.json
+  const currentPath = window.location.pathname
+  const basePath = currentPath.substring(0, currentPath.lastIndexOf('/') + 1)
+  const finalUrl = `${basePath}${cleanPath}`
+  
+  console.log('[getDataUrl] Constructed URL:', finalUrl, '(path:', cleanPath, ', currentPath:', currentPath, ', basePath:', basePath, ')')
+  return finalUrl
 }
 
 /**
@@ -28,16 +43,37 @@ export function getDataUrl(path) {
  */
 export async function loadJSONData(url) {
   try {
-    // If URL is relative (starts with /), prepend base URL
-    const fullUrl = url.startsWith('/') ? getDataUrl(url.slice(1)) : url
-    const response = await fetch(fullUrl)
-    if (!response.ok) {
-      throw new Error(`Failed to load data: ${response.status} ${response.statusText}`)
+    // Use getDataUrl to construct the URL, which handles relative paths correctly
+    // This avoids base path duplication issues
+    let fullUrl = url
+    
+    // If it's already a full URL (http/https), use it as-is
+    if (url.startsWith('http://') || url.startsWith('https://')) {
+      fullUrl = url
+    } else {
+      // Use getDataUrl to construct relative path from current location
+      fullUrl = getDataUrl(url)
     }
+    
+    console.log('[loadJSONData] Fetching from:', fullUrl, '(original:', url, ')')
+    const response = await fetch(fullUrl)
+    
+    if (!response.ok) {
+      const errorText = await response.text().catch(() => 'No error details available')
+      console.error(`[loadJSONData] Fetch failed:`, {
+        url: fullUrl,
+        status: response.status,
+        statusText: response.statusText,
+        errorText: errorText.substring(0, 200)
+      })
+      throw new Error(`Failed to load data: ${response.status} ${response.statusText} - ${errorText.substring(0, 100)}`)
+    }
+    
     const data = await response.json()
+    console.log('[loadJSONData] Successfully loaded data from:', fullUrl)
     return data
   } catch (error) {
-    console.error(`Error loading JSON from ${url}:`, error)
+    console.error(`[loadJSONData] Error loading JSON from ${url}:`, error)
     throw error
   }
 }
