@@ -1,6 +1,7 @@
 import React, { useEffect, useRef, useState } from 'react'
 import { useTheme } from '../ui/ThemeProvider'
 import TopicList from './TopicList'
+import { toTitleCase } from '../../utils/tooltipUtils'
 import './StateDetailsPanel.css'
 
 const StateDetailsPanel = ({ isOpen, onClose, stateData, dataTimestamp }) => {
@@ -151,7 +152,7 @@ const StateDetailsPanel = ({ isOpen, onClose, stateData, dataTimestamp }) => {
           </h2>
           {topTopic && (
             <p className="state-details-subtitle">
-              Most Searched: <strong>{topTopic}</strong>
+              Most Searched: <strong>{toTitleCase(topTopic)}</strong>
             </p>
           )}
           <button

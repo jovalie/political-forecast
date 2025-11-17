@@ -46,7 +46,15 @@ const MapContainer = () => {
   useEffect(() => {
     const loadTopicData = async () => {
       try {
-        const data = await loadJSONData('/data/mock-states-topics.json')
+        // Try to load real data first, fall back to mock data
+        let data = null
+        try {
+          data = await loadJSONData('/data/states-topics.json')
+        } catch (error) {
+          console.log('Real data not found, using mock data:', error.message)
+          data = await loadJSONData('/data/mock-states-topics.json')
+        }
+        
         if (data && data.states) {
           setStatesTopicData(data.states)
           setDataTimestamp(data.timestamp)
@@ -87,6 +95,11 @@ const MapContainer = () => {
 
     setSelectedState(finalStateData)
     setIsSidebarOpen(true)
+  }
+
+  // Handle DC click - same as state click
+  const handleDCClick = (feature) => {
+    handleStateClick(feature)
   }
 
   // Handle sidebar close
@@ -138,6 +151,7 @@ const MapContainer = () => {
           statesTopicData={statesTopicData} 
           dataTimestamp={dataTimestamp}
           onStateClick={handleStateClick}
+          onDCClick={handleDCClick}
           onMapClick={handleMapClick}
         />
       </LeafletMapContainer>
