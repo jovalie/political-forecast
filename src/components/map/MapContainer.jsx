@@ -65,7 +65,7 @@ const MapContainer = () => {
         console.log('[MapContainer] Loading topic data from individual state files')
         for (const code of stateCodes) {
           try {
-            const file = await loadJSONData(`/data/states/${code}.json`)
+            const file = await loadJSONData(`data/states/${code}.json`)
             if (!timestamp && file.timestamp) {
               timestamp = file.timestamp
             }
