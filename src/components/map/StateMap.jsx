@@ -113,18 +113,29 @@ const GeoJSONRenderer = ({ geoJSONDataRef, styleRef, onEachFeatureRef, dataReady
   const layerRef = useRef(null)
 
   useEffect(() => {
+    console.log('[GeoJSONRenderer] Effect triggered:', {
+      hasLayerRef: !!layerRef.current,
+      hasGeoJSONData: !!geoJSONDataRef.current,
+      featureCount: geoJSONDataRef.current?.features?.length || 0,
+      hasStyleRef: !!styleRef.current,
+      hasOnEachFeatureRef: !!onEachFeatureRef.current,
+      dataReady
+    })
+    
     // Don't add if layer already exists
     if (layerRef.current) {
+      console.log('[GeoJSONRenderer] Layer already exists, skipping')
       return
     }
 
     if (!geoJSONDataRef.current || !geoJSONDataRef.current.features || geoJSONDataRef.current.features.length === 0) {
+      console.log('[GeoJSONRenderer] No GeoJSON data available yet')
       return
     }
 
     // Ensure onEachFeatureRef is set before creating layer
     if (!onEachFeatureRef.current) {
-      console.warn('GeoJSONRenderer: onEachFeatureRef.current is not set yet, waiting...')
+      console.warn('[GeoJSONRenderer] onEachFeatureRef.current is not set yet, waiting...')
       // Wait a bit and try again
       const timer = setTimeout(() => {
         if (onEachFeatureRef.current && !layerRef.current) {
@@ -816,14 +827,27 @@ const StateMap = ({ statesData = null, statesTopicData = null, dataTimestamp = n
 
   // Update layer feature references and rebind tooltips when merged data is available
   useEffect(() => {
+    console.log('[StateMap] Layer update effect triggered:', {
+      hasGeoJSONData: !!geoJSONData,
+      hasGeoJsonLayerRef: !!geoJsonLayerRef.current,
+      loading,
+      featureCount: geoJSONData?.features?.length || 0,
+      hasTopicData: geoJSONData?.features?.some(f => f.properties?.topTopic) || false
+    })
+    
     if (!geoJSONData || !geoJsonLayerRef.current || loading) {
+      console.log('[StateMap] Layer update effect skipped:', {
+        noGeoJSONData: !geoJSONData,
+        noGeoJsonLayerRef: !geoJsonLayerRef.current,
+        loading
+      })
       return
     }
 
     // Always update tooltips, even if we don't have topic data for all states
     // This ensures states without topic data still get tooltips showing "No trending data available"
 
-    console.log('Updating layer features with merged topic data')
+    console.log('[StateMap] Updating layer features with merged topic data')
     
     // Use a small delay to ensure layers are ready
     const timer = setTimeout(() => {
@@ -895,7 +919,13 @@ const StateMap = ({ statesData = null, statesTopicData = null, dataTimestamp = n
           }
         }
       })
-      console.log('Updated', updatedCount, 'layers,', tooltipUpdatedCount, 'tooltips updated,', styleUpdatedCount, 'styles updated')
+      console.log('[StateMap] Updated', updatedCount, 'layers,', tooltipUpdatedCount, 'tooltips updated,', styleUpdatedCount, 'styles updated')
+      
+      // Ensure layer is brought to front after updates
+      if (geoJsonLayerRef.current) {
+        geoJsonLayerRef.current.bringToFront()
+        console.log('[StateMap] Layer brought to front after style updates')
+      }
     }, 200) // Small delay to ensure layers are ready
 
     return () => clearTimeout(timer)
