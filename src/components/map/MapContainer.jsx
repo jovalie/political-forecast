@@ -42,24 +42,44 @@ const MapContainer = () => {
   const [selectedState, setSelectedState] = useState(null)
   const [isSidebarOpen, setIsSidebarOpen] = useState(false)
 
-  // Load topic data
+  // Load topic data (real per-state files)
   useEffect(() => {
-    const loadTopicData = async () => {
+    const loadAllStates = async () => {
       try {
-        const data = await loadJSONData('/data/mock-states-topics.json')
-        if (data && data.states) {
-          setStatesTopicData(data.states)
-          setDataTimestamp(data.timestamp)
+        const stateCodes = [
+          "AL","AK","AZ","AR","CA","CO","CT","DE","FL","GA",
+          "HI","ID","IL","IN","IA","KS","KY","LA","ME","MD",
+          "MA","MI","MN","MS","MO","MT","NE","NV","NH","NJ",
+          "NM","NY","NC","ND","OH","OK","OR","PA","RI","SC",
+          "SD","TN","TX","UT","VT","VA","WA","WV","WI","WY"
+        ]
+        const results = []
+        let timestamp = null
+
+        for (const code of stateCodes) {
+          try {
+            const file = await loadJSONData(`/data/states/${code}.json`)
+            if (!timestamp && file.timestamp) {
+              timestamp = file.timestamp
+            }
+            if (file.states && file.states[0]) {
+              results.push(file.states[0]) // push the state's data entry
+            }
+          } catch (err) {
+            console.warn(`Missing or unreadable ${code}.json`)
+          }
         }
+
+        setStatesTopicData(results)
+        setDataTimestamp(timestamp)
       } catch (error) {
         console.error('Error loading topic data:', error)
-        // Continue without topic data - map will still work
       } finally {
         setLoadingTopics(false)
       }
     }
 
-    loadTopicData()
+    loadAllStates()
   }, [])
 
   // Handle state click - extract state data and open sidebar

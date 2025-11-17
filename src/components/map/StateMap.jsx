@@ -178,7 +178,14 @@ const GeoJSONRenderer = ({ geoJSONDataRef, styleRef, onEachFeatureRef, dataReady
   return null
 }
 
-const StateMap = ({ statesData = null, statesTopicData = null, dataTimestamp = null, onStateClick = null, onStateHover = null, onMapClick = null }) => {
+const StateMap = ({
+  statesTopicData = null,
+  dataTimestamp = null,
+  onStateClick = null,
+  onStateHover = null,
+  onMapClick = null,
+  statesData = null
+}) => {
   const { isDark } = useTheme()
   const [geoJSONData, setGeoJSONData] = useState(null)
   const [loading, setLoading] = useState(true)
