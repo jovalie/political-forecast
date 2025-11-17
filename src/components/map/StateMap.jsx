@@ -2,7 +2,7 @@ import React, { useState, useEffect, useMemo, useCallback, useRef } from 'react'
 import { GeoJSON, useMap } from 'react-leaflet'
 import L from 'leaflet'
 import { useTheme } from '../ui/ThemeProvider'
-import { mergeTopicDataWithGeoJSON, getColorByTopicCount } from '../../utils/dataUtils'
+import { mergeTopicDataWithGeoJSON, getColorByTopicCount, getDataUrl } from '../../utils/dataUtils'
 import { generateTooltipText } from '../../utils/tooltipUtils'
 import DCMarker from './DCMarker'
 import './StateMap.css'
@@ -228,7 +228,8 @@ const StateMap = ({ statesData = null, statesTopicData = null, dataTimestamp = n
     // Otherwise, load from file
     const loadGeoJSON = async () => {
       try {
-        const response = await fetch('/data/us-states.geojson')
+        const geoJsonUrl = getDataUrl('data/us-states.geojson')
+        const response = await fetch(geoJsonUrl)
         if (!response.ok) {
           throw new Error(`Failed to load GeoJSON data: ${response.status} ${response.statusText}`)
         }

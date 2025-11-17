@@ -1,11 +1,36 @@
 /**
+ * Get the base URL for the application (handles GitHub Pages subdirectory)
+ * @returns {string} Base URL with trailing slash
+ */
+export function getBaseUrl() {
+  // import.meta.env.BASE_URL is set by Vite and includes the base path
+  // It already has a leading slash, so we just need to ensure it ends with a slash
+  const base = import.meta.env.BASE_URL || '/'
+  return base.endsWith('/') ? base : `${base}/`
+}
+
+/**
+ * Construct a full URL for a data file, respecting the base path
+ * @param {string} path - Path to the data file (e.g., 'data/states-topics.json')
+ * @returns {string} Full URL with base path
+ */
+export function getDataUrl(path) {
+  const base = getBaseUrl()
+  // Remove leading slash from path if present to avoid double slashes
+  const cleanPath = path.startsWith('/') ? path.slice(1) : path
+  return `${base}${cleanPath}`
+}
+
+/**
  * Load JSON data from a URL
- * @param {string} url - URL to fetch JSON from
+ * @param {string} url - URL to fetch JSON from (can be relative or absolute)
  * @returns {Promise<Object>} Parsed JSON data
  */
 export async function loadJSONData(url) {
   try {
-    const response = await fetch(url)
+    // If URL is relative (starts with /), prepend base URL
+    const fullUrl = url.startsWith('/') ? getDataUrl(url.slice(1)) : url
+    const response = await fetch(fullUrl)
     if (!response.ok) {
       throw new Error(`Failed to load data: ${response.status} ${response.statusText}`)
     }
