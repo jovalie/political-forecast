@@ -170,53 +170,69 @@ This guide outlines the step-by-step process for building the Political Forecast
 - [x] Update tooltip background and text colors dynamically when theme changes
 - [x] Test tooltip positioning and visibility with topic data
 
-## Phase 7: Unique Topic Mode (Optional for MVP)
+## Phase 7: Data Ingestion Script
 
-### Step 7.1: Toggle Component
-- [ ] Create `UniqueTopicToggle` component
-- [ ] Add toggle to UI (header or controls area)
-- [ ] Style toggle to match design system
+### Step 7.1: Web Scraping Setup
+- [x] Research Google Trends webpage structure
+- [x] Set up web scraping library (Puppeteer installed and configured)
+- [x] Create script to fetch Google Trends pages
+- [x] Implement URL generation for states/regions:
+  - Format: `https://trends.google.com/trending?geo={GEO_CODE}&hl=en-US&category=10`
+  - Category 10 = "Law and Government"
+  - Examples:
+    - California: `https://trends.google.com/trending?geo=US-CA&hl=en-US&category=10`
+    - Puerto Rico: `https://trends.google.com/trending?geo=PR&hl=en-US&category=10`
+- [x] Handle rate limiting and errors
+- [x] Implement proper delays between requests to avoid blocking (5 second default delay)
 
-### Step 7.2: Filtering Logic
-- [ ] Implement logic to filter states by unique topics
-- [ ] Update map when toggle is switched
-- [ ] Test unique topic mode functionality
+### Step 7.2: Data Extraction
+- [x] Extract trend titles from Google Trends pages
+- [x] Extract search volume data for each trend (e.g., "1K+", "500+", "200+")
+- [x] Extract "started" timestamp (when trend started, e.g., "6 hours ago", "23 hours ago")
+- [x] Extract trend breakdown (related queries/variants)
+- [x] Parse and normalize extracted data
+- [x] Handle missing or incomplete data gracefully (defaults to "N/A")
 
-## Phase 8: Data Ingestion Script
+### Step 7.3: Data Processing
+- [x] Aggregate data by state
+- [x] Calculate relevance scores (based on search volume and recency)
+- [x] Sort topics by relevance
+- [x] Include search volume, started time, and trend breakdown in JSON output
+- [x] Generate state-level JSON files with complete data structure
+- [x] Validate data before saving
 
-### Step 8.1: RSS Feed Parser
-- [ ] Research Google Trends RSS feed structure
-- [ ] Create script to fetch RSS feed data
-- [ ] Implement RSS parsing logic
-- [ ] Filter for "Law and Government" category
-- [ ] Handle rate limiting and errors
-
-### Step 8.2: Data Processing
-- [ ] Aggregate data by state
-- [ ] Calculate relevance scores
-- [ ] Sort topics by relevance
-- [ ] Generate state-level JSON files
-- [ ] Validate data before saving
-
-### Step 8.3: DMA Data Processing (Future Phase)
+### Step 7.4: DMA Data Processing (Future Phase)
 - [ ] Research DMA boundaries and data
 - [ ] Implement DMA-level data aggregation
 - [ ] Generate DMA JSON files per state
 - [ ] Note: Can be simplified for MVP (use state data only)
 
-### Step 8.4: Script Automation
-- [ ] Set up script to run locally for testing
-- [ ] Test data ingestion with sample states
-- [ ] Verify JSON output structure
-- [ ] Document script usage
+### Step 7.5: Script Automation
+- [x] Set up script to run locally for testing (`npm run ingest` or `node scripts/ingestData.js`)
+- [x] Test data ingestion with sample states (California and Puerto Rico tested)
+- [x] Verify JSON output structure (matches expected format with topics array, searchVolume, started, trendBreakdown)
+- [x] Document script usage (script accepts state names as arguments, e.g., `node scripts/ingestData.js California Puerto Rico`)
+
+## Phase 8: Unique Topic Mode (Optional for MVP)
+
+### Step 8.1: Toggle Component
+- [ ] Create `UniqueTopicToggle` component
+- [ ] Add toggle to UI (header or controls area)
+- [ ] Style toggle to match design system
+
+### Step 8.2: Filtering Logic
+- [ ] Implement logic to filter states by unique topics
+- [ ] Update map when toggle is switched
+- [ ] Test unique topic mode functionality
 
 ## Phase 9: Integration & Testing
 
 ### Step 9.1: Connect Real Data
-- [ ] Replace mock data with real JSON files
+- [ ] Replace mock data with real JSON files (scraped from Google Trends)
 - [ ] Test data loading with full state dataset
-- [ ] ] Verify all states render correctly
+- [ ] Verify all states render correctly
 - [ ] Test sidebar with real data
+- [ ] Run ingestion script for all 50 states + territories
 
 ### Step 9.2: Error Handling
 - [ ] Implement error boundaries
@@ -441,9 +457,13 @@ npm run lint           # Lint code (if configured)
 
 ## Notes
 
-- **Data Source**: Google Trends RSS feed may have limitations. Consider alternative data sources or APIs if RSS feed doesn't provide sufficient data.
+- **Data Source**: Google Trends webpages are scraped directly (category 10 = Law and Government). Web scraping requires careful handling of:
+  - Rate limiting and delays between requests
+  - Handling dynamic content (may need headless browser like Puppeteer/Playwright)
+  - Parsing HTML structure which may change over time
+  - Extracting search volume, started timestamps, and trend breakdown data
 - **DMA Data**: DMA-level data can be complex. Consider implementing state-level view first, then adding DMA view in a later phase.
-- **Rate Limiting**: Be mindful of Google Trends rate limits. Implement proper delays and error handling.
+- **Rate Limiting**: Be mindful of Google Trends rate limits. Implement proper delays (e.g., 2-5 seconds between requests) and error handling to avoid IP blocking.
 - **Mock Data**: Use mock data liberally during development to avoid hitting rate limits during testing.
 - **Tooltip Implementation**: Tooltips display "Most Discussed in [State] - [Month Day, Year]" format with the topic name in bold. Tooltips are theme-aware and automatically update colors when switching between light and dark modes. Implementation uses CSS variables with dynamic style updates via MutationObserver to ensure tooltips created after theme changes also have correct colors.
 
@@ -462,18 +482,20 @@ npm run lint           # Lint code (if configured)
 - ✅ Phase 4: Complete (Data Structure & Mock Data)
 - ✅ Phase 5: Complete (Data Integration & Topic Display - tooltips, sidebar, Google News links)
 - ⚠️ Phase 6: Partially Complete (Tooltip enhancement done, Color coding pending)
-- ❌ Phase 7-8: Pending
+- ✅ Phase 7: Complete (Data Ingestion Script - Web scraping with Puppeteer, extracts titles, search volume, started time, and trend breakdown)
+- ❌ Phase 8: Pending (Unique Topic Mode - Optional for MVP)
 - ❌ Phase 9-16: Pending
 
 **Remaining MVP Timeline**: 
 - ✅ Phase 5: Complete (Sidebar & Data Integration)
 - Phase 6: 0.5 days (Visualization polish - tooltips complete, color coding optional)
-- Phase 8: 2-3 days (Data Ingestion Script)
-- Phase 9: 1 day (Integration & Testing)
+- ✅ Phase 7: Complete (Data Ingestion Script - Web scraping implemented and tested)
+- Phase 8: Optional (Unique Topic Mode - implement after web scraping)
+- Phase 9: 1 day (Integration & Testing - connect real scraped data to app)
 - Phase 10-12: 1-2 days (Deployment)
 - Phase 13-16: 2-3 days (Automation & Launch)
 
-**Total Remaining**: ~1-1.5 weeks (depending on experience and time availability)
+**Total Remaining**: ~4-6 days (depending on experience and time availability)
 
 ## Future Enhancements (Post-MVP)
 
