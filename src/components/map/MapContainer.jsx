@@ -72,11 +72,14 @@ const MapContainer = () => {
 
   // Handle state click - extract state data and open sidebar
   const handleStateClick = (feature) => {
+    console.log('[MAP_CONTAINER] handleStateClick called with feature:', feature?.properties?.name, 'has properties:', !!feature?.properties)
     if (!feature || !feature.properties) {
+      console.warn('[MAP_CONTAINER] handleStateClick: Invalid feature, missing properties')
       return
     }
 
     const { name, topTopic, topics, trendingScore, category } = feature.properties
+    console.log('[MAP_CONTAINER] handleStateClick: Extracted data for', name, 'topics:', topics?.length)
 
     // Find the full state data from statesTopicData if available
     // Handle DC name variations: "Washington DC" and "District of Columbia"
@@ -96,22 +99,25 @@ const MapContainer = () => {
       })
     }
 
-    // Use merged data from feature if state data not found, or merge both
+    // Merge data: prefer stateData if found, otherwise use feature properties
+    // For topics: use stateData topics if available and non-empty, otherwise use feature topics
+    const stateDataTopics = Array.isArray(stateData?.topics) ? stateData.topics : []
+    const featureTopics = Array.isArray(topics) ? topics : []
+    // Prefer stateData topics if they exist and have items, otherwise use feature topics
+    const finalTopics = (stateDataTopics.length > 0) ? stateDataTopics : featureTopics
+    
     const finalStateData = {
-      name: name || 'Unknown State',
-      topTopic: topTopic || stateData?.topTopic || '',
-      topics: topics || stateData?.topics || [],
-      trendingScore: trendingScore || stateData?.trendingScore || 0,
-      category: category || stateData?.category || 'Law and Government',
+      name: name || stateData?.name || 'Unknown State',
+      topTopic: stateData?.topTopic || topTopic || '',
+      topics: finalTopics,
+      trendingScore: stateData?.trendingScore ?? trendingScore ?? 0,
+      category: stateData?.category || category || 'Law and Government',
     }
 
+    console.log('[MAP_CONTAINER] handleStateClick: Setting state and opening sidebar', finalStateData.name)
     setSelectedState(finalStateData)
     setIsSidebarOpen(true)
-  }
-
-  // Handle DC click - same as state click
-  const handleDCClick = (feature) => {
-    handleStateClick(feature)
+    console.log('[MAP_CONTAINER] handleStateClick: Sidebar state set, isSidebarOpen should be true')
   }
 
   // Handle sidebar close
@@ -163,7 +169,6 @@ const MapContainer = () => {
           statesTopicData={statesTopicData} 
           dataTimestamp={dataTimestamp}
           onStateClick={handleStateClick}
-          onDCClick={handleDCClick}
           onMapClick={handleMapClick}
         />
       </LeafletMapContainer>

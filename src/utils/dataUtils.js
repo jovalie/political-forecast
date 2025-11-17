@@ -62,13 +62,16 @@ export function mergeTopicDataWithGeoJSON(geoJSON, statesData, timestamp = null)
   }
 
   // Create a map of state name to topic data for quick lookup
+  // Handle DC name variations: "Washington DC" and "District of Columbia"
   const stateDataMap = new Map()
   statesData.forEach((state) => {
     stateDataMap.set(state.name, state)
+    // Also add DC with alternative name if it's DC
+    if (state.name === 'District of Columbia' || state.name === 'Washington DC') {
+      stateDataMap.set('District of Columbia', state)
+      stateDataMap.set('Washington DC', state)
+    }
   })
-
-  console.log('mergeTopicDataWithGeoJSON: Created state map with', stateDataMap.size, 'states')
-  console.log('Sample state names from map:', Array.from(stateDataMap.keys()).slice(0, 5))
 
   let mergedCount = 0
   let notFoundCount = 0
@@ -80,10 +83,21 @@ export function mergeTopicDataWithGeoJSON(geoJSON, statesData, timestamp = null)
       return feature
     }
 
-    const topicData = stateDataMap.get(stateName)
+    // Try exact match first
+    let topicData = stateDataMap.get(stateName)
+    
+    // If not found and it's DC, try alternative name
+    if (!topicData && (stateName === 'District of Columbia' || stateName === 'Washington DC')) {
+      const alternativeName = stateName === 'District of Columbia' ? 'Washington DC' : 'District of Columbia'
+      topicData = stateDataMap.get(alternativeName)
+    }
+    
     if (!topicData) {
       notFoundCount++
-      console.log('State not found in topic data:', stateName)
+      // Only warn for DC as it's a known edge case
+      if (stateName === 'District of Columbia' || stateName === 'Washington DC') {
+        console.warn('[mergeTopicData] DC not found in topic data:', stateName)
+      }
       return feature
     }
 
@@ -101,8 +115,6 @@ export function mergeTopicDataWithGeoJSON(geoJSON, statesData, timestamp = null)
       },
     }
   })
-
-  console.log('mergeTopicDataWithGeoJSON: Merged', mergedCount, 'states,', notFoundCount, 'not found')
 
   return {
     ...geoJSON,
