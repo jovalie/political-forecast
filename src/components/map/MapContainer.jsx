@@ -4,6 +4,7 @@ import { useTheme } from '../ui/ThemeProvider'
 import StateMap from './StateMap'
 import StateDetailsPanel from './StateDetailsPanel'
 import { loadJSONData, getDataUrl } from '../../utils/dataUtils'
+import { logPerformanceSummary } from '../../utils/performanceUtils'
 import 'leaflet/dist/leaflet.css'
 import './MapContainer.css'
 
@@ -50,6 +51,11 @@ const MapContainer = () => {
   // Load topic data (real per-state files)
   useEffect(() => {
     const loadAllStates = async () => {
+      // Performance measurement: Mark data loading start
+      if (typeof window !== 'undefined' && window.performance) {
+        window.performance.mark('data-load-start')
+      }
+      
       try {
         const stateCodes = [
           "AL","AK","AZ","AR","CA","CO","CT","DE","FL","GA",
@@ -74,6 +80,16 @@ const MapContainer = () => {
             }
           } catch (err) {
             console.warn(`[MapContainer] Missing or unreadable ${code}.json`)
+          }
+        }
+
+        // Performance measurement: Mark data loading end
+        if (typeof window !== 'undefined' && window.performance) {
+          window.performance.mark('data-load-end')
+          window.performance.measure('data-load', 'data-load-start', 'data-load-end')
+          const dataLoadMeasure = window.performance.getEntriesByName('data-load')[0]
+          if (dataLoadMeasure) {
+            console.log(`[Performance] Data loading: ${(dataLoadMeasure.duration / 1000).toFixed(2)}s`)
           }
         }
 
