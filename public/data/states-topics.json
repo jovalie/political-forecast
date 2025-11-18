@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-11-18T03:17:07.444Z",
+  "timestamp": "2025-11-18T04:29:34.162Z",
   "states": [
     {
       "name": "California",
@@ -12,16 +12,26 @@
           "name": "sheikh hasina",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "2K+",
-          "started": "16h ago",
+          "searchVolume": "5K+",
+          "started": "17h ago",
           "percentageIncrease": "500%"
+        },
+        {
+          "name": "alexis wilkins",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "40 minutes ago",
+          "trendBreakdown": "kash",
+          "percentageIncrease": "200%"
         },
         {
           "name": "lindsey halligan",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "8h ago",
+          "started": "9h ago",
+          "trendBreakdown": "new",
           "percentageIncrease": "400%"
         },
         {
@@ -29,7 +39,23 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "5h ago",
+          "started": "6h ago",
+          "percentageIncrease": "200%"
+        },
+        {
+          "name": "oj simpson death",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "13h ago",
+          "percentageIncrease": "200%"
+        },
+        {
+          "name": "afscme",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "11h ago",
           "percentageIncrease": "200%"
         },
         {
@@ -37,24 +63,24 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "9h ago",
+          "started": "10h ago",
           "percentageIncrease": "200%"
-        },
-        {
-          "name": "kash patel",
-          "relevanceScore": 90,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "5h ago",
-          "percentageIncrease": "100%"
         },
         {
           "name": "vnexpress",
           "relevanceScore": 85,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "13h ago",
+          "started": "14h ago",
           "percentageIncrease": "75%"
+        },
+        {
+          "name": "san diego news",
+          "relevanceScore": 85,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "14h ago",
+          "percentageIncrease": "50%"
         }
       ]
     },
@@ -70,7 +96,7 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "13h ago",
+          "started": "14h ago",
           "percentageIncrease": "200%"
         }
       ]
@@ -87,7 +113,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "1h ago",
+          "started": "2h ago",
           "trendBreakdown": "george",
           "percentageIncrease": "700%"
         },
@@ -96,7 +122,16 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "14h ago",
+          "started": "15h ago",
+          "percentageIncrease": "300%"
+        },
+        {
+          "name": "alexis wilkins",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "20 minutes ago",
+          "trendBreakdown": "kash",
           "percentageIncrease": "300%"
         },
         {
@@ -104,7 +139,7 @@
           "relevanceScore": 85,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "15h ago",
+          "started": "17h ago",
           "percentageIncrease": "75%"
         }
       ]
@@ -112,25 +147,16 @@
     {
       "name": "Georgia",
       "code": "GA",
-      "topTopic": "oj simpson death",
+      "topTopic": "sheikh hasina",
       "category": "Law and Government",
-      "trendingScore": 100,
+      "trendingScore": 95,
       "topics": [
-        {
-          "name": "oj simpson death",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "3h ago",
-          "trendBreakdown": "simpsonoj",
-          "percentageIncrease": "600%"
-        },
         {
           "name": "sheikh hasina",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "10h ago",
+          "started": "11h ago",
           "percentageIncrease": "400%"
         }
       ]
@@ -147,7 +173,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "5h ago",
+          "started": "6h ago",
           "percentageIncrease": "1000%"
         },
         {
@@ -155,7 +181,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "13h ago",
+          "started": "14h ago",
           "percentageIncrease": "600%"
         },
         {
@@ -163,7 +189,7 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "3h ago",
+          "started": "4h ago",
           "percentageIncrease": "400%"
         },
         {
@@ -171,7 +197,7 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "7h ago",
+          "started": "8h ago",
           "percentageIncrease": "400%"
         }
       ]
@@ -179,17 +205,17 @@
     {
       "name": "Indiana",
       "code": "IN",
-      "topTopic": "curt andersen",
+      "topTopic": "voluntary manslaughter",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
         {
-          "name": "curt andersen",
+          "name": "voluntary manslaughter",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "2K+",
-          "started": "7h ago",
-          "trendBreakdown": "voluntary",
+          "started": "8h ago",
+          "trendBreakdown": "curt",
           "percentageIncrease": "1000%"
         }
       ]
@@ -197,17 +223,18 @@
     {
       "name": "Maryland",
       "code": "MD",
-      "topTopic": "portugal",
+      "topTopic": "alexis wilkins",
       "category": "Law and Government",
-      "trendingScore": 100,
+      "trendingScore": 95,
       "topics": [
         {
-          "name": "portugal",
-          "relevanceScore": 100,
+          "name": "alexis wilkins",
+          "relevanceScore": 95,
           "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "21h ago",
-          "percentageIncrease": "800%"
+          "searchVolume": "100+",
+          "started": "20 minutes ago",
+          "trendBreakdown": "kash",
+          "percentageIncrease": "300%"
         }
       ]
     },
@@ -223,7 +250,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "75K+",
-          "started": "13h ago",
+          "started": "14h ago",
           "percentageIncrease": "1000%"
         },
         {
@@ -231,7 +258,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "12h ago",
+          "started": "13h ago",
           "percentageIncrease": "900%"
         }
       ]
@@ -248,7 +275,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "13h ago",
+          "started": "14h ago",
           "percentageIncrease": "700%"
         },
         {
@@ -256,7 +283,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "7h ago",
+          "started": "8h ago",
           "percentageIncrease": "700%"
         }
       ]
@@ -290,7 +317,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "14h ago",
+          "started": "15h ago",
           "percentageIncrease": "600%"
         },
         {
@@ -298,9 +325,18 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "22h ago",
+          "started": "23h ago",
           "trendBreakdown": "simpson",
           "percentageIncrease": "500%"
+        },
+        {
+          "name": "alexis wilkins",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "20 minutes ago",
+          "trendBreakdown": "kash",
+          "percentageIncrease": "400%"
         }
       ]
     },
@@ -316,7 +352,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "2h ago",
+          "started": "3h ago",
           "trendBreakdown": "ice",
           "percentageIncrease": "1000%"
         }
@@ -334,40 +370,32 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "2K+",
-          "started": "15h ago",
+          "started": "16h ago",
           "trendBreakdown": "prime",
           "percentageIncrease": "800%"
-        },
-        {
-          "name": "lindsey halligan",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "8h ago",
-          "percentageIncrease": "500%"
         },
         {
           "name": "miriam yarimi",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "4h ago",
+          "started": "5h ago",
           "percentageIncrease": "500%"
         },
         {
-          "name": "pei chung",
-          "relevanceScore": 95,
+          "name": "lindsey halligan",
+          "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "6h ago",
-          "percentageIncrease": "200%"
+          "searchVolume": "1K+",
+          "started": "9h ago",
+          "percentageIncrease": "500%"
         },
         {
           "name": "wktv",
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "16h ago",
+          "started": "17h ago",
           "percentageIncrease": "100%"
         }
       ]
@@ -384,7 +412,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "3h ago",
+          "started": "4h ago",
           "trendBreakdown": "simpsonoj",
           "percentageIncrease": "800%"
         }
@@ -420,7 +448,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "13h ago",
+          "started": "14h ago",
           "percentageIncrease": "600%"
         }
       ]
@@ -428,17 +456,17 @@
     {
       "name": "South Carolina",
       "code": "SC",
-      "topTopic": "amber alert charlotte nc",
+      "topTopic": "horry county schools",
       "category": "Law and Government",
-      "trendingScore": 100,
+      "trendingScore": 85,
       "topics": [
         {
-          "name": "amber alert charlotte nc",
-          "relevanceScore": 100,
+          "name": "horry county schools",
+          "relevanceScore": 85,
           "category": "Law and Government",
-          "searchVolume": "200+",
-          "started": "17h ago",
-          "percentageIncrease": "1000%"
+          "searchVolume": "500+",
+          "started": "15h ago",
+          "percentageIncrease": "50%"
         }
       ]
     },
@@ -454,16 +482,24 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "2K+",
-          "started": "5h ago",
+          "started": "7h ago",
           "trendBreakdown": "wolfchase",
           "percentageIncrease": "1000%"
+        },
+        {
+          "name": "alexis wilkins",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "7h ago",
+          "percentageIncrease": "400%"
         },
         {
           "name": "wreg",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "6h ago",
+          "started": "7h ago",
           "percentageIncrease": "400%"
         },
         {
@@ -471,7 +507,7 @@
           "relevanceScore": 85,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "15h ago",
+          "started": "16h ago",
           "percentageIncrease": "50%"
         }
       ]
@@ -488,7 +524,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "1h ago",
+          "started": "2h ago",
           "trendBreakdown": "george",
           "percentageIncrease": "700%"
         },
@@ -497,8 +533,16 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "2K+",
-          "started": "14h ago",
+          "started": "15h ago",
           "percentageIncrease": "400%"
+        },
+        {
+          "name": "dallas",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "1K+",
+          "started": "2h ago",
+          "percentageIncrease": "300%"
         }
       ]
     },
@@ -514,7 +558,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "2K+",
-          "started": "11h ago",
+          "started": "12h ago",
           "percentageIncrease": "1000%"
         },
         {
@@ -522,15 +566,15 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "14h ago",
-          "percentageIncrease": "700%"
+          "started": "15h ago",
+          "percentageIncrease": "600%"
         },
         {
           "name": "fema",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "7h ago",
+          "started": "8h ago",
           "percentageIncrease": "700%"
         },
         {
@@ -538,7 +582,7 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "40 minutes ago",
+          "started": "1h ago",
           "percentageIncrease": "200%"
         }
       ]
@@ -555,7 +599,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "14h ago",
+          "started": "15h ago",
           "percentageIncrease": "800%"
         },
         {
@@ -563,7 +607,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "8h ago",
+          "started": "9h ago",
           "percentageIncrease": "800%"
         },
         {
@@ -571,7 +615,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "8h ago",
+          "started": "9h ago",
           "trendBreakdown": "david",
           "percentageIncrease": "700%"
         },
@@ -580,7 +624,7 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "7h ago",
+          "started": "8h ago",
           "percentageIncrease": "300%"
         }
       ]
@@ -597,7 +641,7 @@
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "15h ago",
+          "started": "17h ago",
           "percentageIncrease": "100%"
         }
       ]
@@ -614,7 +658,7 @@
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "16h ago",
+          "started": "17h ago",
           "percentageIncrease": "100%"
         }
       ]
@@ -622,16 +666,17 @@
     {
       "name": "Washington",
       "code": "WA",
-      "topTopic": "huffington post",
+      "topTopic": "oj simpson",
       "category": "Law and Government",
       "trendingScore": 95,
       "topics": [
         {
-          "name": "huffington post",
+          "name": "oj simpson",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "12h ago",
+          "started": "13h ago",
+          "trendBreakdown": "abc",
           "percentageIncrease": "200%"
         },
         {
@@ -639,7 +684,7 @@
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "12h ago",
+          "started": "13h ago",
           "percentageIncrease": "100%"
         }
       ]
@@ -707,7 +752,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "40 minutes ago",
+          "started": "1h ago",
           "percentageIncrease": "900%"
         }
       ]
