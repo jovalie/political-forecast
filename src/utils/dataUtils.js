@@ -472,7 +472,7 @@ export function getColorByTopicCount(topicCount, isDark = false) {
   if (isDark) {
     // Dark theme: brighter/lighter grays for more topics (inverted from light theme)
     // 1 topic = darker gray, 10+ topics = brighter/lighter gray
-    // Increased contrast between groups: 0 (black), 1-3 (few), 4-6 (many), 6+ (TON)
+    // Increased contrast between groups: 0 (black), 1-3 (few), 4-6 (many), 7+ (TON)
     const grayValues = [
       90, // 1 topic - noticeably brighter than black for clear contrast
       100, // 2 topics - medium dark gray
