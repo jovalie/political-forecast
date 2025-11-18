@@ -41,23 +41,37 @@
 
 /* Mobile: Hide subtitle, place toggle next to title */
 @media (max-width: 768px) {
+  .app-header {
+    padding: calc(var(--spacing-unit) * 2);
+  }
+  
   .app-header-content {
     flex-direction: row;
     align-items: center;
     justify-content: space-between;
+    gap: calc(var(--spacing-unit) * 1);
   }
   
   .app-header-text {
     flex: 0 1 auto;
+    min-width: 0; /* Allow text to shrink */
   }
   
   .app-header h1 {
     font-size: 1.5rem;
     margin-bottom: 0;
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
   }
   
   .app-header p {
     display: none;
+  }
+  
+  /* Ensure theme toggle is visible and doesn't shrink */
+  .app-header > .app-header-content > *:last-child {
+    flex-shrink: 0;
   }
 }
 
