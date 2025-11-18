@@ -366,17 +366,18 @@ export function getColorByTopicCount(topicCount, isDark = false) {
   if (isDark) {
     // Dark theme: brighter/lighter grays for more topics (inverted from light theme)
     // 1 topic = darker gray, 10+ topics = brighter/lighter gray
+    // Increased contrast: states with 1-4 topics are darker, 5+ topics are much brighter
     const grayValues = [
-      60,  // 1 topic - darker gray
-      70,  // 2 topics
-      80,  // 3 topics
-      100, // 4 topics
-      120, // 5 topics
-      140, // 6 topics
-      160, // 7 topics
-      180, // 8 topics
-      200, // 9 topics
-      220, // 10+ topics - brighter/lighter gray
+      85,  // 1 topic - darker gray (reduced for better contrast)
+      95,  // 2 topics
+      105, // 3 topics
+      115, // 4 topics
+      170, // 5 topics - significant jump for better contrast
+      200, // 6 topics
+      220, // 7 topics
+      235, // 8 topics
+      245, // 9 topics
+      255, // 10+ topics - brightest gray (max brightness)
     ]
     const index = Math.min(Math.max(topicCount, 1), 10) - 1
     const gray = grayValues[index]
