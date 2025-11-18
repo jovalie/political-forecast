@@ -399,7 +399,7 @@ function formatRelativeTime(durationMs) {
   if (days > 0) {
     return `${days} ${days === 1 ? 'day' : 'days'} ago`
   } else if (hours > 0) {
-    return `${hours}${hours < 10 ? 'h' : 'h'} ago`
+    return `${hours}h ago`
   } else if (minutes > 0) {
     return `${minutes} ${minutes === 1 ? 'minute' : 'minutes'} ago`
   } else {
