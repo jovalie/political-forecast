@@ -1,0 +1,38 @@
+{
+  "timestamp": "2025-11-17T20:24:34.629Z",
+  "states": [
+    {
+      "name": "Florida",
+      "code": "FL",
+      "topTopic": "lindsey halligan",
+      "category": "Law and Government",
+      "trendingScore": 100,
+      "topics": [
+        {
+          "name": "lindsey halligan",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "1h ago",
+          "percentageIncrease": "500%"
+        },
+        {
+          "name": "sheikh hasina",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "7h ago",
+          "percentageIncrease": "300%"
+        },
+        {
+          "name": "new york times",
+          "relevanceScore": 90,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "9h ago",
+          "percentageIncrease": "100%"
+        }
+      ]
+    }
+  ]
+}

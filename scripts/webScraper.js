@@ -1,6 +1,63 @@
 import puppeteer from 'puppeteer'
 
 /**
+ * Filter topics for Law and Government relevance using keyword matching
+ * @param {Array} topics - Array of topic objects
+ * @returns {Array} Filtered topics
+ */
+function filterLawAndGovernmentTopics(topics) {
+  // Keywords that suggest Law and Government topics
+  const lawKeywords = [
+    'law', 'legal', 'legislation', 'bill', 'act', 'regulation', 'policy',
+    'government', 'congress', 'senate', 'house', 'representative', 'senator',
+    'election', 'vote', 'voting', 'ballot', 'campaign', 'candidate',
+    'court', 'judge', 'judicial', 'supreme court', 'lawsuit', 'trial',
+    'rights', 'amendment', 'constitution', 'federal', 'state', 'local',
+    'tax', 'budget', 'spending', 'appropriation', 'executive order',
+    'president', 'governor', 'mayor', 'officer', 'police', 'sheriff',
+    'immigration', 'border', 'security', 'defense', 'military',
+    'healthcare', 'medicare', 'medicaid', 'social security',
+    'education', 'school', 'university', 'student loan',
+    'environment', 'climate', 'epa', 'energy', 'oil', 'gas',
+    'infrastructure', 'transportation', 'highway', 'bridge',
+    'housing', 'zoning', 'planning', 'development',
+    'business', 'corporate', 'trade', 'tariff', 'economy',
+    'crime', 'justice', 'prison', 'sentencing',
+    'freedom', 'liberty', 'democracy', 'republic',
+    'fema', 'disaster', 'emergency', 'aid', 'relief'
+  ]
+
+  // Filter topics that contain law/government keywords
+  // Since we're using category=10 (Law and Government) in the URL, we trust Google's filtering
+  // and use keyword matching as a secondary check to remove obviously non-relevant topics
+  const filtered = topics.filter(topic => {
+    const titleLower = topic.name.toLowerCase()
+    const matches = lawKeywords.some(keyword => titleLower.includes(keyword))
+    
+    // Also check for common non-Law/Government terms to filter out
+    const nonRelevantTerms = ['tmz', 'celebrity', 'entertainment', 'music', 'movie', 'tv show', 'sports', 'game']
+    const isNonRelevant = nonRelevantTerms.some(term => titleLower.includes(term))
+    
+    if (isNonRelevant) {
+      return false
+    }
+    
+    // If it matches keywords, keep it
+    if (matches) {
+      return true
+    }
+    
+    // If no keyword match but it's from category=10, keep it anyway (trust Google's filtering)
+    return true
+  })
+
+  // Return top 10 filtered topics, sorted by relevance
+  return filtered
+    .sort((a, b) => b.relevanceScore - a.relevanceScore)
+    .slice(0, 10)
+}
+
+/**
  * Generate Google Trends URL for a state/region
  * @param {string} geoCode - Geo code (e.g., 'US-CA', 'PR')
  * @returns {string} Google Trends URL
@@ -1292,7 +1349,8 @@ export function calculateRelevanceScore(searchVolume, started, percentageIncreas
  * @returns {Array} Formatted topics array
  */
 export function formatTrendsForOutput(trends) {
-  return trends.map(trend => {
+  // First, format all trends with relevance scores
+  const formatted = trends.map(trend => {
     const relevanceScore = calculateRelevanceScore(trend.searchVolume, trend.started, trend.percentageIncrease)
     
     return {
@@ -1305,6 +1363,12 @@ export function formatTrendsForOutput(trends) {
       percentageIncrease: trend.percentageIncrease || null,
       link: trend.link
     }
-  }).sort((a, b) => b.relevanceScore - a.relevanceScore) // Sort by relevance descending
+  })
+  
+  // Filter to only Law and Government topics using keyword matching
+  const filtered = filterLawAndGovernmentTopics(formatted)
+  
+  // Return filtered and sorted by relevance descending
+  return filtered.sort((a, b) => b.relevanceScore - a.relevanceScore)
 }
 

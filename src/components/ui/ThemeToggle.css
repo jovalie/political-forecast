@@ -108,6 +108,8 @@
   .theme-toggle-switch {
     width: 48px;
     height: 26px;
+    flex-shrink: 0; /* Prevent toggle from shrinking */
+    min-width: 48px; /* Ensure minimum width */
   }
   
   .theme-toggle-slider {
