@@ -183,7 +183,7 @@ const StateDetailsPanel = ({ isOpen, onClose, stateData, dataTimestamp }) => {
                   </span>
                 )}
               </div>
-              <TopicList topics={topics} stateName={name} />
+              <TopicList topics={topics} stateName={name} dataTimestamp={dataTimestamp} />
             </>
           ) : (
             <div className="state-details-empty">
