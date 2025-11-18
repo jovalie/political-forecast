@@ -347,36 +347,37 @@ function normalizeTopicName(topicName) {
 
 /**
  * Get color for a state based on the number of trending topics
- * Monochrome scale: more topics = darker, no topics = white
+ * Light theme: more topics = darker gray
+ * Dark theme: more topics = brighter/lighter gray (inverted for visibility)
  * @param {number} topicCount - Number of trending topics
  * @param {boolean} isDark - Whether dark theme is active
  * @returns {string} Hex color code
  */
 export function getColorByTopicCount(topicCount, isDark = false) {
-  // Handle states with no topics - white for light mode, dark gray for dark mode
+  // Handle states with no topics - white for light mode, black for dark mode
   if (!topicCount || topicCount === 0) {
-    return isDark ? '#303030' : '#ffffff'
+    return isDark ? '#000000' : '#ffffff'
   }
 
-  // Monochrome scale: more topics = darker gray
-  // Scale from 1 topic (light gray) to 10+ topics (dark gray)
-  // For light theme: white to dark gray
-  // For dark theme: light gray to darker gray (inverted for contrast)
+  // Monochrome scale: more topics = darker gray (light theme) or brighter gray (dark theme)
+  // Light theme: 1 topic = light gray, 10+ topics = dark gray
+  // Dark theme: 1 topic = darker gray, 10+ topics = brighter/lighter gray (inverted for visibility)
   
   if (isDark) {
-    // Dark theme: darker grays for more topics (but lighter than light theme for contrast)
-    // 1 topic = light gray, 10+ topics = darker gray
+    // Dark theme: brighter/lighter grays for more topics (inverted from light theme)
+    // 1 topic = darker gray, 10+ topics = brighter/lighter gray
+    // Increased contrast between groups: 0 (black), 1-3 (few), 4-6 (many), 7+ (TON)
     const grayValues = [
-      160, // 1 topic - light gray (was 3 topics)
-      140, // 2 topics (was 4 topics)
-      120, // 3 topics (was 5 topics)
-      100, // 4 topics (was 6 topics)
-      80,  // 5 topics (was 7 topics)
-      70,  // 6 topics (was 8 topics)
-      60,  // 7 topics (was 9 topics)
-      50,  // 8 topics (was 10+ topics)
-      45,  // 9 topics
-      40,  // 10+ topics - darker gray
+      90, // 1 topic - noticeably brighter than black for clear contrast
+      100, // 2 topics - medium dark gray
+      150, // 3 topics - medium gray (end of "few" group)
+      180, // 4 topics - light gray (clear jump from 1-3, start of "many" group)
+      200, // 5 topics - very light gray
+      220, // 6 topics - almost white (end of "many" group)
+      245, // 7 topics - very bright (clear jump from 6, start of "TON" group)
+      250, // 8 topics - near white
+      253, // 9 topics - almost white
+      255, // 10+ topics - white (max brightness)
     ]
     const index = Math.min(Math.max(topicCount, 1), 10) - 1
     const gray = grayValues[index]
