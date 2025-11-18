@@ -249,10 +249,10 @@ This guide outlines the step-by-step process for building the Political Forecast
 - [x] Test performance targets (< 3s load, < 2s map render)
 
 ### Step 9.4: Responsive Testing
-- [ ] Test on mobile devices/simulators
-- [ ] Test on desktop browsers
-- [ ] Verify sidebar behavior on mobile
-- [ ] Test theme switching on all devices
+- [x] Test on mobile devices/simulators
+- [x] Test on desktop browsers
+- [x] Verify sidebar behavior on mobile
+- [x] Test theme switching on all devices
 
 ### Step 9.5: Accessibility Testing
 - [ ] Test keyboard navigation
