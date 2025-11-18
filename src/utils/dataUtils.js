@@ -377,7 +377,7 @@ export function getColorByTopicCount(topicCount, isDark = false) {
       245, // 7 topics - very bright (clear jump from 6, start of "TON" group)
       250, // 8 topics - near white
       253, // 9 topics - almost white
-      255, // 10+ topics - brightest gray (max brightness)
+      255, // 10+ topics - white (max brightness)
     ]
     const index = Math.min(Math.max(topicCount, 1), 10) - 1
     const gray = grayValues[index]
