@@ -103,7 +103,7 @@ jobs:
         if: steps.check-changes.outputs.has_changes == 'true'
         run: |
           git add public/data/states-topics.json
-          git commit -m "Update trending topics data [skip ci]"
+          git commit -m "Update trending topics data"
           git push origin main
 
       - name: Summary
