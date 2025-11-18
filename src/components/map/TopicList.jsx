@@ -1,9 +1,10 @@
 import React from 'react'
 import { generateGoogleNewsUrl } from '../../utils/googleNewsUtils'
 import { toTitleCase } from '../../utils/tooltipUtils'
+import { convertStartedToCurrentTime } from '../../utils/dataUtils'
 import './TopicList.css'
 
-const TopicList = ({ topics = [], stateName = '' }) => {
+const TopicList = ({ topics = [], stateName = '', dataTimestamp = null }) => {
   if (!topics || topics.length === 0) {
     return (
       <div className="topic-list-empty">
@@ -49,7 +50,9 @@ const TopicList = ({ topics = [], stateName = '' }) => {
                 {topic.started && (
                   <span className="topic-stat">
                     <span className="topic-stat-label">Started:</span>
-                    <span className="topic-stat-value">{topic.started}</span>
+                    <span className="topic-stat-value">
+                      {convertStartedToCurrentTime(topic.started, dataTimestamp)}
+                    </span>
                   </span>
                 )}
                 {topic.percentageIncrease && (
