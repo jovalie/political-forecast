@@ -366,7 +366,7 @@ const StateMap = ({
       const fillColor = getColorByTopicCount(topicCount, isDark)
       
       // Border color should be slightly darker/lighter than fill for contrast
-      const borderColor = isDark ? '#505050' : '#666666'
+      const borderColor = isDark ? '#606060' : '#666666'
       
       return {
         fillColor: fillColor,
