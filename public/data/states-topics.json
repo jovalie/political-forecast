@@ -1,36 +1,28 @@
 {
-  "timestamp": "2025-11-18T20:29:26.687Z",
+  "timestamp": "2025-11-18T22:24:43.125Z",
   "states": [
     {
       "name": "California",
       "code": "CA",
-      "topTopic": "madison",
+      "topTopic": "jamal khashoggi",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
         {
-          "name": "madison",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "2K+",
-          "started": "11h ago",
-          "percentageIncrease": "800%"
-        },
-        {
           "name": "jamal khashoggi",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "2h ago",
+          "searchVolume": "2K+",
+          "started": "4h ago",
           "trendBreakdown": "arabiasaudi",
-          "percentageIncrease": "500%"
+          "percentageIncrease": "600%"
         },
         {
           "name": "irs direct deposit",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "11h ago",
+          "started": "13h ago",
           "percentageIncrease": "600%"
         },
         {
@@ -38,15 +30,16 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "17h ago",
+          "started": "19h ago",
           "percentageIncrease": "500%"
         },
         {
-          "name": "texas",
+          "name": "texas redistricting",
           "relevanceScore": 95,
           "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "1h ago",
+          "searchVolume": "1K+",
+          "started": "2h ago",
+          "trendBreakdown": "gerrymanderingtexas",
           "percentageIncrease": "300%"
         },
         {
@@ -54,24 +47,24 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "9h ago",
+          "started": "11h ago",
           "percentageIncrease": "400%"
         },
         {
-          "name": "kash patel",
+          "name": "kash patel girlfriend",
           "relevanceScore": 95,
           "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "22h ago",
-          "trendBreakdown": "kash",
-          "percentageIncrease": "200%"
+          "searchVolume": "500+",
+          "started": "18h ago",
+          "trendBreakdown": "alexis",
+          "percentageIncrease": "300%"
         },
         {
-          "name": "no tax on overtime",
+          "name": "central",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "22h ago",
+          "started": "9h ago",
           "percentageIncrease": "200%"
         },
         {
@@ -79,7 +72,15 @@
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "2K+",
-          "started": "3h ago",
+          "started": "5h ago",
+          "percentageIncrease": "100%"
+        },
+        {
+          "name": "andrew tate",
+          "relevanceScore": 90,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "2h ago",
           "percentageIncrease": "100%"
         },
         {
@@ -87,23 +88,23 @@
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "7h ago",
+          "started": "9h ago",
           "percentageIncrease": "100%"
         },
         {
-          "name": "government",
-          "relevanceScore": 90,
+          "name": "voo",
+          "relevanceScore": 85,
           "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "7h ago",
-          "percentageIncrease": "100%"
+          "searchVolume": "500+",
+          "started": "6h ago",
+          "percentageIncrease": "50%"
         },
         {
           "name": "canada",
           "relevanceScore": 85,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "8h ago",
+          "started": "10h ago",
           "percentageIncrease": "50%"
         }
       ]
@@ -128,24 +129,16 @@
     {
       "name": "Florida",
       "code": "FL",
-      "topTopic": "madison",
+      "topTopic": "irs direct deposit",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
-        {
-          "name": "madison",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "2K+",
-          "started": "11h ago",
-          "percentageIncrease": "1000%"
-        },
         {
           "name": "irs direct deposit",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "18h ago",
+          "started": "20h ago",
           "percentageIncrease": "800%"
         },
         {
@@ -153,7 +146,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "18h ago",
+          "started": "20h ago",
           "trendBreakdown": "george",
           "percentageIncrease": "700%"
         },
@@ -162,7 +155,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "16h ago",
+          "started": "18h ago",
           "percentageIncrease": "500%"
         },
         {
@@ -170,7 +163,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "6h ago",
+          "started": "8h ago",
           "percentageIncrease": "500%"
         },
         {
@@ -178,7 +171,7 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "1h ago",
+          "started": "3h ago",
           "trendBreakdown": "saudi",
           "percentageIncrease": "400%"
         },
@@ -187,7 +180,7 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "16h ago",
+          "started": "18h ago",
           "trendBreakdown": "kash",
           "percentageIncrease": "200%"
         },
@@ -196,7 +189,7 @@
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "5h ago",
+          "started": "7h ago",
           "percentageIncrease": "100%"
         },
         {
@@ -204,7 +197,7 @@
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "10h ago",
+          "started": "12h ago",
           "percentageIncrease": "100%"
         }
       ]
@@ -212,24 +205,16 @@
     {
       "name": "Georgia",
       "code": "GA",
-      "topTopic": "madison",
+      "topTopic": "irs direct deposit",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
-        {
-          "name": "madison",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "8h ago",
-          "percentageIncrease": "700%"
-        },
         {
           "name": "irs direct deposit",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "10h ago",
+          "started": "12h ago",
           "percentageIncrease": "600%"
         },
         {
@@ -237,7 +222,7 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "20h ago",
+          "started": "22h ago",
           "percentageIncrease": "400%"
         }
       ]
@@ -253,33 +238,25 @@
           "name": "orville t bright school",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "2K+",
-          "started": "10h ago",
+          "searchVolume": "5K+",
+          "started": "12h ago",
           "trendBreakdown": "bright",
           "percentageIncrease": "1000%"
         },
         {
-          "name": "madison",
+          "name": "jamal khashoggi",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "8h ago",
-          "percentageIncrease": "700%"
-        },
-        {
-          "name": "maria pappas",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "22h ago",
-          "percentageIncrease": "700%"
+          "searchVolume": "500+",
+          "started": "3h ago",
+          "percentageIncrease": "800%"
         },
         {
           "name": "alaska airlines pilot sentenced",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "15h ago",
+          "started": "17h ago",
           "percentageIncrease": "800%"
         },
         {
@@ -287,7 +264,7 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "21h ago",
+          "started": "23h ago",
           "trendBreakdown": "vandalia",
           "percentageIncrease": "200%"
         },
@@ -296,7 +273,7 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "20h ago",
+          "started": "22h ago",
           "percentageIncrease": "400%"
         }
       ]
@@ -321,32 +298,16 @@
     {
       "name": "Maryland",
       "code": "MD",
-      "topTopic": "jamal khashoggi",
+      "topTopic": "irs direct deposit",
       "category": "Law and Government",
-      "trendingScore": 100,
+      "trendingScore": 95,
       "topics": [
-        {
-          "name": "jamal khashoggi",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "40 minutes ago",
-          "percentageIncrease": "1000%"
-        },
-        {
-          "name": "madison",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "8h ago",
-          "percentageIncrease": "600%"
-        },
         {
           "name": "irs direct deposit",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "7h ago",
+          "started": "9h ago",
           "percentageIncrease": "300%"
         },
         {
@@ -354,7 +315,7 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "16h ago",
+          "started": "18h ago",
           "trendBreakdown": "kash",
           "percentageIncrease": "200%"
         }
@@ -363,24 +324,16 @@
     {
       "name": "Michigan",
       "code": "MI",
-      "topTopic": "madison",
+      "topTopic": "irs direct deposit",
       "category": "Law and Government",
-      "trendingScore": 100,
+      "trendingScore": 95,
       "topics": [
-        {
-          "name": "madison",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "8h ago",
-          "percentageIncrease": "1000%"
-        },
         {
           "name": "irs direct deposit",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "8h ago",
+          "started": "10h ago",
           "percentageIncrease": "400%"
         },
         {
@@ -388,7 +341,7 @@
           "relevanceScore": 85,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "11h ago",
+          "started": "13h ago",
           "percentageIncrease": "75%"
         }
       ]
@@ -405,16 +358,8 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "5K+",
-          "started": "8h ago",
+          "started": "10h ago",
           "trendBreakdown": "brian",
-          "percentageIncrease": "1000%"
-        },
-        {
-          "name": "madison",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "9h ago",
           "percentageIncrease": "1000%"
         },
         {
@@ -422,7 +367,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "20h ago",
+          "started": "22h ago",
           "percentageIncrease": "1000%"
         },
         {
@@ -430,7 +375,7 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "3h ago",
+          "started": "5h ago",
           "percentageIncrease": "300%"
         }
       ]
@@ -447,7 +392,7 @@
           "relevanceScore": 85,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "9h ago",
+          "started": "11h ago",
           "percentageIncrease": "75%"
         }
       ]
@@ -455,32 +400,33 @@
     {
       "name": "New Jersey",
       "code": "NJ",
-      "topTopic": "andrew labruno",
+      "topTopic": "hillsborough nj",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
+        {
+          "name": "hillsborough nj",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "2K+",
+          "started": "3h ago",
+          "trendBreakdown": "active",
+          "percentageIncrease": "1000%"
+        },
         {
           "name": "andrew labruno",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "7h ago",
-          "percentageIncrease": "1000%"
-        },
-        {
-          "name": "madison",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "500+",
           "started": "9h ago",
-          "percentageIncrease": "700%"
+          "percentageIncrease": "1000%"
         },
         {
           "name": "oj simpson death",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "20h ago",
+          "started": "22h ago",
           "percentageIncrease": "700%"
         },
         {
@@ -488,7 +434,7 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "16h ago",
+          "started": "18h ago",
           "trendBreakdown": "kash",
           "percentageIncrease": "400%"
         }
@@ -506,24 +452,16 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "5K+",
-          "started": "19h ago",
+          "started": "21h ago",
           "trendBreakdown": "ice",
           "percentageIncrease": "1000%"
-        },
-        {
-          "name": "madison",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "8h ago",
-          "percentageIncrease": "900%"
         },
         {
           "name": "george w bush",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "18h ago",
+          "started": "20h ago",
           "percentageIncrease": "1000%"
         }
       ]
@@ -539,33 +477,17 @@
           "name": "jamal khashoggi",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "2h ago",
-          "trendBreakdown": "arabiasaudi",
-          "percentageIncrease": "1000%"
-        },
-        {
-          "name": "madison",
-          "relevanceScore": 100,
-          "category": "Law and Government",
           "searchVolume": "2K+",
-          "started": "11h ago",
-          "percentageIncrease": "900%"
-        },
-        {
-          "name": "bare hill correctional facility",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "5h ago",
-          "percentageIncrease": "500%"
+          "started": "4h ago",
+          "trendBreakdown": "bin",
+          "percentageIncrease": "1000%"
         },
         {
           "name": "irs direct deposit",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "18h ago",
+          "started": "20h ago",
           "percentageIncrease": "900%"
         },
         {
@@ -573,15 +495,31 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "15h ago",
+          "started": "17h ago",
           "percentageIncrease": "1000%"
+        },
+        {
+          "name": "stephen a smith",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "1K+",
+          "started": "13h ago",
+          "percentageIncrease": "400%"
+        },
+        {
+          "name": "bare hill correctional facility",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "1K+",
+          "started": "7h ago",
+          "percentageIncrease": "400%"
         },
         {
           "name": "miriam yarimi",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "21h ago",
+          "started": "23h ago",
           "percentageIncrease": "400%"
         },
         {
@@ -589,41 +527,40 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "16h ago",
+          "started": "18h ago",
           "percentageIncrease": "200%"
         },
         {
-          "name": "pei chung",
+          "name": "ms now",
           "relevanceScore": 90,
           "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "23h ago",
-          "trendBreakdown": "postny",
+          "searchVolume": "100+",
+          "started": "10h ago",
           "percentageIncrease": "100%"
+        },
+        {
+          "name": "ny post",
+          "relevanceScore": 85,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "11h ago",
+          "percentageIncrease": "50%"
         }
       ]
     },
     {
       "name": "Ohio",
       "code": "OH",
-      "topTopic": "madison",
+      "topTopic": "oj simpson death",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
-        {
-          "name": "madison",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "9h ago",
-          "percentageIncrease": "800%"
-        },
         {
           "name": "oj simpson death",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "20h ago",
+          "started": "22h ago",
           "percentageIncrease": "900%"
         },
         {
@@ -631,7 +568,7 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "20 minutes ago",
+          "started": "2h ago",
           "percentageIncrease": "400%"
         }
       ]
@@ -657,33 +594,25 @@
     {
       "name": "Pennsylvania",
       "code": "PA",
-      "topTopic": "madison",
+      "topTopic": "new york post",
       "category": "Law and Government",
-      "trendingScore": 100,
+      "trendingScore": 90,
       "topics": [
-        {
-          "name": "madison",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "2K+",
-          "started": "9h ago",
-          "percentageIncrease": "1000%"
-        },
         {
           "name": "new york post",
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "8h ago",
+          "started": "10h ago",
           "percentageIncrease": "100%"
         },
         {
-          "name": "septa",
+          "name": "yahoo",
           "relevanceScore": 85,
           "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "8h ago",
-          "percentageIncrease": "75%"
+          "searchVolume": "500+",
+          "started": "11h ago",
+          "percentageIncrease": "50%"
         }
       ]
     },
@@ -733,33 +662,16 @@
     {
       "name": "Texas",
       "code": "TX",
-      "topTopic": "madison",
+      "topTopic": "irs direct deposit",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
-        {
-          "name": "madison",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "2K+",
-          "started": "9h ago",
-          "percentageIncrease": "600%"
-        },
-        {
-          "name": "jamal khashoggi",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "1h ago",
-          "trendBreakdown": "saudi",
-          "percentageIncrease": "500%"
-        },
         {
           "name": "irs direct deposit",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "18h ago",
+          "started": "20h ago",
           "percentageIncrease": "500%"
         },
         {
@@ -767,16 +679,25 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "18h ago",
+          "started": "20h ago",
           "trendBreakdown": "george",
           "percentageIncrease": "1000%"
+        },
+        {
+          "name": "jamal khashoggi",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "3h ago",
+          "trendBreakdown": "saudi",
+          "percentageIncrease": "400%"
         },
         {
           "name": "turkey",
           "relevanceScore": 90,
           "category": "Law and Government",
-          "searchVolume": "2K+",
-          "started": "6h ago",
+          "searchVolume": "5K+",
+          "started": "8h ago",
           "percentageIncrease": "100%"
         }
       ]
@@ -784,66 +705,42 @@
     {
       "name": "Virginia",
       "code": "VA",
-      "topTopic": "madison",
+      "topTopic": "jamal khashoggi",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
         {
-          "name": "madison",
+          "name": "jamal khashoggi",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "8h ago",
-          "percentageIncrease": "700%"
+          "searchVolume": "500+",
+          "started": "3h ago",
+          "percentageIncrease": "900%"
         }
       ]
     },
     {
       "name": "District of Columbia",
       "code": "DC",
-      "topTopic": "roma",
+      "topTopic": "jamal khashoggi",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
-        {
-          "name": "roma",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "2K+",
-          "started": "9h ago",
-          "percentageIncrease": "1000%"
-        },
         {
           "name": "jamal khashoggi",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "2h ago",
+          "started": "4h ago",
           "trendBreakdown": "bin",
           "percentageIncrease": "1000%"
-        },
-        {
-          "name": "department of education",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "1h ago",
-          "percentageIncrease": "500%"
-        },
-        {
-          "name": "madison",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "8h ago",
-          "percentageIncrease": "800%"
         },
         {
           "name": "paschal donohoe",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "7h ago",
+          "started": "9h ago",
           "percentageIncrease": "1000%"
         },
         {
@@ -851,7 +748,7 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "8h ago",
+          "started": "10h ago",
           "percentageIncrease": "400%"
         }
       ]
@@ -868,7 +765,7 @@
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "4h ago",
+          "started": "6h ago",
           "percentageIncrease": "100%"
         }
       ]
@@ -893,17 +790,17 @@
     {
       "name": "Washington",
       "code": "WA",
-      "topTopic": "madison",
+      "topTopic": "yahoo",
       "category": "Law and Government",
-      "trendingScore": 100,
+      "trendingScore": 85,
       "topics": [
         {
-          "name": "madison",
-          "relevanceScore": 100,
+          "name": "yahoo",
+          "relevanceScore": 85,
           "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "5h ago",
-          "percentageIncrease": "1000%"
+          "searchVolume": "100+",
+          "started": "8h ago",
+          "percentageIncrease": "75%"
         }
       ]
     },
@@ -927,17 +824,17 @@
     {
       "name": "Kansas",
       "code": "KS",
-      "topTopic": "ai",
+      "topTopic": "yahoo",
       "category": "Law and Government",
-      "trendingScore": 95,
+      "trendingScore": 85,
       "topics": [
         {
-          "name": "ai",
-          "relevanceScore": 95,
+          "name": "yahoo",
+          "relevanceScore": 85,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "10 minutes ago",
-          "percentageIncrease": "400%"
+          "started": "9h ago",
+          "percentageIncrease": "75%"
         }
       ]
     },
@@ -970,7 +867,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "12h ago",
+          "started": "14h ago",
           "percentageIncrease": "900%"
         },
         {
@@ -978,15 +875,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "12h ago",
-          "percentageIncrease": "1000%"
-        },
-        {
-          "name": "uk",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "12h ago",
+          "started": "14h ago",
           "percentageIncrease": "1000%"
         },
         {
@@ -994,7 +883,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "12h ago",
+          "started": "14h ago",
           "percentageIncrease": "700%"
         },
         {
@@ -1002,39 +891,47 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "12h ago",
+          "started": "14h ago",
           "percentageIncrease": "700%"
+        },
+        {
+          "name": "william",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "14h ago",
+          "percentageIncrease": "600%"
         },
         {
           "name": "new",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "12h ago",
+          "started": "14h ago",
           "percentageIncrease": "500%"
         },
         {
-          "name": "australian",
+          "name": "central",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "10h ago",
-          "percentageIncrease": "600%"
+          "started": "12h ago",
+          "percentageIncrease": "700%"
         },
         {
-          "name": "philippines",
-          "relevanceScore": 95,
+          "name": "clash",
+          "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "9h ago",
-          "percentageIncrease": "300%"
+          "searchVolume": "500+",
+          "started": "12h ago",
+          "percentageIncrease": "600%"
         },
         {
           "name": "nia",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "8h ago",
+          "started": "10h ago",
           "percentageIncrease": "200%"
         },
         {
@@ -1042,23 +939,39 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "8h ago",
+          "started": "10h ago",
           "percentageIncrease": "300%"
+        },
+        {
+          "name": "easa",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "10h ago",
+          "percentageIncrease": "400%"
+        },
+        {
+          "name": "canada",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "11h ago",
+          "percentageIncrease": "200%"
         },
         {
           "name": "corruption",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "8h ago",
+          "started": "10h ago",
           "percentageIncrease": "300%"
         },
         {
-          "name": "national",
+          "name": "finland",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "8h ago",
+          "started": "10h ago",
           "percentageIncrease": "200%"
         },
         {
@@ -1066,7 +979,7 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "8h ago",
+          "started": "10h ago",
           "percentageIncrease": "300%"
         },
         {
@@ -1074,7 +987,7 @@
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "9h ago",
+          "started": "11h ago",
           "percentageIncrease": "100%"
         }
       ]
@@ -1091,23 +1004,15 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "2h ago",
+          "started": "4h ago",
           "percentageIncrease": "1000%"
-        },
-        {
-          "name": "madison",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "7h ago",
-          "percentageIncrease": "900%"
         },
         {
           "name": "metro transit",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "6h ago",
+          "started": "8h ago",
           "percentageIncrease": "200%"
         },
         {
@@ -1115,8 +1020,16 @@
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "8h ago",
+          "started": "10h ago",
           "percentageIncrease": "100%"
+        },
+        {
+          "name": "yahoo",
+          "relevanceScore": 85,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "10h ago",
+          "percentageIncrease": "50%"
         }
       ]
     },
@@ -1166,7 +1079,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "20h ago",
+          "started": "22h ago",
           "percentageIncrease": "700%"
         }
       ]
@@ -1235,7 +1148,7 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "8h ago",
+          "started": "10h ago",
           "percentageIncrease": "200%"
         }
       ]
@@ -1269,7 +1182,7 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "8h ago",
+          "started": "10h ago",
           "percentageIncrease": "300%"
         }
       ]
@@ -1294,32 +1207,16 @@
     {
       "name": "Wisconsin",
       "code": "WI",
-      "topTopic": "roma",
+      "topTopic": "oj simpson death",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
-        {
-          "name": "roma",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "7h ago",
-          "percentageIncrease": "900%"
-        },
-        {
-          "name": "madison",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "9h ago",
-          "percentageIncrease": "500%"
-        },
         {
           "name": "oj simpson death",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "20h ago",
+          "started": "22h ago",
           "percentageIncrease": "500%"
         }
       ]
@@ -1370,7 +1267,7 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "8h ago",
+          "started": "10h ago",
           "percentageIncrease": "300%"
         }
       ]
