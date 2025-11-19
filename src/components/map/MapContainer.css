@@ -24,17 +24,34 @@
 
 /* Fix map being cut off on mobile - ensure proper viewport */
 @media (max-width: 768px) {
-  .map-container .leaflet-container {
-    /* Force map to recalculate size on mobile */
-    touch-action: pan-x pan-y;
-  }
-  
-  /* Fix initial map render issue on mobile */
   .map-container {
     /* Ensure map container doesn't overflow */
     overflow: hidden;
-    width: 100vw;
-    max-width: 100vw;
+    width: 100%;
+    max-width: 100%;
+    margin: 0;
+    padding: 0;
+  }
+  
+  .map-container .leaflet-container {
+    /* Force map to recalculate size on mobile */
+    touch-action: pan-x pan-y;
+    width: 100% !important;
+    height: 100% !important;
+    margin: 0;
+    padding: 0;
+  }
+  
+  /* Ensure map panes are properly sized */
+  .map-container .leaflet-pane {
+    width: 100%;
+    height: 100%;
+  }
+  
+  /* Fix map tiles container */
+  .map-container .leaflet-tile-container {
+    width: 100%;
+    height: 100%;
   }
 }
 

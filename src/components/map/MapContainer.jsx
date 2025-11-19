@@ -1,5 +1,6 @@
 import React, { useEffect, useState, useCallback, useRef } from 'react'
 import { MapContainer as LeafletMapContainer, TileLayer, useMap } from 'react-leaflet'
+import L from 'leaflet'
 import { useTheme } from '../ui/ThemeProvider'
 import StateMap from './StateMap'
 import StateDetailsPanel from './StateDetailsPanel'
@@ -21,6 +22,7 @@ const CONTINENTAL_US_CENTER = [39.5, -98.35] // Central Kansas area
 // Component to update map theme based on current theme and handle resize
 const MapThemeUpdater = ({ isDark, mapRef }) => {
   const map = useMap()
+  const hasInitialized = useRef(false)
 
   // Store map reference for parent component
   useEffect(() => {
@@ -45,23 +47,74 @@ const MapThemeUpdater = ({ isDark, mapRef }) => {
   useEffect(() => {
     if (!map) return
 
-    // Fix initial render on mobile
-    const fixMapSize = () => {
+    // Fix initial render on mobile - multiple attempts to ensure proper centering
+    const fixMapSize = (shouldFitBounds = false) => {
+      // Multiple timeouts to handle different render phases
       setTimeout(() => {
         map.invalidateSize()
-      }, 100)
+        // On mobile, also ensure map is centered properly
+        if (shouldFitBounds && window.innerWidth <= 768) {
+          // Fit bounds to show all of continental US on mobile
+          // This ensures the map is perfectly centered and shows all states
+          const bounds = L.latLngBounds(
+            [24.5, -125], // Southwest (southern California, western edge)
+            [49.5, -66]   // Northeast (northern border, eastern edge)
+          )
+          map.fitBounds(bounds, { 
+            padding: [20, 20],
+            maxZoom: 5 // Prevent zooming in too much on mobile
+          })
+        }
+      }, 50)
+      
+      setTimeout(() => {
+        map.invalidateSize()
+        if (shouldFitBounds && window.innerWidth <= 768) {
+          const bounds = L.latLngBounds([24.5, -125], [49.5, -66])
+          map.fitBounds(bounds, { padding: [20, 20], maxZoom: 5 })
+        }
+      }, 200)
+      
+      setTimeout(() => {
+        map.invalidateSize()
+        // Final check to ensure map is properly sized and centered
+        if (shouldFitBounds && window.innerWidth <= 768) {
+          const bounds = L.latLngBounds([24.5, -125], [49.5, -66])
+          map.fitBounds(bounds, { padding: [20, 20], maxZoom: 5 })
+        }
+      }, 500)
     }
 
-    // Fix on mount
-    fixMapSize()
+    // Only run initial fix once
+    if (!hasInitialized.current) {
+      fixMapSize(true) // Fit bounds on initial load for mobile
+      hasInitialized.current = true
+    }
 
     // Fix on window resize and orientation change
-    window.addEventListener('resize', fixMapSize)
-    window.addEventListener('orientationchange', fixMapSize)
+    const handleResize = () => {
+      setTimeout(() => {
+        map.invalidateSize()
+        // Re-center map on mobile after resize/orientation change
+        if (window.innerWidth <= 768) {
+          const bounds = L.latLngBounds(
+            [24.5, -125],
+            [49.5, -66]
+          )
+          map.fitBounds(bounds, { 
+            padding: [20, 20],
+            maxZoom: 5
+          })
+        }
+      }, 150)
+    }
+
+    window.addEventListener('resize', handleResize)
+    window.addEventListener('orientationchange', handleResize)
 
     return () => {
-      window.removeEventListener('resize', fixMapSize)
-      window.removeEventListener('orientationchange', fixMapSize)
+      window.removeEventListener('resize', handleResize)
+      window.removeEventListener('orientationchange', handleResize)
     }
   }, [map])
 
