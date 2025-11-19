@@ -167,146 +167,179 @@ const GeoJSONRenderer = ({ geoJSONDataRef, styleRef, onEachFeatureRef, dataReady
         allLayersRef.current = geoJsonLayers
       }
 
+      // Function to attach touch handlers to a layer's path
+      const attachTouchHandlers = (layer) => {
+        if (!layer._path) {
+          // Path not ready yet, try again after a short delay
+          setTimeout(() => attachTouchHandlers(layer), 50)
+          return
+        }
+        
+        // Skip if handlers already attached
+        if (layer._path._touchHandlersAttached) {
+          return
+        }
+        
+        layer._path.style.pointerEvents = 'auto'
+        layer._path.style.cursor = 'pointer'
+        // Prevent panning when touching a state - this allows clicks to work
+        // touch-action: none prevents the browser from handling touch gestures
+        layer._path.style.touchAction = 'none'
+        
+        const pathClickHandler = (e) => {
+          console.log('[StateMap] Path click handler fired', layer.feature?.properties?.name)
+          if (layer.fire) {
+            // Get lat/lng from the event
+            let latlng
+            if (e.latlng) {
+              latlng = e.latlng
+            } else {
+              // Try to get from mouse event
+              try {
+                latlng = map.mouseEventToLatLng(e)
+              } catch (err) {
+                // Fallback: use center of the layer bounds
+                if (layer.getBounds) {
+                  latlng = layer.getBounds().getCenter()
+                } else {
+                  console.error('[StateMap] Could not determine latlng for click')
+                  return
+                }
+              }
+            }
+            
+            // Fire Leaflet click event
+            layer.fire('click', {
+              latlng: latlng,
+              layer: layer,
+              originalEvent: e
+            })
+          }
+        }
+        
+        // Add click handler
+        layer._path.addEventListener('click', pathClickHandler)
+        
+        // Also add touch handlers for mobile - detect taps vs pans
+        // Store touch start position on the path element
+        const touchStartHandler = (e) => {
+          const touch = e.touches[0]
+          if (touch) {
+            layer._path._touchStartPos = { x: touch.clientX, y: touch.clientY }
+            layer._path._touchStartTime = Date.now()
+            console.log('[StateMap] Touch start on', layer.feature?.properties?.name, touch.clientX, touch.clientY)
+          }
+        }
+        
+        const touchEndHandler = (e) => {
+          if (layer._path._touchStartPos && layer._path._touchStartTime) {
+            const touch = e.changedTouches[0]
+            if (touch) {
+              const touchStartPos = layer._path._touchStartPos
+              const touchStartTime = layer._path._touchStartTime
+              const deltaX = Math.abs(touch.clientX - touchStartPos.x)
+              const deltaY = Math.abs(touch.clientY - touchStartPos.y)
+              const deltaTime = Date.now() - touchStartTime
+              // If touch moved less than 10px and took less than 300ms, treat it as a tap/click
+              if (deltaX < 10 && deltaY < 10 && deltaTime < 300) {
+                const stateName = layer.feature?.properties?.name || 'Unknown'
+                console.log('[StateMap] Touch detected as tap on', stateName, 'firing click')
+                
+                // Visual feedback for debugging - show alert on mobile
+                if (window.innerWidth <= 768) {
+                  // Show a brief visual indicator
+                  const indicator = document.createElement('div')
+                  indicator.textContent = `Tapped: ${stateName}`
+                  indicator.style.cssText = `
+                    position: fixed;
+                    top: 50%;
+                    left: 50%;
+                    transform: translate(-50%, -50%);
+                    background: rgba(0, 0, 0, 0.8);
+                    color: white;
+                    padding: 20px;
+                    border-radius: 8px;
+                    z-index: 10000;
+                    font-size: 18px;
+                    pointer-events: none;
+                  `
+                  document.body.appendChild(indicator)
+                  setTimeout(() => indicator.remove(), 1000)
+                }
+                
+                e.preventDefault()
+                e.stopPropagation()
+                
+                // Get the state's center bounds - we already know which state was clicked
+                // so we don't need to convert touch coordinates
+                let latlng
+                let containerPoint
+                
+                if (layer.getBounds) {
+                  latlng = layer.getBounds().getCenter()
+                  // Convert lat/lng to container point for the event
+                  containerPoint = map.latLngToContainerPoint(latlng)
+                } else if (layer.feature?.geometry) {
+                  // Calculate center from geometry
+                  const bounds = L.geoJSON(layer.feature).getBounds()
+                  latlng = bounds.getCenter()
+                  containerPoint = map.latLngToContainerPoint(latlng)
+                } else {
+                  console.error('[StateMap] Could not determine latlng for click')
+                  return
+                }
+                
+                // Create a proper event object for Leaflet
+                const leafletEvent = {
+                  latlng: latlng,
+                  layerPoint: containerPoint,
+                  containerPoint: containerPoint,
+                  originalEvent: e,
+                  target: layer
+                }
+                
+                // Fire Leaflet click event directly
+                if (layer.fire) {
+                  console.log('[StateMap] Firing Leaflet click event for', stateName, 'at', latlng)
+                  layer.fire('click', leafletEvent)
+                }
+              } else {
+                console.log('[StateMap] Touch was pan/gesture, not tap', { deltaX, deltaY, deltaTime })
+              }
+            }
+            layer._path._touchStartPos = null
+            layer._path._touchStartTime = null
+          }
+        }
+        
+        layer._path.addEventListener('touchstart', touchStartHandler, { passive: true })
+        layer._path.addEventListener('touchend', touchEndHandler, { passive: false })
+        
+        // Store handlers for cleanup
+        layer._path._touchStartHandler = touchStartHandler
+        layer._path._touchEndHandler = touchEndHandler
+        layer._path._pathClickHandler = pathClickHandler
+        layer._path._touchHandlersAttached = true
+        
+        console.log('[StateMap] Touch handlers attached to', layer.feature?.properties?.name)
+      }
+      
       geoJsonLayer.eachLayer((layer) => {
         if (layer.setInteractive) {
           layer.setInteractive(true)
         }
-        if (layer._path) {
-          layer._path.style.pointerEvents = 'auto'
-          layer._path.style.cursor = 'pointer'
-          // Prevent panning when touching a state - this allows clicks to work
-          // touch-action: none prevents the browser from handling touch gestures
-          layer._path.style.touchAction = 'none'
-          
-          const pathClickHandler = (e) => {
-            console.log('[StateMap] Path click handler fired', layer.feature?.properties?.name)
-            if (layer.fire) {
-              // Get lat/lng from the event
-              let latlng
-              if (e.latlng) {
-                latlng = e.latlng
-              } else {
-                // Try to get from mouse event
-                try {
-                  latlng = map.mouseEventToLatLng(e)
-                } catch (err) {
-                  // Fallback: use center of the layer bounds
-                  if (layer.getBounds) {
-                    latlng = layer.getBounds().getCenter()
-                  } else {
-                    console.error('[StateMap] Could not determine latlng for click')
-                    return
-                  }
-                }
-              }
-              
-              // Fire Leaflet click event
-              layer.fire('click', {
-                latlng: latlng,
-                layer: layer,
-                originalEvent: e
-              })
-            }
-          }
-          
-          // Add click handler
-          layer._path.addEventListener('click', pathClickHandler)
-          
-          // Also add touch handlers for mobile - detect taps vs pans
-          // Store touch start position on the path element
-          layer._path.addEventListener('touchstart', (e) => {
-            const touch = e.touches[0]
-            if (touch) {
-              layer._path._touchStartPos = { x: touch.clientX, y: touch.clientY }
-              layer._path._touchStartTime = Date.now()
-              console.log('[StateMap] Touch start on', layer.feature?.properties?.name, touch.clientX, touch.clientY)
-            }
-          }, { passive: true })
-          
-          layer._path.addEventListener('touchend', (e) => {
-            if (layer._path._touchStartPos && layer._path._touchStartTime) {
-              const touch = e.changedTouches[0]
-              if (touch) {
-                const touchStartPos = layer._path._touchStartPos
-                const touchStartTime = layer._path._touchStartTime
-                const deltaX = Math.abs(touch.clientX - touchStartPos.x)
-                const deltaY = Math.abs(touch.clientY - touchStartPos.y)
-                const deltaTime = Date.now() - touchStartTime
-                // If touch moved less than 10px and took less than 300ms, treat it as a tap/click
-                if (deltaX < 10 && deltaY < 10 && deltaTime < 300) {
-                  const stateName = layer.feature?.properties?.name || 'Unknown'
-                  console.log('[StateMap] Touch detected as tap on', stateName, 'firing click')
-                  
-                  // Visual feedback for debugging - show alert on mobile
-                  if (window.innerWidth <= 768) {
-                    // Show a brief visual indicator
-                    const indicator = document.createElement('div')
-                    indicator.textContent = `Tapped: ${stateName}`
-                    indicator.style.cssText = `
-                      position: fixed;
-                      top: 50%;
-                      left: 50%;
-                      transform: translate(-50%, -50%);
-                      background: rgba(0, 0, 0, 0.8);
-                      color: white;
-                      padding: 20px;
-                      border-radius: 8px;
-                      z-index: 10000;
-                      font-size: 18px;
-                      pointer-events: none;
-                    `
-                    document.body.appendChild(indicator)
-                    setTimeout(() => indicator.remove(), 1000)
-                  }
-                  
-                  e.preventDefault()
-                  e.stopPropagation()
-                  
-                  // Get the state's center bounds - we already know which state was clicked
-                  // so we don't need to convert touch coordinates
-                  let latlng
-                  let containerPoint
-                  
-                  if (layer.getBounds) {
-                    latlng = layer.getBounds().getCenter()
-                    // Convert lat/lng to container point for the event
-                    containerPoint = map.latLngToContainerPoint(latlng)
-                  } else if (layer.feature?.geometry) {
-                    // Calculate center from geometry
-                    const bounds = L.geoJSON(layer.feature).getBounds()
-                    latlng = bounds.getCenter()
-                    containerPoint = map.latLngToContainerPoint(latlng)
-                  } else {
-                    console.error('[StateMap] Could not determine latlng for click')
-                    return
-                  }
-                  
-                  // Create a proper event object for Leaflet
-                  const leafletEvent = {
-                    latlng: latlng,
-                    layerPoint: containerPoint,
-                    containerPoint: containerPoint,
-                    originalEvent: e,
-                    target: layer
-                  }
-                  
-                  // Fire Leaflet click event directly
-                  if (layer.fire) {
-                    console.log('[StateMap] Firing Leaflet click event for', stateName, 'at', latlng)
-                    layer.fire('click', leafletEvent)
-                  }
-                } else {
-                  console.log('[StateMap] Touch was pan/gesture, not tap', { deltaX, deltaY, deltaTime })
-                }
-              }
-              layer._path._touchStartPos = null
-              layer._path._touchStartTime = null
-            }
-          }, { passive: false })
-          
-          layer._pathClickHandler = pathClickHandler
-        }
+        // Attach touch handlers (will retry if path not ready)
+        attachTouchHandlers(layer)
       })
+      
+      // Also try attaching handlers after a delay to catch any paths that weren't ready
+      setTimeout(() => {
+        geoJsonLayer.eachLayer((layer) => {
+          if (!layer._path?._touchHandlersAttached) {
+            attachTouchHandlers(layer)
+          }
+        })
+      }, 200)
 
       geoJsonLayer.addTo(map)
       layerRef.current = geoJsonLayer
