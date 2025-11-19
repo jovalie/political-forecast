@@ -262,27 +262,37 @@ const GeoJSONRenderer = ({ geoJSONDataRef, styleRef, onEachFeatureRef, dataReady
                   e.preventDefault()
                   e.stopPropagation()
                   
-                  // Get the lat/lng from the touch position
-                  // Convert viewport coordinates to container coordinates
-                  const mapContainer = map.getContainer()
-                  const rect = mapContainer.getBoundingClientRect()
-                  const containerPoint = L.point(
-                    touch.clientX - rect.left,
-                    touch.clientY - rect.top
-                  )
-                  const latlng = map.containerPointToLatLng(containerPoint)
+                  // Get the state's center bounds - we already know which state was clicked
+                  // so we don't need to convert touch coordinates
+                  let latlng
+                  let containerPoint
+                  
+                  if (layer.getBounds) {
+                    latlng = layer.getBounds().getCenter()
+                    // Convert lat/lng to container point for the event
+                    containerPoint = map.latLngToContainerPoint(latlng)
+                  } else if (layer.feature?.geometry) {
+                    // Calculate center from geometry
+                    const bounds = L.geoJSON(layer.feature).getBounds()
+                    latlng = bounds.getCenter()
+                    containerPoint = map.latLngToContainerPoint(latlng)
+                  } else {
+                    console.error('[StateMap] Could not determine latlng for click')
+                    return
+                  }
                   
                   // Create a proper event object for Leaflet
                   const leafletEvent = {
                     latlng: latlng,
                     layerPoint: containerPoint,
                     containerPoint: containerPoint,
-                    originalEvent: e
+                    originalEvent: e,
+                    target: layer
                   }
                   
                   // Fire Leaflet click event directly
                   if (layer.fire) {
-                    console.log('[StateMap] Firing Leaflet click event for', stateName)
+                    console.log('[StateMap] Firing Leaflet click event for', stateName, 'at', latlng)
                     layer.fire('click', leafletEvent)
                   }
                 } else {
