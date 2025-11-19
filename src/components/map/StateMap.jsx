@@ -234,7 +234,31 @@ const GeoJSONRenderer = ({ geoJSONDataRef, styleRef, onEachFeatureRef, dataReady
                 const deltaTime = Date.now() - touchStartTime
                 // If touch moved less than 10px and took less than 300ms, treat it as a tap/click
                 if (deltaX < 10 && deltaY < 10 && deltaTime < 300) {
-                  console.log('[StateMap] Touch detected as tap on', layer.feature?.properties?.name, 'firing click')
+                  const stateName = layer.feature?.properties?.name || 'Unknown'
+                  console.log('[StateMap] Touch detected as tap on', stateName, 'firing click')
+                  
+                  // Visual feedback for debugging - show alert on mobile
+                  if (window.innerWidth <= 768) {
+                    // Show a brief visual indicator
+                    const indicator = document.createElement('div')
+                    indicator.textContent = `Tapped: ${stateName}`
+                    indicator.style.cssText = `
+                      position: fixed;
+                      top: 50%;
+                      left: 50%;
+                      transform: translate(-50%, -50%);
+                      background: rgba(0, 0, 0, 0.8);
+                      color: white;
+                      padding: 20px;
+                      border-radius: 8px;
+                      z-index: 10000;
+                      font-size: 18px;
+                      pointer-events: none;
+                    `
+                    document.body.appendChild(indicator)
+                    setTimeout(() => indicator.remove(), 1000)
+                  }
+                  
                   e.preventDefault()
                   e.stopPropagation()
                   
@@ -258,7 +282,7 @@ const GeoJSONRenderer = ({ geoJSONDataRef, styleRef, onEachFeatureRef, dataReady
                   
                   // Fire Leaflet click event directly
                   if (layer.fire) {
-                    console.log('[StateMap] Firing Leaflet click event for', layer.feature?.properties?.name)
+                    console.log('[StateMap] Firing Leaflet click event for', stateName)
                     layer.fire('click', leafletEvent)
                   }
                 } else {
