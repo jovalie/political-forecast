@@ -181,8 +181,28 @@ const GeoJSONRenderer = ({ geoJSONDataRef, styleRef, onEachFeatureRef, dataReady
           const pathClickHandler = (e) => {
             console.log('[StateMap] Path click handler fired', layer.feature?.properties?.name)
             if (layer.fire) {
+              // Get lat/lng from the event
+              let latlng
+              if (e.latlng) {
+                latlng = e.latlng
+              } else {
+                // Try to get from mouse event
+                try {
+                  latlng = map.mouseEventToLatLng(e)
+                } catch (err) {
+                  // Fallback: use center of the layer bounds
+                  if (layer.getBounds) {
+                    latlng = layer.getBounds().getCenter()
+                  } else {
+                    console.error('[StateMap] Could not determine latlng for click')
+                    return
+                  }
+                }
+              }
+              
+              // Fire Leaflet click event
               layer.fire('click', {
-                latlng: map.mouseEventToLatLng(e),
+                latlng: latlng,
                 layer: layer,
                 originalEvent: e
               })
@@ -199,7 +219,7 @@ const GeoJSONRenderer = ({ geoJSONDataRef, styleRef, onEachFeatureRef, dataReady
             if (touch) {
               layer._path._touchStartPos = { x: touch.clientX, y: touch.clientY }
               layer._path._touchStartTime = Date.now()
-              console.log('[StateMap] Touch start on', layer.feature?.properties?.name)
+              console.log('[StateMap] Touch start on', layer.feature?.properties?.name, touch.clientX, touch.clientY)
             }
           }, { passive: true })
           
@@ -214,19 +234,33 @@ const GeoJSONRenderer = ({ geoJSONDataRef, styleRef, onEachFeatureRef, dataReady
                 const deltaTime = Date.now() - touchStartTime
                 // If touch moved less than 10px and took less than 300ms, treat it as a tap/click
                 if (deltaX < 10 && deltaY < 10 && deltaTime < 300) {
-                  console.log('[StateMap] Touch detected as tap on', layer.feature?.properties?.name)
+                  console.log('[StateMap] Touch detected as tap on', layer.feature?.properties?.name, 'firing click')
                   e.preventDefault()
                   e.stopPropagation()
-                  // Create a synthetic click event
-                  const clickEvent = new MouseEvent('click', {
-                    bubbles: true,
-                    cancelable: true,
-                    view: window,
-                    clientX: touch.clientX,
-                    clientY: touch.clientY
-                  })
-                  // Fire click event manually
-                  pathClickHandler(clickEvent)
+                  
+                  // Get the lat/lng from the touch position
+                  // Convert viewport coordinates to container coordinates
+                  const mapContainer = map.getContainer()
+                  const rect = mapContainer.getBoundingClientRect()
+                  const containerPoint = L.point(
+                    touch.clientX - rect.left,
+                    touch.clientY - rect.top
+                  )
+                  const latlng = map.containerPointToLatLng(containerPoint)
+                  
+                  // Create a proper event object for Leaflet
+                  const leafletEvent = {
+                    latlng: latlng,
+                    layerPoint: containerPoint,
+                    containerPoint: containerPoint,
+                    originalEvent: e
+                  }
+                  
+                  // Fire Leaflet click event directly
+                  if (layer.fire) {
+                    console.log('[StateMap] Firing Leaflet click event for', layer.feature?.properties?.name)
+                    layer.fire('click', leafletEvent)
+                  }
                 } else {
                   console.log('[StateMap] Touch was pan/gesture, not tap', { deltaX, deltaY, deltaTime })
                 }
@@ -595,13 +629,22 @@ const StateMap = ({
         // Use clickedLayer.feature (which has merged topic data) instead of the original feature
         // Use ref to get the latest onStateClick value
         const currentOnStateClick = onStateClickRef.current
+        console.log('[StateMap] About to call onStateClick callback', {
+          hasCallback: !!currentOnStateClick,
+          isFunction: typeof currentOnStateClick === 'function',
+          featureName: (clickedLayer.feature || feature)?.properties?.name
+        })
         if (currentOnStateClick && typeof currentOnStateClick === 'function') {
           const featureToUse = clickedLayer.feature || feature
           try {
+            console.log('[StateMap] Calling onStateClick with feature:', featureToUse?.properties?.name)
             currentOnStateClick(featureToUse)
+            console.log('[StateMap] onStateClick callback completed')
           } catch (error) {
             console.error('[StateMap] Error calling onStateClick:', error)
           }
+        } else {
+          console.warn('[StateMap] onStateClick callback not available or not a function')
         }
     }
     
