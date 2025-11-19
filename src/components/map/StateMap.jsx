@@ -247,9 +247,9 @@ const GeoJSONRenderer = ({ geoJSONDataRef, styleRef, onEachFeatureRef, dataReady
               const deltaX = Math.abs(touch.clientX - touchStartPos.x)
               const deltaY = Math.abs(touch.clientY - touchStartPos.y)
               const deltaTime = Date.now() - touchStartTime
-              // More lenient thresholds: allow up to 20px movement and 500ms duration
-              // This makes touch detection more sensitive and forgiving
-              if (deltaX < 20 && deltaY < 20 && deltaTime < 500) {
+              // Very lenient thresholds: allow up to 30px movement and 800ms duration
+              // This makes touch detection very sensitive and forgiving for mobile
+              if (deltaX < 30 && deltaY < 30 && deltaTime < 800) {
                 const stateName = layer.feature?.properties?.name || 'Unknown'
                 console.log('[StateMap] Touch detected as tap on', stateName, 'firing click')
                 
