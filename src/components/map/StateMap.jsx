@@ -182,9 +182,12 @@ const GeoJSONRenderer = ({ geoJSONDataRef, styleRef, onEachFeatureRef, dataReady
         
         layer._path.style.pointerEvents = 'auto'
         layer._path.style.cursor = 'pointer'
-        // Prevent panning when touching a state - this allows clicks to work
-        // touch-action: none prevents the browser from handling touch gestures
-        layer._path.style.touchAction = 'none'
+        // Use touch-action: manipulation to allow both panning and clicking
+        // This is more permissive than 'none' and should work better
+        layer._path.style.touchAction = 'manipulation'
+        // Ensure the path can receive touch events
+        layer._path.style.userSelect = 'none'
+        layer._path.style.webkitUserSelect = 'none'
         
         const pathClickHandler = (e) => {
           console.log('[StateMap] Path click handler fired', layer.feature?.properties?.name)
@@ -227,7 +230,12 @@ const GeoJSONRenderer = ({ geoJSONDataRef, styleRef, onEachFeatureRef, dataReady
           if (touch) {
             layer._path._touchStartPos = { x: touch.clientX, y: touch.clientY }
             layer._path._touchStartTime = Date.now()
-            console.log('[StateMap] Touch start on', layer.feature?.properties?.name, touch.clientX, touch.clientY)
+            const stateName = layer.feature?.properties?.name || 'Unknown'
+            console.log('[StateMap] Touch start on', stateName, touch.clientX, touch.clientY)
+            // Also log if this state is one of the problematic ones
+            if (['Texas', 'Louisiana', 'Florida'].includes(stateName)) {
+              console.log('[StateMap] Touch detected on problematic state:', stateName)
+            }
           }
         }
         
@@ -240,8 +248,9 @@ const GeoJSONRenderer = ({ geoJSONDataRef, styleRef, onEachFeatureRef, dataReady
               const deltaX = Math.abs(touch.clientX - touchStartPos.x)
               const deltaY = Math.abs(touch.clientY - touchStartPos.y)
               const deltaTime = Date.now() - touchStartTime
-              // If touch moved less than 10px and took less than 300ms, treat it as a tap/click
-              if (deltaX < 10 && deltaY < 10 && deltaTime < 300) {
+              // More lenient thresholds: allow up to 20px movement and 500ms duration
+              // This makes touch detection more sensitive and forgiving
+              if (deltaX < 20 && deltaY < 20 && deltaTime < 500) {
                 const stateName = layer.feature?.properties?.name || 'Unknown'
                 console.log('[StateMap] Touch detected as tap on', stateName, 'firing click')
                 
@@ -332,14 +341,34 @@ const GeoJSONRenderer = ({ geoJSONDataRef, styleRef, onEachFeatureRef, dataReady
         attachTouchHandlers(layer)
       })
       
-      // Also try attaching handlers after a delay to catch any paths that weren't ready
+      // Also try attaching handlers after delays to catch any paths that weren't ready
+      // Multiple retries to ensure all states get handlers
       setTimeout(() => {
         geoJsonLayer.eachLayer((layer) => {
           if (!layer._path?._touchHandlersAttached) {
+            console.log('[StateMap] Retrying handler attachment for', layer.feature?.properties?.name)
             attachTouchHandlers(layer)
           }
         })
       }, 200)
+      
+      setTimeout(() => {
+        geoJsonLayer.eachLayer((layer) => {
+          if (!layer._path?._touchHandlersAttached) {
+            console.log('[StateMap] Second retry for handler attachment for', layer.feature?.properties?.name)
+            attachTouchHandlers(layer)
+          }
+        })
+      }, 500)
+      
+      setTimeout(() => {
+        geoJsonLayer.eachLayer((layer) => {
+          if (!layer._path?._touchHandlersAttached) {
+            console.warn('[StateMap] Final retry for handler attachment for', layer.feature?.properties?.name)
+            attachTouchHandlers(layer)
+          }
+        })
+      }, 1000)
 
       geoJsonLayer.addTo(map)
       layerRef.current = geoJsonLayer
