@@ -76,7 +76,9 @@ const MapThemeUpdater = ({ isDark, mapRef }) => {
 
     // Only run initial fix once
     if (!hasInitialized.current) {
-      fixMapSize(true) // Fit bounds on initial load for mobile
+      // Don't fit bounds on mobile - it interferes with touch events
+      // Just invalidate size to ensure proper rendering
+      fixMapSize(false) // Don't fit bounds - let user zoom/pan naturally
       hasInitialized.current = true
     }
 
