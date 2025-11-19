@@ -91,18 +91,31 @@ jobs:
       - name: Check for data changes
         id: check-changes
         run: |
+          # Check for changes in states-topics.json
+          CHANGES_FOUND=false
           if [ -n "$(git status --porcelain public/data/states-topics.json)" ]; then
+            CHANGES_FOUND=true
+            echo "states-topics.json has been updated"
+          fi
+          
+          # Check for changes in individual state files
+          if [ -n "$(git status --porcelain public/data/states/*.json 2>/dev/null)" ]; then
+            CHANGES_FOUND=true
+            echo "Individual state files have been updated"
+          fi
+          
+          if [ "$CHANGES_FOUND" = "true" ]; then
             echo "has_changes=true" >> $GITHUB_OUTPUT
-            echo "Data file has been updated"
+            echo "Data files have been updated"
           else
             echo "has_changes=false" >> $GITHUB_OUTPUT
-            echo "No changes to data file"
+            echo "No changes to data files"
           fi
 
       - name: Commit and push changes
         if: steps.check-changes.outputs.has_changes == 'true'
         run: |
-          git add public/data/states-topics.json
+          git add public/data/states-topics.json public/data/states/*.json
           git commit -m "Update trending topics data"
           git push origin main
 
