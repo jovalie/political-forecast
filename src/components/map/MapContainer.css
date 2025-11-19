@@ -8,6 +8,7 @@
   overflow: hidden;
   background-color: var(--bg-secondary);
   position: relative; /* Ensure proper positioning */
+  z-index: 1; /* Below header */
 }
 
 /* Leaflet map container styling */
@@ -17,6 +18,24 @@
   height: 100% !important; /* Force explicit height */
   width: 100% !important;
   min-height: 400px; /* Minimum height for map to render */
+  position: relative;
+  z-index: 1; /* Below header */
+}
+
+/* Fix map being cut off on mobile - ensure proper viewport */
+@media (max-width: 768px) {
+  .map-container .leaflet-container {
+    /* Force map to recalculate size on mobile */
+    touch-action: pan-x pan-y;
+  }
+  
+  /* Fix initial map render issue on mobile */
+  .map-container {
+    /* Ensure map container doesn't overflow */
+    overflow: hidden;
+    width: 100vw;
+    max-width: 100vw;
+  }
 }
 
 /* Dark theme adjustments for map */

@@ -18,9 +18,16 @@ const US_BOUNDS = [
 // Optimized to center on the continental US, excluding Alaska and Hawaii
 const CONTINENTAL_US_CENTER = [39.5, -98.35] // Central Kansas area
 
-// Component to update map theme based on current theme
-const MapThemeUpdater = ({ isDark }) => {
+// Component to update map theme based on current theme and handle resize
+const MapThemeUpdater = ({ isDark, mapRef }) => {
   const map = useMap()
+
+  // Store map reference for parent component
+  useEffect(() => {
+    if (mapRef) {
+      mapRef.current = map
+    }
+  }, [map, mapRef])
 
   useEffect(() => {
     // Update map container class for theme
@@ -30,7 +37,33 @@ const MapThemeUpdater = ({ isDark }) => {
     } else {
       container.classList.remove('dark-theme')
     }
+    // Invalidate size when theme changes
+    map.invalidateSize()
   }, [map, isDark])
+
+  // Fix map size on mobile - recalculate after mount and on resize
+  useEffect(() => {
+    if (!map) return
+
+    // Fix initial render on mobile
+    const fixMapSize = () => {
+      setTimeout(() => {
+        map.invalidateSize()
+      }, 100)
+    }
+
+    // Fix on mount
+    fixMapSize()
+
+    // Fix on window resize and orientation change
+    window.addEventListener('resize', fixMapSize)
+    window.addEventListener('orientationchange', fixMapSize)
+
+    return () => {
+      window.removeEventListener('resize', fixMapSize)
+      window.removeEventListener('orientationchange', fixMapSize)
+    }
+  }, [map])
 
   return null
 }
@@ -42,11 +75,23 @@ const MapContainer = () => {
   const [loadingTopics, setLoadingTopics] = useState(true)
   const [selectedState, setSelectedState] = useState(null)
   const [isSidebarOpen, setIsSidebarOpen] = useState(false)
+  const mapRef = useRef(null)
   
   // Debug: Log sidebar state changes
   useEffect(() => {
     console.log('[MapContainer] Sidebar state changed - isOpen:', isSidebarOpen, 'selectedState:', selectedState?.name)
   }, [isSidebarOpen, selectedState])
+
+  // Fix map size when sidebar opens/closes on mobile
+  useEffect(() => {
+    if (mapRef.current) {
+      // Delay to allow sidebar animation to complete
+      const timer = setTimeout(() => {
+        mapRef.current.invalidateSize()
+      }, 450) // Slightly longer than sidebar animation (400ms)
+      return () => clearTimeout(timer)
+    }
+  }, [isSidebarOpen])
 
   // Load topic data (real per-state files)
   useEffect(() => {
@@ -202,7 +247,7 @@ const MapContainer = () => {
           maxZoom={19}
           key={isDark ? 'dark' : 'light'} // Force re-render when theme changes
         />
-        <MapThemeUpdater isDark={isDark} />
+        <MapThemeUpdater isDark={isDark} mapRef={mapRef} />
         <StateMap 
           statesTopicData={statesTopicData} 
           dataTimestamp={dataTimestamp}

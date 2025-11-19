@@ -8,6 +8,9 @@
   padding: calc(var(--spacing-unit) * 3);
   border-bottom: 1px solid var(--border-color);
   background-color: var(--bg-primary);
+  position: relative;
+  z-index: 1000; /* Ensure header stays above map */
+  flex-shrink: 0; /* Prevent header from shrinking */
 }
 
 .app-header-content {
@@ -43,6 +46,9 @@
 @media (max-width: 768px) {
   .app-header {
     padding: calc(var(--spacing-unit) * 2);
+    position: sticky; /* Keep header visible when scrolling */
+    top: 0;
+    z-index: 1000; /* Ensure header stays above everything */
   }
   
   .app-header-content {
@@ -50,11 +56,13 @@
     align-items: center;
     justify-content: space-between;
     gap: calc(var(--spacing-unit) * 1);
+    position: relative; /* Ensure proper stacking context */
   }
   
   .app-header-text {
     flex: 0 1 auto;
     min-width: 0; /* Allow text to shrink */
+    max-width: calc(100% - 60px); /* Reserve space for toggle */
   }
   
   .app-header h1 {
@@ -72,6 +80,8 @@
   /* Ensure theme toggle is visible and doesn't shrink */
   .app-header > .app-header-content > *:last-child {
     flex-shrink: 0;
+    position: relative;
+    z-index: 1001; /* Above header content */
   }
 }
 
