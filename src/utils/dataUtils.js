@@ -57,8 +57,20 @@ export async function loadJSONData(url) {
       fullUrl = getDataUrl(url)
     }
     
-    console.log('[loadJSONData] Fetching from:', fullUrl, '(original:', url, ')')
-    const response = await fetch(fullUrl)
+    // Add cache-busting query parameter to ensure fresh data
+    const separator = fullUrl.includes('?') ? '&' : '?'
+    const cacheBuster = `_t=${Date.now()}`
+    const urlWithCacheBuster = `${fullUrl}${separator}${cacheBuster}`
+    
+    console.log('[loadJSONData] Fetching from:', urlWithCacheBuster, '(original:', url, ')')
+    const response = await fetch(urlWithCacheBuster, {
+      cache: 'no-store', // Don't use cache
+      headers: {
+        'Cache-Control': 'no-cache, no-store, must-revalidate',
+        'Pragma': 'no-cache',
+        'Expires': '0'
+      }
+    })
     
     if (!response.ok) {
       const errorText = await response.text().catch(() => 'No error details available')

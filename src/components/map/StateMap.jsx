@@ -182,9 +182,8 @@ const GeoJSONRenderer = ({ geoJSONDataRef, styleRef, onEachFeatureRef, dataReady
         
         layer._path.style.pointerEvents = 'auto'
         layer._path.style.cursor = 'pointer'
-        // Use touch-action: manipulation to allow both panning and clicking
-        // This is more permissive than 'none' and should work better
-        layer._path.style.touchAction = 'manipulation'
+        // Don't set touch-action - let Leaflet handle it naturally
+        // This allows both panning and clicking to work properly
         // Ensure the path can receive touch events
         layer._path.style.userSelect = 'none'
         layer._path.style.webkitUserSelect = 'none'
