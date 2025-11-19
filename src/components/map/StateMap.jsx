@@ -174,10 +174,12 @@ const GeoJSONRenderer = ({ geoJSONDataRef, styleRef, onEachFeatureRef, dataReady
         if (layer._path) {
           layer._path.style.pointerEvents = 'auto'
           layer._path.style.cursor = 'pointer'
-          // Allow touch events on path elements for mobile
-          layer._path.style.touchAction = 'auto'
+          // Prevent panning when touching a state - this allows clicks to work
+          // touch-action: none prevents the browser from handling touch gestures
+          layer._path.style.touchAction = 'none'
           
           const pathClickHandler = (e) => {
+            console.log('[StateMap] Path click handler fired', layer.feature?.properties?.name)
             if (layer.fire) {
               layer.fire('click', {
                 latlng: map.mouseEventToLatLng(e),
@@ -196,25 +198,41 @@ const GeoJSONRenderer = ({ geoJSONDataRef, styleRef, onEachFeatureRef, dataReady
             const touch = e.touches[0]
             if (touch) {
               layer._path._touchStartPos = { x: touch.clientX, y: touch.clientY }
+              layer._path._touchStartTime = Date.now()
+              console.log('[StateMap] Touch start on', layer.feature?.properties?.name)
             }
           }, { passive: true })
           
           layer._path.addEventListener('touchend', (e) => {
-            if (layer._path._touchStartPos) {
+            if (layer._path._touchStartPos && layer._path._touchStartTime) {
               const touch = e.changedTouches[0]
               if (touch) {
                 const touchStartPos = layer._path._touchStartPos
+                const touchStartTime = layer._path._touchStartTime
                 const deltaX = Math.abs(touch.clientX - touchStartPos.x)
                 const deltaY = Math.abs(touch.clientY - touchStartPos.y)
-                // If touch moved less than 10px, treat it as a tap/click
-                if (deltaX < 10 && deltaY < 10) {
+                const deltaTime = Date.now() - touchStartTime
+                // If touch moved less than 10px and took less than 300ms, treat it as a tap/click
+                if (deltaX < 10 && deltaY < 10 && deltaTime < 300) {
+                  console.log('[StateMap] Touch detected as tap on', layer.feature?.properties?.name)
                   e.preventDefault()
                   e.stopPropagation()
+                  // Create a synthetic click event
+                  const clickEvent = new MouseEvent('click', {
+                    bubbles: true,
+                    cancelable: true,
+                    view: window,
+                    clientX: touch.clientX,
+                    clientY: touch.clientY
+                  })
                   // Fire click event manually
-                  pathClickHandler(e)
+                  pathClickHandler(clickEvent)
+                } else {
+                  console.log('[StateMap] Touch was pan/gesture, not tap', { deltaX, deltaY, deltaTime })
                 }
               }
               layer._path._touchStartPos = null
+              layer._path._touchStartTime = null
             }
           }, { passive: false })
           
@@ -448,6 +466,7 @@ const StateMap = ({
     
     // Handle both click and touch events for mobile compatibility
     const handleStateInteraction = (e) => {
+      console.log('[StateMap] handleStateInteraction called', feature.properties?.name)
       // Only prevent default if originalEvent exists (real user clicks/touches)
       if (e.originalEvent) {
         e.originalEvent.preventDefault()
