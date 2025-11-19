@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-11-19T04:29:52.568Z",
+  "timestamp": "2025-11-19T06:36:11.354Z",
   "states": [
     {
       "name": "California",
@@ -12,25 +12,26 @@
           "name": "prince",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "5K+",
-          "started": "3h ago",
+          "searchVolume": "10K+",
+          "started": "5h ago",
           "trendBreakdown": "jamal",
           "percentageIncrease": "1000%"
         },
         {
-          "name": "madison",
+          "name": "roma",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "5K+",
-          "started": "19h ago",
-          "percentageIncrease": "600%"
+          "started": "22h ago",
+          "percentageIncrease": "1000%"
         },
         {
           "name": "irs direct deposit",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "19h ago",
+          "started": "21h ago",
+          "trendBreakdown": "direct",
           "percentageIncrease": "600%"
         },
         {
@@ -38,24 +39,40 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "16h ago",
+          "started": "19h ago",
           "percentageIncrease": "900%"
+        },
+        {
+          "name": "sjsu",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "30 minutes ago",
+          "percentageIncrease": "200%"
         },
         {
           "name": "texas congressional maps",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "2K+",
-          "started": "5h ago",
+          "started": "8h ago",
           "trendBreakdown": "texas",
           "percentageIncrease": "200%"
         },
         {
-          "name": "vietnam",
+          "name": "school",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "15h ago",
+          "started": "2h ago",
+          "percentageIncrease": "200%"
+        },
+        {
+          "name": "shell",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "1h ago",
           "percentageIncrease": "200%"
         },
         {
@@ -63,7 +80,7 @@
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "15h ago",
+          "started": "18h ago",
           "percentageIncrease": "100%"
         },
         {
@@ -71,7 +88,7 @@
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "15h ago",
+          "started": "18h ago",
           "percentageIncrease": "100%"
         },
         {
@@ -79,16 +96,8 @@
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "8h ago",
+          "started": "10h ago",
           "percentageIncrease": "100%"
-        },
-        {
-          "name": "canada",
-          "relevanceScore": 85,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "16h ago",
-          "percentageIncrease": "50%"
         }
       ]
     },
@@ -104,8 +113,16 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "2h ago",
+          "started": "4h ago",
           "trendBreakdown": "cnn",
+          "percentageIncrease": "1000%"
+        },
+        {
+          "name": "roma",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "1K+",
+          "started": "17h ago",
           "percentageIncrease": "1000%"
         },
         {
@@ -113,7 +130,7 @@
           "relevanceScore": 85,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "17h ago",
+          "started": "19h ago",
           "percentageIncrease": "75%"
         }
       ]
@@ -130,40 +147,32 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "5K+",
-          "started": "3h ago",
+          "started": "5h ago",
           "trendBreakdown": "jamal",
           "percentageIncrease": "1000%"
         },
         {
-          "name": "madison",
+          "name": "miami news",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "2K+",
-          "started": "19h ago",
-          "percentageIncrease": "800%"
+          "searchVolume": "100+",
+          "started": "16h ago",
+          "percentageIncrease": "500%"
         },
         {
           "name": "forex factory",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "16h ago",
+          "started": "18h ago",
           "percentageIncrease": "300%"
-        },
-        {
-          "name": "nicaragua",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "2h ago",
-          "percentageIncrease": "200%"
         },
         {
           "name": "amber czech",
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "18h ago",
+          "started": "20h ago",
           "percentageIncrease": "100%"
         }
       ]
@@ -180,24 +189,24 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "2K+",
-          "started": "3h ago",
+          "started": "5h ago",
           "trendBreakdown": "jamal",
           "percentageIncrease": "1000%"
         },
         {
-          "name": "eric grigsby",
+          "name": "roma",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "8h ago",
-          "percentageIncrease": "500%"
+          "searchVolume": "2K+",
+          "started": "19h ago",
+          "percentageIncrease": "1000%"
         },
         {
           "name": "irs direct deposit",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "18h ago",
+          "started": "21h ago",
           "percentageIncrease": "600%"
         },
         {
@@ -205,8 +214,16 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "14h ago",
+          "started": "16h ago",
           "percentageIncrease": "600%"
+        },
+        {
+          "name": "eric grigsby",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "11h ago",
+          "percentageIncrease": "400%"
         }
       ]
     },
@@ -222,7 +239,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "2K+",
-          "started": "3h ago",
+          "started": "5h ago",
           "trendBreakdown": "jamal",
           "percentageIncrease": "1000%"
         },
@@ -231,32 +248,24 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "5K+",
-          "started": "18h ago",
+          "started": "20h ago",
           "trendBreakdown": "bright",
           "percentageIncrease": "900%"
         },
         {
-          "name": "madison",
+          "name": "roma",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "16h ago",
-          "percentageIncrease": "700%"
-        },
-        {
-          "name": "alaska airlines pilot sentenced",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "23h ago",
-          "percentageIncrease": "800%"
+          "searchVolume": "2K+",
+          "started": "20h ago",
+          "percentageIncrease": "1000%"
         },
         {
           "name": "forex factory",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "14h ago",
+          "started": "16h ago",
           "percentageIncrease": "400%"
         },
         {
@@ -264,7 +273,7 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "15h ago",
+          "started": "17h ago",
           "percentageIncrease": "200%"
         }
       ]
@@ -281,16 +290,16 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "3h ago",
+          "started": "5h ago",
           "percentageIncrease": "1000%"
         },
         {
-          "name": "madison",
+          "name": "roma",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "15h ago",
-          "percentageIncrease": "500%"
+          "searchVolume": "2K+",
+          "started": "17h ago",
+          "percentageIncrease": "1000%"
         }
       ]
     },
@@ -306,24 +315,24 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "3h ago",
+          "started": "5h ago",
           "trendBreakdown": "jamal",
           "percentageIncrease": "1000%"
         },
         {
-          "name": "madison",
+          "name": "roma",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "16h ago",
-          "percentageIncrease": "600%"
+          "searchVolume": "1K+",
+          "started": "18h ago",
+          "percentageIncrease": "1000%"
         },
         {
           "name": "irs direct deposit",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "15h ago",
+          "started": "17h ago",
           "percentageIncrease": "300%"
         },
         {
@@ -331,7 +340,7 @@
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "15h ago",
+          "started": "17h ago",
           "percentageIncrease": "100%"
         }
       ]
@@ -339,16 +348,32 @@
     {
       "name": "Michigan",
       "code": "MI",
-      "topTopic": "prince",
+      "topTopic": "childcare",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
+        {
+          "name": "childcare",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "30 minutes ago",
+          "percentageIncrease": "1000%"
+        },
         {
           "name": "prince",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "2K+",
-          "started": "3h ago",
+          "started": "5h ago",
+          "percentageIncrease": "1000%"
+        },
+        {
+          "name": "roma",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "2K+",
+          "started": "20h ago",
           "percentageIncrease": "1000%"
         },
         {
@@ -356,7 +381,7 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "16h ago",
+          "started": "19h ago",
           "percentageIncrease": "400%"
         },
         {
@@ -364,7 +389,7 @@
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "16h ago",
+          "started": "19h ago",
           "percentageIncrease": "100%"
         }
       ]
@@ -372,25 +397,25 @@
     {
       "name": "Massachusetts",
       "code": "MA",
-      "topTopic": "prince",
+      "topTopic": "foxwoods",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
+        {
+          "name": "foxwoods",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "1K+",
+          "started": "3h ago",
+          "percentageIncrease": "900%"
+        },
         {
           "name": "prince",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "2K+",
-          "started": "3h ago",
+          "started": "5h ago",
           "trendBreakdown": "jamal",
-          "percentageIncrease": "1000%"
-        },
-        {
-          "name": "foxwoods",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "1h ago",
           "percentageIncrease": "1000%"
         },
         {
@@ -398,16 +423,16 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "5K+",
-          "started": "16h ago",
+          "started": "18h ago",
           "trendBreakdown": "brian",
           "percentageIncrease": "1000%"
         },
         {
-          "name": "madison",
+          "name": "roma",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "17h ago",
+          "searchVolume": "2K+",
+          "started": "21h ago",
           "percentageIncrease": "1000%"
         },
         {
@@ -415,7 +440,7 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "11h ago",
+          "started": "13h ago",
           "percentageIncrease": "300%"
         }
       ]
@@ -432,7 +457,15 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "3h ago",
+          "started": "5h ago",
+          "percentageIncrease": "1000%"
+        },
+        {
+          "name": "roma",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "1K+",
+          "started": "17h ago",
           "percentageIncrease": "1000%"
         },
         {
@@ -440,7 +473,7 @@
           "relevanceScore": 85,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "17h ago",
+          "started": "19h ago",
           "percentageIncrease": "75%"
         }
       ]
@@ -448,143 +481,42 @@
     {
       "name": "New Jersey",
       "code": "NJ",
-      "topTopic": "hillsborough nj",
+      "topTopic": "andrew labruno",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
-        {
-          "name": "hillsborough nj",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "5K+",
-          "started": "9h ago",
-          "trendBreakdown": "hillsborough",
-          "percentageIncrease": "1000%"
-        },
         {
           "name": "andrew labruno",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "2K+",
-          "started": "15h ago",
+          "started": "18h ago",
           "percentageIncrease": "1000%"
         },
         {
-          "name": "prince",
+          "name": "hillsborough nj",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "2K+",
-          "started": "3h ago",
-          "trendBreakdown": "jamal",
-          "percentageIncrease": "1000%"
-        },
-        {
-          "name": "madison",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "17h ago",
-          "percentageIncrease": "700%"
-        }
-      ]
-    },
-    {
-      "name": "North Carolina",
-      "code": "NC",
-      "topTopic": "prince",
-      "category": "Law and Government",
-      "trendingScore": 100,
-      "topics": [
-        {
-          "name": "prince",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "2K+",
-          "started": "3h ago",
-          "trendBreakdown": "jamal",
-          "percentageIncrease": "1000%"
-        },
-        {
-          "name": "ice tracker",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "500+",
+          "searchVolume": "5K+",
           "started": "11h ago",
-          "percentageIncrease": "800%"
+          "trendBreakdown": "hillsborough",
+          "percentageIncrease": "1000%"
         },
-        {
-          "name": "madison",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "16h ago",
-          "percentageIncrease": "900%"
-        },
-        {
-          "name": "ice in durham",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "9h ago",
-          "percentageIncrease": "500%"
-        },
-        {
-          "name": "raleigh ice",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "10h ago",
-          "trendBreakdown": "icewhat",
-          "percentageIncrease": "300%"
-        }
-      ]
-    },
-    {
-      "name": "New York",
-      "code": "NY",
-      "topTopic": "prince",
-      "category": "Law and Government",
-      "trendingScore": 100,
-      "topics": [
         {
           "name": "prince",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "10K+",
-          "started": "3h ago",
+          "searchVolume": "2K+",
+          "started": "5h ago",
           "trendBreakdown": "jamal",
           "percentageIncrease": "1000%"
         },
         {
-          "name": "madison",
+          "name": "roma",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "2K+",
-          "started": "19h ago",
-          "percentageIncrease": "700%"
-        },
-        {
-          "name": "forex factory",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "15h ago",
-          "percentageIncrease": "500%"
-        },
-        {
-          "name": "reid hoffman",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "9h ago",
-          "percentageIncrease": "500%"
-        },
-        {
-          "name": "alaska airlines pilot sentenced",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "23h ago",
+          "started": "21h ago",
           "percentageIncrease": "1000%"
         },
         {
@@ -592,7 +524,107 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "4h ago",
+          "started": "5h ago",
+          "percentageIncrease": "300%"
+        },
+        {
+          "name": "mexico",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "3h ago",
+          "percentageIncrease": "300%"
+        }
+      ]
+    },
+    {
+      "name": "North Carolina",
+      "code": "NC",
+      "topTopic": "ice tracker",
+      "category": "Law and Government",
+      "trendingScore": 100,
+      "topics": [
+        {
+          "name": "ice tracker",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "13h ago",
+          "percentageIncrease": "700%"
+        },
+        {
+          "name": "prince",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "2K+",
+          "started": "5h ago",
+          "trendBreakdown": "jamal",
+          "percentageIncrease": "1000%"
+        },
+        {
+          "name": "roma",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "2K+",
+          "started": "19h ago",
+          "percentageIncrease": "1000%"
+        },
+        {
+          "name": "ice in durham",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "11h ago",
+          "percentageIncrease": "500%"
+        },
+        {
+          "name": "raleigh ice",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "1K+",
+          "started": "13h ago",
+          "percentageIncrease": "300%"
+        }
+      ]
+    },
+    {
+      "name": "New York",
+      "code": "NY",
+      "topTopic": "jamal khashoggi",
+      "category": "Law and Government",
+      "trendingScore": 100,
+      "topics": [
+        {
+          "name": "jamal khashoggi",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "10K+",
+          "started": "12h ago",
+          "trendBreakdown": "bin",
+          "percentageIncrease": "800%"
+        },
+        {
+          "name": "forex factory",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "17h ago",
+          "percentageIncrease": "500%"
+        },
+        {
+          "name": "reid hoffman",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "11h ago",
+          "percentageIncrease": "500%"
+        },
+        {
+          "name": "ecuador",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "6h ago",
           "percentageIncrease": "300%"
         },
         {
@@ -600,7 +632,7 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "13h ago",
+          "started": "15h ago",
           "percentageIncrease": "400%"
         },
         {
@@ -608,7 +640,7 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "3h ago",
+          "started": "5h ago",
           "percentageIncrease": "200%"
         },
         {
@@ -616,7 +648,7 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "7h ago",
+          "started": "9h ago",
           "percentageIncrease": "300%"
         },
         {
@@ -624,7 +656,7 @@
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "17h ago",
+          "started": "19h ago",
           "trendBreakdown": "who",
           "percentageIncrease": "100%"
         },
@@ -633,7 +665,7 @@
           "relevanceScore": 85,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "17h ago",
+          "started": "19h ago",
           "percentageIncrease": "50%"
         }
       ]
@@ -650,35 +682,42 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "2K+",
-          "started": "3h ago",
+          "started": "5h ago",
           "trendBreakdown": "jamal",
           "percentageIncrease": "1000%"
         },
         {
-          "name": "madison",
+          "name": "roma",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "17h ago",
-          "percentageIncrease": "800%"
+          "searchVolume": "2K+",
+          "started": "20h ago",
+          "percentageIncrease": "1000%"
         }
       ]
     },
     {
       "name": "Oregon",
       "code": "OR",
-      "topTopic": "devon dobek update",
+      "topTopic": "prince",
       "category": "Law and Government",
-      "trendingScore": 95,
+      "trendingScore": 100,
       "topics": [
         {
-          "name": "devon dobek update",
-          "relevanceScore": 95,
+          "name": "prince",
+          "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "200+",
-          "started": "21h ago",
-          "trendBreakdown": "devon",
-          "percentageIncrease": "300%"
+          "searchVolume": "500+",
+          "started": "2h ago",
+          "percentageIncrease": "1000%"
+        },
+        {
+          "name": "roma",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "1K+",
+          "started": "14h ago",
+          "percentageIncrease": "800%"
         }
       ]
     },
@@ -694,16 +733,8 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "5K+",
-          "started": "3h ago",
+          "started": "5h ago",
           "trendBreakdown": "jamal",
-          "percentageIncrease": "1000%"
-        },
-        {
-          "name": "madison",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "2K+",
-          "started": "17h ago",
           "percentageIncrease": "1000%"
         },
         {
@@ -711,7 +742,7 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "16h ago",
+          "started": "18h ago",
           "trendBreakdown": "keyu",
           "percentageIncrease": "200%"
         },
@@ -720,7 +751,7 @@
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "16h ago",
+          "started": "19h ago",
           "percentageIncrease": "100%"
         },
         {
@@ -728,7 +759,7 @@
           "relevanceScore": 85,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "16h ago",
+          "started": "19h ago",
           "percentageIncrease": "75%"
         }
       ]
@@ -745,7 +776,15 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "3h ago",
+          "started": "5h ago",
+          "percentageIncrease": "1000%"
+        },
+        {
+          "name": "roma",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "1K+",
+          "started": "18h ago",
           "percentageIncrease": "1000%"
         }
       ]
@@ -762,7 +801,15 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "3h ago",
+          "started": "5h ago",
+          "percentageIncrease": "1000%"
+        },
+        {
+          "name": "roma",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "1K+",
+          "started": "17h ago",
           "percentageIncrease": "1000%"
         }
       ]
@@ -779,24 +826,24 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "5K+",
-          "started": "3h ago",
+          "started": "5h ago",
           "trendBreakdown": "jamal",
           "percentageIncrease": "1000%"
         },
         {
-          "name": "madison",
+          "name": "roma",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "2K+",
-          "started": "17h ago",
-          "percentageIncrease": "600%"
+          "searchVolume": "5K+",
+          "started": "22h ago",
+          "percentageIncrease": "1000%"
         },
         {
           "name": "mexico",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "2K+",
-          "started": "3h ago",
+          "started": "6h ago",
           "percentageIncrease": "300%"
         },
         {
@@ -804,7 +851,7 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "10h ago",
+          "started": "12h ago",
           "percentageIncrease": "400%"
         },
         {
@@ -812,7 +859,7 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "5h ago",
+          "started": "7h ago",
           "trendBreakdown": "texas",
           "percentageIncrease": "400%"
         },
@@ -821,7 +868,7 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "15h ago",
+          "started": "17h ago",
           "percentageIncrease": "400%"
         }
       ]
@@ -838,66 +885,50 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "2K+",
-          "started": "3h ago",
-          "trendBreakdown": "jamal",
+          "started": "5h ago",
+          "trendBreakdown": "khashoggijamal",
           "percentageIncrease": "1000%"
         },
         {
-          "name": "us",
+          "name": "roma",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "10 minutes ago",
-          "percentageIncrease": "700%"
-        },
-        {
-          "name": "madison",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "16h ago",
-          "percentageIncrease": "700%"
+          "searchVolume": "2K+",
+          "started": "19h ago",
+          "percentageIncrease": "1000%"
         }
       ]
     },
     {
       "name": "District of Columbia",
       "code": "DC",
-      "topTopic": "jamal khashoggi",
+      "topTopic": "us",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
         {
-          "name": "jamal khashoggi",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "2K+",
-          "started": "10h ago",
-          "trendBreakdown": "bin",
-          "percentageIncrease": "1000%"
-        },
-        {
           "name": "us",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "40 minutes ago",
+          "searchVolume": "2K+",
+          "started": "2h ago",
+          "trendBreakdown": "khashoggijamal",
           "percentageIncrease": "500%"
         },
         {
-          "name": "madison",
+          "name": "roma",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "16h ago",
-          "percentageIncrease": "800%"
+          "searchVolume": "2K+",
+          "started": "19h ago",
+          "percentageIncrease": "1000%"
         },
         {
           "name": "paschal donohoe",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "15h ago",
+          "started": "18h ago",
           "percentageIncrease": "1000%"
         },
         {
@@ -905,7 +936,7 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "2h ago",
+          "started": "4h ago",
           "percentageIncrease": "400%"
         },
         {
@@ -913,7 +944,7 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "16h ago",
+          "started": "18h ago",
           "percentageIncrease": "400%"
         }
       ]
@@ -930,7 +961,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "2K+",
-          "started": "9h ago",
+          "started": "11h ago",
           "trendBreakdown": "derek",
           "percentageIncrease": "1000%"
         },
@@ -939,7 +970,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "3h ago",
+          "started": "5h ago",
           "percentageIncrease": "1000%"
         }
       ]
@@ -972,18 +1003,26 @@
           "name": "prince",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "20 minutes ago",
+          "searchVolume": "1K+",
+          "started": "2h ago",
           "trendBreakdown": "cnn",
           "percentageIncrease": "1000%"
         },
         {
-          "name": "madison",
+          "name": "roma",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "13h ago",
-          "percentageIncrease": "900%"
+          "searchVolume": "2K+",
+          "started": "16h ago",
+          "percentageIncrease": "1000%"
+        },
+        {
+          "name": "mexico",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "5h ago",
+          "percentageIncrease": "300%"
         }
       ]
     },
@@ -999,8 +1038,16 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "3h ago",
+          "started": "5h ago",
           "percentageIncrease": "1000%"
+        },
+        {
+          "name": "roma",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "16h ago",
+          "percentageIncrease": "700%"
         }
       ]
     },
@@ -1016,7 +1063,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "3h ago",
+          "started": "5h ago",
           "percentageIncrease": "1000%"
         }
       ]
@@ -1050,15 +1097,23 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "2h ago",
+          "started": "4h ago",
           "percentageIncrease": "1000%"
+        },
+        {
+          "name": "roma",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "1K+",
+          "started": "16h ago",
+          "percentageIncrease": "900%"
         },
         {
           "name": "us",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "2K+",
-          "started": "20h ago",
+          "started": "22h ago",
           "percentageIncrease": "1000%"
         },
         {
@@ -1066,7 +1121,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "20h ago",
+          "started": "22h ago",
           "percentageIncrease": "900%"
         },
         {
@@ -1074,7 +1129,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "20h ago",
+          "started": "22h ago",
           "percentageIncrease": "1000%"
         },
         {
@@ -1082,7 +1137,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "20h ago",
+          "started": "22h ago",
           "percentageIncrease": "900%"
         },
         {
@@ -1090,7 +1145,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "20h ago",
+          "started": "22h ago",
           "percentageIncrease": "700%"
         },
         {
@@ -1098,7 +1153,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "20h ago",
+          "started": "22h ago",
           "percentageIncrease": "700%"
         },
         {
@@ -1106,7 +1161,7 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "17h ago",
+          "started": "19h ago",
           "percentageIncrease": "300%"
         },
         {
@@ -1114,7 +1169,7 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "16h ago",
+          "started": "19h ago",
           "percentageIncrease": "200%"
         },
         {
@@ -1122,7 +1177,7 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "16h ago",
+          "started": "18h ago",
           "percentageIncrease": "300%"
         },
         {
@@ -1130,7 +1185,7 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "16h ago",
+          "started": "18h ago",
           "percentageIncrease": "400%"
         },
         {
@@ -1138,7 +1193,7 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "16h ago",
+          "started": "18h ago",
           "percentageIncrease": "300%"
         },
         {
@@ -1146,15 +1201,7 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "16h ago",
-          "percentageIncrease": "300%"
-        },
-        {
-          "name": "shell",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "16h ago",
+          "started": "18h ago",
           "percentageIncrease": "300%"
         },
         {
@@ -1162,7 +1209,7 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "16h ago",
+          "started": "18h ago",
           "percentageIncrease": "300%"
         },
         {
@@ -1170,7 +1217,7 @@
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "17h ago",
+          "started": "19h ago",
           "percentageIncrease": "100%"
         }
       ]
@@ -1187,7 +1234,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "3h ago",
+          "started": "5h ago",
           "percentageIncrease": "1000%"
         },
         {
@@ -1195,23 +1242,23 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "2K+",
-          "started": "10h ago",
+          "started": "12h ago",
           "percentageIncrease": "1000%"
         },
         {
-          "name": "madison",
+          "name": "roma",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "15h ago",
-          "percentageIncrease": "900%"
+          "searchVolume": "1K+",
+          "started": "18h ago",
+          "percentageIncrease": "1000%"
         },
         {
           "name": "metro transit",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "14h ago",
+          "started": "16h ago",
           "percentageIncrease": "200%"
         },
         {
@@ -1219,7 +1266,7 @@
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "16h ago",
+          "started": "18h ago",
           "percentageIncrease": "100%"
         }
       ]
@@ -1305,7 +1352,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "2h ago",
+          "started": "4h ago",
           "percentageIncrease": "1000%"
         }
       ]
@@ -1339,7 +1386,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "3h ago",
+          "started": "5h ago",
           "percentageIncrease": "1000%"
         },
         {
@@ -1347,7 +1394,7 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "16h ago",
+          "started": "19h ago",
           "percentageIncrease": "200%"
         }
       ]
@@ -1381,7 +1428,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "2h ago",
+          "started": "4h ago",
           "percentageIncrease": "900%"
         },
         {
@@ -1389,7 +1436,7 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "16h ago",
+          "started": "18h ago",
           "percentageIncrease": "300%"
         }
       ]
@@ -1406,7 +1453,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "2h ago",
+          "started": "4h ago",
           "percentageIncrease": "500%"
         }
       ]
@@ -1423,16 +1470,16 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "3h ago",
+          "started": "5h ago",
           "percentageIncrease": "1000%"
         },
         {
-          "name": "madison",
+          "name": "roma",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "500+",
+          "searchVolume": "1K+",
           "started": "17h ago",
-          "percentageIncrease": "500%"
+          "percentageIncrease": "900%"
         }
       ]
     },
@@ -1448,33 +1495,41 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "3h ago",
+          "started": "5h ago",
           "percentageIncrease": "1000%"
+        },
+        {
+          "name": "roma",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "16h ago",
+          "percentageIncrease": "800%"
         }
       ]
     },
     {
       "name": "Nevada",
       "code": "NV",
-      "topTopic": "nevada dmv",
+      "topTopic": "prince",
       "category": "Law and Government",
-      "trendingScore": 90,
+      "trendingScore": 100,
       "topics": [
+        {
+          "name": "prince",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "1h ago",
+          "percentageIncrease": "900%"
+        },
         {
           "name": "nevada dmv",
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "10 minutes ago",
+          "started": "2h ago",
           "percentageIncrease": "100%"
-        },
-        {
-          "name": "fox news",
-          "relevanceScore": 85,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "14h ago",
-          "percentageIncrease": "50%"
         }
       ]
     },
@@ -1489,8 +1544,8 @@
           "name": "prince",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "2h ago",
+          "searchVolume": "2K+",
+          "started": "4h ago",
           "percentageIncrease": "1000%"
         },
         {
@@ -1498,7 +1553,7 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "16h ago",
+          "started": "18h ago",
           "percentageIncrease": "300%"
         }
       ]
@@ -1515,7 +1570,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "1h ago",
+          "started": "3h ago",
           "trendBreakdown": "foxwoodsfire",
           "percentageIncrease": "1000%"
         },
@@ -1524,7 +1579,15 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "3h ago",
+          "started": "5h ago",
+          "percentageIncrease": "1000%"
+        },
+        {
+          "name": "roma",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "1K+",
+          "started": "19h ago",
           "percentageIncrease": "1000%"
         }
       ]
@@ -1541,8 +1604,16 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "3h ago",
+          "started": "5h ago",
           "percentageIncrease": "1000%"
+        },
+        {
+          "name": "roma",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "17h ago",
+          "percentageIncrease": "700%"
         }
       ]
     },
@@ -1558,7 +1629,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "3h ago",
+          "started": "5h ago",
           "percentageIncrease": "1000%"
         }
       ]
@@ -1575,7 +1646,15 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "3h ago",
+          "started": "5h ago",
+          "percentageIncrease": "1000%"
+        },
+        {
+          "name": "roma",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "16h ago",
           "percentageIncrease": "1000%"
         }
       ]
