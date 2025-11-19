@@ -1,20 +1,21 @@
 {
-  "timestamp": "2025-11-17T20:24:34.629Z",
+  "timestamp": "2025-11-19T01:10:52.565Z",
   "states": [
     {
       "name": "Indiana",
       "code": "IN",
-      "topTopic": "amber czech",
+      "topTopic": "curt andersen",
       "category": "Law and Government",
-      "trendingScore": 95,
+      "trendingScore": 100,
       "topics": [
         {
-          "name": "amber czech",
-          "relevanceScore": 95,
+          "name": "curt andersen",
+          "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "19h ago",
-          "percentageIncrease": "200%"
+          "searchVolume": "2K+",
+          "started": "10h ago",
+          "trendBreakdown": "voluntary",
+          "percentageIncrease": "1000%"
         }
       ]
     }

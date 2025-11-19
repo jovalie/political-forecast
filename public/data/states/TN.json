@@ -1,19 +1,36 @@
 {
-  "timestamp": "2025-11-17T20:24:34.629Z",
+  "timestamp": "2025-11-19T01:10:52.565Z",
   "states": [
     {
       "name": "Tennessee",
       "code": "TN",
-      "topTopic": "knoxville weather",
+      "topTopic": "wolfchase galleria",
       "category": "Law and Government",
-      "trendingScore": 85,
+      "trendingScore": 100,
       "topics": [
+        {
+          "name": "wolfchase galleria",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "2K+",
+          "started": "8h ago",
+          "trendBreakdown": "wolfchase",
+          "percentageIncrease": "900%"
+        },
+        {
+          "name": "alexis wilkins",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "9h ago",
+          "percentageIncrease": "400%"
+        },
         {
           "name": "knoxville weather",
           "relevanceScore": 85,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "8h ago",
+          "started": "18h ago",
           "percentageIncrease": "50%"
         }
       ]

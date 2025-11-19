@@ -1,14 +1,22 @@
 {
-  "timestamp": "2025-11-17T04:47:44.555Z",
+  "timestamp": "2025-11-19T01:10:52.565Z",
   "states": [
     {
       "name": "Alabama",
       "code": "AL",
+      "topTopic": "news",
       "category": "Law and Government",
-      "topics": [],
-      "topTopic": "",
-      "trendingScore": 0,
-      "timestamp": "2025-11-17T04:47:44.555Z"
+      "trendingScore": 85,
+      "topics": [
+        {
+          "name": "news",
+          "relevanceScore": 85,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "12h ago",
+          "percentageIncrease": "50%"
+        }
+      ]
     }
   ]
 }

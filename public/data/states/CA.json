@@ -1,52 +1,95 @@
 {
-  "timestamp": "2025-11-17T20:24:34.629Z",
+  "timestamp": "2025-11-19T01:10:52.565Z",
   "states": [
     {
       "name": "California",
       "code": "CA",
-      "topTopic": "sheikh hasina",
+      "topTopic": "jamal khashoggi",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
         {
-          "name": "sheikh hasina",
+          "name": "jamal khashoggi",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "2K+",
-          "started": "9h ago",
-          "percentageIncrease": "600%"
-        },
-        {
-          "name": "lindsey halligan",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "1h ago",
+          "started": "6h ago",
+          "trendBreakdown": "arabiasaudi",
           "percentageIncrease": "500%"
         },
         {
-          "name": "tekashi",
+          "name": "irs direct deposit",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "1K+",
+          "started": "15h ago",
+          "percentageIncrease": "600%"
+        },
+        {
+          "name": "alaska airlines pilot sentenced",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "22h ago",
+          "percentageIncrease": "500%"
+        },
+        {
+          "name": "texas congressional maps",
           "relevanceScore": 95,
           "category": "Law and Government",
-          "searchVolume": "100+",
+          "searchVolume": "2K+",
           "started": "2h ago",
+          "trendBreakdown": "texas",
           "percentageIncrease": "200%"
         },
         {
-          "name": "oj simpson death",
+          "name": "expert",
           "relevanceScore": 95,
           "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "5h ago",
-          "percentageIncrease": "200%"
+          "searchVolume": "500+",
+          "started": "13h ago",
+          "percentageIncrease": "400%"
         },
         {
-          "name": "vnexpress",
-          "relevanceScore": 85,
+          "name": "kash patel girlfriend",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "21h ago",
+          "trendBreakdown": "alexis",
+          "percentageIncrease": "300%"
+        },
+        {
+          "name": "turkey",
+          "relevanceScore": 90,
+          "category": "Law and Government",
+          "searchVolume": "2K+",
+          "started": "8h ago",
+          "percentageIncrease": "100%"
+        },
+        {
+          "name": "australian",
+          "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "6h ago",
-          "percentageIncrease": "75%"
+          "started": "12h ago",
+          "percentageIncrease": "100%"
+        },
+        {
+          "name": "government",
+          "relevanceScore": 90,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "12h ago",
+          "percentageIncrease": "100%"
+        },
+        {
+          "name": "andrew tate",
+          "relevanceScore": 90,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "4h ago",
+          "percentageIncrease": "100%"
         }
       ]
     }

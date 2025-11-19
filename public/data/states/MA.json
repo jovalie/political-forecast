@@ -1,20 +1,29 @@
 {
-  "timestamp": "2025-11-17T20:24:34.629Z",
+  "timestamp": "2025-11-19T01:10:52.565Z",
   "states": [
     {
       "name": "Massachusetts",
       "code": "MA",
-      "topTopic": "lindsey halligan",
+      "topTopic": "brian walshe",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
         {
-          "name": "lindsey halligan",
+          "name": "brian walshe",
           "relevanceScore": 100,
           "category": "Law and Government",
+          "searchVolume": "5K+",
+          "started": "13h ago",
+          "trendBreakdown": "brian",
+          "percentageIncrease": "1000%"
+        },
+        {
+          "name": "karen read",
+          "relevanceScore": 95,
+          "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "40 minutes ago",
-          "percentageIncrease": "700%"
+          "started": "7h ago",
+          "percentageIncrease": "300%"
         }
       ]
     }

@@ -1,20 +1,37 @@
 {
-  "timestamp": "2025-11-17T20:24:34.629Z",
+  "timestamp": "2025-11-19T01:10:52.565Z",
   "states": [
     {
       "name": "Maryland",
       "code": "MD",
-      "topTopic": "portugal",
+      "topTopic": "irs direct deposit",
       "category": "Law and Government",
-      "trendingScore": 100,
+      "trendingScore": 95,
       "topics": [
         {
-          "name": "portugal",
-          "relevanceScore": 100,
+          "name": "irs direct deposit",
+          "relevanceScore": 95,
           "category": "Law and Government",
-          "searchVolume": "500+",
+          "searchVolume": "100+",
+          "started": "12h ago",
+          "percentageIncrease": "300%"
+        },
+        {
+          "name": "alexis wilkins",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "100+",
           "started": "21h ago",
-          "percentageIncrease": "800%"
+          "trendBreakdown": "kash",
+          "percentageIncrease": "200%"
+        },
+        {
+          "name": "focus",
+          "relevanceScore": 90,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "12h ago",
+          "percentageIncrease": "100%"
         }
       ]
     }

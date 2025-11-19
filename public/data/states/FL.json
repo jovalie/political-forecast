@@ -1,35 +1,86 @@
 {
-  "timestamp": "2025-11-17T20:24:34.629Z",
+  "timestamp": "2025-11-19T01:10:52.565Z",
   "states": [
     {
       "name": "Florida",
       "code": "FL",
-      "topTopic": "lindsey halligan",
+      "topTopic": "irs direct deposit",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
         {
-          "name": "lindsey halligan",
+          "name": "irs direct deposit",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "1K+",
+          "started": "23h ago",
+          "percentageIncrease": "800%"
+        },
+        {
+          "name": "george w bush",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "23h ago",
+          "trendBreakdown": "george",
+          "percentageIncrease": "700%"
+        },
+        {
+          "name": "alaska airlines pilot sentenced",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "1h ago",
+          "started": "20h ago",
           "percentageIncrease": "500%"
         },
         {
-          "name": "sheikh hasina",
+          "name": "miami news",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "10h ago",
+          "percentageIncrease": "500%"
+        },
+        {
+          "name": "prince",
           "relevanceScore": 95,
           "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "7h ago",
+          "searchVolume": "1K+",
+          "started": "10 minutes ago",
+          "trendBreakdown": "jamal",
           "percentageIncrease": "300%"
         },
         {
-          "name": "new york times",
+          "name": "haiti",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "10 minutes ago",
+          "percentageIncrease": "200%"
+        },
+        {
+          "name": "alexis wilkins",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "21h ago",
+          "trendBreakdown": "kash",
+          "percentageIncrease": "200%"
+        },
+        {
+          "name": "turkey",
+          "relevanceScore": 90,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "10h ago",
+          "percentageIncrease": "100%"
+        },
+        {
+          "name": "amber czech",
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "9h ago",
+          "started": "15h ago",
           "percentageIncrease": "100%"
         }
       ]

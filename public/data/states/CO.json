@@ -1,14 +1,94 @@
 {
-  "timestamp": "2025-11-17T04:47:44.555Z",
+  "timestamp": "2025-11-19T01:10:52.565Z",
   "states": [
     {
       "name": "Colorado",
       "code": "CO",
+      "topTopic": "oecd",
       "category": "Law and Government",
-      "topics": [],
-      "topTopic": "",
-      "trendingScore": 0,
-      "timestamp": "2025-11-17T04:47:44.555Z"
+      "trendingScore": 100,
+      "topics": [
+        {
+          "name": "oecd",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "1K+",
+          "started": "17h ago",
+          "percentageIncrease": "900%"
+        },
+        {
+          "name": "expert",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "1K+",
+          "started": "17h ago",
+          "percentageIncrease": "1000%"
+        },
+        {
+          "name": "uk",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "1K+",
+          "started": "16h ago",
+          "percentageIncrease": "1000%"
+        },
+        {
+          "name": "space",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "1K+",
+          "started": "17h ago",
+          "percentageIncrease": "900%"
+        },
+        {
+          "name": "european",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "16h ago",
+          "percentageIncrease": "700%"
+        },
+        {
+          "name": "new",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "1K+",
+          "started": "17h ago",
+          "percentageIncrease": "500%"
+        },
+        {
+          "name": "william",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "16h ago",
+          "percentageIncrease": "600%"
+        },
+        {
+          "name": "central",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "15h ago",
+          "percentageIncrease": "700%"
+        },
+        {
+          "name": "philippines",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "13h ago",
+          "percentageIncrease": "300%"
+        },
+        {
+          "name": "nia",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "13h ago",
+          "percentageIncrease": "200%"
+        }
+      ]
     }
   ]
 }

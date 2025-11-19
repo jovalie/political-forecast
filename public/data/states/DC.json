@@ -1,45 +1,36 @@
 {
-  "timestamp": "2025-11-17T20:24:34.629Z",
+  "timestamp": "2025-11-19T01:10:52.565Z",
   "states": [
     {
       "name": "District of Columbia",
       "code": "DC",
-      "topTopic": "sheikh hasina",
+      "topTopic": "jamal khashoggi",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
         {
-          "name": "sheikh hasina",
+          "name": "jamal khashoggi",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "1K+",
+          "searchVolume": "2K+",
           "started": "7h ago",
-          "percentageIncrease": "900%"
+          "percentageIncrease": "1000%"
         },
         {
-          "name": "fema",
+          "name": "paschal donohoe",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "1h ago",
-          "trendBreakdown": "david",
-          "percentageIncrease": "900%"
+          "started": "12h ago",
+          "percentageIncrease": "1000%"
         },
         {
-          "name": "nigeria",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "22h ago",
-          "percentageIncrease": "500%"
-        },
-        {
-          "name": "alexis wilkins",
+          "name": "irs direct deposit",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "20 minutes ago",
-          "percentageIncrease": "300%"
+          "started": "12h ago",
+          "percentageIncrease": "400%"
         }
       ]
     }

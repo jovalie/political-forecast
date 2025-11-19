@@ -1,20 +1,20 @@
 {
-  "timestamp": "2025-11-17T20:24:34.629Z",
+  "timestamp": "2025-11-19T01:10:52.565Z",
   "states": [
     {
       "name": "Missouri",
       "code": "MO",
-      "topTopic": "chief",
+      "topTopic": "kmov",
       "category": "Law and Government",
-      "trendingScore": 80,
+      "trendingScore": 85,
       "topics": [
         {
-          "name": "chief",
-          "relevanceScore": 80,
+          "name": "kmov",
+          "relevanceScore": 85,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "3h ago",
-          "percentageIncrease": "600%"
+          "started": "14h ago",
+          "percentageIncrease": "75%"
         }
       ]
     }

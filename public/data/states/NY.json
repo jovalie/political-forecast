@@ -1,62 +1,76 @@
 {
-  "timestamp": "2025-11-17T20:24:34.629Z",
+  "timestamp": "2025-11-19T01:10:52.565Z",
   "states": [
     {
       "name": "New York",
       "code": "NY",
-      "topTopic": "sheikh hasina",
+      "topTopic": "jamal khashoggi",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
         {
-          "name": "sheikh hasina",
+          "name": "jamal khashoggi",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "2K+",
-          "started": "8h ago",
+          "started": "6h ago",
           "percentageIncrease": "1000%"
         },
         {
-          "name": "lindsey halligan",
+          "name": "irs direct deposit",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "1h ago",
-          "trendBreakdown": "fox",
-          "percentageIncrease": "800%"
+          "started": "23h ago",
+          "percentageIncrease": "900%"
         },
         {
-          "name": "fema",
+          "name": "reid hoffman",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "50 minutes ago",
+          "started": "6h ago",
           "percentageIncrease": "500%"
         },
         {
-          "name": "cne ecuador",
+          "name": "alaska airlines pilot sentenced",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "20h ago",
+          "percentageIncrease": "1000%"
+        },
+        {
+          "name": "bare hill correctional facility",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "21h ago",
-          "trendBreakdown": "consulta",
-          "percentageIncrease": "300%"
-        },
-        {
-          "name": "food",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "13h ago",
+          "started": "10h ago",
           "percentageIncrease": "400%"
         },
         {
-          "name": "wktv",
-          "relevanceScore": 90,
+          "name": "brazil",
+          "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "9h ago",
-          "percentageIncrease": "100%"
+          "started": "4h ago",
+          "percentageIncrease": "300%"
+        },
+        {
+          "name": "lidom",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "21h ago",
+          "percentageIncrease": "200%"
+        },
+        {
+          "name": "ny post",
+          "relevanceScore": 85,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "13h ago",
+          "percentageIncrease": "50%"
         }
       ]
     }

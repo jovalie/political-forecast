@@ -1,19 +1,28 @@
 {
-  "timestamp": "2025-11-17T20:24:34.629Z",
+  "timestamp": "2025-11-19T01:10:52.565Z",
   "states": [
     {
       "name": "Oklahoma",
       "code": "OK",
-      "topTopic": "news on",
+      "topTopic": "paragon industries",
       "category": "Law and Government",
-      "trendingScore": 90,
+      "trendingScore": 100,
       "topics": [
         {
-          "name": "news on",
+          "name": "paragon industries",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "2K+",
+          "started": "5h ago",
+          "trendBreakdown": "derek",
+          "percentageIncrease": "1000%"
+        },
+        {
+          "name": "turkey",
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "9h ago",
+          "started": "8h ago",
           "percentageIncrease": "100%"
         }
       ]

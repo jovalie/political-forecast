@@ -1,20 +1,21 @@
 {
-  "timestamp": "2025-11-17T20:24:34.629Z",
+  "timestamp": "2025-11-19T01:10:52.565Z",
   "states": [
     {
       "name": "Washington",
       "code": "WA",
-      "topTopic": "portugal",
+      "topTopic": "oj simpson",
       "category": "Law and Government",
-      "trendingScore": 100,
+      "trendingScore": 95,
       "topics": [
         {
-          "name": "portugal",
-          "relevanceScore": 100,
+          "name": "oj simpson",
+          "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "19h ago",
-          "percentageIncrease": "500%"
+          "started": "14h ago",
+          "trendBreakdown": "abc",
+          "percentageIncrease": "200%"
         }
       ]
     }

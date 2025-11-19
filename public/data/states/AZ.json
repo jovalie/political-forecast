@@ -1,20 +1,20 @@
 {
-  "timestamp": "2025-11-17T20:24:34.629Z",
+  "timestamp": "2025-11-19T01:10:52.565Z",
   "states": [
     {
       "name": "Arizona",
       "code": "AZ",
-      "topTopic": "oj simpson",
+      "topTopic": "azfamily",
       "category": "Law and Government",
-      "trendingScore": 95,
+      "trendingScore": 85,
       "topics": [
         {
-          "name": "oj simpson",
-          "relevanceScore": 95,
+          "name": "azfamily",
+          "relevanceScore": 85,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "6h ago",
-          "percentageIncrease": "200%"
+          "started": "13h ago",
+          "percentageIncrease": "75%"
         }
       ]
     }

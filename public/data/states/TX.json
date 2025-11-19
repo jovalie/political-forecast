@@ -1,20 +1,71 @@
 {
-  "timestamp": "2025-11-17T20:24:34.629Z",
+  "timestamp": "2025-11-19T01:10:52.565Z",
   "states": [
     {
       "name": "Texas",
       "code": "TX",
-      "topTopic": "sheikh hasina",
+      "topTopic": "irs direct deposit",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
         {
-          "name": "sheikh hasina",
+          "name": "irs direct deposit",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "7h ago",
+          "started": "23h ago",
           "percentageIncrease": "500%"
+        },
+        {
+          "name": "george w bush",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "23h ago",
+          "trendBreakdown": "george",
+          "percentageIncrease": "1000%"
+        },
+        {
+          "name": "jamal khashoggi",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "1K+",
+          "started": "6h ago",
+          "trendBreakdown": "arabiasaudi",
+          "percentageIncrease": "400%"
+        },
+        {
+          "name": "mexico",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "40 minutes ago",
+          "percentageIncrease": "300%"
+        },
+        {
+          "name": "cair",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "7h ago",
+          "percentageIncrease": "400%"
+        },
+        {
+          "name": "texas congressional maps",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "2h ago",
+          "trendBreakdown": "texas",
+          "percentageIncrease": "400%"
+        },
+        {
+          "name": "turkey",
+          "relevanceScore": 90,
+          "category": "Law and Government",
+          "searchVolume": "5K+",
+          "started": "10h ago",
+          "percentageIncrease": "100%"
         }
       ]
     }

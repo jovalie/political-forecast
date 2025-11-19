@@ -1,28 +1,38 @@
 {
-  "timestamp": "2025-11-17T20:24:34.629Z",
+  "timestamp": "2025-11-19T01:10:52.565Z",
   "states": [
     {
       "name": "Illinois",
       "code": "IL",
-      "topTopic": "sheikh hasina",
+      "topTopic": "orville t bright school",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
         {
-          "name": "sheikh hasina",
+          "name": "orville t bright school",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "5K+",
+          "started": "14h ago",
+          "trendBreakdown": "bright",
+          "percentageIncrease": "1000%"
+        },
+        {
+          "name": "jamal khashoggi",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "6h ago",
-          "percentageIncrease": "600%"
+          "started": "5h ago",
+          "trendBreakdown": "bin",
+          "percentageIncrease": "700%"
         },
         {
-          "name": "fema",
-          "relevanceScore": 95,
+          "name": "alaska airlines pilot sentenced",
+          "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "30 minutes ago",
-          "percentageIncrease": "400%"
+          "started": "20h ago",
+          "percentageIncrease": "800%"
         }
       ]
     }

@@ -1,36 +1,38 @@
 {
-  "timestamp": "2025-11-17T20:24:34.629Z",
+  "timestamp": "2025-11-19T01:10:52.565Z",
   "states": [
     {
       "name": "North Carolina",
       "code": "NC",
-      "topTopic": "why are flags at half mast today",
+      "topTopic": "ice raleigh",
       "category": "Law and Government",
-      "trendingScore": 95,
+      "trendingScore": 100,
       "topics": [
         {
-          "name": "why are flags at half mast today",
-          "relevanceScore": 95,
+          "name": "ice raleigh",
+          "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "18h ago",
-          "percentageIncrease": "200%"
+          "searchVolume": "2K+",
+          "started": "23h ago",
+          "trendBreakdown": "raleigh",
+          "percentageIncrease": "800%"
         },
         {
-          "name": "oj simpson",
-          "relevanceScore": 95,
+          "name": "prince",
+          "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "12h ago",
-          "percentageIncrease": "200%"
+          "started": "10 minutes ago",
+          "trendBreakdown": "jamal",
+          "percentageIncrease": "500%"
         },
         {
-          "name": "ice",
-          "relevanceScore": 90,
+          "name": "george w bush",
+          "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "16h ago",
-          "percentageIncrease": "100%"
+          "started": "22h ago",
+          "percentageIncrease": "1000%"
         }
       ]
     }

@@ -1,20 +1,20 @@
 {
-  "timestamp": "2025-11-17T20:24:34.629Z",
+  "timestamp": "2025-11-19T01:10:52.565Z",
   "states": [
     {
       "name": "South Carolina",
       "code": "SC",
-      "topTopic": "amber alert charlotte nc",
+      "topTopic": "horry county schools",
       "category": "Law and Government",
-      "trendingScore": 100,
+      "trendingScore": 85,
       "topics": [
         {
-          "name": "amber alert charlotte nc",
-          "relevanceScore": 100,
+          "name": "horry county schools",
+          "relevanceScore": 85,
           "category": "Law and Government",
-          "searchVolume": "200+",
+          "searchVolume": "500+",
           "started": "17h ago",
-          "percentageIncrease": "1000%"
+          "percentageIncrease": "50%"
         }
       ]
     }
