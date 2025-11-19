@@ -11,6 +11,8 @@
   position: relative;
   z-index: 1000; /* Ensure header stays above map */
   flex-shrink: 0; /* Prevent header from shrinking */
+  margin: 0;
+  width: 100%;
 }
 
 .app-header-content {
@@ -46,9 +48,15 @@
 @media (max-width: 768px) {
   .app-header {
     padding: calc(var(--spacing-unit) * 2);
+    padding-top: max(calc(var(--spacing-unit) * 2), env(safe-area-inset-top, 0px));
     position: sticky; /* Keep header visible when scrolling */
     top: 0;
+    left: 0;
+    right: 0;
     z-index: 1000; /* Ensure header stays above everything */
+    margin: 0;
+    width: 100%;
+    box-sizing: border-box;
   }
   
   .app-header-content {
