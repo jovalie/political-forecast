@@ -19,7 +19,7 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v4
         with:
-          ref: main
+          ref: kiran-ingestion
           token: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Setup Node.js
@@ -117,7 +117,7 @@ jobs:
         run: |
           git add public/data/states-topics.json public/data/states/*.json
           git commit -m "Update trending topics data"
-          git push origin main
+          git push origin kiran-ingestion
 
       - name: Summary
         if: always()
