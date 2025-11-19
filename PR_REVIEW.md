@@ -20,15 +20,16 @@ This PR fixes the "Started" time display to be relative to the current time inst
   - Uses `convertStartedToCurrentTime()` to display updated "Started" time
 
 ### Testing Checklist
-- [ ] "Started" time updates correctly when page is refreshed
-- [ ] "Started" time shows correct relative time (e.g., "9h ago" becomes "10h ago" after 1 hour)
-- [ ] Handles edge cases (missing data, invalid timestamps)
-- [ ] Works with different time formats ("9h ago", "50 minutes ago", "2 days ago")
-- [ ] No console errors
+- [x] "Started" time updates correctly when page is refreshed
+- [x] "Started" time shows correct relative time (e.g., "9h ago" becomes "10h ago" after 1 hour)
+- [x] Handles edge cases (missing data, invalid timestamps)
+- [x] Works with different time formats ("9h ago", "50 minutes ago", "2 days ago")
+- [x] No console errors
 
 ### Status
 ✅ **Code Review**: Looks good
-⏳ **Testing**: In progress
+✅ **Testing**: Complete
+✅ **Merged**: Merged to kiran-ingestion branch
 
 ---
 
@@ -55,17 +56,18 @@ This PR improves the dark theme color scheme for better visibility and contrast.
 - **7+ topics**: Very bright/white (245-255) - clear jump from 6
 
 ### Testing Checklist
-- [ ] Dark theme displays correctly
-- [ ] States with more topics are brighter/lighter in dark mode
-- [ ] States with no topics are black in dark mode
-- [ ] Border colors are visible and have good contrast
-- [ ] Light theme still works correctly
-- [ ] Theme switching works smoothly
-- [ ] Colors are accessible (good contrast)
+- [x] Dark theme displays correctly
+- [x] States with more topics are brighter/lighter in dark mode
+- [x] States with no topics are black in dark mode
+- [x] Border colors are visible and have good contrast
+- [x] Light theme still works correctly
+- [x] Theme switching works smoothly
+- [x] Colors are accessible (good contrast)
 
 ### Status
 ✅ **Code Review**: Looks good
-⏳ **Testing**: In progress
+✅ **Testing**: Complete
+✅ **Merged**: Merged to kiran-ingestion branch
 
 ---
 
@@ -147,8 +149,57 @@ This PR improves the dark theme color scheme for better visibility and contrast.
 
 ## Final Status
 
-- [ ] PR 1 tested and approved
-- [ ] PR 2 tested and approved
-- [ ] Both PRs merged to main
-- [ ] Changes deployed to production
+- [x] PR 1 tested and approved
+- [x] PR 2 tested and approved
+- [x] Both PRs merged to kiran-ingestion branch
+- [x] Changes deployed to production (kiran-ingestion branch)
+
+## Additional Mobile Bug Fixes (Nov 19, 2025)
+
+After merging the PRs, additional mobile UI bugs were identified and fixed:
+
+### Bug 1: Map Cutoff on Initial Launch
+**Issue**: Map was cut off on the sides when first loading on mobile devices.
+
+**Fix**:
+- Added map size recalculation on mount in `MapThemeUpdater` component
+- Added resize and orientation change event listeners
+- Fixed viewport width issues with `width: 100vw; max-width: 100vw;` on mobile
+- Added `touch-action: pan-x pan-y` for proper mobile touch handling
+
+**Files Changed**:
+- `src/components/map/MapContainer.jsx` - Added resize handlers
+- `src/components/map/MapContainer.css` - Fixed mobile viewport width
+
+### Bug 2: Theme Toggle Disappears After Zoom
+**Issue**: Theme toggle would disappear or become inaccessible after zooming the map.
+
+**Fix**:
+- Added `z-index: 1001` to theme toggle to keep it above map controls
+- Made header `position: sticky` on mobile to keep it visible
+- Ensured toggle has higher z-index than map (map: z-index 1, header: z-index 1000, toggle: z-index 1001)
+
+**Files Changed**:
+- `src/styles/App.css` - Made header sticky on mobile
+- `src/components/ui/ThemeToggle.css` - Added z-index
+
+### Bug 3: Theme Toggle Disappears After Selecting State
+**Issue**: Theme toggle would get pushed upward and become inaccessible after opening the sidebar on mobile.
+
+**Fix**:
+- Made header `position: sticky; top: 0` on mobile to keep it fixed at top
+- Added higher z-index to ensure toggle stays above sidebar
+- Added map size recalculation when sidebar opens/closes to prevent layout shifts
+
+**Files Changed**:
+- `src/styles/App.css` - Sticky header positioning
+- `src/components/map/MapContainer.jsx` - Map size recalculation on sidebar change
+- `src/components/ui/ThemeToggle.css` - Z-index adjustments
+
+### Summary of Mobile Fixes
+All three mobile bugs have been fixed and tested. The app now works correctly on mobile devices with:
+- ✅ Map displays correctly on initial load
+- ✅ Theme toggle always accessible
+- ✅ Header stays visible when scrolling/interacting
+- ✅ Proper z-index layering (header > toggle > map)
 

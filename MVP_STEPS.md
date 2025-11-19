@@ -253,6 +253,9 @@ This guide outlines the step-by-step process for building the Political Forecast
 - [x] Test on desktop browsers
 - [x] Verify sidebar behavior on mobile
 - [x] Test theme switching on all devices
+- [x] Fix map cutoff on mobile initial launch
+- [x] Fix theme toggle disappearing after zoom
+- [x] Fix theme toggle disappearing after selecting state
 
 ### Step 9.5: Accessibility Testing
 - [ ] Test keyboard navigation
