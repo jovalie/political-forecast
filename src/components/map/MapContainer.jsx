@@ -47,12 +47,12 @@ const MapThemeUpdater = ({ isDark, mapRef }) => {
   useEffect(() => {
     if (!map) return
 
-    // Fix initial render on mobile - multiple attempts to ensure proper centering
+    // Fix initial render on mobile - ensure proper centering without interfering with clicks
     const fixMapSize = (shouldFitBounds = false) => {
-      // Multiple timeouts to handle different render phases
+      // First, invalidate size to ensure map calculates correctly
       setTimeout(() => {
         map.invalidateSize()
-        // On mobile, also ensure map is centered properly
+        // On mobile, also ensure map is centered properly (only once)
         if (shouldFitBounds && window.innerWidth <= 768) {
           // Fit bounds to show all of continental US on mobile
           // This ensures the map is perfectly centered and shows all states
@@ -65,24 +65,13 @@ const MapThemeUpdater = ({ isDark, mapRef }) => {
             maxZoom: 5 // Prevent zooming in too much on mobile
           })
         }
-      }, 50)
+      }, 100)
       
+      // One more invalidateSize after a short delay to ensure everything is stable
+      // But don't call fitBounds again to avoid interfering with user interactions
       setTimeout(() => {
         map.invalidateSize()
-        if (shouldFitBounds && window.innerWidth <= 768) {
-          const bounds = L.latLngBounds([24.5, -125], [49.5, -66])
-          map.fitBounds(bounds, { padding: [20, 20], maxZoom: 5 })
-        }
-      }, 200)
-      
-      setTimeout(() => {
-        map.invalidateSize()
-        // Final check to ensure map is properly sized and centered
-        if (shouldFitBounds && window.innerWidth <= 768) {
-          const bounds = L.latLngBounds([24.5, -125], [49.5, -66])
-          map.fitBounds(bounds, { padding: [20, 20], maxZoom: 5 })
-        }
-      }, 500)
+      }, 300)
     }
 
     // Only run initial fix once

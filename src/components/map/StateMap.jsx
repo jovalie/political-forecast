@@ -174,6 +174,9 @@ const GeoJSONRenderer = ({ geoJSONDataRef, styleRef, onEachFeatureRef, dataReady
         if (layer._path) {
           layer._path.style.pointerEvents = 'auto'
           layer._path.style.cursor = 'pointer'
+          // Ensure touch events work on mobile - let Leaflet handle touch-to-click conversion
+          layer._path.style.touchAction = 'manipulation'
+          
           const pathClickHandler = (e) => {
             if (layer.fire) {
               layer.fire('click', {
@@ -183,6 +186,7 @@ const GeoJSONRenderer = ({ geoJSONDataRef, styleRef, onEachFeatureRef, dataReady
               })
             }
           }
+          // Leaflet will automatically convert touch events to click events
           layer._path.addEventListener('click', pathClickHandler)
           layer._pathClickHandler = pathClickHandler
         }
