@@ -1,77 +1,69 @@
 {
-  "timestamp": "2025-11-19T01:46:08.001Z",
+  "timestamp": "2025-11-19T03:16:34.514Z",
   "states": [
     {
       "name": "California",
       "code": "CA",
-      "topTopic": "jamal khashoggi",
+      "topTopic": "madison",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
         {
-          "name": "jamal khashoggi",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "2K+",
-          "started": "7h ago",
-          "trendBreakdown": "arabiasaudi",
-          "percentageIncrease": "600%"
-        },
-        {
           "name": "madison",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "2K+",
-          "started": "16h ago",
+          "searchVolume": "5K+",
+          "started": "17h ago",
           "percentageIncrease": "600%"
+        },
+        {
+          "name": "jamal khashoggi",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "5K+",
+          "started": "9h ago",
+          "trendBreakdown": "bin",
+          "percentageIncrease": "500%"
         },
         {
           "name": "irs direct deposit",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "16h ago",
+          "started": "17h ago",
           "percentageIncrease": "600%"
-        },
-        {
-          "name": "alaska airlines pilot sentenced",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "22h ago",
-          "percentageIncrease": "500%"
         },
         {
           "name": "mexico",
           "relevanceScore": 95,
           "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "40 minutes ago",
-          "percentageIncrease": "400%"
+          "searchVolume": "2K+",
+          "started": "2h ago",
+          "percentageIncrease": "300%"
         },
         {
           "name": "texas congressional maps",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "2K+",
-          "started": "3h ago",
+          "started": "4h ago",
           "trendBreakdown": "texas",
           "percentageIncrease": "200%"
         },
         {
-          "name": "expert",
+          "name": "haiti",
           "relevanceScore": 95,
           "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "14h ago",
-          "percentageIncrease": "400%"
+          "searchVolume": "100+",
+          "started": "40 minutes ago",
+          "percentageIncrease": "200%"
         },
         {
           "name": "kash patel girlfriend",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "22h ago",
+          "started": "23h ago",
           "trendBreakdown": "alexis",
           "percentageIncrease": "300%"
         },
@@ -80,7 +72,7 @@
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "2K+",
-          "started": "8h ago",
+          "started": "10h ago",
           "percentageIncrease": "100%"
         },
         {
@@ -88,7 +80,7 @@
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "13h ago",
+          "started": "14h ago",
           "percentageIncrease": "100%"
         },
         {
@@ -96,7 +88,7 @@
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "13h ago",
+          "started": "14h ago",
           "percentageIncrease": "100%"
         },
         {
@@ -104,23 +96,15 @@
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "5h ago",
+          "started": "6h ago",
           "percentageIncrease": "100%"
-        },
-        {
-          "name": "voo",
-          "relevanceScore": 85,
-          "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "9h ago",
-          "percentageIncrease": "50%"
         },
         {
           "name": "canada",
           "relevanceScore": 85,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "14h ago",
+          "started": "15h ago",
           "percentageIncrease": "50%"
         }
       ]
@@ -128,16 +112,33 @@
     {
       "name": "Arizona",
       "code": "AZ",
-      "topTopic": "azfamily",
+      "topTopic": "prince",
       "category": "Law and Government",
-      "trendingScore": 85,
+      "trendingScore": 100,
       "topics": [
+        {
+          "name": "prince",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "1K+",
+          "started": "1h ago",
+          "trendBreakdown": "cnn",
+          "percentageIncrease": "1000%"
+        },
+        {
+          "name": "mexico",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "30 minutes ago",
+          "percentageIncrease": "200%"
+        },
         {
           "name": "azfamily",
           "relevanceScore": 85,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "14h ago",
+          "started": "15h ago",
           "percentageIncrease": "75%"
         }
       ]
@@ -153,17 +154,33 @@
           "name": "prince",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "2K+",
-          "started": "50 minutes ago",
+          "searchVolume": "5K+",
+          "started": "2h ago",
           "trendBreakdown": "jamal",
           "percentageIncrease": "1000%"
+        },
+        {
+          "name": "haiti",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "1K+",
+          "started": "2h ago",
+          "percentageIncrease": "800%"
+        },
+        {
+          "name": "madison",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "2K+",
+          "started": "18h ago",
+          "percentageIncrease": "800%"
         },
         {
           "name": "alaska airlines pilot sentenced",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "21h ago",
+          "started": "22h ago",
           "percentageIncrease": "500%"
         },
         {
@@ -171,23 +188,31 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "11h ago",
+          "started": "12h ago",
           "percentageIncrease": "500%"
         },
         {
-          "name": "costa rica",
+          "name": "forex factory",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "1K+",
+          "started": "15h ago",
+          "percentageIncrease": "300%"
+        },
+        {
+          "name": "nicaragua",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "30 minutes ago",
-          "percentageIncrease": "300%"
+          "started": "1h ago",
+          "percentageIncrease": "200%"
         },
         {
           "name": "alexis wilkins",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "21h ago",
+          "started": "23h ago",
           "trendBreakdown": "kash",
           "percentageIncrease": "200%"
         },
@@ -196,7 +221,7 @@
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "10h ago",
+          "started": "12h ago",
           "percentageIncrease": "100%"
         },
         {
@@ -204,7 +229,7 @@
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "15h ago",
+          "started": "17h ago",
           "percentageIncrease": "100%"
         }
       ]
@@ -220,8 +245,8 @@
           "name": "prince",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "40 minutes ago",
+          "searchVolume": "2K+",
+          "started": "2h ago",
           "trendBreakdown": "jamal",
           "percentageIncrease": "1000%"
         },
@@ -230,7 +255,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "13h ago",
+          "started": "15h ago",
           "percentageIncrease": "700%"
         },
         {
@@ -238,7 +263,15 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "16h ago",
+          "started": "17h ago",
+          "percentageIncrease": "600%"
+        },
+        {
+          "name": "forex factory",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "13h ago",
           "percentageIncrease": "600%"
         }
       ]
@@ -255,7 +288,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "2K+",
-          "started": "50 minutes ago",
+          "started": "2h ago",
           "trendBreakdown": "jamal",
           "percentageIncrease": "1000%"
         },
@@ -263,8 +296,8 @@
           "name": "orville t bright school",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "5K+",
-          "started": "15h ago",
+          "searchVolume": "2K+",
+          "started": "16h ago",
           "trendBreakdown": "bright",
           "percentageIncrease": "1000%"
         },
@@ -273,7 +306,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "13h ago",
+          "started": "15h ago",
           "percentageIncrease": "700%"
         },
         {
@@ -281,8 +314,16 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "21h ago",
+          "started": "22h ago",
           "percentageIncrease": "800%"
+        },
+        {
+          "name": "forex factory",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "12h ago",
+          "percentageIncrease": "400%"
         }
       ]
     },
@@ -298,7 +339,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "40 minutes ago",
+          "started": "2h ago",
           "percentageIncrease": "1000%"
         },
         {
@@ -306,7 +347,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "13h ago",
+          "started": "14h ago",
           "percentageIncrease": "500%"
         }
       ]
@@ -322,17 +363,25 @@
           "name": "prince",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "40 minutes ago",
+          "searchVolume": "1K+",
+          "started": "2h ago",
           "trendBreakdown": "jamal",
           "percentageIncrease": "1000%"
+        },
+        {
+          "name": "madison",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "15h ago",
+          "percentageIncrease": "600%"
         },
         {
           "name": "irs direct deposit",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "13h ago",
+          "started": "14h ago",
           "percentageIncrease": "300%"
         },
         {
@@ -340,7 +389,7 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "21h ago",
+          "started": "23h ago",
           "trendBreakdown": "kash",
           "percentageIncrease": "200%"
         },
@@ -349,7 +398,7 @@
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "13h ago",
+          "started": "14h ago",
           "percentageIncrease": "100%"
         }
       ]
@@ -365,9 +414,8 @@
           "name": "prince",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "40 minutes ago",
-          "trendBreakdown": "fox",
+          "searchVolume": "2K+",
+          "started": "2h ago",
           "percentageIncrease": "1000%"
         },
         {
@@ -375,7 +423,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "14h ago",
+          "started": "15h ago",
           "percentageIncrease": "1000%"
         },
         {
@@ -383,7 +431,7 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "14h ago",
+          "started": "15h ago",
           "percentageIncrease": "400%"
         },
         {
@@ -391,16 +439,8 @@
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "14h ago",
+          "started": "15h ago",
           "percentageIncrease": "100%"
-        },
-        {
-          "name": "amber czech",
-          "relevanceScore": 85,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "16h ago",
-          "percentageIncrease": "75%"
         }
       ]
     },
@@ -416,7 +456,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "2K+",
-          "started": "40 minutes ago",
+          "started": "2h ago",
           "trendBreakdown": "jamal",
           "percentageIncrease": "1000%"
         },
@@ -425,24 +465,16 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "5K+",
-          "started": "13h ago",
+          "started": "15h ago",
           "trendBreakdown": "brian",
           "percentageIncrease": "1000%"
-        },
-        {
-          "name": "haiti",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "20 minutes ago",
-          "percentageIncrease": "400%"
         },
         {
           "name": "karen read",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "8h ago",
+          "started": "9h ago",
           "percentageIncrease": "300%"
         }
       ]
@@ -458,8 +490,8 @@
           "name": "prince",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "40 minutes ago",
+          "searchVolume": "1K+",
+          "started": "2h ago",
           "percentageIncrease": "1000%"
         },
         {
@@ -467,7 +499,7 @@
           "relevanceScore": 85,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "14h ago",
+          "started": "16h ago",
           "percentageIncrease": "75%"
         }
       ]
@@ -475,26 +507,26 @@
     {
       "name": "New Jersey",
       "code": "NJ",
-      "topTopic": "prince",
+      "topTopic": "hillsborough shooting",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
+        {
+          "name": "hillsborough shooting",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "5K+",
+          "started": "7h ago",
+          "trendBreakdown": "hillsborough",
+          "percentageIncrease": "1000%"
+        },
         {
           "name": "prince",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "2K+",
-          "started": "40 minutes ago",
+          "started": "2h ago",
           "trendBreakdown": "jamal",
-          "percentageIncrease": "1000%"
-        },
-        {
-          "name": "hillsborough nj",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "5K+",
-          "started": "6h ago",
-          "trendBreakdown": "hillsborough",
           "percentageIncrease": "1000%"
         },
         {
@@ -502,23 +534,23 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "2K+",
-          "started": "13h ago",
+          "started": "14h ago",
           "percentageIncrease": "1000%"
         },
         {
-          "name": "ecuador",
-          "relevanceScore": 95,
+          "name": "madison",
+          "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "50 minutes ago",
-          "percentageIncrease": "300%"
+          "searchVolume": "500+",
+          "started": "16h ago",
+          "percentageIncrease": "700%"
         },
         {
           "name": "alexis wilkins",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "21h ago",
+          "started": "23h ago",
           "trendBreakdown": "kash",
           "percentageIncrease": "400%"
         }
@@ -535,26 +567,34 @@
           "name": "prince",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "50 minutes ago",
+          "searchVolume": "2K+",
+          "started": "2h ago",
           "trendBreakdown": "jamal",
           "percentageIncrease": "1000%"
         },
         {
-          "name": "george w bush",
+          "name": "madison",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "1K+",
+          "started": "15h ago",
+          "percentageIncrease": "900%"
+        },
+        {
+          "name": "ice in durham",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "23h ago",
-          "percentageIncrease": "1000%"
+          "started": "8h ago",
+          "percentageIncrease": "500%"
         },
         {
           "name": "raleigh ice",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "8h ago",
-          "trendBreakdown": "ice",
+          "started": "9h ago",
+          "trendBreakdown": "icewhat",
           "percentageIncrease": "300%"
         }
       ]
@@ -571,24 +611,32 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "5K+",
-          "started": "50 minutes ago",
+          "started": "2h ago",
           "trendBreakdown": "jamal",
           "percentageIncrease": "1000%"
         },
         {
-          "name": "irs direct deposit",
+          "name": "madison",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "23h ago",
-          "percentageIncrease": "900%"
+          "searchVolume": "2K+",
+          "started": "18h ago",
+          "percentageIncrease": "700%"
+        },
+        {
+          "name": "forex factory",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "14h ago",
+          "percentageIncrease": "500%"
         },
         {
           "name": "reid hoffman",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "7h ago",
+          "started": "8h ago",
           "percentageIncrease": "500%"
         },
         {
@@ -596,23 +644,39 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "21h ago",
+          "started": "22h ago",
           "percentageIncrease": "1000%"
+        },
+        {
+          "name": "ecuador",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "3h ago",
+          "percentageIncrease": "300%"
         },
         {
           "name": "bare hill correctional facility",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "10h ago",
+          "started": "12h ago",
           "percentageIncrease": "400%"
+        },
+        {
+          "name": "texas congressional maps",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "2h ago",
+          "percentageIncrease": "200%"
         },
         {
           "name": "brazil",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "4h ago",
+          "started": "6h ago",
           "percentageIncrease": "300%"
         },
         {
@@ -620,7 +684,7 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "22h ago",
+          "started": "23h ago",
           "percentageIncrease": "200%"
         },
         {
@@ -628,7 +692,7 @@
           "relevanceScore": 85,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "14h ago",
+          "started": "16h ago",
           "percentageIncrease": "50%"
         }
       ]
@@ -645,7 +709,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "2K+",
-          "started": "40 minutes ago",
+          "started": "2h ago",
           "trendBreakdown": "jamal",
           "percentageIncrease": "1000%"
         },
@@ -654,7 +718,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "14h ago",
+          "started": "16h ago",
           "percentageIncrease": "800%"
         }
       ]
@@ -688,9 +752,17 @@
           "name": "prince",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "2K+",
-          "started": "50 minutes ago",
+          "searchVolume": "5K+",
+          "started": "2h ago",
           "trendBreakdown": "jamal",
+          "percentageIncrease": "1000%"
+        },
+        {
+          "name": "madison",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "2K+",
+          "started": "16h ago",
           "percentageIncrease": "1000%"
         },
         {
@@ -698,7 +770,7 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "13h ago",
+          "started": "15h ago",
           "trendBreakdown": "keyu",
           "percentageIncrease": "200%"
         },
@@ -707,8 +779,16 @@
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "14h ago",
+          "started": "15h ago",
           "percentageIncrease": "100%"
+        },
+        {
+          "name": "septa",
+          "relevanceScore": 85,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "15h ago",
+          "percentageIncrease": "75%"
         }
       ]
     },
@@ -723,8 +803,8 @@
           "name": "prince",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "40 minutes ago",
+          "searchVolume": "1K+",
+          "started": "2h ago",
           "percentageIncrease": "1000%"
         }
       ]
@@ -741,8 +821,16 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "40 minutes ago",
+          "started": "2h ago",
           "percentageIncrease": "1000%"
+        },
+        {
+          "name": "summer wells",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "40 minutes ago",
+          "percentageIncrease": "800%"
         }
       ]
     },
@@ -757,33 +845,33 @@
           "name": "prince",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "2K+",
-          "started": "50 minutes ago",
+          "searchVolume": "5K+",
+          "started": "2h ago",
           "trendBreakdown": "jamal",
           "percentageIncrease": "1000%"
+        },
+        {
+          "name": "madison",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "2K+",
+          "started": "16h ago",
+          "percentageIncrease": "600%"
         },
         {
           "name": "mexico",
           "relevanceScore": 95,
           "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "1h ago",
+          "searchVolume": "2K+",
+          "started": "2h ago",
           "percentageIncrease": "300%"
-        },
-        {
-          "name": "costa rica",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "10 minutes ago",
-          "percentageIncrease": "200%"
         },
         {
           "name": "cair",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "7h ago",
+          "started": "9h ago",
           "percentageIncrease": "400%"
         },
         {
@@ -791,8 +879,16 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "2h ago",
+          "started": "4h ago",
           "trendBreakdown": "texas",
+          "percentageIncrease": "400%"
+        },
+        {
+          "name": "forex factory",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "14h ago",
           "percentageIncrease": "400%"
         },
         {
@@ -800,7 +896,7 @@
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "5K+",
-          "started": "11h ago",
+          "started": "12h ago",
           "percentageIncrease": "100%"
         }
       ]
@@ -817,17 +913,17 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "2K+",
-          "started": "50 minutes ago",
+          "started": "2h ago",
           "trendBreakdown": "jamal",
           "percentageIncrease": "1000%"
         },
         {
-          "name": "amber czech",
-          "relevanceScore": 90,
+          "name": "madison",
+          "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "23h ago",
-          "percentageIncrease": "100%"
+          "searchVolume": "1K+",
+          "started": "15h ago",
+          "percentageIncrease": "700%"
         }
       ]
     },
@@ -843,7 +939,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "2K+",
-          "started": "40 minutes ago",
+          "started": "2h ago",
           "trendBreakdown": "jamal",
           "percentageIncrease": "1000%"
         },
@@ -852,7 +948,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "13h ago",
+          "started": "15h ago",
           "percentageIncrease": "800%"
         },
         {
@@ -860,7 +956,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "13h ago",
+          "started": "14h ago",
           "percentageIncrease": "1000%"
         },
         {
@@ -868,7 +964,7 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "13h ago",
+          "started": "14h ago",
           "percentageIncrease": "400%"
         }
       ]
@@ -885,7 +981,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "2K+",
-          "started": "6h ago",
+          "started": "7h ago",
           "trendBreakdown": "derek",
           "percentageIncrease": "1000%"
         },
@@ -894,7 +990,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "40 minutes ago",
+          "started": "2h ago",
           "percentageIncrease": "1000%"
         },
         {
@@ -902,7 +998,7 @@
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "9h ago",
+          "started": "10h ago",
           "percentageIncrease": "100%"
         }
       ]
@@ -936,16 +1032,16 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "11h ago",
-          "percentageIncrease": "1000%"
+          "started": "12h ago",
+          "percentageIncrease": "900%"
         },
         {
           "name": "mexico",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "10 minutes ago",
-          "percentageIncrease": "200%"
+          "started": "1h ago",
+          "percentageIncrease": "300%"
         }
       ]
     },
@@ -960,9 +1056,8 @@
           "name": "prince",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "30 minutes ago",
-          "trendBreakdown": "fox",
+          "searchVolume": "1K+",
+          "started": "2h ago",
           "percentageIncrease": "1000%"
         }
       ]
@@ -970,17 +1065,17 @@
     {
       "name": "Kansas",
       "code": "KS",
-      "topTopic": "yahoo",
+      "topTopic": "prince",
       "category": "Law and Government",
-      "trendingScore": 85,
+      "trendingScore": 100,
       "topics": [
         {
-          "name": "yahoo",
-          "relevanceScore": 85,
+          "name": "prince",
+          "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "9h ago",
-          "percentageIncrease": "75%"
+          "searchVolume": "500+",
+          "started": "2h ago",
+          "percentageIncrease": "1000%"
         }
       ]
     },
@@ -1004,32 +1099,32 @@
     {
       "name": "Colorado",
       "code": "CO",
-      "topTopic": "oecd",
+      "topTopic": "prince",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
+        {
+          "name": "prince",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "5K+",
+          "started": "1h ago",
+          "percentageIncrease": "1000%"
+        },
         {
           "name": "oecd",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "17h ago",
+          "started": "19h ago",
           "percentageIncrease": "900%"
-        },
-        {
-          "name": "expert",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "17h ago",
-          "percentageIncrease": "1000%"
         },
         {
           "name": "uk",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "17h ago",
+          "started": "19h ago",
           "percentageIncrease": "1000%"
         },
         {
@@ -1037,7 +1132,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "17h ago",
+          "started": "19h ago",
           "percentageIncrease": "900%"
         },
         {
@@ -1045,39 +1140,23 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "17h ago",
+          "started": "18h ago",
           "percentageIncrease": "700%"
         },
         {
-          "name": "william",
-          "relevanceScore": 100,
+          "name": "philippines",
+          "relevanceScore": 95,
           "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "17h ago",
-          "percentageIncrease": "600%"
-        },
-        {
-          "name": "new",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "17h ago",
-          "percentageIncrease": "500%"
-        },
-        {
-          "name": "central",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "15h ago",
-          "percentageIncrease": "700%"
+          "searchVolume": "100+",
+          "started": "16h ago",
+          "percentageIncrease": "300%"
         },
         {
           "name": "nia",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "14h ago",
+          "started": "15h ago",
           "percentageIncrease": "200%"
         },
         {
@@ -1085,23 +1164,15 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "13h ago",
+          "started": "15h ago",
           "percentageIncrease": "300%"
-        },
-        {
-          "name": "queensland",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "14h ago",
-          "percentageIncrease": "200%"
         },
         {
           "name": "easa",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "13h ago",
+          "started": "15h ago",
           "percentageIncrease": "400%"
         },
         {
@@ -1109,7 +1180,7 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "13h ago",
+          "started": "15h ago",
           "percentageIncrease": "300%"
         },
         {
@@ -1117,15 +1188,23 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "13h ago",
+          "started": "15h ago",
           "percentageIncrease": "300%"
         },
         {
-          "name": "obama",
+          "name": "shell",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "14h ago",
+          "started": "15h ago",
+          "percentageIncrease": "300%"
+        },
+        {
+          "name": "standard",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "15h ago",
           "percentageIncrease": "300%"
         },
         {
@@ -1133,15 +1212,7 @@
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "14h ago",
-          "percentageIncrease": "100%"
-        },
-        {
-          "name": "industry",
-          "relevanceScore": 90,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "13h ago",
+          "started": "16h ago",
           "percentageIncrease": "100%"
         }
       ]
@@ -1158,24 +1229,31 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "40 minutes ago",
-          "trendBreakdown": "fox",
+          "started": "2h ago",
           "percentageIncrease": "1000%"
         },
         {
           "name": "bro tex",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "7h ago",
+          "searchVolume": "2K+",
+          "started": "9h ago",
           "percentageIncrease": "1000%"
+        },
+        {
+          "name": "madison",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "14h ago",
+          "percentageIncrease": "900%"
         },
         {
           "name": "metro transit",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "12h ago",
+          "started": "13h ago",
           "percentageIncrease": "200%"
         },
         {
@@ -1183,7 +1261,7 @@
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "13h ago",
+          "started": "15h ago",
           "percentageIncrease": "100%"
         }
       ]
@@ -1304,8 +1382,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "30 minutes ago",
-          "trendBreakdown": "fox",
+          "started": "2h ago",
           "percentageIncrease": "1000%"
         },
         {
@@ -1313,7 +1390,7 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "14h ago",
+          "started": "15h ago",
           "percentageIncrease": "200%"
         }
       ]
@@ -1338,16 +1415,24 @@
     {
       "name": "Rhode Island",
       "code": "RI",
-      "topTopic": "larry summers",
+      "topTopic": "prince",
       "category": "Law and Government",
-      "trendingScore": 95,
+      "trendingScore": 100,
       "topics": [
+        {
+          "name": "prince",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "1h ago",
+          "percentageIncrease": "900%"
+        },
         {
           "name": "larry summers",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "14h ago",
+          "started": "15h ago",
           "percentageIncrease": "300%"
         }
       ]
@@ -1355,17 +1440,17 @@
     {
       "name": "West Virginia",
       "code": "WV",
-      "topTopic": "ai",
+      "topTopic": "prince",
       "category": "Law and Government",
-      "trendingScore": 95,
+      "trendingScore": 100,
       "topics": [
         {
-          "name": "ai",
-          "relevanceScore": 95,
+          "name": "prince",
+          "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "40 minutes ago",
-          "percentageIncrease": "400%"
+          "started": "1h ago",
+          "percentageIncrease": "600%"
         }
       ]
     },
@@ -1380,8 +1465,8 @@
           "name": "prince",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "40 minutes ago",
+          "searchVolume": "1K+",
+          "started": "2h ago",
           "percentageIncrease": "1000%"
         },
         {
@@ -1389,7 +1474,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "15h ago",
+          "started": "16h ago",
           "percentageIncrease": "500%"
         }
       ]
@@ -1406,8 +1491,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "40 minutes ago",
-          "trendBreakdown": "fox",
+          "started": "2h ago",
           "percentageIncrease": "1000%"
         }
       ]
@@ -1432,16 +1516,24 @@
     {
       "name": "Utah",
       "code": "UT",
-      "topTopic": "america first",
+      "topTopic": "prince",
       "category": "Law and Government",
-      "trendingScore": 95,
+      "trendingScore": 100,
       "topics": [
+        {
+          "name": "prince",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "1K+",
+          "started": "1h ago",
+          "percentageIncrease": "1000%"
+        },
         {
           "name": "america first",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "13h ago",
+          "started": "15h ago",
           "percentageIncrease": "300%"
         }
       ]
@@ -1457,8 +1549,8 @@
           "name": "prince",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "40 minutes ago",
+          "searchVolume": "1K+",
+          "started": "2h ago",
           "percentageIncrease": "1000%"
         }
       ]
@@ -1475,7 +1567,41 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "30 minutes ago",
+          "started": "2h ago",
+          "percentageIncrease": "1000%"
+        }
+      ]
+    },
+    {
+      "name": "Arkansas",
+      "code": "AR",
+      "topTopic": "prince",
+      "category": "Law and Government",
+      "trendingScore": 100,
+      "topics": [
+        {
+          "name": "prince",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "2h ago",
+          "percentageIncrease": "1000%"
+        }
+      ]
+    },
+    {
+      "name": "Louisiana",
+      "code": "LA",
+      "topTopic": "prince",
+      "category": "Law and Government",
+      "trendingScore": 100,
+      "topics": [
+        {
+          "name": "prince",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "2h ago",
           "percentageIncrease": "1000%"
         }
       ]
