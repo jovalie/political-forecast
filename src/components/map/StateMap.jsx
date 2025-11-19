@@ -174,8 +174,8 @@ const GeoJSONRenderer = ({ geoJSONDataRef, styleRef, onEachFeatureRef, dataReady
         if (layer._path) {
           layer._path.style.pointerEvents = 'auto'
           layer._path.style.cursor = 'pointer'
-          // Ensure touch events work on mobile - let Leaflet handle touch-to-click conversion
-          layer._path.style.touchAction = 'manipulation'
+          // Allow touch events on path elements for mobile
+          layer._path.style.touchAction = 'auto'
           
           const pathClickHandler = (e) => {
             if (layer.fire) {
@@ -186,8 +186,38 @@ const GeoJSONRenderer = ({ geoJSONDataRef, styleRef, onEachFeatureRef, dataReady
               })
             }
           }
-          // Leaflet will automatically convert touch events to click events
+          
+          // Add click handler
           layer._path.addEventListener('click', pathClickHandler)
+          
+          // Also add touch handlers for mobile - detect taps vs pans
+          // Store touch start position on the path element
+          layer._path.addEventListener('touchstart', (e) => {
+            const touch = e.touches[0]
+            if (touch) {
+              layer._path._touchStartPos = { x: touch.clientX, y: touch.clientY }
+            }
+          }, { passive: true })
+          
+          layer._path.addEventListener('touchend', (e) => {
+            if (layer._path._touchStartPos) {
+              const touch = e.changedTouches[0]
+              if (touch) {
+                const touchStartPos = layer._path._touchStartPos
+                const deltaX = Math.abs(touch.clientX - touchStartPos.x)
+                const deltaY = Math.abs(touch.clientY - touchStartPos.y)
+                // If touch moved less than 10px, treat it as a tap/click
+                if (deltaX < 10 && deltaY < 10) {
+                  e.preventDefault()
+                  e.stopPropagation()
+                  // Fire click event manually
+                  pathClickHandler(e)
+                }
+              }
+              layer._path._touchStartPos = null
+            }
+          }, { passive: false })
+          
           layer._pathClickHandler = pathClickHandler
         }
       })
@@ -416,17 +446,17 @@ const StateMap = ({
       layer.setInteractive(true)
     }
     
-    layer.on({
-      click: (e) => {
-        // Only prevent default if originalEvent exists (real user clicks)
-        if (e.originalEvent) {
-          e.originalEvent.preventDefault()
-          e.originalEvent.stopPropagation()
-        }
-        // Stop Leaflet event propagation to prevent map click handler from firing
-        L.DomEvent.stopPropagation(e)
-        
-        const clickedLayer = e.target
+    // Handle both click and touch events for mobile compatibility
+    const handleStateInteraction = (e) => {
+      // Only prevent default if originalEvent exists (real user clicks/touches)
+      if (e.originalEvent) {
+        e.originalEvent.preventDefault()
+        e.originalEvent.stopPropagation()
+      }
+      // Stop Leaflet event propagation to prevent map click handler from firing
+      L.DomEvent.stopPropagation(e)
+      
+      const clickedLayer = e.target
         
         // If clicking a different state, update the clicked state
         if (clickedLayerRef.current && clickedLayerRef.current !== clickedLayer) {
@@ -554,7 +584,10 @@ const StateMap = ({
             console.error('[StateMap] Error calling onStateClick:', error)
           }
         }
-      },
+    }
+    
+    layer.on({
+      click: handleStateInteraction
     })
 
     // Add tooltip with state name and top topic

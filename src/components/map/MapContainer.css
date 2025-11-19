@@ -35,8 +35,8 @@
   
   .map-container .leaflet-container {
     /* Force map to recalculate size on mobile */
-    /* Allow both panning and clicking - pan-x pan-y allows panning, manipulation allows pinch-zoom and clicks */
-    touch-action: manipulation;
+    /* Allow panning, pinch-zoom, and clicking - pan-x pan-y allows panning, pinch-zoom allows zoom gestures */
+    touch-action: pan-x pan-y pinch-zoom;
     width: 100% !important;
     height: 100% !important;
     margin: 0;
