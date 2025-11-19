@@ -95,17 +95,8 @@ const MapThemeUpdater = ({ isDark, mapRef }) => {
     const handleResize = () => {
       setTimeout(() => {
         map.invalidateSize()
-        // Re-center map on mobile after resize/orientation change
-        if (window.innerWidth <= 768) {
-          const bounds = L.latLngBounds(
-            [24.5, -125],
-            [49.5, -66]
-          )
-          map.fitBounds(bounds, { 
-            padding: [20, 20],
-            maxZoom: 5
-          })
-        }
+        // Only invalidate size on resize, don't re-center
+        // Users should be able to zoom/pan freely after initial load
       }, 150)
     }
 
