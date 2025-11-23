@@ -1,38 +1,36 @@
 {
-  "timestamp": "2025-11-19T01:10:52.565Z",
+  "timestamp": "2025-11-17T20:24:34.629Z",
   "states": [
     {
       "name": "New Jersey",
       "code": "NJ",
-      "topTopic": "hillsborough shooting",
+      "topTopic": "sheikh hasina",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
         {
-          "name": "hillsborough shooting",
+          "name": "sheikh hasina",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "5K+",
-          "started": "5h ago",
-          "trendBreakdown": "hillsborough",
-          "percentageIncrease": "1000%"
+          "searchVolume": "500+",
+          "started": "7h ago",
+          "percentageIncrease": "600%"
         },
         {
-          "name": "andrew labruno",
+          "name": "venezuelan military",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "2K+",
-          "started": "12h ago",
-          "percentageIncrease": "1000%"
+          "searchVolume": "100+",
+          "started": "22h ago",
+          "percentageIncrease": "600%"
         },
         {
-          "name": "alexis wilkins",
+          "name": "oj simpson",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "21h ago",
-          "trendBreakdown": "kash",
-          "percentageIncrease": "400%"
+          "started": "15h ago",
+          "percentageIncrease": "300%"
         }
       ]
     }

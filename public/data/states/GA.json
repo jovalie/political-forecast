@@ -1,20 +1,28 @@
 {
-  "timestamp": "2025-11-19T01:10:52.565Z",
+  "timestamp": "2025-11-17T20:24:34.629Z",
   "states": [
     {
       "name": "Georgia",
       "code": "GA",
-      "topTopic": "irs direct deposit",
+      "topTopic": "venezuelan military",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
         {
-          "name": "irs direct deposit",
+          "name": "venezuelan military",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "15h ago",
+          "searchVolume": "100+",
+          "started": "23h ago",
           "percentageIncrease": "600%"
+        },
+        {
+          "name": "sheikh hasina",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "3h ago",
+          "percentageIncrease": "400%"
         }
       ]
     }

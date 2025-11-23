@@ -1,44 +1,28 @@
 {
-  "timestamp": "2025-11-19T01:10:52.565Z",
+  "timestamp": "2025-11-17T20:24:34.629Z",
   "states": [
     {
       "name": "Michigan",
       "code": "MI",
-      "topTopic": "prince",
+      "topTopic": "prime",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
         {
-          "name": "prince",
+          "name": "prime",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "10 minutes ago",
+          "searchVolume": "72K+",
+          "started": "6h ago",
           "percentageIncrease": "1000%"
         },
         {
-          "name": "irs direct deposit",
-          "relevanceScore": 95,
+          "name": "sheikh hasina",
+          "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "13h ago",
-          "percentageIncrease": "400%"
-        },
-        {
-          "name": "wood tv",
-          "relevanceScore": 90,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "13h ago",
-          "percentageIncrease": "100%"
-        },
-        {
-          "name": "amber czech",
-          "relevanceScore": 85,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "15h ago",
-          "percentageIncrease": "75%"
+          "started": "5h ago",
+          "percentageIncrease": "900%"
         }
       ]
     }
