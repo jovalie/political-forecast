@@ -1,36 +1,30 @@
 {
-  "timestamp": "2025-11-17T20:24:34.629Z",
+  "timestamp": "2025-11-23T01:22:52.179Z",
   "states": [
     {
       "name": "North Carolina",
       "code": "NC",
-      "topTopic": "why are flags at half mast today",
+      "topTopic": "uab football",
       "category": "Law and Government",
-      "trendingScore": 95,
+      "trendingScore": 100,
       "topics": [
         {
-          "name": "why are flags at half mast today",
+          "name": "uab football",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "1K+",
+          "started": "5h ago",
+          "trendBreakdown": "minceydaniel",
+          "percentageIncrease": "1000%"
+        },
+        {
+          "name": "wfmy news",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "18h ago",
+          "started": "17h ago",
+          "trendBreakdown": "greensboro",
           "percentageIncrease": "200%"
-        },
-        {
-          "name": "oj simpson",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "12h ago",
-          "percentageIncrease": "200%"
-        },
-        {
-          "name": "ice",
-          "relevanceScore": 90,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "16h ago",
-          "percentageIncrease": "100%"
         }
       ]
     }

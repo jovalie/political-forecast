@@ -1349,9 +1349,128 @@ export function calculateRelevanceScore(searchVolume, started, percentageIncreas
  * @returns {Array} Formatted topics array
  */
 export function formatTrendsForOutput(trends) {
+  // Import political leaning utility (inline to avoid module issues)
+  const classifyPoliticalLeaning = (topicName) => {
+    if (!topicName || typeof topicName !== 'string') {
+      return undefined
+    }
+
+    const normalized = topicName.toLowerCase().trim()
+
+    // Left-leaning keywords
+    const LEFT_KEYWORDS = [
+      'progressive', 'democratic socialist', 'socialist', 'bernie sanders', 'aoc', 'alexandria ocasio-cortez',
+      'medicare for all', 'green new deal', 'climate change', 'renewable energy', 'environmental protection',
+      'lgbtq rights', 'lgbt rights', 'transgender rights', 'marriage equality', 'pride',
+      'minimum wage increase', 'living wage', 'union', 'labor rights', 'workers rights',
+      'affordable housing', 'housing crisis', 'student debt', 'student loan forgiveness',
+      'gun control', 'gun reform', 'assault weapons ban', 'background checks',
+      'immigration reform', 'dreamers', 'daca', 'pathway to citizenship',
+      'voting rights', 'voter suppression', 'gerrymandering', 'democracy reform',
+      'police reform', 'defund police', 'police accountability', 'criminal justice reform',
+      'reproductive rights', 'abortion rights', 'planned parenthood', 'roe v wade',
+      'racial justice', 'black lives matter', 'systemic racism', 'equity',
+      'wealth tax', 'tax the rich', 'income inequality', 'corporate tax',
+      'public option', 'universal healthcare', 'single payer', 'healthcare reform',
+      'free college', 'public education', 'education funding',
+      'warren', 'sanders', 'ocasio-cortez', 'pressley', 'tlaib', 'omar'
+    ]
+
+    // Right-leaning keywords
+    const RIGHT_KEYWORDS = [
+      'conservative', 'republican', 'trump', 'desantis', 'pence', 'mcconnell', 'cruz', 'hawley',
+      'tax cuts', 'tax reduction', 'corporate tax cut', 'tax reform',
+      'second amendment', 'gun rights', 'concealed carry', 'stand your ground',
+      'border security', 'border wall', 'illegal immigration', 'immigration enforcement',
+      'pro life', 'pro-life', 'abortion ban', 'right to life', 'unborn',
+      'religious freedom', 'religious liberty', 'christian values', 'traditional values',
+      'school choice', 'vouchers', 'charter schools', 'homeschooling',
+      'deregulation', 'regulatory reform', 'small government', 'limited government',
+      'free market', 'capitalism', 'free enterprise', 'economic freedom',
+      'military spending', 'defense budget', 'veterans', 'support our troops',
+      'law and order', 'tough on crime', 'death penalty', 'capital punishment',
+      'voter id', 'voter identification', 'election integrity', 'voter fraud',
+      'energy independence', 'oil drilling', 'fracking', 'coal', 'fossil fuels',
+      'states rights', 'federalism', 'constitutional rights',
+      'family values', 'traditional marriage', 'pro-family',
+      'welfare reform', 'work requirements', 'welfare to work',
+      'supreme court', 'judicial appointments', 'originalism', 'textualism',
+      'cancel culture', 'woke', 'critical race theory', 'crt'
+    ]
+
+    // Centrist keywords
+    const CENTRIST_KEYWORDS = [
+      'bipartisan', 'compromise', 'moderate', 'centrist', 'independent',
+      'infrastructure', 'roads', 'bridges', 'transportation',
+      'cybersecurity', 'national security', 'homeland security',
+      'trade agreement', 'trade deal', 'nafta', 'usmca',
+      'budget', 'debt ceiling', 'government shutdown', 'appropriations'
+    ]
+
+    // Non-political keywords
+    const NON_POLITICAL_KEYWORDS = [
+      'weather', 'sports', 'entertainment', 'music', 'movie', 'tv show',
+      'recipe', 'cooking', 'food', 'restaurant', 'shopping', 'sale',
+      'technology', 'gadget', 'app', 'software', 'game', 'video game',
+      'health', 'fitness', 'exercise', 'diet', 'medical', 'disease',
+      'science', 'research', 'study', 'discovery', 'space', 'astronomy'
+    ]
+
+    // Check for non-political keywords first
+    if (NON_POLITICAL_KEYWORDS.some(keyword => normalized.includes(keyword))) {
+      return undefined
+    }
+
+    let leftScore = 0
+    let rightScore = 0
+    let centristScore = 0
+
+    // Score keywords
+    LEFT_KEYWORDS.forEach(keyword => {
+      if (normalized.includes(keyword.toLowerCase())) {
+        const weight = keyword.split(' ').length * 2
+        leftScore += weight
+      }
+    })
+
+    RIGHT_KEYWORDS.forEach(keyword => {
+      if (normalized.includes(keyword.toLowerCase())) {
+        const weight = keyword.split(' ').length * 2
+        rightScore += weight
+      }
+    })
+
+    CENTRIST_KEYWORDS.forEach(keyword => {
+      if (normalized.includes(keyword.toLowerCase())) {
+        const weight = keyword.split(' ').length * 2
+        centristScore += weight
+      }
+    })
+
+    // If no political keywords found, return undefined
+    if (leftScore === 0 && rightScore === 0 && centristScore === 0) {
+      return undefined
+    }
+
+    // Calculate final score
+    const netScore = leftScore - rightScore
+    const centristModifier = Math.min(centristScore * 0.5, Math.abs(netScore))
+    
+    let finalScore = netScore > 0 
+      ? netScore - centristModifier 
+      : netScore + centristModifier
+
+    // Normalize to -100 to +100 range
+    if (finalScore > 100) finalScore = 100
+    if (finalScore < -100) finalScore = -100
+
+    return Math.round(finalScore)
+  }
+
   // First, format all trends with relevance scores
   const formatted = trends.map(trend => {
     const relevanceScore = calculateRelevanceScore(trend.searchVolume, trend.started, trend.percentageIncrease)
+    const politicalLeaning = classifyPoliticalLeaning(trend.title)
     
     return {
       name: trend.title,
@@ -1361,7 +1480,8 @@ export function formatTrendsForOutput(trends) {
       started: trend.started,
       trendBreakdown: trend.trendBreakdown,
       percentageIncrease: trend.percentageIncrease || null,
-      link: trend.link
+      link: trend.link,
+      politicalLeaning: politicalLeaning !== undefined ? politicalLeaning : null
     }
   })
   

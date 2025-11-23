@@ -1,36 +1,20 @@
 {
-  "timestamp": "2025-11-17T20:24:34.629Z",
+  "timestamp": "2025-11-23T01:22:52.179Z",
   "states": [
     {
       "name": "New Jersey",
       "code": "NJ",
-      "topTopic": "sheikh hasina",
+      "topTopic": "uab football",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
         {
-          "name": "sheikh hasina",
+          "name": "uab football",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "7h ago",
+          "started": "4h ago",
           "percentageIncrease": "600%"
-        },
-        {
-          "name": "venezuelan military",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "22h ago",
-          "percentageIncrease": "600%"
-        },
-        {
-          "name": "oj simpson",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "15h ago",
-          "percentageIncrease": "300%"
         }
       ]
     }

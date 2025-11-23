@@ -1,20 +1,20 @@
 {
-  "timestamp": "2025-11-17T20:24:34.629Z",
+  "timestamp": "2025-11-23T01:22:52.179Z",
   "states": [
     {
       "name": "Washington",
       "code": "WA",
-      "topTopic": "portugal",
+      "topTopic": "latest",
       "category": "Law and Government",
-      "trendingScore": 100,
+      "trendingScore": 95,
       "topics": [
         {
-          "name": "portugal",
-          "relevanceScore": 100,
+          "name": "latest",
+          "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "19h ago",
-          "percentageIncrease": "500%"
+          "started": "15h ago",
+          "percentageIncrease": "300%"
         }
       ]
     }

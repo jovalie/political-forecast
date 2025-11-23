@@ -5,6 +5,7 @@
   width: 60px;
   height: 32px;
   cursor: pointer;
+  z-index: 1001; /* Ensure toggle stays visible above map */
 }
 
 /* Hide the default checkbox */
@@ -110,6 +111,8 @@
     height: 26px;
     flex-shrink: 0; /* Prevent toggle from shrinking */
     min-width: 48px; /* Ensure minimum width */
+    position: relative;
+    z-index: 1001; /* Keep toggle above map and sidebar */
   }
   
   .theme-toggle-slider {

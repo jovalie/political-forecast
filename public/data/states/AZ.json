@@ -1,20 +1,28 @@
 {
-  "timestamp": "2025-11-17T20:24:34.629Z",
+  "timestamp": "2025-11-23T01:22:52.179Z",
   "states": [
     {
       "name": "Arizona",
       "code": "AZ",
-      "topTopic": "oj simpson",
+      "topTopic": "tempe tavern",
       "category": "Law and Government",
-      "trendingScore": 95,
+      "trendingScore": 100,
       "topics": [
         {
-          "name": "oj simpson",
+          "name": "tempe tavern",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "1K+",
+          "started": "20h ago",
+          "percentageIncrease": "600%"
+        },
+        {
+          "name": "orangewood school",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "6h ago",
-          "percentageIncrease": "200%"
+          "started": "22h ago",
+          "percentageIncrease": "300%"
         }
       ]
     }

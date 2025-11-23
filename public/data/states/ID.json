@@ -1,20 +1,68 @@
 {
-  "timestamp": "2025-11-17T20:24:34.629Z",
+  "timestamp": "2025-11-23T01:22:52.179Z",
   "states": [
     {
       "name": "Idaho",
       "code": "ID",
-      "topTopic": "fox news",
+      "topTopic": "latest",
       "category": "Law and Government",
-      "trendingScore": 85,
+      "trendingScore": 100,
       "topics": [
         {
-          "name": "fox news",
-          "relevanceScore": 85,
+          "name": "latest",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "5K+",
+          "started": "22h ago",
+          "percentageIncrease": "1000%"
+        },
+        {
+          "name": "global",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "20h ago",
+          "percentageIncrease": "500%"
+        },
+        {
+          "name": "common",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "20h ago",
+          "percentageIncrease": "500%"
+        },
+        {
+          "name": "word",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "21h ago",
+          "percentageIncrease": "400%"
+        },
+        {
+          "name": "uk",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "20h ago",
+          "percentageIncrease": "400%"
+        },
+        {
+          "name": "employee",
+          "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "8h ago",
-          "percentageIncrease": "50%"
+          "started": "15h ago",
+          "percentageIncrease": "100%"
+        },
+        {
+          "name": "government",
+          "relevanceScore": 90,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "16h ago",
+          "percentageIncrease": "100%"
         }
       ]
     }

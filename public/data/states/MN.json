@@ -1,14 +1,23 @@
 {
-  "timestamp": "2025-11-17T04:47:44.555Z",
+  "timestamp": "2025-11-23T01:22:52.179Z",
   "states": [
     {
       "name": "Minnesota",
       "code": "MN",
+      "topTopic": "temporary protected status",
       "category": "Law and Government",
-      "topics": [],
-      "topTopic": "",
-      "trendingScore": 0,
-      "timestamp": "2025-11-17T04:47:44.555Z"
+      "trendingScore": 100,
+      "topics": [
+        {
+          "name": "temporary protected status",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "1K+",
+          "started": "22h ago",
+          "trendBreakdown": "trump",
+          "percentageIncrease": "600%"
+        }
+      ]
     }
   ]
 }
