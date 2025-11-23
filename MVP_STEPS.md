@@ -162,6 +162,13 @@ This guide outlines the step-by-step process for building the Political Forecast
 - [ ] Apply colors to state polygons
 - [ ] Create color legend component (optional for MVP)
 
+### Step 6.3: Dark Mode Improvements
+- [x] Improve dark mode state colors and borders
+- [x] Darken state borders in dark mode for better visibility
+- [x] Improve dark theme state color contrast
+- [x] Make dark theme states brighter, ensure no topics appear black
+- [x] Test dark mode color consistency across all components
+
 ### Step 6.2: Tooltip Enhancement
 - [x] Tooltip infrastructure complete (shows state name)
 - [x] Update tooltip to display top topic when data is loaded (see Phase 5.1)
@@ -200,6 +207,8 @@ This guide outlines the step-by-step process for building the Political Forecast
 - [x] Include search volume, started time, and trend breakdown in JSON output
 - [x] Generate state-level JSON files with complete data structure
 - [x] Validate data before saving
+- [x] Add political leaning classification to topics during ingestion
+- [x] Fix Started timestamp to be relative to current time (not scrape time)
 
 ### Step 7.4: DMA Data Processing (Future Phase)
 - [ ] Research DMA boundaries and data
@@ -446,6 +455,7 @@ This guide outlines the step-by-step process for building the Political Forecast
 - Color legend
 - Advanced analytics
 - Historical data tracking
+- Political leaning filter with slider (blue-to-red scale)
 
 ## Quick Start Commands Reference
 
@@ -504,15 +514,16 @@ npm run lint           # Lint code (if configured)
 - ⚠️ Phase 13-16: Pending (Automation & Launch)
 
 **Remaining MVP Timeline**: 
-- ✅ Phase 5: Complete (Sidebar & Data Integration)
-- Phase 6: 0.5 days (Visualization polish - tooltips complete, color coding optional)
-- ✅ Phase 7: Complete (Data Ingestion Script - Web scraping implemented and tested)
+- ✅ Phase 5: Complete (Sidebar & Data Integration - includes political leaning display)
+- ✅ Phase 6: Complete (Visualization polish - tooltips complete, dark mode improvements done, color coding optional)
+- ✅ Phase 7: Complete (Data Ingestion Script - Web scraping implemented with political leaning classification)
 - Phase 8: Optional (Unique Topic Mode - implement after web scraping)
-- ✅ Phase 9: Complete (Integration & Testing - real data connected, production fixes applied)
+- ✅ Phase 9: Complete (Integration & Testing - real data connected, production fixes applied, accessibility complete)
 - ✅ Phase 10-12: Complete (Deployment - GitHub Pages deployed and working)
-- Phase 13-16: 2-3 days (Automation & Launch - data ingestion automation, monitoring)
+- ✅ Phase 13: Complete (Data Ingestion Automation - GitHub Actions workflow running every 2 hours)
+- Phase 14-16: 1-2 days (Production Optimization, Documentation, Post-Launch Monitoring)
 
-**Total Remaining**: ~2-3 days (automation and final polish)
+**Total Remaining**: ~1-2 days (final polish, documentation, monitoring)
 
 ## Future Enhancements (Post-MVP)
 
