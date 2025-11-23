@@ -1,20 +1,21 @@
 {
-  "timestamp": "2025-11-17T20:24:34.629Z",
+  "timestamp": "2025-11-23T01:22:52.179Z",
   "states": [
     {
       "name": "Maryland",
       "code": "MD",
-      "topTopic": "portugal",
+      "topTopic": "alexis wilkins",
       "category": "Law and Government",
-      "trendingScore": 100,
+      "trendingScore": 95,
       "topics": [
         {
-          "name": "portugal",
-          "relevanceScore": 100,
+          "name": "alexis wilkins",
+          "relevanceScore": 95,
           "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "21h ago",
-          "percentageIncrease": "800%"
+          "searchVolume": "100+",
+          "started": "2h ago",
+          "trendBreakdown": "kash",
+          "percentageIncrease": "300%"
         }
       ]
     }

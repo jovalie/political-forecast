@@ -1,246 +1,204 @@
 {
-  "timestamp": "2025-11-18T06:13:17.031Z",
+  "timestamp": "2025-11-23T01:22:52.179Z",
   "states": [
     {
       "name": "California",
       "code": "CA",
-      "topTopic": "alaska airlines pilot sentenced",
+      "topTopic": "uab",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
         {
-          "name": "alaska airlines pilot sentenced",
+          "name": "uab",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "2K+",
+          "started": "5h ago",
+          "percentageIncrease": "600%"
+        },
+        {
+          "name": "common",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "1K+",
+          "started": "15h ago",
+          "percentageIncrease": "700%"
+        },
+        {
+          "name": "us",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "1K+",
+          "started": "14h ago",
+          "percentageIncrease": "600%"
+        },
+        {
+          "name": "sri",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "3h ago",
+          "started": "15h ago",
           "percentageIncrease": "500%"
         },
         {
-          "name": "sheikh hasina",
-          "relevanceScore": 95,
+          "name": "global",
+          "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "5K+",
-          "started": "19h ago",
-          "percentageIncrease": "400%"
+          "searchVolume": "500+",
+          "started": "14h ago",
+          "percentageIncrease": "600%"
         },
         {
-          "name": "alexis wilkins",
+          "name": "mark kelly",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "500+",
           "started": "2h ago",
-          "trendBreakdown": "kash",
-          "percentageIncrease": "200%"
+          "percentageIncrease": "300%"
         },
         {
-          "name": "lindsey halligan",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "11h ago",
-          "trendBreakdown": "new",
-          "percentageIncrease": "400%"
-        },
-        {
-          "name": "no tax on overtime",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "8h ago",
-          "percentageIncrease": "200%"
-        },
-        {
-          "name": "tekashi",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "12h ago",
-          "percentageIncrease": "200%"
-        },
-        {
-          "name": "storage",
+          "name": "iraq",
           "relevanceScore": 90,
           "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "10h ago",
+          "searchVolume": "100+",
+          "started": "15h ago",
           "percentageIncrease": "100%"
-        },
-        {
-          "name": "vnexpress",
-          "relevanceScore": 85,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "16h ago",
-          "percentageIncrease": "75%"
-        },
-        {
-          "name": "san diego news",
-          "relevanceScore": 85,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "16h ago",
-          "percentageIncrease": "50%"
         }
       ]
     },
     {
       "name": "Arizona",
       "code": "AZ",
-      "topTopic": "oj simpson",
+      "topTopic": "tempe tavern",
       "category": "Law and Government",
-      "trendingScore": 95,
+      "trendingScore": 100,
       "topics": [
         {
-          "name": "oj simpson",
+          "name": "tempe tavern",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "1K+",
+          "started": "20h ago",
+          "percentageIncrease": "600%"
+        },
+        {
+          "name": "orangewood school",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "16h ago",
-          "percentageIncrease": "200%"
+          "started": "22h ago",
+          "percentageIncrease": "300%"
         }
       ]
     },
     {
       "name": "Florida",
       "code": "FL",
-      "topTopic": "alaska airlines pilot sentenced",
+      "topTopic": "uab football",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
         {
-          "name": "alaska airlines pilot sentenced",
+          "name": "uab football",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "1h ago",
-          "percentageIncrease": "500%"
-        },
-        {
-          "name": "george w bush",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "4h ago",
-          "trendBreakdown": "george",
-          "percentageIncrease": "700%"
-        },
-        {
-          "name": "sheikh hasina",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "17h ago",
-          "percentageIncrease": "300%"
-        },
-        {
-          "name": "alexis wilkins",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "2h ago",
-          "trendBreakdown": "kash",
-          "percentageIncrease": "300%"
-        },
-        {
-          "name": "storage",
-          "relevanceScore": 85,
-          "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "10h ago",
-          "percentageIncrease": "50%"
-        },
-        {
-          "name": "ny post",
-          "relevanceScore": 85,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "18h ago",
-          "percentageIncrease": "75%"
+          "searchVolume": "2K+",
+          "started": "6h ago",
+          "trendBreakdown": "minceydaniel",
+          "percentageIncrease": "1000%"
         }
       ]
     },
     {
       "name": "Georgia",
       "code": "GA",
-      "topTopic": "sheikh hasina",
+      "topTopic": "uab football",
       "category": "Law and Government",
-      "trendingScore": 95,
+      "trendingScore": 100,
       "topics": [
         {
-          "name": "sheikh hasina",
+          "name": "uab football",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "2K+",
+          "started": "5h ago",
+          "trendBreakdown": "minceydaniel",
+          "percentageIncrease": "1000%"
+        },
+        {
+          "name": "hamilton place mall",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "4h ago",
+          "percentageIncrease": "700%"
+        },
+        {
+          "name": "unc charlotte",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "7h ago",
+          "percentageIncrease": "500%"
+        },
+        {
+          "name": "charlotte",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "13h ago",
+          "started": "7h ago",
           "percentageIncrease": "400%"
+        },
+        {
+          "name": "matthew lanz",
+          "relevanceScore": 90,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "14h ago",
+          "percentageIncrease": "100%"
         }
       ]
     },
     {
       "name": "Illinois",
       "code": "IL",
-      "topTopic": "maria pappas",
+      "topTopic": "uab football",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
         {
-          "name": "maria pappas",
+          "name": "uab football",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "8h ago",
-          "percentageIncrease": "1000%"
-        },
-        {
-          "name": "alaska airlines pilot sentenced",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "1h ago",
-          "percentageIncrease": "800%"
-        },
-        {
-          "name": "sheikh hasina",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "16h ago",
+          "started": "5h ago",
+          "trendBreakdown": "minceydaniel",
           "percentageIncrease": "600%"
         },
         {
-          "name": "oj simpson death",
+          "name": "us",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "6h ago",
-          "percentageIncrease": "400%"
-        },
-        {
-          "name": "fema",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "10h ago",
-          "percentageIncrease": "400%"
+          "started": "15h ago",
+          "percentageIncrease": "200%"
         }
       ]
     },
     {
       "name": "Indiana",
       "code": "IN",
-      "topTopic": "curt andersen",
+      "topTopic": "fascist",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
         {
-          "name": "curt andersen",
+          "name": "fascist",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "2K+",
-          "started": "10h ago",
-          "trendBreakdown": "voluntary",
-          "percentageIncrease": "1000%"
+          "searchVolume": "500+",
+          "started": "22h ago",
+          "percentageIncrease": "500%"
         }
       ]
     },
@@ -265,25 +223,17 @@
     {
       "name": "Michigan",
       "code": "MI",
-      "topTopic": "prime",
+      "topTopic": "uab football",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
         {
-          "name": "prime",
+          "name": "uab football",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "75K+",
-          "started": "16h ago",
-          "percentageIncrease": "1000%"
-        },
-        {
-          "name": "sheikh hasina",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "15h ago",
-          "percentageIncrease": "900%"
+          "searchVolume": "500+",
+          "started": "4h ago",
+          "percentageIncrease": "800%"
         }
       ]
     },
@@ -332,101 +282,68 @@
     {
       "name": "New Jersey",
       "code": "NJ",
-      "topTopic": "sheikh hasina",
+      "topTopic": "uab football",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
         {
-          "name": "sheikh hasina",
+          "name": "uab football",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "17h ago",
+          "started": "4h ago",
           "percentageIncrease": "600%"
-        },
-        {
-          "name": "oj simpson death",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "6h ago",
-          "percentageIncrease": "500%"
-        },
-        {
-          "name": "alexis wilkins",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "2h ago",
-          "trendBreakdown": "kash",
-          "percentageIncrease": "400%"
         }
       ]
     },
     {
       "name": "North Carolina",
       "code": "NC",
-      "topTopic": "ice in raleigh nc",
+      "topTopic": "uab football",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
         {
-          "name": "ice in raleigh nc",
+          "name": "uab football",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "1K+",
           "started": "5h ago",
-          "trendBreakdown": "raleigh",
+          "trendBreakdown": "minceydaniel",
           "percentageIncrease": "1000%"
+        },
+        {
+          "name": "wfmy news",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "17h ago",
+          "trendBreakdown": "greensboro",
+          "percentageIncrease": "200%"
         }
       ]
     },
     {
       "name": "New York",
       "code": "NY",
-      "topTopic": "sheikh hasina",
+      "topTopic": "uab",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
         {
-          "name": "sheikh hasina",
+          "name": "uab",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "2K+",
-          "started": "18h ago",
-          "trendBreakdown": "prime",
-          "percentageIncrease": "800%"
+          "started": "5h ago",
+          "percentageIncrease": "700%"
         },
         {
-          "name": "miriam yarimi",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "7h ago",
-          "percentageIncrease": "500%"
-        },
-        {
-          "name": "lindsey halligan",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "11h ago",
-          "percentageIncrease": "500%"
-        },
-        {
-          "name": "alaska airlines pilot sentenced",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "1h ago",
-          "percentageIncrease": "1000%"
-        },
-        {
-          "name": "wktv",
+          "name": "donald trump",
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "19h ago",
+          "started": "18h ago",
           "percentageIncrease": "100%"
         }
       ]
@@ -434,53 +351,52 @@
     {
       "name": "Ohio",
       "code": "OH",
-      "topTopic": "oj simpson death",
+      "topTopic": "uab football",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
         {
-          "name": "oj simpson death",
+          "name": "uab football",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "4h ago",
-          "trendBreakdown": "simpsonoj",
-          "percentageIncrease": "800%"
+          "searchVolume": "2K+",
+          "started": "5h ago",
+          "trendBreakdown": "minceydaniel",
+          "percentageIncrease": "1000%"
         }
       ]
     },
     {
       "name": "Oregon",
       "code": "OR",
-      "topTopic": "devon dobek update",
+      "topTopic": "fascist",
       "category": "Law and Government",
       "trendingScore": 95,
       "topics": [
         {
-          "name": "devon dobek update",
+          "name": "fascist",
           "relevanceScore": 95,
           "category": "Law and Government",
-          "searchVolume": "200+",
-          "started": "21h ago",
-          "trendBreakdown": "devon",
-          "percentageIncrease": "300%"
+          "searchVolume": "100+",
+          "started": "17h ago",
+          "percentageIncrease": "200%"
         }
       ]
     },
     {
       "name": "Pennsylvania",
       "code": "PA",
-      "topTopic": "sheikh hasina",
+      "topTopic": "uab",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
         {
-          "name": "sheikh hasina",
+          "name": "uab",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "16h ago",
-          "percentageIncrease": "600%"
+          "searchVolume": "1K+",
+          "started": "5h ago",
+          "percentageIncrease": "700%"
         }
       ]
     },
@@ -504,159 +420,118 @@
     {
       "name": "Tennessee",
       "code": "TN",
-      "topTopic": "wolfchase galleria",
+      "topTopic": "hamilton place mall",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
         {
-          "name": "wolfchase galleria",
+          "name": "hamilton place mall",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "2K+",
-          "started": "8h ago",
-          "trendBreakdown": "wolfchase",
-          "percentageIncrease": "900%"
+          "started": "5h ago",
+          "percentageIncrease": "1000%"
         },
         {
-          "name": "alexis wilkins",
-          "relevanceScore": 95,
+          "name": "uab football",
+          "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "9h ago",
-          "percentageIncrease": "400%"
-        },
-        {
-          "name": "knoxville weather",
-          "relevanceScore": 85,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "18h ago",
-          "percentageIncrease": "50%"
+          "searchVolume": "1K+",
+          "started": "5h ago",
+          "trendBreakdown": "daniel",
+          "percentageIncrease": "1000%"
         }
       ]
     },
     {
       "name": "Texas",
       "code": "TX",
-      "topTopic": "george w bush",
+      "topTopic": "uab football",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
         {
-          "name": "george w bush",
+          "name": "uab football",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "4h ago",
-          "trendBreakdown": "george",
-          "percentageIncrease": "700%"
+          "searchVolume": "2K+",
+          "started": "5h ago",
+          "trendBreakdown": "minceydaniel",
+          "percentageIncrease": "900%"
         },
         {
-          "name": "sheikh hasina",
+          "name": "natalie greene",
           "relevanceScore": 95,
           "category": "Law and Government",
-          "searchVolume": "2K+",
-          "started": "17h ago",
-          "percentageIncrease": "400%"
+          "searchVolume": "100+",
+          "started": "1h ago",
+          "percentageIncrease": "200%"
         },
         {
-          "name": "dallas",
+          "name": "northpark mall",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "4h ago",
+          "started": "24h ago",
           "percentageIncrease": "300%"
         },
         {
-          "name": "storage",
-          "relevanceScore": 90,
+          "name": "supreme court texas redistricting",
+          "relevanceScore": 95,
           "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "10h ago",
-          "percentageIncrease": "100%"
+          "searchVolume": "100+",
+          "started": "6h ago",
+          "percentageIncrease": "200%"
+        },
+        {
+          "name": "abc",
+          "relevanceScore": 85,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "13h ago",
+          "percentageIncrease": "50%"
         }
       ]
     },
     {
       "name": "Virginia",
       "code": "VA",
-      "topTopic": "river north correctional center",
+      "topTopic": "uab football",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
         {
-          "name": "river north correctional center",
+          "name": "uab football",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "2K+",
-          "started": "14h ago",
-          "percentageIncrease": "1000%"
-        },
-        {
-          "name": "sheikh hasina",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "17h ago",
-          "percentageIncrease": "600%"
-        },
-        {
-          "name": "fema",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "10h ago",
-          "percentageIncrease": "700%"
-        },
-        {
-          "name": "amber czech",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "3h ago",
-          "percentageIncrease": "200%"
+          "searchVolume": "1K+",
+          "started": "5h ago",
+          "percentageIncrease": "900%"
         }
       ]
     },
     {
       "name": "District of Columbia",
       "code": "DC",
-      "topTopic": "sheikh hasina",
+      "topTopic": "uab football",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
         {
-          "name": "sheikh hasina",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "17h ago",
-          "percentageIncrease": "800%"
-        },
-        {
-          "name": "lindsey halligan",
+          "name": "uab football",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "11h ago",
-          "percentageIncrease": "800%"
+          "started": "4h ago",
+          "percentageIncrease": "600%"
         },
         {
-          "name": "fema",
+          "name": "magruder high school",
           "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "11h ago",
-          "trendBreakdown": "david",
-          "percentageIncrease": "700%"
-        },
-        {
-          "name": "alexis wilkins",
-          "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "10h ago",
-          "percentageIncrease": "300%"
+          "started": "11h ago",
+          "percentageIncrease": "600%"
         }
       ]
     },
@@ -697,35 +572,35 @@
     {
       "name": "Washington",
       "code": "WA",
-      "topTopic": "oj simpson",
+      "topTopic": "latest",
       "category": "Law and Government",
       "trendingScore": 95,
       "topics": [
         {
-          "name": "oj simpson",
+          "name": "latest",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "14h ago",
-          "trendBreakdown": "abc",
-          "percentageIncrease": "200%"
+          "started": "15h ago",
+          "percentageIncrease": "300%"
         }
       ]
     },
     {
       "name": "Alabama",
       "code": "AL",
-      "topTopic": "news",
+      "topTopic": "uab football",
       "category": "Law and Government",
-      "trendingScore": 85,
+      "trendingScore": 95,
       "topics": [
         {
-          "name": "news",
-          "relevanceScore": 85,
+          "name": "uab football",
+          "relevanceScore": 95,
           "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "12h ago",
-          "percentageIncrease": "50%"
+          "searchVolume": "5K+",
+          "started": "7h ago",
+          "trendBreakdown": "daniel",
+          "percentageIncrease": "200%"
         }
       ]
     },
@@ -766,17 +641,207 @@
     {
       "name": "Colorado",
       "code": "CO",
-      "topTopic": "george w bush",
+      "topTopic": "latest",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
         {
-          "name": "george w bush",
+          "name": "latest",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "3h ago",
+          "searchVolume": "5K+",
+          "started": "16h ago",
+          "percentageIncrease": "1000%"
+        },
+        {
+          "name": "word",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "1K+",
+          "started": "16h ago",
+          "percentageIncrease": "1000%"
+        },
+        {
+          "name": "global",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "1K+",
+          "started": "16h ago",
           "percentageIncrease": "900%"
+        },
+        {
+          "name": "uk",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "1K+",
+          "started": "16h ago",
+          "percentageIncrease": "800%"
+        },
+        {
+          "name": "sri",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "16h ago",
+          "percentageIncrease": "800%"
+        },
+        {
+          "name": "drug",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "16h ago",
+          "percentageIncrease": "700%"
+        },
+        {
+          "name": "william",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "16h ago",
+          "percentageIncrease": "700%"
+        },
+        {
+          "name": "who",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "16h ago",
+          "percentageIncrease": "1000%"
+        },
+        {
+          "name": "environmental",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "16h ago",
+          "percentageIncrease": "700%"
+        },
+        {
+          "name": "imf",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "15h ago",
+          "percentageIncrease": "600%"
+        }
+      ]
+    },
+    {
+      "name": "Idaho",
+      "code": "ID",
+      "topTopic": "latest",
+      "category": "Law and Government",
+      "trendingScore": 100,
+      "topics": [
+        {
+          "name": "latest",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "5K+",
+          "started": "22h ago",
+          "percentageIncrease": "1000%"
+        },
+        {
+          "name": "global",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "20h ago",
+          "percentageIncrease": "500%"
+        },
+        {
+          "name": "common",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "20h ago",
+          "percentageIncrease": "500%"
+        },
+        {
+          "name": "word",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "21h ago",
+          "percentageIncrease": "400%"
+        },
+        {
+          "name": "uk",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "20h ago",
+          "percentageIncrease": "400%"
+        },
+        {
+          "name": "employee",
+          "relevanceScore": 90,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "15h ago",
+          "percentageIncrease": "100%"
+        },
+        {
+          "name": "government",
+          "relevanceScore": 90,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "16h ago",
+          "percentageIncrease": "100%"
+        }
+      ]
+    },
+    {
+      "name": "Kentucky",
+      "code": "KY",
+      "topTopic": "daniel mincey",
+      "category": "Law and Government",
+      "trendingScore": 100,
+      "topics": [
+        {
+          "name": "daniel mincey",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "4h ago",
+          "trendBreakdown": "uab",
+          "percentageIncrease": "600%"
+        }
+      ]
+    },
+    {
+      "name": "Minnesota",
+      "code": "MN",
+      "topTopic": "temporary protected status",
+      "category": "Law and Government",
+      "trendingScore": 100,
+      "topics": [
+        {
+          "name": "temporary protected status",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "1K+",
+          "started": "22h ago",
+          "trendBreakdown": "trump",
+          "percentageIncrease": "600%"
+        }
+      ]
+    },
+    {
+      "name": "Nebraska",
+      "code": "NE",
+      "topTopic": "latest",
+      "category": "Law and Government",
+      "trendingScore": 90,
+      "topics": [
+        {
+          "name": "latest",
+          "relevanceScore": 90,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "16h ago",
+          "percentageIncrease": "100%"
         }
       ]
     }

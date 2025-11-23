@@ -1,20 +1,21 @@
 {
-  "timestamp": "2025-11-17T20:24:34.629Z",
+  "timestamp": "2025-11-23T01:22:52.179Z",
   "states": [
     {
       "name": "Ohio",
       "code": "OH",
-      "topTopic": "why are the flags at half mast today",
+      "topTopic": "uab football",
       "category": "Law and Government",
-      "trendingScore": 95,
+      "trendingScore": 100,
       "topics": [
         {
-          "name": "why are the flags at half mast today",
-          "relevanceScore": 95,
+          "name": "uab football",
+          "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "19h ago",
-          "percentageIncrease": "300%"
+          "searchVolume": "2K+",
+          "started": "5h ago",
+          "trendBreakdown": "minceydaniel",
+          "percentageIncrease": "1000%"
         }
       ]
     }

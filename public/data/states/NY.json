@@ -1,61 +1,27 @@
 {
-  "timestamp": "2025-11-17T20:24:34.629Z",
+  "timestamp": "2025-11-23T01:22:52.179Z",
   "states": [
     {
       "name": "New York",
       "code": "NY",
-      "topTopic": "sheikh hasina",
+      "topTopic": "uab",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
         {
-          "name": "sheikh hasina",
+          "name": "uab",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "2K+",
-          "started": "8h ago",
-          "percentageIncrease": "1000%"
+          "started": "5h ago",
+          "percentageIncrease": "700%"
         },
         {
-          "name": "lindsey halligan",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "1h ago",
-          "trendBreakdown": "fox",
-          "percentageIncrease": "800%"
-        },
-        {
-          "name": "fema",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "50 minutes ago",
-          "percentageIncrease": "500%"
-        },
-        {
-          "name": "cne ecuador",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "21h ago",
-          "trendBreakdown": "consulta",
-          "percentageIncrease": "300%"
-        },
-        {
-          "name": "food",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "13h ago",
-          "percentageIncrease": "400%"
-        },
-        {
-          "name": "wktv",
+          "name": "donald trump",
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "9h ago",
+          "started": "18h ago",
           "percentageIncrease": "100%"
         }
       ]

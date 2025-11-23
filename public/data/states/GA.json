@@ -1,28 +1,53 @@
 {
-  "timestamp": "2025-11-17T20:24:34.629Z",
+  "timestamp": "2025-11-23T01:22:52.179Z",
   "states": [
     {
       "name": "Georgia",
       "code": "GA",
-      "topTopic": "venezuelan military",
+      "topTopic": "uab football",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
         {
-          "name": "venezuelan military",
+          "name": "uab football",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "2K+",
+          "started": "5h ago",
+          "trendBreakdown": "minceydaniel",
+          "percentageIncrease": "1000%"
+        },
+        {
+          "name": "hamilton place mall",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "4h ago",
+          "percentageIncrease": "700%"
+        },
+        {
+          "name": "unc charlotte",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "23h ago",
-          "percentageIncrease": "600%"
+          "started": "7h ago",
+          "percentageIncrease": "500%"
         },
         {
-          "name": "sheikh hasina",
+          "name": "charlotte",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "3h ago",
+          "started": "7h ago",
           "percentageIncrease": "400%"
+        },
+        {
+          "name": "matthew lanz",
+          "relevanceScore": 90,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "14h ago",
+          "percentageIncrease": "100%"
         }
       ]
     }
