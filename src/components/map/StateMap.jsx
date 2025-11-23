@@ -188,6 +188,13 @@ const GeoJSONRenderer = ({ geoJSONDataRef, styleRef, onEachFeatureRef, dataReady
         layer._path.style.userSelect = 'none'
         layer._path.style.webkitUserSelect = 'none'
         
+        // Add ARIA attributes for accessibility
+        const stateName = layer.feature?.properties?.name || 'Unknown State'
+        const topTopic = layer.feature?.properties?.topTopic || 'trending topics'
+        layer._path.setAttribute('role', 'button')
+        layer._path.setAttribute('aria-label', `View trending topics for ${stateName}. Top topic: ${topTopic}`)
+        layer._path.setAttribute('tabindex', '0')
+        
         const pathClickHandler = (e) => {
           console.log('[StateMap] Path click handler fired', layer.feature?.properties?.name)
           if (layer.fire) {
@@ -592,6 +599,10 @@ const StateMap = ({
     if (layer.setInteractive) {
       layer.setInteractive(true)
     }
+    
+    // Add ARIA attributes for accessibility (will be applied when path is created)
+    // Note: Path elements are created asynchronously, so ARIA attributes are added
+    // in the attachTouchHandlers function when the path becomes available
     
     // Handle both click and touch events for mobile compatibility
     const handleStateInteraction = (e) => {

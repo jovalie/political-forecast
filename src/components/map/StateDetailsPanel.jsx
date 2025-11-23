@@ -158,7 +158,14 @@ const StateDetailsPanel = ({ isOpen, onClose, stateData, dataTimestamp }) => {
           <button
             className="state-details-close"
             onClick={onClose}
-            aria-label="Close state details"
+            onKeyDown={(e) => {
+              if (e.key === 'Enter' || e.key === ' ') {
+                e.preventDefault()
+                onClose()
+              }
+            }}
+            aria-label="Close state details panel"
+            aria-describedby="state-details-title"
           >
             ×
           </button>

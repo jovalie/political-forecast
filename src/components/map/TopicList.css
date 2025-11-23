@@ -94,6 +94,44 @@
   margin: 0;
 }
 
+/* Political Leaning Styles */
+.topic-political-leaning {
+  display: flex;
+  align-items: center;
+  gap: calc(var(--spacing-unit) * 0.25);
+}
+
+.topic-leaning-score {
+  font-size: 0.85em;
+  opacity: 0.8;
+  font-weight: normal;
+}
+
+.topic-leaning-far-left {
+  font-weight: 600;
+}
+
+.topic-leaning-left-leaning {
+  font-weight: 500;
+}
+
+.topic-leaning-centrist {
+  font-weight: 500;
+}
+
+.topic-leaning-right-leaning {
+  font-weight: 500;
+}
+
+.topic-leaning-far-right {
+  font-weight: 600;
+}
+
+.topic-leaning-non-political {
+  opacity: 0.7;
+  font-style: italic;
+}
+
 /* Mobile Styles */
 @media (max-width: 768px) {
   .topic-link {
