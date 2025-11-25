@@ -1,53 +1,29 @@
 {
-  "timestamp": "2025-11-23T01:22:52.179Z",
+  "timestamp": "2025-11-25T01:49:39.378Z",
   "states": [
     {
       "name": "Georgia",
       "code": "GA",
-      "topTopic": "uab football",
+      "topTopic": "mark kelly",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
         {
-          "name": "uab football",
+          "name": "mark kelly",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "2K+",
-          "started": "5h ago",
-          "trendBreakdown": "minceydaniel",
+          "searchVolume": "1K+",
+          "started": "7h ago",
           "percentageIncrease": "1000%"
         },
         {
-          "name": "hamilton place mall",
+          "name": "james comey",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "4h ago",
-          "percentageIncrease": "700%"
-        },
-        {
-          "name": "unc charlotte",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "100+",
+          "searchVolume": "1K+",
           "started": "7h ago",
-          "percentageIncrease": "500%"
-        },
-        {
-          "name": "charlotte",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "7h ago",
-          "percentageIncrease": "400%"
-        },
-        {
-          "name": "matthew lanz",
-          "relevanceScore": 90,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "14h ago",
-          "percentageIncrease": "100%"
+          "trendBreakdown": "lindsey",
+          "percentageIncrease": "600%"
         }
       ]
     }

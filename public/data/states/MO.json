@@ -1,20 +1,36 @@
 {
-  "timestamp": "2025-11-23T01:22:52.179Z",
+  "timestamp": "2025-11-25T01:49:39.378Z",
   "states": [
     {
       "name": "Missouri",
       "code": "MO",
-      "topTopic": "chief",
+      "topTopic": "mark kelly",
       "category": "Law and Government",
-      "trendingScore": 80,
+      "trendingScore": 100,
       "topics": [
         {
-          "name": "chief",
-          "relevanceScore": 80,
+          "name": "mark kelly",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "6h ago",
+          "percentageIncrease": "900%"
+        },
+        {
+          "name": "james comey",
+          "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "3h ago",
-          "percentageIncrease": "600%"
+          "started": "6h ago",
+          "percentageIncrease": "800%"
+        },
+        {
+          "name": "slenderman stabbing",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "13h ago",
+          "percentageIncrease": "200%"
         }
       ]
     }

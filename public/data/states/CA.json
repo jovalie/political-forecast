@@ -1,67 +1,46 @@
 {
-  "timestamp": "2025-11-23T01:22:52.179Z",
+  "timestamp": "2025-11-25T01:49:39.378Z",
   "states": [
     {
       "name": "California",
       "code": "CA",
-      "topTopic": "uab",
+      "topTopic": "mark kelly",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
         {
-          "name": "uab",
+          "name": "mark kelly",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "2K+",
-          "started": "5h ago",
-          "percentageIncrease": "600%"
+          "searchVolume": "5K+",
+          "started": "8h ago",
+          "trendBreakdown": "ruben",
+          "percentageIncrease": "1000%"
         },
         {
-          "name": "common",
+          "name": "james comey",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "15h ago",
+          "searchVolume": "10K+",
+          "started": "7h ago",
+          "trendBreakdown": "lindsey",
           "percentageIncrease": "700%"
         },
         {
-          "name": "us",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "14h ago",
-          "percentageIncrease": "600%"
-        },
-        {
-          "name": "sri",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "15h ago",
-          "percentageIncrease": "500%"
-        },
-        {
-          "name": "global",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "14h ago",
-          "percentageIncrease": "600%"
-        },
-        {
-          "name": "mark kelly",
+          "name": "allan hancock college",
           "relevanceScore": 95,
           "category": "Law and Government",
-          "searchVolume": "500+",
+          "searchVolume": "100+",
           "started": "2h ago",
           "percentageIncrease": "300%"
         },
         {
-          "name": "iraq",
+          "name": "slenderman",
           "relevanceScore": 90,
           "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "15h ago",
+          "searchVolume": "1K+",
+          "started": "23h ago",
+          "trendBreakdown": "slender",
           "percentageIncrease": "100%"
         }
       ]

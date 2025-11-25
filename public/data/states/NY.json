@@ -1,29 +1,63 @@
 {
-  "timestamp": "2025-11-23T01:22:52.179Z",
+  "timestamp": "2025-11-25T01:49:39.378Z",
   "states": [
     {
       "name": "New York",
       "code": "NY",
-      "topTopic": "uab",
+      "topTopic": "mark kelly",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
         {
-          "name": "uab",
+          "name": "mark kelly",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "2K+",
-          "started": "5h ago",
-          "percentageIncrease": "700%"
+          "started": "8h ago",
+          "trendBreakdown": "senator",
+          "percentageIncrease": "1000%"
         },
         {
-          "name": "donald trump",
-          "relevanceScore": 90,
+          "name": "malba queens",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "2K+",
+          "started": "23h ago",
+          "percentageIncrease": "600%"
+        },
+        {
+          "name": "james comey",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "5K+",
+          "started": "7h ago",
+          "trendBreakdown": "letitia",
+          "percentageIncrease": "900%"
+        },
+        {
+          "name": "clarkson university",
+          "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "18h ago",
-          "percentageIncrease": "100%",
-          "politicalLeaning": 3
+          "started": "22h ago",
+          "percentageIncrease": "600%"
+        },
+        {
+          "name": "syracuse",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "30 minutes ago",
+          "percentageIncrease": "200%"
+        },
+        {
+          "name": "slenderman",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "13h ago",
+          "trendBreakdown": "slender",
+          "percentageIncrease": "200%"
         }
       ]
     }

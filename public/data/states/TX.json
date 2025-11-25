@@ -1,54 +1,86 @@
 {
-  "timestamp": "2025-11-23T01:22:52.179Z",
+  "timestamp": "2025-11-25T01:49:39.378Z",
   "states": [
     {
       "name": "Texas",
       "code": "TX",
-      "topTopic": "uab football",
+      "topTopic": "mark kelly",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
         {
-          "name": "uab football",
+          "name": "mark kelly",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "2K+",
-          "started": "5h ago",
-          "trendBreakdown": "minceydaniel",
-          "percentageIncrease": "900%"
+          "started": "8h ago",
+          "percentageIncrease": "1000%"
         },
         {
-          "name": "natalie greene",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "1h ago",
-          "percentageIncrease": "200%"
-        },
-        {
-          "name": "northpark mall",
-          "relevanceScore": 95,
+          "name": "wfaa radar",
+          "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "24h ago",
-          "percentageIncrease": "300%"
-        },
-        {
-          "name": "supreme court texas redistricting",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "6h ago",
-          "percentageIncrease": "200%",
-          "politicalLeaning": 6
+          "started": "15h ago",
+          "percentageIncrease": "700%"
         },
         {
           "name": "abc",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "1K+",
+          "started": "6h ago",
+          "percentageIncrease": "300%"
+        },
+        {
+          "name": "james comey",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "2K+",
+          "started": "7h ago",
+          "trendBreakdown": "lindsey",
+          "percentageIncrease": "400%"
+        },
+        {
+          "name": "insurance",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "40 minutes ago",
+          "percentageIncrease": "200%"
+        },
+        {
+          "name": "payton leutner",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "16h ago",
+          "trendBreakdown": "man",
+          "percentageIncrease": "200%"
+        },
+        {
+          "name": "bethany magee",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "23h ago",
+          "percentageIncrease": "200%"
+        },
+        {
+          "name": "homeland",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "21h ago",
+          "percentageIncrease": "200%"
+        },
+        {
+          "name": "ksat",
           "relevanceScore": 85,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "13h ago",
-          "percentageIncrease": "50%"
+          "started": "12h ago",
+          "percentageIncrease": "75%"
         }
       ]
     }

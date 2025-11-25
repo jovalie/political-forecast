@@ -1,20 +1,20 @@
 {
-  "timestamp": "2025-11-23T01:22:52.179Z",
+  "timestamp": "2025-11-25T01:49:39.378Z",
   "states": [
     {
       "name": "Nebraska",
       "code": "NE",
-      "topTopic": "latest",
+      "topTopic": "beadle middle school",
       "category": "Law and Government",
-      "trendingScore": 90,
+      "trendingScore": 100,
       "topics": [
         {
-          "name": "latest",
-          "relevanceScore": 90,
+          "name": "beadle middle school",
+          "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "16h ago",
-          "percentageIncrease": "100%"
+          "started": "1h ago",
+          "percentageIncrease": "900%"
         }
       ]
     }

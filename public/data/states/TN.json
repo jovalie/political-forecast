@@ -1,29 +1,28 @@
 {
-  "timestamp": "2025-11-23T01:22:52.179Z",
+  "timestamp": "2025-11-25T01:49:39.378Z",
   "states": [
     {
       "name": "Tennessee",
       "code": "TN",
-      "topTopic": "hamilton place mall",
+      "topTopic": "mark kelly",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
         {
-          "name": "hamilton place mall",
+          "name": "mark kelly",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "2K+",
-          "started": "5h ago",
-          "percentageIncrease": "1000%"
+          "searchVolume": "500+",
+          "started": "7h ago",
+          "percentageIncrease": "700%"
         },
         {
-          "name": "uab football",
-          "relevanceScore": 100,
+          "name": "knoxville weather",
+          "relevanceScore": 85,
           "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "5h ago",
-          "trendBreakdown": "daniel",
-          "percentageIncrease": "1000%"
+          "searchVolume": "100+",
+          "started": "13h ago",
+          "percentageIncrease": "50%"
         }
       ]
     }

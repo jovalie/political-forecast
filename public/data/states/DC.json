@@ -1,28 +1,39 @@
 {
-  "timestamp": "2025-11-23T01:22:52.179Z",
+  "timestamp": "2025-11-25T01:49:39.378Z",
   "states": [
     {
       "name": "District of Columbia",
       "code": "DC",
-      "topTopic": "uab football",
+      "topTopic": "mark kelly",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
         {
-          "name": "uab football",
+          "name": "mark kelly",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "4h ago",
-          "percentageIncrease": "600%"
+          "searchVolume": "2K+",
+          "started": "8h ago",
+          "trendBreakdown": "senator",
+          "percentageIncrease": "1000%"
         },
         {
-          "name": "magruder high school",
+          "name": "james comey",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "11h ago",
-          "percentageIncrease": "600%"
+          "searchVolume": "2K+",
+          "started": "7h ago",
+          "trendBreakdown": "lindsey",
+          "percentageIncrease": "800%"
+        },
+        {
+          "name": "slenderman stabbing",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "14h ago",
+          "trendBreakdown": "leutnerpayton",
+          "percentageIncrease": "200%"
         }
       ]
     }

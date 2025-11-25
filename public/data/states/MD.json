@@ -1,21 +1,29 @@
 {
-  "timestamp": "2025-11-23T01:22:52.179Z",
+  "timestamp": "2025-11-25T01:49:39.378Z",
   "states": [
     {
       "name": "Maryland",
       "code": "MD",
-      "topTopic": "alexis wilkins",
+      "topTopic": "mark kelly",
       "category": "Law and Government",
-      "trendingScore": 95,
+      "trendingScore": 100,
       "topics": [
         {
-          "name": "alexis wilkins",
-          "relevanceScore": 95,
+          "name": "mark kelly",
+          "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "2h ago",
-          "trendBreakdown": "kash",
-          "percentageIncrease": "300%"
+          "searchVolume": "1K+",
+          "started": "8h ago",
+          "percentageIncrease": "1000%"
+        },
+        {
+          "name": "lindsey halligan",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "1K+",
+          "started": "6h ago",
+          "trendBreakdown": "james",
+          "percentageIncrease": "700%"
         }
       ]
     }
