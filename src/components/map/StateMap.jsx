@@ -185,9 +185,10 @@ const GeoJSONRenderer = ({ geoJSONDataRef, styleRef, onEachFeatureRef, dataReady
         const topTopic = layer.feature?.properties?.topTopic || 'trending topics'
         
         // CRITICAL: Set pointer-events to auto and ensure path is interactive
+        // DON'T set touch-action here - let Leaflet handle it naturally
+        // Setting touch-action: manipulation can prevent native clicks from working
         layer._path.style.pointerEvents = 'auto'
         layer._path.style.cursor = 'pointer'
-        layer._path.style.touchAction = 'manipulation' // Allow single-finger pan and tap
         layer._path.style.userSelect = 'none'
         layer._path.style.webkitUserSelect = 'none'
         layer._path.style.webkitTapHighlightColor = 'transparent' // Remove tap highlight
@@ -221,8 +222,9 @@ const GeoJSONRenderer = ({ geoJSONDataRef, styleRef, onEachFeatureRef, dataReady
           if (touch) {
             const deltaX = Math.abs(touch.clientX - touchStartX)
             const deltaY = Math.abs(touch.clientY - touchStartY)
-            // If moved more than 10px, consider it a pan/scroll, not a tap
-            if (deltaX > 10 || deltaY > 10) {
+            // If moved more than 20px, consider it a pan/scroll, not a tap
+            // More lenient threshold to avoid false negatives
+            if (deltaX > 20 || deltaY > 20) {
               hasMoved = true
             }
           }
@@ -247,8 +249,9 @@ const GeoJSONRenderer = ({ geoJSONDataRef, styleRef, onEachFeatureRef, dataReady
           const deltaY = Math.abs(touch.clientY - touchStartY)
           const deltaTime = Date.now() - touchStartTime
           
-          // VERY LENIENT: If touch was quick (< 500ms) and didn't move much (< 15px), treat as tap
-          const isTap = !hasMoved && deltaX < 15 && deltaY < 15 && deltaTime < 500
+          // VERY LENIENT: If touch was quick (< 800ms) and didn't move much (< 30px), treat as tap
+          // Made even more lenient to catch all taps
+          const isTap = !hasMoved && deltaX < 30 && deltaY < 30 && deltaTime < 800
           
           console.log('[StateMap] Touch END on', stateName, {
             deltaX,
@@ -265,81 +268,63 @@ const GeoJSONRenderer = ({ geoJSONDataRef, styleRef, onEachFeatureRef, dataReady
           hasMoved = false
           
           if (isTap) {
-            console.log('[StateMap] ✅ TAP DETECTED on', stateName, '- firing click handler')
+            console.log('[StateMap] ✅ TAP DETECTED on', stateName, '- calling handler directly')
             
             // Prevent default to avoid double-firing
             e.preventDefault()
             e.stopPropagation()
             e.stopImmediatePropagation()
             
-            // Get the state's center for the click event
-            let latlng
-            let containerPoint
+            // DIRECTLY call the callback - this is the most reliable approach
+            // Don't try to fire Leaflet events, just call the handler directly
+            const currentOnStateClick = onStateClickRef.current
+            const featureToUse = layer.feature
             
-            if (layer.getBounds) {
-              latlng = layer.getBounds().getCenter()
-              containerPoint = map.latLngToContainerPoint(latlng)
-            } else {
-              console.error('[StateMap] Could not determine latlng for click')
-              return
-            }
-            
-            // Create a synthetic mouse event that Leaflet will recognize
-            const syntheticEvent = {
-              type: 'click',
-              clientX: touch.clientX,
-              clientY: touch.clientY,
-              preventDefault: () => {},
-              stopPropagation: () => {},
-              stopImmediatePropagation: () => {}
-            }
-            
-            // Create Leaflet event object
-            const leafletEvent = {
-              latlng: latlng,
-              layerPoint: containerPoint,
-              containerPoint: containerPoint,
-              originalEvent: syntheticEvent,
-              target: layer,
-              type: 'click',
-              propagatedFrom: layer
-            }
-            
-            // DIRECTLY call the click handler - bypass Leaflet event system for reliability
-            console.log('[StateMap] Directly calling click handler for', stateName)
-            
-            try {
-              // First, try firing Leaflet click event (this should trigger handleStateInteraction)
-              layer.fire('click', leafletEvent)
-              console.log('[StateMap] Leaflet click event fired for', stateName)
-              
-              // If that doesn't work, also directly call the onStateClick callback
-              // This ensures the sidebar opens even if Leaflet event system fails
-              setTimeout(() => {
-                const currentOnStateClick = onStateClickRef.current
-                if (currentOnStateClick && typeof currentOnStateClick === 'function') {
-                  const featureToUse = layer.feature
-                  if (featureToUse) {
-                    console.log('[StateMap] Also directly calling onStateClick callback for', stateName)
-                    try {
-                      currentOnStateClick(featureToUse)
-                    } catch (error) {
-                      console.error('[StateMap] Error calling onStateClick directly:', error)
-                    }
-                  }
-                }
-              }, 50) // Small delay to let Leaflet event fire first
-            } catch (error) {
-              console.error('[StateMap] Error firing click event:', error)
-              // Fallback: directly call callback
-              const currentOnStateClick = onStateClickRef.current
-              if (currentOnStateClick && typeof currentOnStateClick === 'function') {
-                const featureToUse = layer.feature
-                if (featureToUse) {
-                  console.log('[StateMap] Fallback: Directly calling onStateClick for', stateName)
-                  currentOnStateClick(featureToUse)
-                }
+            if (currentOnStateClick && typeof currentOnStateClick === 'function' && featureToUse) {
+              console.log('[StateMap] Directly calling onStateClick for', stateName)
+              try {
+                // Call immediately - no delays, no Leaflet events
+                currentOnStateClick(featureToUse)
+                console.log('[StateMap] ✅ onStateClick called successfully for', stateName)
+              } catch (error) {
+                console.error('[StateMap] Error calling onStateClick:', error)
               }
+            } else {
+              console.warn('[StateMap] Cannot call onStateClick:', {
+                hasCallback: !!currentOnStateClick,
+                isFunction: typeof currentOnStateClick === 'function',
+                hasFeature: !!featureToUse
+              })
+            }
+            
+            // Also try to trigger the visual feedback (style changes) by firing a click event
+            // But don't rely on it for the callback
+            try {
+              if (layer.getBounds) {
+                const latlng = layer.getBounds().getCenter()
+                const containerPoint = map.latLngToContainerPoint(latlng)
+                const syntheticEvent = {
+                  type: 'click',
+                  clientX: touch.clientX,
+                  clientY: touch.clientY,
+                  preventDefault: () => {},
+                  stopPropagation: () => {},
+                  stopImmediatePropagation: () => {}
+                }
+                const leafletEvent = {
+                  latlng: latlng,
+                  layerPoint: containerPoint,
+                  containerPoint: containerPoint,
+                  originalEvent: syntheticEvent,
+                  target: layer,
+                  type: 'click'
+                }
+                // Fire click event for visual feedback only (styling, tooltips)
+                layer.fire('click', leafletEvent)
+              }
+            } catch (err) {
+              // Ignore errors in visual feedback - callback is what matters
+              console.warn('[StateMap] Could not fire visual feedback event:', err)
             }
           } else {
             console.log('[StateMap] Touch was pan/scroll, not tap - ignoring')

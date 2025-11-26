@@ -27,7 +27,8 @@
     transition: fill-opacity 0.15s ease, opacity 0.15s ease, stroke-width 0.15s ease, transform 0.1s ease;
     /* CRITICAL: Ensure paths can receive touch events */
     pointer-events: auto !important;
-    touch-action: manipulation !important; /* Allow single-finger pan and tap */
+    /* DON'T set touch-action here - let Leaflet handle it naturally */
+    /* touch-action: manipulation can prevent native click events from working */
     -webkit-tap-highlight-color: transparent; /* Remove tap highlight */
   }
 

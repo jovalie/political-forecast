@@ -37,9 +37,9 @@
   
   .map-container .leaflet-container {
     /* Force map to recalculate size on mobile */
-    /* CRITICAL: Use 'manipulation' instead of 'pan-x pan-y pinch-zoom' 
-       'manipulation' allows single-finger pan AND tap, which is what we need */
-    touch-action: manipulation;
+    /* Use 'pan-x pan-y pinch-zoom' to allow both panning and clicking */
+    /* 'manipulation' can prevent native click events from firing */
+    touch-action: pan-x pan-y pinch-zoom;
     width: 100% !important;
     height: 100% !important;
     margin: 0;
