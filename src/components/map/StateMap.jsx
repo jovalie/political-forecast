@@ -167,26 +167,216 @@ const GeoJSONRenderer = ({ geoJSONDataRef, styleRef, onEachFeatureRef, dataReady
         allLayersRef.current = geoJsonLayers
       }
 
+      // Function to attach touch handlers to a layer's path
+      // COMPLETELY REVAMPED: Simple, direct approach that works reliably on mobile
+      const attachTouchHandlers = (layer) => {
+        if (!layer._path) {
+          // Path not ready yet, try again after a short delay
+          setTimeout(() => attachTouchHandlers(layer), 50)
+          return
+        }
+        
+        // Skip if handlers already attached
+        if (layer._path._touchHandlersAttached) {
+          return
+        }
+        
+        const stateName = layer.feature?.properties?.name || 'Unknown State'
+        const topTopic = layer.feature?.properties?.topTopic || 'trending topics'
+        
+        layer._path.style.pointerEvents = 'auto'
+        layer._path.style.cursor = 'pointer'
+        // Don't set touch-action - let Leaflet handle it naturally
+        // This allows both panning and clicking to work properly
+        // Ensure the path can receive touch events
+        layer._path.style.userSelect = 'none'
+        layer._path.style.webkitUserSelect = 'none'
+        
+        // Add ARIA attributes for accessibility
+        layer._path.setAttribute('role', 'button')
+        layer._path.setAttribute('aria-label', `View trending topics for ${stateName}. Top topic: ${topTopic}`)
+        layer._path.setAttribute('tabindex', '0')
+        
+        const pathClickHandler = (e) => {
+          console.log('[StateMap] Path click handler fired', layer.feature?.properties?.name)
+          if (layer.fire) {
+            // Get lat/lng from the event
+            let latlng
+            if (e.latlng) {
+              latlng = e.latlng
+            } else {
+              // Try to get from mouse event
+              try {
+                latlng = map.mouseEventToLatLng(e)
+              } catch (err) {
+                // Fallback: use center of the layer bounds
+                if (layer.getBounds) {
+                  latlng = layer.getBounds().getCenter()
+                } else {
+                  console.error('[StateMap] Could not determine latlng for click')
+                  return
+                }
+              }
+            }
+            
+            // Fire Leaflet click event
+            layer.fire('click', {
+              latlng: latlng,
+              layer: layer,
+              originalEvent: e
+            })
+          }
+        }
+        
+        // Add click handler
+        layer._path.addEventListener('click', pathClickHandler)
+        
+        // Also add touch handlers for mobile - detect taps vs pans
+        // Store touch start position on the path element
+        const touchStartHandler = (e) => {
+          const touch = e.touches[0]
+          if (touch) {
+            layer._path._touchStartPos = { x: touch.clientX, y: touch.clientY }
+            layer._path._touchStartTime = Date.now()
+            const stateName = layer.feature?.properties?.name || 'Unknown'
+            console.log('[StateMap] Touch start on', stateName, touch.clientX, touch.clientY)
+            // Also log if this state is one of the problematic ones
+            if (['Texas', 'Louisiana', 'Florida'].includes(stateName)) {
+              console.log('[StateMap] Touch detected on problematic state:', stateName)
+            }
+          }
+        }
+        
+        const touchEndHandler = (e) => {
+          if (layer._path._touchStartPos && layer._path._touchStartTime) {
+            const touch = e.changedTouches[0]
+            if (touch) {
+              const touchStartPos = layer._path._touchStartPos
+              const touchStartTime = layer._path._touchStartTime
+              const deltaX = Math.abs(touch.clientX - touchStartPos.x)
+              const deltaY = Math.abs(touch.clientY - touchStartPos.y)
+              const deltaTime = Date.now() - touchStartTime
+              // Very lenient thresholds: allow up to 30px movement and 800ms duration
+              // This makes touch detection very sensitive and forgiving for mobile
+              if (deltaX < 30 && deltaY < 30 && deltaTime < 800) {
+                const stateName = layer.feature?.properties?.name || 'Unknown'
+                console.log('[StateMap] Touch detected as tap on', stateName, 'firing click')
+                
+                // Visual feedback for debugging - show alert on mobile
+                if (window.innerWidth <= 768) {
+                  // Show a brief visual indicator
+                  const indicator = document.createElement('div')
+                  indicator.textContent = `Tapped: ${stateName}`
+                  indicator.style.cssText = `
+                    position: fixed;
+                    top: 50%;
+                    left: 50%;
+                    transform: translate(-50%, -50%);
+                    background: rgba(0, 0, 0, 0.8);
+                    color: white;
+                    padding: 20px;
+                    border-radius: 8px;
+                    z-index: 10000;
+                    font-size: 18px;
+                    pointer-events: none;
+                  `
+                  document.body.appendChild(indicator)
+                  setTimeout(() => indicator.remove(), 1000)
+                }
+                
+                e.preventDefault()
+                e.stopPropagation()
+                
+                // Get the state's center bounds - we already know which state was clicked
+                // so we don't need to convert touch coordinates
+                let latlng
+                let containerPoint
+                
+                if (layer.getBounds) {
+                  latlng = layer.getBounds().getCenter()
+                  // Convert lat/lng to container point for the event
+                  containerPoint = map.latLngToContainerPoint(latlng)
+                } else if (layer.feature?.geometry) {
+                  // Calculate center from geometry
+                  const bounds = L.geoJSON(layer.feature).getBounds()
+                  latlng = bounds.getCenter()
+                  containerPoint = map.latLngToContainerPoint(latlng)
+                } else {
+                  console.error('[StateMap] Could not determine latlng for click')
+                  return
+                }
+                
+                // Create a proper event object for Leaflet
+                const leafletEvent = {
+                  latlng: latlng,
+                  layerPoint: containerPoint,
+                  containerPoint: containerPoint,
+                  originalEvent: e,
+                  target: layer
+                }
+                
+                // Fire Leaflet click event directly
+                if (layer.fire) {
+                  console.log('[StateMap] Firing Leaflet click event for', stateName, 'at', latlng)
+                  layer.fire('click', leafletEvent)
+                }
+              } else {
+                console.log('[StateMap] Touch was pan/gesture, not tap', { deltaX, deltaY, deltaTime })
+              }
+            }
+            layer._path._touchStartPos = null
+            layer._path._touchStartTime = null
+          }
+        }
+        
+        layer._path.addEventListener('touchstart', touchStartHandler, { passive: true })
+        layer._path.addEventListener('touchend', touchEndHandler, { passive: false })
+        
+        // Store handlers for cleanup
+        layer._path._touchStartHandler = touchStartHandler
+        layer._path._touchEndHandler = touchEndHandler
+        layer._path._pathClickHandler = pathClickHandler
+        layer._path._touchHandlersAttached = true
+        
+        console.log('[StateMap] ✅ Touch handlers attached to', stateName)
+      }
+      
       geoJsonLayer.eachLayer((layer) => {
         if (layer.setInteractive) {
           layer.setInteractive(true)
         }
-        if (layer._path) {
-          layer._path.style.pointerEvents = 'auto'
-          layer._path.style.cursor = 'pointer'
-          const pathClickHandler = (e) => {
-            if (layer.fire) {
-              layer.fire('click', {
-                latlng: map.mouseEventToLatLng(e),
-                layer: layer,
-                originalEvent: e
-              })
-            }
-          }
-          layer._path.addEventListener('click', pathClickHandler)
-          layer._pathClickHandler = pathClickHandler
-        }
+        // Attach touch handlers (will retry if path not ready)
+        attachTouchHandlers(layer)
       })
+      
+      // Also try attaching handlers after delays to catch any paths that weren't ready
+      // Multiple retries to ensure all states get handlers
+      setTimeout(() => {
+        geoJsonLayer.eachLayer((layer) => {
+          if (!layer._path?._touchHandlersAttached) {
+            console.log('[StateMap] Retrying handler attachment for', layer.feature?.properties?.name)
+            attachTouchHandlers(layer)
+          }
+        })
+      }, 200)
+      
+      setTimeout(() => {
+        geoJsonLayer.eachLayer((layer) => {
+          if (!layer._path?._touchHandlersAttached) {
+            console.log('[StateMap] Second retry for handler attachment for', layer.feature?.properties?.name)
+            attachTouchHandlers(layer)
+          }
+        })
+      }, 500)
+      
+      setTimeout(() => {
+        geoJsonLayer.eachLayer((layer) => {
+          if (!layer._path?._touchHandlersAttached) {
+            console.warn('[StateMap] Final retry for handler attachment for', layer.feature?.properties?.name)
+            attachTouchHandlers(layer)
+          }
+        })
+      }, 1000)
 
       geoJsonLayer.addTo(map)
       layerRef.current = geoJsonLayer
@@ -366,7 +556,7 @@ const StateMap = ({
       const fillColor = getColorByTopicCount(topicCount, isDark)
       
       // Border color should be slightly darker/lighter than fill for contrast
-      const borderColor = isDark ? '#909090' : '#666666'
+      const borderColor = isDark ? '#606060' : '#666666'
       
       return {
         fillColor: fillColor,
@@ -412,17 +602,22 @@ const StateMap = ({
       layer.setInteractive(true)
     }
     
-    layer.on({
-      click: (e) => {
-        // Only prevent default if originalEvent exists (real user clicks)
-        if (e.originalEvent) {
-          e.originalEvent.preventDefault()
-          e.originalEvent.stopPropagation()
-        }
-        // Stop Leaflet event propagation to prevent map click handler from firing
-        L.DomEvent.stopPropagation(e)
-        
-        const clickedLayer = e.target
+    // Add ARIA attributes for accessibility (will be applied when path is created)
+    // Note: Path elements are created asynchronously, so ARIA attributes are added
+    // in the attachTouchHandlers function when the path becomes available
+    
+    // Handle both click and touch events for mobile compatibility
+    const handleStateInteraction = (e) => {
+      console.log('[StateMap] handleStateInteraction called', feature.properties?.name)
+      // Only prevent default if originalEvent exists (real user clicks/touches)
+      if (e.originalEvent) {
+        e.originalEvent.preventDefault()
+        e.originalEvent.stopPropagation()
+      }
+      // Stop Leaflet event propagation to prevent map click handler from firing
+      L.DomEvent.stopPropagation(e)
+      
+      const clickedLayer = e.target
         
         // If clicking a different state, update the clicked state
         if (clickedLayerRef.current && clickedLayerRef.current !== clickedLayer) {
@@ -542,15 +737,27 @@ const StateMap = ({
         // Use clickedLayer.feature (which has merged topic data) instead of the original feature
         // Use ref to get the latest onStateClick value
         const currentOnStateClick = onStateClickRef.current
+        console.log('[StateMap] About to call onStateClick callback', {
+          hasCallback: !!currentOnStateClick,
+          isFunction: typeof currentOnStateClick === 'function',
+          featureName: (clickedLayer.feature || feature)?.properties?.name
+        })
         if (currentOnStateClick && typeof currentOnStateClick === 'function') {
           const featureToUse = clickedLayer.feature || feature
           try {
+            console.log('[StateMap] Calling onStateClick with feature:', featureToUse?.properties?.name)
             currentOnStateClick(featureToUse)
+            console.log('[StateMap] onStateClick callback completed')
           } catch (error) {
             console.error('[StateMap] Error calling onStateClick:', error)
           }
+        } else {
+          console.warn('[StateMap] onStateClick callback not available or not a function')
         }
-      },
+    }
+    
+    layer.on({
+      click: handleStateInteraction
     })
 
     // Add tooltip with state name and top topic

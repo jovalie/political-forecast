@@ -1,20 +1,37 @@
 {
-  "timestamp": "2025-11-17T20:24:34.629Z",
+  "timestamp": "2025-11-25T01:49:39.378Z",
   "states": [
     {
       "name": "Washington",
       "code": "WA",
-      "topTopic": "portugal",
+      "topTopic": "mark kelly",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
         {
-          "name": "portugal",
+          "name": "mark kelly",
           "relevanceScore": 100,
           "category": "Law and Government",
+          "searchVolume": "1K+",
+          "started": "7h ago",
+          "percentageIncrease": "1000%"
+        },
+        {
+          "name": "lindsey halligan",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "1K+",
+          "started": "6h ago",
+          "trendBreakdown": "james",
+          "percentageIncrease": "400%"
+        },
+        {
+          "name": "bethany magee",
+          "relevanceScore": 95,
+          "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "19h ago",
-          "percentageIncrease": "500%"
+          "started": "22h ago",
+          "percentageIncrease": "200%"
         }
       ]
     }

@@ -1,5 +1,6 @@
-import React, { useEffect, useState, useCallback } from 'react'
+import React, { useEffect, useState, useCallback, useRef } from 'react'
 import { MapContainer as LeafletMapContainer, TileLayer, useMap } from 'react-leaflet'
+import L from 'leaflet'
 import { useTheme } from '../ui/ThemeProvider'
 import StateMap from './StateMap'
 import StateDetailsPanel from './StateDetailsPanel'
@@ -18,9 +19,17 @@ const US_BOUNDS = [
 // Optimized to center on the continental US, excluding Alaska and Hawaii
 const CONTINENTAL_US_CENTER = [39.5, -98.35] // Central Kansas area
 
-// Component to update map theme based on current theme
-const MapThemeUpdater = ({ isDark }) => {
+// Component to update map theme based on current theme and handle resize
+const MapThemeUpdater = ({ isDark, mapRef }) => {
   const map = useMap()
+  const hasInitialized = useRef(false)
+
+  // Store map reference for parent component
+  useEffect(() => {
+    if (mapRef) {
+      mapRef.current = map
+    }
+  }, [map, mapRef])
 
   useEffect(() => {
     // Update map container class for theme
@@ -30,7 +39,66 @@ const MapThemeUpdater = ({ isDark }) => {
     } else {
       container.classList.remove('dark-theme')
     }
+    // Invalidate size when theme changes
+    map.invalidateSize()
   }, [map, isDark])
+
+  // Fix map size on mobile - recalculate after mount and on resize
+  useEffect(() => {
+    if (!map) return
+
+    // Fix initial render on mobile - ensure proper centering without interfering with clicks
+    const fixMapSize = (shouldFitBounds = false) => {
+      // First, invalidate size to ensure map calculates correctly
+      setTimeout(() => {
+        map.invalidateSize()
+        // On mobile, also ensure map is centered properly (only once)
+        if (shouldFitBounds && window.innerWidth <= 768) {
+          // Fit bounds to show all of continental US on mobile
+          // This ensures the map is perfectly centered and shows all states
+          const bounds = L.latLngBounds(
+            [24.5, -125], // Southwest (southern California, western edge)
+            [49.5, -66]   // Northeast (northern border, eastern edge)
+          )
+          map.fitBounds(bounds, { 
+            padding: [20, 20],
+            maxZoom: 5 // Prevent zooming in too much on mobile
+          })
+        }
+      }, 100)
+      
+      // One more invalidateSize after a short delay to ensure everything is stable
+      // But don't call fitBounds again to avoid interfering with user interactions
+      setTimeout(() => {
+        map.invalidateSize()
+      }, 300)
+    }
+
+    // Only run initial fix once
+    if (!hasInitialized.current) {
+      // Don't fit bounds on mobile - it interferes with touch events
+      // Just invalidate size to ensure proper rendering
+      fixMapSize(false) // Don't fit bounds - let user zoom/pan naturally
+      hasInitialized.current = true
+    }
+
+    // Fix on window resize and orientation change
+    const handleResize = () => {
+      setTimeout(() => {
+        map.invalidateSize()
+        // Only invalidate size on resize, don't re-center
+        // Users should be able to zoom/pan freely after initial load
+      }, 150)
+    }
+
+    window.addEventListener('resize', handleResize)
+    window.addEventListener('orientationchange', handleResize)
+
+    return () => {
+      window.removeEventListener('resize', handleResize)
+      window.removeEventListener('orientationchange', handleResize)
+    }
+  }, [map])
 
   return null
 }
@@ -42,11 +110,23 @@ const MapContainer = () => {
   const [loadingTopics, setLoadingTopics] = useState(true)
   const [selectedState, setSelectedState] = useState(null)
   const [isSidebarOpen, setIsSidebarOpen] = useState(false)
+  const mapRef = useRef(null)
   
   // Debug: Log sidebar state changes
   useEffect(() => {
     console.log('[MapContainer] Sidebar state changed - isOpen:', isSidebarOpen, 'selectedState:', selectedState?.name)
   }, [isSidebarOpen, selectedState])
+
+  // Fix map size when sidebar opens/closes on mobile
+  useEffect(() => {
+    if (mapRef.current) {
+      // Delay to allow sidebar animation to complete
+      const timer = setTimeout(() => {
+        mapRef.current.invalidateSize()
+      }, 450) // Slightly longer than sidebar animation (400ms)
+      return () => clearTimeout(timer)
+    }
+  }, [isSidebarOpen])
 
   // Load topic data (real per-state files)
   useEffect(() => {
@@ -202,7 +282,7 @@ const MapContainer = () => {
           maxZoom={19}
           key={isDark ? 'dark' : 'light'} // Force re-render when theme changes
         />
-        <MapThemeUpdater isDark={isDark} />
+        <MapThemeUpdater isDark={isDark} mapRef={mapRef} />
         <StateMap 
           statesTopicData={statesTopicData} 
           dataTimestamp={dataTimestamp}

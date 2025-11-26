@@ -107,7 +107,8 @@ async function processState(stateName, options = {}) {
         ...(topic.searchVolume && { searchVolume: topic.searchVolume }),
         ...(topic.started && { started: topic.started }),
         ...(topic.trendBreakdown && { trendBreakdown: topic.trendBreakdown }),
-        ...(topic.percentageIncrease && { percentageIncrease: topic.percentageIncrease })
+        ...(topic.percentageIncrease && { percentageIncrease: topic.percentageIncrease }),
+        ...(topic.politicalLeaning !== undefined && topic.politicalLeaning !== null && { politicalLeaning: topic.politicalLeaning })
       }))
     }
 

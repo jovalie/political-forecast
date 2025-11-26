@@ -1,20 +1,37 @@
 {
-  "timestamp": "2025-11-17T20:24:34.629Z",
+  "timestamp": "2025-11-25T01:49:39.378Z",
   "states": [
     {
       "name": "Massachusetts",
       "code": "MA",
-      "topTopic": "lindsey halligan",
+      "topTopic": "mark kelly",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
         {
+          "name": "mark kelly",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "1K+",
+          "started": "7h ago",
+          "percentageIncrease": "1000%"
+        },
+        {
           "name": "lindsey halligan",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "40 minutes ago",
+          "searchVolume": "2K+",
+          "started": "7h ago",
+          "trendBreakdown": "james",
           "percentageIncrease": "700%"
+        },
+        {
+          "name": "bethany magee",
+          "relevanceScore": 90,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "14h ago",
+          "percentageIncrease": "100%"
         }
       ]
     }

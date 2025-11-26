@@ -1,19 +1,27 @@
 {
-  "timestamp": "2025-11-17T20:24:34.629Z",
+  "timestamp": "2025-11-25T01:49:39.378Z",
   "states": [
     {
       "name": "Tennessee",
       "code": "TN",
-      "topTopic": "knoxville weather",
+      "topTopic": "mark kelly",
       "category": "Law and Government",
-      "trendingScore": 85,
+      "trendingScore": 100,
       "topics": [
+        {
+          "name": "mark kelly",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "7h ago",
+          "percentageIncrease": "700%"
+        },
         {
           "name": "knoxville weather",
           "relevanceScore": 85,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "8h ago",
+          "started": "13h ago",
           "percentageIncrease": "50%"
         }
       ]

@@ -1,20 +1,20 @@
 {
-  "timestamp": "2025-11-17T20:24:34.629Z",
+  "timestamp": "2025-11-25T01:49:39.378Z",
   "states": [
     {
       "name": "Arizona",
       "code": "AZ",
-      "topTopic": "oj simpson",
+      "topTopic": "mark kelly",
       "category": "Law and Government",
-      "trendingScore": 95,
+      "trendingScore": 100,
       "topics": [
         {
-          "name": "oj simpson",
-          "relevanceScore": 95,
+          "name": "mark kelly",
+          "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "6h ago",
-          "percentageIncrease": "200%"
+          "searchVolume": "2K+",
+          "started": "8h ago",
+          "percentageIncrease": "1000%"
         }
       ]
     }

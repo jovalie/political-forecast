@@ -8,6 +8,7 @@
   overflow: hidden;
   background-color: var(--bg-secondary);
   position: relative; /* Ensure proper positioning */
+  z-index: 1; /* Below header */
 }
 
 /* Leaflet map container styling */
@@ -17,6 +18,71 @@
   height: 100% !important; /* Force explicit height */
   width: 100% !important;
   min-height: 400px; /* Minimum height for map to render */
+  position: relative;
+  z-index: 1; /* Below header */
+}
+
+/* Fix map being cut off on mobile - ensure proper viewport */
+@media (max-width: 768px) {
+  .map-container {
+    /* Ensure map container doesn't overflow */
+    overflow: hidden;
+    width: 100%;
+    max-width: 100%;
+    margin: 0;
+    padding: 0;
+    /* Better touch handling */
+    touch-action: pan-x pan-y pinch-zoom;
+  }
+  
+  .map-container .leaflet-container {
+    /* Force map to recalculate size on mobile */
+    /* Use 'pan-x pan-y pinch-zoom' to allow both panning and clicking */
+    /* 'manipulation' can prevent native click events from firing */
+    touch-action: pan-x pan-y pinch-zoom;
+    width: 100% !important;
+    height: 100% !important;
+    margin: 0;
+    padding: 0;
+    /* Smooth scrolling on mobile */
+    -webkit-overflow-scrolling: touch;
+  }
+  
+  /* Ensure map panes allow touch events */
+  .map-container .leaflet-pane {
+    pointer-events: auto !important;
+  }
+  
+  /* Ensure overlay pane (where states are) allows touch */
+  .map-container .leaflet-overlay-pane {
+    pointer-events: auto !important;
+    touch-action: manipulation !important;
+  }
+  
+  /* Ensure map panes are properly sized */
+  .map-container .leaflet-pane {
+    width: 100%;
+    height: 100%;
+  }
+  
+  /* Fix map tiles container */
+  .map-container .leaflet-tile-container {
+    width: 100%;
+    height: 100%;
+  }
+
+  /* Enhance Leaflet controls for mobile */
+  .map-container .leaflet-control {
+    /* Larger touch targets */
+    font-size: 1.125rem;
+  }
+
+  .map-container .leaflet-control-zoom a {
+    width: 36px;
+    height: 36px;
+    line-height: 36px;
+    font-size: 1.25rem;
+  }
 }
 
 /* Dark theme adjustments for map */

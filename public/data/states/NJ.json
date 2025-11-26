@@ -1,36 +1,37 @@
 {
-  "timestamp": "2025-11-17T20:24:34.629Z",
+  "timestamp": "2025-11-25T01:49:39.378Z",
   "states": [
     {
       "name": "New Jersey",
       "code": "NJ",
-      "topTopic": "sheikh hasina",
+      "topTopic": "mark kelly",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
         {
-          "name": "sheikh hasina",
+          "name": "mark kelly",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "500+",
+          "searchVolume": "1K+",
           "started": "7h ago",
-          "percentageIncrease": "600%"
+          "percentageIncrease": "1000%"
         },
         {
-          "name": "venezuelan military",
+          "name": "james comey",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "22h ago",
+          "searchVolume": "2K+",
+          "started": "7h ago",
+          "trendBreakdown": "lindsey",
           "percentageIncrease": "600%"
         },
         {
-          "name": "oj simpson",
-          "relevanceScore": 95,
+          "name": "times of india",
+          "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "15h ago",
-          "percentageIncrease": "300%"
+          "started": "14h ago",
+          "percentageIncrease": "100%"
         }
       ]
     }

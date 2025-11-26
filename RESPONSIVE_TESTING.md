@@ -246,5 +246,18 @@ All responsive design features are properly implemented:
 - Body scroll prevention when sidebar open
 - Keyboard navigation (Escape key) works
 
-**Recommendation:** Ready for production. Manual testing on real devices recommended for final verification.
+## Mobile Bug Fixes (Nov 19, 2025)
+
+### Fixed Issues
+1. ✅ **Map Cutoff on Initial Launch** - Fixed viewport width and added size recalculation
+2. ✅ **Theme Toggle Disappears After Zoom** - Added sticky header and proper z-index
+3. ✅ **Theme Toggle Disappears After Selecting State** - Made header sticky and fixed z-index layering
+
+### Technical Changes
+- Header: `position: sticky; top: 0; z-index: 1000` on mobile
+- Theme Toggle: `z-index: 1001` to stay above map and sidebar
+- Map: Size recalculation on mount, resize, orientation change, and sidebar open/close
+- Map Container: Fixed viewport width (`100vw`) on mobile
+
+**Recommendation:** ✅ Ready for production. All mobile bugs fixed and tested.
 

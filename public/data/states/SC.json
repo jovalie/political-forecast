@@ -1,20 +1,28 @@
 {
-  "timestamp": "2025-11-17T20:24:34.629Z",
+  "timestamp": "2025-11-25T01:49:39.378Z",
   "states": [
     {
       "name": "South Carolina",
       "code": "SC",
-      "topTopic": "amber alert charlotte nc",
+      "topTopic": "mark kelly",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
         {
-          "name": "amber alert charlotte nc",
+          "name": "mark kelly",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "200+",
-          "started": "17h ago",
-          "percentageIncrease": "1000%"
+          "searchVolume": "500+",
+          "started": "6h ago",
+          "percentageIncrease": "500%"
+        },
+        {
+          "name": "slenderman stabbing",
+          "relevanceScore": 90,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "20h ago",
+          "percentageIncrease": "100%"
         }
       ]
     }
