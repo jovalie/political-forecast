@@ -134,32 +134,75 @@
 
 /* Mobile Styles */
 @media (max-width: 768px) {
+  .topic-list {
+    gap: calc(var(--spacing-unit) * 0.75); /* Increased gap for better separation */
+  }
+
   .topic-link {
     flex-wrap: wrap;
-    gap: calc(var(--spacing-unit) * 0.5);
-    padding: calc(var(--spacing-unit) * 0.5) calc(var(--spacing-unit) * 0.75);
+    gap: calc(var(--spacing-unit) * 0.75);
+    padding: calc(var(--spacing-unit) * 1) calc(var(--spacing-unit) * 1); /* Increased padding for better touch target */
+    min-height: 56px; /* Minimum touch target size (44px recommended, 56px for better UX) */
+    align-items: flex-start; /* Align items to top for better layout */
+    border-width: 1.5px; /* Slightly thicker border for better visibility */
+    font-size: 0.9375rem; /* Slightly larger text for better readability */
+    line-height: 1.5;
+  }
+
+  .topic-link:active {
+    transform: scale(0.98); /* Visual feedback on tap */
+    transition: transform 0.1s ease;
   }
 
   .topic-rank {
-    min-width: 2.5ch;
+    min-width: 2.75ch;
+    font-size: 1rem; /* Larger rank number */
+    font-weight: 600;
+    padding-top: 2px; /* Align with text */
   }
 
   .topic-name {
     flex: 1 1 100%;
     order: 2;
+    font-size: 0.9375rem; /* Ensure readable font size */
+    line-height: 1.5;
+    font-weight: 500; /* Slightly bolder for better readability */
+    padding-right: calc(var(--spacing-unit) * 0.5);
   }
 
   .topic-stats {
     flex: 1 1 100%;
     order: 3;
     flex-wrap: wrap;
-    gap: calc(var(--spacing-unit) * 0.75);
-    font-size: 0.7rem;
+    gap: calc(var(--spacing-unit) * 1);
+    font-size: 0.75rem;
+    margin-top: calc(var(--spacing-unit) * 0.25);
+    padding-top: calc(var(--spacing-unit) * 0.5);
+    border-top: 1px solid var(--border-color);
   }
 
   .topic-stat {
     flex: 1 1 auto;
     min-width: 0;
+    line-height: 1.4;
+  }
+
+  .topic-stat-label {
+    display: inline;
+    margin-right: calc(var(--spacing-unit) * 0.25);
+  }
+
+  /* Political leaning on mobile - make it more prominent */
+  .topic-political-leaning {
+    flex: 1 1 100%;
+    padding: calc(var(--spacing-unit) * 0.5);
+    background-color: var(--bg-secondary);
+    border-radius: var(--border-radius);
+    margin-top: calc(var(--spacing-unit) * 0.5);
+  }
+
+  .topic-leaning-score {
+    font-size: 0.8em;
   }
 }
 

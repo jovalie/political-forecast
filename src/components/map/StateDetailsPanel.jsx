@@ -11,6 +11,10 @@ const StateDetailsPanel = ({ isOpen, onClose, stateData, dataTimestamp }) => {
   const [headerHeight, setHeaderHeight] = useState(0)
   const [shouldAnimate, setShouldAnimate] = useState(false)
   const [isVisible, setIsVisible] = useState(false)
+  // Swipe gesture tracking for mobile
+  const swipeStartY = useRef(null)
+  const swipeStartTime = useRef(null)
+  const currentTranslateY = useRef(0)
 
   // Handle click outside to close
   useEffect(() => {
@@ -106,6 +110,85 @@ const StateDetailsPanel = ({ isOpen, onClose, stateData, dataTimestamp }) => {
       document.body.style.overflow = ''
     }
   }, [isOpen])
+
+  // Swipe-to-close gesture for mobile
+  useEffect(() => {
+    if (!isOpen || !panelRef.current) return
+
+    const panel = panelRef.current
+    const isMobile = window.innerWidth <= 768
+
+    if (!isMobile) return
+
+    const handleTouchStart = (e) => {
+      // Only allow swipe from top of panel (drag handle area)
+      const touch = e.touches[0]
+      const rect = panel.getBoundingClientRect()
+      const touchY = touch.clientY
+      const relativeY = touchY - rect.top
+
+      // Only start swipe if touch is in top 60px (drag handle area)
+      if (relativeY <= 60) {
+        swipeStartY.current = touch.clientY
+        swipeStartTime.current = Date.now()
+        currentTranslateY.current = 0
+        panel.style.transition = 'none' // Disable transition during drag
+      }
+    }
+
+    const handleTouchMove = (e) => {
+      if (swipeStartY.current === null) return
+
+      const touch = e.touches[0]
+      const deltaY = touch.clientY - swipeStartY.current
+
+      // Only allow downward swipes (positive deltaY)
+      if (deltaY > 0) {
+        currentTranslateY.current = deltaY
+        panel.style.transform = `translateY(${deltaY}px)`
+      }
+    }
+
+    const handleTouchEnd = (e) => {
+      if (swipeStartY.current === null) return
+
+      const touch = e.changedTouches[0]
+      const deltaY = touch.clientY - swipeStartY.current
+      const deltaTime = Date.now() - swipeStartTime.current
+      const velocity = deltaY / deltaTime
+
+      // Re-enable transition
+      panel.style.transition = ''
+
+      // Close if swiped down more than 100px or with sufficient velocity
+      if (deltaY > 100 || (deltaY > 50 && velocity > 0.3)) {
+        onClose()
+      } else {
+        // Snap back to open position
+        panel.style.transform = ''
+      }
+
+      // Reset swipe tracking
+      swipeStartY.current = null
+      swipeStartTime.current = null
+      currentTranslateY.current = 0
+    }
+
+    panel.addEventListener('touchstart', handleTouchStart, { passive: true })
+    panel.addEventListener('touchmove', handleTouchMove, { passive: true })
+    panel.addEventListener('touchend', handleTouchEnd, { passive: true })
+
+    return () => {
+      panel.removeEventListener('touchstart', handleTouchStart)
+      panel.removeEventListener('touchmove', handleTouchMove)
+      panel.removeEventListener('touchend', handleTouchEnd)
+      // Reset transform on cleanup
+      if (panel) {
+        panel.style.transform = ''
+        panel.style.transition = ''
+      }
+    }
+  }, [isOpen, onClose])
 
   // Don't render if no state data, but keep rendering during exit animation
   if (!stateData) {

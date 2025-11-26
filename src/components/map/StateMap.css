@@ -18,6 +18,35 @@
 
 .leaflet-overlay-pane path {
   transition: fill-opacity 0.2s ease, opacity 0.2s ease, stroke-width 0.2s ease;
+  cursor: pointer;
+}
+
+/* Mobile: Enhanced touch feedback */
+@media (max-width: 768px) {
+  .leaflet-overlay-pane path {
+    transition: fill-opacity 0.15s ease, opacity 0.15s ease, stroke-width 0.15s ease, transform 0.1s ease;
+    /* CRITICAL: Ensure paths can receive touch events */
+    pointer-events: auto !important;
+    touch-action: manipulation !important; /* Allow single-finger pan and tap */
+    -webkit-tap-highlight-color: transparent; /* Remove tap highlight */
+  }
+
+  /* Better touch target - slightly thicker borders on mobile */
+  .leaflet-overlay-pane path {
+    stroke-width: 1.5px;
+  }
+
+  /* Visual feedback on tap */
+  .leaflet-overlay-pane path:active {
+    opacity: 0.7;
+    transform: scale(0.98);
+  }
+  
+  /* Ensure SVG container allows interactions */
+  .leaflet-overlay-pane svg {
+    pointer-events: auto !important;
+    touch-action: manipulation !important;
+  }
 }
 
 /* Prevent Leaflet's default click highlight (purple box) */
@@ -46,6 +75,20 @@
   box-shadow: 0 2px 4px var(--shadow);
   min-width: 150px;
   text-align: center;
+  pointer-events: none; /* Prevent tooltip from blocking map interactions */
+}
+
+/* Mobile: Enhanced tooltip styling */
+@media (max-width: 768px) {
+  .state-tooltip {
+    font-size: 0.8125rem;
+    padding: calc(var(--spacing-unit) * 0.875) calc(var(--spacing-unit) * 1.25);
+    min-width: 140px;
+    max-width: 200px;
+    box-shadow: 0 3px 8px var(--shadow);
+    border-width: 1.5px;
+    line-height: 1.4;
+  }
 }
 
 /* Ensure tooltip content can wrap and display HTML properly */

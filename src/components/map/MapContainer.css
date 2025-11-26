@@ -31,16 +31,32 @@
     max-width: 100%;
     margin: 0;
     padding: 0;
+    /* Better touch handling */
+    touch-action: pan-x pan-y pinch-zoom;
   }
   
   .map-container .leaflet-container {
     /* Force map to recalculate size on mobile */
-    /* Allow panning, pinch-zoom, and clicking - pan-x pan-y allows panning, pinch-zoom allows zoom gestures */
-    touch-action: pan-x pan-y pinch-zoom;
+    /* CRITICAL: Use 'manipulation' instead of 'pan-x pan-y pinch-zoom' 
+       'manipulation' allows single-finger pan AND tap, which is what we need */
+    touch-action: manipulation;
     width: 100% !important;
     height: 100% !important;
     margin: 0;
     padding: 0;
+    /* Smooth scrolling on mobile */
+    -webkit-overflow-scrolling: touch;
+  }
+  
+  /* Ensure map panes allow touch events */
+  .map-container .leaflet-pane {
+    pointer-events: auto !important;
+  }
+  
+  /* Ensure overlay pane (where states are) allows touch */
+  .map-container .leaflet-overlay-pane {
+    pointer-events: auto !important;
+    touch-action: manipulation !important;
   }
   
   /* Ensure map panes are properly sized */
@@ -53,6 +69,19 @@
   .map-container .leaflet-tile-container {
     width: 100%;
     height: 100%;
+  }
+
+  /* Enhance Leaflet controls for mobile */
+  .map-container .leaflet-control {
+    /* Larger touch targets */
+    font-size: 1.125rem;
+  }
+
+  .map-container .leaflet-control-zoom a {
+    width: 36px;
+    height: 36px;
+    line-height: 36px;
+    font-size: 1.25rem;
   }
 }
 
