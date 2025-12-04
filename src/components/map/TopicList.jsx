@@ -2,17 +2,9 @@ import React from 'react'
 import { generateGoogleNewsUrl } from '../../utils/googleNewsUtils'
 import { toTitleCase } from '../../utils/tooltipUtils'
 import { convertStartedToCurrentTime } from '../../utils/dataUtils'
-import { 
-  getPoliticalLeaningLabel, 
-  getPoliticalLeaningCategory, 
-  getPoliticalLeaningColor 
-} from '../../utils/politicalLeaningUtils'
-import { useTheme } from '../ui/ThemeProvider'
 import './TopicList.css'
 
 const TopicList = ({ topics = [], stateName = '', dataTimestamp = null }) => {
-  const { isDark } = useTheme()
-
   if (!topics || topics.length === 0) {
     return (
       <div className="topic-list-empty">
