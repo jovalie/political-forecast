@@ -1,19 +1,27 @@
 {
-  "timestamp": "2025-12-04T20:04:59.355Z",
+  "timestamp": "2025-12-04T22:04:35.550Z",
   "states": [
     {
       "name": "Iowa",
       "code": "IA",
-      "topTopic": "kcci",
+      "topTopic": "scott stowe",
       "category": "Law and Government",
-      "trendingScore": 90,
+      "trendingScore": 100,
       "topics": [
+        {
+          "name": "scott stowe",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "2h ago",
+          "percentageIncrease": "1000%"
+        },
         {
           "name": "kcci",
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "9h ago",
+          "started": "11h ago",
           "percentageIncrease": "100%"
         }
       ]

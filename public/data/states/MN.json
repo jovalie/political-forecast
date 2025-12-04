@@ -1,28 +1,29 @@
 {
-  "timestamp": "2025-12-04T20:04:59.355Z",
+  "timestamp": "2025-12-04T22:04:35.550Z",
   "states": [
     {
       "name": "Minnesota",
       "code": "MN",
-      "topTopic": "brian cole",
+      "topTopic": "lutsen resort",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
         {
-          "name": "brian cole",
+          "name": "lutsen resort",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "1K+",
+          "started": "1h ago",
+          "trendBreakdown": "lutsen",
+          "percentageIncrease": "1000%"
+        },
+        {
+          "name": "brian cole jr",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "1K+",
           "started": "3h ago",
           "trendBreakdown": "brian",
-          "percentageIncrease": "1000%"
-        },
-        {
-          "name": "mike lindell",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "23h ago",
           "percentageIncrease": "1000%"
         }
       ]
