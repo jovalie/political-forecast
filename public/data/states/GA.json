@@ -1,0 +1,30 @@
+{
+  "timestamp": "2025-11-17T20:24:34.629Z",
+  "states": [
+    {
+      "name": "Georgia",
+      "code": "GA",
+      "topTopic": "venezuelan military",
+      "category": "Law and Government",
+      "trendingScore": 100,
+      "topics": [
+        {
+          "name": "venezuelan military",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "23h ago",
+          "percentageIncrease": "600%"
+        },
+        {
+          "name": "sheikh hasina",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "3h ago",
+          "percentageIncrease": "400%"
+        }
+      ]
+    }
+  ]
+}

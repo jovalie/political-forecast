@@ -1,0 +1,22 @@
+{
+  "timestamp": "2025-11-17T20:24:34.629Z",
+  "states": [
+    {
+      "name": "Idaho",
+      "code": "ID",
+      "topTopic": "fox news",
+      "category": "Law and Government",
+      "trendingScore": 85,
+      "topics": [
+        {
+          "name": "fox news",
+          "relevanceScore": 85,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "8h ago",
+          "percentageIncrease": "50%"
+        }
+      ]
+    }
+  ]
+}

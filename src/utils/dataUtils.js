@@ -346,37 +346,144 @@ function normalizeTopicName(topicName) {
 }
 
 /**
+ * Parse a relative time string (e.g., "9h ago", "50 minutes ago", "2 days ago")
+ * and return the duration in milliseconds
+ * @param {string} timeString - Relative time string (e.g., "9h ago", "50 minutes ago")
+ * @returns {number} Duration in milliseconds, or null if parsing fails
+ */
+function parseRelativeTime(timeString) {
+  if (!timeString || typeof timeString !== 'string') {
+    return null
+  }
+
+  const normalized = timeString.toLowerCase().trim()
+  
+  // Match patterns like:
+  // - "9h ago" or "9 hours ago"
+  // - "50 minutes ago" or "50m ago"
+  // - "2 days ago" or "2d ago"
+  const patterns = [
+    { regex: /(\d+)\s*(?:hours?|h)\s*ago/i, multiplier: 60 * 60 * 1000 }, // hours
+    { regex: /(\d+)\s*(?:minutes?|mins?|m)\s*ago/i, multiplier: 60 * 1000 }, // minutes
+    { regex: /(\d+)\s*(?:days?|d)\s*ago/i, multiplier: 24 * 60 * 60 * 1000 }, // days
+  ]
+
+  for (const pattern of patterns) {
+    const match = normalized.match(pattern.regex)
+    if (match) {
+      const value = parseInt(match[1], 10)
+      if (!isNaN(value) && value >= 0) {
+        return value * pattern.multiplier
+      }
+    }
+  }
+
+  return null
+}
+
+/**
+ * Format a duration in milliseconds as a human-readable relative time string
+ * @param {number} durationMs - Duration in milliseconds
+ * @returns {string} Formatted relative time (e.g., "9h ago", "50 minutes ago")
+ */
+function formatRelativeTime(durationMs) {
+  if (durationMs < 0) {
+    return 'just now'
+  }
+
+  const seconds = Math.floor(durationMs / 1000)
+  const minutes = Math.floor(seconds / 60)
+  const hours = Math.floor(minutes / 60)
+  const days = Math.floor(hours / 24)
+
+  if (days > 0) {
+    return `${days} ${days === 1 ? 'day' : 'days'} ago`
+  } else if (hours > 0) {
+    return `${hours}h ago`
+  } else if (minutes > 0) {
+    return `${minutes} ${minutes === 1 ? 'minute' : 'minutes'} ago`
+  } else {
+    return 'just now'
+  }
+}
+
+/**
+ * Convert a "started" timestamp from being relative to data scrape time
+ * to being relative to the current time
+ * @param {string} started - Original "started" string (e.g., "9h ago")
+ * @param {string} dataTimestamp - ISO timestamp string of when data was scraped
+ * @returns {string} Updated "started" string relative to current time, or original if conversion fails
+ */
+export function convertStartedToCurrentTime(started, dataTimestamp) {
+  if (!started || !dataTimestamp) {
+    return started || 'N/A'
+  }
+
+  try {
+    // Parse the data timestamp
+    const dataTime = new Date(dataTimestamp)
+    if (isNaN(dataTime.getTime())) {
+      console.warn('[convertStartedToCurrentTime] Invalid dataTimestamp:', dataTimestamp)
+      return started
+    }
+
+    // Parse the "started" relative time
+    const startedDurationMs = parseRelativeTime(started)
+    if (startedDurationMs === null) {
+      // If we can't parse it, return the original
+      return started
+    }
+
+    // Calculate when the trend actually started
+    // If data was scraped at T and trend started "9h ago" from T,
+    // then trend started at T - 9 hours
+    const trendStartTime = new Date(dataTime.getTime() - startedDurationMs)
+
+    // Calculate how long ago that was from now
+    const now = new Date()
+    const timeSinceStart = now.getTime() - trendStartTime.getTime()
+
+    // Format as relative time
+    return formatRelativeTime(timeSinceStart)
+  } catch (error) {
+    console.error('[convertStartedToCurrentTime] Error converting timestamp:', error)
+    return started
+  }
+}
+
+/**
  * Get color for a state based on the number of trending topics
- * Monochrome scale: more topics = darker, no topics = white
+ * Light theme: more topics = darker gray
+ * Dark theme: more topics = brighter/lighter gray (inverted for visibility)
  * @param {number} topicCount - Number of trending topics
  * @param {boolean} isDark - Whether dark theme is active
  * @returns {string} Hex color code
  */
 export function getColorByTopicCount(topicCount, isDark = false) {
-  // Handle states with no topics - white for light mode, dark gray for dark mode
+  // Handle states with no topics - white for light mode, black for dark mode
   if (!topicCount || topicCount === 0) {
-    return isDark ? '#303030' : '#ffffff'
+    return isDark ? '#000000' : '#ffffff'
   }
 
-  // Monochrome scale: more topics = darker gray
-  // Scale from 1 topic (light gray) to 10+ topics (dark gray)
-  // For light theme: white to dark gray
-  // For dark theme: light gray to darker gray (inverted for contrast)
+  // Monochrome scale: more topics = darker gray (light theme) or brighter gray (dark theme)
+  // Light theme: 1 topic = light gray, 10+ topics = dark gray
+  // Dark theme: 1 topic = darker gray, 10+ topics = brighter/lighter gray (inverted for visibility)
   
   if (isDark) {
-    // Dark theme: darker grays for more topics (but lighter than light theme for contrast)
-    // 1 topic = light gray, 10+ topics = darker gray
+    // Dark theme: brighter/lighter grays for more topics (inverted from light theme)
+    // 1 topic = darker gray, 10+ topics = brighter/lighter gray
+    // Increased contrast between groups: 0 (black), 1-3 (few), 4-6 (many), 7+ (TON)
     const grayValues = [
-      160, // 1 topic - light gray (was 3 topics)
-      140, // 2 topics (was 4 topics)
-      120, // 3 topics (was 5 topics)
-      100, // 4 topics (was 6 topics)
-      80,  // 5 topics (was 7 topics)
-      70,  // 6 topics (was 8 topics)
-      60,  // 7 topics (was 9 topics)
-      50,  // 8 topics (was 10+ topics)
-      45,  // 9 topics
-      40,  // 10+ topics - darker gray
+      90, // 1 topic - noticeably brighter than black for clear contrast
+      100, // 2 topics - medium dark gray
+      150, // 3 topics - medium gray (end of "few" group)
+      180, // 4 topics - light gray (clear jump from 1-3, start of "many" group)
+      200, // 5 topics - very light gray
+      220, // 6 topics - almost white (end of "many" group)
+      245, // 7 topics - very bright (clear jump from 6, start of "TON" group)
+      250, // 8 topics - near white
+      253, // 9 topics - almost white
+      255, // 10+ topics - white (max brightness)
     ]
     const index = Math.min(Math.max(topicCount, 1), 10) - 1
     const gray = grayValues[index]

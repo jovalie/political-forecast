@@ -298,6 +298,27 @@ async function ingestData(stateNames = null, concurrency = 5, options = {}) {
   // Write to file
   fs.writeFileSync(outputPath, JSON.stringify(outputData, null, 2), 'utf8')
 
+  // Also write individual state files (for app compatibility)
+  const statesDir = path.join(OUTPUT_DIR, 'states')
+  if (!fs.existsSync(statesDir)) {
+    fs.mkdirSync(statesDir, { recursive: true })
+    console.log(`Created states directory: ${statesDir}`)
+  }
+
+  let individualFilesWritten = 0
+  mergedStates.forEach(stateData => {
+    if (stateData && stateData.code) {
+      const individualFilePath = path.join(statesDir, `${stateData.code}.json`)
+      const individualFileData = {
+        timestamp: timestamp,
+        states: [stateData]
+      }
+      fs.writeFileSync(individualFilePath, JSON.stringify(individualFileData, null, 2), 'utf8')
+      individualFilesWritten++
+    }
+  })
+  console.log(`\n✓ Wrote ${individualFilesWritten} individual state files to ${statesDir}/`)
+
   // Print summary
   console.log('\n' + '='.repeat(60))
   console.log('Ingestion Summary:')

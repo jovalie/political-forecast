@@ -144,6 +144,11 @@ const GeoJSONRenderer = ({ geoJSONDataRef, styleRef, onEachFeatureRef, dataReady
         return true // Layer already created
       }
 
+      // Performance measurement: Mark map render start
+      if (typeof window !== 'undefined' && window.performance) {
+        window.performance.mark('map-render-start')
+      }
+
       // Create the layer
       console.log('[GeoJSONRenderer] Creating GeoJSON layer with', geoJSONDataRef.current.features.length, 'features')
       const geoJsonLayer = L.geoJSON(geoJSONDataRef.current, {
@@ -187,6 +192,35 @@ const GeoJSONRenderer = ({ geoJSONDataRef, styleRef, onEachFeatureRef, dataReady
       layerRef.current = geoJsonLayer
       geoJsonLayer.bringToFront()
       console.log('[GeoJSONRenderer] GeoJSON layer added to map:', geoJsonLayer.getLayers().length, 'layers')
+      
+      // Performance measurement: Mark map render end and calculate time
+      if (typeof window !== 'undefined' && window.performance) {
+        window.performance.mark('map-render-end')
+        window.performance.measure('map-render', 'map-render-start', 'map-render-end')
+        
+        // Also measure from data load to map render (total map render time)
+        const dataLoadEnd = window.performance.getEntriesByName('data-load-end')[0]
+        if (dataLoadEnd) {
+          window.performance.measure('data-to-map-render', 'data-load-end', 'map-render-end')
+          const mapRenderMeasure = window.performance.getEntriesByName('data-to-map-render')[0]
+          if (mapRenderMeasure) {
+            const renderTime = mapRenderMeasure.duration / 1000
+            console.log(`[Performance] Map render (after data load): ${renderTime.toFixed(2)}s`)
+            console.log(`[Performance] Target: < 2s | Status: ${renderTime < 2 ? '✅ PASS' : '❌ FAIL'}`)
+            
+            // Log full performance summary after map is rendered
+            setTimeout(() => {
+              // Use dynamic import to avoid circular dependencies
+              import('../../utils/performanceUtils').then(({ logPerformanceSummary }) => {
+                logPerformanceSummary()
+              }).catch(() => {
+                // Silently fail if import fails
+              })
+            }, 100)
+          }
+        }
+      }
+      
       return true
     }
 
@@ -223,7 +257,15 @@ const GeoJSONRenderer = ({ geoJSONDataRef, styleRef, onEachFeatureRef, dataReady
   return null
 }
 
-const StateMap = ({ statesData = null, statesTopicData = null, dataTimestamp = null, onStateClick = null, onStateHover = null, onMapClick = null, isSidebarOpen = false }) => {
+const StateMap = ({
+  statesTopicData = null,
+  dataTimestamp = null,
+  onStateClick = null,
+  onStateHover = null,
+  onMapClick = null,
+  statesData = null,
+  isSidebarOpen = false
+}) => {
   const { isDark } = useTheme()
   const [geoJSONData, setGeoJSONData] = useState(null)
   const [loading, setLoading] = useState(true)
@@ -324,7 +366,7 @@ const StateMap = ({ statesData = null, statesTopicData = null, dataTimestamp = n
       const fillColor = getColorByTopicCount(topicCount, isDark)
       
       // Border color should be slightly darker/lighter than fill for contrast
-      const borderColor = isDark ? '#909090' : '#666666'
+      const borderColor = isDark ? '#606060' : '#666666'
       
       return {
         fillColor: fillColor,

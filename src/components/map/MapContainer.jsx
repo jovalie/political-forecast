@@ -4,6 +4,7 @@ import { useTheme } from '../ui/ThemeProvider'
 import StateMap from './StateMap'
 import StateDetailsPanel from './StateDetailsPanel'
 import { loadJSONData, getDataUrl } from '../../utils/dataUtils'
+import { logPerformanceSummary } from '../../utils/performanceUtils'
 import 'leaflet/dist/leaflet.css'
 import './MapContainer.css'
 
@@ -47,48 +48,54 @@ const MapContainer = () => {
     console.log('[MapContainer] Sidebar state changed - isOpen:', isSidebarOpen, 'selectedState:', selectedState?.name)
   }, [isSidebarOpen, selectedState])
 
-  // Load topic data
+  // Load topic data (real per-state files)
   useEffect(() => {
-    const loadTopicData = async () => {
+    const loadAllStates = async () => {
+      // Performance measurement: Mark data loading start
+      if (typeof window !== 'undefined' && window.performance) {
+        window.performance.mark('data-load-start')
+      }
+      
       try {
-        // Try to load real data first, fall back to mock data
-        let data = null
-        try {
-          const dataUrl = getDataUrl('data/states-topics.json')
-          console.log('[MapContainer] Loading topic data from:', dataUrl)
-          data = await loadJSONData(dataUrl)
-          console.log('[MapContainer] Loaded topic data:', {
-            hasData: !!data,
-            hasStates: !!data?.states,
-            statesCount: data?.states?.length,
-            timestamp: data?.timestamp
-          })
-        } catch (error) {
-          console.log('[MapContainer] Real data not found, using mock data:', error.message)
-          const mockDataUrl = getDataUrl('data/mock-states-topics.json')
-          data = await loadJSONData(mockDataUrl)
-          console.log('[MapContainer] Loaded mock topic data:', {
-            hasData: !!data,
-            hasStates: !!data?.states,
-            statesCount: data?.states?.length
-          })
-        }
-        
-        if (data && data.states) {
-          if (Array.isArray(data.states)) {
-            console.log(`[MapContainer] Setting ${data.states.length} states with topic data`)
-          setStatesTopicData(data.states)
-          setDataTimestamp(data.timestamp)
-          } else {
-            console.error('[MapContainer] data.states is not an array:', typeof data.states, data.states)
+        const stateCodes = [
+          "AL","AK","AZ","AR","CA","CO","CT","DE","FL","GA",
+          "HI","ID","IL","IN","IA","KS","KY","LA","ME","MD",
+          "MA","MI","MN","MS","MO","MT","NE","NV","NH","NJ",
+          "NM","NY","NC","ND","OH","OK","OR","PA","RI","SC",
+          "SD","TN","TX","UT","VT","VA","WA","WV","WI","WY",
+          "DC"
+        ]
+        const results = []
+        let timestamp = null
+
+        console.log('[MapContainer] Loading topic data from individual state files')
+        for (const code of stateCodes) {
+          try {
+            const file = await loadJSONData(`data/states/${code}.json`)
+            if (!timestamp && file.timestamp) {
+              timestamp = file.timestamp
+            }
+            if (file.states && file.states[0]) {
+              results.push(file.states[0]) // push the state's data entry
+            }
+          } catch (err) {
+            console.warn(`[MapContainer] Missing or unreadable ${code}.json`)
           }
-        } else {
-          console.warn('[MapContainer] Data loaded but missing states array:', {
-            hasData: !!data,
-            hasStates: !!data?.states,
-            dataKeys: data ? Object.keys(data) : []
-          })
         }
+
+        // Performance measurement: Mark data loading end
+        if (typeof window !== 'undefined' && window.performance) {
+          window.performance.mark('data-load-end')
+          window.performance.measure('data-load', 'data-load-start', 'data-load-end')
+          const dataLoadMeasure = window.performance.getEntriesByName('data-load')[0]
+          if (dataLoadMeasure) {
+            console.log(`[Performance] Data loading: ${(dataLoadMeasure.duration / 1000).toFixed(2)}s`)
+          }
+        }
+
+        console.log(`[MapContainer] Loaded ${results.length} states with topic data`)
+        setStatesTopicData(results)
+        setDataTimestamp(timestamp)
       } catch (error) {
         console.error('[MapContainer] Error loading topic data:', error)
         // Continue without topic data - map will still work
@@ -97,7 +104,7 @@ const MapContainer = () => {
       }
     }
 
-    loadTopicData()
+    loadAllStates()
   }, [])
 
   // Handle state click - extract state data and open sidebar
