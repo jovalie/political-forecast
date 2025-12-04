@@ -1,20 +1,21 @@
 {
-  "timestamp": "2025-12-04T19:12:14.942Z",
+  "timestamp": "2025-12-04T19:45:43.648Z",
   "states": [
     {
       "name": "Alabama",
       "code": "AL",
-      "topTopic": "news",
+      "topTopic": "brian cole jr",
       "category": "Law and Government",
-      "trendingScore": 85,
+      "trendingScore": 100,
       "topics": [
         {
-          "name": "news",
-          "relevanceScore": 85,
+          "name": "brian cole jr",
+          "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "12h ago",
-          "percentageIncrease": "50%"
+          "searchVolume": "500+",
+          "started": "40 minutes ago",
+          "trendBreakdown": "brian",
+          "percentageIncrease": "1000%"
         }
       ]
     }

@@ -1,19 +1,28 @@
 {
-  "timestamp": "2025-12-04T19:12:14.942Z",
+  "timestamp": "2025-12-04T19:45:43.648Z",
   "states": [
     {
       "name": "Indiana",
       "code": "IN",
-      "topTopic": "supreme",
+      "topTopic": "brian cole",
       "category": "Law and Government",
-      "trendingScore": 95,
+      "trendingScore": 100,
       "topics": [
+        {
+          "name": "brian cole",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "2h ago",
+          "trendBreakdown": "brian",
+          "percentageIncrease": "1000%"
+        },
         {
           "name": "supreme",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "2h ago",
+          "started": "3h ago",
           "percentageIncrease": "400%"
         }
       ]
