@@ -1,28 +1,54 @@
 {
-  "timestamp": "2025-11-17T20:24:34.629Z",
+  "timestamp": "2025-12-04T19:12:14.942Z",
   "states": [
     {
       "name": "Pennsylvania",
       "code": "PA",
-      "topTopic": "sheikh hasina",
+      "topTopic": "brian cole",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
         {
-          "name": "sheikh hasina",
+          "name": "brian cole",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "6h ago",
-          "percentageIncrease": "600%"
+          "searchVolume": "2K+",
+          "started": "3h ago",
+          "trendBreakdown": "brian",
+          "percentageIncrease": "1000%"
         },
         {
-          "name": "oj simpson",
+          "name": "suge knight",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "18h ago",
+          "percentageIncrease": "300%"
+        },
+        {
+          "name": "queen victoria",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "18h ago",
+          "percentageIncrease": "200%"
+        },
+        {
+          "name": "raccoon liquor store",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "500+",
           "started": "20h ago",
+          "trendBreakdown": "drunk",
           "percentageIncrease": "300%"
+        },
+        {
+          "name": "nancy mace",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "16h ago",
+          "percentageIncrease": "400%"
         }
       ]
     }

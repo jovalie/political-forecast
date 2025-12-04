@@ -1,20 +1,62 @@
 {
-  "timestamp": "2025-11-17T20:24:34.629Z",
+  "timestamp": "2025-12-04T19:12:14.942Z",
   "states": [
     {
       "name": "Texas",
       "code": "TX",
-      "topTopic": "sheikh hasina",
+      "topTopic": "brian cole",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
         {
-          "name": "sheikh hasina",
+          "name": "brian cole",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "7h ago",
+          "searchVolume": "2K+",
+          "started": "3h ago",
+          "trendBreakdown": "brian",
+          "percentageIncrease": "1000%"
+        },
+        {
+          "name": "kisd",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "4h ago",
           "percentageIncrease": "500%"
+        },
+        {
+          "name": "supreme",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "1K+",
+          "started": "3h ago",
+          "percentageIncrease": "400%"
+        },
+        {
+          "name": "suge knight",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "1K+",
+          "started": "17h ago",
+          "percentageIncrease": "300%"
+        },
+        {
+          "name": "raccoon liquor store",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "19h ago",
+          "trendBreakdown": "racoon",
+          "percentageIncrease": "200%"
+        },
+        {
+          "name": "enoch burke",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "15h ago",
+          "percentageIncrease": "300%"
         }
       ]
     }

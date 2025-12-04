@@ -1,14 +1,22 @@
 {
-  "timestamp": "2025-11-17T04:47:44.555Z",
+  "timestamp": "2025-12-04T19:12:14.942Z",
   "states": [
     {
       "name": "Iowa",
       "code": "IA",
+      "topTopic": "kcci",
       "category": "Law and Government",
-      "topics": [],
-      "topTopic": "",
-      "trendingScore": 0,
-      "timestamp": "2025-11-17T04:47:44.555Z"
+      "trendingScore": 90,
+      "topics": [
+        {
+          "name": "kcci",
+          "relevanceScore": 90,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "8h ago",
+          "percentageIncrease": "100%"
+        }
+      ]
     }
   ]
 }

@@ -1,28 +1,45 @@
 {
-  "timestamp": "2025-11-17T20:24:34.629Z",
+  "timestamp": "2025-12-04T19:12:14.942Z",
   "states": [
     {
       "name": "Georgia",
       "code": "GA",
-      "topTopic": "venezuelan military",
+      "topTopic": "brian cole",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
         {
-          "name": "venezuelan military",
+          "name": "brian cole",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "1K+",
+          "started": "3h ago",
+          "trendBreakdown": "brian",
+          "percentageIncrease": "1000%"
+        },
+        {
+          "name": "sandy springs",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "23h ago",
+          "started": "1h ago",
           "percentageIncrease": "600%"
         },
         {
-          "name": "sheikh hasina",
+          "name": "suge knight",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "18h ago",
+          "percentageIncrease": "300%"
+        },
+        {
+          "name": "queen victoria",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "3h ago",
-          "percentageIncrease": "400%"
+          "started": "15h ago",
+          "percentageIncrease": "200%"
         }
       ]
     }

@@ -1,20 +1,21 @@
 {
-  "timestamp": "2025-11-17T20:24:34.629Z",
+  "timestamp": "2025-12-04T19:12:14.942Z",
   "states": [
     {
       "name": "Washington",
       "code": "WA",
-      "topTopic": "portugal",
+      "topTopic": "brian cole",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
         {
-          "name": "portugal",
+          "name": "brian cole",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "19h ago",
-          "percentageIncrease": "500%"
+          "searchVolume": "500+",
+          "started": "2h ago",
+          "trendBreakdown": "brian",
+          "percentageIncrease": "1000%"
         }
       ]
     }

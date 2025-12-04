@@ -1,28 +1,37 @@
 {
-  "timestamp": "2025-11-17T20:24:34.629Z",
+  "timestamp": "2025-12-04T19:12:14.942Z",
   "states": [
     {
       "name": "Michigan",
       "code": "MI",
-      "topTopic": "prime",
+      "topTopic": "brian cole",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
         {
-          "name": "prime",
+          "name": "brian cole",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "72K+",
-          "started": "6h ago",
+          "searchVolume": "1K+",
+          "started": "2h ago",
+          "trendBreakdown": "brian",
           "percentageIncrease": "1000%"
         },
         {
-          "name": "sheikh hasina",
-          "relevanceScore": 100,
+          "name": "supreme",
+          "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "5h ago",
-          "percentageIncrease": "900%"
+          "started": "3h ago",
+          "percentageIncrease": "300%"
+        },
+        {
+          "name": "fox",
+          "relevanceScore": 90,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "8h ago",
+          "percentageIncrease": "100%"
         }
       ]
     }

@@ -1,14 +1,23 @@
 {
-  "timestamp": "2025-11-17T04:47:44.555Z",
+  "timestamp": "2025-12-04T19:12:14.942Z",
   "states": [
     {
       "name": "Nebraska",
       "code": "NE",
+      "topTopic": "ketv",
       "category": "Law and Government",
-      "topics": [],
-      "topTopic": "",
-      "trendingScore": 0,
-      "timestamp": "2025-11-17T04:47:44.555Z"
+      "trendingScore": 100,
+      "topics": [
+        {
+          "name": "ketv",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "1K+",
+          "started": "22h ago",
+          "trendBreakdown": "omaha",
+          "percentageIncrease": "500%"
+        }
+      ]
     }
   ]
 }

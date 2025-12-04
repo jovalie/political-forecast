@@ -1,15 +1,24 @@
 {
-  "timestamp": "2025-11-17T20:24:34.629Z",
+  "timestamp": "2025-12-04T19:12:14.942Z",
   "states": [
     {
       "name": "North Carolina",
       "code": "NC",
-      "topTopic": "why are flags at half mast today",
+      "topTopic": "brian cole",
       "category": "Law and Government",
-      "trendingScore": 95,
+      "trendingScore": 100,
       "topics": [
         {
-          "name": "why are flags at half mast today",
+          "name": "brian cole",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "1K+",
+          "started": "3h ago",
+          "trendBreakdown": "brian",
+          "percentageIncrease": "1000%"
+        },
+        {
+          "name": "queen victoria",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "500+",
@@ -17,19 +26,11 @@
           "percentageIncrease": "200%"
         },
         {
-          "name": "oj simpson",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "12h ago",
-          "percentageIncrease": "200%"
-        },
-        {
-          "name": "ice",
+          "name": "pete hegseth",
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "16h ago",
+          "started": "19h ago",
           "percentageIncrease": "100%"
         }
       ]

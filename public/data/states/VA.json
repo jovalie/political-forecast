@@ -1,45 +1,38 @@
 {
-  "timestamp": "2025-11-17T20:24:34.629Z",
+  "timestamp": "2025-12-04T19:12:14.942Z",
   "states": [
     {
       "name": "Virginia",
       "code": "VA",
-      "topTopic": "river north correctional center",
+      "topTopic": "brian cole",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
         {
-          "name": "river north correctional center",
+          "name": "brian cole",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "2K+",
-          "started": "4h ago",
+          "searchVolume": "5K+",
+          "started": "3h ago",
+          "trendBreakdown": "brian",
           "percentageIncrease": "1000%"
         },
         {
-          "name": "fema",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "50 minutes ago",
-          "trendBreakdown": "abc",
-          "percentageIncrease": "700%"
-        },
-        {
-          "name": "sheikh hasina",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "7h ago",
-          "percentageIncrease": "700%"
-        },
-        {
-          "name": "venezuelan military",
+          "name": "mgm",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "100+",
           "started": "23h ago",
-          "percentageIncrease": "900%"
+          "percentageIncrease": "600%"
+        },
+        {
+          "name": "racoon liquor store",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "1K+",
+          "started": "21h ago",
+          "trendBreakdown": "drunk",
+          "percentageIncrease": "300%"
         }
       ]
     }

@@ -1,62 +1,65 @@
 {
-  "timestamp": "2025-11-17T20:24:34.629Z",
+  "timestamp": "2025-12-04T19:12:14.942Z",
   "states": [
     {
       "name": "New York",
       "code": "NY",
-      "topTopic": "sheikh hasina",
+      "topTopic": "brian cole",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
         {
-          "name": "sheikh hasina",
+          "name": "brian cole",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "2K+",
-          "started": "8h ago",
+          "started": "3h ago",
+          "trendBreakdown": "brian",
           "percentageIncrease": "1000%"
         },
         {
-          "name": "lindsey halligan",
+          "name": "a&a",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "1h ago",
-          "trendBreakdown": "fox",
+          "started": "3h ago",
+          "trendBreakdown": "and",
           "percentageIncrease": "800%"
         },
         {
-          "name": "fema",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "50 minutes ago",
-          "percentageIncrease": "500%"
-        },
-        {
-          "name": "cne ecuador",
+          "name": "supreme",
           "relevanceScore": 95,
           "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "21h ago",
-          "trendBreakdown": "consulta",
+          "searchVolume": "2K+",
+          "started": "3h ago",
+          "trendBreakdown": "scott",
           "percentageIncrease": "300%"
         },
         {
-          "name": "food",
-          "relevanceScore": 95,
+          "name": "drunk raccoon",
+          "relevanceScore": 90,
           "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "13h ago",
-          "percentageIncrease": "400%"
+          "searchVolume": "500+",
+          "started": "19h ago",
+          "trendBreakdown": "raccoon",
+          "percentageIncrease": "100%"
         },
         {
-          "name": "wktv",
+          "name": "north country now",
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "9h ago",
+          "started": "8h ago",
           "percentageIncrease": "100%"
+        },
+        {
+          "name": "pete hegseth",
+          "relevanceScore": 85,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "7h ago",
+          "trendBreakdown": "street",
+          "percentageIncrease": "50%"
         }
       ]
     }
