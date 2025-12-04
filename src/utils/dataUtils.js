@@ -346,6 +346,112 @@ function normalizeTopicName(topicName) {
 }
 
 /**
+ * Parse a relative time string (e.g., "9h ago", "50 minutes ago", "2 days ago")
+ * and return the duration in milliseconds
+ * @param {string} timeString - Relative time string (e.g., "9h ago", "50 minutes ago")
+ * @returns {number} Duration in milliseconds, or null if parsing fails
+ */
+function parseRelativeTime(timeString) {
+  if (!timeString || typeof timeString !== 'string') {
+    return null
+  }
+
+  const normalized = timeString.toLowerCase().trim()
+  
+  // Match patterns like:
+  // - "9h ago" or "9 hours ago"
+  // - "50 minutes ago" or "50m ago"
+  // - "2 days ago" or "2d ago"
+  const patterns = [
+    { regex: /(\d+)\s*(?:hours?|h)\s*ago/i, multiplier: 60 * 60 * 1000 }, // hours
+    { regex: /(\d+)\s*(?:minutes?|mins?|m)\s*ago/i, multiplier: 60 * 1000 }, // minutes
+    { regex: /(\d+)\s*(?:days?|d)\s*ago/i, multiplier: 24 * 60 * 60 * 1000 }, // days
+  ]
+
+  for (const pattern of patterns) {
+    const match = normalized.match(pattern.regex)
+    if (match) {
+      const value = parseInt(match[1], 10)
+      if (!isNaN(value) && value >= 0) {
+        return value * pattern.multiplier
+      }
+    }
+  }
+
+  return null
+}
+
+/**
+ * Format a duration in milliseconds as a human-readable relative time string
+ * @param {number} durationMs - Duration in milliseconds
+ * @returns {string} Formatted relative time (e.g., "9h ago", "50 minutes ago")
+ */
+function formatRelativeTime(durationMs) {
+  if (durationMs < 0) {
+    return 'just now'
+  }
+
+  const seconds = Math.floor(durationMs / 1000)
+  const minutes = Math.floor(seconds / 60)
+  const hours = Math.floor(minutes / 60)
+  const days = Math.floor(hours / 24)
+
+  if (days > 0) {
+    return `${days} ${days === 1 ? 'day' : 'days'} ago`
+  } else if (hours > 0) {
+    return `${hours}h ago`
+  } else if (minutes > 0) {
+    return `${minutes} ${minutes === 1 ? 'minute' : 'minutes'} ago`
+  } else {
+    return 'just now'
+  }
+}
+
+/**
+ * Convert a "started" timestamp from being relative to data scrape time
+ * to being relative to the current time
+ * @param {string} started - Original "started" string (e.g., "9h ago")
+ * @param {string} dataTimestamp - ISO timestamp string of when data was scraped
+ * @returns {string} Updated "started" string relative to current time, or original if conversion fails
+ */
+export function convertStartedToCurrentTime(started, dataTimestamp) {
+  if (!started || !dataTimestamp) {
+    return started || 'N/A'
+  }
+
+  try {
+    // Parse the data timestamp
+    const dataTime = new Date(dataTimestamp)
+    if (isNaN(dataTime.getTime())) {
+      console.warn('[convertStartedToCurrentTime] Invalid dataTimestamp:', dataTimestamp)
+      return started
+    }
+
+    // Parse the "started" relative time
+    const startedDurationMs = parseRelativeTime(started)
+    if (startedDurationMs === null) {
+      // If we can't parse it, return the original
+      return started
+    }
+
+    // Calculate when the trend actually started
+    // If data was scraped at T and trend started "9h ago" from T,
+    // then trend started at T - 9 hours
+    const trendStartTime = new Date(dataTime.getTime() - startedDurationMs)
+
+    // Calculate how long ago that was from now
+    const now = new Date()
+    const timeSinceStart = now.getTime() - trendStartTime.getTime()
+
+    // Format as relative time
+    return formatRelativeTime(timeSinceStart)
+  } catch (error) {
+    console.error('[convertStartedToCurrentTime] Error converting timestamp:', error)
+    return started
+  }
+}
+
+/**
  * Get color for a state based on the number of trending topics
  * Light theme: more topics = darker gray
  * Dark theme: more topics = brighter/lighter gray (inverted for visibility)
