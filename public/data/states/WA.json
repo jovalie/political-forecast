@@ -1,28 +1,36 @@
 {
-  "timestamp": "2025-12-05T04:10:06.063Z",
+  "timestamp": "2025-12-05T06:05:20.186Z",
   "states": [
     {
       "name": "Washington",
       "code": "WA",
-      "topTopic": "brian cole jr",
+      "topTopic": "brian cole",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
         {
-          "name": "brian cole jr",
+          "name": "brian cole",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "2K+",
-          "started": "9h ago",
+          "started": "13h ago",
           "trendBreakdown": "brian",
-          "percentageIncrease": "900%"
+          "percentageIncrease": "800%"
+        },
+        {
+          "name": "suge knight",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "1h ago",
+          "percentageIncrease": "300%"
         },
         {
           "name": "vaccinations",
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "1h ago",
+          "started": "3h ago",
           "percentageIncrease": "100%"
         }
       ]
