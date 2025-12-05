@@ -1,35 +1,35 @@
 {
-  "timestamp": "2025-12-05T18:04:45.616Z",
+  "timestamp": "2025-12-05T20:04:52.830Z",
   "states": [
     {
       "name": "Michigan",
       "code": "MI",
-      "topTopic": "hepatitis b",
+      "topTopic": "house of ludington",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
+        {
+          "name": "house of ludington",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "2h ago",
+          "percentageIncrease": "1000%"
+        },
         {
           "name": "hepatitis b",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "1h ago",
+          "started": "3h ago",
           "percentageIncrease": "700%"
-        },
-        {
-          "name": "brian cole jr",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "23h ago",
-          "percentageIncrease": "1000%"
         },
         {
           "name": "michigan minimum wage",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "20h ago",
+          "started": "22h ago",
           "percentageIncrease": "500%"
         }
       ]

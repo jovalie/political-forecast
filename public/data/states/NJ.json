@@ -1,27 +1,28 @@
 {
-  "timestamp": "2025-12-05T18:04:45.616Z",
+  "timestamp": "2025-12-05T20:04:52.830Z",
   "states": [
     {
       "name": "New Jersey",
       "code": "NJ",
-      "topTopic": "brian cole jr",
+      "topTopic": "hepatitis b",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
         {
-          "name": "brian cole jr",
+          "name": "hepatitis b",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "23h ago",
-          "percentageIncrease": "1000%"
+          "searchVolume": "500+",
+          "started": "4h ago",
+          "trendBreakdown": "hep",
+          "percentageIncrease": "700%"
         },
         {
           "name": "letitia james",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "19h ago",
+          "started": "21h ago",
           "percentageIncrease": "1000%"
         }
       ]

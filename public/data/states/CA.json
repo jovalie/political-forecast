@@ -1,62 +1,70 @@
 {
-  "timestamp": "2025-12-05T18:04:45.616Z",
+  "timestamp": "2025-12-05T20:04:52.830Z",
   "states": [
     {
       "name": "California",
       "code": "CA",
-      "topTopic": "hepatitis b",
+      "topTopic": "birthright citizenship",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
+        {
+          "name": "birthright citizenship",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "2K+",
+          "started": "40 minutes ago",
+          "trendBreakdown": "supreme",
+          "percentageIncrease": "800%"
+        },
+        {
+          "name": "curacao",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "1h ago",
+          "percentageIncrease": "600%"
+        },
         {
           "name": "hepatitis b",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "2K+",
-          "started": "2h ago",
+          "started": "4h ago",
           "trendBreakdown": "hep",
-          "percentageIncrease": "700%"
+          "percentageIncrease": "500%"
+        },
+        {
+          "name": "fox",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "1K+",
+          "started": "3h ago",
+          "percentageIncrease": "200%"
         },
         {
           "name": "aircraft carrier",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "7h ago",
+          "started": "9h ago",
+          "percentageIncrease": "300%"
+        },
+        {
+          "name": "supreme court texas redistricting",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "1K+",
+          "started": "14h ago",
+          "trendBreakdown": "texas",
           "percentageIncrease": "400%"
-        },
-        {
-          "name": "fox",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "1h ago",
-          "percentageIncrease": "300%"
-        },
-        {
-          "name": "supreme court",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "2K+",
-          "started": "18h ago",
-          "trendBreakdown": "supreme",
-          "percentageIncrease": "300%"
-        },
-        {
-          "name": "brian cole pipe bomber",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "2K+",
-          "started": "23h ago",
-          "trendBreakdown": "brian",
-          "percentageIncrease": "200%"
         },
         {
           "name": "deli",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "2K+",
-          "started": "16h ago",
+          "started": "18h ago",
           "percentageIncrease": "200%"
         },
         {
@@ -64,7 +72,7 @@
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "16h ago",
+          "started": "18h ago",
           "percentageIncrease": "100%"
         },
         {
@@ -72,7 +80,7 @@
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "19h ago",
+          "started": "21h ago",
           "percentageIncrease": "100%"
         }
       ]

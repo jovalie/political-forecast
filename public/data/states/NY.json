@@ -1,62 +1,53 @@
 {
-  "timestamp": "2025-12-05T18:04:45.616Z",
+  "timestamp": "2025-12-05T20:04:52.830Z",
   "states": [
     {
       "name": "New York",
       "code": "NY",
-      "topTopic": "hepatitis b",
+      "topTopic": "jeremy o harris",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
         {
-          "name": "hepatitis b",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "2h ago",
-          "trendBreakdown": "hep",
-          "percentageIncrease": "500%"
-        },
-        {
           "name": "jeremy o harris",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "4h ago",
+          "searchVolume": "1K+",
+          "started": "6h ago",
           "percentageIncrease": "500%"
         },
         {
-          "name": "bethpage deli stabbing",
+          "name": "curacao",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "1h ago",
+          "percentageIncrease": "1000%"
+        },
+        {
+          "name": "birthright citizenship",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "20 minutes ago",
+          "trendBreakdown": "supreme",
+          "percentageIncrease": "1000%"
+        },
+        {
+          "name": "hepatitis b",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "2K+",
-          "started": "23h ago",
-          "trendBreakdown": "stabbing",
-          "percentageIncrease": "300%"
+          "started": "4h ago",
+          "trendBreakdown": "hep",
+          "percentageIncrease": "400%"
         },
         {
           "name": "aircraft carrier",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "5h ago",
-          "percentageIncrease": "300%"
-        },
-        {
-          "name": "brian cole pipe bomber",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "22h ago",
-          "trendBreakdown": "brian",
-          "percentageIncrease": "300%"
-        },
-        {
-          "name": "supreme court",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "17h ago",
+          "started": "7h ago",
           "percentageIncrease": "300%"
         },
         {
@@ -64,31 +55,39 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "13h ago",
+          "started": "15h ago",
           "percentageIncrease": "200%"
+        },
+        {
+          "name": "jeanine pirro",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "19h ago",
+          "percentageIncrease": "400%"
         },
         {
           "name": "brian walshe",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "21h ago",
+          "started": "23h ago",
           "percentageIncrease": "200%"
+        },
+        {
+          "name": "fox",
+          "relevanceScore": 90,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "3h ago",
+          "percentageIncrease": "100%"
         },
         {
           "name": "shalom baranes",
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "16h ago",
-          "percentageIncrease": "100%"
-        },
-        {
-          "name": "uscis",
-          "relevanceScore": 90,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "11h ago",
+          "started": "18h ago",
           "percentageIncrease": "100%"
         }
       ]

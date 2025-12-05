@@ -1,19 +1,27 @@
 {
-  "timestamp": "2025-12-05T18:04:45.616Z",
+  "timestamp": "2025-12-05T20:04:52.830Z",
   "states": [
     {
       "name": "Texas",
       "code": "TX",
-      "topTopic": "supreme court",
+      "topTopic": "curacao",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
         {
-          "name": "supreme court",
+          "name": "curacao",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "1h ago",
+          "percentageIncrease": "700%"
+        },
+        {
+          "name": "birthright citizenship",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "18h ago",
+          "started": "20 minutes ago",
           "trendBreakdown": "supreme",
           "percentageIncrease": "600%"
         },
@@ -22,7 +30,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "19h ago",
+          "started": "21h ago",
           "percentageIncrease": "700%"
         },
         {
@@ -30,15 +38,23 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "2h ago",
-          "percentageIncrease": "400%"
+          "started": "4h ago",
+          "percentageIncrease": "300%"
+        },
+        {
+          "name": "aircraft carrier",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "7h ago",
+          "percentageIncrease": "200%"
         },
         {
           "name": "kisd",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "3h ago",
+          "started": "5h ago",
           "percentageIncrease": "300%"
         },
         {
@@ -46,16 +62,16 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "15h ago",
+          "started": "17h ago",
           "percentageIncrease": "200%"
         },
         {
-          "name": "brian cole pipe bomber",
+          "name": "supreme court texas redistricting",
           "relevanceScore": 95,
           "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "23h ago",
-          "trendBreakdown": "pipe",
+          "searchVolume": "500+",
+          "started": "15h ago",
+          "trendBreakdown": "texas",
           "percentageIncrease": "200%"
         },
         {
@@ -63,7 +79,7 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "16h ago",
+          "started": "18h ago",
           "percentageIncrease": "200%"
         },
         {
@@ -71,7 +87,7 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "14h ago",
+          "started": "16h ago",
           "percentageIncrease": "200%"
         }
       ]

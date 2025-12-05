@@ -1,43 +1,36 @@
 {
-  "timestamp": "2025-12-05T18:04:45.616Z",
+  "timestamp": "2025-12-05T20:04:52.830Z",
   "states": [
     {
       "name": "Georgia",
       "code": "GA",
-      "topTopic": "walb",
+      "topTopic": "tifton ga",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
         {
-          "name": "walb",
+          "name": "tifton ga",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "40 minutes ago",
-          "percentageIncrease": "500%"
+          "searchVolume": "1K+",
+          "started": "1h ago",
+          "trendBreakdown": "newswalb",
+          "percentageIncrease": "1000%"
         },
         {
-          "name": "walb news",
+          "name": "curacao",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "10 minutes ago",
-          "percentageIncrease": "800%"
-        },
-        {
-          "name": "dc pipe bomber",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "22h ago",
-          "percentageIncrease": "500%"
+          "started": "1h ago",
+          "percentageIncrease": "1000%"
         },
         {
           "name": "fox",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "30 minutes ago",
+          "started": "2h ago",
           "percentageIncrease": "200%"
         },
         {
@@ -45,7 +38,7 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "15h ago",
+          "started": "17h ago",
           "percentageIncrease": "200%"
         },
         {
@@ -53,23 +46,15 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "18h ago",
+          "started": "20h ago",
           "percentageIncrease": "300%"
-        },
-        {
-          "name": "trinity poague",
-          "relevanceScore": 90,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "14h ago",
-          "percentageIncrease": "100%"
         },
         {
           "name": "uscis",
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "15h ago",
+          "started": "17h ago",
           "percentageIncrease": "100%"
         }
       ]

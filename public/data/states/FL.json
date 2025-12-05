@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-12-05T18:04:45.616Z",
+  "timestamp": "2025-12-05T20:04:52.830Z",
   "states": [
     {
       "name": "Florida",
@@ -12,41 +12,32 @@
           "name": "east ridge high school",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "3h ago",
-          "percentageIncrease": "600%"
+          "searchVolume": "1K+",
+          "started": "5h ago",
+          "percentageIncrease": "500%"
         },
         {
           "name": "letitia james",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "19h ago",
+          "started": "21h ago",
           "percentageIncrease": "900%"
-        },
-        {
-          "name": "hepatitis b",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "2h ago",
-          "percentageIncrease": "400%"
         },
         {
           "name": "aircraft carrier",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "5h ago",
+          "started": "7h ago",
           "percentageIncrease": "300%"
         },
         {
-          "name": "brian cole pipe bomber",
+          "name": "hepatitis b",
           "relevanceScore": 95,
           "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "22h ago",
-          "trendBreakdown": "pipe",
+          "searchVolume": "500+",
+          "started": "4h ago",
           "percentageIncrease": "300%"
         },
         {
@@ -54,7 +45,16 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "15h ago",
+          "started": "17h ago",
+          "percentageIncrease": "200%"
+        },
+        {
+          "name": "dc pipe bomber",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "8h ago",
+          "trendBreakdown": "jeanine",
           "percentageIncrease": "200%"
         }
       ]
