@@ -1,19 +1,19 @@
 {
-  "timestamp": "2025-12-05T00:05:10.889Z",
+  "timestamp": "2025-12-05T02:34:31.261Z",
   "states": [
     {
       "name": "Oklahoma",
       "code": "OK",
-      "topTopic": "news on",
+      "topTopic": "news",
       "category": "Law and Government",
       "trendingScore": 90,
       "topics": [
         {
-          "name": "news on",
+          "name": "news",
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "18h ago",
+          "started": "15h ago",
           "percentageIncrease": "100%"
         }
       ]

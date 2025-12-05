@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-12-05T00:05:10.889Z",
+  "timestamp": "2025-12-05T02:34:31.261Z",
   "states": [
     {
       "name": "Texas",
@@ -12,8 +12,8 @@
           "name": "brian cole",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "5K+",
-          "started": "8h ago",
+          "searchVolume": "10K+",
+          "started": "11h ago",
           "trendBreakdown": "brian",
           "percentageIncrease": "1000%"
         },
@@ -22,40 +22,33 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "1h ago",
-          "percentageIncrease": "1000%"
+          "started": "4h ago",
+          "percentageIncrease": "700%"
         },
         {
-          "name": "supreme court",
+          "name": "kisd",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "40 minutes ago",
-          "percentageIncrease": "1000%"
+          "searchVolume": "500+",
+          "started": "11h ago",
+          "percentageIncrease": "500%"
         },
         {
-          "name": "suge knight",
+          "name": "texas redistricting supreme court",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "22h ago",
-          "percentageIncrease": "300%"
+          "started": "20 minutes ago",
+          "trendBreakdown": "supreme",
+          "percentageIncrease": "400%"
         },
         {
           "name": "enoch burke",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "20h ago",
+          "started": "22h ago",
           "percentageIncrease": "300%"
-        },
-        {
-          "name": "drunk raccoon",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "23h ago",
-          "percentageIncrease": "200%"
         }
       ]
     }

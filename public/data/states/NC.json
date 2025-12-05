@@ -1,19 +1,27 @@
 {
-  "timestamp": "2025-12-05T00:05:10.889Z",
+  "timestamp": "2025-12-05T02:34:31.261Z",
   "states": [
     {
       "name": "North Carolina",
       "code": "NC",
-      "topTopic": "brian cole",
+      "topTopic": "wake county",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
+        {
+          "name": "wake county",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "5h ago",
+          "percentageIncrease": "700%"
+        },
         {
           "name": "brian cole",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "2K+",
-          "started": "8h ago",
+          "started": "10h ago",
           "trendBreakdown": "brian",
           "percentageIncrease": "1000%"
         },
@@ -22,16 +30,16 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "2h ago",
+          "started": "5h ago",
           "percentageIncrease": "1000%"
         },
         {
-          "name": "queen victoria",
-          "relevanceScore": 95,
+          "name": "wral",
+          "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "23h ago",
-          "percentageIncrease": "200%"
+          "started": "2h ago",
+          "percentageIncrease": "100%"
         }
       ]
     }

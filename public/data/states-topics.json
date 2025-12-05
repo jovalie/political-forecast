@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-12-05T00:05:10.889Z",
+  "timestamp": "2025-12-05T02:34:31.261Z",
   "states": [
     {
       "name": "California",
@@ -13,57 +13,41 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "10K+",
-          "started": "8h ago",
+          "started": "10h ago",
           "trendBreakdown": "brian",
           "percentageIncrease": "1000%"
-        },
-        {
-          "name": "letitia james",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "6h ago",
-          "percentageIncrease": "900%"
         },
         {
           "name": "supreme court",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "2K+",
-          "started": "40 minutes ago",
-          "percentageIncrease": "500%"
-        },
-        {
-          "name": "reno news",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "7h ago",
+          "started": "3h ago",
+          "trendBreakdown": "texas",
           "percentageIncrease": "600%"
         },
         {
-          "name": "nancy mace",
-          "relevanceScore": 95,
+          "name": "letitia james",
+          "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "22h ago",
-          "percentageIncrease": "300%"
+          "searchVolume": "1K+",
+          "started": "8h ago",
+          "percentageIncrease": "700%"
         },
         {
-          "name": "drunk raccoon",
-          "relevanceScore": 95,
+          "name": "deli near me",
+          "relevanceScore": 90,
           "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "22h ago",
-          "trendBreakdown": "racoon",
-          "percentageIncrease": "200%"
+          "searchVolume": "1K+",
+          "started": "40 minutes ago",
+          "percentageIncrease": "100%"
         },
         {
           "name": "cashmir chinedu luke",
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "10h ago",
+          "started": "12h ago",
           "percentageIncrease": "100%"
         },
         {
@@ -71,7 +55,7 @@
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "20h ago",
+          "started": "22h ago",
           "percentageIncrease": "100%"
         },
         {
@@ -79,7 +63,7 @@
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "1h ago",
+          "started": "3h ago",
           "percentageIncrease": "100%"
         },
         {
@@ -87,7 +71,23 @@
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "6h ago",
+          "started": "9h ago",
+          "percentageIncrease": "100%"
+        },
+        {
+          "name": "sacramento",
+          "relevanceScore": 90,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "10h ago",
+          "percentageIncrease": "100%"
+        },
+        {
+          "name": "vladimir putin",
+          "relevanceScore": 90,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "20h ago",
           "percentageIncrease": "100%"
         }
       ]
@@ -95,33 +95,33 @@
     {
       "name": "Arizona",
       "code": "AZ",
-      "topTopic": "brian cole jr",
+      "topTopic": "brian cole",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
         {
-          "name": "brian cole jr",
+          "name": "brian cole",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "2K+",
-          "started": "5h ago",
+          "started": "10h ago",
           "trendBreakdown": "brian",
-          "percentageIncrease": "1000%"
+          "percentageIncrease": "900%"
         },
         {
           "name": "letitia james",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "30 minutes ago",
-          "percentageIncrease": "900%"
+          "started": "3h ago",
+          "percentageIncrease": "1000%"
         },
         {
           "name": "queen victoria",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "21h ago",
+          "started": "23h ago",
           "percentageIncrease": "200%"
         }
       ]
@@ -137,8 +137,8 @@
           "name": "brian cole",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "5K+",
-          "started": "8h ago",
+          "searchVolume": "10K+",
+          "started": "11h ago",
           "trendBreakdown": "brian",
           "percentageIncrease": "1000%"
         },
@@ -147,15 +147,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "1h ago",
-          "percentageIncrease": "1000%"
-        },
-        {
-          "name": "supreme",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "8h ago",
+          "started": "4h ago",
           "percentageIncrease": "900%"
         },
         {
@@ -163,25 +155,24 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "12h ago",
+          "started": "15h ago",
           "percentageIncrease": "300%"
         },
         {
-          "name": "brevard county",
+          "name": "supreme court",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "30 minutes ago",
-          "trendBreakdown": "maxwell",
-          "percentageIncrease": "200%"
+          "started": "2h ago",
+          "percentageIncrease": "300%"
         },
         {
-          "name": "raccoon liquor store",
+          "name": "maxwell horvath",
           "relevanceScore": 95,
           "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "24h ago",
-          "trendBreakdown": "racoon",
+          "searchVolume": "500+",
+          "started": "15h ago",
+          "trendBreakdown": "brevard",
           "percentageIncrease": "200%"
         }
       ]
@@ -198,7 +189,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "2K+",
-          "started": "8h ago",
+          "started": "10h ago",
           "trendBreakdown": "brian",
           "percentageIncrease": "1000%"
         },
@@ -207,24 +198,24 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "6h ago",
+          "started": "8h ago",
           "percentageIncrease": "600%"
-        },
-        {
-          "name": "suge knight",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "23h ago",
-          "percentageIncrease": "300%"
         },
         {
           "name": "queen victoria",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "20h ago",
+          "started": "23h ago",
           "percentageIncrease": "200%"
+        },
+        {
+          "name": "uscis",
+          "relevanceScore": 90,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "10 minutes ago",
+          "percentageIncrease": "100%"
         }
       ]
     },
@@ -239,25 +230,33 @@
           "name": "brian cole",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "2K+",
-          "started": "8h ago",
+          "searchVolume": "5K+",
+          "started": "10h ago",
           "trendBreakdown": "brian",
           "percentageIncrease": "1000%"
         },
         {
-          "name": "supreme",
-          "relevanceScore": 90,
+          "name": "vaccinations",
+          "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "8h ago",
-          "percentageIncrease": "100%"
+          "started": "20 minutes ago",
+          "percentageIncrease": "200%"
+        },
+        {
+          "name": "supreme court",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "1h ago",
+          "percentageIncrease": "400%"
         },
         {
           "name": "queen victoria",
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "21h ago",
+          "started": "23h ago",
           "percentageIncrease": "100%"
         }
       ]
@@ -274,7 +273,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "7h ago",
+          "started": "9h ago",
           "trendBreakdown": "brian",
           "percentageIncrease": "1000%"
         },
@@ -283,7 +282,7 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "7h ago",
+          "started": "10h ago",
           "percentageIncrease": "400%"
         }
       ]
@@ -300,7 +299,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "2K+",
-          "started": "8h ago",
+          "started": "10h ago",
           "trendBreakdown": "brian",
           "percentageIncrease": "1000%"
         },
@@ -309,7 +308,7 @@
           "relevanceScore": 85,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "13h ago",
+          "started": "15h ago",
           "percentageIncrease": "50%"
         }
       ]
@@ -317,25 +316,17 @@
     {
       "name": "Michigan",
       "code": "MI",
-      "topTopic": "brian cole jr",
+      "topTopic": "brian cole",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
         {
-          "name": "brian cole jr",
+          "name": "brian cole",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "2K+",
-          "started": "5h ago",
+          "started": "10h ago",
           "trendBreakdown": "brian",
-          "percentageIncrease": "1000%"
-        },
-        {
-          "name": "letitia james",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "50 minutes ago",
           "percentageIncrease": "1000%"
         },
         {
@@ -343,7 +334,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "2h ago",
+          "started": "4h ago",
           "percentageIncrease": "600%"
         },
         {
@@ -351,43 +342,35 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "8h ago",
+          "started": "10h ago",
           "percentageIncrease": "300%"
-        },
-        {
-          "name": "fox",
-          "relevanceScore": 90,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "13h ago",
-          "percentageIncrease": "100%"
         }
       ]
     },
     {
       "name": "Massachusetts",
       "code": "MA",
-      "topTopic": "brian cole jr",
+      "topTopic": "brian cole",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
         {
-          "name": "brian cole jr",
+          "name": "brian cole",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "2K+",
-          "started": "5h ago",
+          "started": "10h ago",
           "trendBreakdown": "brian",
-          "percentageIncrease": "1000%"
+          "percentageIncrease": "800%"
         },
         {
           "name": "ana walshe",
-          "relevanceScore": 100,
+          "relevanceScore": 95,
           "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "9h ago",
+          "searchVolume": "2K+",
+          "started": "11h ago",
           "trendBreakdown": "william",
-          "percentageIncrease": "500%"
+          "percentageIncrease": "400%"
         }
       ]
     },
@@ -403,9 +386,9 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "5h ago",
+          "started": "7h ago",
           "trendBreakdown": "brian",
-          "percentageIncrease": "1000%"
+          "percentageIncrease": "900%"
         }
       ]
     },
@@ -421,8 +404,16 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "2K+",
-          "started": "8h ago",
+          "started": "10h ago",
           "trendBreakdown": "brian",
+          "percentageIncrease": "1000%"
+        },
+        {
+          "name": "letitia james",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "3h ago",
           "percentageIncrease": "1000%"
         },
         {
@@ -430,15 +421,7 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "8h ago",
-          "percentageIncrease": "300%"
-        },
-        {
-          "name": "suge knight",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "23h ago",
+          "started": "10h ago",
           "percentageIncrease": "300%"
         }
       ]
@@ -446,16 +429,24 @@
     {
       "name": "North Carolina",
       "code": "NC",
-      "topTopic": "brian cole",
+      "topTopic": "wake county",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
+        {
+          "name": "wake county",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "5h ago",
+          "percentageIncrease": "700%"
+        },
         {
           "name": "brian cole",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "2K+",
-          "started": "8h ago",
+          "started": "10h ago",
           "trendBreakdown": "brian",
           "percentageIncrease": "1000%"
         },
@@ -464,16 +455,16 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "2h ago",
+          "started": "5h ago",
           "percentageIncrease": "1000%"
         },
         {
-          "name": "queen victoria",
-          "relevanceScore": 95,
+          "name": "wral",
+          "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "23h ago",
-          "percentageIncrease": "200%"
+          "started": "2h ago",
+          "percentageIncrease": "100%"
         }
       ]
     },
@@ -489,17 +480,16 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "5K+",
-          "started": "8h ago",
+          "started": "10h ago",
           "trendBreakdown": "brian",
           "percentageIncrease": "1000%"
         },
         {
-          "name": "a&a",
+          "name": "supreme court",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "2K+",
-          "started": "7h ago",
-          "trendBreakdown": "bethpage",
+          "started": "2h ago",
           "percentageIncrease": "500%"
         },
         {
@@ -507,39 +497,40 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "6h ago",
+          "started": "8h ago",
           "percentageIncrease": "1000%"
         },
         {
-          "name": "supreme",
+          "name": "bethpage deli stabbing",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "2K+",
-          "started": "8h ago",
-          "percentageIncrease": "300%"
+          "started": "7h ago",
+          "trendBreakdown": "deliaa",
+          "percentageIncrease": "400%"
         },
         {
           "name": "brian walshe",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "3h ago",
+          "started": "5h ago",
           "percentageIncrease": "200%"
-        },
-        {
-          "name": "scott bessent",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "21h ago",
-          "percentageIncrease": "400%"
         },
         {
           "name": "wgrz",
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "13h ago",
+          "started": "16h ago",
+          "percentageIncrease": "100%"
+        },
+        {
+          "name": "north country now",
+          "relevanceScore": 90,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "15h ago",
           "percentageIncrease": "100%"
         }
       ]
@@ -547,16 +538,16 @@
     {
       "name": "Ohio",
       "code": "OH",
-      "topTopic": "brian cole",
+      "topTopic": "brian cole jr",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
         {
-          "name": "brian cole",
+          "name": "brian cole jr",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "2K+",
-          "started": "7h ago",
+          "started": "8h ago",
           "trendBreakdown": "brian",
           "percentageIncrease": "1000%"
         }
@@ -574,7 +565,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "4h ago",
+          "started": "7h ago",
           "trendBreakdown": "brian",
           "percentageIncrease": "700%"
         },
@@ -583,7 +574,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "7h ago",
+          "started": "10h ago",
           "percentageIncrease": "600%"
         }
       ]
@@ -600,7 +591,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "5K+",
-          "started": "8h ago",
+          "started": "10h ago",
           "trendBreakdown": "brian",
           "percentageIncrease": "1000%"
         },
@@ -608,24 +599,16 @@
           "name": "ashanti",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "1h ago",
-          "percentageIncrease": "500%"
+          "searchVolume": "500+",
+          "started": "4h ago",
+          "percentageIncrease": "1000%"
         },
         {
           "name": "suge knight",
           "relevanceScore": 95,
           "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "23h ago",
-          "percentageIncrease": "300%"
-        },
-        {
-          "name": "queen victoria",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "23h ago",
+          "searchVolume": "100+",
+          "started": "50 minutes ago",
           "percentageIncrease": "200%"
         },
         {
@@ -633,7 +616,7 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "20h ago",
+          "started": "23h ago",
           "percentageIncrease": "400%"
         }
       ]
@@ -650,33 +633,33 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "7h ago",
+          "started": "9h ago",
           "trendBreakdown": "brian",
           "percentageIncrease": "1000%"
-        },
-        {
-          "name": "nancy mace",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "22h ago",
-          "percentageIncrease": "600%"
         }
       ]
     },
     {
       "name": "Tennessee",
       "code": "TN",
-      "topTopic": "brian cole jr",
+      "topTopic": "ashleigh mckinzie",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
+        {
+          "name": "ashleigh mckinzie",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "1h ago",
+          "percentageIncrease": "1000%"
+        },
         {
           "name": "brian cole jr",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "2K+",
-          "started": "5h ago",
+          "started": "7h ago",
           "trendBreakdown": "brian",
           "percentageIncrease": "1000%"
         },
@@ -685,16 +668,8 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "20 minutes ago",
+          "started": "2h ago",
           "percentageIncrease": "900%"
-        },
-        {
-          "name": "queen victoria",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "23h ago",
-          "percentageIncrease": "200%"
         }
       ]
     },
@@ -709,8 +684,8 @@
           "name": "brian cole",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "5K+",
-          "started": "8h ago",
+          "searchVolume": "10K+",
+          "started": "11h ago",
           "trendBreakdown": "brian",
           "percentageIncrease": "1000%"
         },
@@ -719,40 +694,33 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "1h ago",
-          "percentageIncrease": "1000%"
+          "started": "4h ago",
+          "percentageIncrease": "700%"
         },
         {
-          "name": "supreme court",
+          "name": "kisd",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "40 minutes ago",
-          "percentageIncrease": "1000%"
+          "searchVolume": "500+",
+          "started": "11h ago",
+          "percentageIncrease": "500%"
         },
         {
-          "name": "suge knight",
+          "name": "texas redistricting supreme court",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "22h ago",
-          "percentageIncrease": "300%"
+          "started": "20 minutes ago",
+          "trendBreakdown": "supreme",
+          "percentageIncrease": "400%"
         },
         {
           "name": "enoch burke",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "20h ago",
+          "started": "22h ago",
           "percentageIncrease": "300%"
-        },
-        {
-          "name": "drunk raccoon",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "23h ago",
-          "percentageIncrease": "200%"
         }
       ]
     },
@@ -768,9 +736,17 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "10K+",
-          "started": "8h ago",
+          "started": "11h ago",
           "trendBreakdown": "brian",
           "percentageIncrease": "1000%"
+        },
+        {
+          "name": "suge knight",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "50 minutes ago",
+          "percentageIncrease": "300%"
         }
       ]
     },
@@ -786,24 +762,40 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "10K+",
-          "started": "8h ago",
+          "started": "11h ago",
           "trendBreakdown": "brian",
           "percentageIncrease": "1000%"
         },
         {
-          "name": "suge knight",
-          "relevanceScore": 95,
+          "name": "peraton",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "1h ago",
+          "percentageIncrease": "500%"
+        },
+        {
+          "name": "letitia james",
+          "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "23h ago",
-          "percentageIncrease": "300%"
+          "started": "3h ago",
+          "percentageIncrease": "1000%"
+        },
+        {
+          "name": "supreme court",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "2h ago",
+          "percentageIncrease": "800%"
         },
         {
           "name": "nancy mace",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "20h ago",
+          "started": "23h ago",
           "percentageIncrease": "400%"
         }
       ]
@@ -811,16 +803,16 @@
     {
       "name": "Oklahoma",
       "code": "OK",
-      "topTopic": "news on",
+      "topTopic": "news",
       "category": "Law and Government",
       "trendingScore": 90,
       "topics": [
         {
-          "name": "news on",
+          "name": "news",
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "18h ago",
+          "started": "15h ago",
           "percentageIncrease": "100%"
         }
       ]
@@ -854,17 +846,17 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "2K+",
-          "started": "7h ago",
+          "started": "10h ago",
           "trendBreakdown": "brian",
-          "percentageIncrease": "900%"
+          "percentageIncrease": "800%"
         },
         {
-          "name": "letitia james",
-          "relevanceScore": 100,
+          "name": "immunizations",
+          "relevanceScore": 95,
           "category": "Law and Government",
-          "searchVolume": "100+",
+          "searchVolume": "500+",
           "started": "20 minutes ago",
-          "percentageIncrease": "1000%"
+          "percentageIncrease": "200%"
         }
       ]
     },
@@ -880,7 +872,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "5h ago",
+          "started": "7h ago",
           "trendBreakdown": "brian",
           "percentageIncrease": "900%"
         }
@@ -931,17 +923,17 @@
           "name": "kaylee russell colorado",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "2K+",
-          "started": "4h ago",
+          "searchVolume": "5K+",
+          "started": "7h ago",
           "trendBreakdown": "kaylee",
           "percentageIncrease": "1000%"
         },
         {
-          "name": "brian cole jr",
+          "name": "brian cole",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "5h ago",
+          "started": "10h ago",
           "trendBreakdown": "brian",
           "percentageIncrease": "1000%"
         },
@@ -950,7 +942,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "8h ago",
+          "started": "10h ago",
           "percentageIncrease": "500%"
         },
         {
@@ -958,7 +950,7 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "19h ago",
+          "started": "21h ago",
           "percentageIncrease": "400%"
         },
         {
@@ -966,7 +958,7 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "20h ago",
+          "started": "23h ago",
           "percentageIncrease": "300%"
         }
       ]
@@ -983,7 +975,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "4h ago",
+          "started": "6h ago",
           "trendBreakdown": "kwqc",
           "percentageIncrease": "1000%"
         },
@@ -992,7 +984,7 @@
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "14h ago",
+          "started": "16h ago",
           "percentageIncrease": "100%"
         }
       ]
@@ -1025,8 +1017,8 @@
           "name": "lutsen resort",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "2K+",
-          "started": "3h ago",
+          "searchVolume": "5K+",
+          "started": "5h ago",
           "trendBreakdown": "lutsen",
           "percentageIncrease": "1000%"
         },
@@ -1035,7 +1027,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "5h ago",
+          "started": "7h ago",
           "trendBreakdown": "brian",
           "percentageIncrease": "800%"
         }
@@ -1080,18 +1072,27 @@
     {
       "name": "Wisconsin",
       "code": "WI",
-      "topTopic": "brian cole",
+      "topTopic": "lutsen lodge fire",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
+        {
+          "name": "lutsen lodge fire",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "40 minutes ago",
+          "trendBreakdown": "lutsen",
+          "percentageIncrease": "1000%"
+        },
         {
           "name": "brian cole",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "7h ago",
+          "started": "9h ago",
           "trendBreakdown": "brian",
-          "percentageIncrease": "1000%"
+          "percentageIncrease": "900%"
         }
       ]
     },
@@ -1107,7 +1108,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "7h ago",
+          "started": "9h ago",
           "trendBreakdown": "brian",
           "percentageIncrease": "1000%"
         }
@@ -1125,7 +1126,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "6h ago",
+          "started": "9h ago",
           "trendBreakdown": "brian",
           "percentageIncrease": "900%"
         }
