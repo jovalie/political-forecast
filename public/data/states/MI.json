@@ -1,15 +1,15 @@
 {
-  "timestamp": "2025-12-04T22:04:35.550Z",
+  "timestamp": "2025-12-05T00:05:10.889Z",
   "states": [
     {
       "name": "Michigan",
       "code": "MI",
-      "topTopic": "brian cole",
+      "topTopic": "brian cole jr",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
         {
-          "name": "brian cole",
+          "name": "brian cole jr",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "2K+",
@@ -18,11 +18,27 @@
           "percentageIncrease": "1000%"
         },
         {
+          "name": "letitia james",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "50 minutes ago",
+          "percentageIncrease": "1000%"
+        },
+        {
+          "name": "michigan minimum wage",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "2h ago",
+          "percentageIncrease": "600%"
+        },
+        {
           "name": "supreme",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "6h ago",
+          "started": "8h ago",
           "percentageIncrease": "300%"
         },
         {
@@ -30,7 +46,7 @@
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "11h ago",
+          "started": "13h ago",
           "percentageIncrease": "100%"
         }
       ]

@@ -1,28 +1,36 @@
 {
-  "timestamp": "2025-12-04T22:04:35.550Z",
+  "timestamp": "2025-12-05T00:05:10.889Z",
   "states": [
     {
       "name": "Pennsylvania",
       "code": "PA",
-      "topTopic": "brian cole jr",
+      "topTopic": "brian cole",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
         {
-          "name": "brian cole jr",
+          "name": "brian cole",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "2K+",
-          "started": "4h ago",
+          "searchVolume": "5K+",
+          "started": "8h ago",
           "trendBreakdown": "brian",
           "percentageIncrease": "1000%"
+        },
+        {
+          "name": "ashanti",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "1h ago",
+          "percentageIncrease": "500%"
         },
         {
           "name": "suge knight",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "21h ago",
+          "started": "23h ago",
           "percentageIncrease": "300%"
         },
         {
@@ -30,24 +38,15 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "21h ago",
-          "percentageIncrease": "200%"
-        },
-        {
-          "name": "raccoon liquor store",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "500+",
           "started": "23h ago",
-          "trendBreakdown": "drunk",
-          "percentageIncrease": "300%"
+          "percentageIncrease": "200%"
         },
         {
           "name": "nancy mace",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "18h ago",
+          "started": "20h ago",
           "percentageIncrease": "400%"
         }
       ]

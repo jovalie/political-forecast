@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-12-04T22:04:35.550Z",
+  "timestamp": "2025-12-05T00:05:10.889Z",
   "states": [
     {
       "name": "Arizona",
@@ -12,17 +12,25 @@
           "name": "brian cole jr",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "3h ago",
+          "searchVolume": "2K+",
+          "started": "5h ago",
           "trendBreakdown": "brian",
           "percentageIncrease": "1000%"
+        },
+        {
+          "name": "letitia james",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "30 minutes ago",
+          "percentageIncrease": "900%"
         },
         {
           "name": "queen victoria",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "19h ago",
+          "started": "21h ago",
           "percentageIncrease": "200%"
         }
       ]

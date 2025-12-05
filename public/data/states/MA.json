@@ -1,15 +1,15 @@
 {
-  "timestamp": "2025-12-04T22:04:35.550Z",
+  "timestamp": "2025-12-05T00:05:10.889Z",
   "states": [
     {
       "name": "Massachusetts",
       "code": "MA",
-      "topTopic": "brian cole",
+      "topTopic": "brian cole jr",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
         {
-          "name": "brian cole",
+          "name": "brian cole jr",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "2K+",
@@ -18,21 +18,13 @@
           "percentageIncrease": "1000%"
         },
         {
-          "name": "william fastow",
+          "name": "ana walshe",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "7h ago",
-          "trendBreakdown": "ana",
-          "percentageIncrease": "700%"
-        },
-        {
-          "name": "nytimes",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "10h ago",
-          "percentageIncrease": "200%"
+          "started": "9h ago",
+          "trendBreakdown": "william",
+          "percentageIncrease": "500%"
         }
       ]
     }
