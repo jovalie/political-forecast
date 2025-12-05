@@ -1,29 +1,53 @@
 {
-  "timestamp": "2025-12-05T12:04:50.150Z",
+  "timestamp": "2025-12-05T14:04:56.075Z",
   "states": [
     {
       "name": "Maryland",
       "code": "MD",
-      "topTopic": "bcps",
+      "topTopic": "brian cole",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
         {
-          "name": "bcps",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "2h ago",
-          "percentageIncrease": "1000%"
-        },
-        {
-          "name": "brian cole jr",
+          "name": "brian cole",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "5K+",
-          "started": "18h ago",
+          "started": "22h ago",
           "trendBreakdown": "brian",
           "percentageIncrease": "1000%"
+        },
+        {
+          "name": "bcps",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "2K+",
+          "started": "4h ago",
+          "percentageIncrease": "1000%"
+        },
+        {
+          "name": "harford county public schools",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "3h ago",
+          "percentageIncrease": "1000%"
+        },
+        {
+          "name": "wboc",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "14h ago",
+          "percentageIncrease": "300%"
+        },
+        {
+          "name": "fox",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "3h ago",
+          "percentageIncrease": "200%"
         }
       ]
     }

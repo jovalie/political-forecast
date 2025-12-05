@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-12-05T12:04:50.150Z",
+  "timestamp": "2025-12-05T14:04:56.075Z",
   "states": [
     {
       "name": "New York",
@@ -13,57 +13,65 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "10K+",
-          "started": "20h ago",
+          "started": "22h ago",
           "trendBreakdown": "brian",
           "percentageIncrease": "1000%"
-        },
-        {
-          "name": "a&a",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "2K+",
-          "started": "19h ago",
-          "trendBreakdown": "bethpage",
-          "percentageIncrease": "500%"
         },
         {
           "name": "letitia james",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "18h ago",
+          "started": "20h ago",
           "percentageIncrease": "1000%"
+        },
+        {
+          "name": "bethpage deli stabbing",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "2K+",
+          "started": "19h ago",
+          "trendBreakdown": "deliaa",
+          "percentageIncrease": "300%"
+        },
+        {
+          "name": "aircraft carrier",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "1h ago",
+          "percentageIncrease": "400%"
+        },
+        {
+          "name": "jeremy o harris",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "20 minutes ago",
+          "percentageIncrease": "300%"
         },
         {
           "name": "supreme court",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "2K+",
-          "started": "11h ago",
-          "percentageIncrease": "400%"
-        },
-        {
-          "name": "afd",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "7h ago",
-          "percentageIncrease": "200%"
+          "started": "13h ago",
+          "percentageIncrease": "300%"
         },
         {
           "name": "brian walshe",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "15h ago",
+          "started": "17h ago",
           "percentageIncrease": "200%"
         },
         {
-          "name": "uscis",
+          "name": "whec",
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "5h ago",
+          "started": "3h ago",
           "percentageIncrease": "100%"
         },
         {
@@ -71,7 +79,15 @@
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "10h ago",
+          "started": "12h ago",
+          "percentageIncrease": "100%"
+        },
+        {
+          "name": "uscis",
+          "relevanceScore": 90,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "7h ago",
           "percentageIncrease": "100%"
         }
       ]
