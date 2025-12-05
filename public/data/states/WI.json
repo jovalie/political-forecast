@@ -1,30 +1,30 @@
 {
-  "timestamp": "2025-12-05T02:34:31.261Z",
+  "timestamp": "2025-12-05T04:10:06.063Z",
   "states": [
     {
       "name": "Wisconsin",
       "code": "WI",
-      "topTopic": "lutsen lodge fire",
+      "topTopic": "brian cole",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
-        {
-          "name": "lutsen lodge fire",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "40 minutes ago",
-          "trendBreakdown": "lutsen",
-          "percentageIncrease": "1000%"
-        },
         {
           "name": "brian cole",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "9h ago",
+          "started": "11h ago",
           "trendBreakdown": "brian",
           "percentageIncrease": "900%"
+        },
+        {
+          "name": "lutsen lodge fire",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "2h ago",
+          "trendBreakdown": "lutsen",
+          "percentageIncrease": "1000%"
         }
       ]
     }
