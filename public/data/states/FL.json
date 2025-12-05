@@ -1,52 +1,36 @@
 {
-  "timestamp": "2025-12-05T14:04:56.075Z",
+  "timestamp": "2025-12-05T16:04:55.273Z",
   "states": [
     {
       "name": "Florida",
       "code": "FL",
-      "topTopic": "brian cole",
+      "topTopic": "brian cole jr",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
         {
-          "name": "brian cole",
+          "name": "brian cole jr",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "10K+",
-          "started": "22h ago",
+          "searchVolume": "5K+",
+          "started": "23h ago",
           "trendBreakdown": "brian",
           "percentageIncrease": "1000%"
-        },
-        {
-          "name": "aircraft carrier",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "1h ago",
-          "percentageIncrease": "500%"
         },
         {
           "name": "letitia james",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "15h ago",
+          "started": "17h ago",
           "percentageIncrease": "900%"
-        },
-        {
-          "name": "supreme court",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "13h ago",
-          "percentageIncrease": "300%"
         },
         {
           "name": "keefe d",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "11h ago",
+          "started": "13h ago",
           "percentageIncrease": "200%"
         }
       ]

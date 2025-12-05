@@ -1,36 +1,36 @@
 {
-  "timestamp": "2025-12-05T14:04:56.075Z",
+  "timestamp": "2025-12-05T16:04:55.273Z",
   "states": [
     {
       "name": "Virginia",
       "code": "VA",
-      "topTopic": "brian cole",
+      "topTopic": "brian cole jr",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
         {
-          "name": "brian cole",
+          "name": "brian cole jr",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "10K+",
+          "searchVolume": "5K+",
           "started": "22h ago",
           "trendBreakdown": "brian",
           "percentageIncrease": "1000%"
         },
         {
-          "name": "fcpa",
-          "relevanceScore": 95,
+          "name": "national security strategy",
+          "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "100+",
           "started": "1h ago",
-          "percentageIncrease": "400%"
+          "percentageIncrease": "600%"
         },
         {
           "name": "gmu",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "3h ago",
+          "started": "5h ago",
           "percentageIncrease": "200%"
         }
       ]

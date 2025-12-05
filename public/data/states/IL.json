@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-12-05T14:04:56.075Z",
+  "timestamp": "2025-12-05T16:04:55.273Z",
   "states": [
     {
       "name": "Illinois",
@@ -12,25 +12,17 @@
           "name": "brian cole jr",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "5K+",
-          "started": "20h ago",
+          "searchVolume": "2K+",
+          "started": "22h ago",
           "trendBreakdown": "brian",
           "percentageIncrease": "1000%"
-        },
-        {
-          "name": "supreme",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "22h ago",
-          "percentageIncrease": "500%"
         },
         {
           "name": "suge knight",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "11h ago",
+          "started": "13h ago",
           "percentageIncrease": "200%"
         },
         {
@@ -38,7 +30,7 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "12h ago",
+          "started": "14h ago",
           "percentageIncrease": "200%"
         },
         {
@@ -46,7 +38,15 @@
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "11h ago",
+          "started": "13h ago",
+          "percentageIncrease": "100%"
+        },
+        {
+          "name": "supreme",
+          "relevanceScore": 90,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "7h ago",
           "percentageIncrease": "100%"
         }
       ]

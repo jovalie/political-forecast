@@ -1,36 +1,45 @@
 {
-  "timestamp": "2025-12-05T14:04:56.075Z",
+  "timestamp": "2025-12-05T16:04:55.273Z",
   "states": [
     {
       "name": "District of Columbia",
       "code": "DC",
-      "topTopic": "brian cole",
+      "topTopic": "brian cole jr",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
         {
-          "name": "brian cole",
+          "name": "brian cole jr",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "10K+",
-          "started": "22h ago",
-          "trendBreakdown": "brian",
+          "started": "23h ago",
+          "trendBreakdown": "pipe",
           "percentageIncrease": "1000%"
         },
         {
-          "name": "fcpa",
+          "name": "national security strategy",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "3h ago",
+          "trendBreakdown": "national",
+          "percentageIncrease": "1000%"
+        },
+        {
+          "name": "northwood high school",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "1h ago",
-          "percentageIncrease": "600%"
+          "started": "10 minutes ago",
+          "percentageIncrease": "1000%"
         },
         {
           "name": "shalom baranes",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "16h ago",
+          "started": "18h ago",
           "percentageIncrease": "500%"
         },
         {
@@ -38,39 +47,15 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "15h ago",
+          "started": "17h ago",
           "percentageIncrease": "1000%"
-        },
-        {
-          "name": "supreme court",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "14h ago",
-          "percentageIncrease": "600%"
-        },
-        {
-          "name": "peraton",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "13h ago",
-          "percentageIncrease": "500%"
-        },
-        {
-          "name": "gmu",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "3h ago",
-          "percentageIncrease": "200%"
         },
         {
           "name": "suge knight",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "13h ago",
+          "started": "15h ago",
           "percentageIncrease": "200%"
         }
       ]

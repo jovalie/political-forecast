@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-12-05T14:04:56.075Z",
+  "timestamp": "2025-12-05T16:04:55.273Z",
   "states": [
     {
       "name": "Wisconsin",
@@ -13,9 +13,18 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "21h ago",
+          "started": "23h ago",
           "trendBreakdown": "brian",
           "percentageIncrease": "900%"
+        },
+        {
+          "name": "lutsen resort",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "14h ago",
+          "trendBreakdown": "lutsen",
+          "percentageIncrease": "400%"
         }
       ]
     }

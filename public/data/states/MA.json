@@ -1,38 +1,21 @@
 {
-  "timestamp": "2025-12-05T14:04:56.075Z",
+  "timestamp": "2025-12-05T16:04:55.273Z",
   "states": [
     {
       "name": "Massachusetts",
       "code": "MA",
-      "topTopic": "brian cole",
+      "topTopic": "brian cole jr",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
         {
-          "name": "brian cole",
+          "name": "brian cole jr",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "2K+",
           "started": "21h ago",
           "trendBreakdown": "brian",
           "percentageIncrease": "1000%"
-        },
-        {
-          "name": "affordable housing",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "4h ago",
-          "percentageIncrease": "600%"
-        },
-        {
-          "name": "ana walshe",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "2K+",
-          "started": "23h ago",
-          "trendBreakdown": "william",
-          "percentageIncrease": "400%"
         }
       ]
     }

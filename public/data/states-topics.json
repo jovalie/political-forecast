@@ -1,28 +1,28 @@
 {
-  "timestamp": "2025-12-05T14:04:56.075Z",
+  "timestamp": "2025-12-05T16:04:55.273Z",
   "states": [
     {
       "name": "California",
       "code": "CA",
-      "topTopic": "brian cole",
+      "topTopic": "brian cole jr",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
         {
-          "name": "brian cole",
+          "name": "brian cole jr",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "10K+",
           "started": "22h ago",
           "trendBreakdown": "brian",
-          "percentageIncrease": "800%"
+          "percentageIncrease": "700%"
         },
         {
           "name": "letitia james",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "20h ago",
+          "started": "22h ago",
           "percentageIncrease": "700%"
         },
         {
@@ -30,15 +30,23 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "21h ago",
+          "started": "23h ago",
           "percentageIncrease": "600%"
+        },
+        {
+          "name": "aircraft carrier",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "5h ago",
+          "percentageIncrease": "400%"
         },
         {
           "name": "supreme court",
           "relevanceScore": 95,
           "category": "Law and Government",
-          "searchVolume": "5K+",
-          "started": "14h ago",
+          "searchVolume": "2K+",
+          "started": "16h ago",
           "trendBreakdown": "supreme",
           "percentageIncrease": "300%"
         },
@@ -47,7 +55,7 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "2K+",
-          "started": "12h ago",
+          "started": "14h ago",
           "percentageIncrease": "200%"
         },
         {
@@ -55,7 +63,7 @@
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "12h ago",
+          "started": "14h ago",
           "percentageIncrease": "100%"
         },
         {
@@ -63,7 +71,7 @@
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "2K+",
-          "started": "11h ago",
+          "started": "13h ago",
           "percentageIncrease": "100%"
         },
         {
@@ -71,7 +79,7 @@
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "21h ago",
+          "started": "23h ago",
           "percentageIncrease": "100%"
         },
         {
@@ -79,15 +87,7 @@
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "20h ago",
-          "percentageIncrease": "100%"
-        },
-        {
-          "name": "republicans health care plan",
-          "relevanceScore": 90,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "15h ago",
+          "started": "22h ago",
           "percentageIncrease": "100%"
         }
       ]
@@ -104,7 +104,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "2K+",
-          "started": "21h ago",
+          "started": "23h ago",
           "trendBreakdown": "brian",
           "percentageIncrease": "900%"
         },
@@ -113,7 +113,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "12h ago",
+          "started": "14h ago",
           "percentageIncrease": "1000%"
         },
         {
@@ -121,7 +121,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "14h ago",
+          "started": "16h ago",
           "percentageIncrease": "1000%"
         },
         {
@@ -129,7 +129,7 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "9h ago",
+          "started": "11h ago",
           "percentageIncrease": "200%"
         }
       ]
@@ -137,49 +137,33 @@
     {
       "name": "Florida",
       "code": "FL",
-      "topTopic": "brian cole",
+      "topTopic": "brian cole jr",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
         {
-          "name": "brian cole",
+          "name": "brian cole jr",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "10K+",
-          "started": "22h ago",
+          "searchVolume": "5K+",
+          "started": "23h ago",
           "trendBreakdown": "brian",
           "percentageIncrease": "1000%"
-        },
-        {
-          "name": "aircraft carrier",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "1h ago",
-          "percentageIncrease": "500%"
         },
         {
           "name": "letitia james",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "15h ago",
+          "started": "17h ago",
           "percentageIncrease": "900%"
-        },
-        {
-          "name": "supreme court",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "13h ago",
-          "percentageIncrease": "300%"
         },
         {
           "name": "keefe d",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "11h ago",
+          "started": "13h ago",
           "percentageIncrease": "200%"
         }
       ]
@@ -187,25 +171,25 @@
     {
       "name": "Georgia",
       "code": "GA",
-      "topTopic": "brian cole",
+      "topTopic": "brian cole jr",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
         {
-          "name": "brian cole",
+          "name": "brian cole jr",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "2K+",
+          "searchVolume": "1K+",
           "started": "22h ago",
-          "trendBreakdown": "brian",
-          "percentageIncrease": "800%"
+          "trendBreakdown": "pipe",
+          "percentageIncrease": "1000%"
         },
         {
           "name": "sandy springs",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "20h ago",
+          "started": "22h ago",
           "percentageIncrease": "600%"
         },
         {
@@ -213,7 +197,7 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "11h ago",
+          "started": "13h ago",
           "percentageIncrease": "200%"
         },
         {
@@ -221,15 +205,15 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "14h ago",
-          "percentageIncrease": "200%"
+          "started": "16h ago",
+          "percentageIncrease": "300%"
         },
         {
           "name": "trinity poague",
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "10h ago",
+          "started": "12h ago",
           "percentageIncrease": "100%"
         },
         {
@@ -237,7 +221,7 @@
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "11h ago",
+          "started": "13h ago",
           "percentageIncrease": "100%"
         }
       ]
@@ -253,25 +237,17 @@
           "name": "brian cole jr",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "5K+",
-          "started": "20h ago",
+          "searchVolume": "2K+",
+          "started": "22h ago",
           "trendBreakdown": "brian",
           "percentageIncrease": "1000%"
-        },
-        {
-          "name": "supreme",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "22h ago",
-          "percentageIncrease": "500%"
         },
         {
           "name": "suge knight",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "11h ago",
+          "started": "13h ago",
           "percentageIncrease": "200%"
         },
         {
@@ -279,7 +255,7 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "12h ago",
+          "started": "14h ago",
           "percentageIncrease": "200%"
         },
         {
@@ -287,7 +263,15 @@
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "11h ago",
+          "started": "13h ago",
+          "percentageIncrease": "100%"
+        },
+        {
+          "name": "supreme",
+          "relevanceScore": 90,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "7h ago",
           "percentageIncrease": "100%"
         }
       ]
@@ -304,7 +288,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "21h ago",
+          "started": "23h ago",
           "trendBreakdown": "brian",
           "percentageIncrease": "1000%"
         },
@@ -313,7 +297,7 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "21h ago",
+          "started": "23h ago",
           "percentageIncrease": "400%"
         }
       ]
@@ -321,12 +305,12 @@
     {
       "name": "Maryland",
       "code": "MD",
-      "topTopic": "brian cole",
+      "topTopic": "brian cole jr",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
         {
-          "name": "brian cole",
+          "name": "brian cole jr",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "5K+",
@@ -339,31 +323,31 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "2K+",
-          "started": "4h ago",
+          "started": "6h ago",
           "percentageIncrease": "1000%"
+        },
+        {
+          "name": "northwood high school",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "20 minutes ago",
+          "percentageIncrease": "700%"
         },
         {
           "name": "harford county public schools",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "3h ago",
+          "searchVolume": "1K+",
+          "started": "5h ago",
           "percentageIncrease": "1000%"
-        },
-        {
-          "name": "wboc",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "14h ago",
-          "percentageIncrease": "300%"
         },
         {
           "name": "fox",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "3h ago",
+          "started": "5h ago",
           "percentageIncrease": "200%"
         }
       ]
@@ -380,7 +364,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "2K+",
-          "started": "21h ago",
+          "started": "23h ago",
           "trendBreakdown": "brian",
           "percentageIncrease": "1000%"
         },
@@ -389,51 +373,26 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "16h ago",
+          "started": "18h ago",
           "percentageIncrease": "500%"
-        },
-        {
-          "name": "supreme",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "22h ago",
-          "percentageIncrease": "300%"
         }
       ]
     },
     {
       "name": "Massachusetts",
       "code": "MA",
-      "topTopic": "brian cole",
+      "topTopic": "brian cole jr",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
         {
-          "name": "brian cole",
+          "name": "brian cole jr",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "2K+",
           "started": "21h ago",
           "trendBreakdown": "brian",
           "percentageIncrease": "1000%"
-        },
-        {
-          "name": "affordable housing",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "4h ago",
-          "percentageIncrease": "600%"
-        },
-        {
-          "name": "ana walshe",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "2K+",
-          "started": "23h ago",
-          "trendBreakdown": "william",
-          "percentageIncrease": "400%"
         }
       ]
     },
@@ -449,7 +408,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "19h ago",
+          "started": "21h ago",
           "trendBreakdown": "brian",
           "percentageIncrease": "900%"
         }
@@ -467,7 +426,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "2K+",
-          "started": "22h ago",
+          "started": "24h ago",
           "trendBreakdown": "brian",
           "percentageIncrease": "1000%"
         },
@@ -476,41 +435,33 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "15h ago",
+          "started": "17h ago",
           "percentageIncrease": "1000%"
-        },
-        {
-          "name": "supreme",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "22h ago",
-          "percentageIncrease": "300%"
         }
       ]
     },
     {
       "name": "North Carolina",
       "code": "NC",
-      "topTopic": "brian cole",
+      "topTopic": "brian cole jr",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
         {
-          "name": "brian cole",
+          "name": "brian cole jr",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "2K+",
           "started": "22h ago",
           "trendBreakdown": "brian",
-          "percentageIncrease": "1000%"
+          "percentageIncrease": "800%"
         },
         {
           "name": "wake county",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "16h ago",
+          "started": "18h ago",
           "percentageIncrease": "600%"
         },
         {
@@ -518,7 +469,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "16h ago",
+          "started": "18h ago",
           "percentageIncrease": "1000%"
         },
         {
@@ -526,90 +477,98 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "13h ago",
+          "started": "15h ago",
           "percentageIncrease": "200%"
+        },
+        {
+          "name": "wral news",
+          "relevanceScore": 90,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "6h ago",
+          "percentageIncrease": "100%"
         }
       ]
     },
     {
       "name": "New York",
       "code": "NY",
-      "topTopic": "brian cole",
+      "topTopic": "brian cole jr",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
         {
-          "name": "brian cole",
+          "name": "brian cole jr",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "10K+",
+          "searchVolume": "5K+",
           "started": "22h ago",
           "trendBreakdown": "brian",
-          "percentageIncrease": "1000%"
+          "percentageIncrease": "800%"
+        },
+        {
+          "name": "jeremy o harris",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "2h ago",
+          "percentageIncrease": "500%"
         },
         {
           "name": "letitia james",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "20h ago",
+          "started": "22h ago",
           "percentageIncrease": "1000%"
+        },
+        {
+          "name": "hepatitis b",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "10 minutes ago",
+          "percentageIncrease": "300%"
         },
         {
           "name": "bethpage deli stabbing",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "2K+",
-          "started": "19h ago",
+          "started": "21h ago",
           "trendBreakdown": "deliaa",
-          "percentageIncrease": "300%"
-        },
-        {
-          "name": "aircraft carrier",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "1h ago",
-          "percentageIncrease": "400%"
-        },
-        {
-          "name": "jeremy o harris",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "20 minutes ago",
           "percentageIncrease": "300%"
         },
         {
           "name": "supreme court",
           "relevanceScore": 95,
           "category": "Law and Government",
-          "searchVolume": "2K+",
-          "started": "13h ago",
+          "searchVolume": "500+",
+          "started": "15h ago",
           "percentageIncrease": "300%"
+        },
+        {
+          "name": "afd",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "11h ago",
+          "percentageIncrease": "200%"
         },
         {
           "name": "brian walshe",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "17h ago",
+          "started": "19h ago",
           "percentageIncrease": "200%"
-        },
-        {
-          "name": "whec",
-          "relevanceScore": 90,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "3h ago",
-          "percentageIncrease": "100%"
         },
         {
           "name": "shalom baranes",
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "12h ago",
+          "started": "14h ago",
           "percentageIncrease": "100%"
         },
         {
@@ -617,7 +576,7 @@
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "7h ago",
+          "started": "9h ago",
           "percentageIncrease": "100%"
         }
       ]
@@ -634,16 +593,24 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "2K+",
-          "started": "21h ago",
+          "started": "23h ago",
           "trendBreakdown": "brian",
           "percentageIncrease": "1000%"
+        },
+        {
+          "name": "aircraft carrier",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "1h ago",
+          "percentageIncrease": "900%"
         },
         {
           "name": "suge knight",
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "11h ago",
+          "started": "13h ago",
           "percentageIncrease": "100%"
         }
       ]
@@ -660,7 +627,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "18h ago",
+          "started": "20h ago",
           "trendBreakdown": "brian",
           "percentageIncrease": "900%"
         },
@@ -669,7 +636,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "21h ago",
+          "started": "23h ago",
           "percentageIncrease": "600%"
         }
       ]
@@ -685,8 +652,8 @@
           "name": "brian cole jr",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "5K+",
-          "started": "20h ago",
+          "searchVolume": "2K+",
+          "started": "22h ago",
           "trendBreakdown": "brian",
           "percentageIncrease": "1000%"
         },
@@ -695,8 +662,16 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "15h ago",
+          "started": "17h ago",
           "percentageIncrease": "1000%"
+        },
+        {
+          "name": "supreme court",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "15h ago",
+          "percentageIncrease": "600%"
         }
       ]
     },
@@ -712,7 +687,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "19h ago",
+          "started": "21h ago",
           "trendBreakdown": "brian",
           "percentageIncrease": "1000%"
         }
@@ -730,7 +705,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "2K+",
-          "started": "21h ago",
+          "started": "23h ago",
           "trendBreakdown": "brian",
           "percentageIncrease": "800%"
         },
@@ -739,7 +714,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "13h ago",
+          "started": "15h ago",
           "percentageIncrease": "1000%"
         },
         {
@@ -747,7 +722,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "14h ago",
+          "started": "16h ago",
           "percentageIncrease": "700%"
         },
         {
@@ -755,32 +730,24 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "11h ago",
+          "started": "13h ago",
           "percentageIncrease": "200%"
-        },
-        {
-          "name": "wcyb",
-          "relevanceScore": 90,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "3h ago",
-          "percentageIncrease": "100%"
         }
       ]
     },
     {
       "name": "Texas",
       "code": "TX",
-      "topTopic": "brian cole",
+      "topTopic": "brian cole jr",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
         {
-          "name": "brian cole",
+          "name": "brian cole jr",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "10K+",
-          "started": "22h ago",
+          "searchVolume": "5K+",
+          "started": "23h ago",
           "trendBreakdown": "brian",
           "percentageIncrease": "700%"
         },
@@ -788,8 +755,8 @@
           "name": "supreme court",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "2K+",
-          "started": "14h ago",
+          "searchVolume": "1K+",
+          "started": "16h ago",
           "trendBreakdown": "supreme",
           "percentageIncrease": "600%"
         },
@@ -798,31 +765,39 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "15h ago",
-          "percentageIncrease": "700%"
-        },
-        {
-          "name": "immunizations",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "11h ago",
+          "started": "17h ago",
           "percentageIncrease": "700%"
         },
         {
           "name": "kisd",
-          "relevanceScore": 100,
+          "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "23h ago",
-          "percentageIncrease": "500%"
+          "started": "1h ago",
+          "percentageIncrease": "300%"
+        },
+        {
+          "name": "hepatitis b",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "10 minutes ago",
+          "percentageIncrease": "200%"
+        },
+        {
+          "name": "clear creek high school",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "50 minutes ago",
+          "percentageIncrease": "300%"
         },
         {
           "name": "suge knight",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "11h ago",
+          "started": "13h ago",
           "percentageIncrease": "200%"
         },
         {
@@ -830,7 +805,7 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "10h ago",
+          "started": "12h ago",
           "percentageIncrease": "200%"
         },
         {
@@ -838,7 +813,7 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "12h ago",
+          "started": "14h ago",
           "percentageIncrease": "200%"
         }
       ]
@@ -846,33 +821,33 @@
     {
       "name": "Virginia",
       "code": "VA",
-      "topTopic": "brian cole",
+      "topTopic": "brian cole jr",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
         {
-          "name": "brian cole",
+          "name": "brian cole jr",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "10K+",
+          "searchVolume": "5K+",
           "started": "22h ago",
           "trendBreakdown": "brian",
           "percentageIncrease": "1000%"
         },
         {
-          "name": "fcpa",
-          "relevanceScore": 95,
+          "name": "national security strategy",
+          "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "100+",
           "started": "1h ago",
-          "percentageIncrease": "400%"
+          "percentageIncrease": "600%"
         },
         {
           "name": "gmu",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "3h ago",
+          "started": "5h ago",
           "percentageIncrease": "200%"
         }
       ]
@@ -880,33 +855,42 @@
     {
       "name": "District of Columbia",
       "code": "DC",
-      "topTopic": "brian cole",
+      "topTopic": "brian cole jr",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
         {
-          "name": "brian cole",
+          "name": "brian cole jr",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "10K+",
-          "started": "22h ago",
-          "trendBreakdown": "brian",
+          "started": "23h ago",
+          "trendBreakdown": "pipe",
           "percentageIncrease": "1000%"
         },
         {
-          "name": "fcpa",
+          "name": "national security strategy",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "3h ago",
+          "trendBreakdown": "national",
+          "percentageIncrease": "1000%"
+        },
+        {
+          "name": "northwood high school",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "1h ago",
-          "percentageIncrease": "600%"
+          "started": "10 minutes ago",
+          "percentageIncrease": "1000%"
         },
         {
           "name": "shalom baranes",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "16h ago",
+          "started": "18h ago",
           "percentageIncrease": "500%"
         },
         {
@@ -914,39 +898,15 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "15h ago",
+          "started": "17h ago",
           "percentageIncrease": "1000%"
-        },
-        {
-          "name": "supreme court",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "14h ago",
-          "percentageIncrease": "600%"
-        },
-        {
-          "name": "peraton",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "13h ago",
-          "percentageIncrease": "500%"
-        },
-        {
-          "name": "gmu",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "3h ago",
-          "percentageIncrease": "200%"
         },
         {
           "name": "suge knight",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "13h ago",
+          "started": "15h ago",
           "percentageIncrease": "200%"
         }
       ]
@@ -988,25 +948,25 @@
     {
       "name": "Washington",
       "code": "WA",
-      "topTopic": "brian cole",
+      "topTopic": "brian cole jr",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
         {
-          "name": "brian cole",
+          "name": "brian cole jr",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "2K+",
           "started": "21h ago",
           "trendBreakdown": "brian",
-          "percentageIncrease": "800%"
+          "percentageIncrease": "900%"
         },
         {
           "name": "deli near me",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "12h ago",
+          "started": "14h ago",
           "percentageIncrease": "1000%"
         },
         {
@@ -1014,7 +974,7 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "9h ago",
+          "started": "11h ago",
           "percentageIncrease": "200%"
         },
         {
@@ -1022,7 +982,7 @@
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "11h ago",
+          "started": "13h ago",
           "percentageIncrease": "100%"
         },
         {
@@ -1030,7 +990,7 @@
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "8h ago",
+          "started": "10h ago",
           "percentageIncrease": "100%"
         }
       ]
@@ -1047,7 +1007,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "19h ago",
+          "started": "21h ago",
           "trendBreakdown": "brian",
           "percentageIncrease": "900%"
         }
@@ -1099,7 +1059,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "10K+",
-          "started": "18h ago",
+          "started": "20h ago",
           "trendBreakdown": "kaylee",
           "percentageIncrease": "1000%"
         },
@@ -1108,17 +1068,9 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "19h ago",
+          "started": "21h ago",
           "trendBreakdown": "brian",
           "percentageIncrease": "1000%"
-        },
-        {
-          "name": "supreme",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "22h ago",
-          "percentageIncrease": "500%"
         }
       ]
     },
@@ -1134,7 +1086,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "18h ago",
+          "started": "20h ago",
           "percentageIncrease": "1000%"
         }
       ]
@@ -1168,7 +1120,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "10K+",
-          "started": "17h ago",
+          "started": "19h ago",
           "trendBreakdown": "lutsen",
           "percentageIncrease": "1000%"
         },
@@ -1177,7 +1129,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "21h ago",
+          "started": "23h ago",
           "trendBreakdown": "brian",
           "percentageIncrease": "1000%"
         }
@@ -1231,9 +1183,18 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "21h ago",
+          "started": "23h ago",
           "trendBreakdown": "brian",
           "percentageIncrease": "900%"
+        },
+        {
+          "name": "lutsen resort",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "14h ago",
+          "trendBreakdown": "lutsen",
+          "percentageIncrease": "400%"
         }
       ]
     },
@@ -1249,7 +1210,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "21h ago",
+          "started": "23h ago",
           "trendBreakdown": "brian",
           "percentageIncrease": "1000%"
         }
@@ -1267,7 +1228,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "20h ago",
+          "started": "22h ago",
           "trendBreakdown": "brian",
           "percentageIncrease": "900%"
         }
