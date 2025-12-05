@@ -1,36 +1,60 @@
 {
-  "timestamp": "2025-12-05T16:04:55.273Z",
+  "timestamp": "2025-12-05T18:04:45.616Z",
   "states": [
     {
       "name": "Florida",
       "code": "FL",
-      "topTopic": "brian cole jr",
+      "topTopic": "east ridge high school",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
         {
-          "name": "brian cole jr",
+          "name": "east ridge high school",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "5K+",
-          "started": "23h ago",
-          "trendBreakdown": "brian",
-          "percentageIncrease": "1000%"
+          "searchVolume": "500+",
+          "started": "3h ago",
+          "percentageIncrease": "600%"
         },
         {
           "name": "letitia james",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "17h ago",
+          "started": "19h ago",
           "percentageIncrease": "900%"
+        },
+        {
+          "name": "hepatitis b",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "2h ago",
+          "percentageIncrease": "400%"
+        },
+        {
+          "name": "aircraft carrier",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "5h ago",
+          "percentageIncrease": "300%"
+        },
+        {
+          "name": "brian cole pipe bomber",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "1K+",
+          "started": "22h ago",
+          "trendBreakdown": "pipe",
+          "percentageIncrease": "300%"
         },
         {
           "name": "keefe d",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "13h ago",
+          "started": "15h ago",
           "percentageIncrease": "200%"
         }
       ]

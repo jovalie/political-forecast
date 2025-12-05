@@ -1,36 +1,36 @@
 {
-  "timestamp": "2025-12-05T16:04:55.273Z",
+  "timestamp": "2025-12-05T18:04:45.616Z",
   "states": [
     {
       "name": "Pennsylvania",
       "code": "PA",
-      "topTopic": "brian cole jr",
+      "topTopic": "ashanti",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
-        {
-          "name": "brian cole jr",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "2K+",
-          "started": "22h ago",
-          "trendBreakdown": "brian",
-          "percentageIncrease": "1000%"
-        },
         {
           "name": "ashanti",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "17h ago",
+          "started": "19h ago",
           "percentageIncrease": "1000%"
+        },
+        {
+          "name": "brian cole pipe bomber",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "22h ago",
+          "trendBreakdown": "pipe",
+          "percentageIncrease": "500%"
         },
         {
           "name": "supreme court",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "15h ago",
+          "started": "17h ago",
           "percentageIncrease": "600%"
         }
       ]

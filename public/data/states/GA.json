@@ -1,36 +1,51 @@
 {
-  "timestamp": "2025-12-05T16:04:55.273Z",
+  "timestamp": "2025-12-05T18:04:45.616Z",
   "states": [
     {
       "name": "Georgia",
       "code": "GA",
-      "topTopic": "brian cole jr",
+      "topTopic": "walb",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
         {
-          "name": "brian cole jr",
+          "name": "walb",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "22h ago",
-          "trendBreakdown": "pipe",
-          "percentageIncrease": "1000%"
+          "searchVolume": "100+",
+          "started": "40 minutes ago",
+          "percentageIncrease": "500%"
         },
         {
-          "name": "sandy springs",
+          "name": "walb news",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "10 minutes ago",
+          "percentageIncrease": "800%"
+        },
+        {
+          "name": "dc pipe bomber",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "100+",
           "started": "22h ago",
-          "percentageIncrease": "600%"
+          "percentageIncrease": "500%"
+        },
+        {
+          "name": "fox",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "30 minutes ago",
+          "percentageIncrease": "200%"
         },
         {
           "name": "suge knight",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "13h ago",
+          "started": "15h ago",
           "percentageIncrease": "200%"
         },
         {
@@ -38,7 +53,7 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "16h ago",
+          "started": "18h ago",
           "percentageIncrease": "300%"
         },
         {
@@ -46,7 +61,7 @@
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "12h ago",
+          "started": "14h ago",
           "percentageIncrease": "100%"
         },
         {
@@ -54,7 +69,7 @@
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "13h ago",
+          "started": "15h ago",
           "percentageIncrease": "100%"
         }
       ]

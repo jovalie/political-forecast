@@ -1,20 +1,19 @@
 {
-  "timestamp": "2025-12-05T16:04:55.273Z",
+  "timestamp": "2025-12-05T18:04:45.616Z",
   "states": [
     {
       "name": "Ohio",
       "code": "OH",
-      "topTopic": "brian cole",
+      "topTopic": "brian cole jr",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
         {
-          "name": "brian cole",
+          "name": "brian cole jr",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "2K+",
+          "searchVolume": "1K+",
           "started": "23h ago",
-          "trendBreakdown": "brian",
           "percentageIncrease": "1000%"
         },
         {
@@ -22,15 +21,15 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "1h ago",
-          "percentageIncrease": "900%"
+          "started": "3h ago",
+          "percentageIncrease": "700%"
         },
         {
           "name": "suge knight",
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "13h ago",
+          "started": "15h ago",
           "percentageIncrease": "100%"
         }
       ]

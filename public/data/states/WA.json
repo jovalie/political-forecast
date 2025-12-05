@@ -1,52 +1,59 @@
 {
-  "timestamp": "2025-12-05T16:04:55.273Z",
+  "timestamp": "2025-12-05T18:04:45.616Z",
   "states": [
     {
       "name": "Washington",
       "code": "WA",
-      "topTopic": "brian cole jr",
+      "topTopic": "hepatitis b",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
         {
+          "name": "hepatitis b",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "1K+",
+          "started": "1h ago",
+          "percentageIncrease": "500%"
+        },
+        {
           "name": "brian cole jr",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "2K+",
-          "started": "21h ago",
-          "trendBreakdown": "brian",
-          "percentageIncrease": "900%"
+          "searchVolume": "1K+",
+          "started": "23h ago",
+          "percentageIncrease": "800%"
         },
         {
           "name": "deli near me",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "14h ago",
+          "started": "16h ago",
           "percentageIncrease": "1000%"
+        },
+        {
+          "name": "fox",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "20 minutes ago",
+          "percentageIncrease": "200%"
         },
         {
           "name": "suge knight",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "11h ago",
-          "percentageIncrease": "200%"
-        },
-        {
-          "name": "vaccinations",
-          "relevanceScore": 90,
-          "category": "Law and Government",
-          "searchVolume": "500+",
           "started": "13h ago",
-          "percentageIncrease": "100%"
+          "percentageIncrease": "200%"
         },
         {
           "name": "uscis",
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "10h ago",
+          "started": "12h ago",
           "percentageIncrease": "100%"
         }
       ]

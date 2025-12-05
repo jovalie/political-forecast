@@ -1,28 +1,27 @@
 {
-  "timestamp": "2025-12-05T16:04:55.273Z",
+  "timestamp": "2025-12-05T18:04:45.616Z",
   "states": [
     {
       "name": "Wisconsin",
       "code": "WI",
-      "topTopic": "brian cole",
+      "topTopic": "brian cole jr",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
         {
-          "name": "brian cole",
+          "name": "brian cole jr",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "23h ago",
-          "trendBreakdown": "brian",
-          "percentageIncrease": "900%"
+          "searchVolume": "500+",
+          "started": "22h ago",
+          "percentageIncrease": "700%"
         },
         {
           "name": "lutsen resort",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "14h ago",
+          "started": "16h ago",
           "trendBreakdown": "lutsen",
           "percentageIncrease": "400%"
         }

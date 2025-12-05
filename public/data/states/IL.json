@@ -1,19 +1,27 @@
 {
-  "timestamp": "2025-12-05T16:04:55.273Z",
+  "timestamp": "2025-12-05T18:04:45.616Z",
   "states": [
     {
       "name": "Illinois",
       "code": "IL",
-      "topTopic": "brian cole jr",
+      "topTopic": "hepatitis b",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
+        {
+          "name": "hepatitis b",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "1K+",
+          "started": "2h ago",
+          "percentageIncrease": "900%"
+        },
         {
           "name": "brian cole jr",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "2K+",
-          "started": "22h ago",
+          "started": "24h ago",
           "trendBreakdown": "brian",
           "percentageIncrease": "1000%"
         },
@@ -22,7 +30,7 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "13h ago",
+          "started": "15h ago",
           "percentageIncrease": "200%"
         },
         {
@@ -30,23 +38,15 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "14h ago",
+          "started": "16h ago",
           "percentageIncrease": "200%"
-        },
-        {
-          "name": "immunizations",
-          "relevanceScore": 90,
-          "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "13h ago",
-          "percentageIncrease": "100%"
         },
         {
           "name": "supreme",
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "7h ago",
+          "started": "9h ago",
           "percentageIncrease": "100%"
         }
       ]

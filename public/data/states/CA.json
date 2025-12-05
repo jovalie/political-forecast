@@ -1,61 +1,62 @@
 {
-  "timestamp": "2025-12-05T16:04:55.273Z",
+  "timestamp": "2025-12-05T18:04:45.616Z",
   "states": [
     {
       "name": "California",
       "code": "CA",
-      "topTopic": "brian cole jr",
+      "topTopic": "hepatitis b",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
         {
-          "name": "brian cole jr",
+          "name": "hepatitis b",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "10K+",
-          "started": "22h ago",
-          "trendBreakdown": "brian",
+          "searchVolume": "2K+",
+          "started": "2h ago",
+          "trendBreakdown": "hep",
           "percentageIncrease": "700%"
-        },
-        {
-          "name": "letitia james",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "22h ago",
-          "percentageIncrease": "700%"
-        },
-        {
-          "name": "reno news",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "23h ago",
-          "percentageIncrease": "600%"
         },
         {
           "name": "aircraft carrier",
           "relevanceScore": 95,
           "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "5h ago",
+          "searchVolume": "1K+",
+          "started": "7h ago",
           "percentageIncrease": "400%"
+        },
+        {
+          "name": "fox",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "1h ago",
+          "percentageIncrease": "300%"
         },
         {
           "name": "supreme court",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "2K+",
-          "started": "16h ago",
+          "started": "18h ago",
           "trendBreakdown": "supreme",
           "percentageIncrease": "300%"
+        },
+        {
+          "name": "brian cole pipe bomber",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "2K+",
+          "started": "23h ago",
+          "trendBreakdown": "brian",
+          "percentageIncrease": "200%"
         },
         {
           "name": "deli",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "2K+",
-          "started": "14h ago",
+          "started": "16h ago",
           "percentageIncrease": "200%"
         },
         {
@@ -63,31 +64,15 @@
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "14h ago",
+          "started": "16h ago",
           "percentageIncrease": "100%"
         },
         {
-          "name": "vaccinations",
-          "relevanceScore": 90,
-          "category": "Law and Government",
-          "searchVolume": "2K+",
-          "started": "13h ago",
-          "percentageIncrease": "100%"
-        },
-        {
-          "name": "sacramento",
+          "name": "republicans health care plan",
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "23h ago",
-          "percentageIncrease": "100%"
-        },
-        {
-          "name": "fire",
-          "relevanceScore": 90,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "22h ago",
+          "started": "19h ago",
           "percentageIncrease": "100%"
         }
       ]
