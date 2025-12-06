@@ -1,19 +1,27 @@
 {
-  "timestamp": "2025-12-06T12:04:50.068Z",
+  "timestamp": "2025-12-06T14:04:44.515Z",
   "states": [
     {
       "name": "New York",
       "code": "NY",
-      "topTopic": "telemundo",
+      "topTopic": "admiral rachel levine",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
+        {
+          "name": "admiral rachel levine",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "40 minutes ago",
+          "percentageIncrease": "800%"
+        },
         {
           "name": "telemundo",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "18h ago",
+          "started": "20h ago",
           "percentageIncrease": "500%"
         },
         {
@@ -21,7 +29,7 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "2K+",
-          "started": "20h ago",
+          "started": "22h ago",
           "trendBreakdown": "cdc",
           "percentageIncrease": "300%"
         },
@@ -30,40 +38,32 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "13h ago",
+          "started": "15h ago",
           "percentageIncrease": "200%"
-        },
-        {
-          "name": "dea agent",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "10h ago",
-          "percentageIncrease": "400%"
-        },
-        {
-          "name": "jeremy o harris",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "2K+",
-          "started": "22h ago",
-          "percentageIncrease": "400%"
         },
         {
           "name": "birthright citizenship",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "16h ago",
+          "started": "18h ago",
           "percentageIncrease": "400%"
         },
         {
-          "name": "aircraft carrier",
+          "name": "dea agent",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "23h ago",
-          "percentageIncrease": "300%"
+          "started": "12h ago",
+          "percentageIncrease": "400%"
+        },
+        {
+          "name": "afd",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "3h ago",
+          "percentageIncrease": "200%"
         }
       ]
     }

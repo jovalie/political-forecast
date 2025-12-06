@@ -1,28 +1,28 @@
 {
-  "timestamp": "2025-12-06T12:04:50.068Z",
+  "timestamp": "2025-12-06T14:04:44.515Z",
   "states": [
     {
       "name": "Illinois",
       "code": "IL",
-      "topTopic": "hepatitis b",
+      "topTopic": "trinity poague",
       "category": "Law and Government",
-      "trendingScore": 100,
+      "trendingScore": 95,
       "topics": [
-        {
-          "name": "hepatitis b",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "20h ago",
-          "trendBreakdown": "cdc",
-          "percentageIncrease": "500%"
-        },
         {
           "name": "trinity poague",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "13h ago",
+          "started": "15h ago",
+          "percentageIncrease": "300%"
+        },
+        {
+          "name": "hepatitis b vaccine",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "1K+",
+          "started": "14h ago",
+          "trendBreakdown": "hepatitis",
           "percentageIncrease": "300%"
         },
         {
@@ -30,7 +30,7 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "7h ago",
+          "started": "9h ago",
           "percentageIncrease": "300%"
         }
       ]
