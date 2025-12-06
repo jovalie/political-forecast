@@ -1,36 +1,19 @@
 {
-  "timestamp": "2025-12-06T16:04:56.226Z",
+  "timestamp": "2025-12-06T18:04:41.706Z",
   "states": [
     {
       "name": "Virginia",
       "code": "VA",
-      "topTopic": "admiral rachel levine",
+      "topTopic": "birthright citizenship",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
-        {
-          "name": "admiral rachel levine",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "2h ago",
-          "percentageIncrease": "900%"
-        },
-        {
-          "name": "paul campo",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "22h ago",
-          "trendBreakdown": "dea",
-          "percentageIncrease": "700%"
-        },
         {
           "name": "birthright citizenship",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "17h ago",
+          "started": "19h ago",
           "percentageIncrease": "500%"
         },
         {
@@ -38,7 +21,7 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "17h ago",
+          "started": "19h ago",
           "percentageIncrease": "400%"
         }
       ]
