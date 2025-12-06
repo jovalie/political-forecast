@@ -1,68 +1,84 @@
 {
-  "timestamp": "2025-12-06T02:32:42.399Z",
+  "timestamp": "2025-12-06T04:04:47.784Z",
   "states": [
     {
       "name": "New York",
       "code": "NY",
-      "topTopic": "jeremy o harris",
+      "topTopic": "birthright citizenship",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
-        {
-          "name": "jeremy o harris",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "2K+",
-          "started": "12h ago",
-          "percentageIncrease": "500%"
-        },
         {
           "name": "birthright citizenship",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "6h ago",
-          "percentageIncrease": "600%"
+          "started": "8h ago",
+          "percentageIncrease": "500%"
+        },
+        {
+          "name": "telemundo",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "10h ago",
+          "percentageIncrease": "500%"
         },
         {
           "name": "hepatitis b",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "2K+",
-          "started": "10h ago",
+          "started": "12h ago",
           "trendBreakdown": "cdc",
-          "percentageIncrease": "400%"
+          "percentageIncrease": "300%"
         },
         {
-          "name": "suriname",
+          "name": "jeremy o harris",
           "relevanceScore": 95,
           "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "3h ago",
-          "percentageIncrease": "200%"
+          "searchVolume": "2K+",
+          "started": "14h ago",
+          "percentageIncrease": "400%"
         },
         {
           "name": "aircraft carrier",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "14h ago",
+          "started": "15h ago",
           "percentageIncrease": "300%"
+        },
+        {
+          "name": "suriname",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "4h ago",
+          "percentageIncrease": "200%"
         },
         {
           "name": "afd",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "22h ago",
+          "started": "23h ago",
           "percentageIncrease": "200%"
+        },
+        {
+          "name": "fox",
+          "relevanceScore": 90,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "11h ago",
+          "percentageIncrease": "100%"
         },
         {
           "name": "whec",
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "15h ago",
+          "started": "17h ago",
           "percentageIncrease": "100%"
         },
         {
@@ -70,7 +86,7 @@
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "19h ago",
+          "started": "21h ago",
           "percentageIncrease": "100%"
         }
       ]

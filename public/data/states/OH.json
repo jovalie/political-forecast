@@ -1,27 +1,19 @@
 {
-  "timestamp": "2025-12-06T02:32:42.399Z",
+  "timestamp": "2025-12-06T04:04:47.784Z",
   "states": [
     {
       "name": "Ohio",
       "code": "OH",
-      "topTopic": "curacao",
+      "topTopic": "trinity poague",
       "category": "Law and Government",
-      "trendingScore": 100,
+      "trendingScore": 95,
       "topics": [
-        {
-          "name": "curacao",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "4h ago",
-          "percentageIncrease": "700%"
-        },
         {
           "name": "trinity poague",
           "relevanceScore": 95,
           "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "1h ago",
+          "searchVolume": "500+",
+          "started": "5h ago",
           "percentageIncrease": "400%"
         }
       ]

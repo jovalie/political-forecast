@@ -1,19 +1,27 @@
 {
-  "timestamp": "2025-12-06T02:32:42.399Z",
+  "timestamp": "2025-12-06T04:04:47.784Z",
   "states": [
     {
       "name": "Pennsylvania",
       "code": "PA",
-      "topTopic": "cdc hepatitis b vaccine schedule",
+      "topTopic": "trinity poague",
       "category": "Law and Government",
-      "trendingScore": 95,
+      "trendingScore": 100,
       "topics": [
+        {
+          "name": "trinity poague",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "5h ago",
+          "percentageIncrease": "500%"
+        },
         {
           "name": "cdc hepatitis b vaccine schedule",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "1h ago",
+          "started": "3h ago",
           "trendBreakdown": "hepatitis",
           "percentageIncrease": "400%"
         }

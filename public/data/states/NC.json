@@ -1,19 +1,35 @@
 {
-  "timestamp": "2025-12-06T02:32:42.399Z",
+  "timestamp": "2025-12-06T04:04:47.784Z",
   "states": [
     {
       "name": "North Carolina",
       "code": "NC",
-      "topTopic": "abc",
+      "topTopic": "dea agent",
       "category": "Law and Government",
-      "trendingScore": 90,
+      "trendingScore": 100,
       "topics": [
+        {
+          "name": "dea agent",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "1h ago",
+          "percentageIncrease": "500%"
+        },
+        {
+          "name": "trinity poague",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "5h ago",
+          "percentageIncrease": "400%"
+        },
         {
           "name": "abc",
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "15h ago",
+          "started": "17h ago",
           "percentageIncrease": "100%"
         }
       ]

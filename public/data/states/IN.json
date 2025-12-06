@@ -1,28 +1,19 @@
 {
-  "timestamp": "2025-12-06T02:32:42.399Z",
+  "timestamp": "2025-12-06T04:04:47.784Z",
   "states": [
     {
       "name": "Indiana",
       "code": "IN",
-      "topTopic": "brian cole",
+      "topTopic": "trinity poague",
       "category": "Law and Government",
-      "trendingScore": 100,
+      "trendingScore": 95,
       "topics": [
         {
-          "name": "brian cole",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "23h ago",
-          "trendBreakdown": "brian",
-          "percentageIncrease": "1000%"
-        },
-        {
-          "name": "supreme",
+          "name": "trinity poague",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "23h ago",
+          "started": "3h ago",
           "percentageIncrease": "400%"
         }
       ]
