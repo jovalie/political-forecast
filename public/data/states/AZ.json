@@ -1,34 +1,27 @@
 {
-  "timestamp": "2025-12-05T22:04:54.752Z",
+  "timestamp": "2025-12-06T00:04:57.511Z",
   "states": [
     {
       "name": "Arizona",
       "code": "AZ",
-      "topTopic": "adelita grijalva",
+      "topTopic": "taco giro",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
         {
-          "name": "adelita grijalva",
+          "name": "taco giro",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "20 minutes ago",
-          "percentageIncrease": "900%"
+          "searchVolume": "1K+",
+          "started": "5h ago",
+          "trendBreakdown": "adelita",
+          "percentageIncrease": "1000%"
         },
         {
           "name": "deli",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "20h ago",
-          "percentageIncrease": "1000%"
-        },
-        {
-          "name": "letitia james",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "100+",
           "started": "22h ago",
           "percentageIncrease": "1000%"
         },
@@ -37,7 +30,7 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "17h ago",
+          "started": "19h ago",
           "percentageIncrease": "200%"
         }
       ]

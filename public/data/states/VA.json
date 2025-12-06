@@ -1,27 +1,59 @@
 {
-  "timestamp": "2025-12-05T22:04:54.752Z",
+  "timestamp": "2025-12-06T00:04:57.511Z",
   "states": [
     {
       "name": "Virginia",
       "code": "VA",
-      "topTopic": "opm",
+      "topTopic": "paul campo",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
+        {
+          "name": "paul campo",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "1K+",
+          "started": "6h ago",
+          "percentageIncrease": "900%"
+        },
+        {
+          "name": "trinity poague",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "1h ago",
+          "percentageIncrease": "600%"
+        },
+        {
+          "name": "birthright citizenship",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "1h ago",
+          "percentageIncrease": "500%"
+        },
         {
           "name": "opm",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "2K+",
-          "started": "13h ago",
+          "started": "15h ago",
           "percentageIncrease": "1000%"
+        },
+        {
+          "name": "frederick county public schools",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "14h ago",
+          "percentageIncrease": "700%"
         },
         {
           "name": "national security strategy",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "7h ago",
+          "started": "9h ago",
           "percentageIncrease": "600%"
         }
       ]

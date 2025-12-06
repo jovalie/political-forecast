@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-12-05T22:04:54.752Z",
+  "timestamp": "2025-12-06T00:04:57.511Z",
   "states": [
     {
       "name": "California",
@@ -13,41 +13,49 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "2K+",
-          "started": "2h ago",
-          "trendBreakdown": "supreme",
-          "percentageIncrease": "800%"
+          "started": "4h ago",
+          "trendBreakdown": "amendmentth",
+          "percentageIncrease": "700%"
         },
         {
           "name": "telemundo",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "5h ago",
+          "started": "7h ago",
           "percentageIncrease": "500%"
         },
         {
           "name": "hepatitis b",
           "relevanceScore": 95,
           "category": "Law and Government",
-          "searchVolume": "2K+",
-          "started": "6h ago",
-          "trendBreakdown": "hep",
-          "percentageIncrease": "400%"
+          "searchVolume": "5K+",
+          "started": "8h ago",
+          "trendBreakdown": "cdc",
+          "percentageIncrease": "300%"
         },
         {
-          "name": "curacao",
+          "name": "adelita grijalva",
           "relevanceScore": 95,
           "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "3h ago",
-          "percentageIncrease": "300%"
+          "searchVolume": "100+",
+          "started": "50 minutes ago",
+          "percentageIncrease": "200%"
         },
         {
           "name": "aircraft carrier",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "11h ago",
+          "started": "13h ago",
+          "percentageIncrease": "300%"
+        },
+        {
+          "name": "curacao",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "5h ago",
           "percentageIncrease": "300%"
         },
         {
@@ -55,7 +63,7 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "5h ago",
+          "started": "7h ago",
           "percentageIncrease": "200%"
         },
         {
@@ -63,7 +71,7 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "16h ago",
+          "started": "18h ago",
           "trendBreakdown": "texas",
           "percentageIncrease": "400%"
         },
@@ -72,7 +80,7 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "2K+",
-          "started": "20h ago",
+          "started": "22h ago",
           "percentageIncrease": "200%"
         },
         {
@@ -80,15 +88,7 @@
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "20h ago",
-          "percentageIncrease": "100%"
-        },
-        {
-          "name": "republicans health care plan",
-          "relevanceScore": 90,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "23h ago",
+          "started": "22h ago",
           "percentageIncrease": "100%"
         }
       ]
