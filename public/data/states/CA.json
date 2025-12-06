@@ -1,53 +1,53 @@
 {
-  "timestamp": "2025-12-06T06:04:59.341Z",
+  "timestamp": "2025-12-06T08:04:45.254Z",
   "states": [
     {
       "name": "California",
       "code": "CA",
-      "topTopic": "birthright citizenship",
+      "topTopic": "telemundo",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
         {
-          "name": "birthright citizenship",
+          "name": "telemundo",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "2K+",
-          "started": "10h ago",
-          "trendBreakdown": "amendmentth",
+          "searchVolume": "500+",
+          "started": "15h ago",
           "percentageIncrease": "500%"
         },
         {
-          "name": "hepatitis b",
+          "name": "cdc hepatitis b vaccine schedule",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "5K+",
-          "started": "14h ago",
-          "trendBreakdown": "cdc",
-          "percentageIncrease": "300%"
+          "started": "8h ago",
+          "trendBreakdown": "hepatitis",
+          "percentageIncrease": "400%"
+        },
+        {
+          "name": "birthright citizenship",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "2K+",
+          "started": "12h ago",
+          "trendBreakdown": "amendmentth",
+          "percentageIncrease": "400%"
         },
         {
           "name": "trinity poague",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "7h ago",
-          "percentageIncrease": "200%"
-        },
-        {
-          "name": "keefe d",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "50 minutes ago",
+          "started": "9h ago",
           "percentageIncrease": "200%"
         },
         {
           "name": "dea agent",
           "relevanceScore": 95,
           "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "4h ago",
+          "searchVolume": "1K+",
+          "started": "6h ago",
           "percentageIncrease": "400%"
         },
         {
@@ -55,7 +55,7 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "19h ago",
+          "started": "21h ago",
           "percentageIncrease": "300%"
         },
         {
@@ -63,7 +63,7 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "6h ago",
+          "started": "8h ago",
           "percentageIncrease": "200%"
         },
         {
@@ -71,7 +71,7 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "6h ago",
+          "started": "8h ago",
           "percentageIncrease": "200%"
         }
       ]
