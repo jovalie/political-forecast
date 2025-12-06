@@ -1,45 +1,36 @@
 {
-  "timestamp": "2025-12-06T14:04:44.515Z",
+  "timestamp": "2025-12-06T16:04:56.226Z",
   "states": [
     {
       "name": "Virginia",
       "code": "VA",
-      "topTopic": "paul campo",
+      "topTopic": "admiral rachel levine",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
+        {
+          "name": "admiral rachel levine",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "2h ago",
+          "percentageIncrease": "900%"
+        },
         {
           "name": "paul campo",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "20h ago",
-          "trendBreakdown": "dea",
-          "percentageIncrease": "800%"
-        },
-        {
-          "name": "hepatitis b",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "500+",
           "started": "22h ago",
-          "trendBreakdown": "cdc",
-          "percentageIncrease": "500%"
-        },
-        {
-          "name": "national security strategy",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "23h ago",
-          "percentageIncrease": "600%"
+          "trendBreakdown": "dea",
+          "percentageIncrease": "700%"
         },
         {
           "name": "birthright citizenship",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "15h ago",
+          "started": "17h ago",
           "percentageIncrease": "500%"
         },
         {
@@ -47,7 +38,7 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "15h ago",
+          "started": "17h ago",
           "percentageIncrease": "400%"
         }
       ]

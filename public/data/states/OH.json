@@ -1,19 +1,27 @@
 {
-  "timestamp": "2025-12-06T14:04:44.515Z",
+  "timestamp": "2025-12-06T16:04:56.226Z",
   "states": [
     {
       "name": "Ohio",
       "code": "OH",
-      "topTopic": "trinity poague",
+      "topTopic": "admiral rachel levine",
       "category": "Law and Government",
-      "trendingScore": 95,
+      "trendingScore": 100,
       "topics": [
+        {
+          "name": "admiral rachel levine",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "1h ago",
+          "percentageIncrease": "700%"
+        },
         {
           "name": "trinity poague",
           "relevanceScore": 95,
           "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "15h ago",
+          "searchVolume": "1K+",
+          "started": "17h ago",
           "percentageIncrease": "300%"
         }
       ]

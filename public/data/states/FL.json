@@ -1,36 +1,27 @@
 {
-  "timestamp": "2025-12-06T14:04:44.515Z",
+  "timestamp": "2025-12-06T16:04:56.226Z",
   "states": [
     {
       "name": "Florida",
       "code": "FL",
-      "topTopic": "east ridge high school",
+      "topTopic": "trinity poague",
       "category": "Law and Government",
-      "trendingScore": 100,
+      "trendingScore": 95,
       "topics": [
-        {
-          "name": "east ridge high school",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "23h ago",
-          "percentageIncrease": "500%"
-        },
         {
           "name": "trinity poague",
           "relevanceScore": 95,
           "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "16h ago",
+          "searchVolume": "2K+",
+          "started": "18h ago",
           "percentageIncrease": "400%"
         },
         {
-          "name": "hepatitis b",
+          "name": "cdc hepatitis b vaccine schedule",
           "relevanceScore": 95,
           "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "22h ago",
-          "trendBreakdown": "cdc",
+          "searchVolume": "500+",
+          "started": "15h ago",
           "percentageIncrease": "300%"
         },
         {
@@ -38,25 +29,16 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "12h ago",
+          "started": "14h ago",
           "trendBreakdown": "paul",
           "percentageIncrease": "400%"
-        },
-        {
-          "name": "suriname",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "1h ago",
-          "trendBreakdown": "huffington",
-          "percentageIncrease": "200%"
         },
         {
           "name": "birthright citizenship",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "17h ago",
+          "started": "19h ago",
           "percentageIncrease": "400%"
         },
         {
@@ -64,7 +46,7 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "18h ago",
+          "started": "20h ago",
           "percentageIncrease": "200%"
         }
       ]
