@@ -1,28 +1,28 @@
 {
-  "timestamp": "2025-12-06T04:04:47.784Z",
+  "timestamp": "2025-12-06T06:04:59.341Z",
   "states": [
     {
       "name": "Pennsylvania",
       "code": "PA",
-      "topTopic": "trinity poague",
+      "topTopic": "hepatitis b",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
         {
-          "name": "trinity poague",
+          "name": "hepatitis b",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "5h ago",
+          "searchVolume": "1K+",
+          "started": "14h ago",
+          "trendBreakdown": "cdc",
           "percentageIncrease": "500%"
         },
         {
-          "name": "cdc hepatitis b vaccine schedule",
+          "name": "trinity poague",
           "relevanceScore": 95,
           "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "3h ago",
-          "trendBreakdown": "hepatitis",
+          "searchVolume": "500+",
+          "started": "7h ago",
           "percentageIncrease": "400%"
         }
       ]

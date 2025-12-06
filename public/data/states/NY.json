@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-12-06T04:04:47.784Z",
+  "timestamp": "2025-12-06T06:04:59.341Z",
   "states": [
     {
       "name": "New York",
@@ -13,7 +13,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "8h ago",
+          "started": "10h ago",
           "percentageIncrease": "500%"
         },
         {
@@ -21,32 +21,48 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "10h ago",
-          "percentageIncrease": "500%"
-        },
-        {
-          "name": "hepatitis b",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "2K+",
           "started": "12h ago",
-          "trendBreakdown": "cdc",
-          "percentageIncrease": "300%"
+          "percentageIncrease": "500%"
         },
         {
           "name": "jeremy o harris",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "2K+",
-          "started": "14h ago",
+          "started": "16h ago",
           "percentageIncrease": "400%"
+        },
+        {
+          "name": "hepatitis b",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "2K+",
+          "started": "14h ago",
+          "trendBreakdown": "cdc",
+          "percentageIncrease": "300%"
+        },
+        {
+          "name": "trinity poague",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "7h ago",
+          "percentageIncrease": "300%"
+        },
+        {
+          "name": "keefe d",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "1h ago",
+          "percentageIncrease": "200%"
         },
         {
           "name": "aircraft carrier",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "15h ago",
+          "started": "17h ago",
           "percentageIncrease": "300%"
         },
         {
@@ -54,31 +70,15 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "4h ago",
+          "started": "6h ago",
           "percentageIncrease": "200%"
-        },
-        {
-          "name": "afd",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "23h ago",
-          "percentageIncrease": "200%"
-        },
-        {
-          "name": "fox",
-          "relevanceScore": 90,
-          "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "11h ago",
-          "percentageIncrease": "100%"
         },
         {
           "name": "whec",
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "17h ago",
+          "started": "19h ago",
           "percentageIncrease": "100%"
         },
         {
@@ -86,7 +86,7 @@
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "21h ago",
+          "started": "23h ago",
           "percentageIncrease": "100%"
         }
       ]

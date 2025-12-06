@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-12-06T04:04:47.784Z",
+  "timestamp": "2025-12-06T06:04:59.341Z",
   "states": [
     {
       "name": "California",
@@ -13,65 +13,57 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "2K+",
-          "started": "8h ago",
+          "started": "10h ago",
           "trendBreakdown": "amendmentth",
           "percentageIncrease": "500%"
         },
         {
-          "name": "telemundo",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "11h ago",
-          "percentageIncrease": "500%"
-        },
-        {
-          "name": "cdc hepatitis b vaccine schedule",
+          "name": "hepatitis b",
           "relevanceScore": 95,
           "category": "Law and Government",
-          "searchVolume": "2K+",
-          "started": "4h ago",
-          "trendBreakdown": "hepatitis",
-          "percentageIncrease": "400%"
+          "searchVolume": "5K+",
+          "started": "14h ago",
+          "trendBreakdown": "cdc",
+          "percentageIncrease": "300%"
+        },
+        {
+          "name": "trinity poague",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "1K+",
+          "started": "7h ago",
+          "percentageIncrease": "200%"
+        },
+        {
+          "name": "keefe d",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "50 minutes ago",
+          "percentageIncrease": "200%"
         },
         {
           "name": "dea agent",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "2h ago",
-          "percentageIncrease": "400%"
-        },
-        {
-          "name": "trinity poague",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "5h ago",
-          "percentageIncrease": "200%"
-        },
-        {
-          "name": "suriname",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "500+",
           "started": "4h ago",
-          "percentageIncrease": "200%"
+          "percentageIncrease": "400%"
         },
         {
           "name": "aircraft carrier",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "17h ago",
+          "started": "19h ago",
           "percentageIncrease": "300%"
         },
         {
-          "name": "fox",
+          "name": "suriname",
           "relevanceScore": 95,
           "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "11h ago",
+          "searchVolume": "500+",
+          "started": "6h ago",
           "percentageIncrease": "200%"
         },
         {
@@ -79,16 +71,8 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "4h ago",
+          "started": "6h ago",
           "percentageIncrease": "200%"
-        },
-        {
-          "name": "supreme court texas redistricting",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "22h ago",
-          "percentageIncrease": "400%"
         }
       ]
     }
