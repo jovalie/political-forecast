@@ -1,29 +1,20 @@
 {
-  "timestamp": "2025-12-06T00:04:57.511Z",
+  "timestamp": "2025-12-06T02:32:42.399Z",
   "states": [
     {
       "name": "Wisconsin",
       "code": "WI",
       "topTopic": "hepatitis b",
       "category": "Law and Government",
-      "trendingScore": 100,
+      "trendingScore": 95,
       "topics": [
         {
           "name": "hepatitis b",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "20 minutes ago",
-          "percentageIncrease": "500%"
-        },
-        {
-          "name": "lutsen resort",
           "relevanceScore": 95,
           "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "22h ago",
-          "trendBreakdown": "lutsen",
-          "percentageIncrease": "400%"
+          "searchVolume": "100+",
+          "started": "2h ago",
+          "percentageIncrease": "300%"
         }
       ]
     }
