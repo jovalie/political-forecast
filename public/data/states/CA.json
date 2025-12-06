@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-12-06T20:04:36.112Z",
+  "timestamp": "2025-12-06T22:04:44.781Z",
   "states": [
     {
       "name": "California",
@@ -13,7 +13,7 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "2K+",
-          "started": "20h ago",
+          "started": "22h ago",
           "percentageIncrease": "200%"
         },
         {
@@ -21,24 +21,25 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "5K+",
-          "started": "21h ago",
+          "started": "23h ago",
           "trendBreakdown": "san",
           "percentageIncrease": "400%"
         },
         {
-          "name": "admiral rachel levine",
+          "name": "hhs admiral rachel levine",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "6h ago",
-          "percentageIncrease": "300%"
+          "started": "3h ago",
+          "trendBreakdown": "admiral",
+          "percentageIncrease": "200%"
         },
         {
           "name": "dea agent",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "18h ago",
+          "started": "20h ago",
           "percentageIncrease": "400%"
         },
         {
@@ -46,7 +47,7 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "20h ago",
+          "started": "22h ago",
           "percentageIncrease": "200%"
         },
         {
@@ -54,7 +55,7 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "20h ago",
+          "started": "22h ago",
           "percentageIncrease": "200%"
         },
         {
@@ -62,7 +63,15 @@
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "21h ago",
+          "started": "23h ago",
+          "percentageIncrease": "100%"
+        },
+        {
+          "name": "nytimes",
+          "relevanceScore": 90,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "10h ago",
           "percentageIncrease": "100%"
         }
       ]

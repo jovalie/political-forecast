@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-12-06T20:04:36.112Z",
+  "timestamp": "2025-12-06T22:04:44.781Z",
   "states": [
     {
       "name": "New York",
@@ -13,23 +13,24 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "21h ago",
+          "started": "23h ago",
           "percentageIncrease": "200%"
         },
         {
-          "name": "taxes",
+          "name": "hhs admiral rachel levine",
           "relevanceScore": 95,
           "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "1h ago",
-          "percentageIncrease": "200%"
+          "searchVolume": "500+",
+          "started": "2h ago",
+          "trendBreakdown": "admiral",
+          "percentageIncrease": "300%"
         },
         {
           "name": "cdc hepatitis b vaccine schedule",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "20h ago",
+          "started": "22h ago",
           "percentageIncrease": "300%"
         },
         {
@@ -37,7 +38,7 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "18h ago",
+          "started": "20h ago",
           "percentageIncrease": "400%"
         },
         {
@@ -45,7 +46,7 @@
           "relevanceScore": 85,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "5h ago",
+          "started": "7h ago",
           "percentageIncrease": "75%"
         }
       ]

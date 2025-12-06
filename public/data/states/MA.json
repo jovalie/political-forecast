@@ -1,27 +1,19 @@
 {
-  "timestamp": "2025-12-06T20:04:36.112Z",
+  "timestamp": "2025-12-06T22:04:44.781Z",
   "states": [
     {
       "name": "Massachusetts",
       "code": "MA",
-      "topTopic": "birthright citizenship",
+      "topTopic": "museum of science",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
-        {
-          "name": "birthright citizenship",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "23h ago",
-          "percentageIncrease": "800%"
-        },
         {
           "name": "museum of science",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "21h ago",
+          "started": "23h ago",
           "percentageIncrease": "700%"
         }
       ]
