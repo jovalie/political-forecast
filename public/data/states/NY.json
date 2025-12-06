@@ -1,27 +1,19 @@
 {
-  "timestamp": "2025-12-06T10:04:48.833Z",
+  "timestamp": "2025-12-06T12:04:50.068Z",
   "states": [
     {
       "name": "New York",
       "code": "NY",
-      "topTopic": "dea agent",
+      "topTopic": "telemundo",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
-        {
-          "name": "dea agent",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "8h ago",
-          "percentageIncrease": "500%"
-        },
         {
           "name": "telemundo",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "16h ago",
+          "started": "18h ago",
           "percentageIncrease": "500%"
         },
         {
@@ -29,32 +21,40 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "2K+",
-          "started": "18h ago",
+          "started": "20h ago",
           "trendBreakdown": "cdc",
           "percentageIncrease": "300%"
-        },
-        {
-          "name": "jeremy o harris",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "2K+",
-          "started": "20h ago",
-          "percentageIncrease": "400%"
         },
         {
           "name": "trinity poague",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "11h ago",
+          "started": "13h ago",
           "percentageIncrease": "200%"
+        },
+        {
+          "name": "dea agent",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "10h ago",
+          "percentageIncrease": "400%"
+        },
+        {
+          "name": "jeremy o harris",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "2K+",
+          "started": "22h ago",
+          "percentageIncrease": "400%"
         },
         {
           "name": "birthright citizenship",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "14h ago",
+          "started": "16h ago",
           "percentageIncrease": "400%"
         },
         {
@@ -62,24 +62,8 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "21h ago",
-          "percentageIncrease": "300%"
-        },
-        {
-          "name": "suriname",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "10h ago",
-          "percentageIncrease": "200%"
-        },
-        {
-          "name": "whec",
-          "relevanceScore": 90,
-          "category": "Law and Government",
-          "searchVolume": "100+",
           "started": "23h ago",
-          "percentageIncrease": "100%"
+          "percentageIncrease": "300%"
         }
       ]
     }

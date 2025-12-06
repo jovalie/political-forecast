@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-12-06T10:04:48.833Z",
+  "timestamp": "2025-12-06T12:04:50.068Z",
   "states": [
     {
       "name": "Pennsylvania",
@@ -13,7 +13,7 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "11h ago",
+          "started": "13h ago",
           "percentageIncrease": "300%"
         },
         {
@@ -21,9 +21,17 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "9h ago",
+          "started": "11h ago",
           "trendBreakdown": "hepatitis",
-          "percentageIncrease": "300%"
+          "percentageIncrease": "400%"
+        },
+        {
+          "name": "birthright citizenship",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "15h ago",
+          "percentageIncrease": "400%"
         }
       ]
     }

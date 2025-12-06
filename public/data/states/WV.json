@@ -1,14 +1,22 @@
 {
-  "timestamp": "2025-11-17T04:47:44.555Z",
+  "timestamp": "2025-12-06T12:04:50.068Z",
   "states": [
     {
       "name": "West Virginia",
       "code": "WV",
+      "topTopic": "metro news",
       "category": "Law and Government",
-      "topics": [],
-      "topTopic": "",
-      "trendingScore": 0,
-      "timestamp": "2025-11-17T04:47:44.555Z"
+      "trendingScore": 100,
+      "topics": [
+        {
+          "name": "metro news",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "18h ago",
+          "percentageIncrease": "500%"
+        }
+      ]
     }
   ]
 }

@@ -1,35 +1,19 @@
 {
-  "timestamp": "2025-12-06T10:04:48.833Z",
+  "timestamp": "2025-12-06T12:04:50.068Z",
   "states": [
     {
       "name": "Maryland",
       "code": "MD",
-      "topTopic": "harford county public schools",
+      "topTopic": "northwood high school",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
-        {
-          "name": "harford county public schools",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "23h ago",
-          "percentageIncrease": "1000%"
-        },
-        {
-          "name": "dc public schools",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "23h ago",
-          "percentageIncrease": "700%"
-        },
         {
           "name": "northwood high school",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "18h ago",
+          "started": "20h ago",
           "percentageIncrease": "500%"
         }
       ]
