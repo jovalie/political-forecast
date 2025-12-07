@@ -1,36 +1,36 @@
 {
-  "timestamp": "2025-12-07T06:04:45.488Z",
+  "timestamp": "2025-12-07T08:04:37.623Z",
   "states": [
     {
       "name": "Florida",
       "code": "FL",
-      "topTopic": "keefe d",
+      "topTopic": "hhs admiral rachel levine",
       "category": "Law and Government",
       "trendingScore": 95,
       "topics": [
-        {
-          "name": "keefe d",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "2h ago",
-          "percentageIncrease": "200%"
-        },
         {
           "name": "hhs admiral rachel levine",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "10h ago",
+          "started": "12h ago",
           "trendBreakdown": "admiral",
           "percentageIncrease": "300%"
+        },
+        {
+          "name": "keefe d",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "4h ago",
+          "percentageIncrease": "200%"
         },
         {
           "name": "radar",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "6h ago",
+          "started": "8h ago",
           "percentageIncrease": "200%"
         },
         {
@@ -38,7 +38,7 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "17h ago",
+          "started": "19h ago",
           "percentageIncrease": "200%"
         },
         {
@@ -46,7 +46,7 @@
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "18h ago",
+          "started": "20h ago",
           "percentageIncrease": "100%"
         }
       ]

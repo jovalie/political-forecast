@@ -1,20 +1,20 @@
 {
-  "timestamp": "2025-12-07T06:04:45.488Z",
+  "timestamp": "2025-12-07T08:04:37.623Z",
   "states": [
     {
       "name": "Massachusetts",
       "code": "MA",
-      "topTopic": "museum of science",
+      "topTopic": "stuttgart",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
         {
-          "name": "museum of science",
+          "name": "stuttgart",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "23h ago",
-          "percentageIncrease": "700%"
+          "started": "15h ago",
+          "percentageIncrease": "1000%"
         }
       ]
     }
