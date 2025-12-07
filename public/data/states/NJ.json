@@ -1,21 +1,20 @@
 {
-  "timestamp": "2025-12-07T20:04:45.607Z",
+  "timestamp": "2025-12-07T22:04:24.641Z",
   "states": [
     {
       "name": "New Jersey",
       "code": "NJ",
-      "topTopic": "hepatitis b",
+      "topTopic": "cassie ventura",
       "category": "Law and Government",
-      "trendingScore": 100,
+      "trendingScore": 90,
       "topics": [
         {
-          "name": "hepatitis b",
-          "relevanceScore": 100,
+          "name": "cassie ventura",
+          "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "22h ago",
-          "trendBreakdown": "hep",
-          "percentageIncrease": "500%"
+          "started": "19h ago",
+          "percentageIncrease": "100%"
         }
       ]
     }

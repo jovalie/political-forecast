@@ -1,21 +1,20 @@
 {
-  "timestamp": "2025-12-07T20:04:45.607Z",
+  "timestamp": "2025-12-07T22:04:24.641Z",
   "states": [
     {
       "name": "Michigan",
       "code": "MI",
-      "topTopic": "muskegon",
+      "topTopic": "mass shooting muskegon",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
         {
-          "name": "muskegon",
+          "name": "mass shooting muskegon",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "22h ago",
-          "trendBreakdown": "mass",
-          "percentageIncrease": "1000%"
+          "searchVolume": "100+",
+          "started": "21h ago",
+          "percentageIncrease": "600%"
         }
       ]
     }
