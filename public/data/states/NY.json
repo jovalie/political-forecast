@@ -1,53 +1,61 @@
 {
-  "timestamp": "2025-12-07T10:04:38.912Z",
+  "timestamp": "2025-12-07T12:04:37.718Z",
   "states": [
     {
       "name": "New York",
       "code": "NY",
-      "topTopic": "admiral rachel levine",
+      "topTopic": "benin",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
+        {
+          "name": "benin",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "1h ago",
+          "percentageIncrease": "700%"
+        },
         {
           "name": "admiral rachel levine",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "20h ago",
+          "started": "22h ago",
           "trendBreakdown": "hhs",
           "percentageIncrease": "600%"
-        },
-        {
-          "name": "levi aron",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "10h ago",
-          "trendBreakdown": "leiby",
-          "percentageIncrease": "200%"
-        },
-        {
-          "name": "burna boy",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "8h ago",
-          "percentageIncrease": "200%"
         },
         {
           "name": "pete hegseth",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "4h ago",
+          "started": "6h ago",
           "percentageIncrease": "200%"
+        },
+        {
+          "name": "leiby kletzky",
+          "relevanceScore": 90,
+          "category": "Law and Government",
+          "searchVolume": "1K+",
+          "started": "12h ago",
+          "trendBreakdown": "levi",
+          "percentageIncrease": "100%"
+        },
+        {
+          "name": "pearl harbor",
+          "relevanceScore": 90,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "6h ago",
+          "percentageIncrease": "100%"
         },
         {
           "name": "tupac",
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "10h ago",
+          "started": "12h ago",
           "trendBreakdown": "keefe",
           "percentageIncrease": "100%"
         },
@@ -56,7 +64,7 @@
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "21h ago",
+          "started": "23h ago",
           "percentageIncrease": "100%"
         },
         {
@@ -64,7 +72,7 @@
           "relevanceScore": 85,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "19h ago",
+          "started": "21h ago",
           "percentageIncrease": "75%"
         }
       ]

@@ -1,44 +1,44 @@
 {
-  "timestamp": "2025-12-07T10:04:38.912Z",
+  "timestamp": "2025-12-07T12:04:37.718Z",
   "states": [
     {
       "name": "Florida",
       "code": "FL",
-      "topTopic": "hhs admiral rachel levine",
+      "topTopic": "admiral rachel levine",
       "category": "Law and Government",
-      "trendingScore": 95,
+      "trendingScore": 100,
       "topics": [
         {
-          "name": "hhs admiral rachel levine",
-          "relevanceScore": 95,
+          "name": "admiral rachel levine",
+          "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "14h ago",
-          "trendBreakdown": "admiral",
-          "percentageIncrease": "300%"
+          "started": "22h ago",
+          "trendBreakdown": "hhs",
+          "percentageIncrease": "500%"
         },
         {
           "name": "radar",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "10h ago",
+          "started": "12h ago",
           "percentageIncrease": "200%"
         },
         {
-          "name": "suriname",
-          "relevanceScore": 95,
+          "name": "pearl harbor",
+          "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "21h ago",
-          "percentageIncrease": "200%"
+          "started": "4h ago",
+          "percentageIncrease": "100%"
         },
         {
           "name": "keefe d",
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "6h ago",
+          "started": "8h ago",
           "percentageIncrease": "100%"
         },
         {
@@ -46,7 +46,7 @@
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "22h ago",
+          "started": "24h ago",
           "percentageIncrease": "100%"
         }
       ]
