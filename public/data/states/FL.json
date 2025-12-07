@@ -1,19 +1,27 @@
 {
-  "timestamp": "2025-12-07T02:39:40.484Z",
+  "timestamp": "2025-12-07T04:14:34.226Z",
   "states": [
     {
       "name": "Florida",
       "code": "FL",
-      "topTopic": "hhs admiral rachel levine",
+      "topTopic": "keefe d",
       "category": "Law and Government",
       "trendingScore": 95,
       "topics": [
+        {
+          "name": "keefe d",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "40 minutes ago",
+          "percentageIncrease": "200%"
+        },
         {
           "name": "hhs admiral rachel levine",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "7h ago",
+          "started": "8h ago",
           "trendBreakdown": "admiral",
           "percentageIncrease": "300%"
         },
@@ -22,7 +30,7 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "3h ago",
+          "started": "4h ago",
           "percentageIncrease": "200%"
         },
         {
@@ -30,8 +38,16 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "14h ago",
+          "started": "15h ago",
           "percentageIncrease": "200%"
+        },
+        {
+          "name": "disney world",
+          "relevanceScore": 90,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "16h ago",
+          "percentageIncrease": "100%"
         }
       ]
     }
