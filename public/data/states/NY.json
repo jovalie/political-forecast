@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-12-07T04:14:34.226Z",
+  "timestamp": "2025-12-07T06:04:45.488Z",
   "states": [
     {
       "name": "New York",
@@ -13,26 +13,59 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "14h ago",
+          "started": "16h ago",
           "trendBreakdown": "hhs",
           "percentageIncrease": "600%"
         },
         {
-          "name": "levi aron",
+          "name": "burna boy",
           "relevanceScore": 95,
           "category": "Law and Government",
-          "searchVolume": "500+",
+          "searchVolume": "100+",
           "started": "4h ago",
-          "trendBreakdown": "leiby",
-          "percentageIncrease": "300%"
+          "percentageIncrease": "200%"
+        },
+        {
+          "name": "pete hegseth",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "40 minutes ago",
+          "percentageIncrease": "200%"
+        },
+        {
+          "name": "leiby kletzky",
+          "relevanceScore": 90,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "6h ago",
+          "trendBreakdown": "levi",
+          "percentageIncrease": "100%"
+        },
+        {
+          "name": "tupac",
+          "relevanceScore": 90,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "6h ago",
+          "trendBreakdown": "keefe",
+          "percentageIncrease": "100%"
         },
         {
           "name": "meghan markle",
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "15h ago",
+          "started": "17h ago",
           "percentageIncrease": "100%"
+        },
+        {
+          "name": "pl",
+          "relevanceScore": 85,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "15h ago",
+          "percentageIncrease": "75%"
         }
       ]
     }
