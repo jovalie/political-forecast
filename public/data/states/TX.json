@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-12-07T00:04:57.620Z",
+  "timestamp": "2025-12-07T02:39:40.484Z",
   "states": [
     {
       "name": "Texas",
@@ -13,33 +13,49 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "3h ago",
-          "percentageIncrease": "700%"
+          "started": "6h ago",
+          "percentageIncrease": "600%"
+        },
+        {
+          "name": "taxes",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "2h ago",
+          "percentageIncrease": "600%"
         },
         {
           "name": "tax return",
           "relevanceScore": 95,
           "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "20 minutes ago",
-          "percentageIncrease": "200%"
+          "searchVolume": "500+",
+          "started": "2h ago",
+          "percentageIncrease": "400%"
         },
         {
-          "name": "rachel levine hhs",
+          "name": "tax refund",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "1h ago",
-          "trendBreakdown": "admiral",
+          "started": "2h ago",
+          "percentageIncrease": "400%"
+        },
+        {
+          "name": "admiral rachel levine",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "13h ago",
+          "trendBreakdown": "rachel",
           "percentageIncrease": "300%"
         },
         {
-          "name": "pl",
-          "relevanceScore": 90,
+          "name": "icc",
+          "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "9h ago",
-          "percentageIncrease": "100%"
+          "started": "10h ago",
+          "percentageIncrease": "200%"
         }
       ]
     }

@@ -1,53 +1,62 @@
 {
-  "timestamp": "2025-12-07T00:04:57.620Z",
+  "timestamp": "2025-12-07T02:39:40.484Z",
   "states": [
     {
       "name": "California",
       "code": "CA",
-      "topTopic": "tax return",
+      "topTopic": "mark kelly",
       "category": "Law and Government",
-      "trendingScore": 95,
+      "trendingScore": 100,
       "topics": [
         {
-          "name": "tax return",
-          "relevanceScore": 95,
+          "name": "mark kelly",
+          "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "100+",
+          "searchVolume": "500+",
           "started": "1h ago",
-          "percentageIncrease": "300%"
+          "percentageIncrease": "1000%"
         },
         {
-          "name": "rachel levine hhs",
+          "name": "taxes",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "4h ago",
+          "percentageIncrease": "200%"
+        },
+        {
+          "name": "tax refund",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "4h ago",
+          "percentageIncrease": "200%"
+        },
+        {
+          "name": "hhs admiral rachel levine",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "2h ago",
-          "trendBreakdown": "hhs",
-          "percentageIncrease": "400%"
+          "started": "8h ago",
+          "trendBreakdown": "rachel",
+          "percentageIncrease": "200%"
         },
         {
-          "name": "dea agent",
-          "relevanceScore": 95,
+          "name": "tupac",
+          "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "1K+",
           "started": "22h ago",
-          "percentageIncrease": "400%"
-        },
-        {
-          "name": "san diego",
-          "relevanceScore": 90,
-          "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "23h ago",
+          "trendBreakdown": "keefe",
           "percentageIncrease": "100%"
         },
         {
-          "name": "nytimes",
-          "relevanceScore": 90,
+          "name": "people",
+          "relevanceScore": 85,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "12h ago",
-          "percentageIncrease": "100%"
+          "started": "14h ago",
+          "percentageIncrease": "50%"
         }
       ]
     },
@@ -81,33 +90,24 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "4h ago",
+          "started": "7h ago",
           "trendBreakdown": "admiral",
           "percentageIncrease": "300%"
         },
         {
-          "name": "cdc hepatitis b vaccine schedule",
+          "name": "radar",
           "relevanceScore": 95,
           "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "23h ago",
-          "percentageIncrease": "300%"
-        },
-        {
-          "name": "dea agent",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "22h ago",
-          "trendBreakdown": "paul",
-          "percentageIncrease": "400%"
+          "searchVolume": "100+",
+          "started": "3h ago",
+          "percentageIncrease": "200%"
         },
         {
           "name": "suriname",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "11h ago",
+          "started": "14h ago",
           "percentageIncrease": "200%"
         }
       ]
@@ -124,31 +124,23 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "10h ago",
+          "started": "13h ago",
           "percentageIncrease": "1000%"
+        },
+        {
+          "name": "sling tv",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "5h ago",
+          "percentageIncrease": "300%"
         },
         {
           "name": "dea agent",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "21h ago",
-          "percentageIncrease": "200%"
-        },
-        {
-          "name": "keefe d",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "100+",
           "started": "23h ago",
-          "percentageIncrease": "200%"
-        },
-        {
-          "name": "atlanta news first",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "22h ago",
           "percentageIncrease": "200%"
         }
       ]
@@ -156,33 +148,17 @@
     {
       "name": "Illinois",
       "code": "IL",
-      "topTopic": "cdc hepatitis b vaccine schedule",
+      "topTopic": "keefe d",
       "category": "Law and Government",
       "trendingScore": 95,
       "topics": [
-        {
-          "name": "cdc hepatitis b vaccine schedule",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "22h ago",
-          "percentageIncrease": "300%"
-        },
         {
           "name": "keefe d",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "19h ago",
+          "started": "21h ago",
           "percentageIncrease": "300%"
-        },
-        {
-          "name": "granite city il",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "23h ago",
-          "percentageIncrease": "400%"
         }
       ]
     },
@@ -223,18 +199,18 @@
     {
       "name": "Michigan",
       "code": "MI",
-      "topTopic": "house of ludington",
+      "topTopic": "muskegon",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
         {
-          "name": "house of ludington",
+          "name": "muskegon",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "2K+",
-          "started": "22h ago",
-          "trendBreakdown": "escanaba",
-          "percentageIncrease": "800%"
+          "searchVolume": "500+",
+          "started": "4h ago",
+          "trendBreakdown": "mass",
+          "percentageIncrease": "1000%"
         }
       ]
     },
@@ -310,40 +286,6 @@
     {
       "name": "New York",
       "code": "NY",
-      "topTopic": "hhs admiral rachel levine",
-      "category": "Law and Government",
-      "trendingScore": 95,
-      "topics": [
-        {
-          "name": "hhs admiral rachel levine",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "4h ago",
-          "trendBreakdown": "admiral",
-          "percentageIncrease": "300%"
-        },
-        {
-          "name": "dea agent",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "22h ago",
-          "percentageIncrease": "400%"
-        },
-        {
-          "name": "pl",
-          "relevanceScore": 85,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "9h ago",
-          "percentageIncrease": "75%"
-        }
-      ]
-    },
-    {
-      "name": "Ohio",
-      "code": "OH",
       "topTopic": "admiral rachel levine",
       "category": "Law and Government",
       "trendingScore": 100,
@@ -352,35 +294,86 @@
           "name": "admiral rachel levine",
           "relevanceScore": 100,
           "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "13h ago",
+          "trendBreakdown": "hhs",
+          "percentageIncrease": "600%"
+        },
+        {
+          "name": "levi aron",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "2h ago",
+          "trendBreakdown": "leiby",
+          "percentageIncrease": "300%"
+        },
+        {
+          "name": "meghan markle",
+          "relevanceScore": 90,
+          "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "9h ago",
+          "started": "13h ago",
+          "percentageIncrease": "100%"
+        },
+        {
+          "name": "tupac",
+          "relevanceScore": 90,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "2h ago",
+          "trendBreakdown": "keefe",
+          "percentageIncrease": "100%"
+        }
+      ]
+    },
+    {
+      "name": "Ohio",
+      "code": "OH",
+      "topTopic": "fox",
+      "category": "Law and Government",
+      "trendingScore": 100,
+      "topics": [
+        {
+          "name": "fox",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "1h ago",
+          "percentageIncrease": "500%"
+        },
+        {
+          "name": "admiral rachel levine",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "12h ago",
           "percentageIncrease": "700%"
+        },
+        {
+          "name": "sling tv",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "1h ago",
+          "percentageIncrease": "200%"
         }
       ]
     },
     {
       "name": "Oregon",
       "code": "OR",
-      "topTopic": "brian cole jr",
+      "topTopic": "mark kelly",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
         {
-          "name": "brian cole jr",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "20h ago",
-          "trendBreakdown": "brian",
-          "percentageIncrease": "900%"
-        },
-        {
-          "name": "supreme",
+          "name": "mark kelly",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "23h ago",
-          "percentageIncrease": "600%"
+          "started": "1h ago",
+          "percentageIncrease": "800%"
         }
       ]
     },
@@ -396,16 +389,16 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "1h ago",
-          "trendBreakdown": "hhs",
-          "percentageIncrease": "1000%"
+          "started": "4h ago",
+          "trendBreakdown": "admiral",
+          "percentageIncrease": "800%"
         },
         {
           "name": "taxes",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "3h ago",
+          "started": "5h ago",
           "percentageIncrease": "400%"
         },
         {
@@ -413,7 +406,7 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "3h ago",
+          "started": "5h ago",
           "percentageIncrease": "400%"
         }
       ]
@@ -464,33 +457,49 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "3h ago",
-          "percentageIncrease": "700%"
+          "started": "6h ago",
+          "percentageIncrease": "600%"
+        },
+        {
+          "name": "taxes",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "2h ago",
+          "percentageIncrease": "600%"
         },
         {
           "name": "tax return",
           "relevanceScore": 95,
           "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "20 minutes ago",
-          "percentageIncrease": "200%"
+          "searchVolume": "500+",
+          "started": "2h ago",
+          "percentageIncrease": "400%"
         },
         {
-          "name": "rachel levine hhs",
+          "name": "tax refund",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "1h ago",
-          "trendBreakdown": "admiral",
+          "started": "2h ago",
+          "percentageIncrease": "400%"
+        },
+        {
+          "name": "admiral rachel levine",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "13h ago",
+          "trendBreakdown": "rachel",
           "percentageIncrease": "300%"
         },
         {
-          "name": "pl",
-          "relevanceScore": 90,
+          "name": "icc",
+          "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "9h ago",
-          "percentageIncrease": "100%"
+          "started": "10h ago",
+          "percentageIncrease": "200%"
         }
       ]
     },
@@ -531,32 +540,8 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "9h ago",
+          "started": "11h ago",
           "percentageIncrease": "800%"
-        },
-        {
-          "name": "cdc hepatitis b vaccine schedule",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "22h ago",
-          "percentageIncrease": "500%"
-        },
-        {
-          "name": "trinity poague",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "21h ago",
-          "percentageIncrease": "400%"
-        },
-        {
-          "name": "dea agent",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "21h ago",
-          "percentageIncrease": "400%"
         }
       ]
     },
@@ -597,17 +582,17 @@
     {
       "name": "Washington",
       "code": "WA",
-      "topTopic": "west seattle blog",
+      "topTopic": "mark kelly",
       "category": "Law and Government",
-      "trendingScore": 95,
+      "trendingScore": 100,
       "topics": [
         {
-          "name": "west seattle blog",
-          "relevanceScore": 95,
+          "name": "mark kelly",
+          "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "22h ago",
-          "percentageIncrease": "400%"
+          "searchVolume": "100+",
+          "started": "1h ago",
+          "percentageIncrease": "1000%"
         }
       ]
     },
@@ -725,7 +710,7 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "10h ago",
+          "started": "12h ago",
           "percentageIncrease": "200%"
         }
       ]
@@ -812,7 +797,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "20h ago",
+          "started": "23h ago",
           "percentageIncrease": "500%"
         }
       ]
@@ -863,7 +848,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "4h ago",
+          "started": "9h ago",
           "percentageIncrease": "800%"
         }
       ]

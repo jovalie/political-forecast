@@ -1,29 +1,20 @@
 {
-  "timestamp": "2025-12-07T00:04:57.620Z",
+  "timestamp": "2025-12-07T02:39:40.484Z",
   "states": [
     {
       "name": "Oregon",
       "code": "OR",
-      "topTopic": "brian cole jr",
+      "topTopic": "mark kelly",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
         {
-          "name": "brian cole jr",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "20h ago",
-          "trendBreakdown": "brian",
-          "percentageIncrease": "900%"
-        },
-        {
-          "name": "supreme",
+          "name": "mark kelly",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "23h ago",
-          "percentageIncrease": "600%"
+          "started": "1h ago",
+          "percentageIncrease": "800%"
         }
       ]
     }

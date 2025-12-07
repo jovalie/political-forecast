@@ -1,37 +1,47 @@
 {
-  "timestamp": "2025-12-07T00:04:57.620Z",
+  "timestamp": "2025-12-07T02:39:40.484Z",
   "states": [
     {
       "name": "New York",
       "code": "NY",
-      "topTopic": "hhs admiral rachel levine",
+      "topTopic": "admiral rachel levine",
       "category": "Law and Government",
-      "trendingScore": 95,
+      "trendingScore": 100,
       "topics": [
         {
-          "name": "hhs admiral rachel levine",
+          "name": "admiral rachel levine",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "13h ago",
+          "trendBreakdown": "hhs",
+          "percentageIncrease": "600%"
+        },
+        {
+          "name": "levi aron",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "4h ago",
-          "trendBreakdown": "admiral",
+          "started": "2h ago",
+          "trendBreakdown": "leiby",
           "percentageIncrease": "300%"
         },
         {
-          "name": "dea agent",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "22h ago",
-          "percentageIncrease": "400%"
-        },
-        {
-          "name": "pl",
-          "relevanceScore": 85,
+          "name": "meghan markle",
+          "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "9h ago",
-          "percentageIncrease": "75%"
+          "started": "13h ago",
+          "percentageIncrease": "100%"
+        },
+        {
+          "name": "tupac",
+          "relevanceScore": 90,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "2h ago",
+          "trendBreakdown": "keefe",
+          "percentageIncrease": "100%"
         }
       ]
     }
