@@ -1,19 +1,27 @@
 {
-  "timestamp": "2025-12-07T08:04:37.623Z",
+  "timestamp": "2025-12-07T10:04:38.912Z",
   "states": [
     {
       "name": "Ohio",
       "code": "OH",
-      "topTopic": "admiral rachel levine",
+      "topTopic": "fox",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
+        {
+          "name": "fox",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "9h ago",
+          "percentageIncrease": "500%"
+        },
         {
           "name": "admiral rachel levine",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "17h ago",
+          "started": "19h ago",
           "percentageIncrease": "700%"
         },
         {
@@ -21,8 +29,16 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "14h ago",
+          "started": "16h ago",
           "percentageIncrease": "500%"
+        },
+        {
+          "name": "sling tv",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "8h ago",
+          "percentageIncrease": "200%"
         }
       ]
     }

@@ -1,28 +1,21 @@
 {
-  "timestamp": "2025-12-07T08:04:37.623Z",
+  "timestamp": "2025-12-07T10:04:38.912Z",
   "states": [
     {
       "name": "Virginia",
       "code": "VA",
-      "topTopic": "birthright citizenship",
+      "topTopic": "fox",
       "category": "Law and Government",
-      "trendingScore": 100,
+      "trendingScore": 95,
       "topics": [
         {
-          "name": "birthright citizenship",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "23h ago",
-          "percentageIncrease": "500%"
-        },
-        {
-          "name": "trinity poague",
+          "name": "fox",
           "relevanceScore": 95,
           "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "23h ago",
-          "percentageIncrease": "300%"
+          "searchVolume": "100+",
+          "started": "8h ago",
+          "trendBreakdown": "national",
+          "percentageIncrease": "400%"
         }
       ]
     }

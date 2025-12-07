@@ -1,20 +1,20 @@
 {
-  "timestamp": "2025-12-07T08:04:37.623Z",
+  "timestamp": "2025-12-07T10:04:38.912Z",
   "states": [
     {
       "name": "Tennessee",
       "code": "TN",
-      "topTopic": "trinity poague",
+      "topTopic": "fox",
       "category": "Law and Government",
-      "trendingScore": 95,
+      "trendingScore": 100,
       "topics": [
         {
-          "name": "trinity poague",
-          "relevanceScore": 95,
+          "name": "fox",
+          "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "23h ago",
-          "percentageIncrease": "400%"
+          "searchVolume": "100+",
+          "started": "8h ago",
+          "percentageIncrease": "500%"
         }
       ]
     }

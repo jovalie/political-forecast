@@ -1,27 +1,19 @@
 {
-  "timestamp": "2025-12-07T08:04:37.623Z",
+  "timestamp": "2025-12-07T10:04:38.912Z",
   "states": [
     {
       "name": "California",
       "code": "CA",
-      "topTopic": "stuttgart",
+      "topTopic": "mark kelly",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
-        {
-          "name": "stuttgart",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "17h ago",
-          "percentageIncrease": "900%"
-        },
         {
           "name": "mark kelly",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "7h ago",
+          "started": "9h ago",
           "percentageIncrease": "1000%"
         },
         {
@@ -29,7 +21,7 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "9h ago",
+          "started": "11h ago",
           "percentageIncrease": "200%"
         },
         {
@@ -37,7 +29,7 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "9h ago",
+          "started": "11h ago",
           "percentageIncrease": "200%"
         },
         {
@@ -45,7 +37,7 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "13h ago",
+          "started": "15h ago",
           "trendBreakdown": "admiral",
           "percentageIncrease": "200%"
         },
@@ -54,7 +46,7 @@
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "40 minutes ago",
+          "started": "2h ago",
           "percentageIncrease": "100%"
         }
       ]
