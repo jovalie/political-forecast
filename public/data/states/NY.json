@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-12-07T14:04:45.466Z",
+  "timestamp": "2025-12-07T16:04:41.459Z",
   "states": [
     {
       "name": "New York",
@@ -12,16 +12,32 @@
           "name": "benin",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "3h ago",
+          "searchVolume": "1K+",
+          "started": "5h ago",
           "percentageIncrease": "800%"
+        },
+        {
+          "name": "matt leinart",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "11h ago",
+          "percentageIncrease": "700%"
+        },
+        {
+          "name": "pearl harbor",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "10h ago",
+          "percentageIncrease": "400%"
         },
         {
           "name": "levi aron",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "14h ago",
+          "started": "16h ago",
           "trendBreakdown": "leiby",
           "percentageIncrease": "200%"
         },
@@ -30,41 +46,17 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "18h ago",
+          "started": "20h ago",
           "percentageIncrease": "300%"
-        },
-        {
-          "name": "fox",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "12h ago",
-          "percentageIncrease": "300%"
-        },
-        {
-          "name": "pete hegseth",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "8h ago",
-          "percentageIncrease": "200%"
         },
         {
           "name": "tupac",
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "14h ago",
+          "started": "16h ago",
           "trendBreakdown": "keefe",
           "percentageIncrease": "100%"
-        },
-        {
-          "name": "pl",
-          "relevanceScore": 85,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "23h ago",
-          "percentageIncrease": "75%"
         }
       ]
     }

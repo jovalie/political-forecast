@@ -1,35 +1,35 @@
 {
-  "timestamp": "2025-12-07T14:04:45.466Z",
+  "timestamp": "2025-12-07T16:04:41.459Z",
   "states": [
     {
       "name": "Ohio",
       "code": "OH",
-      "topTopic": "fox",
+      "topTopic": "benin coup attempt",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
         {
-          "name": "fox",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "13h ago",
-          "percentageIncrease": "500%"
-        },
-        {
-          "name": "admiral rachel levine",
+          "name": "benin coup attempt",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "23h ago",
-          "percentageIncrease": "700%"
+          "started": "1h ago",
+          "percentageIncrease": "600%"
+        },
+        {
+          "name": "matt leinart",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "1K+",
+          "started": "15h ago",
+          "percentageIncrease": "1000%"
         },
         {
           "name": "stuttgart",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "20h ago",
+          "started": "22h ago",
           "percentageIncrease": "500%"
         },
         {
@@ -37,7 +37,7 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "12h ago",
+          "started": "14h ago",
           "percentageIncrease": "200%"
         }
       ]

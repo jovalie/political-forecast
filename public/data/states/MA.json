@@ -1,19 +1,27 @@
 {
-  "timestamp": "2025-12-07T14:04:45.466Z",
+  "timestamp": "2025-12-07T16:04:41.459Z",
   "states": [
     {
       "name": "Massachusetts",
       "code": "MA",
-      "topTopic": "stuttgart",
+      "topTopic": "benin coup attempt",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
+        {
+          "name": "benin coup attempt",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "1h ago",
+          "percentageIncrease": "1000%"
+        },
         {
           "name": "stuttgart",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "21h ago",
+          "started": "23h ago",
           "percentageIncrease": "1000%"
         }
       ]

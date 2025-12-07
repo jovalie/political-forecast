@@ -1,19 +1,35 @@
 {
-  "timestamp": "2025-12-07T14:04:45.466Z",
+  "timestamp": "2025-12-07T16:04:41.459Z",
   "states": [
     {
       "name": "California",
       "code": "CA",
-      "topTopic": "mark kelly",
+      "topTopic": "benin coup attempt",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
+        {
+          "name": "benin coup attempt",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "1K+",
+          "started": "1h ago",
+          "percentageIncrease": "700%"
+        },
+        {
+          "name": "georgia country",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "10h ago",
+          "percentageIncrease": "600%"
+        },
         {
           "name": "mark kelly",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "13h ago",
+          "started": "15h ago",
           "percentageIncrease": "1000%"
         },
         {
@@ -21,15 +37,15 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "11h ago",
+          "started": "13h ago",
           "percentageIncrease": "200%"
         },
         {
-          "name": "tax refund",
+          "name": "taxes",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "15h ago",
+          "started": "17h ago",
           "percentageIncrease": "200%"
         },
         {
@@ -37,16 +53,32 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "19h ago",
+          "started": "21h ago",
           "trendBreakdown": "rachel",
           "percentageIncrease": "200%"
+        },
+        {
+          "name": "matt gaetz",
+          "relevanceScore": 90,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "10h ago",
+          "percentageIncrease": "100%"
+        },
+        {
+          "name": "with",
+          "relevanceScore": 85,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "3h ago",
+          "percentageIncrease": "75%"
         },
         {
           "name": "on",
           "relevanceScore": 85,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "1h ago",
+          "started": "3h ago",
           "percentageIncrease": "75%"
         }
       ]

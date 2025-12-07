@@ -1,20 +1,20 @@
 {
-  "timestamp": "2025-12-07T14:04:45.466Z",
+  "timestamp": "2025-12-07T16:04:41.459Z",
   "states": [
     {
       "name": "North Carolina",
       "code": "NC",
-      "topTopic": "dea agent",
+      "topTopic": "benin coup attempt",
       "category": "Law and Government",
-      "trendingScore": 95,
+      "trendingScore": 100,
       "topics": [
         {
-          "name": "dea agent",
-          "relevanceScore": 95,
+          "name": "benin coup attempt",
+          "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "21h ago",
-          "percentageIncrease": "400%"
+          "started": "1h ago",
+          "percentageIncrease": "1000%"
         }
       ]
     }

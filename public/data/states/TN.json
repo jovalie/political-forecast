@@ -1,20 +1,20 @@
 {
-  "timestamp": "2025-12-07T14:04:45.466Z",
+  "timestamp": "2025-12-07T16:04:41.459Z",
   "states": [
     {
       "name": "Tennessee",
       "code": "TN",
-      "topTopic": "fox",
+      "topTopic": "matt leinart",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
         {
-          "name": "fox",
+          "name": "matt leinart",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "12h ago",
-          "percentageIncrease": "500%"
+          "started": "11h ago",
+          "percentageIncrease": "800%"
         }
       ]
     }
