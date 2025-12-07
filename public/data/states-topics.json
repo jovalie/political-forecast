@@ -1,68 +1,43 @@
 {
-  "timestamp": "2025-12-06T22:04:44.781Z",
+  "timestamp": "2025-12-07T00:04:57.620Z",
   "states": [
     {
       "name": "California",
       "code": "CA",
-      "topTopic": "cdc hepatitis b vaccine schedule",
+      "topTopic": "tax return",
       "category": "Law and Government",
       "trendingScore": 95,
       "topics": [
         {
-          "name": "cdc hepatitis b vaccine schedule",
+          "name": "tax return",
           "relevanceScore": 95,
           "category": "Law and Government",
-          "searchVolume": "2K+",
-          "started": "22h ago",
-          "percentageIncrease": "200%"
+          "searchVolume": "100+",
+          "started": "1h ago",
+          "percentageIncrease": "300%"
         },
         {
-          "name": "san diego news",
+          "name": "rachel levine hhs",
           "relevanceScore": 95,
           "category": "Law and Government",
-          "searchVolume": "5K+",
-          "started": "23h ago",
-          "trendBreakdown": "san",
+          "searchVolume": "1K+",
+          "started": "2h ago",
+          "trendBreakdown": "hhs",
           "percentageIncrease": "400%"
-        },
-        {
-          "name": "hhs admiral rachel levine",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "3h ago",
-          "trendBreakdown": "admiral",
-          "percentageIncrease": "200%"
         },
         {
           "name": "dea agent",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "20h ago",
+          "started": "22h ago",
           "percentageIncrease": "400%"
         },
         {
-          "name": "suriname",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "22h ago",
-          "percentageIncrease": "200%"
-        },
-        {
-          "name": "adelita grijalva",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "22h ago",
-          "percentageIncrease": "200%"
-        },
-        {
-          "name": "trinity poague",
+          "name": "san diego",
           "relevanceScore": 90,
           "category": "Law and Government",
-          "searchVolume": "1K+",
+          "searchVolume": "500+",
           "started": "23h ago",
           "percentageIncrease": "100%"
         },
@@ -71,7 +46,7 @@
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "10h ago",
+          "started": "12h ago",
           "percentageIncrease": "100%"
         }
       ]
@@ -97,24 +72,16 @@
     {
       "name": "Florida",
       "code": "FL",
-      "topTopic": "trinity poague",
+      "topTopic": "hhs admiral rachel levine",
       "category": "Law and Government",
       "trendingScore": 95,
       "topics": [
-        {
-          "name": "trinity poague",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "2K+",
-          "started": "24h ago",
-          "percentageIncrease": "300%"
-        },
         {
           "name": "hhs admiral rachel levine",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "2h ago",
+          "started": "4h ago",
           "trendBreakdown": "admiral",
           "percentageIncrease": "300%"
         },
@@ -123,7 +90,7 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "21h ago",
+          "started": "23h ago",
           "percentageIncrease": "300%"
         },
         {
@@ -131,7 +98,7 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "20h ago",
+          "started": "22h ago",
           "trendBreakdown": "paul",
           "percentageIncrease": "400%"
         },
@@ -140,7 +107,7 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "9h ago",
+          "started": "11h ago",
           "percentageIncrease": "200%"
         }
       ]
@@ -157,7 +124,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "8h ago",
+          "started": "10h ago",
           "percentageIncrease": "1000%"
         },
         {
@@ -165,7 +132,7 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "19h ago",
+          "started": "21h ago",
           "percentageIncrease": "200%"
         },
         {
@@ -173,7 +140,7 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "21h ago",
+          "started": "23h ago",
           "percentageIncrease": "200%"
         },
         {
@@ -181,7 +148,7 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "20h ago",
+          "started": "22h ago",
           "percentageIncrease": "200%"
         }
       ]
@@ -189,16 +156,16 @@
     {
       "name": "Illinois",
       "code": "IL",
-      "topTopic": "trinity poague",
+      "topTopic": "cdc hepatitis b vaccine schedule",
       "category": "Law and Government",
       "trendingScore": 95,
       "topics": [
         {
-          "name": "trinity poague",
+          "name": "cdc hepatitis b vaccine schedule",
           "relevanceScore": 95,
           "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "23h ago",
+          "searchVolume": "100+",
+          "started": "22h ago",
           "percentageIncrease": "300%"
         },
         {
@@ -206,8 +173,16 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "17h ago",
+          "started": "19h ago",
           "percentageIncrease": "300%"
+        },
+        {
+          "name": "granite city il",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "23h ago",
+          "percentageIncrease": "400%"
         }
       ]
     },
@@ -240,7 +215,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "20h ago",
+          "started": "22h ago",
           "percentageIncrease": "500%"
         }
       ]
@@ -318,24 +293,16 @@
     {
       "name": "North Carolina",
       "code": "NC",
-      "topTopic": "trinity poague",
+      "topTopic": "dea agent",
       "category": "Law and Government",
       "trendingScore": 95,
       "topics": [
-        {
-          "name": "trinity poague",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "23h ago",
-          "percentageIncrease": "300%"
-        },
         {
           "name": "dea agent",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "19h ago",
+          "started": "21h ago",
           "percentageIncrease": "400%"
         }
       ]
@@ -343,33 +310,17 @@
     {
       "name": "New York",
       "code": "NY",
-      "topTopic": "trinity poague",
+      "topTopic": "hhs admiral rachel levine",
       "category": "Law and Government",
       "trendingScore": 95,
       "topics": [
-        {
-          "name": "trinity poague",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "23h ago",
-          "percentageIncrease": "200%"
-        },
         {
           "name": "hhs admiral rachel levine",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "2h ago",
+          "started": "4h ago",
           "trendBreakdown": "admiral",
-          "percentageIncrease": "300%"
-        },
-        {
-          "name": "cdc hepatitis b vaccine schedule",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "22h ago",
           "percentageIncrease": "300%"
         },
         {
@@ -377,7 +328,7 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "20h ago",
+          "started": "22h ago",
           "percentageIncrease": "400%"
         },
         {
@@ -385,7 +336,7 @@
           "relevanceScore": 85,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "7h ago",
+          "started": "9h ago",
           "percentageIncrease": "75%"
         }
       ]
@@ -402,16 +353,8 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "7h ago",
+          "started": "9h ago",
           "percentageIncrease": "700%"
-        },
-        {
-          "name": "trinity poague",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "23h ago",
-          "percentageIncrease": "300%"
         }
       ]
     },
@@ -444,34 +387,34 @@
     {
       "name": "Pennsylvania",
       "code": "PA",
-      "topTopic": "hhs admiral rachel levine",
+      "topTopic": "rachel levine hhs",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
         {
-          "name": "hhs admiral rachel levine",
+          "name": "rachel levine hhs",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "2h ago",
-          "trendBreakdown": "admiral",
-          "percentageIncrease": "600%"
+          "started": "1h ago",
+          "trendBreakdown": "hhs",
+          "percentageIncrease": "1000%"
         },
         {
           "name": "taxes",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "1h ago",
+          "started": "3h ago",
           "percentageIncrease": "400%"
         },
         {
-          "name": "trinity poague",
+          "name": "tax return",
           "relevanceScore": 95,
           "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "23h ago",
-          "percentageIncrease": "300%"
+          "searchVolume": "100+",
+          "started": "3h ago",
+          "percentageIncrease": "400%"
         }
       ]
     },
@@ -512,49 +455,41 @@
     {
       "name": "Texas",
       "code": "TX",
-      "topTopic": "trinity poague",
+      "topTopic": "hulen mall",
       "category": "Law and Government",
-      "trendingScore": 95,
+      "trendingScore": 100,
       "topics": [
         {
-          "name": "trinity poague",
-          "relevanceScore": 95,
+          "name": "hulen mall",
+          "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "2K+",
-          "started": "23h ago",
-          "percentageIncrease": "300%"
+          "searchVolume": "1K+",
+          "started": "3h ago",
+          "percentageIncrease": "700%"
         },
         {
-          "name": "admiral rachel levine",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "8h ago",
-          "trendBreakdown": "hhs",
-          "percentageIncrease": "300%"
-        },
-        {
-          "name": "cdc hepatitis b vaccine schedule",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "22h ago",
-          "percentageIncrease": "200%"
-        },
-        {
-          "name": "suriname",
+          "name": "tax return",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "22h ago",
+          "started": "20 minutes ago",
           "percentageIncrease": "200%"
+        },
+        {
+          "name": "rachel levine hhs",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "1h ago",
+          "trendBreakdown": "admiral",
+          "percentageIncrease": "300%"
         },
         {
           "name": "pl",
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "7h ago",
+          "started": "9h ago",
           "percentageIncrease": "100%"
         }
       ]
@@ -596,7 +531,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "7h ago",
+          "started": "9h ago",
           "percentageIncrease": "800%"
         },
         {
@@ -604,7 +539,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "20h ago",
+          "started": "22h ago",
           "percentageIncrease": "500%"
         },
         {
@@ -612,7 +547,7 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "19h ago",
+          "started": "21h ago",
           "percentageIncrease": "400%"
         },
         {
@@ -620,7 +555,7 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "19h ago",
+          "started": "21h ago",
           "percentageIncrease": "400%"
         }
       ]
@@ -662,25 +597,17 @@
     {
       "name": "Washington",
       "code": "WA",
-      "topTopic": "birthright citizenship",
+      "topTopic": "west seattle blog",
       "category": "Law and Government",
-      "trendingScore": 100,
+      "trendingScore": 95,
       "topics": [
         {
-          "name": "birthright citizenship",
-          "relevanceScore": 100,
+          "name": "west seattle blog",
+          "relevanceScore": 95,
           "category": "Law and Government",
-          "searchVolume": "100+",
+          "searchVolume": "500+",
           "started": "22h ago",
-          "percentageIncrease": "800%"
-        },
-        {
-          "name": "why are flags at half mast today",
-          "relevanceScore": 90,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "1h ago",
-          "percentageIncrease": "100%"
+          "percentageIncrease": "400%"
         }
       ]
     },
@@ -798,7 +725,7 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "8h ago",
+          "started": "10h ago",
           "percentageIncrease": "200%"
         }
       ]
@@ -885,7 +812,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "18h ago",
+          "started": "20h ago",
           "percentageIncrease": "500%"
         }
       ]

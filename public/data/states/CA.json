@@ -1,68 +1,43 @@
 {
-  "timestamp": "2025-12-06T22:04:44.781Z",
+  "timestamp": "2025-12-07T00:04:57.620Z",
   "states": [
     {
       "name": "California",
       "code": "CA",
-      "topTopic": "cdc hepatitis b vaccine schedule",
+      "topTopic": "tax return",
       "category": "Law and Government",
       "trendingScore": 95,
       "topics": [
         {
-          "name": "cdc hepatitis b vaccine schedule",
+          "name": "tax return",
           "relevanceScore": 95,
           "category": "Law and Government",
-          "searchVolume": "2K+",
-          "started": "22h ago",
-          "percentageIncrease": "200%"
+          "searchVolume": "100+",
+          "started": "1h ago",
+          "percentageIncrease": "300%"
         },
         {
-          "name": "san diego news",
+          "name": "rachel levine hhs",
           "relevanceScore": 95,
           "category": "Law and Government",
-          "searchVolume": "5K+",
-          "started": "23h ago",
-          "trendBreakdown": "san",
+          "searchVolume": "1K+",
+          "started": "2h ago",
+          "trendBreakdown": "hhs",
           "percentageIncrease": "400%"
-        },
-        {
-          "name": "hhs admiral rachel levine",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "3h ago",
-          "trendBreakdown": "admiral",
-          "percentageIncrease": "200%"
         },
         {
           "name": "dea agent",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "20h ago",
+          "started": "22h ago",
           "percentageIncrease": "400%"
         },
         {
-          "name": "suriname",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "22h ago",
-          "percentageIncrease": "200%"
-        },
-        {
-          "name": "adelita grijalva",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "22h ago",
-          "percentageIncrease": "200%"
-        },
-        {
-          "name": "trinity poague",
+          "name": "san diego",
           "relevanceScore": 90,
           "category": "Law and Government",
-          "searchVolume": "1K+",
+          "searchVolume": "500+",
           "started": "23h ago",
           "percentageIncrease": "100%"
         },
@@ -71,7 +46,7 @@
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "10h ago",
+          "started": "12h ago",
           "percentageIncrease": "100%"
         }
       ]

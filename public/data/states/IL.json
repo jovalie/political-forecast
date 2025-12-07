@@ -1,19 +1,19 @@
 {
-  "timestamp": "2025-12-06T22:04:44.781Z",
+  "timestamp": "2025-12-07T00:04:57.620Z",
   "states": [
     {
       "name": "Illinois",
       "code": "IL",
-      "topTopic": "trinity poague",
+      "topTopic": "cdc hepatitis b vaccine schedule",
       "category": "Law and Government",
       "trendingScore": 95,
       "topics": [
         {
-          "name": "trinity poague",
+          "name": "cdc hepatitis b vaccine schedule",
           "relevanceScore": 95,
           "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "23h ago",
+          "searchVolume": "100+",
+          "started": "22h ago",
           "percentageIncrease": "300%"
         },
         {
@@ -21,8 +21,16 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "17h ago",
+          "started": "19h ago",
           "percentageIncrease": "300%"
+        },
+        {
+          "name": "granite city il",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "23h ago",
+          "percentageIncrease": "400%"
         }
       ]
     }

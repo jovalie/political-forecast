@@ -1,37 +1,37 @@
 {
-  "timestamp": "2025-12-06T22:04:44.781Z",
+  "timestamp": "2025-12-07T00:04:57.620Z",
   "states": [
     {
       "name": "Pennsylvania",
       "code": "PA",
-      "topTopic": "hhs admiral rachel levine",
+      "topTopic": "rachel levine hhs",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
         {
-          "name": "hhs admiral rachel levine",
+          "name": "rachel levine hhs",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "2h ago",
-          "trendBreakdown": "admiral",
-          "percentageIncrease": "600%"
+          "started": "1h ago",
+          "trendBreakdown": "hhs",
+          "percentageIncrease": "1000%"
         },
         {
           "name": "taxes",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "1h ago",
+          "started": "3h ago",
           "percentageIncrease": "400%"
         },
         {
-          "name": "trinity poague",
+          "name": "tax return",
           "relevanceScore": 95,
           "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "23h ago",
-          "percentageIncrease": "300%"
+          "searchVolume": "100+",
+          "started": "3h ago",
+          "percentageIncrease": "400%"
         }
       ]
     }
