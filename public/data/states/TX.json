@@ -1,43 +1,35 @@
 {
-  "timestamp": "2025-12-07T16:04:41.459Z",
+  "timestamp": "2025-12-07T18:04:47.223Z",
   "states": [
     {
       "name": "Texas",
       "code": "TX",
-      "topTopic": "hulen mall",
+      "topTopic": "matt leinart",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
-        {
-          "name": "hulen mall",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "2K+",
-          "started": "19h ago",
-          "percentageIncrease": "500%"
-        },
         {
           "name": "matt leinart",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "13h ago",
+          "started": "15h ago",
           "percentageIncrease": "500%"
         },
         {
-          "name": "taxes",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "15h ago",
-          "percentageIncrease": "600%"
-        },
-        {
-          "name": "benin coup attempt",
+          "name": "benin",
           "relevanceScore": 95,
           "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "1h ago",
+          "searchVolume": "1K+",
+          "started": "6h ago",
+          "percentageIncrease": "300%"
+        },
+        {
+          "name": "hulen mall",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "2K+",
+          "started": "21h ago",
           "percentageIncrease": "400%"
         },
         {
@@ -45,16 +37,8 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "8h ago",
+          "started": "10h ago",
           "percentageIncrease": "300%"
-        },
-        {
-          "name": "daily mail",
-          "relevanceScore": 85,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "2h ago",
-          "percentageIncrease": "75%"
         }
       ]
     }

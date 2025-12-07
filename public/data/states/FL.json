@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-12-07T16:04:41.459Z",
+  "timestamp": "2025-12-07T18:04:47.223Z",
   "states": [
     {
       "name": "Florida",
@@ -12,33 +12,33 @@
           "name": "pearl harbor",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "8h ago",
+          "searchVolume": "1K+",
+          "started": "10h ago",
           "trendBreakdown": "dec",
-          "percentageIncrease": "800%"
-        },
-        {
-          "name": "benin coup attempt",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "2h ago",
-          "percentageIncrease": "800%"
+          "percentageIncrease": "700%"
         },
         {
           "name": "matt leinart",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "13h ago",
+          "started": "15h ago",
           "percentageIncrease": "700%"
+        },
+        {
+          "name": "benin",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "1K+",
+          "started": "5h ago",
+          "percentageIncrease": "400%"
         },
         {
           "name": "radar",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "16h ago",
+          "started": "18h ago",
           "percentageIncrease": "200%"
         },
         {
@@ -46,7 +46,7 @@
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "12h ago",
+          "started": "14h ago",
           "percentageIncrease": "100%"
         }
       ]

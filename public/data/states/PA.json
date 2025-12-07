@@ -1,21 +1,20 @@
 {
-  "timestamp": "2025-12-07T16:04:41.459Z",
+  "timestamp": "2025-12-07T18:04:47.223Z",
   "states": [
     {
       "name": "Pennsylvania",
       "code": "PA",
-      "topTopic": "on",
+      "topTopic": "benin coup attempt",
       "category": "Law and Government",
-      "trendingScore": 90,
+      "trendingScore": 100,
       "topics": [
         {
-          "name": "on",
-          "relevanceScore": 90,
+          "name": "benin coup attempt",
+          "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "9h ago",
-          "trendBreakdown": "breaking",
-          "percentageIncrease": "100%"
+          "searchVolume": "500+",
+          "started": "3h ago",
+          "percentageIncrease": "1000%"
         }
       ]
     }

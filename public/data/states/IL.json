@@ -1,27 +1,19 @@
 {
-  "timestamp": "2025-12-07T16:04:41.459Z",
+  "timestamp": "2025-12-07T18:04:47.223Z",
   "states": [
     {
       "name": "Illinois",
       "code": "IL",
-      "topTopic": "benin coup attempt",
+      "topTopic": "trinity poague",
       "category": "Law and Government",
-      "trendingScore": 100,
+      "trendingScore": 90,
       "topics": [
-        {
-          "name": "benin coup attempt",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "1h ago",
-          "percentageIncrease": "1000%"
-        },
         {
           "name": "trinity poague",
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "2h ago",
+          "started": "4h ago",
           "percentageIncrease": "100%"
         }
       ]

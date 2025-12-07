@@ -1,68 +1,76 @@
 {
-  "timestamp": "2025-12-07T16:04:41.459Z",
+  "timestamp": "2025-12-07T18:04:47.223Z",
   "states": [
     {
       "name": "California",
       "code": "CA",
-      "topTopic": "benin coup attempt",
+      "topTopic": "mark kelly",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
-        {
-          "name": "benin coup attempt",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "1h ago",
-          "percentageIncrease": "700%"
-        },
-        {
-          "name": "georgia country",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "10h ago",
-          "percentageIncrease": "600%"
-        },
         {
           "name": "mark kelly",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "15h ago",
+          "started": "17h ago",
           "percentageIncrease": "1000%"
+        },
+        {
+          "name": "benin",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "1K+",
+          "started": "7h ago",
+          "percentageIncrease": "200%"
+        },
+        {
+          "name": "matt gaetz",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "12h ago",
+          "percentageIncrease": "200%"
+        },
+        {
+          "name": "fire san diego",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "1h ago",
+          "percentageIncrease": "400%"
         },
         {
           "name": "wilfredo tortolero arriechi",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "13h ago",
+          "started": "15h ago",
           "percentageIncrease": "200%"
         },
         {
-          "name": "taxes",
+          "name": "matt leinart",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "17h ago",
-          "percentageIncrease": "200%"
+          "started": "15h ago",
+          "percentageIncrease": "400%"
         },
         {
           "name": "hhs admiral rachel levine",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "21h ago",
+          "started": "23h ago",
           "trendBreakdown": "rachel",
           "percentageIncrease": "200%"
         },
         {
-          "name": "matt gaetz",
+          "name": "trinity poague",
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "10h ago",
+          "started": "3h ago",
           "percentageIncrease": "100%"
         },
         {
@@ -70,7 +78,7 @@
           "relevanceScore": 85,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "3h ago",
+          "started": "5h ago",
           "percentageIncrease": "75%"
         },
         {
@@ -78,7 +86,7 @@
           "relevanceScore": 85,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "3h ago",
+          "started": "5h ago",
           "percentageIncrease": "75%"
         }
       ]
