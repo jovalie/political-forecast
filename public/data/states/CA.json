@@ -1,27 +1,43 @@
 {
-  "timestamp": "2025-12-08T18:04:57.606Z",
+  "timestamp": "2025-12-08T20:04:52.942Z",
   "states": [
     {
       "name": "California",
       "code": "CA",
-      "topTopic": "gracie mansion",
+      "topTopic": "alina habba",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
         {
-          "name": "gracie mansion",
+          "name": "alina habba",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "3h ago",
-          "percentageIncrease": "600%"
+          "started": "30 minutes ago",
+          "percentageIncrease": "1000%"
+        },
+        {
+          "name": "gracie mansion",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "1K+",
+          "started": "5h ago",
+          "percentageIncrease": "500%"
+        },
+        {
+          "name": "supreme court",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "1h ago",
+          "percentageIncrease": "300%"
         },
         {
           "name": "thailand",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "2K+",
-          "started": "14h ago",
+          "started": "16h ago",
           "percentageIncrease": "200%"
         },
         {
@@ -29,23 +45,7 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "2h ago",
-          "percentageIncrease": "200%"
-        },
-        {
-          "name": "vine",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "40 minutes ago",
-          "percentageIncrease": "200%"
-        },
-        {
-          "name": "monroe doctrine",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "23h ago",
+          "started": "4h ago",
           "percentageIncrease": "200%"
         },
         {
@@ -53,7 +53,7 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "13h ago",
+          "started": "15h ago",
           "percentageIncrease": "200%"
         },
         {
@@ -61,7 +61,7 @@
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "12h ago",
+          "started": "14h ago",
           "percentageIncrease": "100%"
         }
       ]

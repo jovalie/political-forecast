@@ -1,19 +1,27 @@
 {
-  "timestamp": "2025-12-08T18:04:57.606Z",
+  "timestamp": "2025-12-08T20:04:52.942Z",
   "states": [
     {
       "name": "Florida",
       "code": "FL",
-      "topTopic": "focus",
+      "topTopic": "alina habba",
       "category": "Law and Government",
-      "trendingScore": 95,
+      "trendingScore": 100,
       "topics": [
+        {
+          "name": "alina habba",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "40 minutes ago",
+          "percentageIncrease": "1000%"
+        },
         {
           "name": "focus",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "5h ago",
+          "started": "7h ago",
           "percentageIncrease": "200%"
         },
         {
@@ -21,7 +29,7 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "5h ago",
+          "started": "7h ago",
           "percentageIncrease": "200%"
         }
       ]
