@@ -1,27 +1,27 @@
 {
-  "timestamp": "2025-12-08T10:04:42.479Z",
+  "timestamp": "2025-12-08T12:04:58.139Z",
   "states": [
     {
       "name": "Virginia",
       "code": "VA",
-      "topTopic": "wavy",
+      "topTopic": "albemarle county public schools",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
         {
-          "name": "wavy",
+          "name": "albemarle county public schools",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "10h ago",
-          "percentageIncrease": "700%"
+          "started": "13h ago",
+          "percentageIncrease": "900%"
         },
         {
           "name": "benin coup attempt",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "19h ago",
+          "started": "21h ago",
           "percentageIncrease": "600%"
         }
       ]
