@@ -1,27 +1,27 @@
 {
-  "timestamp": "2025-12-07T22:04:24.641Z",
+  "timestamp": "2025-12-08T00:05:13.927Z",
   "states": [
     {
       "name": "New York",
       "code": "NY",
-      "topTopic": "benin",
+      "topTopic": "benin coup attempt",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
         {
-          "name": "benin",
+          "name": "benin coup attempt",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "11h ago",
-          "percentageIncrease": "500%"
+          "searchVolume": "2K+",
+          "started": "10h ago",
+          "percentageIncrease": "700%"
         },
         {
           "name": "dijon",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "17h ago",
+          "started": "19h ago",
           "percentageIncrease": "600%"
         },
         {
@@ -29,42 +29,24 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "17h ago",
+          "started": "19h ago",
           "percentageIncrease": "700%"
+        },
+        {
+          "name": "pete hegseth",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "18h ago",
+          "percentageIncrease": "600%"
         },
         {
           "name": "pearl harbor",
           "relevanceScore": 95,
           "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "16h ago",
+          "searchVolume": "2K+",
+          "started": "18h ago",
           "percentageIncrease": "400%"
-        },
-        {
-          "name": "levi aron",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "22h ago",
-          "trendBreakdown": "leiby",
-          "percentageIncrease": "200%"
-        },
-        {
-          "name": "monroe doctrine",
-          "relevanceScore": 90,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "10 minutes ago",
-          "percentageIncrease": "100%"
-        },
-        {
-          "name": "tupac",
-          "relevanceScore": 90,
-          "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "22h ago",
-          "trendBreakdown": "keefe",
-          "percentageIncrease": "100%"
         }
       ]
     }

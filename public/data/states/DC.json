@@ -1,20 +1,20 @@
 {
-  "timestamp": "2025-12-07T22:04:24.641Z",
+  "timestamp": "2025-12-08T00:05:13.927Z",
   "states": [
     {
       "name": "District of Columbia",
       "code": "DC",
-      "topTopic": "benin",
+      "topTopic": "benin coup attempt",
       "category": "Law and Government",
-      "trendingScore": 100,
+      "trendingScore": 95,
       "topics": [
         {
-          "name": "benin",
-          "relevanceScore": 100,
+          "name": "benin coup attempt",
+          "relevanceScore": 95,
           "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "10h ago",
-          "percentageIncrease": "900%"
+          "searchVolume": "1K+",
+          "started": "9h ago",
+          "percentageIncrease": "400%"
         }
       ]
     }

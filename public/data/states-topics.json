@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-12-07T22:04:24.641Z",
+  "timestamp": "2025-12-08T00:05:13.927Z",
   "states": [
     {
       "name": "California",
@@ -13,7 +13,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "17h ago",
+          "started": "19h ago",
           "percentageIncrease": "700%"
         },
         {
@@ -21,23 +21,23 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "21h ago",
+          "started": "23h ago",
           "percentageIncrease": "1000%"
-        },
-        {
-          "name": "monroe doctrine",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "3h ago",
-          "percentageIncrease": "200%"
         },
         {
           "name": "benin",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "2K+",
-          "started": "11h ago",
+          "started": "13h ago",
+          "percentageIncrease": "200%"
+        },
+        {
+          "name": "monroe doctrine",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "1K+",
+          "started": "5h ago",
           "percentageIncrease": "300%"
         },
         {
@@ -45,7 +45,7 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "19h ago",
+          "started": "21h ago",
           "percentageIncrease": "200%"
         },
         {
@@ -53,7 +53,7 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "19h ago",
+          "started": "21h ago",
           "percentageIncrease": "400%"
         },
         {
@@ -61,7 +61,7 @@
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "16h ago",
+          "started": "18h ago",
           "percentageIncrease": "100%"
         },
         {
@@ -69,15 +69,15 @@
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "7h ago",
+          "started": "9h ago",
           "percentageIncrease": "100%"
         },
         {
-          "name": "nytimes",
+          "name": "on",
           "relevanceScore": 85,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "9h ago",
+          "started": "11h ago",
           "percentageIncrease": "75%"
         }
       ]
@@ -94,7 +94,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "17h ago",
+          "started": "19h ago",
           "percentageIncrease": "800%"
         }
       ]
@@ -111,40 +111,32 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "2K+",
-          "started": "14h ago",
+          "started": "16h ago",
           "trendBreakdown": "dec",
-          "percentageIncrease": "600%"
+          "percentageIncrease": "500%"
+        },
+        {
+          "name": "benin coup attempt",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "1K+",
+          "started": "10h ago",
+          "percentageIncrease": "500%"
         },
         {
           "name": "matt leinart",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "19h ago",
+          "started": "21h ago",
           "percentageIncrease": "700%"
-        },
-        {
-          "name": "benin",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "9h ago",
-          "percentageIncrease": "400%"
-        },
-        {
-          "name": "radar",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "22h ago",
-          "percentageIncrease": "200%"
         },
         {
           "name": "cassie ventura",
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "18h ago",
+          "started": "20h ago",
           "percentageIncrease": "100%"
         },
         {
@@ -152,7 +144,7 @@
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "18h ago",
+          "started": "20h ago",
           "percentageIncrease": "100%"
         }
       ]
@@ -186,23 +178,15 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "17h ago",
-          "percentageIncrease": "800%"
-        },
-        {
-          "name": "sling tv",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "30 minutes ago",
-          "percentageIncrease": "400%"
+          "started": "19h ago",
+          "percentageIncrease": "700%"
         },
         {
           "name": "trinity poague",
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "8h ago",
+          "started": "10h ago",
           "percentageIncrease": "100%"
         }
       ]
@@ -219,7 +203,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "19h ago",
+          "started": "21h ago",
           "percentageIncrease": "1000%"
         }
       ]
@@ -227,17 +211,17 @@
     {
       "name": "Maryland",
       "code": "MD",
-      "topTopic": "benin",
+      "topTopic": "benin coup attempt",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
         {
-          "name": "benin",
+          "name": "benin coup attempt",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "1h ago",
-          "percentageIncrease": "1000%"
+          "searchVolume": "500+",
+          "started": "8h ago",
+          "percentageIncrease": "600%"
         }
       ]
     },
@@ -253,7 +237,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "21h ago",
+          "started": "23h ago",
           "percentageIncrease": "600%"
         }
       ]
@@ -312,7 +296,7 @@
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "19h ago",
+          "started": "21h ago",
           "percentageIncrease": "100%"
         }
       ]
@@ -337,24 +321,24 @@
     {
       "name": "New York",
       "code": "NY",
-      "topTopic": "benin",
+      "topTopic": "benin coup attempt",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
         {
-          "name": "benin",
+          "name": "benin coup attempt",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "11h ago",
-          "percentageIncrease": "500%"
+          "searchVolume": "2K+",
+          "started": "10h ago",
+          "percentageIncrease": "700%"
         },
         {
           "name": "dijon",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "17h ago",
+          "started": "19h ago",
           "percentageIncrease": "600%"
         },
         {
@@ -362,42 +346,24 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "17h ago",
+          "started": "19h ago",
           "percentageIncrease": "700%"
+        },
+        {
+          "name": "pete hegseth",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "18h ago",
+          "percentageIncrease": "600%"
         },
         {
           "name": "pearl harbor",
           "relevanceScore": 95,
           "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "16h ago",
+          "searchVolume": "2K+",
+          "started": "18h ago",
           "percentageIncrease": "400%"
-        },
-        {
-          "name": "levi aron",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "22h ago",
-          "trendBreakdown": "leiby",
-          "percentageIncrease": "200%"
-        },
-        {
-          "name": "monroe doctrine",
-          "relevanceScore": 90,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "10 minutes ago",
-          "percentageIncrease": "100%"
-        },
-        {
-          "name": "tupac",
-          "relevanceScore": 90,
-          "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "22h ago",
-          "trendBreakdown": "keefe",
-          "percentageIncrease": "100%"
         }
       ]
     },
@@ -413,7 +379,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "21h ago",
+          "started": "23h ago",
           "percentageIncrease": "1000%"
         },
         {
@@ -421,7 +387,7 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "20h ago",
+          "started": "22h ago",
           "percentageIncrease": "200%"
         }
       ]
@@ -438,7 +404,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "20h ago",
+          "started": "22h ago",
           "percentageIncrease": "800%"
         }
       ]
@@ -455,7 +421,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "7h ago",
+          "started": "9h ago",
           "percentageIncrease": "1000%"
         }
       ]
@@ -489,7 +455,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "17h ago",
+          "started": "19h ago",
           "percentageIncrease": "800%"
         }
       ]
@@ -506,31 +472,23 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "19h ago",
+          "started": "21h ago",
           "percentageIncrease": "500%"
         },
         {
-          "name": "benin",
+          "name": "benin coup attempt",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "10h ago",
-          "percentageIncrease": "300%"
-        },
-        {
-          "name": "monroe doctrine",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "2h ago",
-          "percentageIncrease": "200%"
+          "started": "9h ago",
+          "percentageIncrease": "400%"
         },
         {
           "name": "pete hegseth",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "6h ago",
+          "started": "8h ago",
           "percentageIncrease": "300%"
         },
         {
@@ -538,15 +496,7 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "14h ago",
-          "percentageIncrease": "300%"
-        },
-        {
-          "name": "rachel levine hhs",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "23h ago",
+          "started": "16h ago",
           "percentageIncrease": "300%"
         }
       ]
@@ -554,34 +504,34 @@
     {
       "name": "Virginia",
       "code": "VA",
-      "topTopic": "fox",
+      "topTopic": "benin coup attempt",
       "category": "Law and Government",
-      "trendingScore": 95,
+      "trendingScore": 100,
       "topics": [
         {
-          "name": "fox",
-          "relevanceScore": 95,
+          "name": "benin coup attempt",
+          "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "12h ago",
-          "percentageIncrease": "400%"
+          "searchVolume": "500+",
+          "started": "9h ago",
+          "percentageIncrease": "600%"
         }
       ]
     },
     {
       "name": "District of Columbia",
       "code": "DC",
-      "topTopic": "benin",
+      "topTopic": "benin coup attempt",
       "category": "Law and Government",
-      "trendingScore": 100,
+      "trendingScore": 95,
       "topics": [
         {
-          "name": "benin",
-          "relevanceScore": 100,
+          "name": "benin coup attempt",
+          "relevanceScore": 95,
           "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "10h ago",
-          "percentageIncrease": "900%"
+          "searchVolume": "1K+",
+          "started": "9h ago",
+          "percentageIncrease": "400%"
         }
       ]
     },
@@ -631,7 +581,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "3h ago",
+          "started": "5h ago",
           "percentageIncrease": "800%"
         },
         {
@@ -639,31 +589,31 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "21h ago",
+          "started": "23h ago",
           "percentageIncrease": "1000%"
+        },
+        {
+          "name": "monroe doctrine",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "3h ago",
+          "percentageIncrease": "200%"
         },
         {
           "name": "trinity poague",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "8h ago",
+          "started": "10h ago",
           "percentageIncrease": "200%"
-        },
-        {
-          "name": "unemployment",
-          "relevanceScore": 90,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "9h ago",
-          "percentageIncrease": "100%"
         },
         {
           "name": "food",
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "19h ago",
+          "started": "21h ago",
           "percentageIncrease": "100%"
         }
       ]
@@ -680,7 +630,7 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "10h ago",
+          "started": "12h ago",
           "percentageIncrease": "300%"
         }
       ]
@@ -731,7 +681,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "17h ago",
+          "started": "19h ago",
           "percentageIncrease": "700%"
         }
       ]

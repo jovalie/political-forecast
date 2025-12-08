@@ -1,20 +1,20 @@
 {
-  "timestamp": "2025-12-07T22:04:24.641Z",
+  "timestamp": "2025-12-08T00:05:13.927Z",
   "states": [
     {
       "name": "Virginia",
       "code": "VA",
-      "topTopic": "fox",
+      "topTopic": "benin coup attempt",
       "category": "Law and Government",
-      "trendingScore": 95,
+      "trendingScore": 100,
       "topics": [
         {
-          "name": "fox",
-          "relevanceScore": 95,
+          "name": "benin coup attempt",
+          "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "12h ago",
-          "percentageIncrease": "400%"
+          "searchVolume": "500+",
+          "started": "9h ago",
+          "percentageIncrease": "600%"
         }
       ]
     }
