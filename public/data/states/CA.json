@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-12-08T08:04:57.812Z",
+  "timestamp": "2025-12-08T10:04:42.479Z",
   "states": [
     {
       "name": "California",
@@ -13,23 +13,23 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "4h ago",
-          "percentageIncrease": "300%"
+          "started": "6h ago",
+          "percentageIncrease": "200%"
         },
         {
-          "name": "benin coup attempt",
+          "name": "benin",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "2K+",
-          "started": "17h ago",
-          "percentageIncrease": "400%"
+          "started": "23h ago",
+          "percentageIncrease": "200%"
         },
         {
           "name": "monroe doctrine",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "13h ago",
+          "started": "15h ago",
           "percentageIncrease": "200%"
         },
         {
@@ -37,7 +37,7 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "2h ago",
+          "started": "4h ago",
           "percentageIncrease": "200%"
         },
         {
@@ -45,7 +45,7 @@
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "1h ago",
+          "started": "3h ago",
           "percentageIncrease": "100%"
         },
         {
@@ -53,7 +53,15 @@
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "17h ago",
+          "started": "19h ago",
+          "percentageIncrease": "100%"
+        },
+        {
+          "name": "univision",
+          "relevanceScore": 90,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "8h ago",
           "percentageIncrease": "100%"
         }
       ]

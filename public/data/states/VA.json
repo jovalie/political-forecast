@@ -1,19 +1,27 @@
 {
-  "timestamp": "2025-12-08T08:04:57.812Z",
+  "timestamp": "2025-12-08T10:04:42.479Z",
   "states": [
     {
       "name": "Virginia",
       "code": "VA",
-      "topTopic": "benin coup attempt",
+      "topTopic": "wavy",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
+        {
+          "name": "wavy",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "10h ago",
+          "percentageIncrease": "700%"
+        },
         {
           "name": "benin coup attempt",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "17h ago",
+          "started": "19h ago",
           "percentageIncrease": "600%"
         }
       ]
