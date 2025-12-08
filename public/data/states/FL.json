@@ -1,36 +1,19 @@
 {
-  "timestamp": "2025-12-08T06:04:40.564Z",
+  "timestamp": "2025-12-08T08:04:57.812Z",
   "states": [
     {
       "name": "Florida",
       "code": "FL",
-      "topTopic": "thailand",
+      "topTopic": "benin coup attempt",
       "category": "Law and Government",
       "trendingScore": 95,
       "topics": [
-        {
-          "name": "thailand",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "2h ago",
-          "percentageIncrease": "200%"
-        },
-        {
-          "name": "pearl harbor",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "2K+",
-          "started": "22h ago",
-          "trendBreakdown": "pearl",
-          "percentageIncrease": "400%"
-        },
         {
           "name": "benin coup attempt",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "16h ago",
+          "started": "18h ago",
           "percentageIncrease": "400%"
         }
       ]

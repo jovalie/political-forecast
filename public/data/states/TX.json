@@ -1,43 +1,35 @@
 {
-  "timestamp": "2025-12-08T06:04:40.564Z",
+  "timestamp": "2025-12-08T08:04:57.812Z",
   "states": [
     {
       "name": "Texas",
       "code": "TX",
-      "topTopic": "monroe doctrine",
+      "topTopic": "benin coup attempt",
       "category": "Law and Government",
       "trendingScore": 95,
       "topics": [
-        {
-          "name": "monroe doctrine",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "10h ago",
-          "percentageIncrease": "200%"
-        },
         {
           "name": "benin coup attempt",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "2K+",
-          "started": "15h ago",
+          "started": "17h ago",
           "percentageIncrease": "400%"
+        },
+        {
+          "name": "monroe doctrine",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "12h ago",
+          "percentageIncrease": "200%"
         },
         {
           "name": "pete hegseth",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "14h ago",
-          "percentageIncrease": "300%"
-        },
-        {
-          "name": "navy federal",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "22h ago",
+          "started": "16h ago",
           "percentageIncrease": "300%"
         }
       ]

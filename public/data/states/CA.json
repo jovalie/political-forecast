@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-12-08T06:04:40.564Z",
+  "timestamp": "2025-12-08T08:04:57.812Z",
   "states": [
     {
       "name": "California",
@@ -13,7 +13,7 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "2h ago",
+          "started": "4h ago",
           "percentageIncrease": "300%"
         },
         {
@@ -21,7 +21,7 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "2K+",
-          "started": "15h ago",
+          "started": "17h ago",
           "percentageIncrease": "400%"
         },
         {
@@ -29,25 +29,32 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "11h ago",
+          "started": "13h ago",
           "percentageIncrease": "200%"
+        },
+        {
+          "name": "derek chauvin",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "2h ago",
+          "percentageIncrease": "200%"
+        },
+        {
+          "name": "alberto rangel",
+          "relevanceScore": 90,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "1h ago",
+          "percentageIncrease": "100%"
         },
         {
           "name": "trinity poague",
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "15h ago",
+          "started": "17h ago",
           "percentageIncrease": "100%"
-        },
-        {
-          "name": "keefe d",
-          "relevanceScore": 85,
-          "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "30 minutes ago",
-          "trendBreakdown": "tupac",
-          "percentageIncrease": "75%"
         }
       ]
     }
