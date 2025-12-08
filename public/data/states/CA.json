@@ -1,60 +1,53 @@
 {
-  "timestamp": "2025-12-08T04:12:28.617Z",
+  "timestamp": "2025-12-08T06:04:40.564Z",
   "states": [
     {
       "name": "California",
       "code": "CA",
-      "topTopic": "dijon",
+      "topTopic": "thailand",
       "category": "Law and Government",
-      "trendingScore": 100,
+      "trendingScore": 95,
       "topics": [
         {
-          "name": "dijon",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "23h ago",
-          "percentageIncrease": "700%"
-        },
-        {
-          "name": "monroe doctrine",
+          "name": "thailand",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "9h ago",
-          "percentageIncrease": "200%"
+          "started": "2h ago",
+          "percentageIncrease": "300%"
         },
         {
           "name": "benin coup attempt",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "2K+",
-          "started": "13h ago",
+          "started": "15h ago",
           "percentageIncrease": "400%"
         },
         {
-          "name": "matt gaetz",
-          "relevanceScore": 90,
+          "name": "monroe doctrine",
+          "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "22h ago",
-          "percentageIncrease": "100%"
+          "started": "11h ago",
+          "percentageIncrease": "200%"
         },
         {
           "name": "trinity poague",
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "13h ago",
+          "started": "15h ago",
           "percentageIncrease": "100%"
         },
         {
-          "name": "univision",
-          "relevanceScore": 90,
+          "name": "keefe d",
+          "relevanceScore": 85,
           "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "2h ago",
-          "percentageIncrease": "100%"
+          "searchVolume": "500+",
+          "started": "30 minutes ago",
+          "trendBreakdown": "tupac",
+          "percentageIncrease": "75%"
         }
       ]
     }
