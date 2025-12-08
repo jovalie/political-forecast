@@ -1,20 +1,28 @@
 {
-  "timestamp": "2025-12-08T16:04:44.757Z",
+  "timestamp": "2025-12-08T18:04:57.606Z",
   "states": [
     {
       "name": "Nevada",
       "code": "NV",
-      "topTopic": "brian cole jr",
+      "topTopic": "personal injury lawyer",
       "category": "Law and Government",
-      "trendingScore": 95,
+      "trendingScore": 100,
       "topics": [
         {
-          "name": "brian cole jr",
-          "relevanceScore": 95,
+          "name": "personal injury lawyer",
+          "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "23h ago",
-          "percentageIncrease": "300%"
+          "searchVolume": "500+",
+          "started": "2h ago",
+          "percentageIncrease": "1000%"
+        },
+        {
+          "name": "criminal defense lawyer",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "2h ago",
+          "percentageIncrease": "1000%"
         }
       ]
     }

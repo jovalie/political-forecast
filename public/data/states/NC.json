@@ -1,20 +1,20 @@
 {
-  "timestamp": "2025-12-08T16:04:44.757Z",
+  "timestamp": "2025-12-08T18:04:57.606Z",
   "states": [
     {
       "name": "North Carolina",
       "code": "NC",
-      "topTopic": "radar",
+      "topTopic": "wake county",
       "category": "Law and Government",
-      "trendingScore": 95,
+      "trendingScore": 100,
       "topics": [
         {
-          "name": "radar",
-          "relevanceScore": 95,
+          "name": "wake county",
+          "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "40 minutes ago",
-          "percentageIncrease": "400%"
+          "searchVolume": "1K+",
+          "started": "18h ago",
+          "percentageIncrease": "1000%"
         }
       ]
     }

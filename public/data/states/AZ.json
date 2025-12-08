@@ -1,27 +1,27 @@
 {
-  "timestamp": "2025-12-08T16:04:44.757Z",
+  "timestamp": "2025-12-08T18:04:57.606Z",
   "states": [
     {
       "name": "Arizona",
       "code": "AZ",
-      "topTopic": "criminal defense lawyer",
+      "topTopic": "personal injury lawyer",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
         {
-          "name": "criminal defense lawyer",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "20 minutes ago",
-          "percentageIncrease": "1000%"
-        },
-        {
           "name": "personal injury lawyer",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "20 minutes ago",
+          "searchVolume": "2K+",
+          "started": "2h ago",
+          "percentageIncrease": "1000%"
+        },
+        {
+          "name": "criminal defense lawyer",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "1K+",
+          "started": "2h ago",
           "percentageIncrease": "1000%"
         }
       ]

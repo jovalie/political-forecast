@@ -1,36 +1,28 @@
 {
-  "timestamp": "2025-12-08T16:04:44.757Z",
+  "timestamp": "2025-12-08T18:04:57.606Z",
   "states": [
     {
       "name": "Texas",
       "code": "TX",
-      "topTopic": "colin allred",
+      "topTopic": "jasmine crockett",
       "category": "Law and Government",
-      "trendingScore": 100,
+      "trendingScore": 95,
       "topics": [
         {
-          "name": "colin allred",
-          "relevanceScore": 100,
+          "name": "jasmine crockett",
+          "relevanceScore": 95,
           "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "2h ago",
-          "trendBreakdown": "jasmine",
-          "percentageIncrease": "700%"
-        },
-        {
-          "name": "cheryl hines",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "2h ago",
-          "percentageIncrease": "1000%"
+          "searchVolume": "2K+",
+          "started": "4h ago",
+          "trendBreakdown": "colin",
+          "percentageIncrease": "400%"
         },
         {
           "name": "monroe doctrine",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "20h ago",
+          "started": "22h ago",
           "percentageIncrease": "200%"
         },
         {
@@ -38,7 +30,7 @@
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "20 minutes ago",
+          "started": "2h ago",
           "percentageIncrease": "100%"
         }
       ]
