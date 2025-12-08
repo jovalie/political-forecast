@@ -1,19 +1,27 @@
 {
-  "timestamp": "2025-12-08T02:34:38.808Z",
+  "timestamp": "2025-12-08T04:12:28.617Z",
   "states": [
     {
       "name": "Michigan",
       "code": "MI",
-      "topTopic": "benin coup attempt",
+      "topTopic": "andrea bocelli",
       "category": "Law and Government",
       "trendingScore": 95,
       "topics": [
+        {
+          "name": "andrea bocelli",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "3h ago",
+          "percentageIncrease": "300%"
+        },
         {
           "name": "benin coup attempt",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "3h ago",
+          "started": "5h ago",
           "percentageIncrease": "400%"
         }
       ]

@@ -1,27 +1,27 @@
 {
-  "timestamp": "2025-12-08T02:34:38.808Z",
+  "timestamp": "2025-12-08T04:12:28.617Z",
   "states": [
     {
       "name": "Illinois",
       "code": "IL",
-      "topTopic": "benin coup attempt",
+      "topTopic": "dijon",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
-        {
-          "name": "benin coup attempt",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "11h ago",
-          "percentageIncrease": "600%"
-        },
         {
           "name": "dijon",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "21h ago",
+          "started": "23h ago",
+          "percentageIncrease": "500%"
+        },
+        {
+          "name": "benin coup attempt",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "13h ago",
           "percentageIncrease": "600%"
         },
         {
@@ -29,7 +29,7 @@
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "13h ago",
+          "started": "14h ago",
           "percentageIncrease": "100%"
         }
       ]

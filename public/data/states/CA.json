@@ -1,27 +1,19 @@
 {
-  "timestamp": "2025-12-08T02:34:38.808Z",
+  "timestamp": "2025-12-08T04:12:28.617Z",
   "states": [
     {
       "name": "California",
       "code": "CA",
-      "topTopic": "benin coup attempt",
+      "topTopic": "dijon",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
-        {
-          "name": "benin coup attempt",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "2K+",
-          "started": "12h ago",
-          "percentageIncrease": "500%"
-        },
         {
           "name": "dijon",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "21h ago",
+          "started": "23h ago",
           "percentageIncrease": "700%"
         },
         {
@@ -29,15 +21,15 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "8h ago",
+          "started": "9h ago",
           "percentageIncrease": "200%"
         },
         {
-          "name": "matt leinart",
+          "name": "benin coup attempt",
           "relevanceScore": 95,
           "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "23h ago",
+          "searchVolume": "2K+",
+          "started": "13h ago",
           "percentageIncrease": "400%"
         },
         {
@@ -45,7 +37,7 @@
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "21h ago",
+          "started": "22h ago",
           "percentageIncrease": "100%"
         },
         {
@@ -53,7 +45,15 @@
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "12h ago",
+          "started": "13h ago",
+          "percentageIncrease": "100%"
+        },
+        {
+          "name": "univision",
+          "relevanceScore": 90,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "2h ago",
           "percentageIncrease": "100%"
         }
       ]
