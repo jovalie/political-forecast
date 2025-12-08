@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-12-08T20:04:52.942Z",
+  "timestamp": "2025-12-08T22:04:44.269Z",
   "states": [
     {
       "name": "California",
@@ -12,32 +12,24 @@
           "name": "alina habba",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "30 minutes ago",
+          "searchVolume": "2K+",
+          "started": "2h ago",
           "percentageIncrease": "1000%"
         },
         {
           "name": "gracie mansion",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "5h ago",
-          "percentageIncrease": "500%"
-        },
-        {
-          "name": "supreme court",
           "relevanceScore": 95,
           "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "1h ago",
-          "percentageIncrease": "300%"
+          "searchVolume": "1K+",
+          "started": "7h ago",
+          "percentageIncrease": "400%"
         },
         {
           "name": "thailand",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "2K+",
-          "started": "16h ago",
+          "started": "18h ago",
           "percentageIncrease": "200%"
         },
         {
@@ -45,23 +37,39 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "4h ago",
+          "started": "6h ago",
           "percentageIncrease": "200%"
+        },
+        {
+          "name": "supreme court",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "3h ago",
+          "percentageIncrease": "300%"
         },
         {
           "name": "chief",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "15h ago",
+          "started": "17h ago",
           "percentageIncrease": "200%"
+        },
+        {
+          "name": "trump tariffs",
+          "relevanceScore": 90,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "4h ago",
+          "percentageIncrease": "100%"
         },
         {
           "name": "derek chauvin",
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "14h ago",
+          "started": "16h ago",
           "percentageIncrease": "100%"
         }
       ]
@@ -78,7 +86,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "5K+",
-          "started": "4h ago",
+          "started": "6h ago",
           "percentageIncrease": "1000%"
         },
         {
@@ -86,7 +94,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "5K+",
-          "started": "4h ago",
+          "started": "6h ago",
           "percentageIncrease": "1000%"
         }
       ]
@@ -102,8 +110,8 @@
           "name": "alina habba",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "40 minutes ago",
+          "searchVolume": "1K+",
+          "started": "2h ago",
           "percentageIncrease": "1000%"
         },
         {
@@ -111,7 +119,15 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "7h ago",
+          "started": "9h ago",
+          "percentageIncrease": "200%"
+        },
+        {
+          "name": "gracie mansion",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "6h ago",
           "percentageIncrease": "200%"
         },
         {
@@ -119,7 +135,7 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "7h ago",
+          "started": "9h ago",
           "percentageIncrease": "200%"
         }
       ]
@@ -127,12 +143,54 @@
     {
       "name": "Georgia",
       "code": "GA",
-      "topTopic": "sharon henderson",
+      "topTopic": "alina habba",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
         {
-          "name": "sharon henderson",
+          "name": "alina habba",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "2h ago",
+          "percentageIncrease": "1000%"
+        }
+      ]
+    },
+    {
+      "name": "Illinois",
+      "code": "IL",
+      "topTopic": "alina habba",
+      "category": "Law and Government",
+      "trendingScore": 100,
+      "topics": [
+        {
+          "name": "alina habba",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "1K+",
+          "started": "2h ago",
+          "percentageIncrease": "1000%"
+        },
+        {
+          "name": "daily mail",
+          "relevanceScore": 85,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "11h ago",
+          "percentageIncrease": "75%"
+        }
+      ]
+    },
+    {
+      "name": "Indiana",
+      "code": "IN",
+      "topTopic": "alina habba",
+      "category": "Law and Government",
+      "trendingScore": 100,
+      "topics": [
+        {
+          "name": "alina habba",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "100+",
@@ -142,53 +200,19 @@
       ]
     },
     {
-      "name": "Illinois",
-      "code": "IL",
-      "topTopic": "daily mail",
-      "category": "Law and Government",
-      "trendingScore": 85,
-      "topics": [
-        {
-          "name": "daily mail",
-          "relevanceScore": 85,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "9h ago",
-          "percentageIncrease": "75%"
-        }
-      ]
-    },
-    {
-      "name": "Indiana",
-      "code": "IN",
-      "topTopic": "matt leinart",
+      "name": "Maryland",
+      "code": "MD",
+      "topTopic": "alina habba",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
         {
-          "name": "matt leinart",
+          "name": "alina habba",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "23h ago",
+          "started": "2h ago",
           "percentageIncrease": "1000%"
-        }
-      ]
-    },
-    {
-      "name": "Maryland",
-      "code": "MD",
-      "topTopic": "benin coup attempt",
-      "category": "Law and Government",
-      "trendingScore": 100,
-      "topics": [
-        {
-          "name": "benin coup attempt",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "22h ago",
-          "percentageIncrease": "600%"
         }
       ]
     },
@@ -204,7 +228,7 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "19h ago",
+          "started": "21h ago",
           "percentageIncrease": "200%"
         },
         {
@@ -212,7 +236,7 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "21h ago",
+          "started": "23h ago",
           "percentageIncrease": "400%"
         }
       ]
@@ -220,16 +244,16 @@
     {
       "name": "Massachusetts",
       "code": "MA",
-      "topTopic": "gracie mansion",
+      "topTopic": "alina habba",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
         {
-          "name": "gracie mansion",
+          "name": "alina habba",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "30 minutes ago",
+          "searchVolume": "500+",
+          "started": "2h ago",
           "percentageIncrease": "1000%"
         }
       ]
@@ -262,34 +286,50 @@
           "name": "alina habba",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "50 minutes ago",
+          "searchVolume": "1K+",
+          "started": "2h ago",
           "percentageIncrease": "1000%"
+        },
+        {
+          "name": "gracie mansion",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "7h ago",
+          "percentageIncrease": "700%"
         }
       ]
     },
     {
       "name": "North Carolina",
       "code": "NC",
-      "topTopic": "wake county",
+      "topTopic": "alina habba",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
+        {
+          "name": "alina habba",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "2h ago",
+          "percentageIncrease": "1000%"
+        },
         {
           "name": "wake county",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "20h ago",
+          "started": "22h ago",
           "percentageIncrease": "1000%"
         },
         {
-          "name": "witn",
-          "relevanceScore": 90,
+          "name": "wral",
+          "relevanceScore": 95,
           "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "20h ago",
-          "percentageIncrease": "100%"
+          "searchVolume": "5K+",
+          "started": "22h ago",
+          "percentageIncrease": "200%"
         }
       ]
     },
@@ -305,7 +345,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "5K+",
-          "started": "5h ago",
+          "started": "7h ago",
           "trendBreakdown": "gracie",
           "percentageIncrease": "1000%"
         },
@@ -313,25 +353,26 @@
           "name": "alina habba",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "50 minutes ago",
+          "searchVolume": "2K+",
+          "started": "2h ago",
+          "trendBreakdown": "timesny",
           "percentageIncrease": "1000%"
         },
         {
           "name": "jasmine crockett",
           "relevanceScore": 95,
           "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "5h ago",
+          "searchVolume": "1K+",
+          "started": "7h ago",
           "trendBreakdown": "colin",
-          "percentageIncrease": "300%"
+          "percentageIncrease": "400%"
         },
         {
           "name": "vine",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "7h ago",
+          "started": "9h ago",
           "trendBreakdown": "joey",
           "percentageIncrease": "200%"
         },
@@ -340,23 +381,23 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "17h ago",
+          "started": "19h ago",
           "percentageIncrease": "200%"
         },
         {
-          "name": "monroe doctrine",
+          "name": "afd",
           "relevanceScore": 95,
           "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "22h ago",
-          "percentageIncrease": "200%"
+          "searchVolume": "100+",
+          "started": "12h ago",
+          "percentageIncrease": "300%"
         },
         {
           "name": "keefe d",
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "15h ago",
+          "started": "17h ago",
           "percentageIncrease": "100%"
         }
       ]
@@ -364,17 +405,25 @@
     {
       "name": "Ohio",
       "code": "OH",
-      "topTopic": "cassie ventura",
+      "topTopic": "alina habba",
       "category": "Law and Government",
-      "trendingScore": 90,
+      "trendingScore": 100,
       "topics": [
         {
-          "name": "cassie ventura",
-          "relevanceScore": 90,
+          "name": "alina habba",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "2h ago",
+          "percentageIncrease": "1000%"
+        },
+        {
+          "name": "apartments",
+          "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "40 minutes ago",
-          "percentageIncrease": "100%"
+          "started": "19h ago",
+          "percentageIncrease": "200%"
         }
       ]
     },
@@ -390,7 +439,7 @@
           "relevanceScore": 85,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "6h ago",
+          "started": "8h ago",
           "percentageIncrease": "50%"
         }
       ]
@@ -398,34 +447,34 @@
     {
       "name": "Pennsylvania",
       "code": "PA",
-      "topTopic": "benin coup attempt",
+      "topTopic": "alina habba",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
         {
-          "name": "benin coup attempt",
+          "name": "alina habba",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "23h ago",
-          "percentageIncrease": "900%"
+          "searchVolume": "1K+",
+          "started": "2h ago",
+          "percentageIncrease": "1000%"
         }
       ]
     },
     {
       "name": "South Carolina",
       "code": "SC",
-      "topTopic": "trinity poague",
+      "topTopic": "alina habba",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
         {
-          "name": "trinity poague",
+          "name": "alina habba",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "11h ago",
-          "percentageIncrease": "500%"
+          "started": "50 minutes ago",
+          "percentageIncrease": "1000%"
         }
       ]
     },
@@ -457,17 +506,17 @@
           "name": "jasmine crockett",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "2K+",
-          "started": "6h ago",
+          "searchVolume": "5K+",
+          "started": "8h ago",
           "trendBreakdown": "colin",
-          "percentageIncrease": "500%"
+          "percentageIncrease": "700%"
         },
         {
           "name": "alina habba",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "40 minutes ago",
+          "searchVolume": "1K+",
+          "started": "2h ago",
           "percentageIncrease": "1000%"
         },
         {
@@ -475,7 +524,7 @@
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "4h ago",
+          "started": "6h ago",
           "percentageIncrease": "100%"
         }
       ]
@@ -483,16 +532,25 @@
     {
       "name": "Virginia",
       "code": "VA",
-      "topTopic": "albemarle county public schools",
+      "topTopic": "alina habba",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
+        {
+          "name": "alina habba",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "2h ago",
+          "trendBreakdown": "new",
+          "percentageIncrease": "1000%"
+        },
         {
           "name": "albemarle county public schools",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "21h ago",
+          "started": "23h ago",
           "percentageIncrease": "900%"
         }
       ]
@@ -508,9 +566,26 @@
           "name": "alina habba",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "40 minutes ago",
+          "searchVolume": "1K+",
+          "started": "2h ago",
           "percentageIncrease": "1000%"
+        },
+        {
+          "name": "jasmine crockett",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "6h ago",
+          "trendBreakdown": "colin",
+          "percentageIncrease": "600%"
+        },
+        {
+          "name": "supreme court",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "7h ago",
+          "percentageIncrease": "500%"
         }
       ]
     },
@@ -594,7 +669,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "16h ago",
+          "started": "18h ago",
           "percentageIncrease": "500%"
         }
       ]
@@ -679,7 +754,7 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "19h ago",
+          "started": "21h ago",
           "percentageIncrease": "300%"
         }
       ]
@@ -705,24 +780,16 @@
     {
       "name": "Nevada",
       "code": "NV",
-      "topTopic": "personal injury lawyer",
+      "topTopic": "criminal defense lawyer",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
-        {
-          "name": "personal injury lawyer",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "4h ago",
-          "percentageIncrease": "1000%"
-        },
         {
           "name": "criminal defense lawyer",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "4h ago",
+          "started": "6h ago",
           "percentageIncrease": "1000%"
         }
       ]
@@ -730,17 +797,17 @@
     {
       "name": "Wisconsin",
       "code": "WI",
-      "topTopic": "fox",
+      "topTopic": "alina habba",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
         {
-          "name": "fox",
+          "name": "alina habba",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "22h ago",
-          "percentageIncrease": "500%"
+          "started": "50 minutes ago",
+          "percentageIncrease": "700%"
         }
       ]
     },

@@ -1,19 +1,27 @@
 {
-  "timestamp": "2025-12-08T20:04:52.942Z",
+  "timestamp": "2025-12-08T22:04:44.269Z",
   "states": [
     {
       "name": "Illinois",
       "code": "IL",
-      "topTopic": "daily mail",
+      "topTopic": "alina habba",
       "category": "Law and Government",
-      "trendingScore": 85,
+      "trendingScore": 100,
       "topics": [
+        {
+          "name": "alina habba",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "1K+",
+          "started": "2h ago",
+          "percentageIncrease": "1000%"
+        },
         {
           "name": "daily mail",
           "relevanceScore": 85,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "9h ago",
+          "started": "11h ago",
           "percentageIncrease": "75%"
         }
       ]
