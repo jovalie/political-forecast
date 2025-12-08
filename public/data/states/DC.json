@@ -1,20 +1,28 @@
 {
-  "timestamp": "2025-12-08T14:04:46.870Z",
+  "timestamp": "2025-12-08T16:04:44.757Z",
   "states": [
     {
       "name": "District of Columbia",
       "code": "DC",
-      "topTopic": "benin",
+      "topTopic": "supreme court",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
         {
-          "name": "benin",
+          "name": "supreme court",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "22h ago",
+          "searchVolume": "100+",
+          "started": "1h ago",
           "percentageIncrease": "900%"
+        },
+        {
+          "name": "jasmine crockett",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "50 minutes ago",
+          "percentageIncrease": "500%"
         }
       ]
     }

@@ -1,19 +1,35 @@
 {
-  "timestamp": "2025-12-08T14:04:46.870Z",
+  "timestamp": "2025-12-08T16:04:44.757Z",
   "states": [
     {
       "name": "Florida",
       "code": "FL",
-      "topTopic": "dade",
+      "topTopic": "cheryl hines",
       "category": "Law and Government",
-      "trendingScore": 95,
+      "trendingScore": 100,
       "topics": [
+        {
+          "name": "cheryl hines",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "2h ago",
+          "percentageIncrease": "1000%"
+        },
+        {
+          "name": "focus",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "1K+",
+          "started": "3h ago",
+          "percentageIncrease": "200%"
+        },
         {
           "name": "dade",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "1h ago",
+          "started": "3h ago",
           "percentageIncrease": "200%"
         }
       ]

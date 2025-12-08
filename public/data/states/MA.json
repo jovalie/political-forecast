@@ -1,20 +1,20 @@
 {
-  "timestamp": "2025-12-08T14:04:46.870Z",
+  "timestamp": "2025-12-08T16:04:44.757Z",
   "states": [
     {
       "name": "Massachusetts",
       "code": "MA",
-      "topTopic": "cassie ventura",
+      "topTopic": "gracie mansion",
       "category": "Law and Government",
-      "trendingScore": 90,
+      "trendingScore": 100,
       "topics": [
         {
-          "name": "cassie ventura",
-          "relevanceScore": 90,
+          "name": "gracie mansion",
+          "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "1h ago",
-          "percentageIncrease": "100%"
+          "started": "30 minutes ago",
+          "percentageIncrease": "1000%"
         }
       ]
     }

@@ -1,36 +1,45 @@
 {
-  "timestamp": "2025-12-08T14:04:46.870Z",
+  "timestamp": "2025-12-08T16:04:44.757Z",
   "states": [
     {
       "name": "Texas",
       "code": "TX",
-      "topTopic": "benin coup attempt",
+      "topTopic": "colin allred",
       "category": "Law and Government",
-      "trendingScore": 95,
+      "trendingScore": 100,
       "topics": [
         {
-          "name": "benin coup attempt",
-          "relevanceScore": 95,
+          "name": "colin allred",
+          "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "23h ago",
-          "percentageIncrease": "400%"
+          "started": "2h ago",
+          "trendBreakdown": "jasmine",
+          "percentageIncrease": "700%"
+        },
+        {
+          "name": "cheryl hines",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "2h ago",
+          "percentageIncrease": "1000%"
         },
         {
           "name": "monroe doctrine",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "18h ago",
+          "started": "20h ago",
           "percentageIncrease": "200%"
         },
         {
-          "name": "pete hegseth",
-          "relevanceScore": 95,
+          "name": "vine",
+          "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "22h ago",
-          "percentageIncrease": "300%"
+          "started": "20 minutes ago",
+          "percentageIncrease": "100%"
         }
       ]
     }

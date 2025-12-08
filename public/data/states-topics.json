@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-12-08T14:04:46.870Z",
+  "timestamp": "2025-12-08T16:04:44.757Z",
   "states": [
     {
       "name": "California",
@@ -13,7 +13,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "21h ago",
+          "started": "23h ago",
           "percentageIncrease": "500%"
         },
         {
@@ -21,7 +21,7 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "10h ago",
+          "started": "12h ago",
           "percentageIncrease": "200%"
         },
         {
@@ -29,55 +29,23 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "19h ago",
+          "started": "21h ago",
           "percentageIncrease": "200%"
-        },
-        {
-          "name": "benin coup attempt",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "23h ago",
-          "percentageIncrease": "400%"
         },
         {
           "name": "chief",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "9h ago",
+          "started": "11h ago",
           "percentageIncrease": "200%"
-        },
-        {
-          "name": "trinity poague",
-          "relevanceScore": 90,
-          "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "23h ago",
-          "percentageIncrease": "100%"
-        },
-        {
-          "name": "alberto rangel",
-          "relevanceScore": 90,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "7h ago",
-          "percentageIncrease": "100%"
         },
         {
           "name": "derek chauvin",
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "8h ago",
-          "percentageIncrease": "100%"
-        },
-        {
-          "name": "univision",
-          "relevanceScore": 90,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "12h ago",
+          "started": "10h ago",
           "percentageIncrease": "100%"
         }
       ]
@@ -85,33 +53,57 @@
     {
       "name": "Arizona",
       "code": "AZ",
-      "topTopic": "matt leinart",
+      "topTopic": "criminal defense lawyer",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
         {
-          "name": "matt leinart",
+          "name": "criminal defense lawyer",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "23h ago",
-          "percentageIncrease": "800%"
+          "searchVolume": "500+",
+          "started": "20 minutes ago",
+          "percentageIncrease": "1000%"
+        },
+        {
+          "name": "personal injury lawyer",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "20 minutes ago",
+          "percentageIncrease": "1000%"
         }
       ]
     },
     {
       "name": "Florida",
       "code": "FL",
-      "topTopic": "dade",
+      "topTopic": "cheryl hines",
       "category": "Law and Government",
-      "trendingScore": 95,
+      "trendingScore": 100,
       "topics": [
+        {
+          "name": "cheryl hines",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "2h ago",
+          "percentageIncrease": "1000%"
+        },
+        {
+          "name": "focus",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "1K+",
+          "started": "3h ago",
+          "percentageIncrease": "200%"
+        },
         {
           "name": "dade",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "1h ago",
+          "started": "3h ago",
           "percentageIncrease": "200%"
         }
       ]
@@ -119,34 +111,34 @@
     {
       "name": "Georgia",
       "code": "GA",
-      "topTopic": "sling tv",
+      "topTopic": "cheryl hines",
       "category": "Law and Government",
-      "trendingScore": 95,
+      "trendingScore": 100,
       "topics": [
         {
-          "name": "sling tv",
-          "relevanceScore": 95,
+          "name": "cheryl hines",
+          "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "23h ago",
-          "percentageIncrease": "300%"
+          "started": "2h ago",
+          "percentageIncrease": "1000%"
         }
       ]
     },
     {
       "name": "Illinois",
       "code": "IL",
-      "topTopic": "benin coup attempt",
+      "topTopic": "daily mail",
       "category": "Law and Government",
-      "trendingScore": 100,
+      "trendingScore": 85,
       "topics": [
         {
-          "name": "benin coup attempt",
-          "relevanceScore": 100,
+          "name": "daily mail",
+          "relevanceScore": 85,
           "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "23h ago",
-          "percentageIncrease": "500%"
+          "searchVolume": "100+",
+          "started": "5h ago",
+          "percentageIncrease": "75%"
         }
       ]
     },
@@ -196,7 +188,7 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "13h ago",
+          "started": "15h ago",
           "percentageIncrease": "200%"
         },
         {
@@ -204,7 +196,7 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "15h ago",
+          "started": "17h ago",
           "percentageIncrease": "400%"
         }
       ]
@@ -212,17 +204,17 @@
     {
       "name": "Massachusetts",
       "code": "MA",
-      "topTopic": "cassie ventura",
+      "topTopic": "gracie mansion",
       "category": "Law and Government",
-      "trendingScore": 90,
+      "trendingScore": 100,
       "topics": [
         {
-          "name": "cassie ventura",
-          "relevanceScore": 90,
+          "name": "gracie mansion",
+          "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "1h ago",
-          "percentageIncrease": "100%"
+          "started": "30 minutes ago",
+          "percentageIncrease": "1000%"
         }
       ]
     },
@@ -246,50 +238,67 @@
     {
       "name": "New Jersey",
       "code": "NJ",
-      "topTopic": "benin coup attempt",
+      "topTopic": "gracie mansion",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
         {
-          "name": "benin coup attempt",
+          "name": "gracie mansion",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "21h ago",
-          "percentageIncrease": "600%"
+          "searchVolume": "100+",
+          "started": "1h ago",
+          "percentageIncrease": "1000%"
         }
       ]
     },
     {
       "name": "North Carolina",
       "code": "NC",
-      "topTopic": "benin coup attempt",
+      "topTopic": "radar",
       "category": "Law and Government",
-      "trendingScore": 100,
+      "trendingScore": 95,
       "topics": [
         {
-          "name": "benin coup attempt",
-          "relevanceScore": 100,
+          "name": "radar",
+          "relevanceScore": 95,
           "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "23h ago",
-          "percentageIncrease": "600%"
+          "searchVolume": "100+",
+          "started": "40 minutes ago",
+          "percentageIncrease": "400%"
         }
       ]
     },
     {
       "name": "New York",
       "code": "NY",
-      "topTopic": "thailand",
+      "topTopic": "gracie mansion",
       "category": "Law and Government",
-      "trendingScore": 95,
+      "trendingScore": 100,
       "topics": [
+        {
+          "name": "gracie mansion",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "2K+",
+          "started": "1h ago",
+          "trendBreakdown": "gracie",
+          "percentageIncrease": "1000%"
+        },
+        {
+          "name": "jasmine crockett",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "1h ago",
+          "percentageIncrease": "300%"
+        },
         {
           "name": "thailand",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "11h ago",
+          "started": "13h ago",
           "percentageIncrease": "200%"
         },
         {
@@ -297,7 +306,7 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "16h ago",
+          "started": "18h ago",
           "percentageIncrease": "200%"
         },
         {
@@ -305,7 +314,7 @@
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "9h ago",
+          "started": "11h ago",
           "percentageIncrease": "100%"
         }
       ]
@@ -339,8 +348,8 @@
           "relevanceScore": 85,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "20 minutes ago",
-          "percentageIncrease": "75%"
+          "started": "2h ago",
+          "percentageIncrease": "50%"
         }
       ]
     },
@@ -398,33 +407,42 @@
     {
       "name": "Texas",
       "code": "TX",
-      "topTopic": "benin coup attempt",
+      "topTopic": "colin allred",
       "category": "Law and Government",
-      "trendingScore": 95,
+      "trendingScore": 100,
       "topics": [
         {
-          "name": "benin coup attempt",
-          "relevanceScore": 95,
+          "name": "colin allred",
+          "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "23h ago",
-          "percentageIncrease": "400%"
+          "started": "2h ago",
+          "trendBreakdown": "jasmine",
+          "percentageIncrease": "700%"
+        },
+        {
+          "name": "cheryl hines",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "2h ago",
+          "percentageIncrease": "1000%"
         },
         {
           "name": "monroe doctrine",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "18h ago",
+          "started": "20h ago",
           "percentageIncrease": "200%"
         },
         {
-          "name": "pete hegseth",
-          "relevanceScore": 95,
+          "name": "vine",
+          "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "22h ago",
-          "percentageIncrease": "300%"
+          "started": "20 minutes ago",
+          "percentageIncrease": "100%"
         }
       ]
     },
@@ -440,7 +458,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "15h ago",
+          "started": "17h ago",
           "percentageIncrease": "800%"
         }
       ]
@@ -448,17 +466,25 @@
     {
       "name": "District of Columbia",
       "code": "DC",
-      "topTopic": "benin",
+      "topTopic": "supreme court",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
         {
-          "name": "benin",
+          "name": "supreme court",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "22h ago",
+          "searchVolume": "100+",
+          "started": "1h ago",
           "percentageIncrease": "900%"
+        },
+        {
+          "name": "jasmine crockett",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "50 minutes ago",
+          "percentageIncrease": "500%"
         }
       ]
     },
@@ -508,16 +534,8 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "19h ago",
+          "started": "21h ago",
           "percentageIncrease": "800%"
-        },
-        {
-          "name": "trinity poague",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "24h ago",
-          "percentageIncrease": "200%"
         }
       ]
     },
@@ -550,8 +568,8 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "10h ago",
-          "percentageIncrease": "600%"
+          "started": "12h ago",
+          "percentageIncrease": "500%"
         }
       ]
     },
@@ -626,17 +644,17 @@
     {
       "name": "Minnesota",
       "code": "MN",
-      "topTopic": "jordan addison",
+      "topTopic": "superior middle school",
       "category": "Law and Government",
       "trendingScore": 95,
       "topics": [
         {
-          "name": "jordan addison",
+          "name": "superior middle school",
           "relevanceScore": 95,
           "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "22h ago",
-          "percentageIncrease": "200%"
+          "searchVolume": "500+",
+          "started": "15h ago",
+          "percentageIncrease": "300%"
         }
       ]
     },
@@ -687,7 +705,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "16h ago",
+          "started": "18h ago",
           "percentageIncrease": "500%"
         }
       ]
