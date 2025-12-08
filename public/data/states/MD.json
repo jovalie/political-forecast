@@ -1,20 +1,20 @@
 {
-  "timestamp": "2025-12-08T12:04:58.139Z",
+  "timestamp": "2025-12-08T14:04:46.870Z",
   "states": [
     {
       "name": "Maryland",
       "code": "MD",
-      "topTopic": "benin",
+      "topTopic": "benin coup attempt",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
         {
-          "name": "benin",
+          "name": "benin coup attempt",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "23h ago",
-          "percentageIncrease": "1000%"
+          "searchVolume": "100+",
+          "started": "22h ago",
+          "percentageIncrease": "600%"
         }
       ]
     }
