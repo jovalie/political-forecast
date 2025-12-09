@@ -1,21 +1,20 @@
 {
-  "timestamp": "2025-12-09T20:04:45.458Z",
+  "timestamp": "2025-12-09T22:05:17.519Z",
   "states": [
     {
       "name": "Georgia",
       "code": "GA",
-      "topTopic": "fort stewart",
+      "topTopic": "dicks sporting good",
       "category": "Law and Government",
-      "trendingScore": 100,
+      "trendingScore": 95,
       "topics": [
         {
-          "name": "fort stewart",
-          "relevanceScore": 100,
+          "name": "dicks sporting good",
+          "relevanceScore": 95,
           "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "22h ago",
-          "trendBreakdown": "fort",
-          "percentageIncrease": "1000%"
+          "searchVolume": "100+",
+          "started": "1h ago",
+          "percentageIncrease": "200%"
         }
       ]
     }

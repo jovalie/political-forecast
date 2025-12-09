@@ -1,14 +1,22 @@
 {
-  "timestamp": "2025-11-17T04:47:44.555Z",
+  "timestamp": "2025-12-09T22:05:17.519Z",
   "states": [
     {
       "name": "New Hampshire",
       "code": "NH",
+      "topTopic": "nh lottery",
       "category": "Law and Government",
-      "topics": [],
-      "topTopic": "",
-      "trendingScore": 0,
-      "timestamp": "2025-11-17T04:47:44.555Z"
+      "trendingScore": 85,
+      "topics": [
+        {
+          "name": "nh lottery",
+          "relevanceScore": 85,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "11h ago",
+          "percentageIncrease": "50%"
+        }
+      ]
     }
   ]
 }

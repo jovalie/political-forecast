@@ -1,21 +1,20 @@
 {
-  "timestamp": "2025-12-09T20:04:45.458Z",
+  "timestamp": "2025-12-09T22:05:17.519Z",
   "states": [
     {
       "name": "Connecticut",
       "code": "CT",
-      "topTopic": "brian cole",
+      "topTopic": "dicks sporting good",
       "category": "Law and Government",
-      "trendingScore": 100,
+      "trendingScore": 95,
       "topics": [
         {
-          "name": "brian cole",
-          "relevanceScore": 100,
+          "name": "dicks sporting good",
+          "relevanceScore": 95,
           "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "23h ago",
-          "trendBreakdown": "brian",
-          "percentageIncrease": "1000%"
+          "searchVolume": "100+",
+          "started": "4h ago",
+          "percentageIncrease": "300%"
         }
       ]
     }
