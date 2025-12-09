@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-12-09T00:05:00.812Z",
+  "timestamp": "2025-12-09T02:34:25.735Z",
   "states": [
     {
       "name": "Texas",
@@ -12,33 +12,34 @@
           "name": "jasmine crockett",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "5K+",
-          "started": "10h ago",
+          "searchVolume": "10K+",
+          "started": "12h ago",
           "trendBreakdown": "colin",
           "percentageIncrease": "1000%"
+        },
+        {
+          "name": "green card trump",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "40 minutes ago",
+          "trendBreakdown": "green",
+          "percentageIncrease": "800%"
         },
         {
           "name": "alina habba",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "4h ago",
+          "started": "7h ago",
           "percentageIncrease": "1000%"
-        },
-        {
-          "name": "turning point usa",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "1h ago",
-          "percentageIncrease": "300%"
         },
         {
           "name": "vine",
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "8h ago",
+          "started": "10h ago",
           "percentageIncrease": "100%"
         }
       ]

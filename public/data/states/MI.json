@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-12-09T00:05:00.812Z",
+  "timestamp": "2025-12-09T02:34:25.735Z",
   "states": [
     {
       "name": "Michigan",
@@ -13,8 +13,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "4h ago",
-          "trendBreakdown": "cnn",
+          "started": "6h ago",
           "percentageIncrease": "1000%"
         },
         {
@@ -22,16 +21,8 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "18h ago",
+          "started": "21h ago",
           "percentageIncrease": "300%"
-        },
-        {
-          "name": "andrea bocelli",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "23h ago",
-          "percentageIncrease": "200%"
         }
       ]
     }
