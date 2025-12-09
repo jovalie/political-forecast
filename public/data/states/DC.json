@@ -1,36 +1,27 @@
 {
-  "timestamp": "2025-12-09T14:04:41.873Z",
+  "timestamp": "2025-12-09T16:04:55.267Z",
   "states": [
     {
       "name": "District of Columbia",
       "code": "DC",
-      "topTopic": "jasmine crockett",
+      "topTopic": "alina habba",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
-        {
-          "name": "jasmine crockett",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "2K+",
-          "started": "22h ago",
-          "trendBreakdown": "colin",
-          "percentageIncrease": "700%"
-        },
         {
           "name": "alina habba",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "18h ago",
+          "started": "20h ago",
           "percentageIncrease": "1000%"
         },
         {
-          "name": "supreme court",
+          "name": "colin allred",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "23h ago",
+          "searchVolume": "100+",
+          "started": "22h ago",
           "percentageIncrease": "500%"
         },
         {
@@ -38,16 +29,8 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "21h ago",
+          "started": "23h ago",
           "percentageIncrease": "400%"
-        },
-        {
-          "name": "cnn",
-          "relevanceScore": 85,
-          "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "1h ago",
-          "percentageIncrease": "75%"
         }
       ]
     }

@@ -1,28 +1,19 @@
 {
-  "timestamp": "2025-12-09T14:04:41.873Z",
+  "timestamp": "2025-12-09T16:04:55.267Z",
   "states": [
     {
       "name": "New Jersey",
       "code": "NJ",
-      "topTopic": "gracie mansion",
+      "topTopic": "alina habba",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
-        {
-          "name": "gracie mansion",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "23h ago",
-          "trendBreakdown": "gracie",
-          "percentageIncrease": "500%"
-        },
         {
           "name": "alina habba",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "2K+",
-          "started": "18h ago",
+          "started": "20h ago",
           "trendBreakdown": "newsnj",
           "percentageIncrease": "1000%"
         }
