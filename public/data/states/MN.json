@@ -1,20 +1,28 @@
 {
-  "timestamp": "2025-12-09T12:04:57.441Z",
+  "timestamp": "2025-12-09T14:04:41.873Z",
   "states": [
     {
       "name": "Minnesota",
       "code": "MN",
-      "topTopic": "superior middle school",
+      "topTopic": "valley news live",
       "category": "Law and Government",
       "trendingScore": 95,
       "topics": [
         {
-          "name": "superior middle school",
+          "name": "valley news live",
           "relevanceScore": 95,
           "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "23h ago",
-          "percentageIncrease": "300%"
+          "searchVolume": "100+",
+          "started": "1h ago",
+          "percentageIncrease": "200%"
+        },
+        {
+          "name": "fbi agents kneeling",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "7h ago",
+          "percentageIncrease": "200%"
         }
       ]
     }

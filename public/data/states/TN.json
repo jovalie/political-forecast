@@ -1,19 +1,19 @@
 {
-  "timestamp": "2025-12-09T12:04:57.441Z",
+  "timestamp": "2025-12-09T14:04:41.873Z",
   "states": [
     {
       "name": "Tennessee",
       "code": "TN",
-      "topTopic": "wjhl",
+      "topTopic": "cnn",
       "category": "Law and Government",
       "trendingScore": 95,
       "topics": [
         {
-          "name": "wjhl",
+          "name": "cnn",
           "relevanceScore": 95,
           "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "1h ago",
+          "searchVolume": "500+",
+          "started": "2h ago",
           "percentageIncrease": "200%"
         }
       ]

@@ -1,28 +1,19 @@
 {
-  "timestamp": "2025-12-09T12:04:57.441Z",
+  "timestamp": "2025-12-09T14:04:41.873Z",
   "states": [
     {
       "name": "Texas",
       "code": "TX",
-      "topTopic": "jasmine crockett",
+      "topTopic": "alina habba",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
-        {
-          "name": "jasmine crockett",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "10K+",
-          "started": "22h ago",
-          "trendBreakdown": "colin",
-          "percentageIncrease": "1000%"
-        },
         {
           "name": "alina habba",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "16h ago",
+          "started": "18h ago",
           "percentageIncrease": "1000%"
         },
         {
@@ -30,7 +21,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "10h ago",
+          "started": "12h ago",
           "trendBreakdown": "green",
           "percentageIncrease": "700%"
         },
@@ -39,15 +30,31 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "8h ago",
-          "percentageIncrease": "400%"
+          "started": "10h ago",
+          "percentageIncrease": "300%"
+        },
+        {
+          "name": "insurance",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "1h ago",
+          "percentageIncrease": "200%"
+        },
+        {
+          "name": "cnn",
+          "relevanceScore": 90,
+          "category": "Law and Government",
+          "searchVolume": "1K+",
+          "started": "2h ago",
+          "percentageIncrease": "100%"
         },
         {
           "name": "vine",
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "20h ago",
+          "started": "22h ago",
           "percentageIncrease": "100%"
         }
       ]

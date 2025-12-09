@@ -1,27 +1,19 @@
 {
-  "timestamp": "2025-12-09T12:04:57.441Z",
+  "timestamp": "2025-12-09T14:04:41.873Z",
   "states": [
     {
       "name": "Virginia",
       "code": "VA",
-      "topTopic": "new york times headlines today",
+      "topTopic": "alina habba",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
-        {
-          "name": "new york times headlines today",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "9h ago",
-          "percentageIncrease": "600%"
-        },
         {
           "name": "alina habba",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "16h ago",
+          "started": "18h ago",
           "percentageIncrease": "1000%"
         },
         {
@@ -29,8 +21,24 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "18h ago",
+          "started": "20h ago",
           "percentageIncrease": "500%"
+        },
+        {
+          "name": "fbi agents kneeling",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "9h ago",
+          "percentageIncrease": "300%"
+        },
+        {
+          "name": "cnn",
+          "relevanceScore": 85,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "2h ago",
+          "percentageIncrease": "75%"
         }
       ]
     }

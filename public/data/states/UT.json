@@ -1,20 +1,20 @@
 {
-  "timestamp": "2025-12-09T12:04:57.441Z",
+  "timestamp": "2025-12-09T14:04:41.873Z",
   "states": [
     {
       "name": "Utah",
       "code": "UT",
-      "topTopic": "sling tv",
+      "topTopic": "cnn",
       "category": "Law and Government",
-      "trendingScore": 100,
+      "trendingScore": 90,
       "topics": [
         {
-          "name": "sling tv",
-          "relevanceScore": 100,
+          "name": "cnn",
+          "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "10h ago",
-          "percentageIncrease": "800%"
+          "started": "1h ago",
+          "percentageIncrease": "100%"
         }
       ]
     }

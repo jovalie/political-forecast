@@ -1,20 +1,20 @@
 {
-  "timestamp": "2025-12-09T12:04:57.441Z",
+  "timestamp": "2025-12-09T14:04:41.873Z",
   "states": [
     {
       "name": "Iowa",
       "code": "IA",
-      "topTopic": "scott stowe",
+      "topTopic": "cnn",
       "category": "Law and Government",
-      "trendingScore": 100,
+      "trendingScore": 90,
       "topics": [
         {
-          "name": "scott stowe",
-          "relevanceScore": 100,
+          "name": "cnn",
+          "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "22h ago",
-          "percentageIncrease": "1000%"
+          "started": "2h ago",
+          "percentageIncrease": "100%"
         }
       ]
     }
