@@ -1,36 +1,36 @@
 {
-  "timestamp": "2025-12-09T02:34:25.735Z",
+  "timestamp": "2025-12-09T04:09:17.279Z",
   "states": [
     {
       "name": "Georgia",
       "code": "GA",
-      "topTopic": "sharon henderson",
+      "topTopic": "fort stewart",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
-        {
-          "name": "sharon henderson",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "7h ago",
-          "percentageIncrease": "800%"
-        },
         {
           "name": "fort stewart",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "4h ago",
+          "started": "6h ago",
           "trendBreakdown": "fort",
           "percentageIncrease": "1000%"
+        },
+        {
+          "name": "sharon henderson",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "9h ago",
+          "percentageIncrease": "800%"
         },
         {
           "name": "alina habba",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "6h ago",
+          "started": "8h ago",
           "percentageIncrease": "1000%"
         }
       ]
