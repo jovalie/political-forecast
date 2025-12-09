@@ -1,19 +1,27 @@
 {
-  "timestamp": "2025-12-09T06:04:50.687Z",
+  "timestamp": "2025-12-09T08:04:51.097Z",
   "states": [
     {
       "name": "Florida",
       "code": "FL",
-      "topTopic": "alina habba",
+      "topTopic": "fbi agents kneeling",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
+        {
+          "name": "fbi agents kneeling",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "4h ago",
+          "percentageIncrease": "700%"
+        },
         {
           "name": "alina habba",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "10h ago",
+          "started": "12h ago",
           "percentageIncrease": "1000%"
         },
         {
@@ -21,24 +29,7 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "5h ago",
-          "percentageIncrease": "300%"
-        },
-        {
-          "name": "license plate frame law florida",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "3h ago",
-          "trendBreakdown": "license",
-          "percentageIncrease": "300%"
-        },
-        {
-          "name": "rfk jr",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "6h ago",
+          "started": "7h ago",
           "percentageIncrease": "300%"
         },
         {
@@ -46,7 +37,7 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "17h ago",
+          "started": "19h ago",
           "percentageIncrease": "200%"
         },
         {
@@ -54,8 +45,17 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "17h ago",
+          "started": "19h ago",
           "percentageIncrease": "200%"
+        },
+        {
+          "name": "license plate frames florida",
+          "relevanceScore": 90,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "9h ago",
+          "trendBreakdown": "license",
+          "percentageIncrease": "100%"
         }
       ]
     }

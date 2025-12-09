@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-12-09T06:04:50.687Z",
+  "timestamp": "2025-12-09T08:04:51.097Z",
   "states": [
     {
       "name": "New York",
@@ -12,8 +12,8 @@
           "name": "gracie mansion",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "5K+",
-          "started": "15h ago",
+          "searchVolume": "10K+",
+          "started": "17h ago",
           "trendBreakdown": "gracie",
           "percentageIncrease": "1000%"
         },
@@ -22,16 +22,8 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "2K+",
-          "started": "15h ago",
-          "trendBreakdown": "james",
-          "percentageIncrease": "700%"
-        },
-        {
-          "name": "mysonne linen",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "6h ago",
+          "started": "17h ago",
+          "trendBreakdown": "colin",
           "percentageIncrease": "700%"
         },
         {
@@ -39,15 +31,23 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "2h ago",
-          "percentageIncrease": "1000%"
+          "started": "4h ago",
+          "percentageIncrease": "900%"
+        },
+        {
+          "name": "mysonne linen",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "1K+",
+          "started": "8h ago",
+          "percentageIncrease": "600%"
         },
         {
           "name": "alina habba",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "2K+",
-          "started": "10h ago",
+          "started": "12h ago",
           "percentageIncrease": "1000%"
         },
         {
@@ -55,7 +55,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "4h ago",
+          "started": "6h ago",
           "trendBreakdown": "green",
           "percentageIncrease": "700%"
         },
@@ -64,7 +64,7 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "6h ago",
+          "started": "8h ago",
           "percentageIncrease": "300%"
         },
         {
@@ -72,7 +72,7 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "17h ago",
+          "started": "19h ago",
           "trendBreakdown": "joey",
           "percentageIncrease": "200%"
         },
@@ -81,7 +81,7 @@
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "1h ago",
+          "started": "3h ago",
           "percentageIncrease": "100%"
         }
       ]
