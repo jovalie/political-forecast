@@ -1,19 +1,27 @@
 {
-  "timestamp": "2025-12-09T04:09:17.279Z",
+  "timestamp": "2025-12-09T06:04:50.687Z",
   "states": [
     {
       "name": "Georgia",
       "code": "GA",
-      "topTopic": "fort stewart",
+      "topTopic": "fbi agents kneeling",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
+        {
+          "name": "fbi agents kneeling",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "1h ago",
+          "percentageIncrease": "500%"
+        },
         {
           "name": "fort stewart",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "6h ago",
+          "started": "8h ago",
           "trendBreakdown": "fort",
           "percentageIncrease": "1000%"
         },
@@ -22,7 +30,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "9h ago",
+          "started": "11h ago",
           "percentageIncrease": "800%"
         },
         {
@@ -30,7 +38,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "8h ago",
+          "started": "10h ago",
           "percentageIncrease": "1000%"
         }
       ]

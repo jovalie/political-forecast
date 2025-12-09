@@ -1,27 +1,19 @@
 {
-  "timestamp": "2025-12-09T04:09:17.279Z",
+  "timestamp": "2025-12-09T06:04:50.687Z",
   "states": [
     {
       "name": "Pennsylvania",
       "code": "PA",
-      "topTopic": "fbi agents kneeling",
+      "topTopic": "alina habba",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
-        {
-          "name": "fbi agents kneeling",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "20 minutes ago",
-          "percentageIncrease": "1000%"
-        },
         {
           "name": "alina habba",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "8h ago",
+          "started": "10h ago",
           "percentageIncrease": "1000%"
         },
         {
@@ -29,7 +21,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "1h ago",
+          "started": "3h ago",
           "percentageIncrease": "900%"
         },
         {
@@ -37,7 +29,7 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "5h ago",
+          "started": "7h ago",
           "percentageIncrease": "300%"
         }
       ]

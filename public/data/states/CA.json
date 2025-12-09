@@ -1,36 +1,36 @@
 {
-  "timestamp": "2025-12-09T04:09:17.279Z",
+  "timestamp": "2025-12-09T06:04:50.687Z",
   "states": [
     {
       "name": "California",
       "code": "CA",
-      "topTopic": "green card trump",
+      "topTopic": "fbi agents kneeling",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
+        {
+          "name": "fbi agents kneeling",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "1K+",
+          "started": "4h ago",
+          "percentageIncrease": "1000%"
+        },
         {
           "name": "green card trump",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "2h ago",
+          "started": "4h ago",
           "trendBreakdown": "green",
           "percentageIncrease": "800%"
-        },
-        {
-          "name": "fbi agents kneeling",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "2h ago",
-          "percentageIncrease": "600%"
         },
         {
           "name": "alina habba",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "2K+",
-          "started": "8h ago",
+          "started": "10h ago",
           "percentageIncrease": "1000%"
         },
         {
@@ -38,7 +38,7 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "2K+",
-          "started": "13h ago",
+          "started": "15h ago",
           "percentageIncrease": "300%"
         },
         {
@@ -46,7 +46,7 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "12h ago",
+          "started": "14h ago",
           "percentageIncrease": "200%"
         },
         {
@@ -54,7 +54,7 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "3h ago",
+          "started": "5h ago",
           "percentageIncrease": "200%"
         },
         {
@@ -62,31 +62,31 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "9h ago",
+          "started": "11h ago",
           "percentageIncrease": "300%"
-        },
-        {
-          "name": "water",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "19h ago",
-          "percentageIncrease": "400%"
-        },
-        {
-          "name": "chief",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "23h ago",
-          "percentageIncrease": "200%"
         },
         {
           "name": "alberto rangel",
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "21h ago",
+          "started": "23h ago",
+          "percentageIncrease": "100%"
+        },
+        {
+          "name": "derek chauvin",
+          "relevanceScore": 90,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "8h ago",
+          "percentageIncrease": "100%"
+        },
+        {
+          "name": "derek chauvin",
+          "relevanceScore": 90,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "24h ago",
           "percentageIncrease": "100%"
         }
       ]
