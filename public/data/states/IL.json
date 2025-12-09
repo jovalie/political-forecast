@@ -1,19 +1,27 @@
 {
-  "timestamp": "2025-12-09T16:04:55.267Z",
+  "timestamp": "2025-12-09T18:05:07.105Z",
   "states": [
     {
       "name": "Illinois",
       "code": "IL",
-      "topTopic": "alina habba",
+      "topTopic": "fbi agents kneeling",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
+        {
+          "name": "fbi agents kneeling",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "13h ago",
+          "percentageIncrease": "500%"
+        },
         {
           "name": "alina habba",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "20h ago",
+          "started": "22h ago",
           "percentageIncrease": "1000%"
         },
         {
@@ -21,23 +29,23 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "13h ago",
+          "started": "15h ago",
           "percentageIncrease": "700%"
         },
         {
-          "name": "fbi agents kneeling",
+          "name": "dicks sporting good",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "11h ago",
-          "percentageIncrease": "400%"
+          "started": "2h ago",
+          "percentageIncrease": "200%"
         },
         {
           "name": "water",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "9h ago",
+          "started": "11h ago",
           "percentageIncrease": "300%"
         },
         {
@@ -45,7 +53,7 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "16h ago",
+          "started": "18h ago",
           "percentageIncrease": "300%"
         }
       ]
