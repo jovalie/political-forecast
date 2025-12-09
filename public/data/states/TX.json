@@ -1,36 +1,36 @@
 {
-  "timestamp": "2025-12-09T18:05:07.105Z",
+  "timestamp": "2025-12-09T20:04:45.458Z",
   "states": [
     {
       "name": "Texas",
       "code": "TX",
-      "topTopic": "alina habba",
+      "topTopic": "green card trump",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
-        {
-          "name": "alina habba",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "22h ago",
-          "percentageIncrease": "1000%"
-        },
         {
           "name": "green card trump",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "16h ago",
+          "started": "18h ago",
           "trendBreakdown": "green",
           "percentageIncrease": "700%"
+        },
+        {
+          "name": "dicks sporting good",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "2h ago",
+          "percentageIncrease": "200%"
         },
         {
           "name": "fbi agents kneeling",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "14h ago",
+          "started": "16h ago",
           "percentageIncrease": "300%"
         }
       ]

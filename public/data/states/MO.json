@@ -1,20 +1,20 @@
 {
-  "timestamp": "2025-12-09T18:05:07.105Z",
+  "timestamp": "2025-12-09T20:04:45.458Z",
   "states": [
     {
       "name": "Missouri",
       "code": "MO",
-      "topTopic": "nbc",
+      "topTopic": "dicks sporting good",
       "category": "Law and Government",
-      "trendingScore": 100,
+      "trendingScore": 95,
       "topics": [
         {
-          "name": "nbc",
-          "relevanceScore": 100,
+          "name": "dicks sporting good",
+          "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "10h ago",
-          "percentageIncrease": "900%"
+          "started": "2h ago",
+          "percentageIncrease": "400%"
         }
       ]
     }
