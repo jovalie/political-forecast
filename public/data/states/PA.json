@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-12-08T22:04:44.269Z",
+  "timestamp": "2025-12-09T00:05:00.812Z",
   "states": [
     {
       "name": "Pennsylvania",
@@ -13,8 +13,16 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "2h ago",
+          "started": "4h ago",
           "percentageIncrease": "1000%"
+        },
+        {
+          "name": "ilhan omar",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "1h ago",
+          "percentageIncrease": "300%"
         }
       ]
     }

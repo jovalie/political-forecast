@@ -1,28 +1,37 @@
 {
-  "timestamp": "2025-12-08T22:04:44.269Z",
+  "timestamp": "2025-12-09T00:05:00.812Z",
   "states": [
     {
       "name": "Michigan",
       "code": "MI",
-      "topTopic": "andrea bocelli",
+      "topTopic": "alina habba",
       "category": "Law and Government",
-      "trendingScore": 95,
+      "trendingScore": 100,
       "topics": [
+        {
+          "name": "alina habba",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "4h ago",
+          "trendBreakdown": "cnn",
+          "percentageIncrease": "1000%"
+        },
+        {
+          "name": "mary sheffield",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "18h ago",
+          "percentageIncrease": "300%"
+        },
         {
           "name": "andrea bocelli",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "21h ago",
-          "percentageIncrease": "200%"
-        },
-        {
-          "name": "benin coup attempt",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "100+",
           "started": "23h ago",
-          "percentageIncrease": "400%"
+          "percentageIncrease": "200%"
         }
       ]
     }

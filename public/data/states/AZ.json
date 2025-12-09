@@ -1,19 +1,27 @@
 {
-  "timestamp": "2025-12-08T22:04:44.269Z",
+  "timestamp": "2025-12-09T00:05:00.812Z",
   "states": [
     {
       "name": "Arizona",
       "code": "AZ",
-      "topTopic": "personal injury lawyer",
+      "topTopic": "pinal county",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
+        {
+          "name": "pinal county",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "1h ago",
+          "percentageIncrease": "700%"
+        },
         {
           "name": "personal injury lawyer",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "5K+",
-          "started": "6h ago",
+          "started": "8h ago",
           "percentageIncrease": "1000%"
         },
         {
@@ -21,7 +29,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "5K+",
-          "started": "6h ago",
+          "started": "8h ago",
           "percentageIncrease": "1000%"
         }
       ]
