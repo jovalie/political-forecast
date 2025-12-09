@@ -1,20 +1,20 @@
 {
-  "timestamp": "2025-12-09T10:04:49.117Z",
+  "timestamp": "2025-12-09T12:04:57.441Z",
   "states": [
     {
       "name": "West Virginia",
       "code": "WV",
-      "topTopic": "wsaz",
+      "topTopic": "wtap",
       "category": "Law and Government",
-      "trendingScore": 95,
+      "trendingScore": 100,
       "topics": [
         {
-          "name": "wsaz",
-          "relevanceScore": 95,
+          "name": "wtap",
+          "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "1h ago",
-          "percentageIncrease": "200%"
+          "started": "16h ago",
+          "percentageIncrease": "600%"
         }
       ]
     }
