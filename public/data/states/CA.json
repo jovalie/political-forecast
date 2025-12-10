@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-12-10T12:04:59.629Z",
+  "timestamp": "2025-12-10T14:05:47.924Z",
   "states": [
     {
       "name": "California",
@@ -13,16 +13,7 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "5K+",
-          "started": "19h ago",
-          "percentageIncrease": "400%"
-        },
-        {
-          "name": "kentucky state university",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "2K+",
-          "started": "14h ago",
-          "trendBreakdown": "kentucky",
+          "started": "21h ago",
           "percentageIncrease": "400%"
         },
         {
@@ -30,15 +21,24 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "9h ago",
+          "started": "11h ago",
           "percentageIncrease": "200%"
+        },
+        {
+          "name": "kentucky state university",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "2K+",
+          "started": "16h ago",
+          "trendBreakdown": "kentucky",
+          "percentageIncrease": "300%"
         },
         {
           "name": "jesse butler",
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "13h ago",
+          "started": "15h ago",
           "percentageIncrease": "100%"
         }
       ]

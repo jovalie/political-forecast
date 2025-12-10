@@ -1,35 +1,35 @@
 {
-  "timestamp": "2025-12-10T12:04:59.629Z",
+  "timestamp": "2025-12-10T14:05:47.924Z",
   "states": [
     {
       "name": "Minnesota",
       "code": "MN",
-      "topTopic": "kentucky state university",
+      "topTopic": "kstp school closings",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
+        {
+          "name": "kstp school closings",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "1K+",
+          "started": "13h ago",
+          "percentageIncrease": "500%"
+        },
         {
           "name": "kentucky state university",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "11h ago",
+          "started": "13h ago",
           "percentageIncrease": "1000%"
         },
         {
-          "name": "kstp school closings",
+          "name": "kare",
           "relevanceScore": 95,
           "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "11h ago",
-          "percentageIncrease": "400%"
-        },
-        {
-          "name": "kttc",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "2h ago",
+          "searchVolume": "111K+",
+          "started": "3h ago",
           "percentageIncrease": "200%"
         },
         {
@@ -37,16 +37,8 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "18h ago",
+          "started": "20h ago",
           "percentageIncrease": "400%"
-        },
-        {
-          "name": "valley news live",
-          "relevanceScore": 90,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "23h ago",
-          "percentageIncrease": "100%"
         }
       ]
     }

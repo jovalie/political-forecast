@@ -1,36 +1,37 @@
 {
-  "timestamp": "2025-12-10T12:04:59.629Z",
+  "timestamp": "2025-12-10T14:05:47.924Z",
   "states": [
     {
       "name": "Michigan",
       "code": "MI",
-      "topTopic": "kentucky state university",
+      "topTopic": "pccs",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
+        {
+          "name": "pccs",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "12h ago",
+          "percentageIncrease": "800%"
+        },
         {
           "name": "kentucky state university",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "13h ago",
+          "started": "15h ago",
+          "trendBreakdown": "abc",
           "percentageIncrease": "1000%"
         },
         {
-          "name": "dicks sporting good",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "2K+",
-          "started": "23h ago",
-          "percentageIncrease": "300%"
-        },
-        {
-          "name": "luigi mangione",
+          "name": "news",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "12h ago",
-          "percentageIncrease": "300%"
+          "started": "4h ago",
+          "percentageIncrease": "200%"
         }
       ]
     }

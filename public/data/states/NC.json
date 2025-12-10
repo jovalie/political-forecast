@@ -1,27 +1,35 @@
 {
-  "timestamp": "2025-12-10T12:04:59.629Z",
+  "timestamp": "2025-12-10T14:05:47.924Z",
   "states": [
     {
       "name": "North Carolina",
       "code": "NC",
-      "topTopic": "kentucky state university",
+      "topTopic": "nobel prizes",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
+        {
+          "name": "nobel prizes",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "30 minutes ago",
+          "percentageIncrease": "600%"
+        },
         {
           "name": "kentucky state university",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "13h ago",
-          "percentageIncrease": "1000%"
+          "started": "15h ago",
+          "percentageIncrease": "900%"
         },
         {
           "name": "dicks sporting good",
           "relevanceScore": 95,
           "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "19h ago",
+          "searchVolume": "2K+",
+          "started": "21h ago",
           "percentageIncrease": "300%"
         }
       ]
