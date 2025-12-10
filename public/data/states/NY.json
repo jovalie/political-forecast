@@ -1,44 +1,35 @@
 {
-  "timestamp": "2025-12-09T22:05:17.519Z",
+  "timestamp": "2025-12-10T00:05:26.079Z",
   "states": [
     {
       "name": "New York",
       "code": "NY",
-      "topTopic": "mysonne linen",
+      "topTopic": "kentucky state university",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
         {
-          "name": "mysonne linen",
+          "name": "kentucky state university",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "2K+",
-          "started": "22h ago",
-          "percentageIncrease": "500%"
-        },
-        {
-          "name": "bruce blakeman",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "2K+",
-          "started": "22h ago",
-          "percentageIncrease": "500%"
+          "searchVolume": "500+",
+          "started": "2h ago",
+          "percentageIncrease": "800%"
         },
         {
           "name": "fbi agents kneeling",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "18h ago",
+          "started": "20h ago",
           "percentageIncrease": "800%"
         },
         {
-          "name": "green card trump",
+          "name": "insurance",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "20h ago",
-          "trendBreakdown": "green",
+          "searchVolume": "100+",
+          "started": "11h ago",
           "percentageIncrease": "800%"
         },
         {
@@ -46,16 +37,32 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "2K+",
-          "started": "10h ago",
+          "started": "12h ago",
           "trendBreakdown": "dicks",
+          "percentageIncrease": "400%"
+        },
+        {
+          "name": "kathryn garcia",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "30 minutes ago",
           "percentageIncrease": "300%"
+        },
+        {
+          "name": "nancy mace",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "12h ago",
+          "percentageIncrease": "400%"
         },
         {
           "name": "water",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "15h ago",
+          "started": "17h ago",
           "percentageIncrease": "300%"
         },
         {
@@ -63,7 +70,7 @@
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "17h ago",
+          "started": "19h ago",
           "percentageIncrease": "100%"
         }
       ]

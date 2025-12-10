@@ -1,19 +1,28 @@
 {
-  "timestamp": "2025-12-09T22:05:17.519Z",
+  "timestamp": "2025-12-10T00:05:26.079Z",
   "states": [
     {
       "name": "California",
       "code": "CA",
-      "topTopic": "fbi agents kneeling",
+      "topTopic": "kentucky state university",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
+        {
+          "name": "kentucky state university",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "1K+",
+          "started": "2h ago",
+          "trendBreakdown": "kentucky",
+          "percentageIncrease": "600%"
+        },
         {
           "name": "fbi agents kneeling",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "2K+",
-          "started": "20h ago",
+          "started": "22h ago",
           "percentageIncrease": "800%"
         },
         {
@@ -21,8 +30,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "20h ago",
-          "trendBreakdown": "green",
+          "started": "22h ago",
           "percentageIncrease": "800%"
         },
         {
@@ -30,24 +38,32 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "2K+",
-          "started": "5h ago",
-          "percentageIncrease": "300%"
+          "started": "7h ago",
+          "percentageIncrease": "400%"
+        },
+        {
+          "name": "jesse butler",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "1h ago",
+          "percentageIncrease": "200%"
         },
         {
           "name": "rabies",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "21h ago",
+          "started": "23h ago",
           "percentageIncrease": "200%"
         },
         {
-          "name": "latvia",
-          "relevanceScore": 90,
+          "name": "new york times",
+          "relevanceScore": 85,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "22h ago",
-          "percentageIncrease": "100%"
+          "started": "10h ago",
+          "percentageIncrease": "75%"
         }
       ]
     }

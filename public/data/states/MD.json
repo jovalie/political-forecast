@@ -1,19 +1,27 @@
 {
-  "timestamp": "2025-12-09T22:05:17.519Z",
+  "timestamp": "2025-12-10T00:05:26.079Z",
   "states": [
     {
       "name": "Maryland",
       "code": "MD",
-      "topTopic": "dicks sporting good",
+      "topTopic": "kentucky state university",
       "category": "Law and Government",
-      "trendingScore": 95,
+      "trendingScore": 100,
       "topics": [
+        {
+          "name": "kentucky state university",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "40 minutes ago",
+          "percentageIncrease": "1000%"
+        },
         {
           "name": "dicks sporting good",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "8h ago",
+          "started": "10h ago",
           "percentageIncrease": "300%"
         }
       ]

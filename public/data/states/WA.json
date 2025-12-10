@@ -1,20 +1,28 @@
 {
-  "timestamp": "2025-12-09T22:05:17.519Z",
+  "timestamp": "2025-12-10T00:05:26.079Z",
   "states": [
     {
       "name": "Washington",
       "code": "WA",
-      "topTopic": "benin coup attempt",
+      "topTopic": "dicks sporting good",
       "category": "Law and Government",
-      "trendingScore": 100,
+      "trendingScore": 95,
       "topics": [
         {
-          "name": "benin coup attempt",
-          "relevanceScore": 100,
+          "name": "dicks sporting good",
+          "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "21h ago",
-          "percentageIncrease": "800%"
+          "started": "1h ago",
+          "percentageIncrease": "300%"
+        },
+        {
+          "name": "kiro",
+          "relevanceScore": 90,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "11h ago",
+          "percentageIncrease": "100%"
         }
       ]
     }
