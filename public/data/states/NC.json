@@ -1,27 +1,19 @@
 {
-  "timestamp": "2025-12-10T14:05:47.924Z",
+  "timestamp": "2025-12-10T16:05:06.352Z",
   "states": [
     {
       "name": "North Carolina",
       "code": "NC",
-      "topTopic": "nobel prizes",
+      "topTopic": "kentucky state university",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
-        {
-          "name": "nobel prizes",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "30 minutes ago",
-          "percentageIncrease": "600%"
-        },
         {
           "name": "kentucky state university",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "15h ago",
+          "started": "17h ago",
           "percentageIncrease": "900%"
         },
         {
@@ -29,7 +21,7 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "2K+",
-          "started": "21h ago",
+          "started": "23h ago",
           "percentageIncrease": "300%"
         }
       ]

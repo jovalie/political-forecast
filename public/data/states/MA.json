@@ -1,27 +1,27 @@
 {
-  "timestamp": "2025-12-10T14:05:47.924Z",
+  "timestamp": "2025-12-10T16:05:06.352Z",
   "states": [
     {
       "name": "Massachusetts",
       "code": "MA",
-      "topTopic": "dicks sporting good",
+      "topTopic": "nobel prizes",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
         {
-          "name": "dicks sporting good",
+          "name": "nobel prizes",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "2K+",
-          "started": "23h ago",
-          "percentageIncrease": "500%"
+          "searchVolume": "500+",
+          "started": "3h ago",
+          "percentageIncrease": "800%"
         },
         {
           "name": "luigi mangione",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "9h ago",
+          "started": "11h ago",
           "percentageIncrease": "200%"
         }
       ]
