@@ -1,19 +1,27 @@
 {
-  "timestamp": "2025-12-10T18:05:00.331Z",
+  "timestamp": "2025-12-10T20:04:48.044Z",
   "states": [
     {
       "name": "Michigan",
       "code": "MI",
-      "topTopic": "kentucky state university",
+      "topTopic": "calibri font",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
+        {
+          "name": "calibri font",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "1h ago",
+          "percentageIncrease": "600%"
+        },
         {
           "name": "kentucky state university",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "19h ago",
+          "started": "21h ago",
           "trendBreakdown": "abc",
           "percentageIncrease": "1000%"
         },
@@ -22,7 +30,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "16h ago",
+          "started": "18h ago",
           "percentageIncrease": "800%"
         },
         {
@@ -30,8 +38,16 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "16h ago",
+          "started": "18h ago",
           "percentageIncrease": "1000%"
+        },
+        {
+          "name": "wzzm",
+          "relevanceScore": 90,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "10h ago",
+          "percentageIncrease": "100%"
         }
       ]
     }

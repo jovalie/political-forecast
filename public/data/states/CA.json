@@ -1,19 +1,27 @@
 {
-  "timestamp": "2025-12-10T18:05:00.331Z",
+  "timestamp": "2025-12-10T20:04:48.044Z",
   "states": [
     {
       "name": "California",
       "code": "CA",
-      "topTopic": "nobel prizes",
+      "topTopic": "san ysidro high school",
       "category": "Law and Government",
-      "trendingScore": 95,
+      "trendingScore": 100,
       "topics": [
+        {
+          "name": "san ysidro high school",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "2h ago",
+          "percentageIncrease": "1000%"
+        },
         {
           "name": "nobel prizes",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "4h ago",
+          "started": "6h ago",
           "trendBreakdown": "maria",
           "percentageIncrease": "300%"
         },
@@ -22,7 +30,7 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "2K+",
-          "started": "20h ago",
+          "started": "22h ago",
           "trendBreakdown": "kentucky",
           "percentageIncrease": "300%"
         },
@@ -31,7 +39,7 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "15h ago",
+          "started": "17h ago",
           "percentageIncrease": "200%"
         },
         {
@@ -39,7 +47,7 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "17h ago",
+          "started": "19h ago",
           "trendBreakdown": "child",
           "percentageIncrease": "200%"
         },
@@ -48,7 +56,7 @@
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "19h ago",
+          "started": "21h ago",
           "percentageIncrease": "100%"
         }
       ]

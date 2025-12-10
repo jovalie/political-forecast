@@ -1,36 +1,52 @@
 {
-  "timestamp": "2025-12-10T18:05:00.331Z",
+  "timestamp": "2025-12-10T20:04:48.044Z",
   "states": [
     {
       "name": "New York",
       "code": "NY",
-      "topTopic": "nobel prizes",
+      "topTopic": "kentucky state university",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
-        {
-          "name": "nobel prizes",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "6h ago",
-          "trendBreakdown": "corina",
-          "percentageIncrease": "500%"
-        },
         {
           "name": "kentucky state university",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "20h ago",
+          "started": "22h ago",
           "percentageIncrease": "500%"
+        },
+        {
+          "name": "nobel prizes",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "1K+",
+          "started": "8h ago",
+          "trendBreakdown": "corina",
+          "percentageIncrease": "400%"
+        },
+        {
+          "name": "wktv",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "9h ago",
+          "percentageIncrease": "200%"
+        },
+        {
+          "name": "wktv weather",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "9h ago",
+          "percentageIncrease": "200%"
         },
         {
           "name": "news channel",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "8h ago",
+          "started": "10h ago",
           "percentageIncrease": "400%"
         },
         {
@@ -38,7 +54,7 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "18h ago",
+          "started": "20h ago",
           "percentageIncrease": "200%"
         },
         {
@@ -46,7 +62,7 @@
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "19h ago",
+          "started": "21h ago",
           "percentageIncrease": "100%"
         },
         {
@@ -54,7 +70,7 @@
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "15h ago",
+          "started": "17h ago",
           "percentageIncrease": "100%"
         }
       ]

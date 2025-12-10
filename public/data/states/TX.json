@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-12-10T18:05:00.331Z",
+  "timestamp": "2025-12-10T20:04:48.044Z",
   "states": [
     {
       "name": "Texas",
@@ -13,7 +13,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "2K+",
-          "started": "20h ago",
+          "started": "22h ago",
           "trendBreakdown": "kentucky",
           "percentageIncrease": "500%"
         },
@@ -22,17 +22,25 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "16h ago",
+          "started": "18h ago",
           "trendBreakdown": "child",
           "percentageIncrease": "1000%"
+        },
+        {
+          "name": "calibri font",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "2h ago",
+          "percentageIncrease": "400%"
         },
         {
           "name": "nobel prizes",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "4h ago",
-          "trendBreakdown": "corina",
+          "started": "6h ago",
+          "trendBreakdown": "maria",
           "percentageIncrease": "300%"
         },
         {
@@ -40,7 +48,7 @@
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "15h ago",
+          "started": "17h ago",
           "percentageIncrease": "100%"
         }
       ]
