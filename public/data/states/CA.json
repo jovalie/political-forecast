@@ -1,44 +1,36 @@
 {
-  "timestamp": "2025-12-10T08:04:47.203Z",
+  "timestamp": "2025-12-10T10:04:51.213Z",
   "states": [
     {
       "name": "California",
       "code": "CA",
       "topTopic": "dicks sporting good",
       "category": "Law and Government",
-      "trendingScore": 100,
+      "trendingScore": 95,
       "topics": [
         {
           "name": "dicks sporting good",
-          "relevanceScore": 100,
+          "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "5K+",
-          "started": "15h ago",
-          "percentageIncrease": "500%"
+          "started": "17h ago",
+          "percentageIncrease": "400%"
         },
         {
           "name": "kentucky state university",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "2K+",
-          "started": "10h ago",
+          "started": "12h ago",
           "trendBreakdown": "kentucky",
           "percentageIncrease": "400%"
-        },
-        {
-          "name": "dwight powell",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "9h ago",
-          "percentageIncrease": "300%"
         },
         {
           "name": "luigi mangione",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "5h ago",
+          "started": "7h ago",
           "percentageIncrease": "200%"
         },
         {
@@ -46,7 +38,7 @@
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "9h ago",
+          "started": "11h ago",
           "percentageIncrease": "100%"
         }
       ]
