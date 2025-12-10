@@ -1,27 +1,43 @@
 {
-  "timestamp": "2025-12-10T20:04:48.044Z",
+  "timestamp": "2025-12-10T22:04:41.668Z",
   "states": [
     {
       "name": "New Jersey",
       "code": "NJ",
-      "topTopic": "kentucky state university",
+      "topTopic": "chief justice roberts",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
+        {
+          "name": "chief justice roberts",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "50 minutes ago",
+          "percentageIncrease": "1000%"
+        },
         {
           "name": "kentucky state university",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "20h ago",
+          "started": "22h ago",
           "percentageIncrease": "800%"
+        },
+        {
+          "name": "calibri font",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "2h ago",
+          "percentageIncrease": "400%"
         },
         {
           "name": "luigi mangione",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "20h ago",
+          "started": "22h ago",
           "percentageIncrease": "200%"
         }
       ]

@@ -1,27 +1,43 @@
 {
-  "timestamp": "2025-12-10T20:04:48.044Z",
+  "timestamp": "2025-12-10T22:04:41.668Z",
   "states": [
     {
       "name": "Massachusetts",
       "code": "MA",
-      "topTopic": "nobel prizes",
+      "topTopic": "chief justice roberts",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
+        {
+          "name": "chief justice roberts",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "30 minutes ago",
+          "percentageIncrease": "1000%"
+        },
         {
           "name": "nobel prizes",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "7h ago",
+          "started": "9h ago",
           "percentageIncrease": "800%"
+        },
+        {
+          "name": "calibri font",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "3h ago",
+          "percentageIncrease": "500%"
         },
         {
           "name": "luigi mangione",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "15h ago",
+          "started": "17h ago",
           "percentageIncrease": "200%"
         }
       ]

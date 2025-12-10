@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-12-10T20:04:48.044Z",
+  "timestamp": "2025-12-10T22:04:41.668Z",
   "states": [
     {
       "name": "California",
@@ -12,34 +12,42 @@
           "name": "san ysidro high school",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "2h ago",
-          "percentageIncrease": "1000%"
+          "searchVolume": "1K+",
+          "started": "4h ago",
+          "percentageIncrease": "900%"
         },
         {
           "name": "nobel prizes",
           "relevanceScore": 95,
           "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "6h ago",
+          "searchVolume": "2K+",
+          "started": "8h ago",
           "trendBreakdown": "maria",
           "percentageIncrease": "300%"
         },
         {
-          "name": "kentucky state university",
+          "name": "oil tanker",
           "relevanceScore": 95,
           "category": "Law and Government",
-          "searchVolume": "2K+",
-          "started": "22h ago",
-          "trendBreakdown": "kentucky",
+          "searchVolume": "100+",
+          "started": "30 minutes ago",
           "percentageIncrease": "300%"
+        },
+        {
+          "name": "kentucky state",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "1K+",
+          "started": "23h ago",
+          "trendBreakdown": "shootingkentucky",
+          "percentageIncrease": "200%"
         },
         {
           "name": "luigi mangione",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "17h ago",
+          "started": "19h ago",
           "percentageIncrease": "200%"
         },
         {
@@ -47,7 +55,7 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "19h ago",
+          "started": "21h ago",
           "trendBreakdown": "child",
           "percentageIncrease": "200%"
         },
@@ -56,7 +64,7 @@
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "21h ago",
+          "started": "23h ago",
           "percentageIncrease": "100%"
         }
       ]
@@ -81,25 +89,24 @@
     {
       "name": "Florida",
       "code": "FL",
-      "topTopic": "kentucky state university",
+      "topTopic": "chief justice roberts",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
         {
-          "name": "kentucky state university",
+          "name": "chief justice roberts",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "2K+",
-          "started": "22h ago",
-          "trendBreakdown": "statekentucky",
-          "percentageIncrease": "700%"
+          "searchVolume": "500+",
+          "started": "1h ago",
+          "percentageIncrease": "900%"
         },
         {
           "name": "truck accident lawyer",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "5h ago",
+          "started": "7h ago",
           "percentageIncrease": "600%"
         },
         {
@@ -107,7 +114,7 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "2K+",
-          "started": "9h ago",
+          "started": "11h ago",
           "trendBreakdown": "nobel",
           "percentageIncrease": "400%"
         },
@@ -116,7 +123,7 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "20h ago",
+          "started": "22h ago",
           "percentageIncrease": "200%"
         },
         {
@@ -124,16 +131,83 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "15h ago",
+          "started": "17h ago",
           "percentageIncrease": "300%"
+        },
+        {
+          "name": "kentucky",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "21h ago",
+          "percentageIncrease": "400%"
         },
         {
           "name": "maria corina machado hoy",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "7h ago",
+          "started": "9h ago",
           "percentageIncrease": "200%"
+        },
+        {
+          "name": "ilhan omar",
+          "relevanceScore": 90,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "10h ago",
+          "percentageIncrease": "100%"
+        }
+      ]
+    },
+    {
+      "name": "Georgia",
+      "code": "GA",
+      "topTopic": "chief justice roberts",
+      "category": "Law and Government",
+      "trendingScore": 100,
+      "topics": [
+        {
+          "name": "chief justice roberts",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "30 minutes ago",
+          "percentageIncrease": "1000%"
+        }
+      ]
+    },
+    {
+      "name": "Illinois",
+      "code": "IL",
+      "topTopic": "nobel prizes",
+      "category": "Law and Government",
+      "trendingScore": 100,
+      "topics": [
+        {
+          "name": "nobel prizes",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "9h ago",
+          "percentageIncrease": "500%"
+        },
+        {
+          "name": "childcare",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "21h ago",
+          "trendBreakdown": "child",
+          "percentageIncrease": "1000%"
+        },
+        {
+          "name": "kentucky",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "20h ago",
+          "percentageIncrease": "600%"
         },
         {
           "name": "ilhan omar",
@@ -146,8 +220,8 @@
       ]
     },
     {
-      "name": "Georgia",
-      "code": "GA",
+      "name": "Indiana",
+      "code": "IN",
       "topTopic": "calibri font",
       "category": "Law and Government",
       "trendingScore": 100,
@@ -157,83 +231,8 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "1h ago",
-          "percentageIncrease": "700%"
-        },
-        {
-          "name": "kentucky state university",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "2K+",
-          "started": "22h ago",
-          "percentageIncrease": "1000%"
-        },
-        {
-          "name": "dicks sporting good",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "2K+",
-          "started": "23h ago",
-          "percentageIncrease": "200%"
-        }
-      ]
-    },
-    {
-      "name": "Illinois",
-      "code": "IL",
-      "topTopic": "kentucky state university",
-      "category": "Law and Government",
-      "trendingScore": 100,
-      "topics": [
-        {
-          "name": "kentucky state university",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "2K+",
-          "started": "22h ago",
-          "percentageIncrease": "900%"
-        },
-        {
-          "name": "nobel prizes",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "7h ago",
-          "percentageIncrease": "500%"
-        },
-        {
-          "name": "childcare",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "19h ago",
-          "trendBreakdown": "child",
-          "percentageIncrease": "1000%"
-        },
-        {
-          "name": "ilhan omar",
-          "relevanceScore": 90,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "6h ago",
-          "percentageIncrease": "100%"
-        }
-      ]
-    },
-    {
-      "name": "Indiana",
-      "code": "IN",
-      "topTopic": "kentucky state university",
-      "category": "Law and Government",
-      "trendingScore": 100,
-      "topics": [
-        {
-          "name": "kentucky state university",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "2K+",
-          "started": "22h ago",
-          "percentageIncrease": "1000%"
+          "started": "3h ago",
+          "percentageIncrease": "800%"
         }
       ]
     },
@@ -249,7 +248,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "17h ago",
+          "started": "19h ago",
           "percentageIncrease": "1000%"
         }
       ]
@@ -257,24 +256,24 @@
     {
       "name": "Michigan",
       "code": "MI",
-      "topTopic": "calibri font",
+      "topTopic": "chief justice roberts",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
         {
-          "name": "calibri font",
+          "name": "chief justice roberts",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "1h ago",
-          "percentageIncrease": "600%"
+          "started": "10 minutes ago",
+          "percentageIncrease": "900%"
         },
         {
           "name": "kentucky state university",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "21h ago",
+          "started": "23h ago",
           "trendBreakdown": "abc",
           "percentageIncrease": "1000%"
         },
@@ -283,7 +282,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "18h ago",
+          "started": "20h ago",
           "percentageIncrease": "800%"
         },
         {
@@ -291,40 +290,48 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "18h ago",
+          "started": "20h ago",
           "percentageIncrease": "1000%"
-        },
-        {
-          "name": "wzzm",
-          "relevanceScore": 90,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "10h ago",
-          "percentageIncrease": "100%"
         }
       ]
     },
     {
       "name": "Massachusetts",
       "code": "MA",
-      "topTopic": "nobel prizes",
+      "topTopic": "chief justice roberts",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
+        {
+          "name": "chief justice roberts",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "30 minutes ago",
+          "percentageIncrease": "1000%"
+        },
         {
           "name": "nobel prizes",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "7h ago",
+          "started": "9h ago",
           "percentageIncrease": "800%"
+        },
+        {
+          "name": "calibri font",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "3h ago",
+          "percentageIncrease": "500%"
         },
         {
           "name": "luigi mangione",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "15h ago",
+          "started": "17h ago",
           "percentageIncrease": "200%"
         }
       ]
@@ -349,24 +356,40 @@
     {
       "name": "New Jersey",
       "code": "NJ",
-      "topTopic": "kentucky state university",
+      "topTopic": "chief justice roberts",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
+        {
+          "name": "chief justice roberts",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "50 minutes ago",
+          "percentageIncrease": "1000%"
+        },
         {
           "name": "kentucky state university",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "20h ago",
+          "started": "22h ago",
           "percentageIncrease": "800%"
+        },
+        {
+          "name": "calibri font",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "2h ago",
+          "percentageIncrease": "400%"
         },
         {
           "name": "luigi mangione",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "20h ago",
+          "started": "22h ago",
           "percentageIncrease": "200%"
         }
       ]
@@ -374,16 +397,24 @@
     {
       "name": "North Carolina",
       "code": "NC",
-      "topTopic": "kentucky state university",
+      "topTopic": "chief justice roberts",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
+        {
+          "name": "chief justice roberts",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "30 minutes ago",
+          "percentageIncrease": "800%"
+        },
         {
           "name": "kentucky state university",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "21h ago",
+          "started": "23h ago",
           "percentageIncrease": "1000%"
         }
       ]
@@ -391,41 +422,33 @@
     {
       "name": "New York",
       "code": "NY",
-      "topTopic": "kentucky state university",
+      "topTopic": "chief justice roberts",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
         {
-          "name": "kentucky state university",
+          "name": "chief justice roberts",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "22h ago",
-          "percentageIncrease": "500%"
+          "searchVolume": "500+",
+          "started": "1h ago",
+          "percentageIncrease": "1000%"
         },
         {
           "name": "nobel prizes",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "8h ago",
-          "trendBreakdown": "corina",
+          "started": "10h ago",
+          "trendBreakdown": "maria",
           "percentageIncrease": "400%"
-        },
-        {
-          "name": "wktv",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "9h ago",
-          "percentageIncrease": "200%"
         },
         {
           "name": "wktv weather",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "9h ago",
+          "started": "11h ago",
           "percentageIncrease": "200%"
         },
         {
@@ -433,15 +456,24 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "10h ago",
+          "started": "12h ago",
           "percentageIncrease": "400%"
+        },
+        {
+          "name": "donald trump",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "11h ago",
+          "trendBreakdown": "abc",
+          "percentageIncrease": "200%"
         },
         {
           "name": "kathryn garcia",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "20h ago",
+          "started": "22h ago",
           "percentageIncrease": "200%"
         },
         {
@@ -449,7 +481,7 @@
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "21h ago",
+          "started": "23h ago",
           "percentageIncrease": "100%"
         },
         {
@@ -457,7 +489,7 @@
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "17h ago",
+          "started": "19h ago",
           "percentageIncrease": "100%"
         }
       ]
@@ -465,25 +497,24 @@
     {
       "name": "Ohio",
       "code": "OH",
-      "topTopic": "kentucky state university",
+      "topTopic": "kentucky",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
         {
-          "name": "kentucky state university",
+          "name": "kentucky",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "2K+",
-          "started": "22h ago",
-          "trendBreakdown": "statekentucky",
-          "percentageIncrease": "1000%"
+          "searchVolume": "500+",
+          "started": "21h ago",
+          "percentageIncrease": "500%"
         },
         {
           "name": "child care",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "18h ago",
+          "started": "20h ago",
           "percentageIncrease": "1000%"
         },
         {
@@ -491,7 +522,7 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "8h ago",
+          "started": "10h ago",
           "percentageIncrease": "300%"
         }
       ]
@@ -516,16 +547,32 @@
     {
       "name": "Pennsylvania",
       "code": "PA",
-      "topTopic": "nobel prizes",
+      "topTopic": "calibri font",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
+        {
+          "name": "calibri font",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "4h ago",
+          "percentageIncrease": "600%"
+        },
+        {
+          "name": "chief justice roberts",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "50 minutes ago",
+          "percentageIncrease": "1000%"
+        },
         {
           "name": "nobel prizes",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "7h ago",
+          "started": "9h ago",
           "percentageIncrease": "600%"
         },
         {
@@ -533,7 +580,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "21h ago",
+          "started": "23h ago",
           "trendBreakdown": "statekentucky",
           "percentageIncrease": "800%"
         },
@@ -542,7 +589,7 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "16h ago",
+          "started": "18h ago",
           "percentageIncrease": "300%"
         }
       ]
@@ -567,40 +614,32 @@
     {
       "name": "Tennessee",
       "code": "TN",
-      "topTopic": "calibri font",
+      "topTopic": "dicks sporting good",
       "category": "Law and Government",
-      "trendingScore": 100,
+      "trendingScore": 95,
       "topics": [
-        {
-          "name": "calibri font",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "1h ago",
-          "percentageIncrease": "800%"
-        },
-        {
-          "name": "kentucky state university",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "22h ago",
-          "percentageIncrease": "1000%"
-        },
         {
           "name": "dicks sporting good",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "20h ago",
+          "started": "22h ago",
           "percentageIncrease": "200%"
+        },
+        {
+          "name": "kentucky",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "19h ago",
+          "percentageIncrease": "400%"
         },
         {
           "name": "luigi mangione",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "19h ago",
+          "started": "21h ago",
           "percentageIncrease": "400%"
         }
       ]
@@ -608,25 +647,16 @@
     {
       "name": "Texas",
       "code": "TX",
-      "topTopic": "kentucky state university",
+      "topTopic": "childcare",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
-        {
-          "name": "kentucky state university",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "2K+",
-          "started": "22h ago",
-          "trendBreakdown": "kentucky",
-          "percentageIncrease": "500%"
-        },
         {
           "name": "childcare",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "18h ago",
+          "started": "20h ago",
           "trendBreakdown": "child",
           "percentageIncrease": "1000%"
         },
@@ -635,16 +665,24 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "2h ago",
-          "percentageIncrease": "400%"
+          "started": "4h ago",
+          "percentageIncrease": "300%"
         },
         {
           "name": "nobel prizes",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "6h ago",
+          "started": "8h ago",
           "trendBreakdown": "maria",
+          "percentageIncrease": "300%"
+        },
+        {
+          "name": "kentucky state",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "22h ago",
           "percentageIncrease": "300%"
         },
         {
@@ -652,7 +690,7 @@
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "17h ago",
+          "started": "19h ago",
           "percentageIncrease": "100%"
         }
       ]
@@ -660,49 +698,32 @@
     {
       "name": "Virginia",
       "code": "VA",
-      "topTopic": "kentucky state university",
+      "topTopic": "chief justice roberts",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
+        {
+          "name": "chief justice roberts",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "30 minutes ago",
+          "percentageIncrease": "1000%"
+        },
         {
           "name": "kentucky state university",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "21h ago",
+          "started": "23h ago",
           "percentageIncrease": "1000%"
         },
         {
-          "name": "luigi mangione",
+          "name": "venezuela",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "17h ago",
-          "percentageIncrease": "300%"
-        }
-      ]
-    },
-    {
-      "name": "District of Columbia",
-      "code": "DC",
-      "topTopic": "kentucky state university",
-      "category": "Law and Government",
-      "trendingScore": 100,
-      "topics": [
-        {
-          "name": "kentucky state university",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "21h ago",
-          "percentageIncrease": "900%"
-        },
-        {
-          "name": "catherine hoggle",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "21h ago",
+          "started": "30 minutes ago",
           "percentageIncrease": "400%"
         },
         {
@@ -711,6 +732,63 @@
           "category": "Law and Government",
           "searchVolume": "100+",
           "started": "19h ago",
+          "percentageIncrease": "300%"
+        }
+      ]
+    },
+    {
+      "name": "District of Columbia",
+      "code": "DC",
+      "topTopic": "chief justice roberts",
+      "category": "Law and Government",
+      "trendingScore": 100,
+      "topics": [
+        {
+          "name": "chief justice roberts",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "30 minutes ago",
+          "percentageIncrease": "1000%"
+        },
+        {
+          "name": "venezuela",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "1h ago",
+          "percentageIncrease": "500%"
+        },
+        {
+          "name": "kentucky state university",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "23h ago",
+          "percentageIncrease": "900%"
+        },
+        {
+          "name": "jen shah",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "4h ago",
+          "percentageIncrease": "500%"
+        },
+        {
+          "name": "ndaa",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "2h ago",
+          "percentageIncrease": "300%"
+        },
+        {
+          "name": "luigi mangione",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "21h ago",
           "percentageIncrease": "200%"
         }
       ]
@@ -761,15 +839,7 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "21h ago",
-          "percentageIncrease": "400%"
-        },
-        {
-          "name": "calibri font",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "2h ago",
+          "started": "23h ago",
           "percentageIncrease": "300%"
         }
       ]
@@ -786,7 +856,7 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "19h ago",
+          "started": "21h ago",
           "percentageIncrease": "200%"
         }
       ]
@@ -820,7 +890,7 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "50 minutes ago",
+          "started": "2h ago",
           "percentageIncrease": "200%"
         }
       ]
@@ -837,7 +907,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "19h ago",
+          "started": "21h ago",
           "percentageIncrease": "800%"
         },
         {
@@ -845,15 +915,15 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "19h ago",
-          "percentageIncrease": "200%"
+          "started": "21h ago",
+          "percentageIncrease": "300%"
         },
         {
           "name": "calibri font",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "1h ago",
+          "started": "3h ago",
           "percentageIncrease": "200%"
         }
       ]
@@ -887,7 +957,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "19h ago",
+          "started": "21h ago",
           "percentageIncrease": "1000%"
         }
       ]
@@ -904,7 +974,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "19h ago",
+          "started": "21h ago",
           "percentageIncrease": "1000%"
         },
         {
@@ -912,7 +982,7 @@
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "10h ago",
+          "started": "12h ago",
           "percentageIncrease": "100%"
         }
       ]
@@ -972,7 +1042,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "18h ago",
+          "started": "20h ago",
           "percentageIncrease": "500%"
         },
         {
@@ -980,7 +1050,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "20h ago",
+          "started": "22h ago",
           "percentageIncrease": "800%"
         },
         {
@@ -988,7 +1058,7 @@
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "8h ago",
+          "started": "10h ago",
           "percentageIncrease": "100%"
         }
       ]
@@ -1013,26 +1083,18 @@
     {
       "name": "Kentucky",
       "code": "KY",
-      "topTopic": "kentucky state university",
+      "topTopic": "kentucky state",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
         {
-          "name": "kentucky state university",
+          "name": "kentucky state",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "10K+",
+          "searchVolume": "1K+",
           "started": "23h ago",
-          "trendBreakdown": "statekentucky",
+          "trendBreakdown": "shootinguk",
           "percentageIncrease": "1000%"
-        },
-        {
-          "name": "dicks sporting good",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "23h ago",
-          "percentageIncrease": "400%"
         }
       ]
     },

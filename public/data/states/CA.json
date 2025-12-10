@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-12-10T20:04:48.044Z",
+  "timestamp": "2025-12-10T22:04:41.668Z",
   "states": [
     {
       "name": "California",
@@ -12,34 +12,42 @@
           "name": "san ysidro high school",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "2h ago",
-          "percentageIncrease": "1000%"
+          "searchVolume": "1K+",
+          "started": "4h ago",
+          "percentageIncrease": "900%"
         },
         {
           "name": "nobel prizes",
           "relevanceScore": 95,
           "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "6h ago",
+          "searchVolume": "2K+",
+          "started": "8h ago",
           "trendBreakdown": "maria",
           "percentageIncrease": "300%"
         },
         {
-          "name": "kentucky state university",
+          "name": "oil tanker",
           "relevanceScore": 95,
           "category": "Law and Government",
-          "searchVolume": "2K+",
-          "started": "22h ago",
-          "trendBreakdown": "kentucky",
+          "searchVolume": "100+",
+          "started": "30 minutes ago",
           "percentageIncrease": "300%"
+        },
+        {
+          "name": "kentucky state",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "1K+",
+          "started": "23h ago",
+          "trendBreakdown": "shootingkentucky",
+          "percentageIncrease": "200%"
         },
         {
           "name": "luigi mangione",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "17h ago",
+          "started": "19h ago",
           "percentageIncrease": "200%"
         },
         {
@@ -47,7 +55,7 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "19h ago",
+          "started": "21h ago",
           "trendBreakdown": "child",
           "percentageIncrease": "200%"
         },
@@ -56,7 +64,7 @@
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "21h ago",
+          "started": "23h ago",
           "percentageIncrease": "100%"
         }
       ]

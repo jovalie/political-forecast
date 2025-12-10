@@ -1,28 +1,27 @@
 {
-  "timestamp": "2025-12-10T20:04:48.044Z",
+  "timestamp": "2025-12-10T22:04:41.668Z",
   "states": [
     {
       "name": "Ohio",
       "code": "OH",
-      "topTopic": "kentucky state university",
+      "topTopic": "kentucky",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
         {
-          "name": "kentucky state university",
+          "name": "kentucky",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "2K+",
-          "started": "22h ago",
-          "trendBreakdown": "statekentucky",
-          "percentageIncrease": "1000%"
+          "searchVolume": "500+",
+          "started": "21h ago",
+          "percentageIncrease": "500%"
         },
         {
           "name": "child care",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "18h ago",
+          "started": "20h ago",
           "percentageIncrease": "1000%"
         },
         {
@@ -30,7 +29,7 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "8h ago",
+          "started": "10h ago",
           "percentageIncrease": "300%"
         }
       ]

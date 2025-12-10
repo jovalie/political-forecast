@@ -1,29 +1,21 @@
 {
-  "timestamp": "2025-12-10T20:04:48.044Z",
+  "timestamp": "2025-12-10T22:04:41.668Z",
   "states": [
     {
       "name": "Kentucky",
       "code": "KY",
-      "topTopic": "kentucky state university",
+      "topTopic": "kentucky state",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
         {
-          "name": "kentucky state university",
+          "name": "kentucky state",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "10K+",
+          "searchVolume": "1K+",
           "started": "23h ago",
-          "trendBreakdown": "statekentucky",
+          "trendBreakdown": "shootinguk",
           "percentageIncrease": "1000%"
-        },
-        {
-          "name": "dicks sporting good",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "23h ago",
-          "percentageIncrease": "400%"
         }
       ]
     }
