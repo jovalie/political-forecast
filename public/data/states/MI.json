@@ -1,27 +1,36 @@
 {
-  "timestamp": "2025-12-10T16:05:06.352Z",
+  "timestamp": "2025-12-10T18:05:00.331Z",
   "states": [
     {
       "name": "Michigan",
       "code": "MI",
-      "topTopic": "pccs",
+      "topTopic": "kentucky state university",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
-        {
-          "name": "pccs",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "14h ago",
-          "percentageIncrease": "800%"
-        },
         {
           "name": "kentucky state university",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "17h ago",
+          "started": "19h ago",
+          "trendBreakdown": "abc",
+          "percentageIncrease": "1000%"
+        },
+        {
+          "name": "pccs",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "16h ago",
+          "percentageIncrease": "800%"
+        },
+        {
+          "name": "child care",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "16h ago",
           "percentageIncrease": "1000%"
         }
       ]

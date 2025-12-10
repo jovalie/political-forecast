@@ -1,19 +1,27 @@
 {
-  "timestamp": "2025-12-10T16:05:06.352Z",
+  "timestamp": "2025-12-10T18:05:00.331Z",
   "states": [
     {
       "name": "Wisconsin",
       "code": "WI",
-      "topTopic": "kentucky state university",
+      "topTopic": "weau school closings",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
+        {
+          "name": "weau school closings",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "1K+",
+          "started": "16h ago",
+          "percentageIncrease": "500%"
+        },
         {
           "name": "kentucky state university",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "16h ago",
+          "started": "18h ago",
           "percentageIncrease": "800%"
         },
         {
@@ -21,8 +29,16 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "21h ago",
+          "started": "23h ago",
           "percentageIncrease": "400%"
+        },
+        {
+          "name": "fox",
+          "relevanceScore": 90,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "6h ago",
+          "percentageIncrease": "100%"
         }
       ]
     }

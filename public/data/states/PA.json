@@ -1,27 +1,27 @@
 {
-  "timestamp": "2025-12-10T16:05:06.352Z",
+  "timestamp": "2025-12-10T18:05:00.331Z",
   "states": [
     {
       "name": "Pennsylvania",
       "code": "PA",
-      "topTopic": "wnep closings",
+      "topTopic": "nobel prizes",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
         {
-          "name": "wnep closings",
+          "name": "nobel prizes",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "2K+",
-          "started": "17h ago",
-          "percentageIncrease": "700%"
+          "searchVolume": "500+",
+          "started": "5h ago",
+          "percentageIncrease": "600%"
         },
         {
           "name": "kentucky state university",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "17h ago",
+          "started": "19h ago",
           "trendBreakdown": "statekentucky",
           "percentageIncrease": "800%"
         },
@@ -30,8 +30,16 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "12h ago",
+          "started": "14h ago",
           "percentageIncrease": "300%"
+        },
+        {
+          "name": "wnep",
+          "relevanceScore": 90,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "7h ago",
+          "percentageIncrease": "100%"
         }
       ]
     }

@@ -1,19 +1,27 @@
 {
-  "timestamp": "2025-12-10T16:05:06.352Z",
+  "timestamp": "2025-12-10T18:05:00.331Z",
   "states": [
     {
       "name": "Washington",
       "code": "WA",
-      "topTopic": "dicks sporting good",
+      "topTopic": "nobel prizes",
       "category": "Law and Government",
-      "trendingScore": 95,
+      "trendingScore": 100,
       "topics": [
+        {
+          "name": "nobel prizes",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "2h ago",
+          "percentageIncrease": "600%"
+        },
         {
           "name": "dicks sporting good",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "17h ago",
+          "started": "19h ago",
           "percentageIncrease": "300%"
         }
       ]

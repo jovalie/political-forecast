@@ -1,36 +1,28 @@
 {
-  "timestamp": "2025-12-10T16:05:06.352Z",
+  "timestamp": "2025-12-10T18:05:00.331Z",
   "states": [
     {
       "name": "California",
       "code": "CA",
-      "topTopic": "dicks sporting good",
+      "topTopic": "nobel prizes",
       "category": "Law and Government",
       "trendingScore": 95,
       "topics": [
         {
-          "name": "dicks sporting good",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "5K+",
-          "started": "23h ago",
-          "percentageIncrease": "400%"
-        },
-        {
           "name": "nobel prizes",
           "relevanceScore": 95,
           "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "2h ago",
+          "searchVolume": "1K+",
+          "started": "4h ago",
           "trendBreakdown": "maria",
-          "percentageIncrease": "200%"
+          "percentageIncrease": "300%"
         },
         {
           "name": "kentucky state university",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "2K+",
-          "started": "18h ago",
+          "started": "20h ago",
           "trendBreakdown": "kentucky",
           "percentageIncrease": "300%"
         },
@@ -39,7 +31,16 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "13h ago",
+          "started": "15h ago",
+          "percentageIncrease": "200%"
+        },
+        {
+          "name": "childcare",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "1K+",
+          "started": "17h ago",
+          "trendBreakdown": "child",
           "percentageIncrease": "200%"
         },
         {
@@ -47,15 +48,7 @@
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "17h ago",
-          "percentageIncrease": "100%"
-        },
-        {
-          "name": "child care",
-          "relevanceScore": 90,
-          "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "14h ago",
+          "started": "19h ago",
           "percentageIncrease": "100%"
         }
       ]

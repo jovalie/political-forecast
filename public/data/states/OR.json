@@ -1,20 +1,20 @@
 {
-  "timestamp": "2025-12-10T16:05:06.352Z",
+  "timestamp": "2025-12-10T18:05:00.331Z",
   "states": [
     {
       "name": "Oregon",
       "code": "OR",
-      "topTopic": "cnn",
+      "topTopic": "dicks sporting good",
       "category": "Law and Government",
-      "trendingScore": 90,
+      "trendingScore": 95,
       "topics": [
         {
-          "name": "cnn",
-          "relevanceScore": 90,
+          "name": "dicks sporting good",
+          "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "2h ago",
-          "percentageIncrease": "100%"
+          "started": "15h ago",
+          "percentageIncrease": "200%"
         }
       ]
     }
