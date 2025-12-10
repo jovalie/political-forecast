@@ -1,19 +1,35 @@
 {
-  "timestamp": "2025-12-10T02:35:18.737Z",
+  "timestamp": "2025-12-10T04:12:23.785Z",
   "states": [
     {
       "name": "New Jersey",
       "code": "NJ",
-      "topTopic": "dicks sporting good",
+      "topTopic": "kentucky state university",
       "category": "Law and Government",
-      "trendingScore": 95,
+      "trendingScore": 100,
       "topics": [
+        {
+          "name": "kentucky state university",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "4h ago",
+          "percentageIncrease": "900%"
+        },
+        {
+          "name": "nancy mace",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "6h ago",
+          "percentageIncrease": "600%"
+        },
         {
           "name": "dicks sporting good",
           "relevanceScore": 95,
           "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "8h ago",
+          "searchVolume": "2K+",
+          "started": "10h ago",
           "trendBreakdown": "dicks",
           "percentageIncrease": "300%"
         }
