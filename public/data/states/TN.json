@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-12-10T00:05:26.079Z",
+  "timestamp": "2025-12-10T02:35:18.737Z",
   "states": [
     {
       "name": "Tennessee",
@@ -12,9 +12,17 @@
           "name": "kentucky state university",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "2h ago",
+          "searchVolume": "1K+",
+          "started": "4h ago",
           "percentageIncrease": "1000%"
+        },
+        {
+          "name": "luigi mangione",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "2h ago",
+          "percentageIncrease": "300%"
         }
       ]
     }

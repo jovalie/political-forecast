@@ -1,20 +1,20 @@
 {
-  "timestamp": "2025-12-10T00:05:26.079Z",
+  "timestamp": "2025-12-10T02:35:18.737Z",
   "states": [
     {
       "name": "Alabama",
       "code": "AL",
-      "topTopic": "kentucky state university",
+      "topTopic": "dicks sporting good",
       "category": "Law and Government",
-      "trendingScore": 100,
+      "trendingScore": 95,
       "topics": [
         {
-          "name": "kentucky state university",
-          "relevanceScore": 100,
+          "name": "dicks sporting good",
+          "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "50 minutes ago",
-          "percentageIncrease": "1000%"
+          "started": "1h ago",
+          "percentageIncrease": "200%"
         }
       ]
     }
