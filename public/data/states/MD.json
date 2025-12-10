@@ -1,19 +1,27 @@
 {
-  "timestamp": "2025-12-10T10:04:51.213Z",
+  "timestamp": "2025-12-10T12:04:59.629Z",
   "states": [
     {
       "name": "Maryland",
       "code": "MD",
-      "topTopic": "dicks sporting good",
+      "topTopic": "smokey robinson",
       "category": "Law and Government",
-      "trendingScore": 95,
+      "trendingScore": 100,
       "topics": [
+        {
+          "name": "smokey robinson",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "9h ago",
+          "percentageIncrease": "1000%"
+        },
         {
           "name": "dicks sporting good",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "20h ago",
+          "started": "22h ago",
           "percentageIncrease": "400%"
         }
       ]
