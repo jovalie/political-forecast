@@ -1,45 +1,45 @@
 {
-  "timestamp": "2025-12-10T04:12:23.785Z",
+  "timestamp": "2025-12-10T06:05:02.936Z",
   "states": [
     {
       "name": "Pennsylvania",
       "code": "PA",
-      "topTopic": "kentucky state university",
+      "topTopic": "wnep closings",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
+        {
+          "name": "wnep closings",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "1K+",
+          "started": "7h ago",
+          "percentageIncrease": "900%"
+        },
         {
           "name": "kentucky state university",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "6h ago",
+          "started": "7h ago",
           "trendBreakdown": "statekentucky",
-          "percentageIncrease": "1000%"
+          "percentageIncrease": "900%"
         },
         {
           "name": "dicks sporting good",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "2K+",
-          "started": "17h ago",
+          "started": "19h ago",
           "trendBreakdown": "dicks",
           "percentageIncrease": "400%"
-        },
-        {
-          "name": "ilhan omar",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "20 minutes ago",
-          "percentageIncrease": "200%"
         },
         {
           "name": "gracie mansion",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "16h ago",
+          "started": "17h ago",
           "percentageIncrease": "200%"
         }
       ]

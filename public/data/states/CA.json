@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-12-10T04:12:23.785Z",
+  "timestamp": "2025-12-10T06:05:02.936Z",
   "states": [
     {
       "name": "California",
@@ -13,15 +13,23 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "5K+",
-          "started": "11h ago",
+          "started": "13h ago",
           "percentageIncrease": "400%"
+        },
+        {
+          "name": "jesse butler",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "7h ago",
+          "percentageIncrease": "200%"
         },
         {
           "name": "kentucky state university",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "2K+",
-          "started": "6h ago",
+          "started": "8h ago",
           "trendBreakdown": "kentucky",
           "percentageIncrease": "400%"
         },
@@ -30,24 +38,8 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "1h ago",
+          "started": "3h ago",
           "percentageIncrease": "200%"
-        },
-        {
-          "name": "dwight powell",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "5h ago",
-          "percentageIncrease": "300%"
-        },
-        {
-          "name": "jesse butler",
-          "relevanceScore": 90,
-          "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "5h ago",
-          "percentageIncrease": "100%"
         }
       ]
     }

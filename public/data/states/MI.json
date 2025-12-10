@@ -1,19 +1,27 @@
 {
-  "timestamp": "2025-12-10T04:12:23.785Z",
+  "timestamp": "2025-12-10T06:05:02.936Z",
   "states": [
     {
       "name": "Michigan",
       "code": "MI",
-      "topTopic": "kentucky state university",
+      "topTopic": "wayne county school closings",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
+        {
+          "name": "wayne county school closings",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "4h ago",
+          "percentageIncrease": "900%"
+        },
         {
           "name": "kentucky state university",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "5h ago",
+          "started": "7h ago",
           "percentageIncrease": "1000%"
         },
         {
@@ -21,7 +29,7 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "2K+",
-          "started": "15h ago",
+          "started": "17h ago",
           "percentageIncrease": "300%"
         },
         {
@@ -29,7 +37,7 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "4h ago",
+          "started": "6h ago",
           "percentageIncrease": "300%"
         },
         {
@@ -37,7 +45,7 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "22h ago",
+          "started": "23h ago",
           "percentageIncrease": "200%"
         }
       ]
