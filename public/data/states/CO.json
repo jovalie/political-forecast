@@ -1,19 +1,27 @@
 {
-  "timestamp": "2025-12-11T14:06:01.329Z",
+  "timestamp": "2025-12-11T16:05:17.071Z",
   "states": [
     {
       "name": "Colorado",
       "code": "CO",
-      "topTopic": "calibri font",
+      "topTopic": "que",
       "category": "Law and Government",
-      "trendingScore": 90,
+      "trendingScore": 100,
       "topics": [
+        {
+          "name": "que",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "1K+",
+          "started": "3h ago",
+          "percentageIncrease": "1000%"
+        },
         {
           "name": "calibri font",
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "19h ago",
+          "started": "21h ago",
           "percentageIncrease": "100%"
         }
       ]

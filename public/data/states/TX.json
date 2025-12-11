@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-12-11T14:06:01.329Z",
+  "timestamp": "2025-12-11T16:05:17.071Z",
   "states": [
     {
       "name": "Texas",
@@ -13,31 +13,39 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "2K+",
-          "started": "7h ago",
-          "percentageIncrease": "800%"
+          "started": "9h ago",
+          "percentageIncrease": "1000%"
         },
         {
           "name": "chief justice roberts",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "17h ago",
-          "percentageIncrease": "600%"
+          "started": "19h ago",
+          "percentageIncrease": "500%"
+        },
+        {
+          "name": "dicks sporting",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "3h ago",
+          "percentageIncrease": "300%"
         },
         {
           "name": "calibri font",
           "relevanceScore": 95,
           "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "20h ago",
+          "searchVolume": "2K+",
+          "started": "22h ago",
           "percentageIncrease": "200%"
         },
         {
           "name": "trump gold card",
           "relevanceScore": 95,
           "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "15h ago",
+          "searchVolume": "1K+",
+          "started": "17h ago",
           "percentageIncrease": "200%"
         },
         {
@@ -45,23 +53,15 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "12h ago",
+          "started": "14h ago",
           "percentageIncrease": "400%"
-        },
-        {
-          "name": "laureates",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "22h ago",
-          "percentageIncrease": "200%"
         },
         {
           "name": "daily mail",
           "relevanceScore": 85,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "1h ago",
+          "started": "3h ago",
           "percentageIncrease": "50%"
         }
       ]

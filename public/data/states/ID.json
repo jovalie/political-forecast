@@ -1,20 +1,20 @@
 {
-  "timestamp": "2025-12-11T14:06:01.329Z",
+  "timestamp": "2025-12-11T16:05:17.071Z",
   "states": [
     {
       "name": "Idaho",
       "code": "ID",
-      "topTopic": "news",
+      "topTopic": "que",
       "category": "Law and Government",
-      "trendingScore": 90,
+      "trendingScore": 100,
       "topics": [
         {
-          "name": "news",
-          "relevanceScore": 90,
+          "name": "que",
+          "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "16h ago",
-          "percentageIncrease": "100%"
+          "started": "1h ago",
+          "percentageIncrease": "500%"
         }
       ]
     }

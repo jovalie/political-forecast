@@ -1,28 +1,20 @@
 {
-  "timestamp": "2025-12-11T14:06:01.329Z",
+  "timestamp": "2025-12-11T16:05:17.071Z",
   "states": [
     {
       "name": "Wisconsin",
       "code": "WI",
-      "topTopic": "wqow",
+      "topTopic": "que",
       "category": "Law and Government",
-      "trendingScore": 90,
+      "trendingScore": 100,
       "topics": [
         {
-          "name": "wqow",
-          "relevanceScore": 90,
+          "name": "que",
+          "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "23h ago",
-          "percentageIncrease": "100%"
-        },
-        {
-          "name": "fox",
-          "relevanceScore": 90,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "22h ago",
-          "percentageIncrease": "100%"
+          "searchVolume": "2K+",
+          "started": "6h ago",
+          "percentageIncrease": "1000%"
         }
       ]
     }
