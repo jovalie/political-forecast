@@ -1,28 +1,28 @@
 {
-  "timestamp": "2025-12-11T20:04:45.927Z",
+  "timestamp": "2025-12-11T22:04:42.888Z",
   "states": [
     {
       "name": "Indiana",
       "code": "IN",
-      "topTopic": "indiana redistricting vote",
+      "topTopic": "indiana redistricting",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
         {
-          "name": "indiana redistricting vote",
+          "name": "indiana redistricting",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "2h ago",
+          "searchVolume": "2K+",
+          "started": "3h ago",
           "trendBreakdown": "indiana",
-          "percentageIncrease": "700%"
+          "percentageIncrease": "900%"
         },
         {
           "name": "que",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "2K+",
-          "started": "10h ago",
+          "started": "12h ago",
           "percentageIncrease": "1000%"
         }
       ]
