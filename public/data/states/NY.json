@@ -1,53 +1,59 @@
 {
-  "timestamp": "2025-12-11T10:04:48.594Z",
+  "timestamp": "2025-12-11T12:05:03.141Z",
   "states": [
     {
       "name": "New York",
       "code": "NY",
-      "topTopic": "denmark",
+      "topTopic": "que",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
         {
-          "name": "denmark",
+          "name": "que",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "8h ago",
-          "percentageIncrease": "700%"
+          "searchVolume": "1K+",
+          "started": "6h ago",
+          "percentageIncrease": "1000%"
         },
         {
           "name": "chief justice roberts",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "13h ago",
+          "started": "15h ago",
           "percentageIncrease": "600%"
+        },
+        {
+          "name": "denmark",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "10h ago",
+          "percentageIncrease": "700%"
         },
         {
           "name": "maria corina machado",
           "relevanceScore": 95,
           "category": "Law and Government",
-          "searchVolume": "2K+",
-          "started": "18h ago",
-          "trendBreakdown": "nobel",
-          "percentageIncrease": "300%"
+          "searchVolume": "1K+",
+          "started": "20h ago",
+          "percentageIncrease": "200%"
         },
         {
           "name": "trump gold card",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "11h ago",
+          "started": "13h ago",
           "percentageIncrease": "200%"
         },
         {
-          "name": "trump",
+          "name": "calibri",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "1h ago",
-          "trendBreakdown": "tanker",
+          "started": "22h ago",
           "percentageIncrease": "200%"
         },
         {
@@ -55,7 +61,7 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "8h ago",
+          "started": "10h ago",
           "percentageIncrease": "200%"
         },
         {
@@ -63,8 +69,17 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "9h ago",
+          "started": "11h ago",
           "percentageIncrease": "400%"
+        },
+        {
+          "name": "trump",
+          "relevanceScore": 85,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "3h ago",
+          "trendBreakdown": "tanker",
+          "percentageIncrease": "75%"
         }
       ]
     }
