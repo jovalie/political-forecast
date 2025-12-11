@@ -1,20 +1,20 @@
 {
-  "timestamp": "2025-12-11T16:05:17.071Z",
+  "timestamp": "2025-12-11T18:05:26.892Z",
   "states": [
     {
       "name": "Vermont",
       "code": "VT",
-      "topTopic": "wcax",
+      "topTopic": "que",
       "category": "Law and Government",
-      "trendingScore": 90,
+      "trendingScore": 100,
       "topics": [
         {
-          "name": "wcax",
-          "relevanceScore": 90,
+          "name": "que",
+          "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "19h ago",
-          "percentageIncrease": "100%"
+          "searchVolume": "100+",
+          "started": "5h ago",
+          "percentageIncrease": "700%"
         }
       ]
     }

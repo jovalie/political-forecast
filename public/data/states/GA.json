@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-12-11T16:05:17.071Z",
+  "timestamp": "2025-12-11T18:05:26.892Z",
   "states": [
     {
       "name": "Georgia",
@@ -12,8 +12,8 @@
           "name": "que",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "6h ago",
+          "searchVolume": "2K+",
+          "started": "8h ago",
           "percentageIncrease": "1000%"
         },
         {
@@ -21,8 +21,16 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "21h ago",
+          "started": "23h ago",
           "percentageIncrease": "500%"
+        },
+        {
+          "name": "supreme",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "1h ago",
+          "percentageIncrease": "400%"
         }
       ]
     }
