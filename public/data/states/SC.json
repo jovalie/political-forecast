@@ -1,20 +1,28 @@
 {
-  "timestamp": "2025-12-11T12:05:03.141Z",
+  "timestamp": "2025-12-11T14:06:01.329Z",
   "states": [
     {
       "name": "South Carolina",
       "code": "SC",
-      "topTopic": "measles south carolina",
+      "topTopic": "que",
       "category": "Law and Government",
-      "trendingScore": 95,
+      "trendingScore": 100,
       "topics": [
+        {
+          "name": "que",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "3h ago",
+          "percentageIncrease": "1000%"
+        },
         {
           "name": "measles south carolina",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "9h ago",
-          "percentageIncrease": "300%"
+          "started": "11h ago",
+          "percentageIncrease": "400%"
         }
       ]
     }

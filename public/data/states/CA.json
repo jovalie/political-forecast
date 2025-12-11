@@ -1,36 +1,51 @@
 {
-  "timestamp": "2025-12-11T12:05:03.141Z",
+  "timestamp": "2025-12-11T14:06:01.329Z",
   "states": [
     {
       "name": "California",
       "code": "CA",
-      "topTopic": "san ysidro high school",
+      "topTopic": "que",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
+        {
+          "name": "que",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "1K+",
+          "started": "5h ago",
+          "percentageIncrease": "500%"
+        },
         {
           "name": "san ysidro high school",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "2K+",
-          "started": "18h ago",
-          "percentageIncrease": "500%"
-        },
-        {
-          "name": "maria corina machado",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "2K+",
           "started": "20h ago",
-          "trendBreakdown": "nobel",
-          "percentageIncrease": "300%"
+          "percentageIncrease": "500%"
         },
         {
           "name": "trump gold card",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "14h ago",
+          "started": "16h ago",
+          "percentageIncrease": "200%"
+        },
+        {
+          "name": "maria corina machado",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "2K+",
+          "started": "22h ago",
+          "percentageIncrease": "200%"
+        },
+        {
+          "name": "calibri",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "1K+",
+          "started": "22h ago",
           "percentageIncrease": "200%"
         },
         {
@@ -38,7 +53,7 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "10h ago",
+          "started": "12h ago",
           "percentageIncrease": "200%"
         },
         {
@@ -46,7 +61,7 @@
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "9h ago",
+          "started": "11h ago",
           "percentageIncrease": "100%"
         }
       ]

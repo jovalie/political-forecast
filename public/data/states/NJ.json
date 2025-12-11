@@ -1,27 +1,51 @@
 {
-  "timestamp": "2025-12-11T12:05:03.141Z",
+  "timestamp": "2025-12-11T14:06:01.329Z",
   "states": [
     {
       "name": "New Jersey",
       "code": "NJ",
-      "topTopic": "michael tenpenny woodbridge nj",
+      "topTopic": "que",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
+        {
+          "name": "que",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "1K+",
+          "started": "6h ago",
+          "percentageIncrease": "1000%"
+        },
         {
           "name": "michael tenpenny woodbridge nj",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "15h ago",
+          "started": "17h ago",
           "percentageIncrease": "800%"
+        },
+        {
+          "name": "dicks sporting",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "1h ago",
+          "percentageIncrease": "300%"
         },
         {
           "name": "trump gold card",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "9h ago",
+          "started": "11h ago",
+          "percentageIncrease": "300%"
+        },
+        {
+          "name": "maria corina machado",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "12h ago",
           "percentageIncrease": "300%"
         }
       ]
