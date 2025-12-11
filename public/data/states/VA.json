@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-12-11T06:05:01.295Z",
+  "timestamp": "2025-12-11T08:04:47.521Z",
   "states": [
     {
       "name": "Virginia",
@@ -13,7 +13,15 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "12h ago",
+          "started": "14h ago",
+          "percentageIncrease": "400%"
+        },
+        {
+          "name": "venezuela",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "10h ago",
           "percentageIncrease": "400%"
         }
       ]
