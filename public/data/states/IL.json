@@ -1,35 +1,44 @@
 {
-  "timestamp": "2025-12-11T02:36:20.202Z",
+  "timestamp": "2025-12-11T04:14:22.667Z",
   "states": [
     {
       "name": "Illinois",
       "code": "IL",
-      "topTopic": "chief justice roberts",
+      "topTopic": "denmark",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
+        {
+          "name": "denmark",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "1h ago",
+          "percentageIncrease": "500%"
+        },
         {
           "name": "chief justice roberts",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "5h ago",
+          "started": "6h ago",
           "percentageIncrease": "800%"
         },
         {
-          "name": "nobel prizes",
-          "relevanceScore": 100,
+          "name": "maria corina machado",
+          "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "13h ago",
-          "percentageIncrease": "500%"
+          "started": "30 minutes ago",
+          "trendBreakdown": "nobel",
+          "percentageIncrease": "400%"
         },
         {
           "name": "calibri font",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "8h ago",
+          "started": "9h ago",
           "percentageIncrease": "400%"
         }
       ]

@@ -1,53 +1,52 @@
 {
-  "timestamp": "2025-12-11T02:36:20.202Z",
+  "timestamp": "2025-12-11T04:14:22.667Z",
   "states": [
     {
       "name": "New York",
       "code": "NY",
-      "topTopic": "chief justice roberts",
+      "topTopic": "denmark",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
+        {
+          "name": "denmark",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "2h ago",
+          "percentageIncrease": "700%"
+        },
         {
           "name": "chief justice roberts",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "5h ago",
+          "started": "7h ago",
           "percentageIncrease": "700%"
         },
         {
-          "name": "maria corina machado",
+          "name": "nobel prizes",
           "relevanceScore": 95,
           "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "11h ago",
-          "trendBreakdown": "nobel",
-          "percentageIncrease": "200%"
+          "searchVolume": "2K+",
+          "started": "16h ago",
+          "trendBreakdown": "maria",
+          "percentageIncrease": "400%"
         },
         {
           "name": "andrew tate",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "30 minutes ago",
+          "started": "2h ago",
           "percentageIncrease": "200%"
-        },
-        {
-          "name": "venezuela",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "3h ago",
-          "trendBreakdown": "oil",
-          "percentageIncrease": "300%"
         },
         {
           "name": "croatia",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "1h ago",
+          "started": "3h ago",
           "percentageIncrease": "400%"
         },
         {
@@ -55,15 +54,16 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "16h ago",
+          "started": "18h ago",
           "percentageIncrease": "400%"
         },
         {
-          "name": "dasha burns",
+          "name": "cnbc",
           "relevanceScore": 90,
           "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "23h ago",
+          "searchVolume": "1K+",
+          "started": "9h ago",
+          "trendBreakdown": "tanker",
           "percentageIncrease": "100%"
         }
       ]

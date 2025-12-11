@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-12-11T02:36:20.202Z",
+  "timestamp": "2025-12-11T04:14:22.667Z",
   "states": [
     {
       "name": "California",
@@ -13,15 +13,15 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "2K+",
-          "started": "8h ago",
-          "percentageIncrease": "600%"
+          "started": "10h ago",
+          "percentageIncrease": "500%"
         },
         {
           "name": "trump gold card",
           "relevanceScore": 95,
           "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "4h ago",
+          "searchVolume": "1K+",
+          "started": "6h ago",
           "percentageIncrease": "300%"
         },
         {
@@ -29,8 +29,16 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "2K+",
-          "started": "10h ago",
+          "started": "12h ago",
           "trendBreakdown": "nobel",
+          "percentageIncrease": "300%"
+        },
+        {
+          "name": "oil tanker",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "1K+",
+          "started": "6h ago",
           "percentageIncrease": "200%"
         },
         {
@@ -38,31 +46,15 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "30 minutes ago",
+          "started": "2h ago",
           "percentageIncrease": "200%"
         },
         {
-          "name": "oil tanker",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "5h ago",
-          "percentageIncrease": "200%"
-        },
-        {
-          "name": "luigi mangione",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "23h ago",
-          "percentageIncrease": "200%"
-        },
-        {
-          "name": "kim kardashian",
+          "name": "andrew tate",
           "relevanceScore": 90,
           "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "2h ago",
+          "searchVolume": "100+",
+          "started": "1h ago",
           "percentageIncrease": "100%"
         }
       ]

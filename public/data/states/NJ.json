@@ -1,27 +1,43 @@
 {
-  "timestamp": "2025-12-11T02:36:20.202Z",
+  "timestamp": "2025-12-11T04:14:22.667Z",
   "states": [
     {
       "name": "New Jersey",
       "code": "NJ",
-      "topTopic": "michael tenpenny woodbridge nj",
+      "topTopic": "denmark",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
+        {
+          "name": "denmark",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "1h ago",
+          "percentageIncrease": "600%"
+        },
         {
           "name": "michael tenpenny woodbridge nj",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "5h ago",
-          "percentageIncrease": "900%"
+          "started": "7h ago",
+          "percentageIncrease": "800%"
+        },
+        {
+          "name": "trump gold card",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "2h ago",
+          "percentageIncrease": "400%"
         },
         {
           "name": "calibri font",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "6h ago",
+          "started": "8h ago",
           "percentageIncrease": "400%"
         }
       ]
