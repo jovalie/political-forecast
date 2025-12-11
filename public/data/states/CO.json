@@ -1,35 +1,27 @@
 {
-  "timestamp": "2025-12-11T00:05:03.706Z",
+  "timestamp": "2025-12-11T02:36:20.202Z",
   "states": [
     {
       "name": "Colorado",
       "code": "CO",
-      "topTopic": "kentucky state university",
+      "topTopic": "cnbc",
       "category": "Law and Government",
-      "trendingScore": 100,
+      "trendingScore": 95,
       "topics": [
         {
-          "name": "kentucky state university",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "23h ago",
-          "percentageIncrease": "800%"
-        },
-        {
-          "name": "dicks sporting good",
+          "name": "cnbc",
           "relevanceScore": 95,
           "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "23h ago",
-          "percentageIncrease": "200%"
+          "searchVolume": "100+",
+          "started": "6h ago",
+          "percentageIncrease": "400%"
         },
         {
           "name": "calibri font",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "5h ago",
+          "started": "7h ago",
           "percentageIncrease": "200%"
         }
       ]

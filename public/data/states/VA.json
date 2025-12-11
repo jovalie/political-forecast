@@ -1,35 +1,27 @@
 {
-  "timestamp": "2025-12-11T00:05:03.706Z",
+  "timestamp": "2025-12-11T02:36:20.202Z",
   "states": [
     {
       "name": "Virginia",
       "code": "VA",
       "topTopic": "calibri font",
       "category": "Law and Government",
-      "trendingScore": 100,
+      "trendingScore": 95,
       "topics": [
         {
           "name": "calibri font",
-          "relevanceScore": 100,
+          "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "6h ago",
-          "percentageIncrease": "500%"
-        },
-        {
-          "name": "kentucky",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "22h ago",
-          "percentageIncrease": "700%"
+          "started": "8h ago",
+          "percentageIncrease": "400%"
         },
         {
           "name": "venezuela",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "2h ago",
+          "started": "5h ago",
           "percentageIncrease": "400%"
         },
         {
@@ -37,7 +29,7 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "21h ago",
+          "started": "23h ago",
           "percentageIncrease": "300%"
         }
       ]

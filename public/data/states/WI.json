@@ -1,27 +1,27 @@
 {
-  "timestamp": "2025-12-11T00:05:03.706Z",
+  "timestamp": "2025-12-11T02:36:20.202Z",
   "states": [
     {
       "name": "Wisconsin",
       "code": "WI",
-      "topTopic": "weau school closings",
+      "topTopic": "wqow",
       "category": "Law and Government",
-      "trendingScore": 100,
+      "trendingScore": 90,
       "topics": [
         {
-          "name": "weau school closings",
-          "relevanceScore": 100,
+          "name": "wqow",
+          "relevanceScore": 90,
           "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "22h ago",
-          "percentageIncrease": "500%"
+          "searchVolume": "100+",
+          "started": "16h ago",
+          "percentageIncrease": "100%"
         },
         {
           "name": "fox",
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "12h ago",
+          "started": "15h ago",
           "percentageIncrease": "100%"
         }
       ]

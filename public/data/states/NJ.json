@@ -1,19 +1,27 @@
 {
-  "timestamp": "2025-12-11T00:05:03.706Z",
+  "timestamp": "2025-12-11T02:36:20.202Z",
   "states": [
     {
       "name": "New Jersey",
       "code": "NJ",
-      "topTopic": "calibri font",
+      "topTopic": "michael tenpenny woodbridge nj",
       "category": "Law and Government",
-      "trendingScore": 95,
+      "trendingScore": 100,
       "topics": [
+        {
+          "name": "michael tenpenny woodbridge nj",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "5h ago",
+          "percentageIncrease": "900%"
+        },
         {
           "name": "calibri font",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "4h ago",
+          "started": "6h ago",
           "percentageIncrease": "400%"
         }
       ]

@@ -1,53 +1,36 @@
 {
-  "timestamp": "2025-12-11T00:05:03.706Z",
+  "timestamp": "2025-12-11T02:36:20.202Z",
   "states": [
     {
       "name": "Illinois",
       "code": "IL",
-      "topTopic": "nobel prizes",
+      "topTopic": "chief justice roberts",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
+        {
+          "name": "chief justice roberts",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "5h ago",
+          "percentageIncrease": "800%"
+        },
         {
           "name": "nobel prizes",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "11h ago",
+          "started": "13h ago",
           "percentageIncrease": "500%"
-        },
-        {
-          "name": "childcare",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "23h ago",
-          "trendBreakdown": "child",
-          "percentageIncrease": "1000%"
-        },
-        {
-          "name": "kentucky",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "22h ago",
-          "percentageIncrease": "600%"
         },
         {
           "name": "calibri font",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "5h ago",
+          "started": "8h ago",
           "percentageIncrease": "400%"
-        },
-        {
-          "name": "ilhan omar",
-          "relevanceScore": 90,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "10h ago",
-          "percentageIncrease": "100%"
         }
       ]
     }

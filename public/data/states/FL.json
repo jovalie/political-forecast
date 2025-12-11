@@ -1,53 +1,53 @@
 {
-  "timestamp": "2025-12-11T00:05:03.706Z",
+  "timestamp": "2025-12-11T02:36:20.202Z",
   "states": [
     {
       "name": "Florida",
       "code": "FL",
-      "topTopic": "chief justice roberts",
+      "topTopic": "maria corina machado",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
+        {
+          "name": "maria corina machado",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "5K+",
+          "started": "15h ago",
+          "trendBreakdown": "corinamaria",
+          "percentageIncrease": "500%"
+        },
         {
           "name": "chief justice roberts",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "3h ago",
-          "percentageIncrease": "600%"
+          "started": "5h ago",
+          "percentageIncrease": "500%"
         },
         {
           "name": "truck accident lawyer",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "9h ago",
+          "started": "11h ago",
           "percentageIncrease": "600%"
         },
         {
-          "name": "maria corina machado",
+          "name": "trump gold card",
           "relevanceScore": 95,
           "category": "Law and Government",
-          "searchVolume": "2K+",
-          "started": "13h ago",
-          "trendBreakdown": "ana",
-          "percentageIncrease": "400%"
-        },
-        {
-          "name": "license plate frames florida",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "24h ago",
+          "searchVolume": "100+",
+          "started": "3h ago",
           "percentageIncrease": "200%"
         },
         {
           "name": "oil tanker venezuela",
           "relevanceScore": 95,
           "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "40 minutes ago",
-          "trendBreakdown": "oil",
+          "searchVolume": "500+",
+          "started": "3h ago",
+          "trendBreakdown": "tankeroil",
           "percentageIncrease": "300%"
         },
         {
@@ -55,31 +55,23 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "19h ago",
+          "started": "22h ago",
           "percentageIncrease": "300%"
-        },
-        {
-          "name": "kentucky",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "23h ago",
-          "percentageIncrease": "400%"
         },
         {
           "name": "maria corina machado hoy",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "11h ago",
+          "started": "13h ago",
           "percentageIncrease": "200%"
         },
         {
-          "name": "ilhan omar",
+          "name": "kim kardashian",
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "12h ago",
+          "started": "1h ago",
           "percentageIncrease": "100%"
         }
       ]
