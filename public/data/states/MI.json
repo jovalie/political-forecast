@@ -1,19 +1,27 @@
 {
-  "timestamp": "2025-12-11T04:14:22.667Z",
+  "timestamp": "2025-12-11T06:05:01.295Z",
   "states": [
     {
       "name": "Michigan",
       "code": "MI",
-      "topTopic": "wood tv",
+      "topTopic": "denmark",
       "category": "Law and Government",
-      "trendingScore": 95,
+      "trendingScore": 100,
       "topics": [
+        {
+          "name": "denmark",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "2h ago",
+          "percentageIncrease": "600%"
+        },
         {
           "name": "wood tv",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "17h ago",
+          "started": "19h ago",
           "percentageIncrease": "200%"
         },
         {
@@ -21,7 +29,7 @@
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "18h ago",
+          "started": "20h ago",
           "percentageIncrease": "100%"
         }
       ]
