@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-12-10T22:04:41.668Z",
+  "timestamp": "2025-12-11T00:05:03.706Z",
   "states": [
     {
       "name": "Indiana",
@@ -13,8 +13,16 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "3h ago",
+          "started": "5h ago",
           "percentageIncrease": "800%"
+        },
+        {
+          "name": "car insurance",
+          "relevanceScore": 90,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "14h ago",
+          "percentageIncrease": "100%"
         }
       ]
     }

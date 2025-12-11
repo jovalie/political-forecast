@@ -1,19 +1,27 @@
 {
-  "timestamp": "2025-12-10T22:04:41.668Z",
+  "timestamp": "2025-12-11T00:05:03.706Z",
   "states": [
     {
       "name": "Texas",
       "code": "TX",
-      "topTopic": "childcare",
+      "topTopic": "chief justice roberts",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
+        {
+          "name": "chief justice roberts",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "3h ago",
+          "percentageIncrease": "700%"
+        },
         {
           "name": "childcare",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "20h ago",
+          "started": "22h ago",
           "trendBreakdown": "child",
           "percentageIncrease": "1000%"
         },
@@ -21,8 +29,8 @@
           "name": "calibri font",
           "relevanceScore": 95,
           "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "4h ago",
+          "searchVolume": "1K+",
+          "started": "6h ago",
           "percentageIncrease": "300%"
         },
         {
@@ -30,16 +38,8 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "8h ago",
+          "started": "10h ago",
           "trendBreakdown": "maria",
-          "percentageIncrease": "300%"
-        },
-        {
-          "name": "kentucky state",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "22h ago",
           "percentageIncrease": "300%"
         },
         {
@@ -47,7 +47,7 @@
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "19h ago",
+          "started": "21h ago",
           "percentageIncrease": "100%"
         }
       ]
