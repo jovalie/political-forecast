@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-12-11T18:05:26.892Z",
+  "timestamp": "2025-12-11T20:04:45.927Z",
   "states": [
     {
       "name": "Ohio",
@@ -13,32 +13,24 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "2K+",
-          "started": "11h ago",
+          "started": "13h ago",
           "percentageIncrease": "1000%"
+        },
+        {
+          "name": "nascar",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "2h ago",
+          "percentageIncrease": "500%"
         },
         {
           "name": "chief justice roberts",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "20h ago",
+          "started": "22h ago",
           "percentageIncrease": "1000%"
-        },
-        {
-          "name": "nascar",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "30 minutes ago",
-          "percentageIncrease": "400%"
-        },
-        {
-          "name": "calibri font",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "23h ago",
-          "percentageIncrease": "200%"
         }
       ]
     }

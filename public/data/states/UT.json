@@ -1,20 +1,20 @@
 {
-  "timestamp": "2025-12-11T18:05:26.892Z",
+  "timestamp": "2025-12-11T20:04:45.927Z",
   "states": [
     {
       "name": "Utah",
       "code": "UT",
-      "topTopic": "cnn",
+      "topTopic": "que",
       "category": "Law and Government",
-      "trendingScore": 90,
+      "trendingScore": 100,
       "topics": [
         {
-          "name": "cnn",
-          "relevanceScore": 90,
+          "name": "que",
+          "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "1h ago",
-          "percentageIncrease": "100%"
+          "searchVolume": "500+",
+          "started": "6h ago",
+          "percentageIncrease": "600%"
         }
       ]
     }

@@ -1,19 +1,27 @@
 {
-  "timestamp": "2025-12-11T18:05:26.892Z",
+  "timestamp": "2025-12-11T20:04:45.927Z",
   "states": [
     {
       "name": "California",
       "code": "CA",
-      "topTopic": "personal injury lawyer",
+      "topTopic": "que",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
+        {
+          "name": "que",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "5K+",
+          "started": "11h ago",
+          "percentageIncrease": "1000%"
+        },
         {
           "name": "personal injury lawyer",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "50 minutes ago",
+          "started": "2h ago",
           "percentageIncrease": "1000%"
         },
         {
@@ -21,24 +29,15 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "50 minutes ago",
+          "started": "2h ago",
           "percentageIncrease": "1000%"
-        },
-        {
-          "name": "kilmar abrego garcia",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "1h ago",
-          "trendBreakdown": "paula",
-          "percentageIncrease": "500%"
         },
         {
           "name": "trump gold card",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "2K+",
-          "started": "20h ago",
+          "started": "22h ago",
           "percentageIncrease": "200%"
         },
         {
@@ -46,7 +45,24 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "500+",
+          "started": "5h ago",
+          "percentageIncrease": "200%"
+        },
+        {
+          "name": "kilmar abrego garcia",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "500+",
           "started": "3h ago",
+          "trendBreakdown": "paula",
+          "percentageIncrease": "400%"
+        },
+        {
+          "name": "tyler robinson",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "20 minutes ago",
           "percentageIncrease": "200%"
         },
         {
@@ -54,7 +70,7 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "16h ago",
+          "started": "18h ago",
           "percentageIncrease": "200%"
         }
       ]
@@ -71,7 +87,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "5h ago",
+          "started": "7h ago",
           "percentageIncrease": "1000%"
         }
       ]
@@ -79,24 +95,56 @@
     {
       "name": "Florida",
       "code": "FL",
-      "topTopic": "chief justice roberts",
+      "topTopic": "que",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
+        {
+          "name": "que",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "5K+",
+          "started": "14h ago",
+          "percentageIncrease": "1000%"
+        },
         {
           "name": "chief justice roberts",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "21h ago",
+          "started": "23h ago",
           "percentageIncrease": "500%"
+        },
+        {
+          "name": "nascar",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "3h ago",
+          "percentageIncrease": "400%"
+        },
+        {
+          "name": "tyler robinson",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "20 minutes ago",
+          "percentageIncrease": "400%"
+        },
+        {
+          "name": "license plate frame florida law",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "20 minutes ago",
+          "percentageIncrease": "300%"
         },
         {
           "name": "kristi noem",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "2h ago",
+          "started": "4h ago",
           "percentageIncrease": "400%"
         },
         {
@@ -104,7 +152,16 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "22h ago",
+          "started": "24h ago",
+          "percentageIncrease": "200%"
+        },
+        {
+          "name": "gop healthcare plan",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "17h ago",
+          "trendBreakdown": "trump",
           "percentageIncrease": "200%"
         }
       ]
@@ -121,23 +178,23 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "2K+",
-          "started": "8h ago",
+          "started": "10h ago",
           "percentageIncrease": "1000%"
         },
         {
-          "name": "calibri font",
+          "name": "apalachee high school",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "23h ago",
-          "percentageIncrease": "500%"
+          "searchVolume": "100+",
+          "started": "20 minutes ago",
+          "percentageIncrease": "1000%"
         },
         {
           "name": "supreme",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "1h ago",
+          "started": "3h ago",
           "percentageIncrease": "400%"
         }
       ]
@@ -145,16 +202,24 @@
     {
       "name": "Illinois",
       "code": "IL",
-      "topTopic": "chief justice roberts",
+      "topTopic": "que",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
+        {
+          "name": "que",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "2K+",
+          "started": "12h ago",
+          "percentageIncrease": "1000%"
+        },
         {
           "name": "chief justice roberts",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "20h ago",
+          "started": "22h ago",
           "percentageIncrease": "800%"
         },
         {
@@ -162,15 +227,7 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "5h ago",
-          "percentageIncrease": "300%"
-        },
-        {
-          "name": "calibri font",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "23h ago",
+          "started": "7h ago",
           "percentageIncrease": "300%"
         },
         {
@@ -178,7 +235,7 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "14h ago",
+          "started": "16h ago",
           "percentageIncrease": "300%"
         }
       ]
@@ -186,33 +243,58 @@
     {
       "name": "Indiana",
       "code": "IN",
-      "topTopic": "calibri font",
+      "topTopic": "indiana redistricting vote",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
         {
-          "name": "calibri font",
+          "name": "indiana redistricting vote",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "23h ago",
-          "percentageIncrease": "800%"
+          "searchVolume": "1K+",
+          "started": "2h ago",
+          "trendBreakdown": "indiana",
+          "percentageIncrease": "700%"
+        },
+        {
+          "name": "que",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "2K+",
+          "started": "10h ago",
+          "percentageIncrease": "1000%"
         }
       ]
     },
     {
       "name": "Maryland",
       "code": "MD",
-      "topTopic": "catherine hoggle",
+      "topTopic": "que",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
+        {
+          "name": "que",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "2K+",
+          "started": "10h ago",
+          "percentageIncrease": "1000%"
+        },
+        {
+          "name": "kilmar abrego garcia",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "2h ago",
+          "percentageIncrease": "700%"
+        },
         {
           "name": "catherine hoggle",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "20h ago",
+          "started": "22h ago",
           "percentageIncrease": "500%"
         }
       ]
@@ -229,7 +311,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "2K+",
-          "started": "11h ago",
+          "started": "13h ago",
           "percentageIncrease": "1000%"
         },
         {
@@ -237,7 +319,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "14h ago",
+          "started": "16h ago",
           "percentageIncrease": "500%"
         }
       ]
@@ -245,16 +327,24 @@
     {
       "name": "Massachusetts",
       "code": "MA",
-      "topTopic": "dicks sporting",
+      "topTopic": "que",
       "category": "Law and Government",
-      "trendingScore": 95,
+      "trendingScore": 100,
       "topics": [
+        {
+          "name": "que",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "2K+",
+          "started": "11h ago",
+          "percentageIncrease": "1000%"
+        },
         {
           "name": "dicks sporting",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "6h ago",
+          "started": "8h ago",
           "percentageIncrease": "300%"
         }
       ]
@@ -270,8 +360,8 @@
           "name": "que",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "4h ago",
+          "searchVolume": "2K+",
+          "started": "8h ago",
           "percentageIncrease": "1000%"
         }
       ]
@@ -288,7 +378,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "2K+",
-          "started": "10h ago",
+          "started": "12h ago",
           "percentageIncrease": "1000%"
         },
         {
@@ -296,7 +386,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "2h ago",
+          "started": "4h ago",
           "percentageIncrease": "800%"
         },
         {
@@ -304,7 +394,7 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "5h ago",
+          "started": "7h ago",
           "percentageIncrease": "300%"
         },
         {
@@ -312,7 +402,7 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "15h ago",
+          "started": "17h ago",
           "percentageIncrease": "300%"
         },
         {
@@ -320,7 +410,7 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "16h ago",
+          "started": "18h ago",
           "percentageIncrease": "200%"
         }
       ]
@@ -336,17 +426,49 @@
           "name": "sycamore brewing",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "2K+",
-          "started": "1h ago",
+          "searchVolume": "10K+",
+          "started": "3h ago",
           "trendBreakdown": "justin",
           "percentageIncrease": "1000%"
+        },
+        {
+          "name": "que",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "2K+",
+          "started": "13h ago",
+          "percentageIncrease": "1000%"
+        },
+        {
+          "name": "dominic connelly",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "1K+",
+          "started": "2h ago",
+          "percentageIncrease": "1000%"
+        },
+        {
+          "name": "nascar settlement",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "1K+",
+          "started": "3h ago",
+          "percentageIncrease": "1000%"
+        },
+        {
+          "name": "frezja baker",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "1h ago",
+          "percentageIncrease": "600%"
         },
         {
           "name": "trump gold card",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "5h ago",
+          "started": "7h ago",
           "percentageIncrease": "200%"
         }
       ]
@@ -354,16 +476,24 @@
     {
       "name": "New York",
       "code": "NY",
-      "topTopic": "chief justice roberts",
+      "topTopic": "que",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
+        {
+          "name": "que",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "5K+",
+          "started": "14h ago",
+          "percentageIncrease": "1000%"
+        },
         {
           "name": "chief justice roberts",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "21h ago",
+          "started": "23h ago",
           "percentageIncrease": "600%"
         },
         {
@@ -371,7 +501,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "16h ago",
+          "started": "18h ago",
           "percentageIncrease": "700%"
         },
         {
@@ -379,15 +509,31 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "19h ago",
+          "started": "21h ago",
           "percentageIncrease": "200%"
+        },
+        {
+          "name": "kilmar abrego garcia",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "3h ago",
+          "percentageIncrease": "300%"
+        },
+        {
+          "name": "tyler robinson",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "20 minutes ago",
+          "percentageIncrease": "400%"
         },
         {
           "name": "dicks sporting",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "5h ago",
+          "started": "7h ago",
           "percentageIncrease": "300%"
         },
         {
@@ -395,7 +541,7 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "18h ago",
+          "started": "20h ago",
           "percentageIncrease": "200%"
         },
         {
@@ -403,7 +549,7 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "17h ago",
+          "started": "19h ago",
           "percentageIncrease": "400%"
         },
         {
@@ -411,7 +557,7 @@
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "5h ago",
+          "started": "7h ago",
           "percentageIncrease": "100%"
         }
       ]
@@ -428,32 +574,24 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "2K+",
-          "started": "11h ago",
+          "started": "13h ago",
           "percentageIncrease": "1000%"
+        },
+        {
+          "name": "nascar",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "2h ago",
+          "percentageIncrease": "500%"
         },
         {
           "name": "chief justice roberts",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "20h ago",
+          "started": "22h ago",
           "percentageIncrease": "1000%"
-        },
-        {
-          "name": "nascar",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "30 minutes ago",
-          "percentageIncrease": "400%"
-        },
-        {
-          "name": "calibri font",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "23h ago",
-          "percentageIncrease": "200%"
         }
       ]
     },
@@ -469,7 +607,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "4h ago",
+          "started": "6h ago",
           "percentageIncrease": "1000%"
         },
         {
@@ -477,7 +615,7 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "13h ago",
+          "started": "15h ago",
           "percentageIncrease": "300%"
         }
       ]
@@ -494,7 +632,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "5K+",
-          "started": "12h ago",
+          "started": "14h ago",
           "percentageIncrease": "1000%"
         },
         {
@@ -502,7 +640,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "20h ago",
+          "started": "22h ago",
           "percentageIncrease": "1000%"
         },
         {
@@ -510,23 +648,15 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "5h ago",
+          "started": "7h ago",
           "percentageIncrease": "200%"
-        },
-        {
-          "name": "nascar",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "1h ago",
-          "percentageIncrease": "400%"
         },
         {
           "name": "supreme",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "2h ago",
+          "started": "4h ago",
           "percentageIncrease": "300%"
         }
       ]
@@ -534,25 +664,34 @@
     {
       "name": "South Carolina",
       "code": "SC",
-      "topTopic": "que",
+      "topTopic": "sycamore brewing",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
+        {
+          "name": "sycamore brewing",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "1h ago",
+          "trendBreakdown": "justin",
+          "percentageIncrease": "1000%"
+        },
         {
           "name": "que",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "7h ago",
+          "started": "9h ago",
           "percentageIncrease": "1000%"
         },
         {
-          "name": "measles",
-          "relevanceScore": 95,
+          "name": "measles south carolina",
+          "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "1K+",
           "started": "17h ago",
-          "percentageIncrease": "300%"
+          "percentageIncrease": "500%"
         }
       ]
     },
@@ -568,23 +707,24 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "6h ago",
+          "started": "8h ago",
           "percentageIncrease": "1000%"
         },
         {
-          "name": "calibri font",
-          "relevanceScore": 100,
+          "name": "harold wayne nichols",
+          "relevanceScore": 95,
           "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "23h ago",
-          "percentageIncrease": "600%"
+          "searchVolume": "500+",
+          "started": "7h ago",
+          "trendBreakdown": "harold",
+          "percentageIncrease": "300%"
         },
         {
           "name": "wcyb",
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "7h ago",
+          "started": "9h ago",
           "percentageIncrease": "100%"
         }
       ]
@@ -592,16 +732,24 @@
     {
       "name": "Texas",
       "code": "TX",
-      "topTopic": "chief justice roberts",
+      "topTopic": "que",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
+        {
+          "name": "que",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "5K+",
+          "started": "13h ago",
+          "percentageIncrease": "1000%"
+        },
         {
           "name": "chief justice roberts",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "21h ago",
+          "started": "23h ago",
           "percentageIncrease": "500%"
         },
         {
@@ -609,7 +757,7 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "5h ago",
+          "started": "7h ago",
           "percentageIncrease": "200%"
         },
         {
@@ -617,7 +765,7 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "19h ago",
+          "started": "21h ago",
           "percentageIncrease": "200%"
         },
         {
@@ -625,7 +773,7 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "16h ago",
+          "started": "18h ago",
           "percentageIncrease": "400%"
         },
         {
@@ -633,7 +781,7 @@
           "relevanceScore": 85,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "5h ago",
+          "started": "7h ago",
           "percentageIncrease": "50%"
         }
       ]
@@ -650,7 +798,16 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "2K+",
-          "started": "10h ago",
+          "started": "12h ago",
+          "percentageIncrease": "1000%"
+        },
+        {
+          "name": "fairfax high school",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "1K+",
+          "started": "2h ago",
+          "trendBreakdown": "fairfax",
           "percentageIncrease": "1000%"
         },
         {
@@ -658,7 +815,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "2h ago",
+          "started": "4h ago",
           "percentageIncrease": "600%"
         },
         {
@@ -666,7 +823,7 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "14h ago",
+          "started": "16h ago",
           "percentageIncrease": "400%"
         },
         {
@@ -674,7 +831,7 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "20h ago",
+          "started": "22h ago",
           "percentageIncrease": "400%"
         },
         {
@@ -682,7 +839,7 @@
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "7h ago",
+          "started": "9h ago",
           "percentageIncrease": "100%"
         }
       ]
@@ -690,24 +847,25 @@
     {
       "name": "District of Columbia",
       "code": "DC",
-      "topTopic": "que",
+      "topTopic": "fairfax high school",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
+        {
+          "name": "fairfax high school",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "1K+",
+          "started": "2h ago",
+          "trendBreakdown": "fairfax",
+          "percentageIncrease": "1000%"
+        },
         {
           "name": "que",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "2K+",
-          "started": "9h ago",
-          "percentageIncrease": "1000%"
-        },
-        {
-          "name": "kilmar abrego garcia",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "1h ago",
+          "started": "11h ago",
           "percentageIncrease": "1000%"
         },
         {
@@ -715,7 +873,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "2h ago",
+          "started": "4h ago",
           "percentageIncrease": "500%"
         },
         {
@@ -723,7 +881,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "20h ago",
+          "started": "22h ago",
           "percentageIncrease": "800%"
         },
         {
@@ -731,15 +889,15 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "21h ago",
+          "started": "23h ago",
           "percentageIncrease": "500%"
         },
         {
-          "name": "kristi noem",
+          "name": "cspan",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "2h ago",
+          "started": "4h ago",
           "percentageIncrease": "300%"
         },
         {
@@ -747,16 +905,8 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "14h ago",
+          "started": "16h ago",
           "percentageIncrease": "400%"
-        },
-        {
-          "name": "ndaa",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "22h ago",
-          "percentageIncrease": "300%"
         }
       ]
     },
@@ -772,7 +922,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "5h ago",
+          "started": "7h ago",
           "percentageIncrease": "600%"
         }
       ]
@@ -789,7 +939,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "5h ago",
+          "started": "7h ago",
           "percentageIncrease": "700%"
         }
       ]
@@ -805,8 +955,8 @@
           "name": "que",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "7h ago",
+          "searchVolume": "2K+",
+          "started": "9h ago",
           "percentageIncrease": "1000%"
         },
         {
@@ -814,7 +964,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "18h ago",
+          "started": "20h ago",
           "percentageIncrease": "600%"
         },
         {
@@ -822,23 +972,15 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "20h ago",
+          "started": "22h ago",
           "percentageIncrease": "1000%"
-        },
-        {
-          "name": "calibri font",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "24h ago",
-          "percentageIncrease": "200%"
         },
         {
           "name": "trump gold card",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "16h ago",
+          "started": "18h ago",
           "percentageIncrease": "300%"
         }
       ]
@@ -855,7 +997,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "5h ago",
+          "started": "7h ago",
           "percentageIncrease": "700%"
         }
       ]
@@ -872,7 +1014,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "5h ago",
+          "started": "7h ago",
           "percentageIncrease": "800%"
         }
       ]
@@ -897,17 +1039,17 @@
     {
       "name": "Colorado",
       "code": "CO",
-      "topTopic": "calibri font",
+      "topTopic": "que",
       "category": "Law and Government",
-      "trendingScore": 90,
+      "trendingScore": 100,
       "topics": [
         {
-          "name": "calibri font",
-          "relevanceScore": 90,
+          "name": "que",
+          "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "23h ago",
-          "percentageIncrease": "100%"
+          "searchVolume": "1K+",
+          "started": "7h ago",
+          "percentageIncrease": "1000%"
         }
       ]
     },
@@ -922,9 +1064,9 @@
           "name": "que",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "4h ago",
-          "percentageIncrease": "1000%"
+          "searchVolume": "1K+",
+          "started": "8h ago",
+          "percentageIncrease": "900%"
         }
       ]
     },
@@ -957,7 +1099,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "2K+",
-          "started": "8h ago",
+          "started": "10h ago",
           "percentageIncrease": "1000%"
         }
       ]
@@ -1009,7 +1151,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "2K+",
-          "started": "8h ago",
+          "started": "10h ago",
           "percentageIncrease": "1000%"
         }
       ]
@@ -1026,7 +1168,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "5h ago",
+          "started": "9h ago",
           "percentageIncrease": "1000%"
         }
       ]
@@ -1043,8 +1185,8 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "6h ago",
-          "percentageIncrease": "900%"
+          "started": "8h ago",
+          "percentageIncrease": "800%"
         }
       ]
     },
@@ -1085,17 +1227,17 @@
     {
       "name": "Utah",
       "code": "UT",
-      "topTopic": "cnn",
+      "topTopic": "que",
       "category": "Law and Government",
-      "trendingScore": 90,
+      "trendingScore": 100,
       "topics": [
         {
-          "name": "cnn",
-          "relevanceScore": 90,
+          "name": "que",
+          "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "1h ago",
-          "percentageIncrease": "100%"
+          "searchVolume": "500+",
+          "started": "6h ago",
+          "percentageIncrease": "600%"
         }
       ]
     },
@@ -1162,7 +1304,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "6h ago",
+          "started": "8h ago",
           "percentageIncrease": "700%"
         }
       ]
@@ -1196,7 +1338,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "6h ago",
+          "started": "8h ago",
           "percentageIncrease": "1000%"
         }
       ]
@@ -1213,7 +1355,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "3h ago",
+          "started": "5h ago",
           "percentageIncrease": "700%"
         }
       ]
@@ -1230,7 +1372,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "4h ago",
+          "started": "6h ago",
           "percentageIncrease": "600%"
         }
       ]

@@ -1,19 +1,35 @@
 {
-  "timestamp": "2025-12-11T18:05:26.892Z",
+  "timestamp": "2025-12-11T20:04:45.927Z",
   "states": [
     {
       "name": "Maryland",
       "code": "MD",
-      "topTopic": "catherine hoggle",
+      "topTopic": "que",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
+        {
+          "name": "que",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "2K+",
+          "started": "10h ago",
+          "percentageIncrease": "1000%"
+        },
+        {
+          "name": "kilmar abrego garcia",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "2h ago",
+          "percentageIncrease": "700%"
+        },
         {
           "name": "catherine hoggle",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "20h ago",
+          "started": "22h ago",
           "percentageIncrease": "500%"
         }
       ]

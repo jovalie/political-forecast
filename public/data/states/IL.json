@@ -1,19 +1,27 @@
 {
-  "timestamp": "2025-12-11T18:05:26.892Z",
+  "timestamp": "2025-12-11T20:04:45.927Z",
   "states": [
     {
       "name": "Illinois",
       "code": "IL",
-      "topTopic": "chief justice roberts",
+      "topTopic": "que",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
+        {
+          "name": "que",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "2K+",
+          "started": "12h ago",
+          "percentageIncrease": "1000%"
+        },
         {
           "name": "chief justice roberts",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "20h ago",
+          "started": "22h ago",
           "percentageIncrease": "800%"
         },
         {
@@ -21,15 +29,7 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "5h ago",
-          "percentageIncrease": "300%"
-        },
-        {
-          "name": "calibri font",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "23h ago",
+          "started": "7h ago",
           "percentageIncrease": "300%"
         },
         {
@@ -37,7 +37,7 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "14h ago",
+          "started": "16h ago",
           "percentageIncrease": "300%"
         }
       ]

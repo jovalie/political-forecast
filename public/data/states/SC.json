@@ -1,28 +1,37 @@
 {
-  "timestamp": "2025-12-11T18:05:26.892Z",
+  "timestamp": "2025-12-11T20:04:45.927Z",
   "states": [
     {
       "name": "South Carolina",
       "code": "SC",
-      "topTopic": "que",
+      "topTopic": "sycamore brewing",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
+        {
+          "name": "sycamore brewing",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "1h ago",
+          "trendBreakdown": "justin",
+          "percentageIncrease": "1000%"
+        },
         {
           "name": "que",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "7h ago",
+          "started": "9h ago",
           "percentageIncrease": "1000%"
         },
         {
-          "name": "measles",
-          "relevanceScore": 95,
+          "name": "measles south carolina",
+          "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "1K+",
           "started": "17h ago",
-          "percentageIncrease": "300%"
+          "percentageIncrease": "500%"
         }
       ]
     }
