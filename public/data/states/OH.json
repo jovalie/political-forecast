@@ -1,28 +1,27 @@
 {
-  "timestamp": "2025-12-12T16:04:53.068Z",
+  "timestamp": "2025-12-12T18:04:54.038Z",
   "states": [
     {
       "name": "Ohio",
       "code": "OH",
-      "topTopic": "andrew tate",
+      "topTopic": "attorney general letitia james",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
+        {
+          "name": "attorney general letitia james",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "2h ago",
+          "percentageIncrease": "900%"
+        },
         {
           "name": "andrew tate",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "14h ago",
-          "percentageIncrease": "500%"
-        },
-        {
-          "name": "nascar",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "22h ago",
-          "trendBreakdown": "michael",
+          "started": "16h ago",
           "percentageIncrease": "500%"
         },
         {
@@ -30,15 +29,15 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "12h ago",
-          "percentageIncrease": "200%"
+          "started": "14h ago",
+          "percentageIncrease": "300%"
         },
         {
           "name": "tyler robinson",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "18h ago",
+          "started": "20h ago",
           "percentageIncrease": "400%"
         }
       ]

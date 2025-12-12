@@ -1,52 +1,35 @@
 {
-  "timestamp": "2025-12-12T16:04:53.068Z",
+  "timestamp": "2025-12-12T18:04:54.038Z",
   "states": [
     {
       "name": "District of Columbia",
       "code": "DC",
-      "topTopic": "kilmar abrego garcia",
+      "topTopic": "tina peters",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
         {
-          "name": "kilmar abrego garcia",
+          "name": "tina peters",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "23h ago",
-          "percentageIncrease": "800%"
-        },
-        {
-          "name": "fairfax high school",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "22h ago",
-          "trendBreakdown": "fairfax",
-          "percentageIncrease": "1000%"
+          "started": "16h ago",
+          "percentageIncrease": "500%"
         },
         {
           "name": "andrew tate",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "14h ago",
+          "started": "16h ago",
           "percentageIncrease": "600%"
-        },
-        {
-          "name": "tina peters",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "14h ago",
-          "percentageIncrease": "400%"
         },
         {
           "name": "kyle rittenhouse",
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "5h ago",
+          "started": "7h ago",
           "percentageIncrease": "100%"
         }
       ]

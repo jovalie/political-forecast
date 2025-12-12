@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-12-12T16:04:53.068Z",
+  "timestamp": "2025-12-12T18:04:54.038Z",
   "states": [
     {
       "name": "California",
@@ -13,48 +13,33 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "2K+",
-          "started": "15h ago",
+          "started": "17h ago",
           "percentageIncrease": "600%"
+        },
+        {
+          "name": "attorney general letitia james",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "4h ago",
+          "trendBreakdown": "letitia",
+          "percentageIncrease": "500%"
         },
         {
           "name": "mark kelly",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "18h ago",
+          "started": "20h ago",
           "trendBreakdown": "navy",
           "percentageIncrease": "500%"
-        },
-        {
-          "name": "personal injury lawyer",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "22h ago",
-          "percentageIncrease": "1000%"
-        },
-        {
-          "name": "truck accident lawyer",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "22h ago",
-          "percentageIncrease": "1000%"
-        },
-        {
-          "name": "car accident lawyer",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "22h ago",
-          "percentageIncrease": "1000%"
         },
         {
           "name": "tina peters",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "2K+",
-          "started": "15h ago",
+          "started": "17h ago",
           "percentageIncrease": "400%"
         },
         {
@@ -62,34 +47,41 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "2K+",
-          "started": "20h ago",
+          "started": "22h ago",
           "percentageIncrease": "300%"
-        },
-        {
-          "name": "attorney general letitia james",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "2h ago",
-          "trendBreakdown": "letitia",
-          "percentageIncrease": "400%"
         },
         {
           "name": "trump walker",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "15h ago",
+          "started": "17h ago",
           "percentageIncrease": "300%"
         },
         {
-          "name": "kilmar abrego garcia",
+          "name": "restaurant chain",
           "relevanceScore": 95,
           "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "23h ago",
-          "trendBreakdown": "paula",
+          "searchVolume": "500+",
+          "started": "16h ago",
+          "trendBreakdown": "taco",
           "percentageIncrease": "300%"
+        },
+        {
+          "name": "bulgaria",
+          "relevanceScore": 90,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "14h ago",
+          "percentageIncrease": "100%"
+        },
+        {
+          "name": "vaccinations",
+          "relevanceScore": 85,
+          "category": "Law and Government",
+          "searchVolume": "1K+",
+          "started": "15h ago",
+          "percentageIncrease": "75%"
         }
       ]
     },
@@ -105,7 +97,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "17h ago",
+          "started": "19h ago",
           "percentageIncrease": "600%"
         },
         {
@@ -113,7 +105,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "18h ago",
+          "started": "20h ago",
           "percentageIncrease": "500%"
         }
       ]
@@ -130,32 +122,32 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "2K+",
-          "started": "15h ago",
-          "percentageIncrease": "900%"
-        },
-        {
-          "name": "tina peters",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "14h ago",
-          "percentageIncrease": "500%"
+          "started": "17h ago",
+          "percentageIncrease": "800%"
         },
         {
           "name": "mark kelly",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "18h ago",
+          "started": "20h ago",
           "trendBreakdown": "navy",
           "percentageIncrease": "700%"
         },
         {
-          "name": "license plate frame florida law",
+          "name": "attorney general letitia james",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "3h ago",
+          "percentageIncrease": "300%"
+        },
+        {
+          "name": "tina peters",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "20h ago",
+          "started": "16h ago",
           "percentageIncrease": "400%"
         },
         {
@@ -163,23 +155,23 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "20h ago",
+          "started": "22h ago",
           "percentageIncrease": "300%"
         },
         {
-          "name": "nascar",
+          "name": "license plate frame florida law",
           "relevanceScore": 95,
           "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "23h ago",
-          "percentageIncrease": "300%"
+          "searchVolume": "1K+",
+          "started": "22h ago",
+          "percentageIncrease": "400%"
         },
         {
           "name": "kilmar abrego garcia",
           "relevanceScore": 90,
           "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "6h ago",
+          "searchVolume": "100+",
+          "started": "8h ago",
           "percentageIncrease": "100%"
         },
         {
@@ -187,7 +179,7 @@
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "11h ago",
+          "started": "13h ago",
           "percentageIncrease": "100%"
         }
       ]
@@ -195,16 +187,33 @@
     {
       "name": "Georgia",
       "code": "GA",
-      "topTopic": "mark kelly",
+      "topTopic": "north atlanta high school",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
+        {
+          "name": "north atlanta high school",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "2h ago",
+          "trendBreakdown": "north",
+          "percentageIncrease": "1000%"
+        },
+        {
+          "name": "nascar settlement",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "19h ago",
+          "percentageIncrease": "500%"
+        },
         {
           "name": "mark kelly",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "17h ago",
+          "started": "19h ago",
           "percentageIncrease": "800%"
         },
         {
@@ -212,7 +221,7 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "17h ago",
+          "started": "19h ago",
           "percentageIncrease": "300%"
         },
         {
@@ -220,7 +229,7 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "3h ago",
+          "started": "5h ago",
           "percentageIncrease": "300%"
         },
         {
@@ -228,16 +237,8 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "16h ago",
+          "started": "18h ago",
           "percentageIncrease": "200%"
-        },
-        {
-          "name": "supreme",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "23h ago",
-          "percentageIncrease": "400%"
         }
       ]
     },
@@ -253,15 +254,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "14h ago",
-          "percentageIncrease": "600%"
-        },
-        {
-          "name": "tina peters",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "13h ago",
+          "started": "16h ago",
           "percentageIncrease": "500%"
         },
         {
@@ -269,7 +262,15 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "19h ago",
+          "started": "21h ago",
+          "percentageIncrease": "500%"
+        },
+        {
+          "name": "tina peters",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "15h ago",
           "percentageIncrease": "500%"
         },
         {
@@ -277,7 +278,7 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "16h ago",
+          "started": "18h ago",
           "percentageIncrease": "400%"
         },
         {
@@ -285,7 +286,7 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "4h ago",
+          "started": "6h ago",
           "percentageIncrease": "200%"
         },
         {
@@ -293,7 +294,7 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "14h ago",
+          "started": "16h ago",
           "percentageIncrease": "400%"
         }
       ]
@@ -309,8 +310,8 @@
           "name": "indiana redistricting",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "10K+",
-          "started": "21h ago",
+          "searchVolume": "5K+",
+          "started": "23h ago",
           "trendBreakdown": "indiana",
           "percentageIncrease": "800%"
         }
@@ -328,7 +329,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "22h ago",
+          "started": "24h ago",
           "percentageIncrease": "700%"
         },
         {
@@ -336,7 +337,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "17h ago",
+          "started": "19h ago",
           "percentageIncrease": "500%"
         }
       ]
@@ -344,24 +345,16 @@
     {
       "name": "Michigan",
       "code": "MI",
-      "topTopic": "tyler robinson",
+      "topTopic": "kristi noem",
       "category": "Law and Government",
-      "trendingScore": 100,
+      "trendingScore": 95,
       "topics": [
-        {
-          "name": "tyler robinson",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "17h ago",
-          "percentageIncrease": "600%"
-        },
         {
           "name": "kristi noem",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "11h ago",
+          "started": "13h ago",
           "percentageIncrease": "200%"
         }
       ]
@@ -378,7 +371,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "18h ago",
+          "started": "20h ago",
           "percentageIncrease": "700%"
         },
         {
@@ -386,23 +379,15 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "14h ago",
+          "started": "16h ago",
           "percentageIncrease": "600%"
-        },
-        {
-          "name": "winnipeg",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "13h ago",
-          "percentageIncrease": "500%"
         },
         {
           "name": "mark kelly",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "18h ago",
+          "started": "20h ago",
           "percentageIncrease": "1000%"
         },
         {
@@ -410,7 +395,7 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "1h ago",
+          "started": "3h ago",
           "percentageIncrease": "200%"
         },
         {
@@ -418,7 +403,7 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "18h ago",
+          "started": "20h ago",
           "percentageIncrease": "400%"
         }
       ]
@@ -435,7 +420,7 @@
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "3h ago",
+          "started": "5h ago",
           "percentageIncrease": "100%"
         }
       ]
@@ -452,7 +437,15 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "18h ago",
+          "started": "20h ago",
+          "percentageIncrease": "500%"
+        },
+        {
+          "name": "tina peters",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "16h ago",
           "percentageIncrease": "500%"
         },
         {
@@ -460,57 +453,41 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "14h ago",
+          "started": "16h ago",
           "percentageIncrease": "600%"
-        },
-        {
-          "name": "tina peters",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "14h ago",
-          "percentageIncrease": "300%"
         }
       ]
     },
     {
       "name": "North Carolina",
       "code": "NC",
-      "topTopic": "dan crenshaw",
+      "topTopic": "sycamore beer",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
+        {
+          "name": "sycamore beer",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "5K+",
+          "started": "15h ago",
+          "trendBreakdown": "sycamore",
+          "percentageIncrease": "1000%"
+        },
         {
           "name": "dan crenshaw",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "15h ago",
-          "percentageIncrease": "500%"
-        },
-        {
-          "name": "dominic connelly",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "2K+",
-          "started": "22h ago",
-          "percentageIncrease": "1000%"
-        },
-        {
-          "name": "nascar settlement",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "23h ago",
-          "trendBreakdown": "michael",
-          "percentageIncrease": "900%"
+          "started": "17h ago",
+          "percentageIncrease": "700%"
         },
         {
           "name": "tyler robinson",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "18h ago",
+          "started": "20h ago",
           "percentageIncrease": "500%"
         },
         {
@@ -518,7 +495,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "20h ago",
+          "started": "22h ago",
           "percentageIncrease": "800%"
         },
         {
@@ -526,7 +503,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "18h ago",
+          "started": "20h ago",
           "percentageIncrease": "1000%"
         },
         {
@@ -534,32 +511,32 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "18h ago",
+          "started": "20h ago",
           "percentageIncrease": "300%"
+        },
+        {
+          "name": "michael jordan",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "19h ago",
+          "percentageIncrease": "200%"
         }
       ]
     },
     {
       "name": "New York",
       "code": "NY",
-      "topTopic": "dan crenshaw",
+      "topTopic": "attorney general letitia james",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
-        {
-          "name": "dan crenshaw",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "15h ago",
-          "percentageIncrease": "500%"
-        },
         {
           "name": "attorney general letitia james",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "2h ago",
+          "started": "4h ago",
           "trendBreakdown": "letitia",
           "percentageIncrease": "500%"
         },
@@ -568,7 +545,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "15h ago",
+          "started": "17h ago",
           "percentageIncrease": "500%"
         },
         {
@@ -576,7 +553,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "17h ago",
+          "started": "19h ago",
           "trendBreakdown": "mark",
           "percentageIncrease": "600%"
         },
@@ -585,15 +562,15 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "19h ago",
+          "started": "21h ago",
           "percentageIncrease": "500%"
         },
         {
-          "name": "tina peters",
+          "name": "dan crenshaw",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "14h ago",
+          "started": "17h ago",
           "percentageIncrease": "400%"
         },
         {
@@ -601,42 +578,48 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "20h ago",
+          "started": "22h ago",
           "percentageIncrease": "400%"
         },
         {
-          "name": "kilmar abrego garcia",
+          "name": "tina peters",
           "relevanceScore": 95,
           "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "23h ago",
-          "trendBreakdown": "newsap",
-          "percentageIncrease": "300%"
+          "searchVolume": "1K+",
+          "started": "16h ago",
+          "percentageIncrease": "400%"
+        },
+        {
+          "name": "charlie javice",
+          "relevanceScore": 90,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "14h ago",
+          "percentageIncrease": "100%"
         }
       ]
     },
     {
       "name": "Ohio",
       "code": "OH",
-      "topTopic": "andrew tate",
+      "topTopic": "attorney general letitia james",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
+        {
+          "name": "attorney general letitia james",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "2h ago",
+          "percentageIncrease": "900%"
+        },
         {
           "name": "andrew tate",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "14h ago",
-          "percentageIncrease": "500%"
-        },
-        {
-          "name": "nascar",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "22h ago",
-          "trendBreakdown": "michael",
+          "started": "16h ago",
           "percentageIncrease": "500%"
         },
         {
@@ -644,15 +627,15 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "12h ago",
-          "percentageIncrease": "200%"
+          "started": "14h ago",
+          "percentageIncrease": "300%"
         },
         {
           "name": "tyler robinson",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "18h ago",
+          "started": "20h ago",
           "percentageIncrease": "400%"
         }
       ]
@@ -686,7 +669,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "15h ago",
+          "started": "17h ago",
           "percentageIncrease": "600%"
         },
         {
@@ -694,7 +677,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "19h ago",
+          "started": "21h ago",
           "percentageIncrease": "600%"
         },
         {
@@ -702,7 +685,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "19h ago",
+          "started": "21h ago",
           "percentageIncrease": "500%"
         },
         {
@@ -710,7 +693,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "18h ago",
+          "started": "20h ago",
           "trendBreakdown": "navy",
           "percentageIncrease": "600%"
         },
@@ -719,7 +702,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "14h ago",
+          "started": "16h ago",
           "percentageIncrease": "1000%"
         },
         {
@@ -727,32 +710,16 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "14h ago",
+          "started": "16h ago",
           "percentageIncrease": "500%"
-        },
-        {
-          "name": "attorney general letitia james",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "1h ago",
-          "percentageIncrease": "400%"
         },
         {
           "name": "tina peters",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "13h ago",
+          "started": "15h ago",
           "percentageIncrease": "400%"
-        },
-        {
-          "name": "supreme",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "24h ago",
-          "percentageIncrease": "300%"
         }
       ]
     },
@@ -768,7 +735,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "2K+",
-          "started": "21h ago",
+          "started": "23h ago",
           "trendBreakdown": "sycamore",
           "percentageIncrease": "1000%"
         }
@@ -786,15 +753,15 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "2h ago",
-          "percentageIncrease": "1000%"
+          "started": "4h ago",
+          "percentageIncrease": "900%"
         },
         {
           "name": "tina peters",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "11h ago",
+          "started": "13h ago",
           "percentageIncrease": "200%"
         },
         {
@@ -802,7 +769,7 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "16h ago",
+          "started": "18h ago",
           "percentageIncrease": "400%"
         }
       ]
@@ -819,24 +786,33 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "2K+",
-          "started": "15h ago",
+          "started": "17h ago",
           "percentageIncrease": "600%"
+        },
+        {
+          "name": "criminal defense attorney",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "2h ago",
+          "trendBreakdown": "criminal",
+          "percentageIncrease": "800%"
         },
         {
           "name": "mark kelly",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "18h ago",
+          "started": "20h ago",
           "trendBreakdown": "navy",
           "percentageIncrease": "600%"
         },
         {
-          "name": "tyler robinson",
+          "name": "attorney general letitia james",
           "relevanceScore": 95,
           "category": "Law and Government",
-          "searchVolume": "2K+",
-          "started": "20h ago",
+          "searchVolume": "500+",
+          "started": "4h ago",
           "percentageIncrease": "300%"
         },
         {
@@ -844,7 +820,7 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "2K+",
-          "started": "19h ago",
+          "started": "21h ago",
           "percentageIncrease": "400%"
         },
         {
@@ -852,24 +828,23 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "14h ago",
+          "started": "16h ago",
           "percentageIncrease": "300%"
         },
         {
-          "name": "kilmar abrego garcia",
+          "name": "tyler robinson",
           "relevanceScore": 95,
           "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "23h ago",
-          "trendBreakdown": "paula",
-          "percentageIncrease": "200%"
+          "searchVolume": "2K+",
+          "started": "22h ago",
+          "percentageIncrease": "300%"
         },
         {
           "name": "andrew tate",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "14h ago",
+          "started": "16h ago",
           "percentageIncrease": "200%"
         },
         {
@@ -877,7 +852,7 @@
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "14h ago",
+          "started": "16h ago",
           "percentageIncrease": "100%"
         },
         {
@@ -885,7 +860,7 @@
           "relevanceScore": 85,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "4h ago",
+          "started": "6h ago",
           "percentageIncrease": "50%"
         }
       ]
@@ -893,6 +868,47 @@
     {
       "name": "Virginia",
       "code": "VA",
+      "topTopic": "dan crenshaw",
+      "category": "Law and Government",
+      "trendingScore": 100,
+      "topics": [
+        {
+          "name": "dan crenshaw",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "1K+",
+          "started": "16h ago",
+          "percentageIncrease": "600%"
+        },
+        {
+          "name": "kristi noem",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "1K+",
+          "started": "19h ago",
+          "percentageIncrease": "500%"
+        },
+        {
+          "name": "tina peters",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "15h ago",
+          "percentageIncrease": "500%"
+        },
+        {
+          "name": "kilmar abrego garcia",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "18h ago",
+          "percentageIncrease": "400%"
+        }
+      ]
+    },
+    {
+      "name": "District of Columbia",
+      "code": "DC",
       "topTopic": "tina peters",
       "category": "Law and Government",
       "trendingScore": 100,
@@ -902,90 +918,23 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "13h ago",
-          "percentageIncrease": "500%"
-        },
-        {
-          "name": "kristi noem",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "17h ago",
-          "percentageIncrease": "500%"
-        },
-        {
-          "name": "dan crenshaw",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "14h ago",
-          "percentageIncrease": "600%"
-        },
-        {
-          "name": "fairfax high school",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "22h ago",
-          "trendBreakdown": "fairfax",
-          "percentageIncrease": "1000%"
-        },
-        {
-          "name": "kilmar abrego garcia",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "100+",
           "started": "16h ago",
-          "percentageIncrease": "400%"
-        }
-      ]
-    },
-    {
-      "name": "District of Columbia",
-      "code": "DC",
-      "topTopic": "kilmar abrego garcia",
-      "category": "Law and Government",
-      "trendingScore": 100,
-      "topics": [
-        {
-          "name": "kilmar abrego garcia",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "23h ago",
-          "percentageIncrease": "800%"
-        },
-        {
-          "name": "fairfax high school",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "22h ago",
-          "trendBreakdown": "fairfax",
-          "percentageIncrease": "1000%"
+          "percentageIncrease": "500%"
         },
         {
           "name": "andrew tate",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "14h ago",
+          "started": "16h ago",
           "percentageIncrease": "600%"
-        },
-        {
-          "name": "tina peters",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "14h ago",
-          "percentageIncrease": "400%"
         },
         {
           "name": "kyle rittenhouse",
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "5h ago",
+          "started": "7h ago",
           "percentageIncrease": "100%"
         }
       ]
@@ -1036,7 +985,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "19h ago",
+          "started": "21h ago",
           "percentageIncrease": "500%"
         },
         {
@@ -1044,7 +993,7 @@
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "13h ago",
+          "started": "15h ago",
           "percentageIncrease": "100%"
         }
       ]
@@ -1052,16 +1001,16 @@
     {
       "name": "Alabama",
       "code": "AL",
-      "topTopic": "que",
+      "topTopic": "pete hegseth",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
         {
-          "name": "que",
+          "name": "pete hegseth",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "21h ago",
+          "searchVolume": "100+",
+          "started": "20 minutes ago",
           "percentageIncrease": "700%"
         }
       ]
@@ -1112,7 +1061,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "2K+",
-          "started": "15h ago",
+          "started": "17h ago",
           "percentageIncrease": "1000%"
         }
       ]
@@ -1129,7 +1078,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "16h ago",
+          "started": "18h ago",
           "percentageIncrease": "1000%"
         },
         {
@@ -1137,7 +1086,7 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "21h ago",
+          "started": "23h ago",
           "percentageIncrease": "400%"
         }
       ]
@@ -1221,7 +1170,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "19h ago",
+          "started": "21h ago",
           "percentageIncrease": "1000%"
         }
       ]
@@ -1289,7 +1238,8 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "2h ago",
+          "started": "4h ago",
+          "trendBreakdown": "amolao",
           "percentageIncrease": "1000%"
         }
       ]
@@ -1323,8 +1273,8 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "20h ago",
-          "percentageIncrease": "600%"
+          "started": "22h ago",
+          "percentageIncrease": "700%"
         }
       ]
     },
