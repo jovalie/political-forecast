@@ -1,20 +1,29 @@
 {
-  "timestamp": "2025-12-12T18:04:54.038Z",
+  "timestamp": "2025-12-12T20:04:35.602Z",
   "states": [
     {
       "name": "Louisiana",
       "code": "LA",
-      "topTopic": "kentucky state university",
+      "topTopic": "university of new orleans",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
         {
-          "name": "kentucky state university",
+          "name": "university of new orleans",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "23h ago",
+          "searchVolume": "500+",
+          "started": "2h ago",
+          "trendBreakdown": "uno",
           "percentageIncrease": "1000%"
+        },
+        {
+          "name": "dan crenshaw",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "16h ago",
+          "percentageIncrease": "400%"
         }
       ]
     }

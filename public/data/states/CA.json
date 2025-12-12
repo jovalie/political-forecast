@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-12-12T18:04:54.038Z",
+  "timestamp": "2025-12-12T20:04:35.602Z",
   "states": [
     {
       "name": "California",
@@ -12,17 +12,8 @@
           "name": "dan crenshaw",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "2K+",
-          "started": "17h ago",
-          "percentageIncrease": "600%"
-        },
-        {
-          "name": "attorney general letitia james",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "4h ago",
-          "trendBreakdown": "letitia",
+          "searchVolume": "5K+",
+          "started": "19h ago",
           "percentageIncrease": "500%"
         },
         {
@@ -30,7 +21,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "20h ago",
+          "started": "22h ago",
           "trendBreakdown": "navy",
           "percentageIncrease": "500%"
         },
@@ -39,23 +30,24 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "2K+",
-          "started": "17h ago",
+          "started": "19h ago",
           "percentageIncrease": "400%"
         },
         {
-          "name": "tyler robinson",
+          "name": "attorney general letitia james",
           "relevanceScore": 95,
           "category": "Law and Government",
-          "searchVolume": "2K+",
-          "started": "22h ago",
-          "percentageIncrease": "300%"
+          "searchVolume": "1K+",
+          "started": "6h ago",
+          "trendBreakdown": "letitia",
+          "percentageIncrease": "400%"
         },
         {
           "name": "trump walker",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "17h ago",
+          "started": "19h ago",
           "percentageIncrease": "300%"
         },
         {
@@ -63,7 +55,7 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "16h ago",
+          "started": "18h ago",
           "trendBreakdown": "taco",
           "percentageIncrease": "300%"
         },
@@ -72,7 +64,7 @@
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "14h ago",
+          "started": "16h ago",
           "percentageIncrease": "100%"
         },
         {
@@ -80,7 +72,7 @@
           "relevanceScore": 85,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "15h ago",
+          "started": "17h ago",
           "percentageIncrease": "75%"
         }
       ]

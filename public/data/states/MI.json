@@ -1,19 +1,27 @@
 {
-  "timestamp": "2025-12-12T18:04:54.038Z",
+  "timestamp": "2025-12-12T20:04:35.602Z",
   "states": [
     {
       "name": "Michigan",
       "code": "MI",
-      "topTopic": "kristi noem",
+      "topTopic": "dan crenshaw",
       "category": "Law and Government",
       "trendingScore": 95,
       "topics": [
+        {
+          "name": "dan crenshaw",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "18h ago",
+          "percentageIncrease": "400%"
+        },
         {
           "name": "kristi noem",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "13h ago",
+          "started": "15h ago",
           "percentageIncrease": "200%"
         }
       ]

@@ -1,36 +1,20 @@
 {
-  "timestamp": "2025-12-12T18:04:54.038Z",
+  "timestamp": "2025-12-12T20:04:35.602Z",
   "states": [
     {
       "name": "Minnesota",
       "code": "MN",
-      "topTopic": "dan crenshaw",
+      "topTopic": "eden prairie high school",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
         {
-          "name": "dan crenshaw",
+          "name": "eden prairie high school",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "9h ago",
-          "percentageIncrease": "700%"
-        },
-        {
-          "name": "tina peters",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "6h ago",
-          "percentageIncrease": "300%"
-        },
-        {
-          "name": "kristi noem",
-          "relevanceScore": 90,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "6h ago",
-          "percentageIncrease": "100%"
+          "searchVolume": "500+",
+          "started": "2h ago",
+          "percentageIncrease": "1000%"
         }
       ]
     }

@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-12-12T18:04:54.038Z",
+  "timestamp": "2025-12-12T20:04:35.602Z",
   "states": [
     {
       "name": "California",
@@ -12,17 +12,8 @@
           "name": "dan crenshaw",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "2K+",
-          "started": "17h ago",
-          "percentageIncrease": "600%"
-        },
-        {
-          "name": "attorney general letitia james",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "4h ago",
-          "trendBreakdown": "letitia",
+          "searchVolume": "5K+",
+          "started": "19h ago",
           "percentageIncrease": "500%"
         },
         {
@@ -30,7 +21,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "20h ago",
+          "started": "22h ago",
           "trendBreakdown": "navy",
           "percentageIncrease": "500%"
         },
@@ -39,23 +30,24 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "2K+",
-          "started": "17h ago",
+          "started": "19h ago",
           "percentageIncrease": "400%"
         },
         {
-          "name": "tyler robinson",
+          "name": "attorney general letitia james",
           "relevanceScore": 95,
           "category": "Law and Government",
-          "searchVolume": "2K+",
-          "started": "22h ago",
-          "percentageIncrease": "300%"
+          "searchVolume": "1K+",
+          "started": "6h ago",
+          "trendBreakdown": "letitia",
+          "percentageIncrease": "400%"
         },
         {
           "name": "trump walker",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "17h ago",
+          "started": "19h ago",
           "percentageIncrease": "300%"
         },
         {
@@ -63,7 +55,7 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "16h ago",
+          "started": "18h ago",
           "trendBreakdown": "taco",
           "percentageIncrease": "300%"
         },
@@ -72,7 +64,7 @@
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "14h ago",
+          "started": "16h ago",
           "percentageIncrease": "100%"
         },
         {
@@ -80,7 +72,7 @@
           "relevanceScore": 85,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "15h ago",
+          "started": "17h ago",
           "percentageIncrease": "75%"
         }
       ]
@@ -88,16 +80,24 @@
     {
       "name": "Arizona",
       "code": "AZ",
-      "topTopic": "tyler robinson",
+      "topTopic": "dan crenshaw",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
+        {
+          "name": "dan crenshaw",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "18h ago",
+          "percentageIncrease": "600%"
+        },
         {
           "name": "tyler robinson",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "19h ago",
+          "started": "21h ago",
           "percentageIncrease": "600%"
         },
         {
@@ -105,7 +105,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "20h ago",
+          "started": "22h ago",
           "percentageIncrease": "500%"
         }
       ]
@@ -122,56 +122,40 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "2K+",
-          "started": "17h ago",
-          "percentageIncrease": "800%"
+          "started": "19h ago",
+          "percentageIncrease": "700%"
         },
         {
           "name": "mark kelly",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "20h ago",
+          "started": "22h ago",
           "trendBreakdown": "navy",
           "percentageIncrease": "700%"
-        },
-        {
-          "name": "attorney general letitia james",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "3h ago",
-          "percentageIncrease": "300%"
         },
         {
           "name": "tina peters",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "16h ago",
+          "started": "18h ago",
           "percentageIncrease": "400%"
         },
         {
-          "name": "tyler robinson",
+          "name": "attorney general letitia james",
           "relevanceScore": 95,
           "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "22h ago",
+          "searchVolume": "500+",
+          "started": "5h ago",
           "percentageIncrease": "300%"
-        },
-        {
-          "name": "license plate frame florida law",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "22h ago",
-          "percentageIncrease": "400%"
         },
         {
           "name": "kilmar abrego garcia",
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "8h ago",
+          "started": "10h ago",
           "percentageIncrease": "100%"
         },
         {
@@ -179,7 +163,7 @@
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "13h ago",
+          "started": "15h ago",
           "percentageIncrease": "100%"
         }
       ]
@@ -195,17 +179,25 @@
           "name": "north atlanta high school",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "2h ago",
+          "searchVolume": "1K+",
+          "started": "4h ago",
           "trendBreakdown": "north",
           "percentageIncrease": "1000%"
+        },
+        {
+          "name": "dan crenshaw",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "1K+",
+          "started": "18h ago",
+          "percentageIncrease": "600%"
         },
         {
           "name": "nascar settlement",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "19h ago",
+          "started": "21h ago",
           "percentageIncrease": "500%"
         },
         {
@@ -213,7 +205,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "19h ago",
+          "started": "21h ago",
           "percentageIncrease": "800%"
         },
         {
@@ -221,7 +213,7 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "19h ago",
+          "started": "21h ago",
           "percentageIncrease": "300%"
         },
         {
@@ -229,16 +221,8 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "5h ago",
+          "started": "7h ago",
           "percentageIncrease": "300%"
-        },
-        {
-          "name": "stacey humphreys",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "18h ago",
-          "percentageIncrease": "200%"
         }
       ]
     },
@@ -254,7 +238,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "16h ago",
+          "started": "18h ago",
           "percentageIncrease": "500%"
         },
         {
@@ -262,7 +246,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "21h ago",
+          "started": "23h ago",
           "percentageIncrease": "500%"
         },
         {
@@ -270,7 +254,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "15h ago",
+          "started": "17h ago",
           "percentageIncrease": "500%"
         },
         {
@@ -278,23 +262,23 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "18h ago",
+          "started": "20h ago",
           "percentageIncrease": "400%"
         },
         {
-          "name": "wandtv",
+          "name": "attorney general letitia james",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "6h ago",
-          "percentageIncrease": "200%"
+          "started": "4h ago",
+          "percentageIncrease": "300%"
         },
         {
           "name": "andrew tate",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "16h ago",
+          "started": "18h ago",
           "percentageIncrease": "400%"
         }
       ]
@@ -302,42 +286,42 @@
     {
       "name": "Indiana",
       "code": "IN",
-      "topTopic": "indiana redistricting",
+      "topTopic": "dan crenshaw",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
         {
-          "name": "indiana redistricting",
+          "name": "dan crenshaw",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "5K+",
-          "started": "23h ago",
+          "searchVolume": "500+",
+          "started": "18h ago",
+          "percentageIncrease": "500%"
+        },
+        {
+          "name": "redistricting indiana",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "2K+",
+          "started": "22h ago",
           "trendBreakdown": "indiana",
-          "percentageIncrease": "800%"
+          "percentageIncrease": "1000%"
         }
       ]
     },
     {
       "name": "Maryland",
       "code": "MD",
-      "topTopic": "kilmar abrego garcia",
+      "topTopic": "tyler robinson",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
-        {
-          "name": "kilmar abrego garcia",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "24h ago",
-          "percentageIncrease": "700%"
-        },
         {
           "name": "tyler robinson",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "19h ago",
+          "started": "21h ago",
           "percentageIncrease": "500%"
         }
       ]
@@ -345,16 +329,24 @@
     {
       "name": "Michigan",
       "code": "MI",
-      "topTopic": "kristi noem",
+      "topTopic": "dan crenshaw",
       "category": "Law and Government",
       "trendingScore": 95,
       "topics": [
+        {
+          "name": "dan crenshaw",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "18h ago",
+          "percentageIncrease": "400%"
+        },
         {
           "name": "kristi noem",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "13h ago",
+          "started": "15h ago",
           "percentageIncrease": "200%"
         }
       ]
@@ -371,7 +363,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "20h ago",
+          "started": "22h ago",
           "percentageIncrease": "700%"
         },
         {
@@ -379,7 +371,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "16h ago",
+          "started": "18h ago",
           "percentageIncrease": "600%"
         },
         {
@@ -387,23 +379,15 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "20h ago",
+          "started": "22h ago",
           "percentageIncrease": "1000%"
-        },
-        {
-          "name": "brian walshe trial live",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "3h ago",
-          "percentageIncrease": "200%"
         },
         {
           "name": "tyler robinson",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "20h ago",
+          "started": "22h ago",
           "percentageIncrease": "400%"
         }
       ]
@@ -411,16 +395,24 @@
     {
       "name": "Missouri",
       "code": "MO",
-      "topTopic": "kyle rittenhouse",
+      "topTopic": "dan crenshaw",
       "category": "Law and Government",
-      "trendingScore": 90,
+      "trendingScore": 95,
       "topics": [
+        {
+          "name": "dan crenshaw",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "17h ago",
+          "percentageIncrease": "400%"
+        },
         {
           "name": "kyle rittenhouse",
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "5h ago",
+          "started": "7h ago",
           "percentageIncrease": "100%"
         }
       ]
@@ -437,7 +429,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "20h ago",
+          "started": "22h ago",
           "percentageIncrease": "500%"
         },
         {
@@ -445,7 +437,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "16h ago",
+          "started": "18h ago",
           "percentageIncrease": "500%"
         },
         {
@@ -453,7 +445,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "16h ago",
+          "started": "18h ago",
           "percentageIncrease": "600%"
         }
       ]
@@ -461,16 +453,16 @@
     {
       "name": "North Carolina",
       "code": "NC",
-      "topTopic": "sycamore beer",
+      "topTopic": "sycamore brewing clt",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
         {
-          "name": "sycamore beer",
+          "name": "sycamore brewing clt",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "5K+",
-          "started": "15h ago",
+          "started": "17h ago",
           "trendBreakdown": "sycamore",
           "percentageIncrease": "1000%"
         },
@@ -479,31 +471,23 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "17h ago",
-          "percentageIncrease": "700%"
+          "started": "19h ago",
+          "percentageIncrease": "600%"
         },
         {
           "name": "tyler robinson",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "20h ago",
-          "percentageIncrease": "500%"
-        },
-        {
-          "name": "highlands nc",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "100+",
           "started": "22h ago",
-          "percentageIncrease": "800%"
+          "percentageIncrease": "500%"
         },
         {
           "name": "mark kelly",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "20h ago",
+          "started": "22h ago",
           "percentageIncrease": "1000%"
         },
         {
@@ -511,7 +495,7 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "20h ago",
+          "started": "22h ago",
           "percentageIncrease": "300%"
         },
         {
@@ -519,7 +503,7 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "19h ago",
+          "started": "21h ago",
           "percentageIncrease": "200%"
         }
       ]
@@ -527,16 +511,24 @@
     {
       "name": "New York",
       "code": "NY",
-      "topTopic": "attorney general letitia james",
+      "topTopic": "kerri aherne",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
         {
+          "name": "kerri aherne",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "2K+",
+          "started": "9h ago",
+          "percentageIncrease": "900%"
+        },
+        {
           "name": "attorney general letitia james",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "4h ago",
+          "searchVolume": "1K+",
+          "started": "6h ago",
           "trendBreakdown": "letitia",
           "percentageIncrease": "500%"
         },
@@ -545,7 +537,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "17h ago",
+          "started": "19h ago",
           "percentageIncrease": "500%"
         },
         {
@@ -553,7 +545,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "19h ago",
+          "started": "21h ago",
           "trendBreakdown": "mark",
           "percentageIncrease": "600%"
         },
@@ -562,7 +554,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "21h ago",
+          "started": "23h ago",
           "percentageIncrease": "500%"
         },
         {
@@ -570,15 +562,7 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "17h ago",
-          "percentageIncrease": "400%"
-        },
-        {
-          "name": "tyler robinson",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "22h ago",
+          "started": "19h ago",
           "percentageIncrease": "400%"
         },
         {
@@ -586,7 +570,7 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "16h ago",
+          "started": "18h ago",
           "percentageIncrease": "400%"
         },
         {
@@ -594,7 +578,7 @@
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "14h ago",
+          "started": "16h ago",
           "percentageIncrease": "100%"
         }
       ]
@@ -602,24 +586,24 @@
     {
       "name": "Ohio",
       "code": "OH",
-      "topTopic": "attorney general letitia james",
+      "topTopic": "dan crenshaw",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
         {
-          "name": "attorney general letitia james",
+          "name": "dan crenshaw",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "2h ago",
-          "percentageIncrease": "900%"
+          "searchVolume": "1K+",
+          "started": "18h ago",
+          "percentageIncrease": "600%"
         },
         {
           "name": "andrew tate",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "16h ago",
+          "started": "18h ago",
           "percentageIncrease": "500%"
         },
         {
@@ -627,7 +611,7 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "14h ago",
+          "started": "16h ago",
           "percentageIncrease": "300%"
         },
         {
@@ -635,7 +619,7 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "20h ago",
+          "started": "22h ago",
           "percentageIncrease": "400%"
         }
       ]
@@ -669,15 +653,15 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "17h ago",
-          "percentageIncrease": "600%"
+          "started": "19h ago",
+          "percentageIncrease": "500%"
         },
         {
           "name": "kristi noem",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "21h ago",
+          "started": "23h ago",
           "percentageIncrease": "600%"
         },
         {
@@ -685,7 +669,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "21h ago",
+          "started": "23h ago",
           "percentageIncrease": "500%"
         },
         {
@@ -693,7 +677,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "20h ago",
+          "started": "22h ago",
           "trendBreakdown": "navy",
           "percentageIncrease": "600%"
         },
@@ -702,7 +686,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "16h ago",
+          "started": "18h ago",
           "percentageIncrease": "1000%"
         },
         {
@@ -710,7 +694,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "16h ago",
+          "started": "18h ago",
           "percentageIncrease": "500%"
         },
         {
@@ -718,7 +702,7 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "15h ago",
+          "started": "17h ago",
           "percentageIncrease": "400%"
         }
       ]
@@ -753,15 +737,23 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "4h ago",
+          "started": "6h ago",
           "percentageIncrease": "900%"
+        },
+        {
+          "name": "dan crenshaw",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "18h ago",
+          "percentageIncrease": "500%"
         },
         {
           "name": "tina peters",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "13h ago",
+          "started": "15h ago",
           "percentageIncrease": "200%"
         },
         {
@@ -769,7 +761,7 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "18h ago",
+          "started": "20h ago",
           "percentageIncrease": "400%"
         }
       ]
@@ -786,15 +778,16 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "2K+",
-          "started": "17h ago",
-          "percentageIncrease": "600%"
+          "started": "19h ago",
+          "trendBreakdown": "shawn",
+          "percentageIncrease": "500%"
         },
         {
           "name": "criminal defense attorney",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "2h ago",
+          "searchVolume": "1K+",
+          "started": "4h ago",
           "trendBreakdown": "criminal",
           "percentageIncrease": "800%"
         },
@@ -803,48 +796,40 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "20h ago",
+          "started": "22h ago",
           "trendBreakdown": "navy",
           "percentageIncrease": "600%"
-        },
-        {
-          "name": "attorney general letitia james",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "4h ago",
-          "percentageIncrease": "300%"
         },
         {
           "name": "kristi noem",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "2K+",
-          "started": "21h ago",
+          "started": "23h ago",
           "percentageIncrease": "400%"
+        },
+        {
+          "name": "attorney general letitia james",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "6h ago",
+          "percentageIncrease": "300%"
         },
         {
           "name": "tina peters",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "16h ago",
-          "percentageIncrease": "300%"
-        },
-        {
-          "name": "tyler robinson",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "2K+",
-          "started": "22h ago",
-          "percentageIncrease": "300%"
+          "started": "18h ago",
+          "percentageIncrease": "200%"
         },
         {
           "name": "andrew tate",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "16h ago",
+          "started": "18h ago",
           "percentageIncrease": "200%"
         },
         {
@@ -852,7 +837,7 @@
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "16h ago",
+          "started": "18h ago",
           "percentageIncrease": "100%"
         },
         {
@@ -860,7 +845,7 @@
           "relevanceScore": 85,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "6h ago",
+          "started": "8h ago",
           "percentageIncrease": "50%"
         }
       ]
@@ -877,7 +862,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "16h ago",
+          "started": "18h ago",
           "percentageIncrease": "600%"
         },
         {
@@ -885,7 +870,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "19h ago",
+          "started": "21h ago",
           "percentageIncrease": "500%"
         },
         {
@@ -893,7 +878,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "15h ago",
+          "started": "17h ago",
           "percentageIncrease": "500%"
         },
         {
@@ -901,7 +886,7 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "18h ago",
+          "started": "20h ago",
           "percentageIncrease": "400%"
         }
       ]
@@ -909,32 +894,40 @@
     {
       "name": "District of Columbia",
       "code": "DC",
-      "topTopic": "tina peters",
+      "topTopic": "andrew tate",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
-        {
-          "name": "tina peters",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "16h ago",
-          "percentageIncrease": "500%"
-        },
         {
           "name": "andrew tate",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "16h ago",
+          "started": "18h ago",
           "percentageIncrease": "600%"
+        },
+        {
+          "name": "dan crenshaw",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "18h ago",
+          "percentageIncrease": "400%"
+        },
+        {
+          "name": "tina peters",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "18h ago",
+          "percentageIncrease": "400%"
         },
         {
           "name": "kyle rittenhouse",
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "7h ago",
+          "started": "9h ago",
           "percentageIncrease": "100%"
         }
       ]
@@ -985,15 +978,23 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "21h ago",
+          "started": "23h ago",
           "percentageIncrease": "500%"
+        },
+        {
+          "name": "dan crenshaw",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "1K+",
+          "started": "18h ago",
+          "percentageIncrease": "400%"
         },
         {
           "name": "vaccines",
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "15h ago",
+          "started": "17h ago",
           "percentageIncrease": "100%"
         }
       ]
@@ -1061,8 +1062,16 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "2K+",
-          "started": "17h ago",
+          "started": "19h ago",
           "percentageIncrease": "1000%"
+        },
+        {
+          "name": "dan crenshaw",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "18h ago",
+          "percentageIncrease": "500%"
         }
       ]
     },
@@ -1078,66 +1087,51 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "18h ago",
+          "started": "20h ago",
           "percentageIncrease": "1000%"
-        },
-        {
-          "name": "radar",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "23h ago",
-          "percentageIncrease": "400%"
         }
       ]
     },
     {
       "name": "Louisiana",
       "code": "LA",
-      "topTopic": "kentucky state university",
+      "topTopic": "university of new orleans",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
         {
-          "name": "kentucky state university",
+          "name": "university of new orleans",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "23h ago",
+          "searchVolume": "500+",
+          "started": "2h ago",
+          "trendBreakdown": "uno",
           "percentageIncrease": "1000%"
+        },
+        {
+          "name": "dan crenshaw",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "16h ago",
+          "percentageIncrease": "400%"
         }
       ]
     },
     {
       "name": "Minnesota",
       "code": "MN",
-      "topTopic": "dan crenshaw",
+      "topTopic": "eden prairie high school",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
         {
-          "name": "dan crenshaw",
+          "name": "eden prairie high school",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "9h ago",
-          "percentageIncrease": "700%"
-        },
-        {
-          "name": "tina peters",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "6h ago",
-          "percentageIncrease": "300%"
-        },
-        {
-          "name": "kristi noem",
-          "relevanceScore": 90,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "6h ago",
-          "percentageIncrease": "100%"
+          "searchVolume": "500+",
+          "started": "2h ago",
+          "percentageIncrease": "1000%"
         }
       ]
     },
@@ -1170,7 +1164,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "21h ago",
+          "started": "23h ago",
           "percentageIncrease": "1000%"
         }
       ]
