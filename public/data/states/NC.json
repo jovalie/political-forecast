@@ -1,35 +1,35 @@
 {
-  "timestamp": "2025-12-12T12:04:48.685Z",
+  "timestamp": "2025-12-12T14:05:01.012Z",
   "states": [
     {
       "name": "North Carolina",
       "code": "NC",
-      "topTopic": "dominic connelly",
+      "topTopic": "dan crenshaw",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
+        {
+          "name": "dan crenshaw",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "1K+",
+          "started": "13h ago",
+          "percentageIncrease": "700%"
+        },
         {
           "name": "dominic connelly",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "2K+",
-          "started": "18h ago",
+          "started": "20h ago",
           "percentageIncrease": "1000%"
-        },
-        {
-          "name": "dan crenshaw",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "11h ago",
-          "percentageIncrease": "700%"
         },
         {
           "name": "nascar settlement",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "2K+",
-          "started": "19h ago",
+          "started": "21h ago",
           "trendBreakdown": "jordanmichael",
           "percentageIncrease": "900%"
         },
@@ -38,7 +38,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "14h ago",
+          "started": "16h ago",
           "percentageIncrease": "500%"
         },
         {
@@ -46,7 +46,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "16h ago",
+          "started": "18h ago",
           "percentageIncrease": "800%"
         },
         {
@@ -54,16 +54,16 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "14h ago",
+          "started": "16h ago",
           "percentageIncrease": "1000%"
         },
         {
-          "name": "trump gold card",
+          "name": "kristi noem",
           "relevanceScore": 95,
           "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "23h ago",
-          "percentageIncrease": "200%"
+          "searchVolume": "500+",
+          "started": "16h ago",
+          "percentageIncrease": "300%"
         }
       ]
     }

@@ -1,35 +1,27 @@
 {
-  "timestamp": "2025-12-12T12:04:48.685Z",
+  "timestamp": "2025-12-12T14:05:01.012Z",
   "states": [
     {
       "name": "Arizona",
       "code": "AZ",
-      "topTopic": "que",
+      "topTopic": "tyler robinson",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
-        {
-          "name": "que",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "2K+",
-          "started": "23h ago",
-          "percentageIncrease": "1000%"
-        },
         {
           "name": "tyler robinson",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "13h ago",
-          "percentageIncrease": "500%"
+          "started": "15h ago",
+          "percentageIncrease": "600%"
         },
         {
           "name": "mark kelly",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "14h ago",
+          "started": "16h ago",
           "percentageIncrease": "500%"
         },
         {
@@ -37,8 +29,16 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
+          "started": "10h ago",
+          "percentageIncrease": "300%"
+        },
+        {
+          "name": "kristi noem",
+          "relevanceScore": 90,
+          "category": "Law and Government",
+          "searchVolume": "100+",
           "started": "8h ago",
-          "percentageIncrease": "400%"
+          "percentageIncrease": "100%"
         }
       ]
     }

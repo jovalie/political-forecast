@@ -1,21 +1,20 @@
 {
-  "timestamp": "2025-12-12T12:04:48.685Z",
+  "timestamp": "2025-12-12T14:05:01.012Z",
   "states": [
     {
       "name": "Nebraska",
       "code": "NE",
-      "topTopic": "ketv",
+      "topTopic": "smu",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
         {
-          "name": "ketv",
+          "name": "smu",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "22h ago",
-          "trendBreakdown": "omaha",
-          "percentageIncrease": "500%"
+          "searchVolume": "100+",
+          "started": "10h ago",
+          "percentageIncrease": "600%"
         }
       ]
     }
