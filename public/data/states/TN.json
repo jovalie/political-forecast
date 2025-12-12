@@ -1,36 +1,36 @@
 {
-  "timestamp": "2025-12-12T10:04:52.587Z",
+  "timestamp": "2025-12-12T12:04:48.685Z",
   "states": [
     {
       "name": "Tennessee",
       "code": "TN",
-      "topTopic": "que",
+      "topTopic": "harold wayne nichols",
       "category": "Law and Government",
-      "trendingScore": 100,
+      "trendingScore": 95,
       "topics": [
-        {
-          "name": "que",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "2K+",
-          "started": "22h ago",
-          "percentageIncrease": "1000%"
-        },
         {
           "name": "harold wayne nichols",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "21h ago",
+          "started": "23h ago",
           "trendBreakdown": "harold",
           "percentageIncrease": "300%"
+        },
+        {
+          "name": "tina peters",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "7h ago",
+          "percentageIncrease": "200%"
         },
         {
           "name": "tyler robinson",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "10h ago",
+          "started": "12h ago",
           "percentageIncrease": "400%"
         },
         {
@@ -38,7 +38,7 @@
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "23h ago",
+          "started": "1h ago",
           "percentageIncrease": "100%"
         }
       ]

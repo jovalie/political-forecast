@@ -1,27 +1,19 @@
 {
-  "timestamp": "2025-12-12T10:04:52.587Z",
+  "timestamp": "2025-12-12T12:04:48.685Z",
   "states": [
     {
       "name": "Iowa",
       "code": "IA",
-      "topTopic": "que",
+      "topTopic": "terry branstad",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
-        {
-          "name": "que",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "22h ago",
-          "percentageIncrease": "900%"
-        },
         {
           "name": "terry branstad",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "10h ago",
+          "started": "12h ago",
           "percentageIncrease": "1000%"
         },
         {
@@ -29,7 +21,7 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "15h ago",
+          "started": "17h ago",
           "percentageIncrease": "400%"
         }
       ]

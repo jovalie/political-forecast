@@ -1,28 +1,28 @@
 {
-  "timestamp": "2025-12-12T10:04:52.587Z",
+  "timestamp": "2025-12-12T12:04:48.685Z",
   "states": [
     {
       "name": "Washington",
       "code": "WA",
-      "topTopic": "que",
+      "topTopic": "kristi noem",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
-        {
-          "name": "que",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "2K+",
-          "started": "23h ago",
-          "percentageIncrease": "1000%"
-        },
         {
           "name": "kristi noem",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "13h ago",
+          "started": "15h ago",
           "percentageIncrease": "500%"
+        },
+        {
+          "name": "vaccines",
+          "relevanceScore": 90,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "9h ago",
+          "percentageIncrease": "100%"
         }
       ]
     }

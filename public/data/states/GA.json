@@ -1,44 +1,27 @@
 {
-  "timestamp": "2025-12-12T10:04:52.587Z",
+  "timestamp": "2025-12-12T12:04:48.685Z",
   "states": [
     {
       "name": "Georgia",
       "code": "GA",
-      "topTopic": "tina peters",
+      "topTopic": "mark kelly",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
-        {
-          "name": "tina peters",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "6h ago",
-          "percentageIncrease": "500%"
-        },
         {
           "name": "mark kelly",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "11h ago",
+          "started": "13h ago",
           "percentageIncrease": "800%"
-        },
-        {
-          "name": "tyler robinson",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "12h ago",
-          "trendBreakdown": "erika",
-          "percentageIncrease": "300%"
         },
         {
           "name": "supreme",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "17h ago",
+          "started": "19h ago",
           "percentageIncrease": "400%"
         }
       ]
