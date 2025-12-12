@@ -1,35 +1,35 @@
 {
-  "timestamp": "2025-12-12T08:04:39.160Z",
+  "timestamp": "2025-12-12T10:04:52.587Z",
   "states": [
     {
       "name": "Arizona",
       "code": "AZ",
-      "topTopic": "que",
+      "topTopic": "tina peters",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
-        {
-          "name": "que",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "2K+",
-          "started": "19h ago",
-          "percentageIncrease": "1000%"
-        },
         {
           "name": "tina peters",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "4h ago",
+          "started": "6h ago",
           "percentageIncrease": "500%"
+        },
+        {
+          "name": "que",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "2K+",
+          "started": "21h ago",
+          "percentageIncrease": "1000%"
         },
         {
           "name": "tyler robinson",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "9h ago",
+          "started": "11h ago",
           "percentageIncrease": "500%"
         },
         {
@@ -37,7 +37,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "10h ago",
+          "started": "12h ago",
           "percentageIncrease": "500%"
         }
       ]

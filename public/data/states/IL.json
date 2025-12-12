@@ -1,36 +1,35 @@
 {
-  "timestamp": "2025-12-12T08:04:39.160Z",
+  "timestamp": "2025-12-12T10:04:52.587Z",
   "states": [
     {
       "name": "Illinois",
       "code": "IL",
-      "topTopic": "tyler robinson",
+      "topTopic": "dan crenshaw",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
-        {
-          "name": "tyler robinson",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "11h ago",
-          "trendBreakdown": "charlie",
-          "percentageIncrease": "600%"
-        },
         {
           "name": "dan crenshaw",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "6h ago",
-          "percentageIncrease": "800%"
+          "started": "8h ago",
+          "percentageIncrease": "700%"
+        },
+        {
+          "name": "tyler robinson",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "1K+",
+          "started": "13h ago",
+          "percentageIncrease": "600%"
         },
         {
           "name": "dicks sporting",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "19h ago",
+          "started": "21h ago",
           "percentageIncrease": "300%"
         },
         {
@@ -38,7 +37,7 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "6h ago",
+          "started": "8h ago",
           "percentageIncrease": "400%"
         }
       ]
