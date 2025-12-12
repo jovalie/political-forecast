@@ -1,35 +1,27 @@
 {
-  "timestamp": "2025-12-12T04:14:05.573Z",
+  "timestamp": "2025-12-12T06:04:47.576Z",
   "states": [
     {
       "name": "Arizona",
       "code": "AZ",
-      "topTopic": "que",
+      "topTopic": "tina peters",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
         {
-          "name": "que",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "2K+",
-          "started": "16h ago",
-          "percentageIncrease": "1000%"
-        },
-        {
-          "name": "luke moran phoenix fire department",
+          "name": "tina peters",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "1h ago",
-          "percentageIncrease": "700%"
+          "started": "2h ago",
+          "percentageIncrease": "500%"
         },
         {
           "name": "tyler robinson",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "5h ago",
+          "started": "7h ago",
           "percentageIncrease": "600%"
         },
         {
@@ -37,7 +29,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "6h ago",
+          "started": "8h ago",
           "percentageIncrease": "500%"
         }
       ]
