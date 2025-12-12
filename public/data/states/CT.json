@@ -1,19 +1,27 @@
 {
-  "timestamp": "2025-12-11T22:04:42.888Z",
+  "timestamp": "2025-12-12T00:04:58.664Z",
   "states": [
     {
       "name": "Connecticut",
       "code": "CT",
-      "topTopic": "que",
+      "topTopic": "measles",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
+        {
+          "name": "measles",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "22h ago",
+          "percentageIncrease": "600%"
+        },
         {
           "name": "que",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "11h ago",
+          "started": "13h ago",
           "percentageIncrease": "1000%"
         }
       ]
