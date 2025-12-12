@@ -1,60 +1,44 @@
 {
-  "timestamp": "2025-12-12T20:04:35.602Z",
+  "timestamp": "2025-12-12T22:04:41.896Z",
   "states": [
     {
       "name": "North Carolina",
       "code": "NC",
-      "topTopic": "sycamore brewing clt",
+      "topTopic": "sycamore brewing reviews",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
         {
-          "name": "sycamore brewing clt",
+          "name": "sycamore brewing reviews",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "5K+",
-          "started": "17h ago",
+          "started": "21h ago",
           "trendBreakdown": "sycamore",
-          "percentageIncrease": "1000%"
+          "percentageIncrease": "900%"
         },
         {
           "name": "dan crenshaw",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "19h ago",
+          "started": "21h ago",
           "percentageIncrease": "600%"
         },
         {
-          "name": "tyler robinson",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "22h ago",
-          "percentageIncrease": "500%"
-        },
-        {
-          "name": "mark kelly",
+          "name": "brian walshe",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "22h ago",
-          "percentageIncrease": "1000%"
-        },
-        {
-          "name": "kristi noem",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "22h ago",
-          "percentageIncrease": "300%"
+          "started": "1h ago",
+          "percentageIncrease": "600%"
         },
         {
           "name": "michael jordan",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "21h ago",
+          "started": "23h ago",
           "percentageIncrease": "200%"
         }
       ]

@@ -1,43 +1,28 @@
 {
-  "timestamp": "2025-12-12T20:04:35.602Z",
+  "timestamp": "2025-12-12T22:04:41.896Z",
   "states": [
     {
       "name": "Massachusetts",
       "code": "MA",
-      "topTopic": "kristi noem",
+      "topTopic": "trump walker",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
-        {
-          "name": "kristi noem",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "22h ago",
-          "percentageIncrease": "700%"
-        },
         {
           "name": "trump walker",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "18h ago",
+          "started": "20h ago",
           "percentageIncrease": "600%"
         },
         {
-          "name": "mark kelly",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "22h ago",
-          "percentageIncrease": "1000%"
-        },
-        {
-          "name": "tyler robinson",
+          "name": "brian walshe trial",
           "relevanceScore": 95,
           "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "22h ago",
+          "searchVolume": "1K+",
+          "started": "3h ago",
+          "trendBreakdown": "brian",
           "percentageIncrease": "400%"
         }
       ]

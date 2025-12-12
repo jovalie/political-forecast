@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-12-12T20:04:35.602Z",
+  "timestamp": "2025-12-12T22:04:41.896Z",
   "states": [
     {
       "name": "Texas",
@@ -12,51 +12,34 @@
           "name": "dan crenshaw",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "2K+",
-          "started": "19h ago",
+          "searchVolume": "5K+",
+          "started": "21h ago",
           "trendBreakdown": "shawn",
           "percentageIncrease": "500%"
-        },
-        {
-          "name": "criminal defense attorney",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "4h ago",
-          "trendBreakdown": "criminal",
-          "percentageIncrease": "800%"
-        },
-        {
-          "name": "mark kelly",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "22h ago",
-          "trendBreakdown": "navy",
-          "percentageIncrease": "600%"
-        },
-        {
-          "name": "kristi noem",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "2K+",
-          "started": "23h ago",
-          "percentageIncrease": "400%"
         },
         {
           "name": "attorney general letitia james",
           "relevanceScore": 95,
           "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "6h ago",
+          "searchVolume": "1K+",
+          "started": "8h ago",
           "percentageIncrease": "300%"
         },
         {
           "name": "tina peters",
           "relevanceScore": 95,
           "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "18h ago",
+          "searchVolume": "2K+",
+          "started": "20h ago",
+          "percentageIncrease": "200%"
+        },
+        {
+          "name": "brian walshe",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "40 minutes ago",
+          "trendBreakdown": "criminal",
           "percentageIncrease": "200%"
         },
         {
@@ -64,7 +47,7 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "18h ago",
+          "started": "20h ago",
           "percentageIncrease": "200%"
         },
         {
@@ -72,16 +55,8 @@
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "18h ago",
+          "started": "20h ago",
           "percentageIncrease": "100%"
-        },
-        {
-          "name": "daily mail",
-          "relevanceScore": 85,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "8h ago",
-          "percentageIncrease": "50%"
         }
       ]
     }
