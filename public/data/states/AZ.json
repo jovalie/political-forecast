@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-12-12T02:36:12.377Z",
+  "timestamp": "2025-12-12T04:14:05.573Z",
   "states": [
     {
       "name": "Arizona",
@@ -12,16 +12,32 @@
           "name": "que",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "14h ago",
+          "searchVolume": "2K+",
+          "started": "16h ago",
           "percentageIncrease": "1000%"
+        },
+        {
+          "name": "luke moran phoenix fire department",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "1h ago",
+          "percentageIncrease": "700%"
+        },
+        {
+          "name": "tyler robinson",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "5h ago",
+          "percentageIncrease": "600%"
         },
         {
           "name": "mark kelly",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "5h ago",
+          "started": "6h ago",
           "percentageIncrease": "500%"
         }
       ]
