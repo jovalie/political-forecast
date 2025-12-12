@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-12-12T00:04:58.664Z",
+  "timestamp": "2025-12-12T02:36:12.377Z",
   "states": [
     {
       "name": "Pennsylvania",
@@ -13,25 +13,73 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "5K+",
-          "started": "18h ago",
+          "started": "20h ago",
           "percentageIncrease": "1000%"
         },
         {
-          "name": "navy mark kelly",
+          "name": "tyler robinson",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "1h ago",
-          "trendBreakdown": "mark",
+          "started": "6h ago",
+          "percentageIncrease": "700%"
+        },
+        {
+          "name": "kristi noem",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "5h ago",
+          "percentageIncrease": "800%"
+        },
+        {
+          "name": "trump walker",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "40 minutes ago",
           "percentageIncrease": "1000%"
+        },
+        {
+          "name": "tina peters",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "10 minutes ago",
+          "percentageIncrease": "600%"
+        },
+        {
+          "name": "mark kelly",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "5h ago",
+          "trendBreakdown": "navy",
+          "percentageIncrease": "600%"
+        },
+        {
+          "name": "andrew tate",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "40 minutes ago",
+          "percentageIncrease": "400%"
         },
         {
           "name": "dicks sporting",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "11h ago",
+          "started": "14h ago",
           "percentageIncrease": "200%"
+        },
+        {
+          "name": "supreme",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "10h ago",
+          "percentageIncrease": "300%"
         }
       ]
     }

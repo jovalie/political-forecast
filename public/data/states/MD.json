@@ -1,28 +1,36 @@
 {
-  "timestamp": "2025-12-12T00:04:58.664Z",
+  "timestamp": "2025-12-12T02:36:12.377Z",
   "states": [
     {
       "name": "Maryland",
       "code": "MD",
-      "topTopic": "tyler robinson",
+      "topTopic": "que",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
-        {
-          "name": "tyler robinson",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "1h ago",
-          "percentageIncrease": "500%"
-        },
         {
           "name": "que",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "2K+",
-          "started": "14h ago",
+          "started": "16h ago",
           "percentageIncrease": "1000%"
+        },
+        {
+          "name": "kristi noem",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "10h ago",
+          "percentageIncrease": "600%"
+        },
+        {
+          "name": "tyler robinson",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "4h ago",
+          "percentageIncrease": "500%"
         }
       ]
     }
