@@ -1,19 +1,27 @@
 {
-  "timestamp": "2025-12-13T14:04:41.820Z",
+  "timestamp": "2025-12-13T16:04:52.024Z",
   "states": [
     {
       "name": "Kentucky",
       "code": "KY",
-      "topTopic": "fox news",
+      "topTopic": "conduent",
       "category": "Law and Government",
-      "trendingScore": 85,
+      "trendingScore": 100,
       "topics": [
+        {
+          "name": "conduent",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "2h ago",
+          "percentageIncrease": "800%"
+        },
         {
           "name": "fox news",
           "relevanceScore": 85,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "2h ago",
+          "started": "4h ago",
           "percentageIncrease": "50%"
         }
       ]

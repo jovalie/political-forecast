@@ -1,20 +1,20 @@
 {
-  "timestamp": "2025-12-13T14:04:41.820Z",
+  "timestamp": "2025-12-13T16:04:52.024Z",
   "states": [
     {
       "name": "Utah",
       "code": "UT",
-      "topTopic": "tyler robinson",
+      "topTopic": "ksl news",
       "category": "Law and Government",
-      "trendingScore": 100,
+      "trendingScore": 85,
       "topics": [
         {
-          "name": "tyler robinson",
-          "relevanceScore": 100,
+          "name": "ksl news",
+          "relevanceScore": 85,
           "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "22h ago",
-          "percentageIncrease": "700%"
+          "searchVolume": "100+",
+          "started": "2h ago",
+          "percentageIncrease": "50%"
         }
       ]
     }

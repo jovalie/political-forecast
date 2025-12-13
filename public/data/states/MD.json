@@ -1,27 +1,19 @@
 {
-  "timestamp": "2025-12-13T14:04:41.820Z",
+  "timestamp": "2025-12-13T16:04:52.024Z",
   "states": [
     {
       "name": "Maryland",
       "code": "MD",
-      "topTopic": "depot",
+      "topTopic": "attorney general letitia james",
       "category": "Law and Government",
-      "trendingScore": 100,
+      "trendingScore": 95,
       "topics": [
-        {
-          "name": "depot",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "50 minutes ago",
-          "percentageIncrease": "1000%"
-        },
         {
           "name": "attorney general letitia james",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "20h ago",
+          "started": "22h ago",
           "percentageIncrease": "300%"
         }
       ]

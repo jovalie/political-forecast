@@ -1,19 +1,27 @@
 {
-  "timestamp": "2025-12-13T14:04:41.820Z",
+  "timestamp": "2025-12-13T16:04:52.024Z",
   "states": [
     {
       "name": "New Jersey",
       "code": "NJ",
-      "topTopic": "kerri aherne",
+      "topTopic": "depot",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
+        {
+          "name": "depot",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "4h ago",
+          "percentageIncrease": "1000%"
+        },
         {
           "name": "kerri aherne",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "20h ago",
+          "started": "22h ago",
           "percentageIncrease": "500%"
         },
         {
@@ -21,7 +29,7 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "13h ago",
+          "started": "15h ago",
           "percentageIncrease": "300%"
         }
       ]
