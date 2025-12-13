@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-12-12T22:04:41.896Z",
+  "timestamp": "2025-12-13T00:05:00.390Z",
   "states": [
     {
       "name": "Texas",
@@ -13,16 +13,41 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "5K+",
-          "started": "21h ago",
+          "started": "23h ago",
           "trendBreakdown": "shawn",
           "percentageIncrease": "500%"
+        },
+        {
+          "name": "o'donnell middle",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "1K+",
+          "started": "2h ago",
+          "percentageIncrease": "1000%"
+        },
+        {
+          "name": "criminal defense attorney",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "8h ago",
+          "trendBreakdown": "brian",
+          "percentageIncrease": "800%"
+        },
+        {
+          "name": "el mayo",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "50 minutes ago",
+          "percentageIncrease": "400%"
         },
         {
           "name": "attorney general letitia james",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "8h ago",
+          "started": "10h ago",
           "percentageIncrease": "300%"
         },
         {
@@ -30,16 +55,7 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "2K+",
-          "started": "20h ago",
-          "percentageIncrease": "200%"
-        },
-        {
-          "name": "brian walshe",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "40 minutes ago",
-          "trendBreakdown": "criminal",
+          "started": "22h ago",
           "percentageIncrease": "200%"
         },
         {
@@ -47,7 +63,7 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "20h ago",
+          "started": "22h ago",
           "percentageIncrease": "200%"
         },
         {
@@ -55,8 +71,16 @@
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "20h ago",
+          "started": "22h ago",
           "percentageIncrease": "100%"
+        },
+        {
+          "name": "daily mail",
+          "relevanceScore": 85,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "12h ago",
+          "percentageIncrease": "50%"
         }
       ]
     }
