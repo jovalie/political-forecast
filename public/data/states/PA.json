@@ -1,19 +1,27 @@
 {
-  "timestamp": "2025-12-13T06:04:40.017Z",
+  "timestamp": "2025-12-13T08:04:39.271Z",
   "states": [
     {
       "name": "Pennsylvania",
       "code": "PA",
-      "topTopic": "attorney general letitia james",
+      "topTopic": "kerri aherne",
       "category": "Law and Government",
       "trendingScore": 95,
       "topics": [
+        {
+          "name": "kerri aherne",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "4h ago",
+          "percentageIncrease": "200%"
+        },
         {
           "name": "attorney general letitia james",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "15h ago",
+          "started": "17h ago",
           "percentageIncrease": "400%"
         }
       ]
