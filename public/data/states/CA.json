@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-12-13T04:08:07.269Z",
+  "timestamp": "2025-12-13T06:04:40.017Z",
   "states": [
     {
       "name": "California",
@@ -13,7 +13,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "2h ago",
+          "started": "4h ago",
           "percentageIncrease": "800%"
         },
         {
@@ -21,15 +21,7 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "7h ago",
-          "percentageIncrease": "300%"
-        },
-        {
-          "name": "el mayo",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "4h ago",
+          "started": "9h ago",
           "percentageIncrease": "300%"
         },
         {
@@ -37,11 +29,11 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "2K+",
-          "started": "14h ago",
+          "started": "16h ago",
           "percentageIncrease": "300%"
         },
         {
-          "name": "la canada high school",
+          "name": "el mayo",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "500+",
@@ -49,20 +41,28 @@
           "percentageIncrease": "300%"
         },
         {
-          "name": "schedule",
+          "name": "timothy snyder",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "3h ago",
+          "percentageIncrease": "400%"
+        },
+        {
+          "name": "paraguay",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "22h ago",
+          "started": "50 minutes ago",
           "percentageIncrease": "200%"
         },
         {
-          "name": "calpers",
-          "relevanceScore": 90,
+          "name": "la canada high school",
+          "relevanceScore": 95,
           "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "11h ago",
-          "percentageIncrease": "100%"
+          "searchVolume": "500+",
+          "started": "8h ago",
+          "percentageIncrease": "300%"
         }
       ]
     }
