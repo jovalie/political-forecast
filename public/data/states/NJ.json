@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-12-13T12:05:00.534Z",
+  "timestamp": "2025-12-13T14:04:41.820Z",
   "states": [
     {
       "name": "New Jersey",
@@ -13,8 +13,16 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "18h ago",
-          "percentageIncrease": "600%"
+          "started": "20h ago",
+          "percentageIncrease": "500%"
+        },
+        {
+          "name": "karoline leavitt",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "13h ago",
+          "percentageIncrease": "300%"
         }
       ]
     }
