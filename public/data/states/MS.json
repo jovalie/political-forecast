@@ -1,20 +1,21 @@
 {
-  "timestamp": "2025-12-13T02:33:32.196Z",
+  "timestamp": "2025-12-13T04:08:07.269Z",
   "states": [
     {
       "name": "Mississippi",
       "code": "MS",
-      "topTopic": "cnn",
+      "topTopic": "amber alert",
       "category": "Law and Government",
-      "trendingScore": 95,
+      "trendingScore": 100,
       "topics": [
         {
-          "name": "cnn",
-          "relevanceScore": 95,
+          "name": "amber alert",
+          "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "2h ago",
-          "percentageIncrease": "200%"
+          "searchVolume": "500+",
+          "started": "1h ago",
+          "trendBreakdown": "vicksburg",
+          "percentageIncrease": "1000%"
         }
       ]
     }

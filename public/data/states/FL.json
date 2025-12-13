@@ -1,35 +1,19 @@
 {
-  "timestamp": "2025-12-13T02:33:32.196Z",
+  "timestamp": "2025-12-13T04:08:07.269Z",
   "states": [
     {
       "name": "Florida",
       "code": "FL",
-      "topTopic": "james boasberg",
+      "topTopic": "attorney general letitia james",
       "category": "Law and Government",
-      "trendingScore": 100,
+      "trendingScore": 95,
       "topics": [
-        {
-          "name": "james boasberg",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "40 minutes ago",
-          "percentageIncrease": "500%"
-        },
-        {
-          "name": "derrick groves",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "1h ago",
-          "percentageIncrease": "300%"
-        },
         {
           "name": "attorney general letitia james",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "12h ago",
+          "started": "13h ago",
           "percentageIncrease": "300%"
         },
         {
@@ -37,7 +21,7 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "1h ago",
+          "started": "3h ago",
           "percentageIncrease": "200%"
         },
         {
@@ -45,7 +29,7 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "2h ago",
+          "started": "3h ago",
           "percentageIncrease": "400%"
         },
         {
@@ -53,7 +37,7 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "5h ago",
+          "started": "7h ago",
           "percentageIncrease": "300%"
         },
         {
@@ -61,7 +45,7 @@
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "17h ago",
+          "started": "18h ago",
           "percentageIncrease": "100%"
         }
       ]

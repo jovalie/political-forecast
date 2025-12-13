@@ -1,20 +1,20 @@
 {
-  "timestamp": "2025-12-13T02:33:32.196Z",
+  "timestamp": "2025-12-13T04:08:07.269Z",
   "states": [
     {
       "name": "Washington",
       "code": "WA",
-      "topTopic": "tina peters",
+      "topTopic": "amber alert",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
         {
-          "name": "tina peters",
+          "name": "amber alert",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "22h ago",
-          "percentageIncrease": "500%"
+          "started": "10 minutes ago",
+          "percentageIncrease": "1000%"
         }
       ]
     }

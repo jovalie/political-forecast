@@ -1,27 +1,19 @@
 {
-  "timestamp": "2025-12-13T02:33:32.196Z",
+  "timestamp": "2025-12-13T04:08:07.269Z",
   "states": [
     {
       "name": "District of Columbia",
       "code": "DC",
-      "topTopic": "dc squatter",
+      "topTopic": "attorney general letitia james",
       "category": "Law and Government",
-      "trendingScore": 100,
+      "trendingScore": 95,
       "topics": [
-        {
-          "name": "dc squatter",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "2h ago",
-          "percentageIncrease": "600%"
-        },
         {
           "name": "attorney general letitia james",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "8h ago",
+          "started": "9h ago",
           "percentageIncrease": "400%"
         },
         {
@@ -29,7 +21,7 @@
           "relevanceScore": 85,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "16h ago",
+          "started": "17h ago",
           "percentageIncrease": "75%"
         }
       ]
