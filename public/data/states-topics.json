@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-12-13T08:04:39.271Z",
+  "timestamp": "2025-12-13T10:04:39.500Z",
   "states": [
     {
       "name": "California",
@@ -12,16 +12,16 @@
           "name": "james boasberg",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "6h ago",
-          "percentageIncrease": "700%"
+          "searchVolume": "2K+",
+          "started": "8h ago",
+          "percentageIncrease": "600%"
         },
         {
           "name": "kerri aherne",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "2K+",
-          "started": "11h ago",
+          "started": "13h ago",
           "percentageIncrease": "300%"
         },
         {
@@ -29,7 +29,7 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "2K+",
-          "started": "18h ago",
+          "started": "20h ago",
           "percentageIncrease": "300%"
         },
         {
@@ -37,7 +37,7 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "8h ago",
+          "started": "10h ago",
           "percentageIncrease": "200%"
         },
         {
@@ -45,7 +45,7 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "5h ago",
+          "started": "7h ago",
           "percentageIncrease": "300%"
         },
         {
@@ -53,7 +53,7 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "10h ago",
+          "started": "12h ago",
           "percentageIncrease": "300%"
         },
         {
@@ -61,7 +61,7 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "2h ago",
+          "started": "4h ago",
           "percentageIncrease": "200%"
         }
       ]
@@ -88,22 +88,30 @@
       "code": "FL",
       "topTopic": "james boasberg",
       "category": "Law and Government",
-      "trendingScore": 100,
+      "trendingScore": 95,
       "topics": [
         {
           "name": "james boasberg",
-          "relevanceScore": 100,
+          "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "6h ago",
-          "percentageIncrease": "500%"
+          "started": "8h ago",
+          "percentageIncrease": "400%"
+        },
+        {
+          "name": "kerri aherne",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "7h ago",
+          "percentageIncrease": "300%"
         },
         {
           "name": "attorney general letitia james",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "17h ago",
+          "started": "19h ago",
           "percentageIncrease": "300%"
         },
         {
@@ -111,7 +119,7 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "7h ago",
+          "started": "9h ago",
           "percentageIncrease": "400%"
         },
         {
@@ -119,16 +127,8 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "11h ago",
+          "started": "13h ago",
           "percentageIncrease": "300%"
-        },
-        {
-          "name": "kilmar abrego garcia",
-          "relevanceScore": 90,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "22h ago",
-          "percentageIncrease": "100%"
         }
       ]
     },
@@ -144,7 +144,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "2K+",
-          "started": "16h ago",
+          "started": "18h ago",
           "percentageIncrease": "1000%"
         },
         {
@@ -152,7 +152,7 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "7h ago",
+          "started": "9h ago",
           "percentageIncrease": "400%"
         },
         {
@@ -160,7 +160,7 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "19h ago",
+          "started": "21h ago",
           "percentageIncrease": "300%"
         }
       ]
@@ -177,7 +177,7 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "3h ago",
+          "started": "5h ago",
           "percentageIncrease": "200%"
         }
       ]
@@ -194,7 +194,7 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "21h ago",
+          "started": "23h ago",
           "percentageIncrease": "200%"
         }
       ]
@@ -211,7 +211,7 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "14h ago",
+          "started": "16h ago",
           "percentageIncrease": "300%"
         }
       ]
@@ -245,7 +245,7 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "9h ago",
+          "started": "11h ago",
           "percentageIncrease": "400%"
         },
         {
@@ -253,7 +253,7 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "2K+",
-          "started": "13h ago",
+          "started": "15h ago",
           "trendBreakdown": "brian",
           "percentageIncrease": "400%"
         }
@@ -271,7 +271,7 @@
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "19h ago",
+          "started": "21h ago",
           "percentageIncrease": "100%"
         }
       ]
@@ -288,7 +288,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "14h ago",
+          "started": "16h ago",
           "percentageIncrease": "600%"
         }
       ]
@@ -305,7 +305,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "9h ago",
+          "started": "11h ago",
           "percentageIncrease": "1000%"
         },
         {
@@ -313,48 +313,40 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "11h ago",
+          "started": "13h ago",
           "percentageIncrease": "600%"
-        },
-        {
-          "name": "james boasberg",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "4h ago",
-          "percentageIncrease": "400%"
         },
         {
           "name": "derrick groves",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "4h ago",
-          "percentageIncrease": "300%"
+          "started": "6h ago",
+          "percentageIncrease": "200%"
+        },
+        {
+          "name": "james boasberg",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "6h ago",
+          "percentageIncrease": "400%"
         }
       ]
     },
     {
       "name": "New York",
       "code": "NY",
-      "topTopic": "james boasberg",
+      "topTopic": "kerri aherne",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
-        {
-          "name": "james boasberg",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "6h ago",
-          "percentageIncrease": "600%"
-        },
         {
           "name": "kerri aherne",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "2K+",
-          "started": "21h ago",
+          "started": "23h ago",
           "trendBreakdown": "woman",
           "percentageIncrease": "900%"
         },
@@ -363,7 +355,15 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "18h ago",
+          "started": "20h ago",
+          "percentageIncrease": "500%"
+        },
+        {
+          "name": "james boasberg",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "8h ago",
           "percentageIncrease": "500%"
         },
         {
@@ -371,7 +371,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "11h ago",
+          "started": "13h ago",
           "percentageIncrease": "800%"
         },
         {
@@ -379,7 +379,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "9h ago",
+          "started": "11h ago",
           "percentageIncrease": "500%"
         },
         {
@@ -387,7 +387,7 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "8h ago",
+          "started": "10h ago",
           "percentageIncrease": "200%"
         },
         {
@@ -395,7 +395,7 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "4h ago",
+          "started": "6h ago",
           "percentageIncrease": "300%"
         },
         {
@@ -403,7 +403,7 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "11h ago",
+          "started": "13h ago",
           "percentageIncrease": "300%"
         }
       ]
@@ -420,7 +420,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "5h ago",
+          "started": "7h ago",
           "percentageIncrease": "500%"
         }
       ]
@@ -445,25 +445,25 @@
     {
       "name": "Pennsylvania",
       "code": "PA",
-      "topTopic": "kerri aherne",
+      "topTopic": "attorney general letitia james",
       "category": "Law and Government",
       "trendingScore": 95,
       "topics": [
-        {
-          "name": "kerri aherne",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "4h ago",
-          "percentageIncrease": "200%"
-        },
         {
           "name": "attorney general letitia james",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "17h ago",
-          "percentageIncrease": "400%"
+          "started": "19h ago",
+          "percentageIncrease": "300%"
+        },
+        {
+          "name": "kerri aherne",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "6h ago",
+          "percentageIncrease": "200%"
         }
       ]
     },
@@ -479,7 +479,7 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "19h ago",
+          "started": "21h ago",
           "percentageIncrease": "300%"
         }
       ]
@@ -496,7 +496,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "18h ago",
+          "started": "20h ago",
           "percentageIncrease": "900%"
         }
       ]
@@ -513,7 +513,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "10h ago",
+          "started": "12h ago",
           "percentageIncrease": "1000%"
         },
         {
@@ -521,7 +521,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "16h ago",
+          "started": "18h ago",
           "trendBreakdown": "criminal",
           "percentageIncrease": "900%"
         },
@@ -530,7 +530,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "16h ago",
+          "started": "18h ago",
           "trendBreakdown": "brian",
           "percentageIncrease": "800%"
         },
@@ -539,15 +539,15 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "6h ago",
-          "percentageIncrease": "400%"
+          "started": "8h ago",
+          "percentageIncrease": "300%"
         },
         {
           "name": "celina football",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "6h ago",
+          "started": "8h ago",
           "percentageIncrease": "200%"
         },
         {
@@ -555,7 +555,7 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "6h ago",
+          "started": "8h ago",
           "percentageIncrease": "200%"
         },
         {
@@ -563,7 +563,7 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "8h ago",
+          "started": "10h ago",
           "percentageIncrease": "200%"
         },
         {
@@ -571,15 +571,7 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "8h ago",
-          "percentageIncrease": "300%"
-        },
-        {
-          "name": "schedule",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "6h ago",
+          "started": "10h ago",
           "percentageIncrease": "300%"
         },
         {
@@ -587,7 +579,15 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "18h ago",
+          "started": "20h ago",
+          "percentageIncrease": "300%"
+        },
+        {
+          "name": "schedule",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "8h ago",
           "percentageIncrease": "300%"
         }
       ]
@@ -604,7 +604,7 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "9h ago",
+          "started": "11h ago",
           "percentageIncrease": "200%"
         },
         {
@@ -612,7 +612,7 @@
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "4h ago",
+          "started": "6h ago",
           "percentageIncrease": "100%"
         }
       ]
@@ -629,7 +629,7 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "4h ago",
+          "started": "6h ago",
           "percentageIncrease": "400%"
         },
         {
@@ -637,7 +637,7 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "13h ago",
+          "started": "15h ago",
           "percentageIncrease": "400%"
         },
         {
@@ -645,7 +645,7 @@
           "relevanceScore": 85,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "21h ago",
+          "started": "23h ago",
           "percentageIncrease": "75%"
         }
       ]
@@ -696,17 +696,9 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "2K+",
-          "started": "4h ago",
+          "started": "6h ago",
           "trendBreakdown": "amber",
           "percentageIncrease": "1000%"
-        },
-        {
-          "name": "james boasberg",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "3h ago",
-          "percentageIncrease": "700%"
         }
       ]
     },
@@ -739,7 +731,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "13h ago",
+          "started": "15h ago",
           "percentageIncrease": "1000%"
         }
       ]
@@ -798,7 +790,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "10h ago",
+          "started": "12h ago",
           "trendBreakdown": "stewartville",
           "percentageIncrease": "800%"
         }
@@ -816,7 +808,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "14h ago",
+          "started": "16h ago",
           "trendBreakdown": "uno",
           "percentageIncrease": "1000%"
         },
@@ -825,7 +817,7 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "6h ago",
+          "started": "8h ago",
           "percentageIncrease": "200%"
         }
       ]
@@ -842,7 +834,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "14h ago",
+          "started": "16h ago",
           "percentageIncrease": "900%"
         }
       ]
@@ -893,7 +885,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "11h ago",
+          "started": "13h ago",
           "trendBreakdown": "stewartville",
           "percentageIncrease": "1000%"
         }
@@ -945,7 +937,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "18h ago",
+          "started": "20h ago",
           "trendBreakdown": "amolao",
           "percentageIncrease": "800%"
         }
@@ -1031,7 +1023,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "5h ago",
+          "started": "7h ago",
           "trendBreakdown": "vicksburg",
           "percentageIncrease": "1000%"
         },
@@ -1040,7 +1032,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "5h ago",
+          "started": "7h ago",
           "percentageIncrease": "1000%"
         }
       ]
