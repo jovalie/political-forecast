@@ -1,35 +1,19 @@
 {
-  "timestamp": "2025-12-13T00:05:00.390Z",
+  "timestamp": "2025-12-13T02:33:32.196Z",
   "states": [
     {
       "name": "Virginia",
       "code": "VA",
-      "topTopic": "dan crenshaw",
+      "topTopic": "attorney general letitia james",
       "category": "Law and Government",
-      "trendingScore": 100,
+      "trendingScore": 95,
       "topics": [
-        {
-          "name": "dan crenshaw",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "22h ago",
-          "percentageIncrease": "600%"
-        },
-        {
-          "name": "tina peters",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "21h ago",
-          "percentageIncrease": "600%"
-        },
         {
           "name": "attorney general letitia james",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "1h ago",
+          "started": "4h ago",
           "percentageIncrease": "200%"
         }
       ]

@@ -1,61 +1,43 @@
 {
-  "timestamp": "2025-12-13T00:05:00.390Z",
+  "timestamp": "2025-12-13T02:33:32.196Z",
   "states": [
     {
       "name": "California",
       "code": "CA",
-      "topTopic": "dan crenshaw",
+      "topTopic": "kerri aherne",
       "category": "Law and Government",
-      "trendingScore": 100,
+      "trendingScore": 95,
       "topics": [
         {
-          "name": "dan crenshaw",
-          "relevanceScore": 100,
+          "name": "kerri aherne",
+          "relevanceScore": 95,
           "category": "Law and Government",
-          "searchVolume": "5K+",
-          "started": "23h ago",
-          "percentageIncrease": "500%"
+          "searchVolume": "1K+",
+          "started": "6h ago",
+          "percentageIncrease": "200%"
+        },
+        {
+          "name": "el mayo",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "3h ago",
+          "percentageIncrease": "400%"
         },
         {
           "name": "attorney general letitia james",
           "relevanceScore": 95,
           "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "10h ago",
+          "searchVolume": "2K+",
+          "started": "13h ago",
           "percentageIncrease": "300%"
         },
         {
-          "name": "trump walker",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "2K+",
-          "started": "23h ago",
-          "trendBreakdown": "trump",
-          "percentageIncrease": "200%"
-        },
-        {
-          "name": "kerri aherne",
+          "name": "la canada high school",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "3h ago",
-          "percentageIncrease": "200%"
-        },
-        {
-          "name": "tina peters",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "2K+",
-          "started": "23h ago",
-          "percentageIncrease": "300%"
-        },
-        {
-          "name": "restaurant chain",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "22h ago",
-          "trendBreakdown": "taco",
+          "started": "4h ago",
           "percentageIncrease": "300%"
         },
         {
@@ -63,23 +45,15 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "18h ago",
+          "started": "21h ago",
           "percentageIncrease": "200%"
-        },
-        {
-          "name": "dick's sporting",
-          "relevanceScore": 90,
-          "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "23h ago",
-          "percentageIncrease": "100%"
         },
         {
           "name": "bulgaria",
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "20h ago",
+          "started": "22h ago",
           "percentageIncrease": "100%"
         },
         {
@@ -87,7 +61,7 @@
           "relevanceScore": 85,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "21h ago",
+          "started": "24h ago",
           "percentageIncrease": "75%"
         }
       ]
