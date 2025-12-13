@@ -1,19 +1,28 @@
 {
-  "timestamp": "2025-12-13T20:04:54.189Z",
+  "timestamp": "2025-12-13T22:04:31.529Z",
   "states": [
     {
       "name": "Massachusetts",
       "code": "MA",
-      "topTopic": "depot",
+      "topTopic": "brown university",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
+        {
+          "name": "brown university",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "2K+",
+          "started": "40 minutes ago",
+          "trendBreakdown": "brown",
+          "percentageIncrease": "1000%"
+        },
         {
           "name": "depot",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "8h ago",
+          "started": "10h ago",
           "percentageIncrease": "1000%"
         },
         {
@@ -21,16 +30,8 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "21h ago",
-          "percentageIncrease": "300%"
-        },
-        {
-          "name": "brian walshe",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "500+",
           "started": "23h ago",
-          "percentageIncrease": "200%"
+          "percentageIncrease": "300%"
         }
       ]
     }

@@ -1,27 +1,35 @@
 {
-  "timestamp": "2025-12-13T20:04:54.189Z",
+  "timestamp": "2025-12-13T22:04:31.529Z",
   "states": [
     {
       "name": "Pennsylvania",
       "code": "PA",
-      "topTopic": "depot",
+      "topTopic": "brown university",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
+        {
+          "name": "brown university",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "30 minutes ago",
+          "percentageIncrease": "1000%"
+        },
         {
           "name": "depot",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "9h ago",
-          "percentageIncrease": "1000%"
+          "started": "11h ago",
+          "percentageIncrease": "900%"
         },
         {
           "name": "are",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "8h ago",
+          "started": "10h ago",
           "percentageIncrease": "1000%"
         }
       ]

@@ -1,27 +1,19 @@
 {
-  "timestamp": "2025-12-13T20:04:54.189Z",
+  "timestamp": "2025-12-13T22:04:31.529Z",
   "states": [
     {
       "name": "South Carolina",
       "code": "SC",
-      "topTopic": "sc state",
+      "topTopic": "measles symptoms",
       "category": "Law and Government",
-      "trendingScore": 100,
+      "trendingScore": 95,
       "topics": [
-        {
-          "name": "sc state",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "1h ago",
-          "percentageIncrease": "1000%"
-        },
         {
           "name": "measles symptoms",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "17h ago",
+          "started": "19h ago",
           "percentageIncrease": "200%"
         }
       ]

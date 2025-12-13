@@ -1,19 +1,27 @@
 {
-  "timestamp": "2025-12-13T20:04:54.189Z",
+  "timestamp": "2025-12-13T22:04:31.529Z",
   "states": [
     {
       "name": "California",
       "code": "CA",
-      "topTopic": "depot",
+      "topTopic": "brown university",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
+        {
+          "name": "brown university",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "1K+",
+          "started": "30 minutes ago",
+          "percentageIncrease": "1000%"
+        },
         {
           "name": "depot",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "2K+",
-          "started": "10h ago",
+          "started": "12h ago",
           "percentageIncrease": "600%"
         },
         {
@@ -21,23 +29,15 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "2K+",
-          "started": "18h ago",
+          "started": "20h ago",
           "percentageIncrease": "500%"
-        },
-        {
-          "name": "kerri aherne",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "2K+",
-          "started": "23h ago",
-          "percentageIncrease": "200%"
         },
         {
           "name": "el mayo",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "20h ago",
+          "started": "22h ago",
           "percentageIncrease": "200%"
         },
         {
@@ -45,15 +45,7 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "17h ago",
-          "percentageIncrease": "300%"
-        },
-        {
-          "name": "la canada high school",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "22h ago",
+          "started": "19h ago",
           "percentageIncrease": "300%"
         },
         {
@@ -61,7 +53,7 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "13h ago",
+          "started": "15h ago",
           "percentageIncrease": "200%"
         }
       ]
@@ -86,24 +78,32 @@
     {
       "name": "Florida",
       "code": "FL",
-      "topTopic": "depot",
+      "topTopic": "brown university",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
+        {
+          "name": "brown university",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "30 minutes ago",
+          "percentageIncrease": "1000%"
+        },
         {
           "name": "depot",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "9h ago",
-          "percentageIncrease": "900%"
+          "started": "11h ago",
+          "percentageIncrease": "800%"
         },
         {
           "name": "conduent",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "7h ago",
+          "started": "9h ago",
           "percentageIncrease": "700%"
         },
         {
@@ -111,23 +111,15 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "17h ago",
+          "started": "19h ago",
           "percentageIncrease": "300%"
-        },
-        {
-          "name": "act",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "20h ago",
-          "percentageIncrease": "200%"
         },
         {
           "name": "james boasberg",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "18h ago",
+          "started": "20h ago",
           "percentageIncrease": "400%"
         },
         {
@@ -135,7 +127,7 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "7h ago",
+          "started": "9h ago",
           "percentageIncrease": "200%"
         },
         {
@@ -143,16 +135,8 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "19h ago",
+          "started": "21h ago",
           "percentageIncrease": "400%"
-        },
-        {
-          "name": "brian walshe",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "23h ago",
-          "percentageIncrease": "300%"
         }
       ]
     },
@@ -168,7 +152,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "7h ago",
+          "started": "9h ago",
           "percentageIncrease": "1000%"
         },
         {
@@ -176,7 +160,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "7h ago",
+          "started": "9h ago",
           "percentageIncrease": "700%"
         },
         {
@@ -184,7 +168,7 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "19h ago",
+          "started": "21h ago",
           "percentageIncrease": "400%"
         },
         {
@@ -192,7 +176,7 @@
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "3h ago",
+          "started": "5h ago",
           "percentageIncrease": "100%"
         }
       ]
@@ -200,16 +184,24 @@
     {
       "name": "Illinois",
       "code": "IL",
-      "topTopic": "depot",
+      "topTopic": "brown university",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
+        {
+          "name": "brown university",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "30 minutes ago",
+          "percentageIncrease": "1000%"
+        },
         {
           "name": "depot",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "7h ago",
+          "started": "9h ago",
           "percentageIncrease": "900%"
         }
       ]
@@ -260,7 +252,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "8h ago",
+          "started": "10h ago",
           "percentageIncrease": "900%"
         }
       ]
@@ -268,16 +260,25 @@
     {
       "name": "Massachusetts",
       "code": "MA",
-      "topTopic": "depot",
+      "topTopic": "brown university",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
+        {
+          "name": "brown university",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "2K+",
+          "started": "40 minutes ago",
+          "trendBreakdown": "brown",
+          "percentageIncrease": "1000%"
+        },
         {
           "name": "depot",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "8h ago",
+          "started": "10h ago",
           "percentageIncrease": "1000%"
         },
         {
@@ -285,16 +286,8 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "21h ago",
-          "percentageIncrease": "300%"
-        },
-        {
-          "name": "brian walshe",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "500+",
           "started": "23h ago",
-          "percentageIncrease": "200%"
+          "percentageIncrease": "300%"
         }
       ]
     },
@@ -318,16 +311,24 @@
     {
       "name": "New Jersey",
       "code": "NJ",
-      "topTopic": "depot",
+      "topTopic": "brown university",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
+        {
+          "name": "brown university",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "30 minutes ago",
+          "percentageIncrease": "1000%"
+        },
         {
           "name": "depot",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "8h ago",
+          "started": "10h ago",
           "percentageIncrease": "1000%"
         },
         {
@@ -335,7 +336,7 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "19h ago",
+          "started": "21h ago",
           "percentageIncrease": "300%"
         }
       ]
@@ -352,7 +353,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "8h ago",
+          "started": "10h ago",
           "percentageIncrease": "800%"
         },
         {
@@ -360,7 +361,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "7h ago",
+          "started": "9h ago",
           "percentageIncrease": "1000%"
         },
         {
@@ -368,23 +369,15 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "21h ago",
-          "percentageIncrease": "1000%"
-        },
-        {
-          "name": "brian walshe",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "100+",
           "started": "23h ago",
-          "percentageIncrease": "600%"
+          "percentageIncrease": "1000%"
         },
         {
           "name": "james boasberg",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "16h ago",
+          "started": "18h ago",
           "percentageIncrease": "300%"
         },
         {
@@ -392,7 +385,7 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "9h ago",
+          "started": "11h ago",
           "percentageIncrease": "200%"
         },
         {
@@ -400,7 +393,7 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "16h ago",
+          "started": "18h ago",
           "percentageIncrease": "200%"
         }
       ]
@@ -408,32 +401,33 @@
     {
       "name": "New York",
       "code": "NY",
-      "topTopic": "depot",
+      "topTopic": "brown university",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
+        {
+          "name": "brown university",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "5K+",
+          "started": "30 minutes ago",
+          "trendBreakdown": "active",
+          "percentageIncrease": "1000%"
+        },
         {
           "name": "depot",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "2K+",
-          "started": "12h ago",
+          "started": "14h ago",
           "percentageIncrease": "900%"
-        },
-        {
-          "name": "kevin warsh",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "23h ago",
-          "percentageIncrease": "600%"
         },
         {
           "name": "rosanna scotto",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "21h ago",
+          "started": "23h ago",
           "percentageIncrease": "500%"
         },
         {
@@ -441,7 +435,7 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "18h ago",
+          "started": "20h ago",
           "percentageIncrease": "400%"
         },
         {
@@ -449,7 +443,7 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "20h ago",
+          "started": "22h ago",
           "percentageIncrease": "300%"
         },
         {
@@ -457,32 +451,40 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "16h ago",
+          "started": "18h ago",
           "percentageIncrease": "300%"
         },
         {
-          "name": "brian walshe",
-          "relevanceScore": 95,
+          "name": "sycamore brewing",
+          "relevanceScore": 90,
           "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "23h ago",
-          "percentageIncrease": "300%"
+          "searchVolume": "500+",
+          "started": "8h ago",
+          "percentageIncrease": "100%"
         }
       ]
     },
     {
       "name": "Ohio",
       "code": "OH",
-      "topTopic": "depot",
+      "topTopic": "brown university",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
+        {
+          "name": "brown university",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "20 minutes ago",
+          "percentageIncrease": "1000%"
+        },
         {
           "name": "depot",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "8h ago",
+          "started": "10h ago",
           "percentageIncrease": "800%"
         },
         {
@@ -490,7 +492,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "7h ago",
+          "started": "9h ago",
           "percentageIncrease": "1000%"
         }
       ]
@@ -515,24 +517,32 @@
     {
       "name": "Pennsylvania",
       "code": "PA",
-      "topTopic": "depot",
+      "topTopic": "brown university",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
+        {
+          "name": "brown university",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "30 minutes ago",
+          "percentageIncrease": "1000%"
+        },
         {
           "name": "depot",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "9h ago",
-          "percentageIncrease": "1000%"
+          "started": "11h ago",
+          "percentageIncrease": "900%"
         },
         {
           "name": "are",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "8h ago",
+          "started": "10h ago",
           "percentageIncrease": "1000%"
         }
       ]
@@ -540,24 +550,16 @@
     {
       "name": "South Carolina",
       "code": "SC",
-      "topTopic": "sc state",
+      "topTopic": "measles symptoms",
       "category": "Law and Government",
-      "trendingScore": 100,
+      "trendingScore": 95,
       "topics": [
-        {
-          "name": "sc state",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "1h ago",
-          "percentageIncrease": "1000%"
-        },
         {
           "name": "measles symptoms",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "17h ago",
+          "started": "19h ago",
           "percentageIncrease": "200%"
         }
       ]
@@ -582,40 +584,40 @@
     {
       "name": "Texas",
       "code": "TX",
-      "topTopic": "are",
+      "topTopic": "brown university",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
+        {
+          "name": "brown university",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "30 minutes ago",
+          "percentageIncrease": "1000%"
+        },
         {
           "name": "are",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "7h ago",
+          "started": "9h ago",
           "percentageIncrease": "500%"
-        },
-        {
-          "name": "o'donnell middle",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "22h ago",
-          "percentageIncrease": "1000%"
         },
         {
           "name": "depot",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "7h ago",
-          "percentageIncrease": "400%"
+          "started": "9h ago",
+          "percentageIncrease": "300%"
         },
         {
           "name": "celina football",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "18h ago",
+          "started": "20h ago",
           "trendBreakdown": "celina",
           "percentageIncrease": "200%"
         },
@@ -624,7 +626,7 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "18h ago",
+          "started": "20h ago",
           "percentageIncrease": "300%"
         },
         {
@@ -632,7 +634,7 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "18h ago",
+          "started": "20h ago",
           "percentageIncrease": "200%"
         },
         {
@@ -640,7 +642,7 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "20h ago",
+          "started": "22h ago",
           "percentageIncrease": "200%"
         },
         {
@@ -648,7 +650,7 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "20h ago",
+          "started": "22h ago",
           "percentageIncrease": "300%"
         },
         {
@@ -656,7 +658,7 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "18h ago",
+          "started": "20h ago",
           "percentageIncrease": "300%"
         },
         {
@@ -664,7 +666,7 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "19h ago",
+          "started": "21h ago",
           "percentageIncrease": "200%"
         }
       ]
@@ -681,15 +683,15 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "8h ago",
-          "percentageIncrease": "1000%"
+          "started": "10h ago",
+          "percentageIncrease": "900%"
         },
         {
           "name": "kerri aherne",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "16h ago",
+          "started": "18h ago",
           "percentageIncrease": "200%"
         },
         {
@@ -697,7 +699,7 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "21h ago",
+          "started": "23h ago",
           "percentageIncrease": "200%"
         }
       ]
@@ -705,24 +707,32 @@
     {
       "name": "District of Columbia",
       "code": "DC",
-      "topTopic": "depot",
+      "topTopic": "brown university",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
+        {
+          "name": "brown university",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "20 minutes ago",
+          "percentageIncrease": "1000%"
+        },
         {
           "name": "depot",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "7h ago",
-          "percentageIncrease": "1000%"
+          "started": "9h ago",
+          "percentageIncrease": "900%"
         },
         {
           "name": "james boasberg",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "16h ago",
+          "started": "18h ago",
           "percentageIncrease": "300%"
         },
         {
@@ -730,7 +740,7 @@
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "7h ago",
+          "started": "9h ago",
           "percentageIncrease": "100%"
         }
       ]
@@ -781,7 +791,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "5h ago",
+          "started": "7h ago",
           "percentageIncrease": "1000%"
         },
         {
@@ -789,9 +799,17 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "2K+",
-          "started": "16h ago",
+          "started": "18h ago",
           "trendBreakdown": "amber",
           "percentageIncrease": "1000%"
+        },
+        {
+          "name": "bellevue news",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "23h ago",
+          "percentageIncrease": "600%"
         }
       ]
     },
@@ -900,7 +918,7 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "18h ago",
+          "started": "20h ago",
           "percentageIncrease": "200%"
         }
       ]
@@ -917,7 +935,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "6h ago",
+          "started": "8h ago",
           "percentageIncrease": "800%"
         },
         {
@@ -925,7 +943,7 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "6h ago",
+          "started": "8h ago",
           "percentageIncrease": "200%"
         }
       ]
@@ -942,7 +960,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "15h ago",
+          "started": "17h ago",
           "percentageIncrease": "800%"
         }
       ]
@@ -984,16 +1002,16 @@
     {
       "name": "Connecticut",
       "code": "CT",
-      "topTopic": "depot",
+      "topTopic": "brown university",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
         {
-          "name": "depot",
+          "name": "brown university",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "50 minutes ago",
+          "searchVolume": "500+",
+          "started": "20 minutes ago",
           "percentageIncrease": "1000%"
         }
       ]
@@ -1010,7 +1028,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "6h ago",
+          "started": "8h ago",
           "percentageIncrease": "800%"
         }
       ]
@@ -1062,7 +1080,7 @@
           "relevanceScore": 85,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "6h ago",
+          "started": "8h ago",
           "percentageIncrease": "50%"
         }
       ]
@@ -1113,7 +1131,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "17h ago",
+          "started": "19h ago",
           "trendBreakdown": "vicksburg",
           "percentageIncrease": "1000%"
         },
@@ -1122,16 +1140,8 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "17h ago",
+          "started": "19h ago",
           "percentageIncrease": "1000%"
-        },
-        {
-          "name": "act",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "16h ago",
-          "percentageIncrease": "200%"
         }
       ]
     },
@@ -1206,17 +1216,27 @@
     {
       "name": "Rhode Island",
       "code": "RI",
-      "topTopic": "que",
+      "topTopic": "brown university",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
         {
-          "name": "que",
+          "name": "brown university",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "22h ago",
-          "percentageIncrease": "600%"
+          "searchVolume": "5K+",
+          "started": "40 minutes ago",
+          "trendBreakdown": "brown",
+          "percentageIncrease": "1000%"
+        },
+        {
+          "name": "wpri",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "30 minutes ago",
+          "trendBreakdown": "turn",
+          "percentageIncrease": "900%"
         }
       ]
     }
