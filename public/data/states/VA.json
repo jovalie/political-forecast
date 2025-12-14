@@ -1,19 +1,28 @@
 {
-  "timestamp": "2025-12-14T08:04:37.668Z",
+  "timestamp": "2025-12-14T10:04:39.786Z",
   "states": [
     {
       "name": "Virginia",
       "code": "VA",
-      "topTopic": "depot",
+      "topTopic": "brown university",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
+        {
+          "name": "brown university",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "50K+",
+          "started": "12h ago",
+          "trendBreakdown": "brown",
+          "percentageIncrease": "1000%"
+        },
         {
           "name": "depot",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "20h ago",
+          "started": "22h ago",
           "percentageIncrease": "800%"
         }
       ]
