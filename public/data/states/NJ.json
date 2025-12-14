@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-12-14T16:04:58.122Z",
+  "timestamp": "2025-12-14T18:04:28.520Z",
   "states": [
     {
       "name": "New Jersey",
@@ -12,18 +12,9 @@
           "name": "brown university",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "50K+",
-          "started": "18h ago",
+          "searchVolume": "100K+",
+          "started": "20h ago",
           "trendBreakdown": "brown",
-          "percentageIncrease": "1000%"
-        },
-        {
-          "name": "bondi beach",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "10K+",
-          "started": "6h ago",
-          "trendBreakdown": "australia",
           "percentageIncrease": "1000%"
         },
         {
@@ -31,16 +22,8 @@
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "16h ago",
+          "started": "18h ago",
           "percentageIncrease": "100%"
-        },
-        {
-          "name": "fox news",
-          "relevanceScore": 85,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "5h ago",
-          "percentageIncrease": "50%"
         }
       ]
     }

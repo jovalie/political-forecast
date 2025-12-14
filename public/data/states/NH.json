@@ -1,19 +1,27 @@
 {
-  "timestamp": "2025-12-14T16:04:58.122Z",
+  "timestamp": "2025-12-14T18:04:28.520Z",
   "states": [
     {
       "name": "New Hampshire",
       "code": "NH",
-      "topTopic": "cnn",
+      "topTopic": "army vs navy",
       "category": "Law and Government",
-      "trendingScore": 95,
+      "trendingScore": 100,
       "topics": [
+        {
+          "name": "army vs navy",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "20h ago",
+          "percentageIncrease": "600%"
+        },
         {
           "name": "cnn",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "15h ago",
+          "started": "17h ago",
           "percentageIncrease": "300%"
         }
       ]

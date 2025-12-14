@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-12-14T16:04:58.122Z",
+  "timestamp": "2025-12-14T18:04:28.520Z",
   "states": [
     {
       "name": "Texas",
@@ -13,26 +13,9 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "100K+",
-          "started": "18h ago",
+          "started": "20h ago",
           "trendBreakdown": "brown",
           "percentageIncrease": "1000%"
-        },
-        {
-          "name": "navy army",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "17h ago",
-          "trendBreakdown": "army",
-          "percentageIncrease": "200%"
-        },
-        {
-          "name": "foxnews",
-          "relevanceScore": 85,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "2h ago",
-          "percentageIncrease": "75%"
         }
       ]
     }

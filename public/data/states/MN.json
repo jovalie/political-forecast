@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-12-14T16:04:58.122Z",
+  "timestamp": "2025-12-14T18:04:28.520Z",
   "states": [
     {
       "name": "Minnesota",
@@ -12,9 +12,9 @@
           "name": "bondi beach",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "2K+",
-          "started": "5h ago",
-          "trendBreakdown": "australia",
+          "searchVolume": "5K+",
+          "started": "7h ago",
+          "trendBreakdown": "bondi",
           "percentageIncrease": "1000%"
         },
         {
@@ -22,17 +22,17 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "20h ago",
+          "started": "22h ago",
           "trendBreakdown": "army",
           "percentageIncrease": "900%"
         },
         {
-          "name": "cnn news",
-          "relevanceScore": 90,
+          "name": "stewartville mn school shooting",
+          "relevanceScore": 95,
           "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "2h ago",
-          "percentageIncrease": "100%"
+          "searchVolume": "500+",
+          "started": "5h ago",
+          "percentageIncrease": "300%"
         }
       ]
     }

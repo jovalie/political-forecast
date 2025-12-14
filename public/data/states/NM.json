@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-12-14T16:04:58.122Z",
+  "timestamp": "2025-12-14T18:04:28.520Z",
   "states": [
     {
       "name": "New Mexico",
@@ -12,10 +12,18 @@
           "name": "brown university",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "2K+",
-          "started": "17h ago",
+          "searchVolume": "5K+",
+          "started": "19h ago",
           "trendBreakdown": "brown",
           "percentageIncrease": "1000%"
+        },
+        {
+          "name": "army vs navy",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "21h ago",
+          "percentageIncrease": "700%"
         }
       ]
     }

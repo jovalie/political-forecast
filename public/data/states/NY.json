@@ -1,29 +1,54 @@
 {
-  "timestamp": "2025-12-14T16:04:58.122Z",
+  "timestamp": "2025-12-14T18:04:28.520Z",
   "states": [
     {
       "name": "New York",
       "code": "NY",
-      "topTopic": "cnn",
+      "topTopic": "bondi beach",
       "category": "Law and Government",
-      "trendingScore": 90,
+      "trendingScore": 100,
       "topics": [
+        {
+          "name": "bondi beach",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "50K+",
+          "started": "9h ago",
+          "trendBreakdown": "australia",
+          "percentageIncrease": "1000%"
+        },
+        {
+          "name": "colonel",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "5h ago",
+          "percentageIncrease": "300%"
+        },
+        {
+          "name": "sandy hook anniversary",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "2h ago",
+          "percentageIncrease": "200%"
+        },
+        {
+          "name": "navy army",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "18h ago",
+          "trendBreakdown": "where",
+          "percentageIncrease": "200%"
+        },
         {
           "name": "cnn",
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "2K+",
-          "started": "16h ago",
+          "started": "18h ago",
           "percentageIncrease": "100%"
-        },
-        {
-          "name": "trump",
-          "relevanceScore": 85,
-          "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "7h ago",
-          "trendBreakdown": "navy",
-          "percentageIncrease": "75%"
         }
       ]
     }

@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-12-14T16:04:58.122Z",
+  "timestamp": "2025-12-14T18:04:28.520Z",
   "states": [
     {
       "name": "Arizona",
@@ -12,18 +12,17 @@
           "name": "bondi beach",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "2K+",
-          "started": "6h ago",
+          "searchVolume": "5K+",
+          "started": "8h ago",
           "trendBreakdown": "bondi",
           "percentageIncrease": "1000%"
         },
         {
-          "name": "army vs navy",
+          "name": "army navy",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "2K+",
-          "started": "23h ago",
-          "trendBreakdown": "army",
+          "searchVolume": "500+",
+          "started": "22h ago",
           "percentageIncrease": "1000%"
         },
         {
@@ -31,7 +30,7 @@
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "3h ago",
+          "started": "5h ago",
           "percentageIncrease": "100%"
         }
       ]
