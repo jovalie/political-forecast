@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-12-14T14:04:35.060Z",
+  "timestamp": "2025-12-14T16:04:58.122Z",
   "states": [
     {
       "name": "Washington",
@@ -12,26 +12,27 @@
           "name": "bondi beach",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "4h ago",
+          "searchVolume": "2K+",
+          "started": "6h ago",
+          "trendBreakdown": "bondi",
           "percentageIncrease": "1000%"
+        },
+        {
+          "name": "auburn wa",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "2h ago",
+          "percentageIncrease": "500%"
         },
         {
           "name": "army vs navy",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "2K+",
-          "started": "20h ago",
+          "started": "22h ago",
           "trendBreakdown": "army",
           "percentageIncrease": "1000%"
-        },
-        {
-          "name": "depot",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "23h ago",
-          "percentageIncrease": "900%"
         }
       ]
     }

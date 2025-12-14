@@ -1,47 +1,45 @@
 {
-  "timestamp": "2025-12-14T14:04:35.060Z",
+  "timestamp": "2025-12-14T16:04:58.122Z",
   "states": [
     {
       "name": "California",
       "code": "CA",
-      "topTopic": "brown university",
+      "topTopic": "army navy",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
         {
-          "name": "brown university",
+          "name": "army navy",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "100K+",
-          "started": "16h ago",
-          "trendBreakdown": "brown",
-          "percentageIncrease": "1000%"
-        },
-        {
-          "name": "bondi beach",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "10K+",
-          "started": "5h ago",
-          "trendBreakdown": "shootingaustralia",
-          "percentageIncrease": "1000%"
-        },
-        {
-          "name": "army vs navy",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "10K+",
+          "searchVolume": "2K+",
           "started": "23h ago",
-          "trendBreakdown": "army",
-          "percentageIncrease": "1000%"
+          "trendBreakdown": "navy",
+          "percentageIncrease": "900%"
+        },
+        {
+          "name": "colonel",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "50 minutes ago",
+          "percentageIncrease": "200%"
         },
         {
           "name": "fires near me",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "16h ago",
+          "started": "18h ago",
           "percentageIncrease": "200%"
+        },
+        {
+          "name": "foxnews",
+          "relevanceScore": 85,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "30 minutes ago",
+          "percentageIncrease": "75%"
         }
       ]
     }

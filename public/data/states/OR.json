@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-12-14T14:04:35.060Z",
+  "timestamp": "2025-12-14T16:04:58.122Z",
   "states": [
     {
       "name": "Oregon",
@@ -13,8 +13,17 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "10K+",
-          "started": "16h ago",
+          "started": "18h ago",
           "trendBreakdown": "brown",
+          "percentageIncrease": "1000%"
+        },
+        {
+          "name": "bondi beach",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "1K+",
+          "started": "5h ago",
+          "trendBreakdown": "bondi",
           "percentageIncrease": "1000%"
         },
         {
@@ -22,9 +31,17 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "17h ago",
+          "started": "19h ago",
           "trendBreakdown": "army",
           "percentageIncrease": "1000%"
+        },
+        {
+          "name": "fox news",
+          "relevanceScore": 85,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "30 minutes ago",
+          "percentageIncrease": "50%"
         }
       ]
     }

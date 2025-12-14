@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-12-14T14:04:35.060Z",
+  "timestamp": "2025-12-14T16:04:58.122Z",
   "states": [
     {
       "name": "Pennsylvania",
@@ -13,7 +13,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "50K+",
-          "started": "16h ago",
+          "started": "18h ago",
           "trendBreakdown": "brown",
           "percentageIncrease": "1000%"
         },
@@ -21,8 +21,8 @@
           "name": "bondi beach",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "5K+",
-          "started": "4h ago",
+          "searchVolume": "10K+",
+          "started": "6h ago",
           "trendBreakdown": "australia",
           "percentageIncrease": "1000%"
         },
@@ -31,15 +31,32 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "11h ago",
+          "started": "13h ago",
           "percentageIncrease": "700%"
         },
         {
-          "name": "abc news",
+          "name": "army-navy",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "18h ago",
+          "trendBreakdown": "army",
+          "percentageIncrease": "500%"
+        },
+        {
+          "name": "amtrak",
           "relevanceScore": 85,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "2h ago",
+          "started": "1h ago",
+          "percentageIncrease": "75%"
+        },
+        {
+          "name": "pennlive",
+          "relevanceScore": 85,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "4h ago",
           "percentageIncrease": "75%"
         }
       ]

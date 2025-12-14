@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-12-14T14:04:35.060Z",
+  "timestamp": "2025-12-14T16:04:58.122Z",
   "states": [
     {
       "name": "Arizona",
@@ -12,8 +12,9 @@
           "name": "bondi beach",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "4h ago",
+          "searchVolume": "2K+",
+          "started": "6h ago",
+          "trendBreakdown": "bondi",
           "percentageIncrease": "1000%"
         },
         {
@@ -21,9 +22,17 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "2K+",
-          "started": "21h ago",
+          "started": "23h ago",
           "trendBreakdown": "army",
           "percentageIncrease": "1000%"
+        },
+        {
+          "name": "daily mail",
+          "relevanceScore": 90,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "3h ago",
+          "percentageIncrease": "100%"
         }
       ]
     }

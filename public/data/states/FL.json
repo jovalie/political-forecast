@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-12-14T14:04:35.060Z",
+  "timestamp": "2025-12-14T16:04:58.122Z",
   "states": [
     {
       "name": "Florida",
@@ -13,42 +13,49 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "100K+",
-          "started": "16h ago",
+          "started": "18h ago",
           "trendBreakdown": "brown",
           "percentageIncrease": "1000%"
         },
         {
-          "name": "bondi beach",
+          "name": "personal injury lawyers",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "10K+",
-          "started": "4h ago",
-          "trendBreakdown": "australia",
-          "percentageIncrease": "1000%"
+          "searchVolume": "100+",
+          "started": "1h ago",
+          "percentageIncrease": "900%"
         },
         {
-          "name": "navy army",
+          "name": "army-navy",
           "relevanceScore": 95,
           "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "15h ago",
+          "searchVolume": "1K+",
+          "started": "19h ago",
           "trendBreakdown": "army",
-          "percentageIncrease": "300%"
+          "percentageIncrease": "400%"
         },
         {
           "name": "racing",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "11h ago",
+          "started": "13h ago",
           "percentageIncrease": "200%"
+        },
+        {
+          "name": "james fishback",
+          "relevanceScore": 90,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "11h ago",
+          "percentageIncrease": "100%"
         },
         {
           "name": "newsmax",
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "4h ago",
+          "started": "6h ago",
           "percentageIncrease": "100%"
         }
       ]
