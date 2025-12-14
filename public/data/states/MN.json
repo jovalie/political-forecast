@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-12-14T20:04:52.944Z",
+  "timestamp": "2025-12-14T22:04:28.612Z",
   "states": [
     {
       "name": "Minnesota",
@@ -12,25 +12,26 @@
           "name": "bondi beach",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "5K+",
-          "started": "9h ago",
-          "trendBreakdown": "bondi",
+          "searchVolume": "10K+",
+          "started": "11h ago",
+          "trendBreakdown": "australia",
           "percentageIncrease": "1000%"
         },
         {
-          "name": "army navy",
+          "name": "brown university active shooter",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "500+",
+          "searchVolume": "10K+",
           "started": "23h ago",
-          "percentageIncrease": "800%"
+          "trendBreakdown": "brown",
+          "percentageIncrease": "1000%"
         },
         {
           "name": "stewartville mn school shooting",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "7h ago",
+          "started": "9h ago",
           "percentageIncrease": "300%"
         }
       ]

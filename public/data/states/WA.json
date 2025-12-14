@@ -1,20 +1,20 @@
 {
-  "timestamp": "2025-12-14T20:04:52.944Z",
+  "timestamp": "2025-12-14T22:04:28.612Z",
   "states": [
     {
       "name": "Washington",
       "code": "WA",
-      "topTopic": "bondi beach",
+      "topTopic": "brown university active shooter",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
         {
-          "name": "bondi beach",
+          "name": "brown university active shooter",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "10K+",
-          "started": "10h ago",
-          "trendBreakdown": "bondi",
+          "started": "23h ago",
+          "trendBreakdown": "brown",
           "percentageIncrease": "1000%"
         }
       ]

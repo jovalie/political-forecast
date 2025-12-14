@@ -1,19 +1,28 @@
 {
-  "timestamp": "2025-12-14T20:04:52.944Z",
+  "timestamp": "2025-12-14T22:04:28.612Z",
   "states": [
     {
       "name": "Indiana",
       "code": "IN",
-      "topTopic": "bondi beach",
+      "topTopic": "brown university active shooter",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
+        {
+          "name": "brown university active shooter",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "10K+",
+          "started": "23h ago",
+          "trendBreakdown": "brown",
+          "percentageIncrease": "1000%"
+        },
         {
           "name": "bondi beach",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "5K+",
-          "started": "8h ago",
+          "started": "10h ago",
           "trendBreakdown": "bondi",
           "percentageIncrease": "1000%"
         },
@@ -22,7 +31,7 @@
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "8h ago",
+          "started": "10h ago",
           "percentageIncrease": "100%"
         }
       ]

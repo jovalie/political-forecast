@@ -1,21 +1,29 @@
 {
-  "timestamp": "2025-12-14T20:04:52.944Z",
+  "timestamp": "2025-12-14T22:04:28.612Z",
   "states": [
     {
       "name": "Virginia",
       "code": "VA",
-      "topTopic": "brown university",
+      "topTopic": "navy army",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
         {
-          "name": "brown university",
+          "name": "navy army",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "50K+",
-          "started": "22h ago",
-          "trendBreakdown": "brown",
-          "percentageIncrease": "1000%"
+          "searchVolume": "500+",
+          "started": "23h ago",
+          "trendBreakdown": "army",
+          "percentageIncrease": "800%"
+        },
+        {
+          "name": "fox",
+          "relevanceScore": 90,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "3h ago",
+          "percentageIncrease": "100%"
         }
       ]
     }

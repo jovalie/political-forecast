@@ -1,38 +1,30 @@
 {
-  "timestamp": "2025-12-14T20:04:52.944Z",
+  "timestamp": "2025-12-14T22:04:28.612Z",
   "states": [
     {
       "name": "Maryland",
       "code": "MD",
-      "topTopic": "brown university",
+      "topTopic": "bondi beach",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
-        {
-          "name": "brown university",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "50K+",
-          "started": "22h ago",
-          "trendBreakdown": "brown",
-          "percentageIncrease": "1000%"
-        },
         {
           "name": "bondi beach",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "10K+",
-          "started": "9h ago",
+          "started": "11h ago",
           "trendBreakdown": "australia",
           "percentageIncrease": "1000%"
         },
         {
-          "name": "cnn",
-          "relevanceScore": 85,
+          "name": "navy army",
+          "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "8h ago",
-          "percentageIncrease": "50%"
+          "searchVolume": "500+",
+          "started": "23h ago",
+          "trendBreakdown": "army",
+          "percentageIncrease": "900%"
         }
       ]
     }

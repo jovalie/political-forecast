@@ -1,20 +1,20 @@
 {
-  "timestamp": "2025-12-14T20:04:52.944Z",
+  "timestamp": "2025-12-14T22:04:28.612Z",
   "states": [
     {
       "name": "Kentucky",
       "code": "KY",
-      "topTopic": "brown university",
+      "topTopic": "brown university active shooter",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
         {
-          "name": "brown university",
+          "name": "brown university active shooter",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "10K+",
-          "started": "22h ago",
-          "trendBreakdown": "brown",
+          "searchVolume": "5K+",
+          "started": "23h ago",
+          "trendBreakdown": "where",
           "percentageIncrease": "1000%"
         }
       ]

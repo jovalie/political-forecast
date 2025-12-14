@@ -1,28 +1,19 @@
 {
-  "timestamp": "2025-12-14T20:04:52.944Z",
+  "timestamp": "2025-12-14T22:04:28.612Z",
   "states": [
     {
       "name": "New Jersey",
       "code": "NJ",
-      "topTopic": "brown university",
+      "topTopic": "cnn",
       "category": "Law and Government",
-      "trendingScore": 100,
+      "trendingScore": 90,
       "topics": [
-        {
-          "name": "brown university",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "100K+",
-          "started": "22h ago",
-          "trendBreakdown": "brown",
-          "percentageIncrease": "1000%"
-        },
         {
           "name": "cnn",
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "20h ago",
+          "started": "22h ago",
           "percentageIncrease": "100%"
         }
       ]

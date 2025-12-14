@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-12-14T20:04:52.944Z",
+  "timestamp": "2025-12-14T22:04:28.612Z",
   "states": [
     {
       "name": "Hawaii",
@@ -12,8 +12,8 @@
           "name": "brown university",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "2K+",
-          "started": "21h ago",
+          "searchVolume": "5K+",
+          "started": "23h ago",
           "trendBreakdown": "brown",
           "percentageIncrease": "1000%"
         },
@@ -21,19 +21,18 @@
           "name": "bondi beach",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "9h ago",
+          "searchVolume": "2K+",
+          "started": "11h ago",
           "trendBreakdown": "bondi",
           "percentageIncrease": "700%"
         },
         {
-          "name": "army vs navy",
+          "name": "army navy",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "1K+",
+          "searchVolume": "100+",
           "started": "23h ago",
-          "trendBreakdown": "army",
-          "percentageIncrease": "1000%"
+          "percentageIncrease": "700%"
         }
       ]
     }

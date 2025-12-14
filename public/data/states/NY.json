@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-12-14T20:04:52.944Z",
+  "timestamp": "2025-12-14T22:04:28.612Z",
   "states": [
     {
       "name": "New York",
@@ -13,43 +13,52 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "50K+",
-          "started": "11h ago",
+          "started": "13h ago",
           "trendBreakdown": "australia",
           "percentageIncrease": "1000%"
         },
         {
-          "name": "sandy hook",
-          "relevanceScore": 95,
+          "name": "brown university shooting today",
+          "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "19h ago",
-          "trendBreakdown": "sandy",
-          "percentageIncrease": "300%"
+          "searchVolume": "50K+",
+          "started": "23h ago",
+          "trendBreakdown": "benjamin",
+          "percentageIncrease": "1000%"
         },
         {
           "name": "brooklyn shooting",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "40 minutes ago",
+          "started": "2h ago",
           "percentageIncrease": "200%"
+        },
+        {
+          "name": "sandy hook",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "1K+",
+          "started": "21h ago",
+          "trendBreakdown": "sandy",
+          "percentageIncrease": "300%"
         },
         {
           "name": "navy army",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "20h ago",
+          "started": "22h ago",
           "trendBreakdown": "where",
           "percentageIncrease": "200%"
         },
         {
-          "name": "cnn",
-          "relevanceScore": 90,
+          "name": "trump",
+          "relevanceScore": 85,
           "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "20h ago",
-          "percentageIncrease": "100%"
+          "searchVolume": "500+",
+          "started": "13h ago",
+          "percentageIncrease": "75%"
         }
       ]
     }

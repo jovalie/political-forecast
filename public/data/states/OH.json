@@ -1,37 +1,19 @@
 {
-  "timestamp": "2025-12-14T20:04:52.944Z",
+  "timestamp": "2025-12-14T22:04:28.612Z",
   "states": [
     {
       "name": "Ohio",
       "code": "OH",
-      "topTopic": "brown university",
+      "topTopic": "west point academy",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
-        {
-          "name": "brown university",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "50K+",
-          "started": "22h ago",
-          "trendBreakdown": "brown",
-          "percentageIncrease": "1000%"
-        },
-        {
-          "name": "bondi beach",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "10K+",
-          "started": "9h ago",
-          "trendBreakdown": "australia",
-          "percentageIncrease": "1000%"
-        },
         {
           "name": "west point academy",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "21h ago",
+          "started": "23h ago",
           "percentageIncrease": "700%"
         },
         {
@@ -39,7 +21,7 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "10h ago",
+          "started": "12h ago",
           "percentageIncrease": "200%"
         },
         {
@@ -47,7 +29,7 @@
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "8h ago",
+          "started": "10h ago",
           "percentageIncrease": "100%"
         },
         {
@@ -55,7 +37,7 @@
           "relevanceScore": 85,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "8h ago",
+          "started": "10h ago",
           "percentageIncrease": "75%"
         }
       ]

@@ -1,29 +1,29 @@
 {
-  "timestamp": "2025-12-14T20:04:52.944Z",
+  "timestamp": "2025-12-14T22:04:28.612Z",
   "states": [
     {
       "name": "Florida",
       "code": "FL",
-      "topTopic": "brown university",
+      "topTopic": "bondi beach",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
-        {
-          "name": "brown university",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "100K+",
-          "started": "22h ago",
-          "trendBreakdown": "brown",
-          "percentageIncrease": "1000%"
-        },
         {
           "name": "bondi beach",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "50K+",
-          "started": "10h ago",
+          "started": "12h ago",
           "trendBreakdown": "australia",
+          "percentageIncrease": "1000%"
+        },
+        {
+          "name": "brown university active shooter",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "50K+",
+          "started": "23h ago",
+          "trendBreakdown": "brown",
           "percentageIncrease": "1000%"
         },
         {
@@ -31,33 +31,15 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "5h ago",
+          "started": "7h ago",
           "percentageIncrease": "900%"
-        },
-        {
-          "name": "license plate frame law florida",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "4h ago",
-          "trendBreakdown": "florida",
-          "percentageIncrease": "300%"
-        },
-        {
-          "name": "army-navy",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "23h ago",
-          "trendBreakdown": "navy",
-          "percentageIncrease": "400%"
         },
         {
           "name": "racing",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "17h ago",
+          "started": "19h ago",
           "percentageIncrease": "200%"
         },
         {
@@ -65,7 +47,7 @@
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "15h ago",
+          "started": "17h ago",
           "percentageIncrease": "100%"
         },
         {
@@ -73,7 +55,7 @@
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "10h ago",
+          "started": "12h ago",
           "percentageIncrease": "100%"
         }
       ]

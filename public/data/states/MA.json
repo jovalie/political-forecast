@@ -1,36 +1,38 @@
 {
-  "timestamp": "2025-12-14T20:04:52.944Z",
+  "timestamp": "2025-12-14T22:04:28.612Z",
   "states": [
     {
       "name": "Massachusetts",
       "code": "MA",
-      "topTopic": "sandy hook anniversary",
+      "topTopic": "brown university news",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
         {
-          "name": "sandy hook anniversary",
+          "name": "brown university news",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "5h ago",
-          "percentageIncrease": "500%"
+          "searchVolume": "50K+",
+          "started": "23h ago",
+          "trendBreakdown": "providence",
+          "percentageIncrease": "1000%"
+        },
+        {
+          "name": "sandy hook",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "1K+",
+          "started": "22h ago",
+          "trendBreakdown": "sandy",
+          "percentageIncrease": "600%"
         },
         {
           "name": "providence college",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "21h ago",
+          "started": "23h ago",
           "percentageIncrease": "600%"
-        },
-        {
-          "name": "cnn",
-          "relevanceScore": 90,
-          "category": "Law and Government",
-          "searchVolume": "5K+",
-          "started": "21h ago",
-          "percentageIncrease": "100%"
         }
       ]
     }
