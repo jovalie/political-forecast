@@ -1,20 +1,21 @@
 {
-  "timestamp": "2025-12-14T06:04:36.750Z",
+  "timestamp": "2025-12-14T08:04:37.668Z",
   "states": [
     {
       "name": "Connecticut",
       "code": "CT",
-      "topTopic": "cnn",
+      "topTopic": "brown university",
       "category": "Law and Government",
-      "trendingScore": 95,
+      "trendingScore": 100,
       "topics": [
         {
-          "name": "cnn",
-          "relevanceScore": 95,
+          "name": "brown university",
+          "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "5h ago",
-          "percentageIncrease": "200%"
+          "searchVolume": "50K+",
+          "started": "10h ago",
+          "trendBreakdown": "brown",
+          "percentageIncrease": "1000%"
         }
       ]
     }

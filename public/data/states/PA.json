@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-12-14T06:04:36.750Z",
+  "timestamp": "2025-12-14T08:04:37.668Z",
   "states": [
     {
       "name": "Pennsylvania",
@@ -13,24 +13,24 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "50K+",
-          "started": "8h ago",
+          "started": "10h ago",
           "trendBreakdown": "brown",
           "percentageIncrease": "1000%"
-        },
-        {
-          "name": "stroud mall",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "3h ago",
-          "percentageIncrease": "700%"
         },
         {
           "name": "depot",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "2K+",
-          "started": "19h ago",
+          "started": "21h ago",
+          "percentageIncrease": "700%"
+        },
+        {
+          "name": "stroud mall",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "5h ago",
           "percentageIncrease": "700%"
         },
         {
@@ -38,7 +38,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "18h ago",
+          "started": "20h ago",
           "percentageIncrease": "1000%"
         }
       ]
