@@ -1,19 +1,27 @@
 {
-  "timestamp": "2025-12-14T10:04:39.786Z",
+  "timestamp": "2025-12-14T12:04:34.481Z",
   "states": [
     {
       "name": "Minnesota",
       "code": "MN",
-      "topTopic": "depot",
+      "topTopic": "army vs navy",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
+        {
+          "name": "army vs navy",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "1K+",
+          "started": "16h ago",
+          "percentageIncrease": "900%"
+        },
         {
           "name": "depot",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "20h ago",
+          "started": "22h ago",
           "percentageIncrease": "800%"
         },
         {
@@ -21,7 +29,7 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "20h ago",
+          "started": "22h ago",
           "percentageIncrease": "200%"
         }
       ]

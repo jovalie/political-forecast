@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-12-14T10:04:39.786Z",
+  "timestamp": "2025-12-14T12:04:34.481Z",
   "states": [
     {
       "name": "California",
@@ -13,7 +13,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "100K+",
-          "started": "12h ago",
+          "started": "14h ago",
           "trendBreakdown": "brown",
           "percentageIncrease": "1000%"
         },
@@ -21,26 +21,43 @@
           "name": "bondi beach",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "2K+",
-          "started": "1h ago",
+          "searchVolume": "5K+",
+          "started": "3h ago",
+          "trendBreakdown": "shootingaustralia",
           "percentageIncrease": "1000%"
+        },
+        {
+          "name": "army vs navy",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "10K+",
+          "started": "21h ago",
+          "trendBreakdown": "navy",
+          "percentageIncrease": "1000%"
+        },
+        {
+          "name": "fires near me",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "14h ago",
+          "percentageIncrease": "200%"
         }
       ]
     },
     {
       "name": "Arizona",
       "code": "AZ",
-      "topTopic": "brown university",
+      "topTopic": "army vs navy",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
         {
-          "name": "brown university",
+          "name": "army vs navy",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "10K+",
-          "started": "8h ago",
-          "trendBreakdown": "brown",
+          "searchVolume": "2K+",
+          "started": "19h ago",
           "percentageIncrease": "1000%"
         }
       ]
@@ -57,24 +74,25 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "100K+",
-          "started": "12h ago",
+          "started": "14h ago",
           "trendBreakdown": "brown",
           "percentageIncrease": "1000%"
         },
         {
-          "name": "depot",
+          "name": "bondi beach",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "2K+",
-          "started": "23h ago",
-          "percentageIncrease": "600%"
+          "started": "2h ago",
+          "trendBreakdown": "shootingaustralia",
+          "percentageIncrease": "1000%"
         },
         {
           "name": "conduent",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "21h ago",
+          "started": "23h ago",
           "percentageIncrease": "700%"
         },
         {
@@ -82,7 +100,7 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "7h ago",
+          "started": "9h ago",
           "percentageIncrease": "200%"
         },
         {
@@ -90,7 +108,7 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "21h ago",
+          "started": "23h ago",
           "percentageIncrease": "200%"
         }
       ]
@@ -98,16 +116,24 @@
     {
       "name": "Georgia",
       "code": "GA",
-      "topTopic": "conduent",
+      "topTopic": "bondi beach",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
+        {
+          "name": "bondi beach",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "1h ago",
+          "percentageIncrease": "1000%"
+        },
         {
           "name": "conduent",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "21h ago",
+          "started": "23h ago",
           "percentageIncrease": "900%"
         },
         {
@@ -115,7 +141,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "21h ago",
+          "started": "23h ago",
           "percentageIncrease": "700%"
         },
         {
@@ -123,7 +149,7 @@
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "17h ago",
+          "started": "19h ago",
           "percentageIncrease": "100%"
         }
       ]
@@ -140,7 +166,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "50K+",
-          "started": "12h ago",
+          "started": "14h ago",
           "trendBreakdown": "brown",
           "percentageIncrease": "1000%"
         },
@@ -148,8 +174,16 @@
           "name": "bondi beach",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "20 minutes ago",
+          "searchVolume": "1K+",
+          "started": "2h ago",
+          "percentageIncrease": "1000%"
+        },
+        {
+          "name": "army vs navy",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "2K+",
+          "started": "22h ago",
           "percentageIncrease": "1000%"
         },
         {
@@ -157,7 +191,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "21h ago",
+          "started": "23h ago",
           "percentageIncrease": "800%"
         }
       ]
@@ -165,17 +199,24 @@
     {
       "name": "Indiana",
       "code": "IN",
-      "topTopic": "brown university",
+      "topTopic": "bondi beach",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
         {
-          "name": "brown university",
+          "name": "bondi beach",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "10K+",
-          "started": "4h ago",
-          "trendBreakdown": "brown",
+          "searchVolume": "100+",
+          "started": "50 minutes ago",
+          "percentageIncrease": "1000%"
+        },
+        {
+          "name": "army vs navy",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "2K+",
+          "started": "19h ago",
           "percentageIncrease": "1000%"
         }
       ]
@@ -183,84 +224,92 @@
     {
       "name": "Maryland",
       "code": "MD",
-      "topTopic": "brown university",
+      "topTopic": "army vs navy",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
         {
-          "name": "brown university",
+          "name": "army vs navy",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "10K+",
-          "started": "2h ago",
-          "trendBreakdown": "brown",
+          "searchVolume": "5K+",
+          "started": "23h ago",
+          "trendBreakdown": "navy",
           "percentageIncrease": "1000%"
-        },
-        {
-          "name": "her",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "10h ago",
-          "percentageIncrease": "400%"
         }
       ]
     },
     {
       "name": "Michigan",
       "code": "MI",
-      "topTopic": "depot",
+      "topTopic": "bondi beach",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
         {
-          "name": "depot",
+          "name": "bondi beach",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "22h ago",
-          "percentageIncrease": "900%"
+          "started": "1h ago",
+          "percentageIncrease": "1000%"
+        },
+        {
+          "name": "army vs navy",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "2K+",
+          "started": "20h ago",
+          "percentageIncrease": "1000%"
         }
       ]
     },
     {
       "name": "Massachusetts",
       "code": "MA",
-      "topTopic": "sandy hook",
+      "topTopic": "bondi beach",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
+        {
+          "name": "bondi beach",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "2K+",
+          "started": "2h ago",
+          "percentageIncrease": "1000%"
+        },
+        {
+          "name": "army vs navy",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "2K+",
+          "started": "19h ago",
+          "percentageIncrease": "1000%"
+        },
         {
           "name": "sandy hook",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "10h ago",
+          "started": "12h ago",
           "percentageIncrease": "600%"
-        },
-        {
-          "name": "depot",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "22h ago",
-          "percentageIncrease": "800%"
         },
         {
           "name": "providence college",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "11h ago",
+          "started": "13h ago",
           "percentageIncrease": "600%"
         },
         {
-          "name": "her",
-          "relevanceScore": 100,
+          "name": "cnn",
+          "relevanceScore": 95,
           "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "22h ago",
-          "percentageIncrease": "800%"
+          "searchVolume": "2K+",
+          "started": "13h ago",
+          "percentageIncrease": "200%"
         }
       ]
     },
@@ -276,8 +325,24 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "10K+",
-          "started": "12h ago",
+          "started": "14h ago",
           "trendBreakdown": "brown",
+          "percentageIncrease": "1000%"
+        },
+        {
+          "name": "bondi beach",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "20 minutes ago",
+          "percentageIncrease": "1000%"
+        },
+        {
+          "name": "army vs navy",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "2K+",
+          "started": "20h ago",
           "percentageIncrease": "1000%"
         }
       ]
@@ -294,8 +359,24 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "50K+",
-          "started": "12h ago",
+          "started": "14h ago",
           "trendBreakdown": "brown",
+          "percentageIncrease": "1000%"
+        },
+        {
+          "name": "bondi beach",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "2h ago",
+          "percentageIncrease": "1000%"
+        },
+        {
+          "name": "army vs navy",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "2K+",
+          "started": "20h ago",
           "percentageIncrease": "1000%"
         },
         {
@@ -303,41 +384,58 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "22h ago",
+          "started": "24h ago",
           "percentageIncrease": "1000%"
+        },
+        {
+          "name": "cnn",
+          "relevanceScore": 90,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "12h ago",
+          "percentageIncrease": "100%"
         }
       ]
     },
     {
       "name": "North Carolina",
       "code": "NC",
-      "topTopic": "depot",
+      "topTopic": "brown university",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
         {
-          "name": "depot",
+          "name": "brown university",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "1K+",
+          "searchVolume": "50K+",
+          "started": "14h ago",
+          "trendBreakdown": "brown",
+          "percentageIncrease": "1000%"
+        },
+        {
+          "name": "bondi beach",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "1h ago",
+          "percentageIncrease": "1000%"
+        },
+        {
+          "name": "army vs navy",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "5K+",
           "started": "22h ago",
-          "percentageIncrease": "800%"
+          "percentageIncrease": "1000%"
         },
         {
           "name": "are",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "21h ago",
-          "percentageIncrease": "1000%"
-        },
-        {
-          "name": "kerri aherne",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "100+",
           "started": "23h ago",
-          "percentageIncrease": "200%"
+          "percentageIncrease": "1000%"
         }
       ]
     },
@@ -353,8 +451,75 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "100K+",
-          "started": "12h ago",
+          "started": "14h ago",
           "trendBreakdown": "brown",
+          "percentageIncrease": "1000%"
+        },
+        {
+          "name": "bondi beach",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "2K+",
+          "started": "3h ago",
+          "trendBreakdown": "shootingaustralia",
+          "percentageIncrease": "1000%"
+        },
+        {
+          "name": "army vs navy",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "5K+",
+          "started": "22h ago",
+          "trendBreakdown": "navy",
+          "percentageIncrease": "1000%"
+        },
+        {
+          "name": "sandy hook",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "11h ago",
+          "percentageIncrease": "200%"
+        },
+        {
+          "name": "vn",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "1h ago",
+          "percentageIncrease": "200%"
+        },
+        {
+          "name": "cnn",
+          "relevanceScore": 90,
+          "category": "Law and Government",
+          "searchVolume": "1K+",
+          "started": "12h ago",
+          "percentageIncrease": "100%"
+        },
+        {
+          "name": "sycamore brewing",
+          "relevanceScore": 90,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "22h ago",
+          "percentageIncrease": "100%"
+        }
+      ]
+    },
+    {
+      "name": "Ohio",
+      "code": "OH",
+      "topTopic": "army vs navy",
+      "category": "Law and Government",
+      "trendingScore": 100,
+      "topics": [
+        {
+          "name": "army vs navy",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "5K+",
+          "started": "23h ago",
           "percentageIncrease": "1000%"
         },
         {
@@ -366,53 +531,20 @@
           "percentageIncrease": "1000%"
         },
         {
-          "name": "sandy hook",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "9h ago",
-          "percentageIncrease": "200%"
-        },
-        {
-          "name": "cnn",
-          "relevanceScore": 90,
-          "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "10h ago",
-          "percentageIncrease": "100%"
-        },
-        {
-          "name": "sycamore brewing",
-          "relevanceScore": 90,
-          "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "20h ago",
-          "percentageIncrease": "100%"
-        }
-      ]
-    },
-    {
-      "name": "Ohio",
-      "code": "OH",
-      "topTopic": "depot",
-      "category": "Law and Government",
-      "trendingScore": 100,
-      "topics": [
-        {
-          "name": "depot",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "22h ago",
-          "percentageIncrease": "700%"
-        },
-        {
           "name": "conduent",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "21h ago",
+          "started": "23h ago",
           "percentageIncrease": "1000%"
+        },
+        {
+          "name": "west point academy",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "13h ago",
+          "percentageIncrease": "700%"
         }
       ]
     },
@@ -428,8 +560,16 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "10K+",
-          "started": "12h ago",
+          "started": "14h ago",
           "trendBreakdown": "brown",
+          "percentageIncrease": "1000%"
+        },
+        {
+          "name": "army vs navy",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "15h ago",
           "percentageIncrease": "1000%"
         }
       ]
@@ -446,50 +586,66 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "50K+",
-          "started": "12h ago",
+          "started": "14h ago",
           "trendBreakdown": "brown",
           "percentageIncrease": "1000%"
         },
         {
-          "name": "depot",
+          "name": "army vs navy",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "2K+",
-          "started": "23h ago",
-          "percentageIncrease": "700%"
+          "searchVolume": "5K+",
+          "started": "22h ago",
+          "trendBreakdown": "armynavy",
+          "percentageIncrease": "1000%"
+        },
+        {
+          "name": "bondi beach",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "1K+",
+          "started": "2h ago",
+          "percentageIncrease": "1000%"
         },
         {
           "name": "stroud mall",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "7h ago",
+          "started": "9h ago",
           "percentageIncrease": "700%"
         },
         {
-          "name": "are",
-          "relevanceScore": 100,
+          "name": "cnn",
+          "relevanceScore": 85,
           "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "22h ago",
-          "percentageIncrease": "1000%"
+          "searchVolume": "100+",
+          "started": "1h ago",
+          "percentageIncrease": "75%"
         }
       ]
     },
     {
       "name": "South Carolina",
       "code": "SC",
-      "topTopic": "brown university",
+      "topTopic": "bondi beach",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
         {
-          "name": "brown university",
+          "name": "bondi beach",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "10K+",
-          "started": "12h ago",
-          "trendBreakdown": "brown",
+          "searchVolume": "100+",
+          "started": "30 minutes ago",
+          "percentageIncrease": "1000%"
+        },
+        {
+          "name": "army vs navy",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "2K+",
+          "started": "20h ago",
           "percentageIncrease": "1000%"
         }
       ]
@@ -497,17 +653,24 @@
     {
       "name": "Tennessee",
       "code": "TN",
-      "topTopic": "brown university",
+      "topTopic": "bondi beach",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
         {
-          "name": "brown university",
+          "name": "bondi beach",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "10K+",
-          "started": "4h ago",
-          "trendBreakdown": "brown",
+          "searchVolume": "100+",
+          "started": "50 minutes ago",
+          "percentageIncrease": "1000%"
+        },
+        {
+          "name": "army vs navy",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "2K+",
+          "started": "21h ago",
           "percentageIncrease": "1000%"
         }
       ]
@@ -524,8 +687,26 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "100K+",
-          "started": "12h ago",
+          "started": "14h ago",
           "trendBreakdown": "brown",
+          "percentageIncrease": "1000%"
+        },
+        {
+          "name": "bondi beach",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "2K+",
+          "started": "2h ago",
+          "trendBreakdown": "shootingaustralia",
+          "percentageIncrease": "1000%"
+        },
+        {
+          "name": "army vs navy",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "10K+",
+          "started": "22h ago",
+          "trendBreakdown": "navy",
           "percentageIncrease": "1000%"
         },
         {
@@ -533,7 +714,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "21h ago",
+          "started": "23h ago",
           "percentageIncrease": "500%"
         },
         {
@@ -541,7 +722,7 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "2K+",
-          "started": "21h ago",
+          "started": "23h ago",
           "percentageIncrease": "300%"
         }
       ]
@@ -558,17 +739,26 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "50K+",
-          "started": "12h ago",
+          "started": "14h ago",
           "trendBreakdown": "brown",
           "percentageIncrease": "1000%"
         },
         {
-          "name": "depot",
+          "name": "bondi beach",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "22h ago",
-          "percentageIncrease": "800%"
+          "searchVolume": "500+",
+          "started": "1h ago",
+          "percentageIncrease": "1000%"
+        },
+        {
+          "name": "army vs navy",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "5K+",
+          "started": "23h ago",
+          "trendBreakdown": "donald",
+          "percentageIncrease": "1000%"
         }
       ]
     },
@@ -584,8 +774,16 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "50K+",
-          "started": "12h ago",
+          "started": "14h ago",
           "trendBreakdown": "brown",
+          "percentageIncrease": "1000%"
+        },
+        {
+          "name": "bondi beach",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "2h ago",
           "percentageIncrease": "1000%"
         },
         {
@@ -593,15 +791,23 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "21h ago",
+          "started": "23h ago",
           "percentageIncrease": "800%"
+        },
+        {
+          "name": "cnn",
+          "relevanceScore": 90,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "12h ago",
+          "percentageIncrease": "100%"
         },
         {
           "name": "kerri aherne",
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "21h ago",
+          "started": "23h ago",
           "percentageIncrease": "100%"
         }
       ]
@@ -618,8 +824,16 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "5K+",
-          "started": "12h ago",
+          "started": "14h ago",
           "trendBreakdown": "brown",
+          "percentageIncrease": "1000%"
+        },
+        {
+          "name": "army vs navy",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "1K+",
+          "started": "18h ago",
           "percentageIncrease": "1000%"
         }
       ]
@@ -636,7 +850,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "5K+",
-          "started": "11h ago",
+          "started": "13h ago",
           "trendBreakdown": "brown",
           "percentageIncrease": "1000%"
         }
@@ -645,16 +859,32 @@
     {
       "name": "Washington",
       "code": "WA",
-      "topTopic": "depot",
+      "topTopic": "bondi beach",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
+        {
+          "name": "bondi beach",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "2h ago",
+          "percentageIncrease": "1000%"
+        },
+        {
+          "name": "army vs navy",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "2K+",
+          "started": "18h ago",
+          "percentageIncrease": "1000%"
+        },
         {
           "name": "depot",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "19h ago",
+          "started": "21h ago",
           "percentageIncrease": "900%"
         }
       ]
@@ -671,8 +901,16 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "10K+",
-          "started": "12h ago",
+          "started": "14h ago",
           "trendBreakdown": "brown",
+          "percentageIncrease": "1000%"
+        },
+        {
+          "name": "army vs navy",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "2K+",
+          "started": "21h ago",
           "percentageIncrease": "1000%"
         }
       ]
@@ -689,8 +927,16 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "5K+",
-          "started": "11h ago",
+          "started": "13h ago",
           "trendBreakdown": "brown",
+          "percentageIncrease": "1000%"
+        },
+        {
+          "name": "army vs navy",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "1K+",
+          "started": "16h ago",
           "percentageIncrease": "1000%"
         }
       ]
@@ -707,25 +953,41 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "2K+",
-          "started": "11h ago",
+          "started": "13h ago",
           "trendBreakdown": "brown",
           "percentageIncrease": "1000%"
+        },
+        {
+          "name": "army vs navy",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "15h ago",
+          "percentageIncrease": "700%"
         }
       ]
     },
     {
       "name": "Colorado",
       "code": "CO",
-      "topTopic": "colorado springs fire",
+      "topTopic": "army vs navy",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
+        {
+          "name": "army vs navy",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "2K+",
+          "started": "19h ago",
+          "percentageIncrease": "1000%"
+        },
         {
           "name": "colorado springs fire",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "2K+",
-          "started": "12h ago",
+          "started": "14h ago",
           "trendBreakdown": "fire",
           "percentageIncrease": "1000%"
         }
@@ -743,8 +1005,16 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "5K+",
-          "started": "11h ago",
+          "started": "13h ago",
           "trendBreakdown": "brown",
+          "percentageIncrease": "1000%"
+        },
+        {
+          "name": "army vs navy",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "1K+",
+          "started": "17h ago",
           "percentageIncrease": "1000%"
         }
       ]
@@ -761,8 +1031,16 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "10K+",
-          "started": "11h ago",
+          "started": "13h ago",
           "trendBreakdown": "brown",
+          "percentageIncrease": "1000%"
+        },
+        {
+          "name": "army vs navy",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "1K+",
+          "started": "17h ago",
           "percentageIncrease": "1000%"
         }
       ]
@@ -770,16 +1048,24 @@
     {
       "name": "Minnesota",
       "code": "MN",
-      "topTopic": "depot",
+      "topTopic": "army vs navy",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
+        {
+          "name": "army vs navy",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "1K+",
+          "started": "16h ago",
+          "percentageIncrease": "900%"
+        },
         {
           "name": "depot",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "20h ago",
+          "started": "22h ago",
           "percentageIncrease": "800%"
         },
         {
@@ -787,7 +1073,7 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "20h ago",
+          "started": "22h ago",
           "percentageIncrease": "200%"
         }
       ]
@@ -804,8 +1090,16 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "2K+",
-          "started": "11h ago",
+          "started": "13h ago",
           "trendBreakdown": "brown",
+          "percentageIncrease": "1000%"
+        },
+        {
+          "name": "army vs navy",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "16h ago",
           "percentageIncrease": "1000%"
         }
       ]
@@ -822,8 +1116,24 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "10K+",
-          "started": "11h ago",
+          "started": "13h ago",
           "trendBreakdown": "brown",
+          "percentageIncrease": "1000%"
+        },
+        {
+          "name": "bondi beach",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "1h ago",
+          "percentageIncrease": "800%"
+        },
+        {
+          "name": "army vs navy",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "1K+",
+          "started": "16h ago",
           "percentageIncrease": "1000%"
         }
       ]
@@ -831,17 +1141,24 @@
     {
       "name": "Wisconsin",
       "code": "WI",
-      "topTopic": "brown university",
+      "topTopic": "bondi beach",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
         {
-          "name": "brown university",
+          "name": "bondi beach",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "10K+",
-          "started": "8h ago",
-          "trendBreakdown": "brown",
+          "searchVolume": "100+",
+          "started": "30 minutes ago",
+          "percentageIncrease": "1000%"
+        },
+        {
+          "name": "army vs navy",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "1K+",
+          "started": "17h ago",
           "percentageIncrease": "1000%"
         }
       ]
@@ -858,9 +1175,34 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "50K+",
-          "started": "12h ago",
+          "started": "14h ago",
           "trendBreakdown": "brown",
           "percentageIncrease": "1000%"
+        },
+        {
+          "name": "sandy hook",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "12h ago",
+          "trendBreakdown": "sandy",
+          "percentageIncrease": "500%"
+        },
+        {
+          "name": "army vs navy",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "1K+",
+          "started": "16h ago",
+          "percentageIncrease": "1000%"
+        },
+        {
+          "name": "cnn",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "12h ago",
+          "percentageIncrease": "200%"
         }
       ]
     },
@@ -876,8 +1218,16 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "10K+",
-          "started": "12h ago",
+          "started": "14h ago",
           "trendBreakdown": "brown",
+          "percentageIncrease": "1000%"
+        },
+        {
+          "name": "army vs navy",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "1K+",
+          "started": "16h ago",
           "percentageIncrease": "1000%"
         },
         {
@@ -885,7 +1235,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "20h ago",
+          "started": "22h ago",
           "percentageIncrease": "800%"
         }
       ]
@@ -902,8 +1252,8 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "10h ago",
-          "percentageIncrease": "1000%"
+          "started": "12h ago",
+          "percentageIncrease": "900%"
         }
       ]
     },
@@ -919,7 +1269,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "2K+",
-          "started": "11h ago",
+          "started": "13h ago",
           "trendBreakdown": "brown",
           "percentageIncrease": "1000%"
         }
@@ -937,8 +1287,16 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "5K+",
-          "started": "11h ago",
+          "started": "13h ago",
           "trendBreakdown": "brown",
+          "percentageIncrease": "1000%"
+        },
+        {
+          "name": "army vs navy",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "16h ago",
           "percentageIncrease": "1000%"
         },
         {
@@ -946,7 +1304,7 @@
           "relevanceScore": 85,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "20h ago",
+          "started": "22h ago",
           "percentageIncrease": "50%"
         }
       ]
@@ -963,9 +1321,17 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "5K+",
-          "started": "11h ago",
+          "started": "13h ago",
           "trendBreakdown": "brown",
           "percentageIncrease": "1000%"
+        },
+        {
+          "name": "army vs navy",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "16h ago",
+          "percentageIncrease": "900%"
         }
       ]
     },
@@ -981,7 +1347,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "2K+",
-          "started": "11h ago",
+          "started": "13h ago",
           "trendBreakdown": "brown",
           "percentageIncrease": "1000%"
         }
@@ -999,8 +1365,16 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "5K+",
-          "started": "11h ago",
+          "started": "13h ago",
           "trendBreakdown": "brown",
+          "percentageIncrease": "1000%"
+        },
+        {
+          "name": "army vs navy",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "1K+",
+          "started": "16h ago",
           "percentageIncrease": "1000%"
         }
       ]
@@ -1017,9 +1391,25 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "10K+",
-          "started": "12h ago",
+          "started": "14h ago",
           "trendBreakdown": "brown",
           "percentageIncrease": "1000%"
+        },
+        {
+          "name": "army vs navy",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "14h ago",
+          "percentageIncrease": "600%"
+        },
+        {
+          "name": "cnn",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "11h ago",
+          "percentageIncrease": "300%"
         }
       ]
     },
@@ -1035,7 +1425,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "10h ago",
+          "started": "12h ago",
           "percentageIncrease": "1000%"
         }
       ]
@@ -1052,9 +1442,17 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "10K+",
-          "started": "12h ago",
+          "started": "14h ago",
           "trendBreakdown": "brown",
           "percentageIncrease": "1000%"
+        },
+        {
+          "name": "army vs navy",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "13h ago",
+          "percentageIncrease": "500%"
         }
       ]
     },
@@ -1070,7 +1468,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "2K+",
-          "started": "11h ago",
+          "started": "13h ago",
           "trendBreakdown": "brown",
           "percentageIncrease": "1000%"
         }
@@ -1088,24 +1486,32 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "100K+",
-          "started": "12h ago",
+          "started": "14h ago",
           "trendBreakdown": "brown",
           "percentageIncrease": "1000%"
         },
         {
-          "name": "wjar",
+          "name": "cnn",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "12h ago",
-          "percentageIncrease": "900%"
+          "started": "13h ago",
+          "percentageIncrease": "700%"
+        },
+        {
+          "name": "news",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "1K+",
+          "started": "14h ago",
+          "percentageIncrease": "600%"
         },
         {
           "name": "sandy hook",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "9h ago",
+          "started": "11h ago",
           "percentageIncrease": "500%"
         },
         {
@@ -1113,7 +1519,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "7h ago",
+          "started": "9h ago",
           "percentageIncrease": "1000%"
         },
         {
@@ -1121,7 +1527,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "7h ago",
+          "started": "9h ago",
           "percentageIncrease": "700%"
         }
       ]
@@ -1138,7 +1544,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "2K+",
-          "started": "11h ago",
+          "started": "13h ago",
           "trendBreakdown": "brown",
           "percentageIncrease": "1000%"
         }
@@ -1156,9 +1562,25 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "2K+",
-          "started": "11h ago",
+          "started": "13h ago",
           "trendBreakdown": "brown",
           "percentageIncrease": "1000%"
+        },
+        {
+          "name": "army vs navy",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "15h ago",
+          "percentageIncrease": "1000%"
+        },
+        {
+          "name": "bondi beach",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "1h ago",
+          "percentageIncrease": "300%"
         }
       ]
     },
@@ -1174,7 +1596,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "10h ago",
+          "started": "12h ago",
           "percentageIncrease": "1000%"
         }
       ]
@@ -1191,7 +1613,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "10h ago",
+          "started": "12h ago",
           "percentageIncrease": "800%"
         }
       ]
@@ -1208,7 +1630,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "10h ago",
+          "started": "12h ago",
           "percentageIncrease": "900%"
         }
       ]

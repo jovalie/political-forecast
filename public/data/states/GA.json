@@ -1,19 +1,27 @@
 {
-  "timestamp": "2025-12-14T10:04:39.786Z",
+  "timestamp": "2025-12-14T12:04:34.481Z",
   "states": [
     {
       "name": "Georgia",
       "code": "GA",
-      "topTopic": "conduent",
+      "topTopic": "bondi beach",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
+        {
+          "name": "bondi beach",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "1h ago",
+          "percentageIncrease": "1000%"
+        },
         {
           "name": "conduent",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "21h ago",
+          "started": "23h ago",
           "percentageIncrease": "900%"
         },
         {
@@ -21,7 +29,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "21h ago",
+          "started": "23h ago",
           "percentageIncrease": "700%"
         },
         {
@@ -29,7 +37,7 @@
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "17h ago",
+          "started": "19h ago",
           "percentageIncrease": "100%"
         }
       ]
