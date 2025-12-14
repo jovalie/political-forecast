@@ -1,43 +1,46 @@
 {
-  "timestamp": "2025-12-14T12:04:34.481Z",
+  "timestamp": "2025-12-14T14:04:35.060Z",
   "states": [
     {
       "name": "Georgia",
       "code": "GA",
-      "topTopic": "bondi beach",
+      "topTopic": "brown university",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
         {
-          "name": "bondi beach",
+          "name": "brown university",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "1h ago",
+          "searchVolume": "50K+",
+          "started": "16h ago",
+          "trendBreakdown": "brown",
           "percentageIncrease": "1000%"
         },
         {
-          "name": "conduent",
+          "name": "bondi beach",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "23h ago",
-          "percentageIncrease": "900%"
+          "searchVolume": "2K+",
+          "started": "3h ago",
+          "trendBreakdown": "australia",
+          "percentageIncrease": "1000%"
         },
         {
-          "name": "depot",
+          "name": "army navy",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "500+",
+          "searchVolume": "2K+",
           "started": "23h ago",
-          "percentageIncrease": "700%"
+          "trendBreakdown": "armynavy",
+          "percentageIncrease": "1000%"
         },
         {
           "name": "post office",
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "19h ago",
+          "started": "21h ago",
           "percentageIncrease": "100%"
         }
       ]

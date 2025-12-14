@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-12-14T12:04:34.481Z",
+  "timestamp": "2025-12-14T14:04:35.060Z",
   "states": [
     {
       "name": "Michigan",
@@ -12,16 +12,18 @@
           "name": "bondi beach",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "1h ago",
+          "searchVolume": "2K+",
+          "started": "3h ago",
+          "trendBreakdown": "australia",
           "percentageIncrease": "1000%"
         },
         {
           "name": "army vs navy",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "2K+",
-          "started": "20h ago",
+          "searchVolume": "5K+",
+          "started": "22h ago",
+          "trendBreakdown": "army",
           "percentageIncrease": "1000%"
         }
       ]

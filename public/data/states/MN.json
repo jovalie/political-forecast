@@ -1,36 +1,46 @@
 {
-  "timestamp": "2025-12-14T12:04:34.481Z",
+  "timestamp": "2025-12-14T14:04:35.060Z",
   "states": [
     {
       "name": "Minnesota",
       "code": "MN",
-      "topTopic": "army vs navy",
+      "topTopic": "bondi beach",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
+        {
+          "name": "bondi beach",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "1K+",
+          "started": "3h ago",
+          "trendBreakdown": "australia",
+          "percentageIncrease": "1000%"
+        },
         {
           "name": "army vs navy",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "16h ago",
+          "started": "18h ago",
+          "trendBreakdown": "army",
           "percentageIncrease": "900%"
         },
         {
-          "name": "depot",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "22h ago",
-          "percentageIncrease": "800%"
-        },
-        {
-          "name": "stewartville school shooting",
+          "name": "stewartville mn school shooting",
           "relevanceScore": 95,
           "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "22h ago",
-          "percentageIncrease": "200%"
+          "searchVolume": "100+",
+          "started": "1h ago",
+          "percentageIncrease": "300%"
+        },
+        {
+          "name": "cnn news",
+          "relevanceScore": 90,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "20 minutes ago",
+          "percentageIncrease": "100%"
         }
       ]
     }

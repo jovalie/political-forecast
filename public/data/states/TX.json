@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-12-14T12:04:34.481Z",
+  "timestamp": "2025-12-14T14:04:35.060Z",
   "states": [
     {
       "name": "Texas",
@@ -13,7 +13,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "100K+",
-          "started": "14h ago",
+          "started": "16h ago",
           "trendBreakdown": "brown",
           "percentageIncrease": "1000%"
         },
@@ -21,35 +21,27 @@
           "name": "bondi beach",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "2K+",
-          "started": "2h ago",
-          "trendBreakdown": "shootingaustralia",
+          "searchVolume": "5K+",
+          "started": "4h ago",
+          "trendBreakdown": "australia",
           "percentageIncrease": "1000%"
         },
         {
-          "name": "army vs navy",
+          "name": "army navy",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "10K+",
+          "searchVolume": "2K+",
           "started": "22h ago",
           "trendBreakdown": "navy",
-          "percentageIncrease": "1000%"
+          "percentageIncrease": "900%"
         },
         {
-          "name": "are",
-          "relevanceScore": 100,
+          "name": "foxnews",
+          "relevanceScore": 85,
           "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "23h ago",
-          "percentageIncrease": "500%"
-        },
-        {
-          "name": "depot",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "2K+",
-          "started": "23h ago",
-          "percentageIncrease": "300%"
+          "searchVolume": "100+",
+          "started": "40 minutes ago",
+          "percentageIncrease": "75%"
         }
       ]
     }

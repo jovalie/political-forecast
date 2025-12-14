@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-12-14T12:04:34.481Z",
+  "timestamp": "2025-12-14T14:04:35.060Z",
   "states": [
     {
       "name": "Florida",
@@ -13,7 +13,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "100K+",
-          "started": "14h ago",
+          "started": "16h ago",
           "trendBreakdown": "brown",
           "percentageIncrease": "1000%"
         },
@@ -21,34 +21,35 @@
           "name": "bondi beach",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "2K+",
-          "started": "2h ago",
-          "trendBreakdown": "shootingaustralia",
+          "searchVolume": "10K+",
+          "started": "4h ago",
+          "trendBreakdown": "australia",
           "percentageIncrease": "1000%"
         },
         {
-          "name": "conduent",
-          "relevanceScore": 100,
+          "name": "navy army",
+          "relevanceScore": 95,
           "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "23h ago",
-          "percentageIncrease": "700%"
+          "searchVolume": "500+",
+          "started": "15h ago",
+          "trendBreakdown": "army",
+          "percentageIncrease": "300%"
         },
         {
           "name": "racing",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "9h ago",
+          "started": "11h ago",
           "percentageIncrease": "200%"
         },
         {
-          "name": "sycamore brewing",
-          "relevanceScore": 95,
+          "name": "newsmax",
+          "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "23h ago",
-          "percentageIncrease": "200%"
+          "started": "4h ago",
+          "percentageIncrease": "100%"
         }
       ]
     }
