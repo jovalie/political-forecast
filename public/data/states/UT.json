@@ -1,19 +1,28 @@
 {
-  "timestamp": "2025-12-13T22:04:31.529Z",
+  "timestamp": "2025-12-14T00:05:05.613Z",
   "states": [
     {
       "name": "Utah",
       "code": "UT",
-      "topTopic": "ksl news",
+      "topTopic": "brown university",
       "category": "Law and Government",
-      "trendingScore": 85,
+      "trendingScore": 100,
       "topics": [
+        {
+          "name": "brown university",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "1K+",
+          "started": "1h ago",
+          "trendBreakdown": "brown",
+          "percentageIncrease": "1000%"
+        },
         {
           "name": "ksl news",
           "relevanceScore": 85,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "8h ago",
+          "started": "10h ago",
           "percentageIncrease": "50%"
         }
       ]

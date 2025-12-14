@@ -1,20 +1,21 @@
 {
-  "timestamp": "2025-12-13T22:04:31.529Z",
+  "timestamp": "2025-12-14T00:05:05.613Z",
   "states": [
     {
       "name": "Iowa",
       "code": "IA",
-      "topTopic": "stewartville shooting today",
+      "topTopic": "brown university",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
         {
-          "name": "stewartville shooting today",
+          "name": "brown university",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "22h ago",
-          "percentageIncrease": "600%"
+          "searchVolume": "2K+",
+          "started": "1h ago",
+          "trendBreakdown": "brown",
+          "percentageIncrease": "1000%"
         }
       ]
     }

@@ -1,19 +1,27 @@
 {
-  "timestamp": "2025-12-13T22:04:31.529Z",
+  "timestamp": "2025-12-14T00:05:05.613Z",
   "states": [
     {
       "name": "Nebraska",
       "code": "NE",
-      "topTopic": "scott frost",
+      "topTopic": "brown university",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
+        {
+          "name": "brown university",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "1K+",
+          "started": "1h ago",
+          "percentageIncrease": "1000%"
+        },
         {
           "name": "scott frost",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "17h ago",
+          "started": "19h ago",
           "percentageIncrease": "800%"
         }
       ]

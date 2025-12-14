@@ -1,27 +1,28 @@
 {
-  "timestamp": "2025-12-13T22:04:31.529Z",
+  "timestamp": "2025-12-14T00:05:05.613Z",
   "states": [
     {
       "name": "Texas",
       "code": "TX",
-      "topTopic": "brown university",
+      "topTopic": "her",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
         {
-          "name": "brown university",
+          "name": "her",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "30 minutes ago",
-          "percentageIncrease": "1000%"
+          "started": "11h ago",
+          "trendBreakdown": "karoline",
+          "percentageIncrease": "500%"
         },
         {
           "name": "are",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "9h ago",
+          "started": "11h ago",
           "percentageIncrease": "500%"
         },
         {
@@ -29,7 +30,7 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "9h ago",
+          "started": "11h ago",
           "percentageIncrease": "300%"
         },
         {
@@ -37,7 +38,7 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "20h ago",
+          "started": "22h ago",
           "trendBreakdown": "celina",
           "percentageIncrease": "200%"
         },
@@ -46,7 +47,7 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "20h ago",
+          "started": "22h ago",
           "percentageIncrease": "300%"
         },
         {
@@ -54,40 +55,24 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "20h ago",
-          "percentageIncrease": "200%"
-        },
-        {
-          "name": "derrick groves",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "500+",
           "started": "22h ago",
           "percentageIncrease": "200%"
-        },
-        {
-          "name": "el mayo",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "22h ago",
-          "percentageIncrease": "300%"
         },
         {
           "name": "schedule",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "20h ago",
+          "started": "22h ago",
           "percentageIncrease": "300%"
         },
         {
-          "name": "karoline leavitt",
-          "relevanceScore": 95,
+          "name": "act",
+          "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "21h ago",
-          "percentageIncrease": "200%"
+          "started": "10h ago",
+          "percentageIncrease": "100%"
         }
       ]
     }

@@ -1,43 +1,44 @@
 {
-  "timestamp": "2025-12-13T22:04:31.529Z",
+  "timestamp": "2025-12-14T00:05:05.613Z",
   "states": [
     {
       "name": "Florida",
       "code": "FL",
-      "topTopic": "brown university",
+      "topTopic": "depot",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
         {
-          "name": "brown university",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "30 minutes ago",
-          "percentageIncrease": "1000%"
-        },
-        {
           "name": "depot",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "11h ago",
-          "percentageIncrease": "800%"
+          "searchVolume": "2K+",
+          "started": "13h ago",
+          "percentageIncrease": "700%"
         },
         {
           "name": "conduent",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "9h ago",
+          "started": "11h ago",
           "percentageIncrease": "700%"
+        },
+        {
+          "name": "her",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "1K+",
+          "started": "13h ago",
+          "trendBreakdown": "karoline",
+          "percentageIncrease": "900%"
         },
         {
           "name": "kerri aherne",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "19h ago",
+          "started": "21h ago",
           "percentageIncrease": "300%"
         },
         {
@@ -45,7 +46,7 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "20h ago",
+          "started": "22h ago",
           "percentageIncrease": "400%"
         },
         {
@@ -53,16 +54,8 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "9h ago",
+          "started": "11h ago",
           "percentageIncrease": "200%"
-        },
-        {
-          "name": "karoline leavitt",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "21h ago",
-          "percentageIncrease": "400%"
         }
       ]
     }

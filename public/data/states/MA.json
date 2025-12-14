@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-12-13T22:04:31.529Z",
+  "timestamp": "2025-12-14T00:05:05.613Z",
   "states": [
     {
       "name": "Massachusetts",
@@ -12,8 +12,8 @@
           "name": "brown university",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "2K+",
-          "started": "40 minutes ago",
+          "searchVolume": "50K+",
+          "started": "2h ago",
           "trendBreakdown": "brown",
           "percentageIncrease": "1000%"
         },
@@ -22,16 +22,16 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "10h ago",
+          "started": "12h ago",
           "percentageIncrease": "1000%"
         },
         {
-          "name": "kerri aherne",
+          "name": "cnn",
           "relevanceScore": 95,
           "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "23h ago",
-          "percentageIncrease": "300%"
+          "searchVolume": "1K+",
+          "started": "1h ago",
+          "percentageIncrease": "200%"
         }
       ]
     }

@@ -1,36 +1,29 @@
 {
-  "timestamp": "2025-12-13T22:04:31.529Z",
+  "timestamp": "2025-12-14T00:05:05.613Z",
   "states": [
     {
       "name": "New Jersey",
       "code": "NJ",
-      "topTopic": "brown university",
+      "topTopic": "depot",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
-        {
-          "name": "brown university",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "30 minutes ago",
-          "percentageIncrease": "1000%"
-        },
         {
           "name": "depot",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "10h ago",
+          "started": "12h ago",
           "percentageIncrease": "1000%"
         },
         {
-          "name": "karoline leavitt",
-          "relevanceScore": 95,
+          "name": "her",
+          "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "21h ago",
-          "percentageIncrease": "300%"
+          "searchVolume": "500+",
+          "started": "11h ago",
+          "trendBreakdown": "karoline",
+          "percentageIncrease": "800%"
         }
       ]
     }

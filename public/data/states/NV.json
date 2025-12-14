@@ -1,20 +1,21 @@
 {
-  "timestamp": "2025-12-13T22:04:31.529Z",
+  "timestamp": "2025-12-14T00:05:05.613Z",
   "states": [
     {
       "name": "Nevada",
       "code": "NV",
-      "topTopic": "las vegas news",
+      "topTopic": "brown university",
       "category": "Law and Government",
-      "trendingScore": 85,
+      "trendingScore": 100,
       "topics": [
         {
-          "name": "las vegas news",
-          "relevanceScore": 85,
+          "name": "brown university",
+          "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "23h ago",
-          "percentageIncrease": "75%"
+          "searchVolume": "1K+",
+          "started": "1h ago",
+          "trendBreakdown": "brown",
+          "percentageIncrease": "1000%"
         }
       ]
     }
