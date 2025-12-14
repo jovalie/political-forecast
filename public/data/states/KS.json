@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-12-14T18:04:28.520Z",
+  "timestamp": "2025-12-14T20:04:52.944Z",
   "states": [
     {
       "name": "Kansas",
@@ -12,19 +12,18 @@
           "name": "brown university",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "5K+",
-          "started": "19h ago",
+          "searchVolume": "10K+",
+          "started": "21h ago",
           "trendBreakdown": "brown",
           "percentageIncrease": "1000%"
         },
         {
-          "name": "army vs navy",
+          "name": "army navy",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "1K+",
+          "searchVolume": "100+",
           "started": "22h ago",
-          "trendBreakdown": "army",
-          "percentageIncrease": "1000%"
+          "percentageIncrease": "600%"
         }
       ]
     }
