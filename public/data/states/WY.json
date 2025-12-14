@@ -1,14 +1,22 @@
 {
-  "timestamp": "2025-11-17T04:47:44.555Z",
+  "timestamp": "2025-12-14T04:16:44.892Z",
   "states": [
     {
       "name": "Wyoming",
       "code": "WY",
+      "topTopic": "brown university",
       "category": "Law and Government",
-      "topics": [],
-      "topTopic": "",
-      "trendingScore": 0,
-      "timestamp": "2025-11-17T04:47:44.555Z"
+      "trendingScore": 100,
+      "topics": [
+        {
+          "name": "brown university",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "4h ago",
+          "percentageIncrease": "1000%"
+        }
+      ]
     }
   ]
 }

@@ -1,38 +1,20 @@
 {
-  "timestamp": "2025-12-14T02:40:37.031Z",
+  "timestamp": "2025-12-14T04:16:44.892Z",
   "states": [
     {
       "name": "Washington",
       "code": "WA",
-      "topTopic": "brown university",
+      "topTopic": "depot",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
-        {
-          "name": "brown university",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "10K+",
-          "started": "5h ago",
-          "trendBreakdown": "brown",
-          "percentageIncrease": "1000%"
-        },
         {
           "name": "depot",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "12h ago",
+          "started": "13h ago",
           "percentageIncrease": "800%"
-        },
-        {
-          "name": "amber alert washington",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "2K+",
-          "started": "22h ago",
-          "trendBreakdown": "amber",
-          "percentageIncrease": "1000%"
         }
       ]
     }

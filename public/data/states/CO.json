@@ -1,28 +1,19 @@
 {
-  "timestamp": "2025-12-14T02:40:37.031Z",
+  "timestamp": "2025-12-14T04:16:44.892Z",
   "states": [
     {
       "name": "Colorado",
       "code": "CO",
-      "topTopic": "brown university",
+      "topTopic": "colorado springs fire",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
-        {
-          "name": "brown university",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "10K+",
-          "started": "4h ago",
-          "trendBreakdown": "brown",
-          "percentageIncrease": "1000%"
-        },
         {
           "name": "colorado springs fire",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "2K+",
-          "started": "4h ago",
+          "started": "6h ago",
           "trendBreakdown": "fire",
           "percentageIncrease": "1000%"
         }
