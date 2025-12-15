@@ -1,20 +1,37 @@
 {
-  "timestamp": "2025-12-15T08:04:57.883Z",
+  "timestamp": "2025-12-15T10:05:21.665Z",
   "states": [
     {
       "name": "Missouri",
       "code": "MO",
-      "topTopic": "benjamin erickson",
+      "topTopic": "bondi beach",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
+        {
+          "name": "bondi beach",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "10K+",
+          "started": "22h ago",
+          "trendBreakdown": "australia",
+          "percentageIncrease": "1000%"
+        },
         {
           "name": "benjamin erickson",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "2K+",
-          "started": "9h ago",
+          "started": "11h ago",
           "percentageIncrease": "1000%"
+        },
+        {
+          "name": "chief",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "12h ago",
+          "percentageIncrease": "500%"
         }
       ]
     }

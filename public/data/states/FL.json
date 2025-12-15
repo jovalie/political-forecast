@@ -1,28 +1,19 @@
 {
-  "timestamp": "2025-12-15T08:04:57.883Z",
+  "timestamp": "2025-12-15T10:05:21.665Z",
   "states": [
     {
       "name": "Florida",
       "code": "FL",
-      "topTopic": "bondi beach",
+      "topTopic": "benjamin erickson",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
-        {
-          "name": "bondi beach",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "50K+",
-          "started": "22h ago",
-          "trendBreakdown": "bondi",
-          "percentageIncrease": "1000%"
-        },
         {
           "name": "benjamin erickson",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "10K+",
-          "started": "10h ago",
+          "started": "12h ago",
           "trendBreakdown": "brown",
           "percentageIncrease": "1000%"
         },
@@ -31,16 +22,16 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "3h ago",
+          "started": "5h ago",
           "trendBreakdown": "jetblue",
-          "percentageIncrease": "600%"
+          "percentageIncrease": "500%"
         },
         {
           "name": "personal injury lawyers",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "17h ago",
+          "started": "19h ago",
           "percentageIncrease": "900%"
         },
         {
@@ -48,16 +39,16 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "17h ago",
+          "started": "19h ago",
           "percentageIncrease": "200%"
         },
         {
-          "name": "newsmax",
-          "relevanceScore": 90,
+          "name": "frontline",
+          "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "22h ago",
-          "percentageIncrease": "100%"
+          "started": "10h ago",
+          "percentageIncrease": "300%"
         }
       ]
     }
