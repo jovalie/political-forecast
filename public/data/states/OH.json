@@ -1,36 +1,52 @@
 {
-  "timestamp": "2025-12-15T16:05:34.956Z",
+  "timestamp": "2025-12-15T18:04:52.169Z",
   "states": [
     {
       "name": "Ohio",
       "code": "OH",
-      "topTopic": "conduent",
+      "topTopic": "brian walshe",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
+        {
+          "name": "brian walshe",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "1h ago",
+          "percentageIncrease": "1000%"
+        },
+        {
+          "name": "benjamin erickson",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "5K+",
+          "started": "20h ago",
+          "trendBreakdown": "brown",
+          "percentageIncrease": "1000%"
+        },
+        {
+          "name": "schools closed tomorrow",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "17h ago",
+          "percentageIncrease": "600%"
+        },
         {
           "name": "conduent",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "2h ago",
+          "started": "4h ago",
           "percentageIncrease": "1000%"
-        },
-        {
-          "name": "brown university shooting suspect",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "5K+",
-          "started": "3h ago",
-          "trendBreakdown": "benjamin",
-          "percentageIncrease": "300%"
         },
         {
           "name": "fox",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "5h ago",
+          "started": "7h ago",
           "percentageIncrease": "200%"
         }
       ]

@@ -1,15 +1,23 @@
 {
-  "timestamp": "2025-12-15T16:05:34.956Z",
+  "timestamp": "2025-12-15T18:04:52.169Z",
   "states": [
     {
       "name": "Texas",
       "code": "TX",
-      "topTopic": "ella cook",
+      "topTopic": "brian walshe",
       "category": "Law and Government",
-      "trendingScore": 95,
+      "trendingScore": 100,
       "topics": [
         {
-          "name": "ella cook",
+          "name": "brian walshe",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "1K+",
+          "started": "1h ago",
+          "percentageIncrease": "900%"
+        },
+        {
+          "name": "brown university shooting suspect",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "10K+",
@@ -22,7 +30,7 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "2K+",
-          "started": "11h ago",
+          "started": "13h ago",
           "trendBreakdown": "jetblue",
           "percentageIncrease": "300%"
         },
@@ -31,7 +39,7 @@
           "relevanceScore": 85,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "3h ago",
+          "started": "5h ago",
           "percentageIncrease": "50%"
         }
       ]

@@ -1,21 +1,21 @@
 {
-  "timestamp": "2025-12-15T16:05:34.956Z",
+  "timestamp": "2025-12-15T18:04:52.169Z",
   "states": [
     {
       "name": "Tennessee",
       "code": "TN",
-      "topTopic": "brown university shooting suspect",
+      "topTopic": "benjamin erickson",
       "category": "Law and Government",
-      "trendingScore": 95,
+      "trendingScore": 100,
       "topics": [
         {
-          "name": "brown university shooting suspect",
-          "relevanceScore": 95,
+          "name": "benjamin erickson",
+          "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "2K+",
-          "started": "2h ago",
-          "trendBreakdown": "benjamin",
-          "percentageIncrease": "200%"
+          "started": "20h ago",
+          "trendBreakdown": "brown",
+          "percentageIncrease": "1000%"
         }
       ]
     }

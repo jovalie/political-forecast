@@ -1,20 +1,19 @@
 {
-  "timestamp": "2025-12-15T16:05:34.956Z",
+  "timestamp": "2025-12-15T18:04:52.169Z",
   "states": [
     {
       "name": "Florida",
       "code": "FL",
-      "topTopic": "benjamin erickson",
+      "topTopic": "brian walshe",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
         {
-          "name": "benjamin erickson",
+          "name": "brian walshe",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "10K+",
-          "started": "18h ago",
-          "trendBreakdown": "ella",
+          "searchVolume": "1K+",
+          "started": "1h ago",
           "percentageIncrease": "1000%"
         },
         {
@@ -22,7 +21,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "11h ago",
+          "started": "13h ago",
           "trendBreakdown": "jetblue",
           "percentageIncrease": "500%"
         },
@@ -31,16 +30,33 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "3h ago",
+          "started": "5h ago",
           "percentageIncrease": "1000%"
+        },
+        {
+          "name": "brown university shooting suspect",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "10K+",
+          "started": "13h ago",
+          "trendBreakdown": "ella",
+          "percentageIncrease": "400%"
         },
         {
           "name": "frontline",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "16h ago",
+          "started": "18h ago",
           "percentageIncrease": "200%"
+        },
+        {
+          "name": "james fishback",
+          "relevanceScore": 90,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "1h ago",
+          "percentageIncrease": "100%"
         }
       ]
     }

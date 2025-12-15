@@ -1,38 +1,47 @@
 {
-  "timestamp": "2025-12-15T16:05:34.956Z",
+  "timestamp": "2025-12-15T18:04:52.169Z",
   "states": [
     {
       "name": "North Carolina",
       "code": "NC",
-      "topTopic": "sycamore brewery charlotte",
+      "topTopic": "brian walshe",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
         {
-          "name": "sycamore brewery charlotte",
+          "name": "brian walshe",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "2h ago",
-          "trendBreakdown": "sycamore",
-          "percentageIncrease": "800%"
+          "started": "1h ago",
+          "percentageIncrease": "1000%"
         },
         {
-          "name": "ella cook",
+          "name": "sycamore brewing charlotte",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "1K+",
+          "started": "30 minutes ago",
+          "trendBreakdown": "sycamore",
+          "percentageIncrease": "1000%"
+        },
+        {
+          "name": "brown university shooting suspect",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "5K+",
-          "started": "11h ago",
-          "trendBreakdown": "brown",
-          "percentageIncrease": "400%"
+          "started": "5h ago",
+          "trendBreakdown": "benjamin",
+          "percentageIncrease": "200%"
         },
         {
-          "name": "cnn",
-          "relevanceScore": 85,
+          "name": "wsoctv",
+          "relevanceScore": 90,
           "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "11h ago",
-          "percentageIncrease": "75%"
+          "searchVolume": "100+",
+          "started": "8h ago",
+          "trendBreakdown": "charlotte",
+          "percentageIncrease": "100%"
         }
       ]
     }
