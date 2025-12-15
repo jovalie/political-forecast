@@ -1,21 +1,21 @@
 {
-  "timestamp": "2025-12-15T14:06:16.643Z",
+  "timestamp": "2025-12-15T16:05:34.956Z",
   "states": [
     {
       "name": "Arizona",
       "code": "AZ",
-      "topTopic": "cnn",
+      "topTopic": "brown university shooting suspect",
       "category": "Law and Government",
-      "trendingScore": 85,
+      "trendingScore": 95,
       "topics": [
         {
-          "name": "cnn",
-          "relevanceScore": 85,
+          "name": "brown university shooting suspect",
+          "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "2K+",
-          "started": "20 minutes ago",
+          "started": "2h ago",
           "trendBreakdown": "benjamin",
-          "percentageIncrease": "50%"
+          "percentageIncrease": "300%"
         }
       ]
     }

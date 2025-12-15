@@ -1,29 +1,29 @@
 {
-  "timestamp": "2025-12-15T14:06:16.643Z",
+  "timestamp": "2025-12-15T16:05:34.956Z",
   "states": [
     {
       "name": "Minnesota",
       "code": "MN",
-      "topTopic": "stewartville shooting update",
+      "topTopic": "benjamin erickson",
       "category": "Law and Government",
-      "trendingScore": 95,
+      "trendingScore": 100,
       "topics": [
+        {
+          "name": "benjamin erickson",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "2K+",
+          "started": "18h ago",
+          "trendBreakdown": "brown",
+          "percentageIncrease": "1000%"
+        },
         {
           "name": "stewartville shooting update",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "14h ago",
+          "started": "16h ago",
           "percentageIncrease": "200%"
-        },
-        {
-          "name": "brown university shooting suspect",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "2K+",
-          "started": "1h ago",
-          "trendBreakdown": "benjamin",
-          "percentageIncrease": "400%"
         }
       ]
     }

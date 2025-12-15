@@ -1,21 +1,20 @@
 {
-  "timestamp": "2025-12-15T14:06:16.643Z",
+  "timestamp": "2025-12-15T16:05:34.956Z",
   "states": [
     {
       "name": "Idaho",
       "code": "ID",
-      "topTopic": "brown university active shooter",
+      "topTopic": "benjamin erickson",
       "category": "Law and Government",
-      "trendingScore": 100,
+      "trendingScore": 95,
       "topics": [
         {
-          "name": "brown university active shooter",
-          "relevanceScore": 100,
+          "name": "benjamin erickson",
+          "relevanceScore": 95,
           "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "24h ago",
-          "trendBreakdown": "brown",
-          "percentageIncrease": "700%"
+          "searchVolume": "100+",
+          "started": "16h ago",
+          "percentageIncrease": "400%"
         }
       ]
     }

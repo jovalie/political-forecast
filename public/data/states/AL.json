@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-12-15T14:06:16.643Z",
+  "timestamp": "2025-12-15T16:05:34.956Z",
   "states": [
     {
       "name": "Alabama",
@@ -13,9 +13,17 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "2K+",
-          "started": "13h ago",
-          "trendBreakdown": "brown",
+          "started": "15h ago",
+          "trendBreakdown": "benjamin",
           "percentageIncrease": "800%"
+        },
+        {
+          "name": "conduent",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "2h ago",
+          "percentageIncrease": "1000%"
         }
       ]
     }

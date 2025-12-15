@@ -1,37 +1,21 @@
 {
-  "timestamp": "2025-12-15T14:06:16.643Z",
+  "timestamp": "2025-12-15T16:05:34.956Z",
   "states": [
     {
       "name": "Massachusetts",
       "code": "MA",
-      "topTopic": "sandy hook anniversary",
+      "topTopic": "jetblue plane venezuela",
       "category": "Law and Government",
-      "trendingScore": 100,
+      "trendingScore": 95,
       "topics": [
-        {
-          "name": "sandy hook anniversary",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "23h ago",
-          "percentageIncrease": "500%"
-        },
         {
           "name": "jetblue plane venezuela",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "5h ago",
+          "started": "7h ago",
           "trendBreakdown": "jetblue",
-          "percentageIncrease": "300%"
-        },
-        {
-          "name": "nyc shooting",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "12h ago",
-          "percentageIncrease": "300%"
+          "percentageIncrease": "200%"
         }
       ]
     }
