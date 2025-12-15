@@ -1,45 +1,35 @@
 {
-  "timestamp": "2025-12-15T02:39:18.866Z",
+  "timestamp": "2025-12-15T04:18:39.311Z",
   "states": [
     {
       "name": "California",
       "code": "CA",
-      "topTopic": "bondi beach",
+      "topTopic": "jimmy lai",
       "category": "Law and Government",
-      "trendingScore": 100,
+      "trendingScore": 95,
       "topics": [
         {
-          "name": "bondi beach",
-          "relevanceScore": 100,
+          "name": "jimmy lai",
+          "relevanceScore": 95,
           "category": "Law and Government",
-          "searchVolume": "100K+",
-          "started": "18h ago",
-          "trendBreakdown": "australia",
-          "percentageIncrease": "1000%"
+          "searchVolume": "100+",
+          "started": "30 minutes ago",
+          "percentageIncrease": "200%"
         },
         {
-          "name": "rob reiner",
-          "relevanceScore": 100,
+          "name": "nbc",
+          "relevanceScore": 90,
           "category": "Law and Government",
-          "searchVolume": "10K+",
-          "started": "1h ago",
-          "percentageIncrease": "1000%"
-        },
-        {
-          "name": "benjamin erickson",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "10K+",
-          "started": "5h ago",
-          "trendBreakdown": "brown",
-          "percentageIncrease": "1000%"
+          "searchVolume": "500+",
+          "started": "3h ago",
+          "percentageIncrease": "100%"
         },
         {
           "name": "foxnews",
           "relevanceScore": 85,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "11h ago",
+          "started": "12h ago",
           "percentageIncrease": "75%"
         }
       ]

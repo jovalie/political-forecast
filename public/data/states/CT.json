@@ -1,38 +1,38 @@
 {
-  "timestamp": "2025-12-15T02:39:18.866Z",
+  "timestamp": "2025-12-15T04:18:39.311Z",
   "states": [
     {
       "name": "Connecticut",
       "code": "CT",
-      "topTopic": "bondi beach",
+      "topTopic": "benjamin erickson",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
+        {
+          "name": "benjamin erickson",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "5K+",
+          "started": "6h ago",
+          "trendBreakdown": "ella",
+          "percentageIncrease": "1000%"
+        },
         {
           "name": "bondi beach",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "10K+",
-          "started": "15h ago",
+          "started": "17h ago",
           "trendBreakdown": "australia",
           "percentageIncrease": "1000%"
         },
         {
-          "name": "benjamin erickson",
-          "relevanceScore": 100,
+          "name": "brett smiley",
+          "relevanceScore": 95,
           "category": "Law and Government",
-          "searchVolume": "2K+",
-          "started": "5h ago",
-          "trendBreakdown": "brett",
-          "percentageIncrease": "1000%"
-        },
-        {
-          "name": "sandy hook anniversary",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "23h ago",
-          "percentageIncrease": "500%"
+          "searchVolume": "100+",
+          "started": "15h ago",
+          "percentageIncrease": "400%"
         }
       ]
     }
