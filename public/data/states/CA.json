@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-12-15T06:04:44.221Z",
+  "timestamp": "2025-12-15T08:04:57.883Z",
   "states": [
     {
       "name": "California",
@@ -12,8 +12,8 @@
           "name": "rob reiner",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "500K+",
-          "started": "4h ago",
+          "searchVolume": "1M+",
+          "started": "6h ago",
           "trendBreakdown": "nick",
           "percentageIncrease": "1000%"
         },
@@ -22,15 +22,7 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "1h ago",
-          "percentageIncrease": "200%"
-        },
-        {
-          "name": "jimmy lai",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "2h ago",
+          "started": "3h ago",
           "percentageIncrease": "200%"
         },
         {
@@ -38,7 +30,15 @@
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "14h ago",
+          "started": "16h ago",
+          "percentageIncrease": "100%"
+        },
+        {
+          "name": "nbc news",
+          "relevanceScore": 90,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "17h ago",
           "percentageIncrease": "100%"
         },
         {
@@ -46,7 +46,7 @@
           "relevanceScore": 85,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "14h ago",
+          "started": "16h ago",
           "percentageIncrease": "75%"
         }
       ]

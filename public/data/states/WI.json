@@ -1,29 +1,29 @@
 {
-  "timestamp": "2025-12-15T06:04:44.221Z",
+  "timestamp": "2025-12-15T08:04:57.883Z",
   "states": [
     {
       "name": "Wisconsin",
       "code": "WI",
-      "topTopic": "benjamin erickson",
+      "topTopic": "bondi beach",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
-        {
-          "name": "benjamin erickson",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "10K+",
-          "started": "8h ago",
-          "trendBreakdown": "brown",
-          "percentageIncrease": "1000%"
-        },
         {
           "name": "bondi beach",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "10K+",
-          "started": "18h ago",
-          "trendBreakdown": "australia",
+          "started": "20h ago",
+          "trendBreakdown": "bondi",
+          "percentageIncrease": "1000%"
+        },
+        {
+          "name": "benjamin erickson",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "10K+",
+          "started": "10h ago",
+          "trendBreakdown": "brown",
           "percentageIncrease": "1000%"
         }
       ]

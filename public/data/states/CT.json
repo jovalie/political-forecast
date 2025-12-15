@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-12-15T06:04:44.221Z",
+  "timestamp": "2025-12-15T08:04:57.883Z",
   "states": [
     {
       "name": "Connecticut",
@@ -13,17 +13,18 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "5K+",
-          "started": "8h ago",
+          "started": "10h ago",
           "trendBreakdown": "ella",
           "percentageIncrease": "1000%"
         },
         {
-          "name": "cnn",
-          "relevanceScore": 90,
+          "name": "bondi beach",
+          "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "1h ago",
-          "percentageIncrease": "100%"
+          "searchVolume": "10K+",
+          "started": "21h ago",
+          "trendBreakdown": "australia",
+          "percentageIncrease": "1000%"
         }
       ]
     }

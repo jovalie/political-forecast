@@ -1,28 +1,19 @@
 {
-  "timestamp": "2025-12-15T06:04:44.221Z",
+  "timestamp": "2025-12-15T08:04:57.883Z",
   "states": [
     {
       "name": "Tennessee",
       "code": "TN",
-      "topTopic": "bondi beach",
+      "topTopic": "benjamin erickson",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
-        {
-          "name": "bondi beach",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "10K+",
-          "started": "18h ago",
-          "trendBreakdown": "bondi",
-          "percentageIncrease": "1000%"
-        },
         {
           "name": "benjamin erickson",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "2K+",
-          "started": "8h ago",
+          "started": "10h ago",
           "trendBreakdown": "brown",
           "percentageIncrease": "1000%"
         }
