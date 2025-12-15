@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-12-15T18:04:52.169Z",
+  "timestamp": "2025-12-15T20:04:53.638Z",
   "states": [
     {
       "name": "Texas",
@@ -12,8 +12,8 @@
           "name": "brian walshe",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "1h ago",
+          "searchVolume": "2K+",
+          "started": "3h ago",
           "percentageIncrease": "900%"
         },
         {
@@ -21,8 +21,8 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "10K+",
-          "started": "13h ago",
-          "trendBreakdown": "brown",
+          "started": "15h ago",
+          "trendBreakdown": "ella",
           "percentageIncrease": "300%"
         },
         {
@@ -30,16 +30,24 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "2K+",
-          "started": "13h ago",
+          "started": "15h ago",
           "trendBreakdown": "jetblue",
           "percentageIncrease": "300%"
+        },
+        {
+          "name": "marketplace insurance",
+          "relevanceScore": 90,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "5h ago",
+          "percentageIncrease": "100%"
         },
         {
           "name": "daily mail",
           "relevanceScore": 85,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "5h ago",
+          "started": "7h ago",
           "percentageIncrease": "50%"
         }
       ]

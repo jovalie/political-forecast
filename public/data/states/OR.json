@@ -1,28 +1,28 @@
 {
-  "timestamp": "2025-12-15T18:04:52.169Z",
+  "timestamp": "2025-12-15T20:04:53.638Z",
   "states": [
     {
       "name": "Oregon",
       "code": "OR",
-      "topTopic": "brian walshe",
+      "topTopic": "benjamin erickson",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
+        {
+          "name": "benjamin erickson",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "1K+",
+          "started": "21h ago",
+          "percentageIncrease": "1000%"
+        },
         {
           "name": "brian walshe",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "10 minutes ago",
+          "started": "2h ago",
           "percentageIncrease": "700%"
-        },
-        {
-          "name": "benjamin erickson",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "2K+",
-          "started": "19h ago",
-          "percentageIncrease": "1000%"
         }
       ]
     }

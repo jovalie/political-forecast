@@ -1,30 +1,46 @@
 {
-  "timestamp": "2025-12-15T18:04:52.169Z",
+  "timestamp": "2025-12-15T20:04:53.638Z",
   "states": [
     {
       "name": "Virginia",
       "code": "VA",
-      "topTopic": "ella cook",
+      "topTopic": "brian walshe",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
         {
-          "name": "ella cook",
+          "name": "brian walshe",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "10K+",
-          "started": "14h ago",
-          "trendBreakdown": "brown",
-          "percentageIncrease": "500%"
+          "searchVolume": "500+",
+          "started": "3h ago",
+          "percentageIncrease": "1000%"
         },
         {
           "name": "jetblue plane venezuela",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "7h ago",
+          "started": "9h ago",
           "trendBreakdown": "jetblue",
           "percentageIncrease": "500%"
+        },
+        {
+          "name": "brown university shooting suspect",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "10K+",
+          "started": "8h ago",
+          "trendBreakdown": "ella",
+          "percentageIncrease": "300%"
+        },
+        {
+          "name": "cnn news",
+          "relevanceScore": 90,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "8h ago",
+          "percentageIncrease": "100%"
         }
       ]
     }

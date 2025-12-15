@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-12-15T18:04:52.169Z",
+  "timestamp": "2025-12-15T20:04:53.638Z",
   "states": [
     {
       "name": "Florida",
@@ -12,8 +12,8 @@
           "name": "brian walshe",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "1h ago",
+          "searchVolume": "2K+",
+          "started": "3h ago",
           "percentageIncrease": "1000%"
         },
         {
@@ -21,7 +21,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "13h ago",
+          "started": "15h ago",
           "trendBreakdown": "jetblue",
           "percentageIncrease": "500%"
         },
@@ -30,7 +30,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "5h ago",
+          "started": "7h ago",
           "percentageIncrease": "1000%"
         },
         {
@@ -38,7 +38,7 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "10K+",
-          "started": "13h ago",
+          "started": "15h ago",
           "trendBreakdown": "ella",
           "percentageIncrease": "400%"
         },
@@ -47,15 +47,23 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "18h ago",
+          "started": "20h ago",
           "percentageIncrease": "200%"
         },
         {
-          "name": "james fishback",
+          "name": "marketplace insurance",
+          "relevanceScore": 90,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "20 minutes ago",
+          "percentageIncrease": "100%"
+        },
+        {
+          "name": "cnn news",
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "1h ago",
+          "started": "15h ago",
           "percentageIncrease": "100%"
         }
       ]

@@ -1,21 +1,29 @@
 {
-  "timestamp": "2025-12-15T18:04:52.169Z",
+  "timestamp": "2025-12-15T20:04:53.638Z",
   "states": [
     {
       "name": "Illinois",
       "code": "IL",
-      "topTopic": "ella cook",
+      "topTopic": "brian walshe",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
         {
-          "name": "ella cook",
+          "name": "brian walshe",
           "relevanceScore": 100,
           "category": "Law and Government",
+          "searchVolume": "1K+",
+          "started": "3h ago",
+          "percentageIncrease": "1000%"
+        },
+        {
+          "name": "brown university shooting suspect",
+          "relevanceScore": 95,
+          "category": "Law and Government",
           "searchVolume": "10K+",
-          "started": "14h ago",
-          "trendBreakdown": "brown",
-          "percentageIncrease": "500%"
+          "started": "15h ago",
+          "trendBreakdown": "benjamin",
+          "percentageIncrease": "400%"
         }
       ]
     }

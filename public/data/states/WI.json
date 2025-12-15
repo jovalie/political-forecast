@@ -1,27 +1,19 @@
 {
-  "timestamp": "2025-12-15T18:04:52.169Z",
+  "timestamp": "2025-12-15T20:04:53.638Z",
   "states": [
     {
       "name": "Wisconsin",
       "code": "WI",
-      "topTopic": "brian walshe",
+      "topTopic": "brown university shooting suspect",
       "category": "Law and Government",
-      "trendingScore": 100,
+      "trendingScore": 95,
       "topics": [
-        {
-          "name": "brian walshe",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "10 minutes ago",
-          "percentageIncrease": "800%"
-        },
         {
           "name": "brown university shooting suspect",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "10K+",
-          "started": "6h ago",
+          "started": "8h ago",
           "trendBreakdown": "benjamin",
           "percentageIncrease": "300%"
         }
