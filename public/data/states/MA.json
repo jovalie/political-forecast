@@ -1,20 +1,29 @@
 {
-  "timestamp": "2025-12-15T20:04:53.638Z",
+  "timestamp": "2025-12-15T22:05:07.307Z",
   "states": [
     {
       "name": "Massachusetts",
       "code": "MA",
-      "topTopic": "brian walshe",
+      "topTopic": "ella cook",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
+        {
+          "name": "ella cook",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "5K+",
+          "started": "20h ago",
+          "trendBreakdown": "ben",
+          "percentageIncrease": "1000%"
+        },
         {
           "name": "brian walshe",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "5K+",
-          "started": "3h ago",
-          "trendBreakdown": "brian",
+          "started": "5h ago",
+          "trendBreakdown": "ana",
           "percentageIncrease": "1000%"
         },
         {
@@ -22,7 +31,7 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "11h ago",
+          "started": "13h ago",
           "trendBreakdown": "jetblue",
           "percentageIncrease": "200%"
         }

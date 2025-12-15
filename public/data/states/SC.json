@@ -1,19 +1,28 @@
 {
-  "timestamp": "2025-12-15T20:04:53.638Z",
+  "timestamp": "2025-12-15T22:05:07.307Z",
   "states": [
     {
       "name": "South Carolina",
       "code": "SC",
-      "topTopic": "benjamin erickson",
+      "topTopic": "brian walshe",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
+        {
+          "name": "brian walshe",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "4h ago",
+          "percentageIncrease": "700%"
+        },
         {
           "name": "benjamin erickson",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "2K+",
-          "started": "22h ago",
+          "started": "24h ago",
+          "trendBreakdown": "ella",
           "percentageIncrease": "1000%"
         }
       ]

@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-12-15T20:04:53.638Z",
+  "timestamp": "2025-12-15T22:05:07.307Z",
   "states": [
     {
       "name": "New Jersey",
@@ -12,33 +12,25 @@
           "name": "ella cook",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "10K+",
-          "started": "17h ago",
+          "searchVolume": "2K+",
+          "started": "19h ago",
           "trendBreakdown": "brown",
-          "percentageIncrease": "500%"
+          "percentageIncrease": "600%"
         },
         {
           "name": "brian walshe",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "3h ago",
+          "searchVolume": "1K+",
+          "started": "5h ago",
           "percentageIncrease": "1000%"
-        },
-        {
-          "name": "jennifer davenport nj",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "1h ago",
-          "percentageIncrease": "500%"
         },
         {
           "name": "jetblue plane venezuela",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "14h ago",
+          "started": "16h ago",
           "trendBreakdown": "jetblue",
           "percentageIncrease": "300%"
         },
@@ -47,7 +39,7 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "9h ago",
+          "started": "11h ago",
           "percentageIncrease": "200%"
         },
         {
@@ -55,7 +47,7 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "21h ago",
+          "started": "23h ago",
           "percentageIncrease": "400%"
         },
         {
@@ -63,8 +55,16 @@
           "relevanceScore": 85,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "9h ago",
+          "started": "11h ago",
           "percentageIncrease": "75%"
+        },
+        {
+          "name": "fox news",
+          "relevanceScore": 85,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "11h ago",
+          "percentageIncrease": "50%"
         }
       ]
     }

@@ -1,38 +1,46 @@
 {
-  "timestamp": "2025-12-15T20:04:53.638Z",
+  "timestamp": "2025-12-15T22:05:07.307Z",
   "states": [
     {
       "name": "North Carolina",
       "code": "NC",
-      "topTopic": "sycamore brewing charlotte",
+      "topTopic": "brian walshe",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
-        {
-          "name": "sycamore brewing charlotte",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "2h ago",
-          "trendBreakdown": "sycamore",
-          "percentageIncrease": "1000%"
-        },
         {
           "name": "brian walshe",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "3h ago",
+          "started": "5h ago",
           "percentageIncrease": "1000%"
         },
         {
-          "name": "brown university shooting suspect",
-          "relevanceScore": 95,
+          "name": "ella cook",
+          "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "5K+",
-          "started": "7h ago",
-          "trendBreakdown": "benjamin",
-          "percentageIncrease": "300%"
+          "searchVolume": "2K+",
+          "started": "17h ago",
+          "trendBreakdown": "brown",
+          "percentageIncrease": "600%"
+        },
+        {
+          "name": "sycamore brewing charlotte",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "1K+",
+          "started": "4h ago",
+          "trendBreakdown": "sycamore",
+          "percentageIncrease": "1000%"
+        },
+        {
+          "name": "divorce lawyer",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "2h ago",
+          "percentageIncrease": "800%"
         }
       ]
     }
