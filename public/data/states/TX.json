@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-12-15T12:04:54.308Z",
+  "timestamp": "2025-12-15T14:06:16.643Z",
   "states": [
     {
       "name": "Texas",
@@ -13,7 +13,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "10K+",
-          "started": "14h ago",
+          "started": "16h ago",
           "trendBreakdown": "brown",
           "percentageIncrease": "1000%"
         },
@@ -22,33 +22,17 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "7h ago",
+          "started": "9h ago",
           "trendBreakdown": "jetblue",
           "percentageIncrease": "300%"
         },
         {
-          "name": "nbc news",
-          "relevanceScore": 90,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "21h ago",
-          "percentageIncrease": "100%"
-        },
-        {
-          "name": "afd",
+          "name": "daily mail",
           "relevanceScore": 85,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "3h ago",
+          "started": "1h ago",
           "percentageIncrease": "50%"
-        },
-        {
-          "name": "foxnews",
-          "relevanceScore": 85,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "22h ago",
-          "percentageIncrease": "75%"
         }
       ]
     }
