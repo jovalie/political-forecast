@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-12-15T04:18:39.311Z",
+  "timestamp": "2025-12-15T06:04:44.221Z",
   "states": [
     {
       "name": "Pennsylvania",
@@ -13,32 +13,49 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "10K+",
-          "started": "6h ago",
+          "started": "8h ago",
           "trendBreakdown": "ella",
           "percentageIncrease": "1000%"
+        },
+        {
+          "name": "jetblue plane venezuela",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "30 minutes ago",
+          "trendBreakdown": "jetblue",
+          "percentageIncrease": "700%"
         },
         {
           "name": "wtaj",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "3h ago",
+          "started": "5h ago",
           "percentageIncrease": "700%"
         },
         {
-          "name": "nbc",
+          "name": "nbc news",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "2h ago",
+          "started": "1h ago",
           "percentageIncrease": "200%"
+        },
+        {
+          "name": "cnn",
+          "relevanceScore": 90,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "1h ago",
+          "percentageIncrease": "100%"
         },
         {
           "name": "amtrak",
           "relevanceScore": 85,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "14h ago",
+          "started": "15h ago",
           "percentageIncrease": "75%"
         }
       ]

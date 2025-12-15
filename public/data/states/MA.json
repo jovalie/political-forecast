@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-12-15T04:18:39.311Z",
+  "timestamp": "2025-12-15T06:04:44.221Z",
   "states": [
     {
       "name": "Massachusetts",
@@ -13,8 +13,16 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "13h ago",
+          "started": "15h ago",
           "percentageIncrease": "500%"
+        },
+        {
+          "name": "nyc shooting",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "4h ago",
+          "percentageIncrease": "400%"
         }
       ]
     }

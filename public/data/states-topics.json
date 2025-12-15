@@ -1,27 +1,44 @@
 {
-  "timestamp": "2025-12-15T04:18:39.311Z",
+  "timestamp": "2025-12-15T06:04:44.221Z",
   "states": [
     {
       "name": "California",
       "code": "CA",
-      "topTopic": "jimmy lai",
+      "topTopic": "rob reiner",
       "category": "Law and Government",
-      "trendingScore": 95,
+      "trendingScore": 100,
       "topics": [
+        {
+          "name": "rob reiner",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "500K+",
+          "started": "4h ago",
+          "trendBreakdown": "nick",
+          "percentageIncrease": "1000%"
+        },
+        {
+          "name": "abc",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "1h ago",
+          "percentageIncrease": "200%"
+        },
         {
           "name": "jimmy lai",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "30 minutes ago",
+          "started": "2h ago",
           "percentageIncrease": "200%"
         },
         {
-          "name": "nbc",
+          "name": "sandy hook",
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "3h ago",
+          "started": "14h ago",
           "percentageIncrease": "100%"
         },
         {
@@ -29,7 +46,7 @@
           "relevanceScore": 85,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "12h ago",
+          "started": "14h ago",
           "percentageIncrease": "75%"
         }
       ]
@@ -46,8 +63,8 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "2K+",
-          "started": "6h ago",
-          "trendBreakdown": "news",
+          "started": "8h ago",
+          "trendBreakdown": "brown",
           "percentageIncrease": "1000%"
         },
         {
@@ -55,7 +72,7 @@
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "15h ago",
+          "started": "17h ago",
           "percentageIncrease": "100%"
         }
       ]
@@ -72,7 +89,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "50K+",
-          "started": "18h ago",
+          "started": "20h ago",
           "trendBreakdown": "bondi",
           "percentageIncrease": "1000%"
         },
@@ -81,8 +98,17 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "10K+",
-          "started": "6h ago",
+          "started": "8h ago",
           "trendBreakdown": "brown",
+          "percentageIncrease": "1000%"
+        },
+        {
+          "name": "jetblue plane venezuela",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "1h ago",
+          "trendBreakdown": "jetblue",
           "percentageIncrease": "1000%"
         },
         {
@@ -90,31 +116,23 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "14h ago",
+          "started": "15h ago",
           "percentageIncrease": "900%"
         },
         {
-          "name": "nbc",
+          "name": "sandy hook",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "2h ago",
+          "started": "15h ago",
           "percentageIncrease": "200%"
-        },
-        {
-          "name": "james fishback",
-          "relevanceScore": 90,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "23h ago",
-          "percentageIncrease": "100%"
         },
         {
           "name": "newsmax",
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "18h ago",
+          "started": "20h ago",
           "percentageIncrease": "100%"
         }
       ]
@@ -131,7 +149,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "5K+",
-          "started": "6h ago",
+          "started": "8h ago",
           "trendBreakdown": "brown",
           "percentageIncrease": "1000%"
         }
@@ -148,10 +166,26 @@
           "name": "benjamin erickson",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "5K+",
-          "started": "6h ago",
+          "searchVolume": "10K+",
+          "started": "8h ago",
           "trendBreakdown": "ella",
           "percentageIncrease": "1000%"
+        },
+        {
+          "name": "nbc news",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "1h ago",
+          "percentageIncrease": "300%"
+        },
+        {
+          "name": "cnn",
+          "relevanceScore": 90,
+          "category": "Law and Government",
+          "searchVolume": "1K+",
+          "started": "1h ago",
+          "percentageIncrease": "100%"
         }
       ]
     },
@@ -167,7 +201,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "10K+",
-          "started": "17h ago",
+          "started": "18h ago",
           "trendBreakdown": "australia",
           "percentageIncrease": "1000%"
         },
@@ -176,7 +210,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "2K+",
-          "started": "6h ago",
+          "started": "7h ago",
           "percentageIncrease": "1000%"
         }
       ]
@@ -193,7 +227,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "5K+",
-          "started": "6h ago",
+          "started": "8h ago",
           "trendBreakdown": "brown",
           "percentageIncrease": "1000%"
         }
@@ -211,7 +245,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "2K+",
-          "started": "6h ago",
+          "started": "8h ago",
           "trendBreakdown": "brown",
           "percentageIncrease": "1000%"
         },
@@ -220,7 +254,7 @@
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "16h ago",
+          "started": "18h ago",
           "percentageIncrease": "100%"
         }
       ]
@@ -237,8 +271,16 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "13h ago",
+          "started": "15h ago",
           "percentageIncrease": "500%"
+        },
+        {
+          "name": "nyc shooting",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "4h ago",
+          "percentageIncrease": "400%"
         }
       ]
     },
@@ -254,16 +296,16 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "10K+",
-          "started": "16h ago",
-          "trendBreakdown": "australia",
+          "started": "18h ago",
+          "trendBreakdown": "bondi",
           "percentageIncrease": "1000%"
         },
         {
           "name": "benjamin erickson",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "6h ago",
+          "searchVolume": "2K+",
+          "started": "7h ago",
           "percentageIncrease": "1000%"
         }
       ]
@@ -279,8 +321,8 @@
           "name": "benjamin erickson",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "5K+",
-          "started": "6h ago",
+          "searchVolume": "10K+",
+          "started": "8h ago",
           "trendBreakdown": "ella",
           "percentageIncrease": "1000%"
         },
@@ -289,7 +331,7 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "5h ago",
+          "started": "7h ago",
           "percentageIncrease": "400%"
         }
       ]
@@ -306,7 +348,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "5K+",
-          "started": "6h ago",
+          "started": "8h ago",
           "trendBreakdown": "brown",
           "percentageIncrease": "1000%"
         },
@@ -315,7 +357,7 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "5h ago",
+          "started": "7h ago",
           "percentageIncrease": "300%"
         }
       ]
@@ -332,8 +374,17 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "100K+",
-          "started": "19h ago",
+          "started": "21h ago",
           "trendBreakdown": "australia",
+          "percentageIncrease": "1000%"
+        },
+        {
+          "name": "jetblue plane venezuela",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "1K+",
+          "started": "1h ago",
+          "trendBreakdown": "jetblue",
           "percentageIncrease": "1000%"
         },
         {
@@ -341,7 +392,7 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "2K+",
-          "started": "8h ago",
+          "started": "10h ago",
           "trendBreakdown": "nyc",
           "percentageIncrease": "400%"
         },
@@ -350,23 +401,15 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "10 minutes ago",
-          "percentageIncrease": "300%"
-        },
-        {
-          "name": "nbc",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "3h ago",
-          "percentageIncrease": "300%"
+          "started": "2h ago",
+          "percentageIncrease": "200%"
         },
         {
           "name": "sandy hook anniversary",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "12h ago",
+          "started": "14h ago",
           "percentageIncrease": "200%"
         }
       ]
@@ -383,8 +426,8 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "5K+",
-          "started": "6h ago",
-          "trendBreakdown": "brett",
+          "started": "8h ago",
+          "trendBreakdown": "brown",
           "percentageIncrease": "1000%"
         },
         {
@@ -392,7 +435,7 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "18h ago",
+          "started": "20h ago",
           "percentageIncrease": "200%"
         },
         {
@@ -400,7 +443,7 @@
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "16h ago",
+          "started": "18h ago",
           "percentageIncrease": "100%"
         }
       ]
@@ -417,8 +460,8 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "10K+",
-          "started": "17h ago",
-          "trendBreakdown": "australia",
+          "started": "19h ago",
+          "trendBreakdown": "bondi",
           "percentageIncrease": "1000%"
         },
         {
@@ -426,7 +469,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "5h ago",
+          "started": "7h ago",
           "trendBreakdown": "news",
           "percentageIncrease": "1000%"
         },
@@ -435,7 +478,7 @@
           "relevanceScore": 85,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "12h ago",
+          "started": "14h ago",
           "percentageIncrease": "50%"
         }
       ]
@@ -452,32 +495,49 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "10K+",
-          "started": "6h ago",
+          "started": "8h ago",
           "trendBreakdown": "ella",
           "percentageIncrease": "1000%"
+        },
+        {
+          "name": "jetblue plane venezuela",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "30 minutes ago",
+          "trendBreakdown": "jetblue",
+          "percentageIncrease": "700%"
         },
         {
           "name": "wtaj",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "3h ago",
+          "started": "5h ago",
           "percentageIncrease": "700%"
         },
         {
-          "name": "nbc",
+          "name": "nbc news",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "2h ago",
+          "started": "1h ago",
           "percentageIncrease": "200%"
+        },
+        {
+          "name": "cnn",
+          "relevanceScore": 90,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "1h ago",
+          "percentageIncrease": "100%"
         },
         {
           "name": "amtrak",
           "relevanceScore": 85,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "14h ago",
+          "started": "15h ago",
           "percentageIncrease": "75%"
         }
       ]
@@ -485,25 +545,16 @@
     {
       "name": "South Carolina",
       "code": "SC",
-      "topTopic": "bondi beach",
+      "topTopic": "benjamin erickson",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
-        {
-          "name": "bondi beach",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "10K+",
-          "started": "16h ago",
-          "trendBreakdown": "australia",
-          "percentageIncrease": "1000%"
-        },
         {
           "name": "benjamin erickson",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "2K+",
-          "started": "6h ago",
+          "started": "8h ago",
           "percentageIncrease": "1000%"
         }
       ]
@@ -520,7 +571,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "10K+",
-          "started": "17h ago",
+          "started": "18h ago",
           "trendBreakdown": "bondi",
           "percentageIncrease": "1000%"
         },
@@ -529,8 +580,8 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "2K+",
-          "started": "6h ago",
-          "trendBreakdown": "providence",
+          "started": "8h ago",
+          "trendBreakdown": "brown",
           "percentageIncrease": "1000%"
         }
       ]
@@ -546,8 +597,8 @@
           "name": "bondi beach",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "50K+",
-          "started": "18h ago",
+          "searchVolume": "100K+",
+          "started": "20h ago",
           "trendBreakdown": "australia",
           "percentageIncrease": "1000%"
         },
@@ -556,32 +607,33 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "10K+",
-          "started": "6h ago",
+          "started": "8h ago",
           "trendBreakdown": "brown",
           "percentageIncrease": "1000%"
         },
         {
-          "name": "nbc",
-          "relevanceScore": 95,
+          "name": "jetblue plane venezuela",
+          "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "3h ago",
-          "percentageIncrease": "400%"
+          "started": "1h ago",
+          "trendBreakdown": "jetblue",
+          "percentageIncrease": "800%"
         },
         {
-          "name": "brett smiley",
-          "relevanceScore": 95,
+          "name": "nbc news",
+          "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "10h ago",
-          "percentageIncrease": "200%"
+          "started": "15h ago",
+          "percentageIncrease": "100%"
         },
         {
           "name": "foxnews",
           "relevanceScore": 85,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "14h ago",
+          "started": "16h ago",
           "percentageIncrease": "75%"
         }
       ]
@@ -598,25 +650,9 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "5K+",
-          "started": "6h ago",
+          "started": "8h ago",
           "trendBreakdown": "ella",
           "percentageIncrease": "1000%"
-        },
-        {
-          "name": "nbc",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "2h ago",
-          "percentageIncrease": "500%"
-        },
-        {
-          "name": "fox",
-          "relevanceScore": 90,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "9h ago",
-          "percentageIncrease": "100%"
         }
       ]
     },
@@ -631,8 +667,8 @@
           "name": "benjamin erickson",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "5K+",
-          "started": "6h ago",
+          "searchVolume": "10K+",
+          "started": "8h ago",
           "trendBreakdown": "ella",
           "percentageIncrease": "1000%"
         },
@@ -641,16 +677,8 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "13h ago",
+          "started": "15h ago",
           "percentageIncrease": "300%"
-        },
-        {
-          "name": "fox",
-          "relevanceScore": 90,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "14h ago",
-          "percentageIncrease": "100%"
         }
       ]
     },
@@ -666,7 +694,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "5h ago",
+          "started": "7h ago",
           "percentageIncrease": "800%"
         }
       ]
@@ -700,9 +728,25 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "2K+",
-          "started": "6h ago",
+          "started": "8h ago",
           "trendBreakdown": "brown",
           "percentageIncrease": "1000%"
+        },
+        {
+          "name": "jetblue plane venezuela",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "1h ago",
+          "percentageIncrease": "800%"
+        },
+        {
+          "name": "cnn",
+          "relevanceScore": 90,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "1h ago",
+          "percentageIncrease": "100%"
         }
       ]
     },
@@ -718,9 +762,9 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "2K+",
-          "started": "3h ago",
+          "started": "5h ago",
           "trendBreakdown": "benjamin",
-          "percentageIncrease": "1000%"
+          "percentageIncrease": "900%"
         }
       ]
     },
@@ -736,7 +780,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "5h ago",
+          "started": "7h ago",
           "percentageIncrease": "1000%"
         }
       ]
@@ -753,7 +797,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "5h ago",
+          "started": "6h ago",
           "percentageIncrease": "700%"
         }
       ]
@@ -770,7 +814,8 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "2K+",
-          "started": "6h ago",
+          "started": "8h ago",
+          "trendBreakdown": "brown",
           "percentageIncrease": "1000%"
         }
       ]
@@ -787,7 +832,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "5h ago",
+          "started": "6h ago",
           "percentageIncrease": "700%"
         }
       ]
@@ -804,9 +849,25 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "5h ago",
+          "started": "7h ago",
           "trendBreakdown": "brown",
           "percentageIncrease": "1000%"
+        },
+        {
+          "name": "pecanland mall",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "4h ago",
+          "percentageIncrease": "500%"
+        },
+        {
+          "name": "cnn",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "1h ago",
+          "percentageIncrease": "300%"
         }
       ]
     },
@@ -822,8 +883,8 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "10K+",
-          "started": "17h ago",
-          "trendBreakdown": "bondi",
+          "started": "19h ago",
+          "trendBreakdown": "australia",
           "percentageIncrease": "1000%"
         },
         {
@@ -831,7 +892,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "2K+",
-          "started": "6h ago",
+          "started": "8h ago",
           "trendBreakdown": "brown",
           "percentageIncrease": "1000%"
         },
@@ -839,10 +900,10 @@
           "name": "stewartville shooting update",
           "relevanceScore": 95,
           "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "4h ago",
+          "searchVolume": "1K+",
+          "started": "6h ago",
           "trendBreakdown": "stewartville",
-          "percentageIncrease": "300%"
+          "percentageIncrease": "200%"
         }
       ]
     },
@@ -858,8 +919,8 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "5h ago",
-          "percentageIncrease": "300%"
+          "started": "7h ago",
+          "percentageIncrease": "400%"
         }
       ]
     },
@@ -874,8 +935,8 @@
           "name": "bondi beach",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "5K+",
-          "started": "17h ago",
+          "searchVolume": "10K+",
+          "started": "19h ago",
           "trendBreakdown": "australia",
           "percentageIncrease": "1000%"
         },
@@ -884,7 +945,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "5h ago",
+          "started": "7h ago",
           "trendBreakdown": "news",
           "percentageIncrease": "1000%"
         }
@@ -902,8 +963,8 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "10K+",
-          "started": "6h ago",
-          "trendBreakdown": "ben",
+          "started": "8h ago",
+          "trendBreakdown": "brown",
           "percentageIncrease": "1000%"
         },
         {
@@ -911,7 +972,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "10K+",
-          "started": "16h ago",
+          "started": "18h ago",
           "trendBreakdown": "australia",
           "percentageIncrease": "1000%"
         }
@@ -929,26 +990,17 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "5K+",
-          "started": "6h ago",
+          "started": "8h ago",
           "trendBreakdown": "ella",
           "percentageIncrease": "1000%"
         },
         {
-          "name": "bondi beach",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "10K+",
-          "started": "17h ago",
-          "trendBreakdown": "australia",
-          "percentageIncrease": "1000%"
-        },
-        {
-          "name": "brett smiley",
-          "relevanceScore": 95,
+          "name": "cnn",
+          "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "15h ago",
-          "percentageIncrease": "400%"
+          "started": "1h ago",
+          "percentageIncrease": "100%"
         }
       ]
     },
@@ -964,7 +1016,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "5h ago",
+          "started": "7h ago",
           "percentageIncrease": "1000%"
         }
       ]
@@ -1015,7 +1067,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "5h ago",
+          "started": "7h ago",
           "percentageIncrease": "1000%"
         }
       ]
@@ -1086,7 +1138,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "5h ago",
+          "started": "7h ago",
           "percentageIncrease": "1000%"
         }
       ]
@@ -1121,7 +1173,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "5h ago",
+          "started": "7h ago",
           "percentageIncrease": "1000%"
         }
       ]
@@ -1155,7 +1207,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "10K+",
-          "started": "6h ago",
+          "started": "8h ago",
           "trendBreakdown": "ella",
           "percentageIncrease": "1000%"
         }
@@ -1199,7 +1251,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "2K+",
-          "started": "17h ago",
+          "started": "19h ago",
           "trendBreakdown": "bondi",
           "percentageIncrease": "700%"
         }
