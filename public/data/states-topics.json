@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-12-14T22:04:28.612Z",
+  "timestamp": "2025-12-15T00:04:54.079Z",
   "states": [
     {
       "name": "California",
@@ -13,17 +13,17 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "100K+",
-          "started": "13h ago",
+          "started": "15h ago",
           "trendBreakdown": "australia",
           "percentageIncrease": "1000%"
         },
         {
-          "name": "brown university shooting today",
+          "name": "benjamin erickson",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "50K+",
-          "started": "23h ago",
-          "trendBreakdown": "where",
+          "searchVolume": "10K+",
+          "started": "2h ago",
+          "trendBreakdown": "brown",
           "percentageIncrease": "1000%"
         }
       ]
@@ -40,16 +40,16 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "10K+",
-          "started": "12h ago",
+          "started": "14h ago",
           "trendBreakdown": "australia",
           "percentageIncrease": "1000%"
         },
         {
-          "name": "brown university active shooter",
+          "name": "benjamin erickson",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "10K+",
-          "started": "23h ago",
+          "searchVolume": "2K+",
+          "started": "2h ago",
           "trendBreakdown": "brown",
           "percentageIncrease": "1000%"
         },
@@ -58,7 +58,7 @@
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "9h ago",
+          "started": "11h ago",
           "percentageIncrease": "100%"
         }
       ]
@@ -75,16 +75,16 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "50K+",
-          "started": "12h ago",
+          "started": "14h ago",
           "trendBreakdown": "australia",
           "percentageIncrease": "1000%"
         },
         {
-          "name": "brown university active shooter",
+          "name": "benjamin erickson",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "50K+",
-          "started": "23h ago",
+          "searchVolume": "10K+",
+          "started": "2h ago",
           "trendBreakdown": "brown",
           "percentageIncrease": "1000%"
         },
@@ -93,7 +93,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "7h ago",
+          "started": "9h ago",
           "percentageIncrease": "900%"
         },
         {
@@ -101,7 +101,7 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "19h ago",
+          "started": "21h ago",
           "percentageIncrease": "200%"
         },
         {
@@ -109,7 +109,7 @@
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "17h ago",
+          "started": "19h ago",
           "percentageIncrease": "100%"
         },
         {
@@ -117,7 +117,7 @@
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "12h ago",
+          "started": "14h ago",
           "percentageIncrease": "100%"
         }
       ]
@@ -125,43 +125,42 @@
     {
       "name": "Georgia",
       "code": "GA",
-      "topTopic": "brown university",
+      "topTopic": "benjamin erickson",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
         {
-          "name": "brown university",
+          "name": "benjamin erickson",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "50K+",
-          "started": "22h ago",
+          "searchVolume": "2K+",
+          "started": "2h ago",
           "trendBreakdown": "brown",
           "percentageIncrease": "1000%"
         },
         {
-          "name": "bondi beach",
+          "name": "derwin brown",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "10K+",
-          "started": "9h ago",
-          "trendBreakdown": "australia",
-          "percentageIncrease": "1000%"
+          "searchVolume": "500+",
+          "started": "23h ago",
+          "percentageIncrease": "500%"
         }
       ]
     },
     {
       "name": "Illinois",
       "code": "IL",
-      "topTopic": "brown university",
+      "topTopic": "benjamin erickson",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
         {
-          "name": "brown university",
+          "name": "benjamin erickson",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "50K+",
-          "started": "22h ago",
+          "searchVolume": "5K+",
+          "started": "2h ago",
           "trendBreakdown": "brown",
           "percentageIncrease": "1000%"
         }
@@ -170,26 +169,26 @@
     {
       "name": "Indiana",
       "code": "IN",
-      "topTopic": "brown university active shooter",
+      "topTopic": "bondi beach",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
-        {
-          "name": "brown university active shooter",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "10K+",
-          "started": "23h ago",
-          "trendBreakdown": "brown",
-          "percentageIncrease": "1000%"
-        },
         {
           "name": "bondi beach",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "5K+",
-          "started": "10h ago",
-          "trendBreakdown": "bondi",
+          "started": "12h ago",
+          "trendBreakdown": "australia",
+          "percentageIncrease": "1000%"
+        },
+        {
+          "name": "benjamin erickson",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "1K+",
+          "started": "1h ago",
+          "trendBreakdown": "where",
           "percentageIncrease": "1000%"
         },
         {
@@ -197,7 +196,7 @@
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "10h ago",
+          "started": "12h ago",
           "percentageIncrease": "100%"
         }
       ]
@@ -214,87 +213,78 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "10K+",
-          "started": "11h ago",
+          "started": "13h ago",
           "trendBreakdown": "australia",
           "percentageIncrease": "1000%"
         },
         {
-          "name": "navy army",
+          "name": "benjamin erickson",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "23h ago",
-          "trendBreakdown": "army",
-          "percentageIncrease": "900%"
+          "searchVolume": "2K+",
+          "started": "2h ago",
+          "trendBreakdown": "brown",
+          "percentageIncrease": "1000%"
+        },
+        {
+          "name": "cnn",
+          "relevanceScore": 85,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "12h ago",
+          "percentageIncrease": "50%"
         }
       ]
     },
     {
       "name": "Michigan",
       "code": "MI",
-      "topTopic": "bondi beach",
+      "topTopic": "benjamin erickson",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
         {
-          "name": "bondi beach",
+          "name": "benjamin erickson",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "10K+",
-          "started": "11h ago",
-          "trendBreakdown": "australia",
+          "searchVolume": "2K+",
+          "started": "2h ago",
+          "trendBreakdown": "rhode",
           "percentageIncrease": "1000%"
         },
         {
-          "name": "fox",
-          "relevanceScore": 95,
+          "name": "nbc news",
+          "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "30 minutes ago",
-          "percentageIncrease": "400%"
-        },
-        {
-          "name": "uofm basketball",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "19h ago",
-          "percentageIncrease": "300%"
+          "started": "12h ago",
+          "percentageIncrease": "100%"
         }
       ]
     },
     {
       "name": "Massachusetts",
       "code": "MA",
-      "topTopic": "brown university news",
+      "topTopic": "benjamin erickson",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
         {
-          "name": "brown university news",
+          "name": "benjamin erickson",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "50K+",
-          "started": "23h ago",
-          "trendBreakdown": "providence",
+          "searchVolume": "10K+",
+          "started": "2h ago",
+          "trendBreakdown": "brown",
           "percentageIncrease": "1000%"
         },
         {
-          "name": "sandy hook",
+          "name": "sandy hook anniversary",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "22h ago",
-          "trendBreakdown": "sandy",
-          "percentageIncrease": "600%"
-        },
-        {
-          "name": "providence college",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "23h ago",
-          "percentageIncrease": "600%"
+          "searchVolume": "100+",
+          "started": "9h ago",
+          "percentageIncrease": "500%"
         }
       ]
     },
@@ -309,43 +299,52 @@
           "name": "bondi beach",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "5K+",
-          "started": "10h ago",
-          "trendBreakdown": "bondi",
+          "searchVolume": "10K+",
+          "started": "12h ago",
+          "trendBreakdown": "australia",
           "percentageIncrease": "1000%"
         },
         {
-          "name": "brown university active shooter",
+          "name": "benjamin erickson",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "5K+",
-          "started": "23h ago",
+          "searchVolume": "2K+",
+          "started": "1h ago",
           "trendBreakdown": "brown",
           "percentageIncrease": "1000%"
-        },
-        {
-          "name": "chief",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "50 minutes ago",
-          "percentageIncrease": "500%"
         }
       ]
     },
     {
       "name": "New Jersey",
       "code": "NJ",
-      "topTopic": "cnn",
+      "topTopic": "benjamin erickson",
       "category": "Law and Government",
-      "trendingScore": 90,
+      "trendingScore": 100,
       "topics": [
+        {
+          "name": "benjamin erickson",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "5K+",
+          "started": "2h ago",
+          "trendBreakdown": "brown",
+          "percentageIncrease": "1000%"
+        },
+        {
+          "name": "frontline",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "1h ago",
+          "percentageIncrease": "400%"
+        },
         {
           "name": "cnn",
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "22h ago",
+          "started": "24h ago",
           "percentageIncrease": "100%"
         }
       ]
@@ -353,18 +352,26 @@
     {
       "name": "North Carolina",
       "code": "NC",
-      "topTopic": "brown university",
+      "topTopic": "benjamin erickson",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
         {
-          "name": "brown university",
+          "name": "benjamin erickson",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "50K+",
-          "started": "22h ago",
+          "searchVolume": "2K+",
+          "started": "2h ago",
           "trendBreakdown": "brown",
           "percentageIncrease": "1000%"
+        },
+        {
+          "name": "sycamore brewing charlotte nc",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "1h ago",
+          "percentageIncrease": "300%"
         }
       ]
     },
@@ -379,77 +386,62 @@
           "name": "bondi beach",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "50K+",
-          "started": "13h ago",
+          "searchVolume": "100K+",
+          "started": "15h ago",
           "trendBreakdown": "australia",
           "percentageIncrease": "1000%"
         },
         {
-          "name": "brown university shooting today",
+          "name": "benjamin erickson",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "50K+",
-          "started": "23h ago",
-          "trendBreakdown": "benjamin",
-          "percentageIncrease": "1000%"
-        },
-        {
-          "name": "brooklyn shooting",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "100+",
+          "searchVolume": "10K+",
           "started": "2h ago",
-          "percentageIncrease": "200%"
+          "trendBreakdown": "brown",
+          "percentageIncrease": "1000%"
         },
         {
           "name": "sandy hook",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "21h ago",
+          "started": "23h ago",
           "trendBreakdown": "sandy",
           "percentageIncrease": "300%"
         },
         {
-          "name": "navy army",
+          "name": "brooklyn shooting",
           "relevanceScore": 95,
           "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "22h ago",
-          "trendBreakdown": "where",
-          "percentageIncrease": "200%"
-        },
-        {
-          "name": "trump",
-          "relevanceScore": 85,
-          "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "13h ago",
-          "percentageIncrease": "75%"
+          "started": "4h ago",
+          "trendBreakdown": "nyc",
+          "percentageIncrease": "200%"
         }
       ]
     },
     {
       "name": "Ohio",
       "code": "OH",
-      "topTopic": "west point academy",
+      "topTopic": "benjamin erickson",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
         {
-          "name": "west point academy",
+          "name": "benjamin erickson",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "23h ago",
-          "percentageIncrease": "700%"
+          "searchVolume": "2K+",
+          "started": "2h ago",
+          "trendBreakdown": "brown",
+          "percentageIncrease": "1000%"
         },
         {
           "name": "ross county sheriff",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "12h ago",
+          "started": "14h ago",
           "percentageIncrease": "200%"
         },
         {
@@ -457,7 +449,7 @@
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "10h ago",
+          "started": "12h ago",
           "percentageIncrease": "100%"
         },
         {
@@ -465,7 +457,7 @@
           "relevanceScore": 85,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "10h ago",
+          "started": "12h ago",
           "percentageIncrease": "75%"
         }
       ]
@@ -481,59 +473,52 @@
           "name": "bondi beach",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "5K+",
-          "started": "11h ago",
+          "searchVolume": "10K+",
+          "started": "13h ago",
           "trendBreakdown": "australia",
           "percentageIncrease": "1000%"
         },
         {
-          "name": "brown university active shooter",
+          "name": "benjamin erickson",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "5K+",
-          "started": "22h ago",
+          "searchVolume": "2K+",
+          "started": "1h ago",
           "trendBreakdown": "brown",
           "percentageIncrease": "1000%"
-        },
-        {
-          "name": "army navy",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "22h ago",
-          "percentageIncrease": "400%"
         }
       ]
     },
     {
       "name": "Pennsylvania",
       "code": "PA",
-      "topTopic": "stroud mall",
+      "topTopic": "benjamin erickson",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
+        {
+          "name": "benjamin erickson",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "5K+",
+          "started": "2h ago",
+          "trendBreakdown": "brown",
+          "percentageIncrease": "1000%"
+        },
         {
           "name": "stroud mall",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "19h ago",
+          "started": "21h ago",
           "percentageIncrease": "700%"
-        },
-        {
-          "name": "navy army",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "22h ago",
-          "percentageIncrease": "600%"
         },
         {
           "name": "amtrak",
           "relevanceScore": 85,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "7h ago",
+          "started": "9h ago",
           "percentageIncrease": "75%"
         }
       ]
@@ -541,26 +526,26 @@
     {
       "name": "South Carolina",
       "code": "SC",
-      "topTopic": "brown university active shooter",
+      "topTopic": "bondi beach",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
-        {
-          "name": "brown university active shooter",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "10K+",
-          "started": "23h ago",
-          "trendBreakdown": "brown",
-          "percentageIncrease": "1000%"
-        },
         {
           "name": "bondi beach",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "5K+",
-          "started": "10h ago",
+          "started": "12h ago",
           "trendBreakdown": "australia",
+          "percentageIncrease": "1000%"
+        },
+        {
+          "name": "benjamin erickson",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "2K+",
+          "started": "2h ago",
+          "trendBreakdown": "brown",
           "percentageIncrease": "1000%"
         }
       ]
@@ -577,17 +562,17 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "10K+",
-          "started": "10h ago",
-          "trendBreakdown": "australia",
+          "started": "12h ago",
+          "trendBreakdown": "bondi",
           "percentageIncrease": "1000%"
         },
         {
-          "name": "brown university active shooter",
+          "name": "benjamin erickson",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "10K+",
-          "started": "23h ago",
-          "trendBreakdown": "brown",
+          "searchVolume": "1K+",
+          "started": "2h ago",
+          "trendBreakdown": "where",
           "percentageIncrease": "1000%"
         }
       ]
@@ -604,93 +589,86 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "50K+",
-          "started": "12h ago",
+          "started": "14h ago",
           "trendBreakdown": "australia",
           "percentageIncrease": "1000%"
         },
         {
-          "name": "brown university active shooter",
+          "name": "benjamin erickson",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "50K+",
-          "started": "23h ago",
+          "searchVolume": "5K+",
+          "started": "2h ago",
           "trendBreakdown": "brown",
           "percentageIncrease": "1000%"
         },
         {
-          "name": "joe biden",
-          "relevanceScore": 95,
+          "name": "nbc news",
+          "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "2h ago",
-          "percentageIncrease": "400%"
+          "started": "9h ago",
+          "percentageIncrease": "100%"
         }
       ]
     },
     {
       "name": "Virginia",
       "code": "VA",
-      "topTopic": "navy army",
+      "topTopic": "benjamin erickson",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
         {
-          "name": "navy army",
+          "name": "benjamin erickson",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "23h ago",
-          "trendBreakdown": "army",
-          "percentageIncrease": "800%"
-        },
-        {
-          "name": "fox",
-          "relevanceScore": 90,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "3h ago",
-          "percentageIncrease": "100%"
+          "searchVolume": "5K+",
+          "started": "2h ago",
+          "trendBreakdown": "brown",
+          "percentageIncrease": "1000%"
         }
       ]
     },
     {
       "name": "District of Columbia",
       "code": "DC",
-      "topTopic": "sandy hook",
+      "topTopic": "benjamin erickson",
       "category": "Law and Government",
-      "trendingScore": 95,
+      "trendingScore": 100,
       "topics": [
+        {
+          "name": "benjamin erickson",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "5K+",
+          "started": "2h ago",
+          "trendBreakdown": "brown",
+          "percentageIncrease": "1000%"
+        },
         {
           "name": "sandy hook",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "7h ago",
+          "started": "9h ago",
           "percentageIncrease": "300%"
-        },
-        {
-          "name": "cnn",
-          "relevanceScore": 90,
-          "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "22h ago",
-          "percentageIncrease": "100%"
         }
       ]
     },
     {
       "name": "Oklahoma",
       "code": "OK",
-      "topTopic": "brown university active shooter",
+      "topTopic": "benjamin erickson",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
         {
-          "name": "brown university active shooter",
+          "name": "benjamin erickson",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "2K+",
-          "started": "22h ago",
+          "searchVolume": "500+",
+          "started": "1h ago",
           "trendBreakdown": "brown",
           "percentageIncrease": "1000%"
         }
@@ -699,34 +677,33 @@
     {
       "name": "Vermont",
       "code": "VT",
-      "topTopic": "brown university",
+      "topTopic": "benjamin erickson",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
         {
-          "name": "brown university",
+          "name": "benjamin erickson",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "5K+",
-          "started": "23h ago",
-          "trendBreakdown": "brown",
-          "percentageIncrease": "1000%"
+          "searchVolume": "100+",
+          "started": "30 minutes ago",
+          "percentageIncrease": "700%"
         }
       ]
     },
     {
       "name": "Washington",
       "code": "WA",
-      "topTopic": "brown university active shooter",
+      "topTopic": "benjamin erickson",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
         {
-          "name": "brown university active shooter",
+          "name": "benjamin erickson",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "10K+",
-          "started": "23h ago",
+          "searchVolume": "2K+",
+          "started": "2h ago",
           "trendBreakdown": "brown",
           "percentageIncrease": "1000%"
         }
@@ -735,16 +712,16 @@
     {
       "name": "Alabama",
       "code": "AL",
-      "topTopic": "brown university active shooter",
+      "topTopic": "benjamin erickson",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
         {
-          "name": "brown university active shooter",
+          "name": "benjamin erickson",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "5K+",
-          "started": "22h ago",
+          "searchVolume": "2K+",
+          "started": "1h ago",
           "trendBreakdown": "brown",
           "percentageIncrease": "1000%"
         }
@@ -753,17 +730,17 @@
     {
       "name": "Kansas",
       "code": "KS",
-      "topTopic": "brown university",
+      "topTopic": "benjamin erickson",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
         {
-          "name": "brown university",
+          "name": "benjamin erickson",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "10K+",
-          "started": "23h ago",
-          "trendBreakdown": "brown",
+          "searchVolume": "500+",
+          "started": "1h ago",
+          "trendBreakdown": "where",
           "percentageIncrease": "1000%"
         }
       ]
@@ -771,16 +748,16 @@
     {
       "name": "New Mexico",
       "code": "NM",
-      "topTopic": "brown university",
+      "topTopic": "benjamin erickson",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
         {
-          "name": "brown university",
+          "name": "benjamin erickson",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "5K+",
-          "started": "23h ago",
+          "searchVolume": "1K+",
+          "started": "50 minutes ago",
           "trendBreakdown": "brown",
           "percentageIncrease": "1000%"
         }
@@ -789,25 +766,16 @@
     {
       "name": "Colorado",
       "code": "CO",
-      "topTopic": "bondi beach",
+      "topTopic": "benjamin erickson",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
         {
-          "name": "bondi beach",
+          "name": "benjamin erickson",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "10K+",
-          "started": "11h ago",
-          "trendBreakdown": "australia",
-          "percentageIncrease": "1000%"
-        },
-        {
-          "name": "brown university active shooter",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "10K+",
-          "started": "23h ago",
+          "searchVolume": "1K+",
+          "started": "2h ago",
           "trendBreakdown": "brown",
           "percentageIncrease": "1000%"
         }
@@ -816,16 +784,16 @@
     {
       "name": "Iowa",
       "code": "IA",
-      "topTopic": "brown university",
+      "topTopic": "benjamin erickson",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
         {
-          "name": "brown university",
+          "name": "benjamin erickson",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "10K+",
-          "started": "23h ago",
+          "searchVolume": "500+",
+          "started": "50 minutes ago",
           "trendBreakdown": "brown",
           "percentageIncrease": "1000%"
         }
@@ -834,16 +802,16 @@
     {
       "name": "Louisiana",
       "code": "LA",
-      "topTopic": "brown university",
+      "topTopic": "benjamin erickson",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
         {
-          "name": "brown university",
+          "name": "benjamin erickson",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "10K+",
-          "started": "23h ago",
+          "searchVolume": "1K+",
+          "started": "1h ago",
           "trendBreakdown": "brown",
           "percentageIncrease": "1000%"
         }
@@ -861,104 +829,51 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "10K+",
-          "started": "11h ago",
-          "trendBreakdown": "australia",
+          "started": "13h ago",
+          "trendBreakdown": "bondi",
           "percentageIncrease": "1000%"
         },
         {
-          "name": "brown university active shooter",
+          "name": "benjamin erickson",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "10K+",
-          "started": "23h ago",
+          "searchVolume": "1K+",
+          "started": "2h ago",
           "trendBreakdown": "brown",
           "percentageIncrease": "1000%"
         },
         {
-          "name": "stewartville mn school shooting",
+          "name": "stewartville shooting update",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "9h ago",
-          "percentageIncrease": "300%"
+          "started": "20 minutes ago",
+          "trendBreakdown": "stewartville",
+          "percentageIncrease": "200%"
         }
       ]
     },
     {
       "name": "Nebraska",
       "code": "NE",
-      "topTopic": "brown university",
+      "topTopic": "benjamin erickson",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
         {
-          "name": "brown university",
+          "name": "benjamin erickson",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "5K+",
-          "started": "23h ago",
+          "searchVolume": "1K+",
+          "started": "20 minutes ago",
           "trendBreakdown": "brown",
-          "percentageIncrease": "1000%"
+          "percentageIncrease": "600%"
         }
       ]
     },
     {
       "name": "Nevada",
       "code": "NV",
-      "topTopic": "brown university",
-      "category": "Law and Government",
-      "trendingScore": 100,
-      "topics": [
-        {
-          "name": "brown university",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "10K+",
-          "started": "23h ago",
-          "trendBreakdown": "brown",
-          "percentageIncrease": "1000%"
-        },
-        {
-          "name": "bondi beach",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "5K+",
-          "started": "11h ago",
-          "trendBreakdown": "australia",
-          "percentageIncrease": "1000%"
-        }
-      ]
-    },
-    {
-      "name": "Wisconsin",
-      "code": "WI",
-      "topTopic": "brown university active shooter",
-      "category": "Law and Government",
-      "trendingScore": 100,
-      "topics": [
-        {
-          "name": "brown university active shooter",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "10K+",
-          "started": "23h ago",
-          "trendBreakdown": "benjamin",
-          "percentageIncrease": "1000%"
-        },
-        {
-          "name": "bondi beach",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "5K+",
-          "started": "10h ago",
-          "trendBreakdown": "bondi",
-          "percentageIncrease": "1000%"
-        }
-      ]
-    },
-    {
-      "name": "Connecticut",
-      "code": "CT",
       "topTopic": "bondi beach",
       "category": "Law and Government",
       "trendingScore": 100,
@@ -968,17 +883,70 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "5K+",
-          "started": "11h ago",
+          "started": "13h ago",
           "trendBreakdown": "australia",
           "percentageIncrease": "1000%"
         },
         {
-          "name": "sandy hook",
+          "name": "benjamin erickson",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "1K+",
+          "started": "1h ago",
+          "trendBreakdown": "brown",
+          "percentageIncrease": "1000%"
+        }
+      ]
+    },
+    {
+      "name": "Wisconsin",
+      "code": "WI",
+      "topTopic": "benjamin erickson",
+      "category": "Law and Government",
+      "trendingScore": 100,
+      "topics": [
+        {
+          "name": "benjamin erickson",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "5K+",
+          "started": "2h ago",
+          "trendBreakdown": "brown",
+          "percentageIncrease": "1000%"
+        },
+        {
+          "name": "bondi beach",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "5K+",
+          "started": "12h ago",
+          "trendBreakdown": "australia",
+          "percentageIncrease": "1000%"
+        }
+      ]
+    },
+    {
+      "name": "Connecticut",
+      "code": "CT",
+      "topTopic": "benjamin erickson",
+      "category": "Law and Government",
+      "trendingScore": 100,
+      "topics": [
+        {
+          "name": "benjamin erickson",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "2K+",
-          "started": "22h ago",
-          "trendBreakdown": "sandy",
+          "started": "2h ago",
+          "trendBreakdown": "brown",
+          "percentageIncrease": "1000%"
+        },
+        {
+          "name": "sandy hook anniversary",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "20h ago",
           "percentageIncrease": "500%"
         }
       ]
@@ -986,17 +954,17 @@
     {
       "name": "Kentucky",
       "code": "KY",
-      "topTopic": "brown university active shooter",
+      "topTopic": "benjamin erickson",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
         {
-          "name": "brown university active shooter",
+          "name": "benjamin erickson",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "5K+",
-          "started": "23h ago",
-          "trendBreakdown": "where",
+          "searchVolume": "1K+",
+          "started": "1h ago",
+          "trendBreakdown": "brown",
           "percentageIncrease": "1000%"
         }
       ]
@@ -1021,34 +989,33 @@
     {
       "name": "West Virginia",
       "code": "WV",
-      "topTopic": "brown university",
+      "topTopic": "where is brown university",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
         {
-          "name": "brown university",
+          "name": "where is brown university",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "5K+",
+          "searchVolume": "100+",
           "started": "23h ago",
-          "trendBreakdown": "brown",
-          "percentageIncrease": "1000%"
+          "percentageIncrease": "600%"
         }
       ]
     },
     {
       "name": "Utah",
       "code": "UT",
-      "topTopic": "brown university",
+      "topTopic": "benjamin erickson",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
         {
-          "name": "brown university",
+          "name": "benjamin erickson",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "10K+",
-          "started": "23h ago",
+          "searchVolume": "1K+",
+          "started": "1h ago",
           "trendBreakdown": "brown",
           "percentageIncrease": "1000%"
         }
@@ -1075,18 +1042,18 @@
     {
       "name": "Idaho",
       "code": "ID",
-      "topTopic": "brown university",
+      "topTopic": "brown university active shooter",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
         {
-          "name": "brown university",
+          "name": "brown university active shooter",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "5K+",
-          "started": "23h ago",
+          "searchVolume": "1K+",
+          "started": "24h ago",
           "trendBreakdown": "brown",
-          "percentageIncrease": "1000%"
+          "percentageIncrease": "700%"
         }
       ]
     },
@@ -1111,17 +1078,17 @@
     {
       "name": "New Hampshire",
       "code": "NH",
-      "topTopic": "brown university active shooter",
+      "topTopic": "benjamin erickson",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
         {
-          "name": "brown university active shooter",
+          "name": "benjamin erickson",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "5K+",
-          "started": "23h ago",
-          "trendBreakdown": "where",
+          "searchVolume": "1K+",
+          "started": "1h ago",
+          "trendBreakdown": "brown",
           "percentageIncrease": "1000%"
         },
         {
@@ -1129,7 +1096,7 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "21h ago",
+          "started": "23h ago",
           "percentageIncrease": "300%"
         }
       ]
@@ -1155,16 +1122,16 @@
     {
       "name": "Maine",
       "code": "ME",
-      "topTopic": "brown university active shooter",
+      "topTopic": "benjamin erickson",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
         {
-          "name": "brown university active shooter",
+          "name": "benjamin erickson",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "5K+",
-          "started": "23h ago",
+          "searchVolume": "1K+",
+          "started": "1h ago",
           "trendBreakdown": "brown",
           "percentageIncrease": "1000%"
         }
@@ -1173,18 +1140,17 @@
     {
       "name": "Montana",
       "code": "MT",
-      "topTopic": "brown university",
+      "topTopic": "brown university active shooter",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
         {
-          "name": "brown university",
+          "name": "brown university active shooter",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "2K+",
+          "searchVolume": "500+",
           "started": "23h ago",
-          "trendBreakdown": "brown",
-          "percentageIncrease": "1000%"
+          "percentageIncrease": "500%"
         }
       ]
     },
@@ -1200,24 +1166,16 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "10K+",
-          "started": "40 minutes ago",
-          "trendBreakdown": "brown",
+          "started": "2h ago",
+          "trendBreakdown": "brett",
           "percentageIncrease": "1000%"
-        },
-        {
-          "name": "cnn",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "2K+",
-          "started": "23h ago",
-          "percentageIncrease": "500%"
         },
         {
           "name": "sandy hook",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "21h ago",
+          "started": "23h ago",
           "percentageIncrease": "500%"
         },
         {
@@ -1225,7 +1183,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "19h ago",
+          "started": "21h ago",
           "percentageIncrease": "1000%"
         },
         {
@@ -1233,7 +1191,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "19h ago",
+          "started": "21h ago",
           "percentageIncrease": "700%"
         }
       ]
@@ -1267,33 +1225,24 @@
     {
       "name": "Hawaii",
       "code": "HI",
-      "topTopic": "brown university",
+      "topTopic": "bondi beach",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
-        {
-          "name": "brown university",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "5K+",
-          "started": "23h ago",
-          "trendBreakdown": "brown",
-          "percentageIncrease": "1000%"
-        },
         {
           "name": "bondi beach",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "2K+",
-          "started": "11h ago",
+          "started": "13h ago",
           "trendBreakdown": "bondi",
           "percentageIncrease": "700%"
         },
         {
-          "name": "army navy",
+          "name": "brown university active shooter",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "100+",
+          "searchVolume": "1K+",
           "started": "23h ago",
           "percentageIncrease": "700%"
         }
@@ -1328,7 +1277,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "22h ago",
+          "started": "24h ago",
           "trendBreakdown": "brown",
           "percentageIncrease": "700%"
         }

@@ -1,38 +1,29 @@
 {
-  "timestamp": "2025-12-14T22:04:28.612Z",
+  "timestamp": "2025-12-15T00:04:54.079Z",
   "states": [
     {
       "name": "Massachusetts",
       "code": "MA",
-      "topTopic": "brown university news",
+      "topTopic": "benjamin erickson",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
         {
-          "name": "brown university news",
+          "name": "benjamin erickson",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "50K+",
-          "started": "23h ago",
-          "trendBreakdown": "providence",
+          "searchVolume": "10K+",
+          "started": "2h ago",
+          "trendBreakdown": "brown",
           "percentageIncrease": "1000%"
         },
         {
-          "name": "sandy hook",
+          "name": "sandy hook anniversary",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "22h ago",
-          "trendBreakdown": "sandy",
-          "percentageIncrease": "600%"
-        },
-        {
-          "name": "providence college",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "23h ago",
-          "percentageIncrease": "600%"
+          "searchVolume": "100+",
+          "started": "9h ago",
+          "percentageIncrease": "500%"
         }
       ]
     }

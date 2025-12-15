@@ -1,21 +1,29 @@
 {
-  "timestamp": "2025-12-14T22:04:28.612Z",
+  "timestamp": "2025-12-15T00:04:54.079Z",
   "states": [
     {
       "name": "North Carolina",
       "code": "NC",
-      "topTopic": "brown university",
+      "topTopic": "benjamin erickson",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
         {
-          "name": "brown university",
+          "name": "benjamin erickson",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "50K+",
-          "started": "22h ago",
+          "searchVolume": "2K+",
+          "started": "2h ago",
           "trendBreakdown": "brown",
           "percentageIncrease": "1000%"
+        },
+        {
+          "name": "sycamore brewing charlotte nc",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "1h ago",
+          "percentageIncrease": "300%"
         }
       ]
     }

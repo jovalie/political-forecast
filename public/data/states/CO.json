@@ -1,28 +1,19 @@
 {
-  "timestamp": "2025-12-14T22:04:28.612Z",
+  "timestamp": "2025-12-15T00:04:54.079Z",
   "states": [
     {
       "name": "Colorado",
       "code": "CO",
-      "topTopic": "bondi beach",
+      "topTopic": "benjamin erickson",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
         {
-          "name": "bondi beach",
+          "name": "benjamin erickson",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "10K+",
-          "started": "11h ago",
-          "trendBreakdown": "australia",
-          "percentageIncrease": "1000%"
-        },
-        {
-          "name": "brown university active shooter",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "10K+",
-          "started": "23h ago",
+          "searchVolume": "1K+",
+          "started": "2h ago",
           "trendBreakdown": "brown",
           "percentageIncrease": "1000%"
         }
