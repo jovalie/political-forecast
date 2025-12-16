@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-12-15T22:05:07.307Z",
+  "timestamp": "2025-12-16T00:05:20.852Z",
   "states": [
     {
       "name": "Virginia",
@@ -13,7 +13,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "2K+",
-          "started": "18h ago",
+          "started": "20h ago",
           "trendBreakdown": "brown",
           "percentageIncrease": "600%"
         },
@@ -22,7 +22,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "5h ago",
+          "started": "7h ago",
           "percentageIncrease": "1000%"
         },
         {
@@ -30,24 +30,16 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "11h ago",
+          "started": "13h ago",
           "trendBreakdown": "jetblue",
           "percentageIncrease": "500%"
-        },
-        {
-          "name": "cnn news",
-          "relevanceScore": 90,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "10h ago",
-          "percentageIncrease": "100%"
         },
         {
           "name": "foxnews",
           "relevanceScore": 85,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "10h ago",
+          "started": "12h ago",
           "percentageIncrease": "75%"
         }
       ]

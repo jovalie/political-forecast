@@ -1,28 +1,28 @@
 {
-  "timestamp": "2025-12-15T22:05:07.307Z",
+  "timestamp": "2025-12-16T00:05:20.852Z",
   "states": [
     {
       "name": "Pennsylvania",
       "code": "PA",
-      "topTopic": "brown university shooting suspect",
+      "topTopic": "ella cook",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
         {
-          "name": "brown university shooting suspect",
+          "name": "ella cook",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "2K+",
-          "started": "10h ago",
-          "trendBreakdown": "ella",
-          "percentageIncrease": "500%"
+          "started": "20h ago",
+          "trendBreakdown": "brown",
+          "percentageIncrease": "600%"
         },
         {
           "name": "brian walshe",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "5h ago",
+          "started": "7h ago",
           "percentageIncrease": "1000%"
         },
         {
@@ -30,7 +30,7 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "16h ago",
+          "started": "18h ago",
           "trendBreakdown": "jetblue",
           "percentageIncrease": "300%"
         }

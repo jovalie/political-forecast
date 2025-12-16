@@ -1,29 +1,29 @@
 {
-  "timestamp": "2025-12-15T22:05:07.307Z",
+  "timestamp": "2025-12-16T00:05:20.852Z",
   "states": [
     {
       "name": "Tennessee",
       "code": "TN",
-      "topTopic": "ella cook",
+      "topTopic": "brian walshe",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
-        {
-          "name": "ella cook",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "15h ago",
-          "trendBreakdown": "brown",
-          "percentageIncrease": "500%"
-        },
         {
           "name": "brian walshe",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "4h ago",
+          "started": "6h ago",
           "percentageIncrease": "800%"
+        },
+        {
+          "name": "ella cook",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "1K+",
+          "started": "17h ago",
+          "trendBreakdown": "brown",
+          "percentageIncrease": "500%"
         }
       ]
     }

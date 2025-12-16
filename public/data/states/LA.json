@@ -1,27 +1,19 @@
 {
-  "timestamp": "2025-12-15T22:05:07.307Z",
+  "timestamp": "2025-12-16T00:05:20.852Z",
   "states": [
     {
       "name": "Louisiana",
       "code": "LA",
-      "topTopic": "benjamin erickson",
+      "topTopic": "pecanland mall",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
-        {
-          "name": "benjamin erickson",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "23h ago",
-          "percentageIncrease": "1000%"
-        },
         {
           "name": "pecanland mall",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "20h ago",
+          "started": "22h ago",
           "percentageIncrease": "600%"
         }
       ]
