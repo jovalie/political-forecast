@@ -1,20 +1,20 @@
 {
-  "timestamp": "2025-12-16T08:05:03.403Z",
+  "timestamp": "2025-12-16T10:04:51.731Z",
   "states": [
     {
       "name": "Puerto Rico",
       "code": "PR",
-      "topTopic": "brown university",
+      "topTopic": "el nuevo dia",
       "category": "Law and Government",
-      "trendingScore": 100,
+      "trendingScore": 90,
       "topics": [
         {
-          "name": "brown university",
-          "relevanceScore": 100,
+          "name": "el nuevo dia",
+          "relevanceScore": 90,
           "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "22h ago",
-          "percentageIncrease": "800%"
+          "searchVolume": "100+",
+          "started": "10 minutes ago",
+          "percentageIncrease": "100%"
         }
       ]
     }

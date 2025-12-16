@@ -1,36 +1,36 @@
 {
-  "timestamp": "2025-12-16T08:05:03.403Z",
+  "timestamp": "2025-12-16T10:04:51.731Z",
   "states": [
     {
       "name": "Michigan",
       "code": "MI",
-      "topTopic": "brown university shooting suspect",
+      "topTopic": "brian walshe",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
-        {
-          "name": "brown university shooting suspect",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "18h ago",
-          "trendBreakdown": "ella",
-          "percentageIncrease": "500%"
-        },
         {
           "name": "brian walshe",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "14h ago",
+          "started": "16h ago",
           "percentageIncrease": "900%"
+        },
+        {
+          "name": "brown university shooting suspect",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "1K+",
+          "started": "20h ago",
+          "trendBreakdown": "ella",
+          "percentageIncrease": "200%"
         },
         {
           "name": "joshua ronnebaum",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "6h ago",
+          "started": "8h ago",
           "percentageIncrease": "400%"
         }
       ]
