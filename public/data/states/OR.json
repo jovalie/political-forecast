@@ -1,20 +1,29 @@
 {
-  "timestamp": "2025-12-16T18:04:55.164Z",
+  "timestamp": "2025-12-16T20:04:54.138Z",
   "states": [
     {
       "name": "Oregon",
       "code": "OR",
-      "topTopic": "benjamin erickson",
+      "topTopic": "susie wiles",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
         {
-          "name": "benjamin erickson",
+          "name": "susie wiles",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "23h ago",
-          "percentageIncrease": "1000%"
+          "searchVolume": "500+",
+          "started": "3h ago",
+          "trendBreakdown": "vanity",
+          "percentageIncrease": "800%"
+        },
+        {
+          "name": "news today",
+          "relevanceScore": 85,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "6h ago",
+          "percentageIncrease": "75%"
         }
       ]
     }

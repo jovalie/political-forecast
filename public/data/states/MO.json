@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-12-16T18:04:55.164Z",
+  "timestamp": "2025-12-16T20:04:54.138Z",
   "states": [
     {
       "name": "Missouri",
@@ -12,17 +12,18 @@
           "name": "susie wiles",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "10 minutes ago",
+          "searchVolume": "500+",
+          "started": "4h ago",
+          "trendBreakdown": "vanity",
           "percentageIncrease": "1000%"
         },
         {
-          "name": "brian walshe",
+          "name": "karoline leavitt",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "22h ago",
-          "percentageIncrease": "900%"
+          "searchVolume": "100+",
+          "started": "10 minutes ago",
+          "percentageIncrease": "1000%"
         }
       ]
     }
