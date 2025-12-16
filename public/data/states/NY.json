@@ -1,23 +1,41 @@
 {
-  "timestamp": "2025-12-16T14:05:44.296Z",
+  "timestamp": "2025-12-16T16:04:48.312Z",
   "states": [
     {
       "name": "New York",
       "code": "NY",
-      "topTopic": "brian walshe",
+      "topTopic": "susie wiles",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
+        {
+          "name": "susie wiles",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "1K+",
+          "started": "2h ago",
+          "trendBreakdown": "vanity",
+          "percentageIncrease": "1000%"
+        },
         {
           "name": "brian walshe",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "2K+",
-          "started": "21h ago",
+          "started": "23h ago",
           "percentageIncrease": "800%"
         },
         {
-          "name": "fentanyl",
+          "name": "influenza",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "4h ago",
+          "trendBreakdown": "flu",
+          "percentageIncrease": "300%"
+        },
+        {
+          "name": "miami",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
@@ -25,27 +43,19 @@
           "percentageIncrease": "200%"
         },
         {
-          "name": "miami",
-          "relevanceScore": 95,
+          "name": "jfk",
+          "relevanceScore": 90,
           "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "10h ago",
-          "percentageIncrease": "200%"
-        },
-        {
-          "name": "hawaii",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "11h ago",
-          "percentageIncrease": "200%"
+          "searchVolume": "500+",
+          "started": "4h ago",
+          "percentageIncrease": "100%"
         },
         {
           "name": "trey songz",
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "15h ago",
+          "started": "17h ago",
           "percentageIncrease": "100%"
         },
         {
@@ -53,7 +63,7 @@
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "19h ago",
+          "started": "21h ago",
           "percentageIncrease": "100%"
         }
       ]

@@ -1,19 +1,27 @@
 {
-  "timestamp": "2025-12-16T14:05:44.296Z",
+  "timestamp": "2025-12-16T16:04:48.312Z",
   "states": [
     {
       "name": "Michigan",
       "code": "MI",
-      "topTopic": "brian walshe",
+      "topTopic": "susie wiles",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
+        {
+          "name": "susie wiles",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "30 minutes ago",
+          "percentageIncrease": "1000%"
+        },
         {
           "name": "brian walshe",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "20h ago",
+          "started": "22h ago",
           "percentageIncrease": "900%"
         }
       ]

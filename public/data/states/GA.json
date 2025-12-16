@@ -1,19 +1,27 @@
 {
-  "timestamp": "2025-12-16T14:05:44.296Z",
+  "timestamp": "2025-12-16T16:04:48.312Z",
   "states": [
     {
       "name": "Georgia",
       "code": "GA",
-      "topTopic": "brian walshe",
+      "topTopic": "susie wiles",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
+        {
+          "name": "susie wiles",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "30 minutes ago",
+          "percentageIncrease": "700%"
+        },
         {
           "name": "brian walshe",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "21h ago",
+          "started": "23h ago",
           "percentageIncrease": "800%"
         },
         {
@@ -21,24 +29,16 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "15h ago",
+          "started": "17h ago",
           "trendBreakdown": "derwin",
           "percentageIncrease": "700%"
-        },
-        {
-          "name": "insurance",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "12h ago",
-          "percentageIncrease": "600%"
         },
         {
           "name": "henry ruggs",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "9h ago",
+          "started": "11h ago",
           "percentageIncrease": "200%"
         }
       ]
