@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-12-16T20:04:54.138Z",
+  "timestamp": "2025-12-16T22:04:33.491Z",
   "states": [
     {
       "name": "Indiana",
@@ -12,10 +12,18 @@
           "name": "susie wiles",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "3h ago",
+          "searchVolume": "1K+",
+          "started": "5h ago",
           "trendBreakdown": "vanity",
           "percentageIncrease": "1000%"
+        },
+        {
+          "name": "bill hader",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "1h ago",
+          "percentageIncrease": "500%"
         }
       ]
     }

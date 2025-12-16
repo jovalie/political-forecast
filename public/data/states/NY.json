@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-12-16T20:04:54.138Z",
+  "timestamp": "2025-12-16T22:04:33.491Z",
   "states": [
     {
       "name": "New York",
@@ -12,16 +12,34 @@
           "name": "susie wiles",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "5K+",
-          "started": "6h ago",
+          "searchVolume": "10K+",
+          "started": "8h ago",
           "trendBreakdown": "vanity",
           "percentageIncrease": "1000%"
         },
         {
-          "name": "karoline leavitt",
+          "name": "kay flock",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "1K+",
+          "started": "3h ago",
+          "trendBreakdown": "kay",
+          "percentageIncrease": "1000%"
+        },
+        {
+          "name": "mit professor shot",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "2K+",
+          "started": "2h ago",
+          "trendBreakdown": "nuno",
+          "percentageIncrease": "1000%"
+        },
+        {
+          "name": "mustapha kharbouch",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "500+",
           "started": "1h ago",
           "percentageIncrease": "1000%"
         },
@@ -30,23 +48,15 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "2h ago",
+          "started": "4h ago",
           "percentageIncrease": "600%"
-        },
-        {
-          "name": "kay flock",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "1h ago",
-          "percentageIncrease": "200%"
         },
         {
           "name": "fbi show",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "18h ago",
+          "started": "20h ago",
           "percentageIncrease": "200%"
         },
         {
@@ -54,7 +64,7 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "16h ago",
+          "started": "18h ago",
           "percentageIncrease": "200%"
         },
         {
@@ -62,7 +72,7 @@
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "8h ago",
+          "started": "10h ago",
           "percentageIncrease": "100%"
         },
         {
@@ -70,7 +80,7 @@
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "21h ago",
+          "started": "23h ago",
           "percentageIncrease": "100%"
         },
         {
@@ -78,7 +88,7 @@
           "relevanceScore": 85,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "9h ago",
+          "started": "11h ago",
           "percentageIncrease": "50%"
         }
       ]

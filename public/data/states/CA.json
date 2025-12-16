@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-12-16T20:04:54.138Z",
+  "timestamp": "2025-12-16T22:04:33.491Z",
   "states": [
     {
       "name": "California",
@@ -12,35 +12,45 @@
           "name": "susie wiles",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "5K+",
-          "started": "5h ago",
+          "searchVolume": "10K+",
+          "started": "7h ago",
           "trendBreakdown": "vanity",
           "percentageIncrease": "1000%"
         },
         {
-          "name": "karoline leavitt",
+          "name": "nuno loureiro",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "2K+",
-          "started": "3h ago",
-          "percentageIncrease": "1000%"
+          "searchVolume": "1K+",
+          "started": "1h ago",
+          "trendBreakdown": "mit",
+          "percentageIncrease": "800%"
+        },
+        {
+          "name": "mustapha kharbouch",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "1h ago",
+          "trendBreakdown": "kash",
+          "percentageIncrease": "900%"
         },
         {
           "name": "pacific ocean",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "2h ago",
+          "started": "4h ago",
           "trendBreakdown": "eastern",
-          "percentageIncrease": "600%"
+          "percentageIncrease": "500%"
         },
         {
-          "name": "vanity fair karoline leavitt",
-          "relevanceScore": 95,
+          "name": "trump approval rating",
+          "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "40 minutes ago",
-          "percentageIncrease": "200%"
+          "started": "6h ago",
+          "percentageIncrease": "100%"
         }
       ]
     }
