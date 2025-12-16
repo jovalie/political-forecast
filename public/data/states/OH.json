@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-12-16T10:04:51.731Z",
+  "timestamp": "2025-12-16T12:04:44.806Z",
   "states": [
     {
       "name": "Ohio",
@@ -13,7 +13,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "17h ago",
+          "started": "19h ago",
           "percentageIncrease": "1000%"
         },
         {
@@ -21,7 +21,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "20h ago",
+          "started": "22h ago",
           "percentageIncrease": "1000%"
         },
         {
@@ -29,16 +29,8 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "2K+",
-          "started": "21h ago",
-          "trendBreakdown": "brown",
-          "percentageIncrease": "200%"
-        },
-        {
-          "name": "fox",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "500+",
           "started": "23h ago",
+          "trendBreakdown": "brown",
           "percentageIncrease": "200%"
         }
       ]
