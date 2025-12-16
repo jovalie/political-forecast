@@ -1,29 +1,37 @@
 {
-  "timestamp": "2025-12-16T04:14:45.655Z",
+  "timestamp": "2025-12-16T06:04:58.591Z",
   "states": [
     {
       "name": "Michigan",
       "code": "MI",
-      "topTopic": "ella cook",
+      "topTopic": "brown university shooting suspect",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
         {
-          "name": "ella cook",
+          "name": "brown university shooting suspect",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "1K+",
           "started": "16h ago",
-          "trendBreakdown": "brown",
-          "percentageIncrease": "600%"
+          "trendBreakdown": "ella",
+          "percentageIncrease": "500%"
         },
         {
           "name": "brian walshe",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "11h ago",
+          "started": "12h ago",
           "percentageIncrease": "900%"
+        },
+        {
+          "name": "joshua ronnebaum",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "4h ago",
+          "percentageIncrease": "400%"
         }
       ]
     }

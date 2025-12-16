@@ -1,36 +1,35 @@
 {
-  "timestamp": "2025-12-16T04:14:45.655Z",
+  "timestamp": "2025-12-16T06:04:58.591Z",
   "states": [
     {
       "name": "Illinois",
       "code": "IL",
-      "topTopic": "brian walshe",
+      "topTopic": "michelle obama",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
+        {
+          "name": "michelle obama",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "1h ago",
+          "percentageIncrease": "1000%"
+        },
         {
           "name": "brian walshe",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "11h ago",
+          "started": "13h ago",
           "percentageIncrease": "1000%"
-        },
-        {
-          "name": "brown university shooting suspect",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "2K+",
-          "started": "23h ago",
-          "trendBreakdown": "university",
-          "percentageIncrease": "300%"
         },
         {
           "name": "insurance",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "2h ago",
+          "started": "4h ago",
           "percentageIncrease": "400%"
         }
       ]
