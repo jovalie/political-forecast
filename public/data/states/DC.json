@@ -1,28 +1,28 @@
 {
-  "timestamp": "2025-12-16T12:04:44.806Z",
+  "timestamp": "2025-12-16T14:05:44.296Z",
   "states": [
     {
       "name": "District of Columbia",
       "code": "DC",
-      "topTopic": "brian walshe",
+      "topTopic": "alex karp",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
+        {
+          "name": "alex karp",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "50 minutes ago",
+          "percentageIncrease": "1000%"
+        },
         {
           "name": "brian walshe",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "19h ago",
+          "started": "21h ago",
           "percentageIncrease": "900%"
-        },
-        {
-          "name": "jimmy lai",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "23h ago",
-          "percentageIncrease": "300%"
         }
       ]
     }
