@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-12-16T02:36:22.705Z",
+  "timestamp": "2025-12-16T04:14:45.655Z",
   "states": [
     {
       "name": "South Carolina",
@@ -13,25 +13,24 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "9h ago",
+          "started": "11h ago",
           "percentageIncrease": "600%"
-        },
-        {
-          "name": "brown shooting suspect",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "23h ago",
-          "trendBreakdown": "ella",
-          "percentageIncrease": "200%"
         },
         {
           "name": "charleston county school district",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "16h ago",
+          "started": "17h ago",
           "percentageIncrease": "200%"
+        },
+        {
+          "name": "ella cook",
+          "relevanceScore": 90,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "7h ago",
+          "percentageIncrease": "100%"
         }
       ]
     }

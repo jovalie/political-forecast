@@ -1,36 +1,36 @@
 {
-  "timestamp": "2025-12-16T02:36:22.705Z",
+  "timestamp": "2025-12-16T04:14:45.655Z",
   "states": [
     {
       "name": "District of Columbia",
       "code": "DC",
-      "topTopic": "ella cook",
+      "topTopic": "brian walshe",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
-        {
-          "name": "ella cook",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "2K+",
-          "started": "23h ago",
-          "trendBreakdown": "brown",
-          "percentageIncrease": "700%"
-        },
         {
           "name": "brian walshe",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "9h ago",
+          "started": "11h ago",
           "percentageIncrease": "1000%"
+        },
+        {
+          "name": "brown university shooting suspect",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "1K+",
+          "started": "22h ago",
+          "trendBreakdown": "brown",
+          "percentageIncrease": "300%"
         },
         {
           "name": "jimmy lai",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "14h ago",
+          "started": "15h ago",
           "percentageIncrease": "300%"
         }
       ]
