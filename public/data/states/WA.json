@@ -1,27 +1,19 @@
 {
-  "timestamp": "2025-12-16T00:05:20.852Z",
+  "timestamp": "2025-12-16T02:36:22.705Z",
   "states": [
     {
       "name": "Washington",
       "code": "WA",
-      "topTopic": "king",
+      "topTopic": "brian walshe",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
         {
-          "name": "king",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "5K+",
-          "started": "3h ago",
-          "percentageIncrease": "800%"
-        },
-        {
           "name": "brian walshe",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "6h ago",
+          "searchVolume": "1K+",
+          "started": "9h ago",
           "percentageIncrease": "1000%"
         },
         {
@@ -29,9 +21,25 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "18h ago",
+          "started": "20h ago",
           "trendBreakdown": "ella",
           "percentageIncrease": "300%"
+        },
+        {
+          "name": "nbc news",
+          "relevanceScore": 90,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "14h ago",
+          "percentageIncrease": "100%"
+        },
+        {
+          "name": "maps",
+          "relevanceScore": 85,
+          "category": "Law and Government",
+          "searchVolume": "2K+",
+          "started": "5h ago",
+          "percentageIncrease": "50%"
         }
       ]
     }

@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-12-16T00:05:20.852Z",
+  "timestamp": "2025-12-16T02:36:22.705Z",
   "states": [
     {
       "name": "Maryland",
@@ -12,18 +12,26 @@
           "name": "brian walshe",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "7h ago",
+          "searchVolume": "1K+",
+          "started": "9h ago",
           "percentageIncrease": "1000%"
         },
         {
-          "name": "ella cook",
+          "name": "harford county public schools",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "1K+",
+          "started": "15h ago",
+          "percentageIncrease": "1000%"
+        },
+        {
+          "name": "brown university shooting suspect",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "2K+",
-          "started": "18h ago",
-          "trendBreakdown": "brown",
-          "percentageIncrease": "400%"
+          "started": "14h ago",
+          "trendBreakdown": "ella",
+          "percentageIncrease": "300%"
         }
       ]
     }

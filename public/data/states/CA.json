@@ -1,62 +1,53 @@
 {
-  "timestamp": "2025-12-16T00:05:20.852Z",
+  "timestamp": "2025-12-16T02:36:22.705Z",
   "states": [
     {
       "name": "California",
       "code": "CA",
-      "topTopic": "rob reiner",
+      "topTopic": "brian walshe",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
         {
-          "name": "rob reiner",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "1M+",
-          "started": "22h ago",
-          "trendBreakdown": "nick",
-          "percentageIncrease": "1000%"
-        },
-        {
-          "name": "ella cook",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "5K+",
-          "started": "21h ago",
-          "trendBreakdown": "brown",
-          "percentageIncrease": "500%"
-        },
-        {
           "name": "brian walshe",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "2K+",
-          "started": "7h ago",
+          "searchVolume": "5K+",
+          "started": "9h ago",
           "trendBreakdown": "ana",
           "percentageIncrease": "1000%"
+        },
+        {
+          "name": "brown university mass shooting",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "2K+",
+          "started": "12h ago",
+          "trendBreakdown": "brown",
+          "percentageIncrease": "200%"
+        },
+        {
+          "name": "ktla",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "2K+",
+          "started": "23h ago",
+          "percentageIncrease": "200%"
         },
         {
           "name": "car accident lawyer",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "9h ago",
+          "started": "11h ago",
           "percentageIncrease": "200%"
-        },
-        {
-          "name": "fentanyl",
-          "relevanceScore": 90,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "20 minutes ago",
-          "percentageIncrease": "100%"
         },
         {
           "name": "jimmy lai",
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "20h ago",
+          "started": "22h ago",
           "percentageIncrease": "100%"
         },
         {
@@ -64,7 +55,7 @@
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "20h ago",
+          "started": "22h ago",
           "percentageIncrease": "100%"
         },
         {
@@ -72,24 +63,24 @@
           "relevanceScore": 85,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "9h ago",
+          "started": "11h ago",
           "percentageIncrease": "75%"
+        },
+        {
+          "name": "ins",
+          "relevanceScore": 85,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "16h ago",
+          "percentageIncrease": "50%"
         },
         {
           "name": "bill of rights",
           "relevanceScore": 85,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "6h ago",
+          "started": "9h ago",
           "percentageIncrease": "75%"
-        },
-        {
-          "name": "foxnews",
-          "relevanceScore": 85,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "10h ago",
-          "percentageIncrease": "50%"
         }
       ]
     }

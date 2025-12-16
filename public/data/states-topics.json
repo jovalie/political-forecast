@@ -1,62 +1,53 @@
 {
-  "timestamp": "2025-12-16T00:05:20.852Z",
+  "timestamp": "2025-12-16T02:36:22.705Z",
   "states": [
     {
       "name": "California",
       "code": "CA",
-      "topTopic": "rob reiner",
+      "topTopic": "brian walshe",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
         {
-          "name": "rob reiner",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "1M+",
-          "started": "22h ago",
-          "trendBreakdown": "nick",
-          "percentageIncrease": "1000%"
-        },
-        {
-          "name": "ella cook",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "5K+",
-          "started": "21h ago",
-          "trendBreakdown": "brown",
-          "percentageIncrease": "500%"
-        },
-        {
           "name": "brian walshe",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "2K+",
-          "started": "7h ago",
+          "searchVolume": "5K+",
+          "started": "9h ago",
           "trendBreakdown": "ana",
           "percentageIncrease": "1000%"
+        },
+        {
+          "name": "brown university mass shooting",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "2K+",
+          "started": "12h ago",
+          "trendBreakdown": "brown",
+          "percentageIncrease": "200%"
+        },
+        {
+          "name": "ktla",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "2K+",
+          "started": "23h ago",
+          "percentageIncrease": "200%"
         },
         {
           "name": "car accident lawyer",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "9h ago",
+          "started": "11h ago",
           "percentageIncrease": "200%"
-        },
-        {
-          "name": "fentanyl",
-          "relevanceScore": 90,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "20 minutes ago",
-          "percentageIncrease": "100%"
         },
         {
           "name": "jimmy lai",
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "20h ago",
+          "started": "22h ago",
           "percentageIncrease": "100%"
         },
         {
@@ -64,7 +55,7 @@
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "20h ago",
+          "started": "22h ago",
           "percentageIncrease": "100%"
         },
         {
@@ -72,24 +63,24 @@
           "relevanceScore": 85,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "9h ago",
+          "started": "11h ago",
           "percentageIncrease": "75%"
+        },
+        {
+          "name": "ins",
+          "relevanceScore": 85,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "16h ago",
+          "percentageIncrease": "50%"
         },
         {
           "name": "bill of rights",
           "relevanceScore": 85,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "6h ago",
+          "started": "9h ago",
           "percentageIncrease": "75%"
-        },
-        {
-          "name": "foxnews",
-          "relevanceScore": 85,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "10h ago",
-          "percentageIncrease": "50%"
         }
       ]
     },
@@ -105,15 +96,15 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "7h ago",
+          "started": "9h ago",
           "percentageIncrease": "1000%"
         },
         {
           "name": "brown university shooting suspect",
           "relevanceScore": 95,
           "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "10h ago",
+          "searchVolume": "500+",
+          "started": "13h ago",
           "trendBreakdown": "ella",
           "percentageIncrease": "300%"
         },
@@ -122,7 +113,7 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "8h ago",
+          "started": "11h ago",
           "percentageIncrease": "300%"
         }
       ]
@@ -139,7 +130,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "2K+",
-          "started": "7h ago",
+          "started": "9h ago",
           "trendBreakdown": "ana",
           "percentageIncrease": "1000%"
         },
@@ -148,8 +139,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "19h ago",
-          "trendBreakdown": "jetblue",
+          "started": "22h ago",
           "percentageIncrease": "500%"
         },
         {
@@ -157,7 +147,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "11h ago",
+          "started": "13h ago",
           "percentageIncrease": "1000%"
         },
         {
@@ -165,7 +155,7 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "5K+",
-          "started": "21h ago",
+          "started": "23h ago",
           "trendBreakdown": "brown",
           "percentageIncrease": "400%"
         },
@@ -174,7 +164,7 @@
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "17h ago",
+          "started": "20h ago",
           "percentageIncrease": "100%"
         }
       ]
@@ -191,7 +181,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "2K+",
-          "started": "19h ago",
+          "started": "22h ago",
           "trendBreakdown": "brown",
           "percentageIncrease": "500%"
         },
@@ -200,15 +190,23 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "7h ago",
-          "percentageIncrease": "1000%"
+          "started": "9h ago",
+          "percentageIncrease": "900%"
+        },
+        {
+          "name": "derwin brown assassination",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "40 minutes ago",
+          "percentageIncrease": "400%"
         },
         {
           "name": "wsbtv",
           "relevanceScore": 85,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "12h ago",
+          "started": "14h ago",
           "percentageIncrease": "75%"
         }
       ]
@@ -216,26 +214,26 @@
     {
       "name": "Illinois",
       "code": "IL",
-      "topTopic": "brian walshe",
+      "topTopic": "ella cook",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
+        {
+          "name": "ella cook",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "5K+",
+          "started": "23h ago",
+          "trendBreakdown": "brown",
+          "percentageIncrease": "500%"
+        },
         {
           "name": "brian walshe",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "7h ago",
+          "started": "9h ago",
           "percentageIncrease": "1000%"
-        },
-        {
-          "name": "brown university shooting suspect",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "2K+",
-          "started": "19h ago",
-          "trendBreakdown": "ella",
-          "percentageIncrease": "400%"
         }
       ]
     },
@@ -251,7 +249,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "6h ago",
+          "started": "9h ago",
           "percentageIncrease": "700%"
         },
         {
@@ -259,8 +257,17 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "10h ago",
+          "started": "13h ago",
           "percentageIncrease": "800%"
+        },
+        {
+          "name": "brown shooting suspect",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "23h ago",
+          "trendBreakdown": "ella",
+          "percentageIncrease": "200%"
         }
       ]
     },
@@ -275,18 +282,26 @@
           "name": "brian walshe",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "7h ago",
+          "searchVolume": "1K+",
+          "started": "9h ago",
           "percentageIncrease": "1000%"
         },
         {
-          "name": "ella cook",
+          "name": "harford county public schools",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "1K+",
+          "started": "15h ago",
+          "percentageIncrease": "1000%"
+        },
+        {
+          "name": "brown university shooting suspect",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "2K+",
-          "started": "18h ago",
-          "trendBreakdown": "brown",
-          "percentageIncrease": "400%"
+          "started": "14h ago",
+          "trendBreakdown": "ella",
+          "percentageIncrease": "300%"
         }
       ]
     },
@@ -302,24 +317,24 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "6h ago",
+          "started": "9h ago",
           "percentageIncrease": "1000%"
         },
         {
-          "name": "brown university shooting suspect",
+          "name": "ella cook",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "10h ago",
-          "trendBreakdown": "ella",
-          "percentageIncrease": "500%"
+          "started": "14h ago",
+          "trendBreakdown": "brown",
+          "percentageIncrease": "600%"
         },
         {
           "name": "jetblue plane venezuela",
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "11h ago",
+          "started": "13h ago",
           "trendBreakdown": "jetblue",
           "percentageIncrease": "100%"
         }
@@ -328,6 +343,41 @@
     {
       "name": "Massachusetts",
       "code": "MA",
+      "topTopic": "brian walshe",
+      "category": "Law and Government",
+      "trendingScore": 100,
+      "topics": [
+        {
+          "name": "brian walshe",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "10K+",
+          "started": "9h ago",
+          "trendBreakdown": "ana",
+          "percentageIncrease": "1000%"
+        }
+      ]
+    },
+    {
+      "name": "Missouri",
+      "code": "MO",
+      "topTopic": "brian walshe",
+      "category": "Law and Government",
+      "trendingScore": 100,
+      "topics": [
+        {
+          "name": "brian walshe",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "9h ago",
+          "percentageIncrease": "900%"
+        }
+      ]
+    },
+    {
+      "name": "New Jersey",
+      "code": "NJ",
       "topTopic": "ella cook",
       "category": "Law and Government",
       "trendingScore": 100,
@@ -336,87 +386,25 @@
           "name": "ella cook",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "5K+",
-          "started": "22h ago",
-          "trendBreakdown": "brett",
-          "percentageIncrease": "1000%"
-        },
-        {
-          "name": "brian walshe",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "5K+",
-          "started": "7h ago",
-          "trendBreakdown": "ana",
-          "percentageIncrease": "1000%"
-        },
-        {
-          "name": "jetblue plane venezuela",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "15h ago",
-          "trendBreakdown": "jetblue",
-          "percentageIncrease": "200%"
-        }
-      ]
-    },
-    {
-      "name": "Missouri",
-      "code": "MO",
-      "topTopic": "benjamin erickson",
-      "category": "Law and Government",
-      "trendingScore": 100,
-      "topics": [
-        {
-          "name": "benjamin erickson",
-          "relevanceScore": 100,
-          "category": "Law and Government",
           "searchVolume": "2K+",
           "started": "23h ago",
-          "percentageIncrease": "1000%"
-        }
-      ]
-    },
-    {
-      "name": "New Jersey",
-      "code": "NJ",
-      "topTopic": "brian walshe",
-      "category": "Law and Government",
-      "trendingScore": 100,
-      "topics": [
+          "trendBreakdown": "brown",
+          "percentageIncrease": "500%"
+        },
         {
           "name": "brian walshe",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "7h ago",
+          "started": "9h ago",
           "percentageIncrease": "1000%"
-        },
-        {
-          "name": "brown university shooting suspect",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "5K+",
-          "started": "20h ago",
-          "trendBreakdown": "ella",
-          "percentageIncrease": "400%"
-        },
-        {
-          "name": "jetblue plane venezuela",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "18h ago",
-          "trendBreakdown": "jetblue",
-          "percentageIncrease": "300%"
         },
         {
           "name": "toms river schools",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "13h ago",
+          "started": "16h ago",
           "percentageIncrease": "200%"
         },
         {
@@ -424,7 +412,7 @@
           "relevanceScore": 85,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "13h ago",
+          "started": "15h ago",
           "percentageIncrease": "75%"
         }
       ]
@@ -432,33 +420,33 @@
     {
       "name": "North Carolina",
       "code": "NC",
-      "topTopic": "brian walshe",
+      "topTopic": "ella cook",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
-        {
-          "name": "brian walshe",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "7h ago",
-          "percentageIncrease": "1000%"
-        },
         {
           "name": "ella cook",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "2K+",
-          "started": "19h ago",
+          "started": "21h ago",
           "trendBreakdown": "brown",
           "percentageIncrease": "600%"
+        },
+        {
+          "name": "brian walshe",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "1K+",
+          "started": "9h ago",
+          "percentageIncrease": "1000%"
         },
         {
           "name": "sycamore brewing charlotte",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "6h ago",
+          "started": "9h ago",
           "trendBreakdown": "sycamore",
           "percentageIncrease": "1000%"
         },
@@ -467,33 +455,32 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "4h ago",
+          "started": "6h ago",
           "percentageIncrease": "800%"
+        },
+        {
+          "name": "wect",
+          "relevanceScore": 85,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "15h ago",
+          "percentageIncrease": "75%"
         }
       ]
     },
     {
       "name": "New York",
       "code": "NY",
-      "topTopic": "ella cook",
+      "topTopic": "brian walshe",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
-        {
-          "name": "ella cook",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "5K+",
-          "started": "22h ago",
-          "trendBreakdown": "brown",
-          "percentageIncrease": "1000%"
-        },
         {
           "name": "brian walshe",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "2K+",
-          "started": "7h ago",
+          "started": "9h ago",
           "percentageIncrease": "1000%"
         },
         {
@@ -501,8 +488,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "2K+",
-          "started": "19h ago",
-          "trendBreakdown": "jetblue",
+          "started": "22h ago",
           "percentageIncrease": "600%"
         },
         {
@@ -510,7 +496,7 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "20h ago",
+          "started": "22h ago",
           "percentageIncrease": "200%"
         },
         {
@@ -518,7 +504,7 @@
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "1h ago",
+          "started": "3h ago",
           "percentageIncrease": "100%"
         },
         {
@@ -526,7 +512,7 @@
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "19h ago",
+          "started": "22h ago",
           "percentageIncrease": "100%"
         }
       ]
@@ -543,32 +529,24 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "7h ago",
+          "started": "9h ago",
           "percentageIncrease": "1000%"
-        },
-        {
-          "name": "schools closed tomorrow",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "23h ago",
-          "percentageIncrease": "600%"
         },
         {
           "name": "conduent",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "10h ago",
+          "started": "13h ago",
           "percentageIncrease": "1000%"
         },
         {
-          "name": "brown university shooting suspect",
+          "name": "ella cook",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "2K+",
-          "started": "11h ago",
-          "trendBreakdown": "ella",
+          "started": "14h ago",
+          "trendBreakdown": "brown",
           "percentageIncrease": "200%"
         },
         {
@@ -576,17 +554,8 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "13h ago",
-          "trendBreakdown": "cleveland",
+          "started": "16h ago",
           "percentageIncrease": "200%"
-        },
-        {
-          "name": "msnbc",
-          "relevanceScore": 90,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "13h ago",
-          "percentageIncrease": "100%"
         }
       ]
     },
@@ -619,7 +588,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "2K+",
-          "started": "20h ago",
+          "started": "23h ago",
           "trendBreakdown": "brown",
           "percentageIncrease": "600%"
         },
@@ -628,16 +597,15 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "7h ago",
+          "started": "9h ago",
           "percentageIncrease": "1000%"
         },
         {
           "name": "jetblue plane venezuela",
           "relevanceScore": 95,
           "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "18h ago",
-          "trendBreakdown": "jetblue",
+          "searchVolume": "500+",
+          "started": "21h ago",
           "percentageIncrease": "300%"
         }
       ]
@@ -654,15 +622,16 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "6h ago",
-          "percentageIncrease": "700%"
+          "started": "9h ago",
+          "percentageIncrease": "600%"
         },
         {
-          "name": "ella cook",
+          "name": "brown shooting suspect",
           "relevanceScore": 95,
           "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "3h ago",
+          "searchVolume": "500+",
+          "started": "23h ago",
+          "trendBreakdown": "ella",
           "percentageIncrease": "200%"
         },
         {
@@ -670,7 +639,7 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "13h ago",
+          "started": "16h ago",
           "percentageIncrease": "200%"
         }
       ]
@@ -687,17 +656,17 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "6h ago",
+          "started": "9h ago",
           "percentageIncrease": "800%"
         },
         {
           "name": "ella cook",
-          "relevanceScore": 100,
+          "relevanceScore": 95,
           "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "17h ago",
+          "searchVolume": "2K+",
+          "started": "20h ago",
           "trendBreakdown": "brown",
-          "percentageIncrease": "500%"
+          "percentageIncrease": "400%"
         }
       ]
     },
@@ -713,7 +682,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "2K+",
-          "started": "7h ago",
+          "started": "9h ago",
           "percentageIncrease": "600%"
         },
         {
@@ -721,7 +690,7 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "5K+",
-          "started": "21h ago",
+          "started": "23h ago",
           "trendBreakdown": "brown",
           "percentageIncrease": "400%"
         },
@@ -729,9 +698,8 @@
           "name": "jetblue plane venezuela",
           "relevanceScore": 95,
           "category": "Law and Government",
-          "searchVolume": "2K+",
-          "started": "19h ago",
-          "trendBreakdown": "jetblue",
+          "searchVolume": "1K+",
+          "started": "22h ago",
           "percentageIncrease": "300%"
         },
         {
@@ -739,7 +707,7 @@
           "relevanceScore": 85,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "11h ago",
+          "started": "14h ago",
           "percentageIncrease": "50%"
         }
       ]
@@ -756,7 +724,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "2K+",
-          "started": "20h ago",
+          "started": "23h ago",
           "trendBreakdown": "brown",
           "percentageIncrease": "600%"
         },
@@ -765,25 +733,16 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "7h ago",
-          "percentageIncrease": "1000%"
+          "started": "9h ago",
+          "percentageIncrease": "900%"
         },
         {
-          "name": "jetblue plane venezuela",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "13h ago",
-          "trendBreakdown": "jetblue",
-          "percentageIncrease": "500%"
-        },
-        {
-          "name": "foxnews",
-          "relevanceScore": 85,
+          "name": "dallas",
+          "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "12h ago",
-          "percentageIncrease": "75%"
+          "started": "22h ago",
+          "percentageIncrease": "300%"
         }
       ]
     },
@@ -799,7 +758,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "2K+",
-          "started": "20h ago",
+          "started": "23h ago",
           "trendBreakdown": "brown",
           "percentageIncrease": "700%"
         },
@@ -808,24 +767,15 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "7h ago",
+          "started": "9h ago",
           "percentageIncrease": "1000%"
-        },
-        {
-          "name": "jetblue plane venezuela",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "18h ago",
-          "trendBreakdown": "jetblue",
-          "percentageIncrease": "300%"
         },
         {
           "name": "jimmy lai",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "11h ago",
+          "started": "14h ago",
           "percentageIncrease": "300%"
         }
       ]
@@ -867,24 +817,16 @@
     {
       "name": "Washington",
       "code": "WA",
-      "topTopic": "king",
+      "topTopic": "brian walshe",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
         {
-          "name": "king",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "5K+",
-          "started": "3h ago",
-          "percentageIncrease": "800%"
-        },
-        {
           "name": "brian walshe",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "6h ago",
+          "searchVolume": "1K+",
+          "started": "9h ago",
           "percentageIncrease": "1000%"
         },
         {
@@ -892,42 +834,58 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "18h ago",
+          "started": "20h ago",
           "trendBreakdown": "ella",
           "percentageIncrease": "300%"
+        },
+        {
+          "name": "nbc news",
+          "relevanceScore": 90,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "14h ago",
+          "percentageIncrease": "100%"
+        },
+        {
+          "name": "maps",
+          "relevanceScore": 85,
+          "category": "Law and Government",
+          "searchVolume": "2K+",
+          "started": "5h ago",
+          "percentageIncrease": "50%"
         }
       ]
     },
     {
       "name": "Alabama",
       "code": "AL",
-      "topTopic": "ella cook",
+      "topTopic": "conduent",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
-        {
-          "name": "ella cook",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "2K+",
-          "started": "23h ago",
-          "trendBreakdown": "brown",
-          "percentageIncrease": "800%"
-        },
         {
           "name": "conduent",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "10h ago",
+          "started": "12h ago",
           "percentageIncrease": "1000%"
+        },
+        {
+          "name": "brown shooting suspect",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "1K+",
+          "started": "23h ago",
+          "trendBreakdown": "brown",
+          "percentageIncrease": "400%"
         },
         {
           "name": "waff",
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "11h ago",
+          "started": "14h ago",
           "percentageIncrease": "100%"
         }
       ]
@@ -978,15 +936,15 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "6h ago",
+          "started": "9h ago",
           "percentageIncrease": "1000%"
         },
         {
-          "name": "brown university shooting suspect",
+          "name": "brown shooting suspect",
           "relevanceScore": 95,
           "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "11h ago",
+          "searchVolume": "2K+",
+          "started": "23h ago",
           "trendBreakdown": "brown",
           "percentageIncrease": "300%"
         }
@@ -1038,8 +996,17 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "6h ago",
+          "started": "9h ago",
           "percentageIncrease": "1000%"
+        },
+        {
+          "name": "brown shooting suspect",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "1K+",
+          "started": "23h ago",
+          "trendBreakdown": "brown",
+          "percentageIncrease": "300%"
         }
       ]
     },
@@ -1090,7 +1057,7 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "12h ago",
+          "started": "14h ago",
           "percentageIncrease": "300%"
         }
       ]
@@ -1098,26 +1065,26 @@
     {
       "name": "Connecticut",
       "code": "CT",
-      "topTopic": "ella cook",
+      "topTopic": "brian walshe",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
-        {
-          "name": "ella cook",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "2K+",
-          "started": "20h ago",
-          "trendBreakdown": "brown",
-          "percentageIncrease": "600%"
-        },
         {
           "name": "brian walshe",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "6h ago",
+          "started": "9h ago",
           "percentageIncrease": "1000%"
+        },
+        {
+          "name": "brown university suspect",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "2K+",
+          "started": "22h ago",
+          "trendBreakdown": "ella",
+          "percentageIncrease": "200%"
         }
       ]
     },
@@ -1133,7 +1100,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "5h ago",
+          "started": "7h ago",
           "percentageIncrease": "1000%"
         }
       ]
@@ -1279,25 +1246,17 @@
     {
       "name": "Maine",
       "code": "ME",
-      "topTopic": "benjamin erickson",
+      "topTopic": "brown shooting suspect",
       "category": "Law and Government",
-      "trendingScore": 100,
+      "trendingScore": 95,
       "topics": [
         {
-          "name": "benjamin erickson",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "23h ago",
-          "percentageIncrease": "1000%"
-        },
-        {
-          "name": "fox news",
-          "relevanceScore": 85,
+          "name": "brown shooting suspect",
+          "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "12h ago",
-          "percentageIncrease": "75%"
+          "started": "15h ago",
+          "percentageIncrease": "200%"
         }
       ]
     },
@@ -1321,18 +1280,18 @@
     {
       "name": "Rhode Island",
       "code": "RI",
-      "topTopic": "ella cook",
+      "topTopic": "brown university shooting suspect",
       "category": "Law and Government",
-      "trendingScore": 100,
+      "trendingScore": 95,
       "topics": [
         {
-          "name": "ella cook",
-          "relevanceScore": 100,
+          "name": "brown university shooting suspect",
+          "relevanceScore": 95,
           "category": "Law and Government",
-          "searchVolume": "2K+",
+          "searchVolume": "1K+",
           "started": "22h ago",
-          "trendBreakdown": "brown",
-          "percentageIncrease": "1000%"
+          "trendBreakdown": "providence",
+          "percentageIncrease": "200%"
         }
       ]
     },

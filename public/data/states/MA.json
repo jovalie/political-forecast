@@ -1,39 +1,21 @@
 {
-  "timestamp": "2025-12-16T00:05:20.852Z",
+  "timestamp": "2025-12-16T02:36:22.705Z",
   "states": [
     {
       "name": "Massachusetts",
       "code": "MA",
-      "topTopic": "ella cook",
+      "topTopic": "brian walshe",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
         {
-          "name": "ella cook",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "5K+",
-          "started": "22h ago",
-          "trendBreakdown": "brett",
-          "percentageIncrease": "1000%"
-        },
-        {
           "name": "brian walshe",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "5K+",
-          "started": "7h ago",
+          "searchVolume": "10K+",
+          "started": "9h ago",
           "trendBreakdown": "ana",
           "percentageIncrease": "1000%"
-        },
-        {
-          "name": "jetblue plane venezuela",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "15h ago",
-          "trendBreakdown": "jetblue",
-          "percentageIncrease": "200%"
         }
       ]
     }
