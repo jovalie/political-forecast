@@ -1,19 +1,20 @@
 {
-  "timestamp": "2025-12-16T16:04:48.312Z",
+  "timestamp": "2025-12-16T18:04:55.164Z",
   "states": [
     {
       "name": "Maryland",
       "code": "MD",
-      "topTopic": "brian walshe",
+      "topTopic": "susie wiles",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
         {
-          "name": "brian walshe",
+          "name": "susie wiles",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "23h ago",
+          "started": "3h ago",
+          "trendBreakdown": "vanity",
           "percentageIncrease": "1000%"
         }
       ]

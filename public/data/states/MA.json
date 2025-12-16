@@ -1,20 +1,28 @@
 {
-  "timestamp": "2025-12-16T16:04:48.312Z",
+  "timestamp": "2025-12-16T18:04:55.164Z",
   "states": [
     {
       "name": "Massachusetts",
       "code": "MA",
-      "topTopic": "brian walshe",
+      "topTopic": "susie wiles",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
         {
-          "name": "brian walshe",
+          "name": "susie wiles",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "10K+",
-          "started": "23h ago",
-          "trendBreakdown": "ana",
+          "searchVolume": "2K+",
+          "started": "3h ago",
+          "trendBreakdown": "vanity",
+          "percentageIncrease": "1000%"
+        },
+        {
+          "name": "nuno loureiro",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "1h ago",
           "percentageIncrease": "1000%"
         },
         {
@@ -22,7 +30,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "17h ago",
+          "started": "19h ago",
           "percentageIncrease": "700%"
         }
       ]
