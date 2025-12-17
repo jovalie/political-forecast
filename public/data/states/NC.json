@@ -1,36 +1,44 @@
 {
-  "timestamp": "2025-12-17T16:05:07.196Z",
+  "timestamp": "2025-12-17T18:04:47.126Z",
   "states": [
     {
       "name": "North Carolina",
       "code": "NC",
-      "topTopic": "vanity fair",
+      "topTopic": "bill hader",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
-        {
-          "name": "vanity fair",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "2K+",
-          "started": "22h ago",
-          "trendBreakdown": "pat",
-          "percentageIncrease": "800%"
-        },
         {
           "name": "bill hader",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "19h ago",
+          "started": "21h ago",
           "percentageIncrease": "500%"
+        },
+        {
+          "name": "mustapha kharbouch",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "1K+",
+          "started": "19h ago",
+          "percentageIncrease": "600%"
+        },
+        {
+          "name": "lumbee federal recognition",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "1K+",
+          "started": "20h ago",
+          "trendBreakdown": "lumbee",
+          "percentageIncrease": "800%"
         },
         {
           "name": "nuno loureiro",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "16h ago",
+          "started": "18h ago",
           "trendBreakdown": "mit",
           "percentageIncrease": "500%"
         },
@@ -39,42 +47,33 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "15h ago",
-          "percentageIncrease": "500%"
-        },
-        {
-          "name": "mustapha kharbouch",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "1K+",
           "started": "17h ago",
-          "percentageIncrease": "600%"
+          "percentageIncrease": "500%"
         },
         {
           "name": "kay flock",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "17h ago",
+          "started": "19h ago",
           "trendBreakdown": "kay",
           "percentageIncrease": "500%"
-        },
-        {
-          "name": "lumbee federal recognition",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "18h ago",
-          "trendBreakdown": "lumbee",
-          "percentageIncrease": "700%"
         },
         {
           "name": "venezuela",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "14h ago",
+          "started": "16h ago",
           "percentageIncrease": "200%"
+        },
+        {
+          "name": "pat summerall",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "19h ago",
+          "percentageIncrease": "300%"
         }
       ]
     }

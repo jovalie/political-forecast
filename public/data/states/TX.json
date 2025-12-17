@@ -1,45 +1,36 @@
 {
-  "timestamp": "2025-12-17T16:05:07.196Z",
+  "timestamp": "2025-12-17T18:04:47.126Z",
   "states": [
     {
       "name": "Texas",
       "code": "TX",
-      "topTopic": "vanity fair",
+      "topTopic": "nuno loureiro",
       "category": "Law and Government",
-      "trendingScore": 100,
+      "trendingScore": 95,
       "topics": [
-        {
-          "name": "vanity fair",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "5K+",
-          "started": "23h ago",
-          "trendBreakdown": "pat",
-          "percentageIncrease": "600%"
-        },
-        {
-          "name": "mustapha kharbouch",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "2K+",
-          "started": "18h ago",
-          "percentageIncrease": "500%"
-        },
         {
           "name": "nuno loureiro",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "2K+",
-          "started": "18h ago",
+          "started": "20h ago",
           "trendBreakdown": "mit",
+          "percentageIncrease": "400%"
+        },
+        {
+          "name": "mustapha kharbouch",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "2K+",
+          "started": "20h ago",
           "percentageIncrease": "400%"
         },
         {
           "name": "debra newton",
           "relevanceScore": 95,
           "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "11h ago",
+          "searchVolume": "2K+",
+          "started": "13h ago",
           "trendBreakdown": "debra",
           "percentageIncrease": "300%"
         },
@@ -48,15 +39,23 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "17h ago",
+          "started": "19h ago",
           "percentageIncrease": "200%"
+        },
+        {
+          "name": "miriam adelson",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "2h ago",
+          "percentageIncrease": "300%"
         },
         {
           "name": "kay flock",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "18h ago",
+          "started": "20h ago",
           "percentageIncrease": "300%"
         },
         {
@@ -64,25 +63,33 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "4h ago",
+          "started": "6h ago",
           "percentageIncrease": "300%"
         },
         {
-          "name": "pacific ocean",
+          "name": "eastern pacific ocean",
           "relevanceScore": 95,
           "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "22h ago",
-          "trendBreakdown": "eastern",
-          "percentageIncrease": "400%"
+          "searchVolume": "100+",
+          "started": "23h ago",
+          "percentageIncrease": "300%"
         },
         {
           "name": "venezuela",
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "15h ago",
+          "started": "17h ago",
           "trendBreakdown": "pricesoil",
+          "percentageIncrease": "100%"
+        },
+        {
+          "name": "susie wiles vanity fair",
+          "relevanceScore": 90,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "23h ago",
+          "trendBreakdown": "vanity",
           "percentageIncrease": "100%"
         }
       ]

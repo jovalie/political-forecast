@@ -1,37 +1,19 @@
 {
-  "timestamp": "2025-12-17T16:05:07.196Z",
+  "timestamp": "2025-12-17T18:04:47.126Z",
   "states": [
     {
       "name": "Florida",
       "code": "FL",
-      "topTopic": "vanity fair",
+      "topTopic": "debra newton",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
-        {
-          "name": "vanity fair",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "5K+",
-          "started": "23h ago",
-          "trendBreakdown": "susie",
-          "percentageIncrease": "900%"
-        },
-        {
-          "name": "nuno loureiro",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "2K+",
-          "started": "18h ago",
-          "trendBreakdown": "mit",
-          "percentageIncrease": "800%"
-        },
         {
           "name": "debra newton",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "2K+",
-          "started": "14h ago",
+          "started": "16h ago",
           "trendBreakdown": "debra",
           "percentageIncrease": "1000%"
         },
@@ -40,25 +22,41 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "2K+",
-          "started": "18h ago",
-          "trendBreakdown": "airwaysbreeze",
-          "percentageIncrease": "800%"
+          "started": "20h ago",
+          "percentageIncrease": "700%"
+        },
+        {
+          "name": "nuno loureiro",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "5K+",
+          "started": "20h ago",
+          "trendBreakdown": "mit",
+          "percentageIncrease": "700%"
         },
         {
           "name": "kay flock",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "2K+",
-          "started": "18h ago",
+          "started": "20h ago",
           "percentageIncrease": "500%"
         },
         {
           "name": "christina chambers",
-          "relevanceScore": 100,
+          "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "17h ago",
-          "percentageIncrease": "500%"
+          "started": "19h ago",
+          "percentageIncrease": "400%"
+        },
+        {
+          "name": "trump",
+          "relevanceScore": 85,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "8h ago",
+          "percentageIncrease": "75%"
         }
       ]
     }
