@@ -1,28 +1,28 @@
 {
-  "timestamp": "2025-12-17T14:05:11.477Z",
+  "timestamp": "2025-12-17T16:05:07.196Z",
   "states": [
     {
       "name": "Texas",
       "code": "TX",
-      "topTopic": "susie wiles",
+      "topTopic": "vanity fair",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
         {
-          "name": "susie wiles",
+          "name": "vanity fair",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "10K+",
+          "searchVolume": "5K+",
           "started": "23h ago",
-          "trendBreakdown": "vanity",
-          "percentageIncrease": "900%"
+          "trendBreakdown": "pat",
+          "percentageIncrease": "600%"
         },
         {
           "name": "mustapha kharbouch",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "16h ago",
+          "searchVolume": "2K+",
+          "started": "18h ago",
           "percentageIncrease": "500%"
         },
         {
@@ -30,7 +30,7 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "2K+",
-          "started": "16h ago",
+          "started": "18h ago",
           "trendBreakdown": "mit",
           "percentageIncrease": "400%"
         },
@@ -39,7 +39,8 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "9h ago",
+          "started": "11h ago",
+          "trendBreakdown": "debra",
           "percentageIncrease": "300%"
         },
         {
@@ -47,7 +48,7 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "15h ago",
+          "started": "17h ago",
           "percentageIncrease": "200%"
         },
         {
@@ -55,7 +56,7 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "16h ago",
+          "started": "18h ago",
           "percentageIncrease": "300%"
         },
         {
@@ -63,7 +64,7 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "2h ago",
+          "started": "4h ago",
           "percentageIncrease": "300%"
         },
         {
@@ -71,7 +72,7 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "20h ago",
+          "started": "22h ago",
           "trendBreakdown": "eastern",
           "percentageIncrease": "400%"
         },
@@ -80,7 +81,7 @@
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "13h ago",
+          "started": "15h ago",
           "trendBreakdown": "pricesoil",
           "percentageIncrease": "100%"
         }

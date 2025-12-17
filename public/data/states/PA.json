@@ -1,20 +1,20 @@
 {
-  "timestamp": "2025-12-17T14:05:11.477Z",
+  "timestamp": "2025-12-17T16:05:07.196Z",
   "states": [
     {
       "name": "Pennsylvania",
       "code": "PA",
-      "topTopic": "susie wiles",
+      "topTopic": "vanity fair",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
         {
-          "name": "susie wiles",
+          "name": "vanity fair",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "5K+",
-          "started": "23h ago",
-          "trendBreakdown": "vanity",
+          "searchVolume": "2K+",
+          "started": "22h ago",
+          "trendBreakdown": "pat",
           "percentageIncrease": "1000%"
         },
         {
@@ -22,26 +22,34 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "2K+",
-          "started": "16h ago",
+          "started": "18h ago",
           "trendBreakdown": "mit",
-          "percentageIncrease": "800%"
+          "percentageIncrease": "700%"
         },
         {
           "name": "mustapha kharbouch",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "16h ago",
-          "percentageIncrease": "900%"
+          "started": "18h ago",
+          "percentageIncrease": "800%"
         },
         {
           "name": "kay flock",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "16h ago",
+          "started": "18h ago",
           "trendBreakdown": "kay",
-          "percentageIncrease": "600%"
+          "percentageIncrease": "500%"
+        },
+        {
+          "name": "christina chambers",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "13h ago",
+          "percentageIncrease": "300%"
         }
       ]
     }

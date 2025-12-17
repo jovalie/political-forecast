@@ -1,37 +1,36 @@
 {
-  "timestamp": "2025-12-17T14:05:11.477Z",
+  "timestamp": "2025-12-17T16:05:07.196Z",
   "states": [
     {
       "name": "Connecticut",
       "code": "CT",
-      "topTopic": "susie wiles",
+      "topTopic": "mustapha kharbouch",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
         {
-          "name": "susie wiles",
+          "name": "mustapha kharbouch",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "2K+",
-          "started": "22h ago",
-          "trendBreakdown": "vanity",
-          "percentageIncrease": "900%"
+          "searchVolume": "1K+",
+          "started": "17h ago",
+          "percentageIncrease": "500%"
         },
         {
           "name": "mit professor shot",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "16h ago",
+          "searchVolume": "2K+",
+          "started": "18h ago",
           "trendBreakdown": "nuno",
-          "percentageIncrease": "1000%"
+          "percentageIncrease": "900%"
         },
         {
-          "name": "mustapha kharbouch",
+          "name": "vanity fair",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "15h ago",
+          "started": "19h ago",
           "percentageIncrease": "500%"
         },
         {
@@ -39,7 +38,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "14h ago",
+          "started": "16h ago",
           "percentageIncrease": "700%"
         }
       ]

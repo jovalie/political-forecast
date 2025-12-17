@@ -1,53 +1,61 @@
 {
-  "timestamp": "2025-12-17T14:05:11.477Z",
+  "timestamp": "2025-12-17T16:05:07.196Z",
   "states": [
     {
       "name": "North Carolina",
       "code": "NC",
-      "topTopic": "susie wiles",
+      "topTopic": "vanity fair",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
         {
-          "name": "susie wiles",
+          "name": "vanity fair",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "5K+",
+          "searchVolume": "2K+",
           "started": "22h ago",
-          "trendBreakdown": "vanity",
-          "percentageIncrease": "1000%"
+          "trendBreakdown": "pat",
+          "percentageIncrease": "800%"
         },
         {
           "name": "bill hader",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "17h ago",
+          "started": "19h ago",
           "percentageIncrease": "500%"
-        },
-        {
-          "name": "mustapha kharbouch",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "15h ago",
-          "percentageIncrease": "600%"
         },
         {
           "name": "nuno loureiro",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "14h ago",
+          "started": "16h ago",
           "trendBreakdown": "mit",
           "percentageIncrease": "500%"
+        },
+        {
+          "name": "christina chambers",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "15h ago",
+          "percentageIncrease": "500%"
+        },
+        {
+          "name": "mustapha kharbouch",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "1K+",
+          "started": "17h ago",
+          "percentageIncrease": "600%"
         },
         {
           "name": "kay flock",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "15h ago",
+          "started": "17h ago",
           "trendBreakdown": "kay",
           "percentageIncrease": "500%"
         },
@@ -56,24 +64,16 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "16h ago",
+          "started": "18h ago",
           "trendBreakdown": "lumbee",
           "percentageIncrease": "700%"
-        },
-        {
-          "name": "christina chambers",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "13h ago",
-          "percentageIncrease": "400%"
         },
         {
           "name": "venezuela",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "12h ago",
+          "started": "14h ago",
           "percentageIncrease": "200%"
         }
       ]
