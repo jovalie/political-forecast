@@ -1,20 +1,21 @@
 {
-  "timestamp": "2025-12-16T22:04:33.491Z",
+  "timestamp": "2025-12-17T00:05:05.531Z",
   "states": [
     {
       "name": "Utah",
       "code": "UT",
-      "topTopic": "benjamin erickson",
+      "topTopic": "karoline leavitt",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
         {
-          "name": "benjamin erickson",
+          "name": "karoline leavitt",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "23h ago",
-          "percentageIncrease": "1000%"
+          "searchVolume": "100+",
+          "started": "2h ago",
+          "trendBreakdown": "susie",
+          "percentageIncrease": "700%"
         }
       ]
     }

@@ -1,55 +1,62 @@
 {
-  "timestamp": "2025-12-16T22:04:33.491Z",
+  "timestamp": "2025-12-17T00:05:05.531Z",
   "states": [
     {
       "name": "California",
       "code": "CA",
-      "topTopic": "susie wiles",
+      "topTopic": "nuno loureiro",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
         {
-          "name": "susie wiles",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "10K+",
-          "started": "7h ago",
-          "trendBreakdown": "vanity",
-          "percentageIncrease": "1000%"
-        },
-        {
           "name": "nuno loureiro",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "1h ago",
+          "searchVolume": "2K+",
+          "started": "3h ago",
           "trendBreakdown": "mit",
-          "percentageIncrease": "800%"
+          "percentageIncrease": "1000%"
         },
         {
           "name": "mustapha kharbouch",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "1h ago",
+          "searchVolume": "1K+",
+          "started": "3h ago",
           "trendBreakdown": "kash",
-          "percentageIncrease": "900%"
+          "percentageIncrease": "1000%"
         },
         {
           "name": "pacific ocean",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "4h ago",
+          "started": "6h ago",
           "trendBreakdown": "eastern",
           "percentageIncrease": "500%"
+        },
+        {
+          "name": "christina chambers",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "30 minutes ago",
+          "percentageIncrease": "200%"
+        },
+        {
+          "name": "laura loomer",
+          "relevanceScore": 90,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "2h ago",
+          "percentageIncrease": "100%"
         },
         {
           "name": "trump approval rating",
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "6h ago",
+          "started": "8h ago",
           "percentageIncrease": "100%"
         }
       ]

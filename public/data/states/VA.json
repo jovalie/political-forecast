@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-12-16T22:04:33.491Z",
+  "timestamp": "2025-12-17T00:05:05.531Z",
   "states": [
     {
       "name": "Virginia",
@@ -12,9 +12,17 @@
           "name": "susie wiles",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "2K+",
-          "started": "7h ago",
+          "searchVolume": "5K+",
+          "started": "9h ago",
           "trendBreakdown": "vanity",
+          "percentageIncrease": "1000%"
+        },
+        {
+          "name": "kay flock",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "1h ago",
           "percentageIncrease": "1000%"
         }
       ]
