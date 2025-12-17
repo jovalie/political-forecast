@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-12-17T02:34:41.069Z",
+  "timestamp": "2025-12-17T04:11:53.556Z",
   "states": [
     {
       "name": "Michigan",
@@ -12,25 +12,42 @@
           "name": "susie wiles",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "2K+",
-          "started": "11h ago",
+          "searchVolume": "5K+",
+          "started": "12h ago",
           "trendBreakdown": "karoline",
           "percentageIncrease": "1000%"
+        },
+        {
+          "name": "bill hader",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "7h ago",
+          "percentageIncrease": "500%"
+        },
+        {
+          "name": "nuno loureiro",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "3h ago",
+          "trendBreakdown": "mit",
+          "percentageIncrease": "700%"
         },
         {
           "name": "kay flock",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "1h ago",
-          "percentageIncrease": "600%"
+          "started": "3h ago",
+          "percentageIncrease": "500%"
         },
         {
           "name": "venezuela",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "1h ago",
+          "started": "3h ago",
           "trendBreakdown": "breaking",
           "percentageIncrease": "700%"
         },
@@ -39,7 +56,7 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "4h ago",
+          "started": "6h ago",
           "percentageIncrease": "300%"
         }
       ]
