@@ -1,50 +1,56 @@
 {
-  "timestamp": "2025-12-17T08:05:06.512Z",
+  "timestamp": "2025-12-17T10:04:51.375Z",
   "states": [
     {
       "name": "Texas",
       "code": "TX",
-      "topTopic": "susie wiles",
+      "topTopic": "mustapha kharbouch",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
         {
-          "name": "susie wiles",
+          "name": "mustapha kharbouch",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "10K+",
-          "started": "17h ago",
-          "trendBreakdown": "vanity",
-          "percentageIncrease": "1000%"
+          "searchVolume": "1K+",
+          "started": "12h ago",
+          "percentageIncrease": "600%"
         },
         {
           "name": "nuno loureiro",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "2K+",
-          "started": "10h ago",
+          "started": "12h ago",
           "trendBreakdown": "mit",
           "percentageIncrease": "500%"
         },
         {
-          "name": "mustapha kharbouch",
-          "relevanceScore": 100,
+          "name": "christina chambers",
+          "relevanceScore": 95,
           "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "10h ago",
-          "trendBreakdown": "kash",
-          "percentageIncrease": "600%"
+          "searchVolume": "500+",
+          "started": "11h ago",
+          "percentageIncrease": "200%"
+        },
+        {
+          "name": "debra newton",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "5h ago",
+          "percentageIncrease": "300%"
         },
         {
           "name": "kay flock",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "10h ago",
-          "percentageIncrease": "400%"
+          "started": "12h ago",
+          "percentageIncrease": "300%"
         },
         {
-          "name": "christina chambers",
+          "name": "venezuela",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "500+",
@@ -52,12 +58,13 @@
           "percentageIncrease": "200%"
         },
         {
-          "name": "venezuela",
+          "name": "pacific ocean",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "7h ago",
-          "percentageIncrease": "200%"
+          "started": "16h ago",
+          "trendBreakdown": "eastern",
+          "percentageIncrease": "400%"
         }
       ]
     }

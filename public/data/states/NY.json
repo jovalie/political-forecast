@@ -1,29 +1,29 @@
 {
-  "timestamp": "2025-12-17T08:05:06.512Z",
+  "timestamp": "2025-12-17T10:04:51.375Z",
   "states": [
     {
       "name": "New York",
       "code": "NY",
-      "topTopic": "susie wiles",
+      "topTopic": "vanity fair",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
         {
-          "name": "susie wiles",
+          "name": "vanity fair",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "10K+",
-          "started": "18h ago",
-          "trendBreakdown": "vanity",
+          "started": "19h ago",
+          "trendBreakdown": "susie",
           "percentageIncrease": "1000%"
         },
         {
-          "name": "mit professor shot",
+          "name": "nuno loureiro",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "10K+",
-          "started": "12h ago",
-          "trendBreakdown": "nuno",
+          "started": "13h ago",
+          "trendBreakdown": "mit",
           "percentageIncrease": "1000%"
         },
         {
@@ -31,7 +31,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "5K+",
-          "started": "13h ago",
+          "started": "15h ago",
           "trendBreakdown": "kay",
           "percentageIncrease": "1000%"
         },
@@ -40,7 +40,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "2K+",
-          "started": "11h ago",
+          "started": "13h ago",
           "trendBreakdown": "kash",
           "percentageIncrease": "1000%"
         },
@@ -49,23 +49,15 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "14h ago",
+          "started": "16h ago",
           "percentageIncrease": "600%"
-        },
-        {
-          "name": "debra newton",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "2h ago",
-          "percentageIncrease": "400%"
         },
         {
           "name": "venezuela",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "6h ago",
+          "started": "8h ago",
           "trendBreakdown": "trump",
           "percentageIncrease": "200%"
         },
@@ -74,7 +66,7 @@
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "20h ago",
+          "started": "22h ago",
           "percentageIncrease": "100%"
         },
         {
@@ -82,7 +74,7 @@
           "relevanceScore": 85,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "21h ago",
+          "started": "23h ago",
           "percentageIncrease": "50%"
         }
       ]

@@ -1,61 +1,61 @@
 {
-  "timestamp": "2025-12-17T08:05:06.512Z",
+  "timestamp": "2025-12-17T10:04:51.375Z",
   "states": [
     {
       "name": "Florida",
       "code": "FL",
-      "topTopic": "susie wiles",
+      "topTopic": "vanity fair",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
         {
-          "name": "susie wiles",
+          "name": "vanity fair",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "10K+",
           "started": "17h ago",
-          "trendBreakdown": "vanity",
-          "percentageIncrease": "1000%"
-        },
-        {
-          "name": "nuno loureiro",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "2K+",
-          "started": "10h ago",
-          "trendBreakdown": "mit",
-          "percentageIncrease": "900%"
-        },
-        {
-          "name": "kay flock",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "10h ago",
+          "trendBreakdown": "susie",
           "percentageIncrease": "800%"
         },
         {
           "name": "debra newton",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "6h ago",
+          "searchVolume": "1K+",
+          "started": "8h ago",
           "percentageIncrease": "700%"
+        },
+        {
+          "name": "kay flock",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "1K+",
+          "started": "12h ago",
+          "percentageIncrease": "700%"
+        },
+        {
+          "name": "nuno loureiro",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "2K+",
+          "started": "12h ago",
+          "trendBreakdown": "mit",
+          "percentageIncrease": "800%"
         },
         {
           "name": "mustapha kharbouch",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "10h ago",
-          "percentageIncrease": "900%"
+          "started": "12h ago",
+          "percentageIncrease": "800%"
         },
         {
           "name": "christina chambers",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "9h ago",
+          "started": "11h ago",
           "percentageIncrease": "500%"
         }
       ]
