@@ -1,69 +1,44 @@
 {
-  "timestamp": "2025-12-17T18:04:47.126Z",
+  "timestamp": "2025-12-17T20:05:19.423Z",
   "states": [
     {
       "name": "Washington",
       "code": "WA",
-      "topTopic": "vanity fair",
+      "topTopic": "nuno loureiro",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
-        {
-          "name": "vanity fair",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "2K+",
-          "started": "23h ago",
-          "trendBreakdown": "vanity",
-          "percentageIncrease": "1000%"
-        },
         {
           "name": "nuno loureiro",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "18h ago",
+          "started": "20h ago",
           "trendBreakdown": "mit",
-          "percentageIncrease": "500%"
-        },
-        {
-          "name": "dan newhouse",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "1h ago",
           "percentageIncrease": "600%"
-        },
-        {
-          "name": "kgw",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "3h ago",
-          "percentageIncrease": "500%"
         },
         {
           "name": "bill hader",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "21h ago",
+          "started": "23h ago",
           "percentageIncrease": "300%"
         },
         {
-          "name": "the columbian",
+          "name": "dan newhouse",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "4h ago",
-          "percentageIncrease": "200%"
+          "started": "3h ago",
+          "percentageIncrease": "400%"
         },
         {
           "name": "uss nimitz",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "17h ago",
+          "started": "19h ago",
           "percentageIncrease": "300%"
         }
       ]

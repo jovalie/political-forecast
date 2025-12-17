@@ -1,27 +1,19 @@
 {
-  "timestamp": "2025-12-17T18:04:47.126Z",
+  "timestamp": "2025-12-17T20:05:19.423Z",
   "states": [
     {
       "name": "Minnesota",
       "code": "MN",
-      "topTopic": "vanity fair",
+      "topTopic": "bill hader",
       "category": "Law and Government",
-      "trendingScore": 100,
+      "trendingScore": 95,
       "topics": [
-        {
-          "name": "vanity fair",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "22h ago",
-          "percentageIncrease": "900%"
-        },
         {
           "name": "bill hader",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "20h ago",
+          "started": "22h ago",
           "percentageIncrease": "300%"
         }
       ]

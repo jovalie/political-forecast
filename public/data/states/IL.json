@@ -1,63 +1,54 @@
 {
-  "timestamp": "2025-12-17T18:04:47.126Z",
+  "timestamp": "2025-12-17T20:05:19.423Z",
   "states": [
     {
       "name": "Illinois",
       "code": "IL",
-      "topTopic": "nuno loureiro",
+      "topTopic": "mustapha kharbouch",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
-        {
-          "name": "nuno loureiro",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "2K+",
-          "started": "20h ago",
-          "trendBreakdown": "mit",
-          "percentageIncrease": "600%"
-        },
         {
           "name": "mustapha kharbouch",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "2K+",
-          "started": "20h ago",
+          "started": "22h ago",
           "trendBreakdown": "patelkash",
           "percentageIncrease": "600%"
+        },
+        {
+          "name": "mit professor shot",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "2K+",
+          "started": "22h ago",
+          "trendBreakdown": "nuno",
+          "percentageIncrease": "1000%"
         },
         {
           "name": "kay flock",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "19h ago",
+          "started": "21h ago",
           "percentageIncrease": "500%"
-        },
-        {
-          "name": "debra newton",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "8h ago",
-          "percentageIncrease": "400%"
         },
         {
           "name": "christina chambers",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "16h ago",
+          "started": "18h ago",
           "percentageIncrease": "400%"
         },
         {
-          "name": "vanity fair trump cabinet",
+          "name": "debra newton",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "12h ago",
-          "trendBreakdown": "susie",
-          "percentageIncrease": "300%"
+          "started": "10h ago",
+          "percentageIncrease": "400%"
         }
       ]
     }

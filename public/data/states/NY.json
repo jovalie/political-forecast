@@ -1,38 +1,29 @@
 {
-  "timestamp": "2025-12-17T18:04:47.126Z",
+  "timestamp": "2025-12-17T20:05:19.423Z",
   "states": [
     {
       "name": "New York",
       "code": "NY",
-      "topTopic": "nuno loureiro",
+      "topTopic": "mustapha kharbouch",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
-        {
-          "name": "nuno loureiro",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "10K+",
-          "started": "21h ago",
-          "trendBreakdown": "mit",
-          "percentageIncrease": "1000%"
-        },
-        {
-          "name": "kay flock",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "5K+",
-          "started": "23h ago",
-          "trendBreakdown": "kay",
-          "percentageIncrease": "1000%"
-        },
         {
           "name": "mustapha kharbouch",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "5K+",
-          "started": "21h ago",
+          "started": "23h ago",
           "trendBreakdown": "patelkash",
+          "percentageIncrease": "1000%"
+        },
+        {
+          "name": "nuno loureiro",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "5K+",
+          "started": "23h ago",
+          "trendBreakdown": "nuno",
           "percentageIncrease": "1000%"
         },
         {
@@ -40,7 +31,16 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "12h ago",
+          "started": "14h ago",
+          "percentageIncrease": "500%"
+        },
+        {
+          "name": "kay flock sentence",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "2K+",
+          "started": "21h ago",
+          "trendBreakdown": "kay",
           "percentageIncrease": "500%"
         },
         {
@@ -48,33 +48,42 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "6h ago",
+          "started": "8h ago",
           "percentageIncrease": "1000%"
+        },
+        {
+          "name": "republicans obamacare",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "30 minutes ago",
+          "trendBreakdown": "mike",
+          "percentageIncrease": "300%"
         },
         {
           "name": "christina chambers",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "15h ago",
+          "started": "17h ago",
           "percentageIncrease": "200%"
-        },
-        {
-          "name": "jack smith",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "20 minutes ago",
-          "trendBreakdown": "trump",
-          "percentageIncrease": "300%"
         },
         {
           "name": "venezuela",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "16h ago",
+          "started": "18h ago",
           "percentageIncrease": "200%"
+        },
+        {
+          "name": "shireen afkari",
+          "relevanceScore": 90,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "20h ago",
+          "trendBreakdown": "shireen",
+          "percentageIncrease": "100%"
         }
       ]
     }
