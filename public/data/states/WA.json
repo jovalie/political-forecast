@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-12-17T04:11:53.556Z",
+  "timestamp": "2025-12-17T06:04:41.626Z",
   "states": [
     {
       "name": "Washington",
@@ -13,26 +13,34 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "5K+",
-          "started": "12h ago",
-          "trendBreakdown": "karoline",
+          "started": "14h ago",
+          "trendBreakdown": "vanity",
           "percentageIncrease": "1000%"
         },
         {
           "name": "nuno loureiro",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "5h ago",
+          "searchVolume": "1K+",
+          "started": "6h ago",
           "trendBreakdown": "mit",
           "percentageIncrease": "900%"
         },
         {
           "name": "bill hader",
-          "relevanceScore": 95,
+          "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "7h ago",
-          "percentageIncrease": "400%"
+          "started": "9h ago",
+          "percentageIncrease": "500%"
+        },
+        {
+          "name": "uss nimitz",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "5h ago",
+          "percentageIncrease": "300%"
         }
       ]
     }
