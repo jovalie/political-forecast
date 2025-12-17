@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-12-17T12:04:46.111Z",
+  "timestamp": "2025-12-17T14:05:11.477Z",
   "states": [
     {
       "name": "Georgia",
@@ -12,34 +12,26 @@
           "name": "susie wiles",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "2K+",
-          "started": "20h ago",
+          "searchVolume": "5K+",
+          "started": "22h ago",
           "trendBreakdown": "vanity",
           "percentageIncrease": "1000%"
+        },
+        {
+          "name": "kay flock",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "1K+",
+          "started": "15h ago",
+          "percentageIncrease": "500%"
         },
         {
           "name": "nuno loureiro",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "12h ago",
+          "started": "14h ago",
           "trendBreakdown": "mit",
-          "percentageIncrease": "500%"
-        },
-        {
-          "name": "mustapha kharbouch",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "13h ago",
-          "percentageIncrease": "500%"
-        },
-        {
-          "name": "kay flock",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "13h ago",
           "percentageIncrease": "500%"
         },
         {
@@ -47,8 +39,16 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "15h ago",
+          "started": "17h ago",
           "percentageIncrease": "300%"
+        },
+        {
+          "name": "mustapha kharbouch",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "15h ago",
+          "percentageIncrease": "400%"
         }
       ]
     }

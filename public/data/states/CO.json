@@ -1,36 +1,52 @@
 {
-  "timestamp": "2025-12-17T12:04:46.111Z",
+  "timestamp": "2025-12-17T14:05:11.477Z",
   "states": [
     {
       "name": "Colorado",
       "code": "CO",
-      "topTopic": "susie wiles",
+      "topTopic": "vanity fair",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
         {
-          "name": "susie wiles",
+          "name": "vanity fair",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "2K+",
-          "started": "20h ago",
-          "trendBreakdown": "vanity",
-          "percentageIncrease": "1000%"
+          "started": "19h ago",
+          "trendBreakdown": "susie",
+          "percentageIncrease": "800%"
         },
         {
           "name": "venezuela",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "10h ago",
+          "started": "12h ago",
           "percentageIncrease": "500%"
+        },
+        {
+          "name": "bill hader",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "12h ago",
+          "percentageIncrease": "200%"
+        },
+        {
+          "name": "jefferson county",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "8h ago",
+          "percentageIncrease": "200%"
         },
         {
           "name": "nuno loureiro",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "10h ago",
+          "started": "12h ago",
           "trendBreakdown": "mit",
           "percentageIncrease": "400%"
         },
@@ -39,7 +55,7 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "12h ago",
+          "started": "14h ago",
           "percentageIncrease": "400%"
         }
       ]

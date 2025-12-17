@@ -1,21 +1,20 @@
 {
-  "timestamp": "2025-12-17T12:04:46.111Z",
+  "timestamp": "2025-12-17T14:05:11.477Z",
   "states": [
     {
       "name": "Mississippi",
       "code": "MS",
-      "topTopic": "brown university",
+      "topTopic": "christina chambers",
       "category": "Law and Government",
-      "trendingScore": 100,
+      "trendingScore": 95,
       "topics": [
         {
-          "name": "brown university",
-          "relevanceScore": 100,
+          "name": "christina chambers",
+          "relevanceScore": 95,
           "category": "Law and Government",
-          "searchVolume": "5K+",
-          "started": "23h ago",
-          "trendBreakdown": "brown",
-          "percentageIncrease": "1000%"
+          "searchVolume": "100+",
+          "started": "12h ago",
+          "percentageIncrease": "300%"
         }
       ]
     }

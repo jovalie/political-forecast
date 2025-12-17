@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-12-17T12:04:46.111Z",
+  "timestamp": "2025-12-17T14:05:11.477Z",
   "states": [
     {
       "name": "Illinois",
@@ -12,17 +12,26 @@
           "name": "susie wiles",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "5K+",
-          "started": "21h ago",
+          "searchVolume": "10K+",
+          "started": "23h ago",
           "trendBreakdown": "vanity",
           "percentageIncrease": "1000%"
+        },
+        {
+          "name": "nuno loureiro",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "2K+",
+          "started": "16h ago",
+          "trendBreakdown": "mit",
+          "percentageIncrease": "600%"
         },
         {
           "name": "mustapha kharbouch",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "14h ago",
+          "started": "16h ago",
           "trendBreakdown": "patelkash",
           "percentageIncrease": "700%"
         },
@@ -31,25 +40,8 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "13h ago",
+          "started": "15h ago",
           "percentageIncrease": "500%"
-        },
-        {
-          "name": "nuno loureiro",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "2K+",
-          "started": "14h ago",
-          "trendBreakdown": "mit",
-          "percentageIncrease": "700%"
-        },
-        {
-          "name": "venezuela",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "8h ago",
-          "percentageIncrease": "300%"
         }
       ]
     }

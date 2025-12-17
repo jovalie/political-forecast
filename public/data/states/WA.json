@@ -1,20 +1,20 @@
 {
-  "timestamp": "2025-12-17T12:04:46.111Z",
+  "timestamp": "2025-12-17T14:05:11.477Z",
   "states": [
     {
       "name": "Washington",
       "code": "WA",
-      "topTopic": "susie wiles",
+      "topTopic": "vanity fair",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
         {
-          "name": "susie wiles",
+          "name": "vanity fair",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "5K+",
-          "started": "20h ago",
-          "trendBreakdown": "vanity",
+          "started": "19h ago",
+          "trendBreakdown": "susie",
           "percentageIncrease": "1000%"
         },
         {
@@ -22,24 +22,24 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "12h ago",
+          "started": "14h ago",
           "trendBreakdown": "mit",
-          "percentageIncrease": "700%"
+          "percentageIncrease": "600%"
         },
         {
           "name": "bill hader",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "15h ago",
-          "percentageIncrease": "300%"
+          "started": "17h ago",
+          "percentageIncrease": "400%"
         },
         {
           "name": "uss nimitz",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "11h ago",
+          "started": "13h ago",
           "percentageIncrease": "300%"
         }
       ]
