@@ -1,29 +1,38 @@
 {
-  "timestamp": "2025-12-17T00:05:05.531Z",
+  "timestamp": "2025-12-17T02:34:41.069Z",
   "states": [
     {
       "name": "Connecticut",
       "code": "CT",
-      "topTopic": "susie wiles",
+      "topTopic": "mit professor shot",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
         {
-          "name": "susie wiles",
+          "name": "mit professor shot",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "8h ago",
-          "trendBreakdown": "karoline",
+          "started": "4h ago",
+          "trendBreakdown": "nuno",
           "percentageIncrease": "1000%"
         },
         {
-          "name": "mustapha kharbouch",
+          "name": "karoline leavitt",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "2K+",
+          "started": "6h ago",
+          "trendBreakdown": "susie",
+          "percentageIncrease": "700%"
+        },
+        {
+          "name": "kay flock",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "1h ago",
-          "percentageIncrease": "1000%"
+          "started": "2h ago",
+          "percentageIncrease": "700%"
         }
       ]
     }

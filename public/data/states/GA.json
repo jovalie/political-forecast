@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-12-17T00:05:05.531Z",
+  "timestamp": "2025-12-17T02:34:41.069Z",
   "states": [
     {
       "name": "Georgia",
@@ -12,25 +12,34 @@
           "name": "susie wiles",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "2K+",
-          "started": "8h ago",
+          "searchVolume": "5K+",
+          "started": "11h ago",
           "trendBreakdown": "karoline",
           "percentageIncrease": "1000%"
         },
         {
-          "name": "mustapha kharbouch",
+          "name": "nuno loureiro",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "1h ago",
-          "percentageIncrease": "600%"
+          "searchVolume": "500+",
+          "started": "2h ago",
+          "trendBreakdown": "mit",
+          "percentageIncrease": "1000%"
         },
         {
-          "name": "bill hader",
+          "name": "kay flock",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "4h ago",
+          "percentageIncrease": "900%"
+        },
+        {
+          "name": "venezuela",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "3h ago",
+          "started": "40 minutes ago",
           "percentageIncrease": "300%"
         },
         {
@@ -38,7 +47,7 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "19h ago",
+          "started": "21h ago",
           "percentageIncrease": "200%"
         }
       ]

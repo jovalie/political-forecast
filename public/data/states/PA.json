@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-12-17T00:05:05.531Z",
+  "timestamp": "2025-12-17T02:34:41.069Z",
   "states": [
     {
       "name": "Pennsylvania",
@@ -12,19 +12,35 @@
           "name": "susie wiles",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "5K+",
-          "started": "9h ago",
+          "searchVolume": "10K+",
+          "started": "11h ago",
           "trendBreakdown": "karoline",
           "percentageIncrease": "1000%"
         },
         {
-          "name": "mit professor shot",
+          "name": "nuno loureiro",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "1K+",
+          "started": "5h ago",
+          "trendBreakdown": "mit",
+          "percentageIncrease": "1000%"
+        },
+        {
+          "name": "mustapha kharbouch",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "2h ago",
-          "trendBreakdown": "nuno",
+          "started": "4h ago",
           "percentageIncrease": "1000%"
+        },
+        {
+          "name": "kay flock",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "4h ago",
+          "percentageIncrease": "800%"
         }
       ]
     }

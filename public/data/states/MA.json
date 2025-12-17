@@ -1,46 +1,29 @@
 {
-  "timestamp": "2025-12-17T00:05:05.531Z",
+  "timestamp": "2025-12-17T02:34:41.069Z",
   "states": [
     {
       "name": "Massachusetts",
       "code": "MA",
-      "topTopic": "mit professor shot",
+      "topTopic": "susie wiles",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
-        {
-          "name": "mit professor shot",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "10K+",
-          "started": "6h ago",
-          "trendBreakdown": "nuno",
-          "percentageIncrease": "1000%"
-        },
         {
           "name": "susie wiles",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "5K+",
-          "started": "9h ago",
-          "trendBreakdown": "vanity",
+          "started": "11h ago",
+          "trendBreakdown": "karoline",
           "percentageIncrease": "1000%"
         },
         {
           "name": "mustapha kharbouch",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "4h ago",
+          "searchVolume": "2K+",
+          "started": "6h ago",
           "percentageIncrease": "1000%"
-        },
-        {
-          "name": "kay flock",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "1h ago",
-          "percentageIncrease": "900%"
         }
       ]
     }

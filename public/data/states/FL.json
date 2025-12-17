@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-12-17T00:05:05.531Z",
+  "timestamp": "2025-12-17T02:34:41.069Z",
   "states": [
     {
       "name": "Florida",
@@ -12,35 +12,44 @@
           "name": "susie wiles",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "5K+",
-          "started": "9h ago",
+          "searchVolume": "10K+",
+          "started": "12h ago",
           "trendBreakdown": "karoline",
           "percentageIncrease": "1000%"
         },
         {
-          "name": "mit professor shot",
+          "name": "nuno loureiro",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "3h ago",
-          "trendBreakdown": "nuno",
-          "percentageIncrease": "700%"
+          "searchVolume": "2K+",
+          "started": "5h ago",
+          "trendBreakdown": "mit",
+          "percentageIncrease": "900%"
         },
         {
           "name": "mustapha kharbouch",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "2h ago",
+          "searchVolume": "1K+",
+          "started": "5h ago",
           "percentageIncrease": "1000%"
         },
         {
-          "name": "christina chambers",
+          "name": "kay flock",
           "relevanceScore": 100,
           "category": "Law and Government",
+          "searchVolume": "1K+",
+          "started": "4h ago",
+          "percentageIncrease": "800%"
+        },
+        {
+          "name": "trump news",
+          "relevanceScore": 85,
+          "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "1h ago",
-          "percentageIncrease": "700%"
+          "started": "15h ago",
+          "trendBreakdown": "washington",
+          "percentageIncrease": "50%"
         }
       ]
     }
