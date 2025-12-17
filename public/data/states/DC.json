@@ -1,36 +1,27 @@
 {
-  "timestamp": "2025-12-17T20:05:19.423Z",
+  "timestamp": "2025-12-17T22:04:40.658Z",
   "states": [
     {
       "name": "District of Columbia",
       "code": "DC",
-      "topTopic": "mustapha kharbouch",
+      "topTopic": "reston",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
         {
-          "name": "mustapha kharbouch",
+          "name": "reston",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "22h ago",
-          "percentageIncrease": "700%"
+          "searchVolume": "500+",
+          "started": "2h ago",
+          "percentageIncrease": "900%"
         },
         {
-          "name": "mit professor shot",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "2K+",
-          "started": "22h ago",
-          "trendBreakdown": "nuno",
-          "percentageIncrease": "800%"
-        },
-        {
-          "name": "ndaa",
+          "name": "venezuela",
           "relevanceScore": 95,
           "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "2h ago",
+          "searchVolume": "500+",
+          "started": "21h ago",
           "percentageIncrease": "400%"
         },
         {
@@ -38,7 +29,15 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "20h ago",
+          "started": "22h ago",
+          "percentageIncrease": "400%"
+        },
+        {
+          "name": "ndaa",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "4h ago",
           "percentageIncrease": "400%"
         }
       ]

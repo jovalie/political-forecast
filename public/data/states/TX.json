@@ -1,35 +1,28 @@
 {
-  "timestamp": "2025-12-17T20:05:19.423Z",
+  "timestamp": "2025-12-17T22:04:40.658Z",
   "states": [
     {
       "name": "Texas",
       "code": "TX",
-      "topTopic": "mustapha kharbouch",
+      "topTopic": "christina chambers",
       "category": "Law and Government",
       "trendingScore": 95,
       "topics": [
-        {
-          "name": "mustapha kharbouch",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "2K+",
-          "started": "22h ago",
-          "percentageIncrease": "400%"
-        },
-        {
-          "name": "miriam adelson",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "4h ago",
-          "percentageIncrease": "300%"
-        },
         {
           "name": "christina chambers",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "1K+",
+          "started": "23h ago",
+          "percentageIncrease": "200%"
+        },
+        {
+          "name": "venezuela",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "1K+",
           "started": "21h ago",
+          "trendBreakdown": "pricesoil",
           "percentageIncrease": "200%"
         },
         {
@@ -37,25 +30,32 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "2K+",
-          "started": "15h ago",
+          "started": "17h ago",
           "trendBreakdown": "debra",
           "percentageIncrease": "300%"
         },
         {
-          "name": "nuno loureiro",
+          "name": "miriam adelson",
           "relevanceScore": 95,
           "category": "Law and Government",
-          "searchVolume": "5K+",
-          "started": "22h ago",
-          "trendBreakdown": "mit",
-          "percentageIncrease": "400%"
+          "searchVolume": "1K+",
+          "started": "6h ago",
+          "percentageIncrease": "300%"
+        },
+        {
+          "name": "schedule",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "40 minutes ago",
+          "percentageIncrease": "200%"
         },
         {
           "name": "kay flock",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "22h ago",
+          "started": "24h ago",
           "percentageIncrease": "300%"
         },
         {
@@ -63,17 +63,8 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "8h ago",
+          "started": "10h ago",
           "percentageIncrease": "300%"
-        },
-        {
-          "name": "venezuela",
-          "relevanceScore": 90,
-          "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "19h ago",
-          "trendBreakdown": "oil",
-          "percentageIncrease": "100%"
         }
       ]
     }

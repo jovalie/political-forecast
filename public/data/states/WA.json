@@ -1,45 +1,71 @@
 {
-  "timestamp": "2025-12-17T20:05:19.423Z",
+  "timestamp": "2025-12-17T22:04:40.658Z",
   "states": [
     {
       "name": "Washington",
       "code": "WA",
-      "topTopic": "nuno loureiro",
+      "topTopic": "evergreen high school seattle",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
+        {
+          "name": "evergreen high school seattle",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "2h ago",
+          "trendBreakdown": "evergreen",
+          "percentageIncrease": "1000%"
+        },
         {
           "name": "nuno loureiro",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "20h ago",
+          "started": "22h ago",
           "trendBreakdown": "mit",
-          "percentageIncrease": "600%"
+          "percentageIncrease": "500%"
         },
         {
-          "name": "bill hader",
-          "relevanceScore": 95,
+          "name": "khq news",
+          "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "23h ago",
-          "percentageIncrease": "300%"
+          "searchVolume": "500+",
+          "started": "7h ago",
+          "trendBreakdown": "dan",
+          "percentageIncrease": "800%"
         },
         {
-          "name": "dan newhouse",
+          "name": "venezuela",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "3h ago",
-          "percentageIncrease": "400%"
+          "started": "13h ago",
+          "percentageIncrease": "200%"
+        },
+        {
+          "name": "the columbian",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "8h ago",
+          "percentageIncrease": "200%"
         },
         {
           "name": "uss nimitz",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "19h ago",
+          "started": "21h ago",
           "percentageIncrease": "300%"
+        },
+        {
+          "name": "yakima weather",
+          "relevanceScore": 90,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "10h ago",
+          "percentageIncrease": "100%"
         }
       ]
     }

@@ -1,36 +1,35 @@
 {
-  "timestamp": "2025-12-17T20:05:19.423Z",
+  "timestamp": "2025-12-17T22:04:40.658Z",
   "states": [
     {
       "name": "North Carolina",
       "code": "NC",
-      "topTopic": "lumbee federal recognition",
+      "topTopic": "lumbee tribe",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
         {
-          "name": "lumbee federal recognition",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "2K+",
-          "started": "22h ago",
-          "trendBreakdown": "lumbee",
-          "percentageIncrease": "1000%"
-        },
-        {
-          "name": "bill hader",
+          "name": "lumbee tribe",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "23h ago",
+          "started": "4h ago",
           "percentageIncrease": "500%"
+        },
+        {
+          "name": "dan bongino",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "30 minutes ago",
+          "percentageIncrease": "1000%"
         },
         {
           "name": "christina chambers",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "19h ago",
+          "started": "21h ago",
           "percentageIncrease": "500%"
         },
         {
@@ -38,7 +37,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "20h ago",
+          "started": "22h ago",
           "trendBreakdown": "mit",
           "percentageIncrease": "600%"
         },
@@ -47,7 +46,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "21h ago",
+          "started": "23h ago",
           "percentageIncrease": "600%"
         },
         {
@@ -55,24 +54,23 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "21h ago",
-          "trendBreakdown": "kay",
+          "started": "23h ago",
           "percentageIncrease": "500%"
         },
         {
-          "name": "venezuela",
+          "name": "trump to address the nation",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "18h ago",
-          "percentageIncrease": "200%"
+          "started": "50 minutes ago",
+          "percentageIncrease": "400%"
         },
         {
           "name": "pat summerall",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "21h ago",
+          "started": "23h ago",
           "percentageIncrease": "300%"
         }
       ]

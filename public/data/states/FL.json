@@ -1,62 +1,36 @@
 {
-  "timestamp": "2025-12-17T20:05:19.423Z",
+  "timestamp": "2025-12-17T22:04:40.658Z",
   "states": [
     {
       "name": "Florida",
       "code": "FL",
-      "topTopic": "nuno loureiro",
+      "topTopic": "debra newton",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
-        {
-          "name": "nuno loureiro",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "5K+",
-          "started": "22h ago",
-          "trendBreakdown": "mit",
-          "percentageIncrease": "700%"
-        },
-        {
-          "name": "mustapha kharbouch",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "2K+",
-          "started": "22h ago",
-          "percentageIncrease": "700%"
-        },
         {
           "name": "debra newton",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "2K+",
-          "started": "18h ago",
+          "started": "20h ago",
           "trendBreakdown": "debra",
-          "percentageIncrease": "900%"
+          "percentageIncrease": "800%"
         },
         {
-          "name": "republicans obamacare",
-          "relevanceScore": 100,
+          "name": "venezuela",
+          "relevanceScore": 95,
           "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "40 minutes ago",
-          "trendBreakdown": "cbs",
-          "percentageIncrease": "500%"
-        },
-        {
-          "name": "kay flock",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "2K+",
-          "started": "22h ago",
-          "percentageIncrease": "500%"
+          "searchVolume": "500+",
+          "started": "19h ago",
+          "percentageIncrease": "300%"
         },
         {
           "name": "christina chambers",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "21h ago",
+          "started": "23h ago",
           "percentageIncrease": "400%"
         },
         {
@@ -64,8 +38,7 @@
           "relevanceScore": 85,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "10h ago",
-          "trendBreakdown": "nbc",
+          "started": "12h ago",
           "percentageIncrease": "75%"
         }
       ]

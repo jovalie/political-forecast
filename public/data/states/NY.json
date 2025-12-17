@@ -1,46 +1,19 @@
 {
-  "timestamp": "2025-12-17T20:05:19.423Z",
+  "timestamp": "2025-12-17T22:04:40.658Z",
   "states": [
     {
       "name": "New York",
       "code": "NY",
-      "topTopic": "mustapha kharbouch",
+      "topTopic": "debra newton",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
-        {
-          "name": "mustapha kharbouch",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "5K+",
-          "started": "23h ago",
-          "trendBreakdown": "patelkash",
-          "percentageIncrease": "1000%"
-        },
-        {
-          "name": "nuno loureiro",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "5K+",
-          "started": "23h ago",
-          "trendBreakdown": "nuno",
-          "percentageIncrease": "1000%"
-        },
         {
           "name": "debra newton",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "14h ago",
-          "percentageIncrease": "500%"
-        },
-        {
-          "name": "kay flock sentence",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "2K+",
-          "started": "21h ago",
-          "trendBreakdown": "kay",
+          "started": "16h ago",
           "percentageIncrease": "500%"
         },
         {
@@ -48,15 +21,33 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "8h ago",
+          "started": "10h ago",
           "percentageIncrease": "1000%"
+        },
+        {
+          "name": "jack smith",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "4h ago",
+          "trendBreakdown": "newsap",
+          "percentageIncrease": "400%"
+        },
+        {
+          "name": "venezuela",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "1K+",
+          "started": "20h ago",
+          "trendBreakdown": "trump",
+          "percentageIncrease": "400%"
         },
         {
           "name": "republicans obamacare",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "30 minutes ago",
+          "started": "2h ago",
           "trendBreakdown": "mike",
           "percentageIncrease": "300%"
         },
@@ -65,15 +56,24 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "17h ago",
+          "started": "19h ago",
           "percentageIncrease": "200%"
         },
         {
-          "name": "venezuela",
+          "name": "nuno loureiro israel",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "22h ago",
+          "percentageIncrease": "300%"
+        },
+        {
+          "name": "camera",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "500+",
           "started": "18h ago",
+          "trendBreakdown": "kash",
           "percentageIncrease": "200%"
         },
         {
@@ -81,8 +81,16 @@
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "20h ago",
+          "started": "22h ago",
           "trendBreakdown": "shireen",
+          "percentageIncrease": "100%"
+        },
+        {
+          "name": "flu influenza",
+          "relevanceScore": 90,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "2h ago",
           "percentageIncrease": "100%"
         }
       ]
