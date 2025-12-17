@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-12-17T10:04:51.375Z",
+  "timestamp": "2025-12-17T12:04:46.111Z",
   "states": [
     {
       "name": "Oregon",
@@ -13,9 +13,17 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "2K+",
-          "started": "15h ago",
+          "started": "17h ago",
           "trendBreakdown": "susie",
           "percentageIncrease": "1000%"
+        },
+        {
+          "name": "kgw",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "2h ago",
+          "percentageIncrease": "600%"
         }
       ]
     }

@@ -1,28 +1,19 @@
 {
-  "timestamp": "2025-12-17T10:04:51.375Z",
+  "timestamp": "2025-12-17T12:04:46.111Z",
   "states": [
     {
       "name": "New York",
       "code": "NY",
-      "topTopic": "vanity fair",
+      "topTopic": "nuno loureiro",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
-        {
-          "name": "vanity fair",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "10K+",
-          "started": "19h ago",
-          "trendBreakdown": "susie",
-          "percentageIncrease": "1000%"
-        },
         {
           "name": "nuno loureiro",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "10K+",
-          "started": "13h ago",
+          "started": "15h ago",
           "trendBreakdown": "mit",
           "percentageIncrease": "1000%"
         },
@@ -31,7 +22,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "5K+",
-          "started": "15h ago",
+          "started": "17h ago",
           "trendBreakdown": "kay",
           "percentageIncrease": "1000%"
         },
@@ -40,8 +31,16 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "2K+",
-          "started": "13h ago",
+          "started": "15h ago",
           "trendBreakdown": "kash",
+          "percentageIncrease": "1000%"
+        },
+        {
+          "name": "luxury hotel",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "50 minutes ago",
           "percentageIncrease": "1000%"
         },
         {
@@ -49,7 +48,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "16h ago",
+          "started": "18h ago",
           "percentageIncrease": "600%"
         },
         {
@@ -57,25 +56,25 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "8h ago",
+          "started": "10h ago",
+          "percentageIncrease": "200%"
+        },
+        {
+          "name": "travel ban",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "6h ago",
           "trendBreakdown": "trump",
           "percentageIncrease": "200%"
         },
         {
-          "name": "jfk",
+          "name": "jfk airport",
           "relevanceScore": 90,
-          "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "22h ago",
-          "percentageIncrease": "100%"
-        },
-        {
-          "name": "newzjunky",
-          "relevanceScore": 85,
           "category": "Law and Government",
           "searchVolume": "100+",
           "started": "23h ago",
-          "percentageIncrease": "50%"
+          "percentageIncrease": "100%"
         }
       ]
     }

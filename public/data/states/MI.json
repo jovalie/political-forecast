@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-12-17T10:04:51.375Z",
+  "timestamp": "2025-12-17T12:04:46.111Z",
   "states": [
     {
       "name": "Michigan",
@@ -12,27 +12,35 @@
           "name": "susie wiles",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "5K+",
-          "started": "18h ago",
-          "trendBreakdown": "karoline",
+          "searchVolume": "2K+",
+          "started": "20h ago",
+          "trendBreakdown": "vanity",
           "percentageIncrease": "1000%"
-        },
-        {
-          "name": "mit professor shot",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "9h ago",
-          "trendBreakdown": "nuno",
-          "percentageIncrease": "800%"
         },
         {
           "name": "bill hader",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "13h ago",
+          "started": "15h ago",
           "percentageIncrease": "400%"
+        },
+        {
+          "name": "nuno loureiro",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "11h ago",
+          "trendBreakdown": "mit",
+          "percentageIncrease": "400%"
+        },
+        {
+          "name": "red wings score",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "9h ago",
+          "percentageIncrease": "300%"
         }
       ]
     }

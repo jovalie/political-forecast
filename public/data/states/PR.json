@@ -1,20 +1,20 @@
 {
-  "timestamp": "2025-12-17T10:04:51.375Z",
+  "timestamp": "2025-12-17T12:04:46.111Z",
   "states": [
     {
       "name": "Puerto Rico",
       "code": "PR",
-      "topTopic": "el nuevo dia",
+      "topTopic": "departamento de educacion",
       "category": "Law and Government",
-      "trendingScore": 85,
+      "trendingScore": 95,
       "topics": [
         {
-          "name": "el nuevo dia",
-          "relevanceScore": 85,
+          "name": "departamento de educacion",
+          "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "4h ago",
-          "percentageIncrease": "75%"
+          "started": "10 minutes ago",
+          "percentageIncrease": "300%"
         }
       ]
     }
