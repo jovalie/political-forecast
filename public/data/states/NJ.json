@@ -1,52 +1,36 @@
 {
-  "timestamp": "2025-12-18T18:05:01.881Z",
+  "timestamp": "2025-12-18T20:04:32.154Z",
   "states": [
     {
       "name": "New Jersey",
       "code": "NJ",
-      "topTopic": "trump speech",
+      "topTopic": "schedule",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
         {
-          "name": "trump speech",
+          "name": "schedule",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "10K+",
-          "started": "17h ago",
-          "trendBreakdown": "trump",
-          "percentageIncrease": "800%"
-        },
-        {
-          "name": "marty small",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "30 minutes ago",
-          "percentageIncrease": "800%"
+          "searchVolume": "1K+",
+          "started": "1h ago",
+          "trendBreakdown": "donald",
+          "percentageIncrease": "1000%"
         },
         {
           "name": "warrior dividend",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "15h ago",
+          "started": "17h ago",
           "percentageIncrease": "600%"
-        },
-        {
-          "name": "mario pineida",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "19h ago",
-          "percentageIncrease": "700%"
         },
         {
           "name": "joe biden",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "14h ago",
+          "started": "16h ago",
           "percentageIncrease": "1000%"
         }
       ]

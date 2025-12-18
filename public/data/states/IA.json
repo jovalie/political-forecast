@@ -1,28 +1,44 @@
 {
-  "timestamp": "2025-12-18T18:05:01.881Z",
+  "timestamp": "2025-12-18T20:04:32.154Z",
   "states": [
     {
       "name": "Iowa",
       "code": "IA",
-      "topTopic": "trump to address the nation",
+      "topTopic": "brooklyn iowa",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
+        {
+          "name": "brooklyn iowa",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "3h ago",
+          "percentageIncrease": "1000%"
+        },
         {
           "name": "trump to address the nation",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "2K+",
-          "started": "18h ago",
-          "trendBreakdown": "speechtrump",
+          "started": "20h ago",
+          "trendBreakdown": "trump",
           "percentageIncrease": "1000%"
+        },
+        {
+          "name": "trump",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "18h ago",
+          "percentageIncrease": "500%"
         },
         {
           "name": "dan bongino",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "17h ago",
+          "started": "19h ago",
           "percentageIncrease": "400%"
         }
       ]

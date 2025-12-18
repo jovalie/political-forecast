@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-12-18T18:05:01.881Z",
+  "timestamp": "2025-12-18T20:04:32.154Z",
   "states": [
     {
       "name": "California",
@@ -13,42 +13,35 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "5K+",
-          "started": "15h ago",
+          "started": "17h ago",
           "trendBreakdown": "puka",
-          "percentageIncrease": "600%"
-        },
-        {
-          "name": "trump speech",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "50K+",
-          "started": "20h ago",
-          "trendBreakdown": "address",
           "percentageIncrease": "700%"
         },
         {
           "name": "warrior dividend",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "5K+",
-          "started": "15h ago",
-          "trendBreakdown": "dividend",
+          "searchVolume": "10K+",
+          "started": "17h ago",
+          "trendBreakdown": "bonus",
           "percentageIncrease": "900%"
         },
         {
-          "name": "personal injury lawyer",
+          "name": "kennedy center",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "500+",
+          "searchVolume": "10K+",
           "started": "1h ago",
+          "trendBreakdown": "trump",
           "percentageIncrease": "1000%"
         },
         {
-          "name": "car accident lawyer",
+          "name": "schedule",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "500+",
+          "searchVolume": "2K+",
           "started": "1h ago",
+          "trendBreakdown": "what",
           "percentageIncrease": "1000%"
         },
         {
@@ -56,15 +49,31 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "2h ago",
+          "started": "4h ago",
           "percentageIncrease": "700%"
+        },
+        {
+          "name": "personal injury lawyer",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "3h ago",
+          "percentageIncrease": "1000%"
+        },
+        {
+          "name": "car accident lawyer",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "3h ago",
+          "percentageIncrease": "1000%"
         },
         {
           "name": "joe biden",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "2K+",
-          "started": "14h ago",
+          "started": "16h ago",
           "trendBreakdown": "white",
           "percentageIncrease": "1000%"
         },
@@ -73,7 +82,7 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "16h ago",
+          "started": "18h ago",
           "percentageIncrease": "200%"
         },
         {
@@ -81,16 +90,8 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "10h ago",
+          "started": "12h ago",
           "percentageIncrease": "400%"
-        },
-        {
-          "name": "epstein files release date",
-          "relevanceScore": 90,
-          "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "17h ago",
-          "percentageIncrease": "100%"
         }
       ]
     }

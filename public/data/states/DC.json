@@ -1,19 +1,28 @@
 {
-  "timestamp": "2025-12-18T18:05:01.881Z",
+  "timestamp": "2025-12-18T20:04:32.154Z",
   "states": [
     {
       "name": "District of Columbia",
       "code": "DC",
-      "topTopic": "warrior dividend",
+      "topTopic": "kennedy center",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
+        {
+          "name": "kennedy center",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "2K+",
+          "started": "1h ago",
+          "trendBreakdown": "trump",
+          "percentageIncrease": "1000%"
+        },
         {
           "name": "warrior dividend",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "2K+",
-          "started": "15h ago",
+          "started": "17h ago",
           "trendBreakdown": "bonus",
           "percentageIncrease": "1000%"
         },
@@ -22,7 +31,16 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "2h ago",
+          "started": "4h ago",
+          "percentageIncrease": "1000%"
+        },
+        {
+          "name": "schedule",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "2K+",
+          "started": "1h ago",
+          "trendBreakdown": "trumpdonald",
           "percentageIncrease": "1000%"
         },
         {
@@ -30,32 +48,32 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "3h ago",
+          "started": "5h ago",
           "percentageIncrease": "1000%"
         },
         {
-          "name": "reston",
+          "name": "joe biden",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "22h ago",
-          "percentageIncrease": "900%"
+          "started": "16h ago",
+          "percentageIncrease": "1000%"
         },
         {
-          "name": "bbc",
+          "name": "bongino",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "8h ago",
-          "trendBreakdown": "joe",
-          "percentageIncrease": "300%"
+          "started": "21h ago",
+          "trendBreakdown": "dan",
+          "percentageIncrease": "400%"
         },
         {
           "name": "trump venezuela",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "15h ago",
+          "started": "17h ago",
           "percentageIncrease": "200%"
         },
         {
@@ -63,7 +81,7 @@
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "5h ago",
+          "started": "7h ago",
           "percentageIncrease": "100%"
         }
       ]

@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-12-18T18:05:01.881Z",
+  "timestamp": "2025-12-18T20:04:32.154Z",
   "states": [
     {
       "name": "Maine",
@@ -12,10 +12,18 @@
           "name": "trump to address the nation",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "17h ago",
-          "trendBreakdown": "speechtrump",
+          "searchVolume": "500+",
+          "started": "19h ago",
+          "trendBreakdown": "trump",
           "percentageIncrease": "600%"
+        },
+        {
+          "name": "trump",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "17h ago",
+          "percentageIncrease": "300%"
         }
       ]
     }
