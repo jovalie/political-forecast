@@ -1,62 +1,62 @@
 {
-  "timestamp": "2025-12-18T04:12:38.793Z",
+  "timestamp": "2025-12-18T06:04:38.527Z",
   "states": [
     {
       "name": "California",
       "code": "CA",
-      "topTopic": "strava",
+      "topTopic": "warrior dividend",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
         {
-          "name": "strava",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "5K+",
-          "started": "22h ago",
-          "percentageIncrease": "500%"
-        },
-        {
           "name": "warrior dividend",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "2K+",
-          "started": "1h ago",
-          "trendBreakdown": "bonusmilitary",
-          "percentageIncrease": "1000%"
-        },
-        {
-          "name": "joe biden",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "40 minutes ago",
-          "trendBreakdown": "abc",
+          "searchVolume": "5K+",
+          "started": "3h ago",
+          "trendBreakdown": "dividend",
           "percentageIncrease": "1000%"
         },
         {
           "name": "samson nacua",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "1h ago",
+          "searchVolume": "2K+",
+          "started": "3h ago",
           "trendBreakdown": "puka",
-          "percentageIncrease": "500%"
+          "percentageIncrease": "1000%"
         },
         {
-          "name": "razor blades found in bread at walmart",
+          "name": "joe biden",
           "relevanceScore": 100,
           "category": "Law and Government",
+          "searchVolume": "2K+",
+          "started": "2h ago",
+          "percentageIncrease": "1000%"
+        },
+        {
+          "name": "strava san francisco",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "2K+",
+          "started": "13h ago",
+          "trendBreakdown": "san",
+          "percentageIncrease": "200%"
+        },
+        {
+          "name": "defense bill senate",
+          "relevanceScore": 95,
+          "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "22h ago",
-          "percentageIncrease": "500%"
+          "started": "4h ago",
+          "percentageIncrease": "200%"
         },
         {
           "name": "kevin kiley",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "30 minutes ago",
+          "started": "2h ago",
           "trendBreakdown": "republicans",
           "percentageIncrease": "400%"
         },
@@ -65,25 +65,7 @@
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "10h ago",
-          "trendBreakdown": "nbc",
-          "percentageIncrease": "100%"
-        },
-        {
-          "name": "war with venezuela",
-          "relevanceScore": 90,
-          "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "5h ago",
-          "trendBreakdown": "venezuela",
-          "percentageIncrease": "100%"
-        },
-        {
-          "name": "war",
-          "relevanceScore": 90,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "1h ago",
+          "started": "12h ago",
           "percentageIncrease": "100%"
         },
         {
@@ -91,7 +73,23 @@
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "13h ago",
+          "started": "15h ago",
+          "percentageIncrease": "100%"
+        },
+        {
+          "name": "edd",
+          "relevanceScore": 90,
+          "category": "Law and Government",
+          "searchVolume": "1K+",
+          "started": "20h ago",
+          "percentageIncrease": "100%"
+        },
+        {
+          "name": "war",
+          "relevanceScore": 90,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "3h ago",
           "percentageIncrease": "100%"
         }
       ]

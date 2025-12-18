@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-12-18T04:12:38.793Z",
+  "timestamp": "2025-12-18T06:04:38.527Z",
   "states": [
     {
       "name": "Alabama",
@@ -13,7 +13,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "2K+",
-          "started": "4h ago",
+          "started": "6h ago",
           "trendBreakdown": "addresspresidential",
           "percentageIncrease": "1000%"
         },
@@ -22,8 +22,16 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "4h ago",
-          "percentageIncrease": "800%"
+          "started": "6h ago",
+          "percentageIncrease": "700%"
+        },
+        {
+          "name": "warrior dividend",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "3h ago",
+          "percentageIncrease": "1000%"
         }
       ]
     }

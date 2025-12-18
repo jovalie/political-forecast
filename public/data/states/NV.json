@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-12-18T04:12:38.793Z",
+  "timestamp": "2025-12-18T06:04:38.527Z",
   "states": [
     {
       "name": "Nevada",
@@ -13,17 +13,9 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "3h ago",
-          "trendBreakdown": "speech",
+          "started": "5h ago",
+          "trendBreakdown": "trumpdonald",
           "percentageIncrease": "1000%"
-        },
-        {
-          "name": "venezuela",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "2h ago",
-          "percentageIncrease": "200%"
         }
       ]
     }

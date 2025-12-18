@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-12-18T04:12:38.793Z",
+  "timestamp": "2025-12-18T06:04:38.527Z",
   "states": [
     {
       "name": "Florida",
@@ -13,7 +13,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "2K+",
-          "started": "2h ago",
+          "started": "3h ago",
           "trendBreakdown": "bonusmilitary",
           "percentageIncrease": "1000%"
         },
@@ -21,9 +21,9 @@
           "name": "joe biden",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "30 minutes ago",
-          "trendBreakdown": "abc",
+          "searchVolume": "1K+",
+          "started": "2h ago",
+          "trendBreakdown": "nbc",
           "percentageIncrease": "1000%"
         },
         {
@@ -31,24 +31,9 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "16h ago",
+          "started": "18h ago",
+          "trendBreakdown": "debra",
           "percentageIncrease": "400%"
-        },
-        {
-          "name": "defense bill senate",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "1h ago",
-          "percentageIncrease": "200%"
-        },
-        {
-          "name": "strava",
-          "relevanceScore": 90,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "3h ago",
-          "percentageIncrease": "100%"
         }
       ]
     }
