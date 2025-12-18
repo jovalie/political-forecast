@@ -1,20 +1,20 @@
 {
-  "timestamp": "2025-12-18T14:05:21.053Z",
+  "timestamp": "2025-12-18T18:05:01.881Z",
   "states": [
     {
       "name": "Puerto Rico",
       "code": "PR",
-      "topTopic": "trump",
+      "topTopic": "donald trump",
       "category": "Law and Government",
-      "trendingScore": 100,
+      "trendingScore": 95,
       "topics": [
         {
-          "name": "trump",
-          "relevanceScore": 100,
+          "name": "donald trump",
+          "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "10h ago",
-          "percentageIncrease": "600%"
+          "started": "15h ago",
+          "percentageIncrease": "200%"
         }
       ]
     }

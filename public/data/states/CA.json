@@ -1,69 +1,79 @@
 {
-  "timestamp": "2025-12-18T14:05:21.053Z",
+  "timestamp": "2025-12-18T18:05:01.881Z",
   "states": [
     {
       "name": "California",
       "code": "CA",
-      "topTopic": "warrior dividend",
+      "topTopic": "samson nacua",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
+        {
+          "name": "samson nacua",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "5K+",
+          "started": "15h ago",
+          "trendBreakdown": "puka",
+          "percentageIncrease": "600%"
+        },
+        {
+          "name": "trump speech",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "50K+",
+          "started": "20h ago",
+          "trendBreakdown": "address",
+          "percentageIncrease": "700%"
+        },
         {
           "name": "warrior dividend",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "5K+",
-          "started": "11h ago",
+          "started": "15h ago",
           "trendBreakdown": "dividend",
+          "percentageIncrease": "900%"
+        },
+        {
+          "name": "personal injury lawyer",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "1h ago",
           "percentageIncrease": "1000%"
         },
         {
-          "name": "samson nacua",
+          "name": "car accident lawyer",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "2K+",
-          "started": "11h ago",
-          "trendBreakdown": "puka",
-          "percentageIncrease": "600%"
+          "searchVolume": "500+",
+          "started": "1h ago",
+          "percentageIncrease": "1000%"
+        },
+        {
+          "name": "brian walshe",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "1K+",
+          "started": "2h ago",
+          "percentageIncrease": "700%"
         },
         {
           "name": "joe biden",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "2K+",
-          "started": "10h ago",
+          "started": "14h ago",
+          "trendBreakdown": "white",
           "percentageIncrease": "1000%"
-        },
-        {
-          "name": "strava san francisco",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "2K+",
-          "started": "21h ago",
-          "percentageIncrease": "200%"
         },
         {
           "name": "defense bill senate",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "12h ago",
-          "percentageIncrease": "200%"
-        },
-        {
-          "name": "civic",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "22h ago",
-          "percentageIncrease": "400%"
-        },
-        {
-          "name": "qatar",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "9h ago",
+          "started": "16h ago",
           "percentageIncrease": "200%"
         },
         {
@@ -71,23 +81,15 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "6h ago",
+          "started": "10h ago",
           "percentageIncrease": "400%"
         },
         {
-          "name": "flu influenza",
+          "name": "epstein files release date",
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "12h ago",
-          "percentageIncrease": "100%"
-        },
-        {
-          "name": "jack smith",
-          "relevanceScore": 90,
-          "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "20h ago",
+          "started": "17h ago",
           "percentageIncrease": "100%"
         }
       ]

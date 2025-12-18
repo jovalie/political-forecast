@@ -1,23 +1,24 @@
 {
-  "timestamp": "2025-12-18T14:05:21.053Z",
+  "timestamp": "2025-12-18T18:05:01.881Z",
   "states": [
     {
       "name": "Oklahoma",
       "code": "OK",
-      "topTopic": "warrior dividend",
+      "topTopic": "trump to address the nation",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
         {
-          "name": "warrior dividend",
+          "name": "trump to address the nation",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "11h ago",
-          "percentageIncrease": "800%"
+          "searchVolume": "2K+",
+          "started": "18h ago",
+          "trendBreakdown": "addresspresidential",
+          "percentageIncrease": "1000%"
         },
         {
-          "name": "dan bongino",
+          "name": "warrior dividend",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
@@ -25,19 +26,19 @@
           "percentageIncrease": "700%"
         },
         {
-          "name": "trump",
-          "relevanceScore": 95,
+          "name": "dan bongino",
+          "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "2K+",
-          "started": "13h ago",
-          "percentageIncrease": "400%"
+          "searchVolume": "500+",
+          "started": "19h ago",
+          "percentageIncrease": "700%"
         },
         {
           "name": "venezuela",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "12h ago",
+          "started": "16h ago",
           "percentageIncrease": "200%"
         }
       ]

@@ -1,29 +1,29 @@
 {
-  "timestamp": "2025-12-18T14:05:21.053Z",
+  "timestamp": "2025-12-18T18:05:01.881Z",
   "states": [
     {
       "name": "Washington",
       "code": "WA",
-      "topTopic": "trump to address the nation",
+      "topTopic": "warrior dividend",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
-        {
-          "name": "trump to address the nation",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "10K+",
-          "started": "16h ago",
-          "trendBreakdown": "speechtrump",
-          "percentageIncrease": "1000%"
-        },
         {
           "name": "warrior dividend",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "2K+",
-          "started": "11h ago",
+          "started": "15h ago",
           "trendBreakdown": "bonus",
+          "percentageIncrease": "1000%"
+        },
+        {
+          "name": "trump to address the nation",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "10K+",
+          "started": "20h ago",
+          "trendBreakdown": "trump",
           "percentageIncrease": "1000%"
         },
         {
@@ -31,15 +31,15 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "15h ago",
-          "percentageIncrease": "700%"
+          "started": "19h ago",
+          "percentageIncrease": "600%"
         },
         {
           "name": "evergreen high school seattle",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "18h ago",
+          "started": "22h ago",
           "trendBreakdown": "evergreen",
           "percentageIncrease": "600%"
         },
@@ -48,24 +48,8 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "10h ago",
+          "started": "14h ago",
           "percentageIncrease": "1000%"
-        },
-        {
-          "name": "civic",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "20h ago",
-          "percentageIncrease": "600%"
-        },
-        {
-          "name": "dan newhouse",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "21h ago",
-          "percentageIncrease": "400%"
         }
       ]
     }

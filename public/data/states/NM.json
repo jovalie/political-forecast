@@ -1,29 +1,28 @@
 {
-  "timestamp": "2025-12-18T14:05:21.053Z",
+  "timestamp": "2025-12-18T18:05:01.881Z",
   "states": [
     {
       "name": "New Mexico",
       "code": "NM",
-      "topTopic": "warrior dividend",
+      "topTopic": "trump to address the nation",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
+        {
+          "name": "trump to address the nation",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "1K+",
+          "started": "17h ago",
+          "percentageIncrease": "600%"
+        },
         {
           "name": "warrior dividend",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "10h ago",
-          "percentageIncrease": "900%"
-        },
-        {
-          "name": "news",
-          "relevanceScore": 90,
-          "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "40 minutes ago",
-          "trendBreakdown": "trump",
-          "percentageIncrease": "100%"
+          "started": "14h ago",
+          "percentageIncrease": "600%"
         }
       ]
     }

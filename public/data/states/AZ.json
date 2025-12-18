@@ -1,28 +1,28 @@
 {
-  "timestamp": "2025-12-18T14:05:21.053Z",
+  "timestamp": "2025-12-18T18:05:01.881Z",
   "states": [
     {
       "name": "Arizona",
       "code": "AZ",
-      "topTopic": "trump to address the nation",
+      "topTopic": "warrior dividend",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
-        {
-          "name": "trump to address the nation",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "10K+",
-          "started": "15h ago",
-          "trendBreakdown": "speechtrump",
-          "percentageIncrease": "1000%"
-        },
         {
           "name": "warrior dividend",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "11h ago",
+          "started": "15h ago",
+          "percentageIncrease": "900%"
+        },
+        {
+          "name": "trump to address the nation",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "10K+",
+          "started": "19h ago",
+          "trendBreakdown": "speechtrump",
           "percentageIncrease": "1000%"
         },
         {
@@ -30,9 +30,9 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "16h ago",
+          "started": "20h ago",
           "trendBreakdown": "dan",
-          "percentageIncrease": "800%"
+          "percentageIncrease": "700%"
         }
       ]
     }
