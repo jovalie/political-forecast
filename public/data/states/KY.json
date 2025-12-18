@@ -1,28 +1,21 @@
 {
-  "timestamp": "2025-12-18T00:05:00.696Z",
+  "timestamp": "2025-12-18T02:34:38.184Z",
   "states": [
     {
       "name": "Kentucky",
       "code": "KY",
-      "topTopic": "dan bongino",
+      "topTopic": "trump to address the nation",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
         {
-          "name": "dan bongino",
+          "name": "trump to address the nation",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "1h ago",
+          "searchVolume": "2K+",
+          "started": "4h ago",
+          "trendBreakdown": "addresspresidential",
           "percentageIncrease": "1000%"
-        },
-        {
-          "name": "bill hader",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "23h ago",
-          "percentageIncrease": "200%"
         }
       ]
     }

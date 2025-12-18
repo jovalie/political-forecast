@@ -1,35 +1,60 @@
 {
-  "timestamp": "2025-12-18T00:05:00.696Z",
+  "timestamp": "2025-12-18T02:34:38.184Z",
   "states": [
     {
       "name": "New York",
       "code": "NY",
-      "topTopic": "debra newton",
+      "topTopic": "mario pineida",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
         {
-          "name": "debra newton",
+          "name": "mario pineida",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "18h ago",
-          "percentageIncrease": "500%"
+          "searchVolume": "500+",
+          "started": "3h ago",
+          "percentageIncrease": "600%"
         },
         {
           "name": "luxury hotel",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "12h ago",
+          "started": "15h ago",
           "percentageIncrease": "1000%"
         },
         {
-          "name": "venezuela",
+          "name": "trump",
           "relevanceScore": 95,
           "category": "Law and Government",
-          "searchVolume": "2K+",
-          "started": "22h ago",
+          "searchVolume": "10K+",
+          "started": "2h ago",
+          "percentageIncrease": "200%"
+        },
+        {
+          "name": "christina chambers",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "23h ago",
+          "percentageIncrease": "200%"
+        },
+        {
+          "name": "strava",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "4h ago",
+          "trendBreakdown": "shireen",
+          "percentageIncrease": "200%"
+        },
+        {
+          "name": "debra newton",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "1K+",
+          "started": "20h ago",
           "percentageIncrease": "400%"
         },
         {
@@ -37,16 +62,17 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "6h ago",
+          "started": "8h ago",
           "trendBreakdown": "newsap",
           "percentageIncrease": "300%"
         },
         {
-          "name": "christina chambers",
+          "name": "health",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "21h ago",
+          "started": "9h ago",
+          "trendBreakdown": "republicans",
           "percentageIncrease": "200%"
         },
         {
@@ -54,26 +80,9 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "20h ago",
+          "started": "22h ago",
           "trendBreakdown": "kash",
           "percentageIncrease": "200%"
-        },
-        {
-          "name": "mike lawler",
-          "relevanceScore": 90,
-          "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "7h ago",
-          "trendBreakdown": "republicans",
-          "percentageIncrease": "100%"
-        },
-        {
-          "name": "flu influenza",
-          "relevanceScore": 90,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "4h ago",
-          "percentageIncrease": "100%"
         }
       ]
     }

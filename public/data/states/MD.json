@@ -1,35 +1,36 @@
 {
-  "timestamp": "2025-12-18T00:05:00.696Z",
+  "timestamp": "2025-12-18T02:34:38.184Z",
   "states": [
     {
       "name": "Maryland",
       "code": "MD",
-      "topTopic": "dan bongino",
+      "topTopic": "trump to address the nation",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
         {
-          "name": "dan bongino",
+          "name": "trump to address the nation",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "2h ago",
+          "searchVolume": "5K+",
+          "started": "4h ago",
+          "trendBreakdown": "addresstrump",
           "percentageIncrease": "1000%"
         },
         {
-          "name": "venezuela",
-          "relevanceScore": 95,
+          "name": "dan bongino",
+          "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "22h ago",
-          "percentageIncrease": "300%"
+          "searchVolume": "1K+",
+          "started": "5h ago",
+          "percentageIncrease": "1000%"
         },
         {
           "name": "debra newton",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "10h ago",
+          "started": "13h ago",
           "percentageIncrease": "300%"
         }
       ]

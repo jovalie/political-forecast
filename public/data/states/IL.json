@@ -1,35 +1,27 @@
 {
-  "timestamp": "2025-12-18T00:05:00.696Z",
+  "timestamp": "2025-12-18T02:34:38.184Z",
   "states": [
     {
       "name": "Illinois",
       "code": "IL",
-      "topTopic": "venezuela",
+      "topTopic": "health",
       "category": "Law and Government",
-      "trendingScore": 95,
+      "trendingScore": 100,
       "topics": [
+        {
+          "name": "health",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "50 minutes ago",
+          "percentageIncrease": "600%"
+        },
         {
           "name": "venezuela",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "20h ago",
-          "percentageIncrease": "400%"
-        },
-        {
-          "name": "debra newton",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "14h ago",
-          "percentageIncrease": "400%"
-        },
-        {
-          "name": "christina chambers",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "22h ago",
+          "started": "23h ago",
           "percentageIncrease": "400%"
         },
         {
@@ -37,9 +29,17 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "18h ago",
+          "started": "20h ago",
           "trendBreakdown": "vanity",
-          "percentageIncrease": "300%"
+          "percentageIncrease": "400%"
+        },
+        {
+          "name": "debra newton",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "16h ago",
+          "percentageIncrease": "400%"
         }
       ]
     }

@@ -1,21 +1,37 @@
 {
-  "timestamp": "2025-12-18T00:05:00.696Z",
+  "timestamp": "2025-12-18T02:34:38.184Z",
   "states": [
     {
       "name": "Oregon",
       "code": "OR",
-      "topTopic": "katu news",
+      "topTopic": "trump to address the nation",
       "category": "Law and Government",
-      "trendingScore": 95,
+      "trendingScore": 100,
       "topics": [
         {
-          "name": "katu news",
-          "relevanceScore": 95,
+          "name": "trump to address the nation",
+          "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "10h ago",
-          "trendBreakdown": "portland",
-          "percentageIncrease": "200%"
+          "started": "2h ago",
+          "trendBreakdown": "address",
+          "percentageIncrease": "1000%"
+        },
+        {
+          "name": "dan bongino",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "3h ago",
+          "percentageIncrease": "900%"
+        },
+        {
+          "name": "news",
+          "relevanceScore": 90,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "16h ago",
+          "percentageIncrease": "100%"
         }
       ]
     }

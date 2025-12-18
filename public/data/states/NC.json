@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-12-18T00:05:00.696Z",
+  "timestamp": "2025-12-18T02:34:38.184Z",
   "states": [
     {
       "name": "North Carolina",
@@ -12,8 +12,8 @@
           "name": "trump to address the nation",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "2h ago",
+          "searchVolume": "5K+",
+          "started": "5h ago",
           "trendBreakdown": "trump",
           "percentageIncrease": "1000%"
         },
@@ -21,8 +21,9 @@
           "name": "dan bongino",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "2h ago",
+          "searchVolume": "1K+",
+          "started": "5h ago",
+          "trendBreakdown": "dan",
           "percentageIncrease": "1000%"
         },
         {
@@ -30,24 +31,17 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "6h ago",
+          "started": "9h ago",
           "percentageIncrease": "500%"
         },
         {
-          "name": "christina chambers",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "23h ago",
-          "percentageIncrease": "500%"
-        },
-        {
-          "name": "venezuela",
+          "name": "war with venezuela",
           "relevanceScore": 95,
           "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "22h ago",
-          "percentageIncrease": "400%"
+          "searchVolume": "100+",
+          "started": "20 minutes ago",
+          "trendBreakdown": "cbs",
+          "percentageIncrease": "300%"
         }
       ]
     }

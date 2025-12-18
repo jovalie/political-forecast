@@ -1,19 +1,27 @@
 {
-  "timestamp": "2025-12-18T00:05:00.696Z",
+  "timestamp": "2025-12-18T02:34:38.184Z",
   "states": [
     {
       "name": "New Jersey",
       "code": "NJ",
-      "topTopic": "dulce alavez",
+      "topTopic": "venezuela",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
+        {
+          "name": "venezuela",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "1K+",
+          "started": "21h ago",
+          "percentageIncrease": "500%"
+        },
         {
           "name": "dulce alavez",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "5h ago",
+          "started": "7h ago",
           "percentageIncrease": "1000%"
         },
         {
@@ -21,16 +29,17 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "10h ago",
+          "started": "12h ago",
           "percentageIncrease": "1000%"
         },
         {
-          "name": "venezuela",
-          "relevanceScore": 95,
+          "name": "republicans obamacare",
+          "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "19h ago",
-          "percentageIncrease": "400%"
+          "searchVolume": "100+",
+          "started": "5h ago",
+          "trendBreakdown": "breaking",
+          "percentageIncrease": "600%"
         }
       ]
     }
