@@ -1,37 +1,36 @@
 {
-  "timestamp": "2025-12-18T08:04:53.964Z",
+  "timestamp": "2025-12-18T10:04:46.921Z",
   "states": [
     {
       "name": "Virginia",
       "code": "VA",
-      "topTopic": "warrior dividend",
+      "topTopic": "joe biden",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
-        {
-          "name": "warrior dividend",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "2K+",
-          "started": "5h ago",
-          "trendBreakdown": "bonus",
-          "percentageIncrease": "1000%"
-        },
         {
           "name": "joe biden",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "4h ago",
+          "started": "6h ago",
           "trendBreakdown": "news",
           "percentageIncrease": "1000%"
+        },
+        {
+          "name": "christmas",
+          "relevanceScore": 90,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "20h ago",
+          "percentageIncrease": "100%"
         },
         {
           "name": "dollar tree near me",
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "18h ago",
+          "started": "20h ago",
           "percentageIncrease": "100%"
         }
       ]

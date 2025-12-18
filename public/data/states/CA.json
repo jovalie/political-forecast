@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-12-18T08:04:53.964Z",
+  "timestamp": "2025-12-18T10:04:46.921Z",
   "states": [
     {
       "name": "California",
@@ -12,9 +12,8 @@
           "name": "warrior dividend",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "5K+",
-          "started": "5h ago",
-          "trendBreakdown": "dividend",
+          "searchVolume": "2K+",
+          "started": "7h ago",
           "percentageIncrease": "1000%"
         },
         {
@@ -22,25 +21,33 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "2K+",
-          "started": "5h ago",
+          "started": "7h ago",
           "trendBreakdown": "puka",
-          "percentageIncrease": "1000%"
+          "percentageIncrease": "800%"
         },
         {
           "name": "joe biden",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "2K+",
-          "started": "4h ago",
+          "started": "6h ago",
+          "trendBreakdown": "abc",
           "percentageIncrease": "1000%"
+        },
+        {
+          "name": "trump",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "50K+",
+          "started": "9h ago",
+          "percentageIncrease": "200%"
         },
         {
           "name": "strava san francisco",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "2K+",
-          "started": "15h ago",
-          "trendBreakdown": "san",
+          "started": "17h ago",
           "percentageIncrease": "200%"
         },
         {
@@ -48,7 +55,7 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "6h ago",
+          "started": "8h ago",
           "percentageIncrease": "200%"
         },
         {
@@ -56,7 +63,7 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "16h ago",
+          "started": "18h ago",
           "percentageIncrease": "400%"
         },
         {
@@ -64,32 +71,23 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "3h ago",
+          "started": "5h ago",
           "percentageIncrease": "200%"
         },
         {
-          "name": "republicans obamacare",
-          "relevanceScore": 95,
+          "name": "flu influenza",
+          "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "12h ago",
-          "trendBreakdown": "kevin",
-          "percentageIncrease": "200%"
+          "started": "8h ago",
+          "percentageIncrease": "100%"
         },
         {
           "name": "jack smith",
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "14h ago",
-          "percentageIncrease": "100%"
-        },
-        {
-          "name": "plane",
-          "relevanceScore": 90,
-          "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "17h ago",
+          "started": "16h ago",
           "percentageIncrease": "100%"
         }
       ]

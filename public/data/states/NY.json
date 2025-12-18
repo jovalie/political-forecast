@@ -1,44 +1,35 @@
 {
-  "timestamp": "2025-12-18T08:04:53.964Z",
+  "timestamp": "2025-12-18T10:04:46.921Z",
   "states": [
     {
       "name": "New York",
       "code": "NY",
-      "topTopic": "mario pineida",
+      "topTopic": "joe biden",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
-        {
-          "name": "mario pineida",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "9h ago",
-          "percentageIncrease": "500%"
-        },
         {
           "name": "joe biden",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "4h ago",
-          "trendBreakdown": "trump",
+          "started": "6h ago",
           "percentageIncrease": "1000%"
         },
         {
-          "name": "warrior dividend",
+          "name": "mario pineida",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "5h ago",
-          "percentageIncrease": "900%"
+          "started": "11h ago",
+          "percentageIncrease": "500%"
         },
         {
           "name": "luxury hotel",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "20h ago",
+          "started": "22h ago",
           "percentageIncrease": "1000%"
         },
         {
@@ -46,7 +37,7 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "6h ago",
+          "started": "8h ago",
           "trendBreakdown": "senate",
           "percentageIncrease": "400%"
         },
@@ -55,8 +46,7 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "14h ago",
-          "trendBreakdown": "newsap",
+          "started": "16h ago",
           "percentageIncrease": "300%"
         },
         {
@@ -64,33 +54,42 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "19h ago",
+          "started": "21h ago",
           "percentageIncrease": "400%"
         },
         {
-          "name": "republicans obamacare",
+          "name": "trump venezuela",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "12h ago",
-          "trendBreakdown": "lawlermike",
-          "percentageIncrease": "300%"
+          "started": "8h ago",
+          "trendBreakdown": "war",
+          "percentageIncrease": "200%"
+        },
+        {
+          "name": "flu influenza",
+          "relevanceScore": 90,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "14h ago",
+          "percentageIncrease": "100%"
+        },
+        {
+          "name": "republicans aca subsidies",
+          "relevanceScore": 90,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "50 minutes ago",
+          "trendBreakdown": "republicans",
+          "percentageIncrease": "100%"
         },
         {
           "name": "strava",
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "9h ago",
+          "started": "11h ago",
           "trendBreakdown": "shireen",
-          "percentageIncrease": "100%"
-        },
-        {
-          "name": "venezuela war",
-          "relevanceScore": 90,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "6h ago",
           "percentageIncrease": "100%"
         }
       ]

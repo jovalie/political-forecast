@@ -1,54 +1,36 @@
 {
-  "timestamp": "2025-12-18T08:04:53.964Z",
+  "timestamp": "2025-12-18T10:04:46.921Z",
   "states": [
     {
       "name": "Washington",
       "code": "WA",
-      "topTopic": "trump to address the nation",
+      "topTopic": "dan bongino",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
         {
-          "name": "trump to address the nation",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "10K+",
-          "started": "10h ago",
-          "trendBreakdown": "speechtrump",
-          "percentageIncrease": "1000%"
-        },
-        {
-          "name": "warrior dividend",
+          "name": "dan bongino",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "5h ago",
-          "trendBreakdown": "military",
-          "percentageIncrease": "1000%"
+          "started": "11h ago",
+          "percentageIncrease": "700%"
         },
         {
           "name": "evergreen high school seattle",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "12h ago",
+          "started": "14h ago",
           "trendBreakdown": "evergreen",
           "percentageIncrease": "600%"
-        },
-        {
-          "name": "dan bongino",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "9h ago",
-          "percentageIncrease": "700%"
         },
         {
           "name": "joe biden",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "4h ago",
+          "started": "6h ago",
           "percentageIncrease": "1000%"
         },
         {
@@ -56,23 +38,23 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "14h ago",
+          "started": "16h ago",
           "percentageIncrease": "600%"
         },
         {
-          "name": "venezuela",
+          "name": "trump",
           "relevanceScore": 95,
           "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "23h ago",
-          "percentageIncrease": "300%"
+          "searchVolume": "10K+",
+          "started": "8h ago",
+          "percentageIncrease": "200%"
         },
         {
           "name": "dan newhouse",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "15h ago",
+          "started": "17h ago",
           "percentageIncrease": "400%"
         },
         {
@@ -80,7 +62,7 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "18h ago",
+          "started": "20h ago",
           "percentageIncrease": "200%"
         },
         {
@@ -88,7 +70,7 @@
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "20h ago",
+          "started": "22h ago",
           "percentageIncrease": "100%"
         }
       ]
