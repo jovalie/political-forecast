@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-12-18T10:04:46.921Z",
+  "timestamp": "2025-12-18T12:05:10.767Z",
   "states": [
     {
       "name": "Georgia",
@@ -13,7 +13,16 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "10K+",
-          "started": "13h ago",
+          "started": "15h ago",
+          "trendBreakdown": "speechtrump",
+          "percentageIncrease": "1000%"
+        },
+        {
+          "name": "warrior dividend",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "1K+",
+          "started": "9h ago",
           "trendBreakdown": "warrior",
           "percentageIncrease": "1000%"
         },
@@ -21,33 +30,33 @@
           "name": "dan bongino",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "12h ago",
+          "searchVolume": "2K+",
+          "started": "14h ago",
           "trendBreakdown": "dan",
           "percentageIncrease": "1000%"
-        },
-        {
-          "name": "fani willis",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "16h ago",
-          "percentageIncrease": "500%"
         },
         {
           "name": "joe biden",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "6h ago",
+          "started": "8h ago",
           "percentageIncrease": "1000%"
+        },
+        {
+          "name": "fani willis",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "1K+",
+          "started": "18h ago",
+          "percentageIncrease": "400%"
         },
         {
           "name": "schedule",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "14h ago",
+          "started": "16h ago",
           "percentageIncrease": "300%"
         }
       ]

@@ -1,20 +1,28 @@
 {
-  "timestamp": "2025-12-18T10:04:46.921Z",
+  "timestamp": "2025-12-18T12:05:10.767Z",
   "states": [
     {
       "name": "Virginia",
       "code": "VA",
-      "topTopic": "joe biden",
+      "topTopic": "warrior dividend",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
+        {
+          "name": "warrior dividend",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "2K+",
+          "started": "9h ago",
+          "trendBreakdown": "bonus",
+          "percentageIncrease": "1000%"
+        },
         {
           "name": "joe biden",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "6h ago",
-          "trendBreakdown": "news",
+          "started": "8h ago",
           "percentageIncrease": "1000%"
         },
         {
@@ -22,7 +30,7 @@
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "20h ago",
+          "started": "22h ago",
           "percentageIncrease": "100%"
         },
         {
@@ -30,7 +38,7 @@
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "20h ago",
+          "started": "22h ago",
           "percentageIncrease": "100%"
         }
       ]
