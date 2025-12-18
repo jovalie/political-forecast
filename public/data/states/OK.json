@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-12-18T12:05:10.767Z",
+  "timestamp": "2025-12-18T14:05:21.053Z",
   "states": [
     {
       "name": "Oklahoma",
@@ -13,25 +13,32 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "9h ago",
+          "started": "11h ago",
           "percentageIncrease": "800%"
-        },
-        {
-          "name": "trump to address the nation",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "2K+",
-          "started": "12h ago",
-          "trendBreakdown": "addresspresidential",
-          "percentageIncrease": "1000%"
         },
         {
           "name": "dan bongino",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "13h ago",
+          "started": "15h ago",
           "percentageIncrease": "700%"
+        },
+        {
+          "name": "trump",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "2K+",
+          "started": "13h ago",
+          "percentageIncrease": "400%"
+        },
+        {
+          "name": "venezuela",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "12h ago",
+          "percentageIncrease": "200%"
         }
       ]
     }

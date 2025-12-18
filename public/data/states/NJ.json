@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-12-18T12:05:10.767Z",
+  "timestamp": "2025-12-18T14:05:21.053Z",
   "states": [
     {
       "name": "New Jersey",
@@ -13,15 +13,23 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "9h ago",
-          "percentageIncrease": "600%"
+          "started": "11h ago",
+          "percentageIncrease": "500%"
+        },
+        {
+          "name": "mario pineida",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "15h ago",
+          "percentageIncrease": "700%"
         },
         {
           "name": "joe biden",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "8h ago",
+          "started": "10h ago",
           "percentageIncrease": "1000%"
         },
         {
@@ -29,23 +37,15 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "21h ago",
+          "started": "23h ago",
           "percentageIncrease": "700%"
-        },
-        {
-          "name": "childcare",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "22h ago",
-          "percentageIncrease": "1000%"
         },
         {
           "name": "nypost",
           "relevanceScore": 85,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "1h ago",
+          "started": "3h ago",
           "percentageIncrease": "50%"
         }
       ]

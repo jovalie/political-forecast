@@ -1,19 +1,28 @@
 {
-  "timestamp": "2025-12-18T12:05:10.767Z",
+  "timestamp": "2025-12-18T14:05:21.053Z",
   "states": [
     {
       "name": "Washington",
       "code": "WA",
-      "topTopic": "warrior dividend",
+      "topTopic": "trump to address the nation",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
+        {
+          "name": "trump to address the nation",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "10K+",
+          "started": "16h ago",
+          "trendBreakdown": "speechtrump",
+          "percentageIncrease": "1000%"
+        },
         {
           "name": "warrior dividend",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "2K+",
-          "started": "9h ago",
+          "started": "11h ago",
           "trendBreakdown": "bonus",
           "percentageIncrease": "1000%"
         },
@@ -22,7 +31,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "13h ago",
+          "started": "15h ago",
           "percentageIncrease": "700%"
         },
         {
@@ -30,7 +39,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "16h ago",
+          "started": "18h ago",
           "trendBreakdown": "evergreen",
           "percentageIncrease": "600%"
         },
@@ -39,7 +48,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "8h ago",
+          "started": "10h ago",
           "percentageIncrease": "1000%"
         },
         {
@@ -47,32 +56,16 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "18h ago",
+          "started": "20h ago",
           "percentageIncrease": "600%"
-        },
-        {
-          "name": "trump",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "10K+",
-          "started": "10h ago",
-          "percentageIncrease": "200%"
         },
         {
           "name": "dan newhouse",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "19h ago",
+          "started": "21h ago",
           "percentageIncrease": "400%"
-        },
-        {
-          "name": "the columbian",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "22h ago",
-          "percentageIncrease": "200%"
         }
       ]
     }

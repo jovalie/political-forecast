@@ -1,36 +1,44 @@
 {
-  "timestamp": "2025-12-18T12:05:10.767Z",
+  "timestamp": "2025-12-18T14:05:21.053Z",
   "states": [
     {
       "name": "Louisiana",
       "code": "LA",
-      "topTopic": "trump to address the nation",
+      "topTopic": "warrior dividend",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
         {
-          "name": "trump to address the nation",
+          "name": "warrior dividend",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "2K+",
-          "started": "12h ago",
-          "trendBreakdown": "trumpdonald",
-          "percentageIncrease": "1000%"
+          "searchVolume": "500+",
+          "started": "10h ago",
+          "percentageIncrease": "500%"
         },
         {
           "name": "dan bongino",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "13h ago",
-          "percentageIncrease": "600%"
+          "started": "15h ago",
+          "percentageIncrease": "500%"
+        },
+        {
+          "name": "trump to address the nation",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "2K+",
+          "started": "14h ago",
+          "trendBreakdown": "trumpdonald",
+          "percentageIncrease": "900%"
         },
         {
           "name": "venezuela",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "10h ago",
+          "started": "12h ago",
           "percentageIncrease": "200%"
         }
       ]

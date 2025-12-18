@@ -1,19 +1,28 @@
 {
-  "timestamp": "2025-12-18T12:05:10.767Z",
+  "timestamp": "2025-12-18T14:05:21.053Z",
   "states": [
     {
       "name": "South Carolina",
       "code": "SC",
-      "topTopic": "trump to address the nation",
+      "topTopic": "don holt bridge",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
+        {
+          "name": "don holt bridge",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "2K+",
+          "started": "2h ago",
+          "trendBreakdown": "don",
+          "percentageIncrease": "1000%"
+        },
         {
           "name": "trump to address the nation",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "5K+",
-          "started": "14h ago",
+          "started": "16h ago",
           "trendBreakdown": "speechtrump",
           "percentageIncrease": "1000%"
         },
@@ -21,8 +30,8 @@
           "name": "warrior dividend",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "9h ago",
+          "searchVolume": "1K+",
+          "started": "11h ago",
           "percentageIncrease": "600%"
         },
         {
@@ -30,7 +39,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "13h ago",
+          "started": "15h ago",
           "percentageIncrease": "700%"
         },
         {
@@ -38,16 +47,8 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "7h ago",
+          "started": "9h ago",
           "percentageIncrease": "1000%"
-        },
-        {
-          "name": "debra newton",
-          "relevanceScore": 90,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "20 minutes ago",
-          "percentageIncrease": "100%"
         }
       ]
     }

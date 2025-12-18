@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-12-18T12:05:10.767Z",
+  "timestamp": "2025-12-18T14:05:21.053Z",
   "states": [
     {
       "name": "District of Columbia",
@@ -13,17 +13,8 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "2K+",
-          "started": "9h ago",
-          "trendBreakdown": "military",
-          "percentageIncrease": "1000%"
-        },
-        {
-          "name": "joe biden",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "8h ago",
-          "trendBreakdown": "abc",
+          "started": "11h ago",
+          "trendBreakdown": "bonus",
           "percentageIncrease": "1000%"
         },
         {
@@ -31,16 +22,33 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "16h ago",
+          "started": "18h ago",
           "percentageIncrease": "900%"
+        },
+        {
+          "name": "bbc",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "4h ago",
+          "trendBreakdown": "joe",
+          "percentageIncrease": "300%"
+        },
+        {
+          "name": "strava",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "50 minutes ago",
+          "trendBreakdown": "shireen",
+          "percentageIncrease": "200%"
         },
         {
           "name": "trump venezuela",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "9h ago",
-          "trendBreakdown": "war",
+          "started": "11h ago",
           "percentageIncrease": "200%"
         },
         {
@@ -48,7 +56,7 @@
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "9h ago",
+          "started": "11h ago",
           "percentageIncrease": "100%"
         }
       ]
