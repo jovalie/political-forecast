@@ -1,94 +1,97 @@
 {
-  "timestamp": "2025-12-18T02:34:38.184Z",
+  "timestamp": "2025-12-18T04:12:38.793Z",
   "states": [
     {
       "name": "California",
       "code": "CA",
-      "topTopic": "luxury hotel",
+      "topTopic": "strava",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
         {
-          "name": "luxury hotel",
+          "name": "strava",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "5K+",
+          "started": "22h ago",
+          "percentageIncrease": "500%"
+        },
+        {
+          "name": "warrior dividend",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "2K+",
+          "started": "1h ago",
+          "trendBreakdown": "bonusmilitary",
+          "percentageIncrease": "1000%"
+        },
+        {
+          "name": "joe biden",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "22h ago",
-          "percentageIncrease": "600%"
+          "started": "40 minutes ago",
+          "trendBreakdown": "abc",
+          "percentageIncrease": "1000%"
+        },
+        {
+          "name": "samson nacua",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "1h ago",
+          "trendBreakdown": "puka",
+          "percentageIncrease": "500%"
         },
         {
           "name": "razor blades found in bread at walmart",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "21h ago",
+          "started": "22h ago",
           "percentageIncrease": "500%"
         },
         {
-          "name": "strava",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "5K+",
-          "started": "21h ago",
-          "percentageIncrease": "400%"
-        },
-        {
-          "name": "debra newton",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "2K+",
-          "started": "22h ago",
-          "trendBreakdown": "debra",
-          "percentageIncrease": "400%"
-        },
-        {
-          "name": "health",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "22h ago",
-          "trendBreakdown": "republicans",
-          "percentageIncrease": "300%"
-        },
-        {
-          "name": "camera",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "23h ago",
-          "trendBreakdown": "santa",
-          "percentageIncrease": "300%"
-        },
-        {
-          "name": "travel",
+          "name": "kevin kiley",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "22h ago",
+          "started": "30 minutes ago",
+          "trendBreakdown": "republicans",
           "percentageIncrease": "400%"
         },
         {
-          "name": "defense bill senate",
-          "relevanceScore": 95,
+          "name": "jack smith",
+          "relevanceScore": 90,
           "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "1h ago",
-          "percentageIncrease": "200%"
+          "searchVolume": "1K+",
+          "started": "10h ago",
+          "trendBreakdown": "nbc",
+          "percentageIncrease": "100%"
+        },
+        {
+          "name": "war with venezuela",
+          "relevanceScore": 90,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "5h ago",
+          "trendBreakdown": "venezuela",
+          "percentageIncrease": "100%"
         },
         {
           "name": "war",
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "20 minutes ago",
+          "started": "1h ago",
           "percentageIncrease": "100%"
         },
         {
-          "name": "flu influenza",
+          "name": "plane",
           "relevanceScore": 90,
           "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "30 minutes ago",
+          "searchVolume": "500+",
+          "started": "13h ago",
           "percentageIncrease": "100%"
         }
       ]
@@ -104,9 +107,17 @@
           "name": "trump to address the nation",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "2K+",
-          "started": "4h ago",
-          "trendBreakdown": "addresstrump",
+          "searchVolume": "5K+",
+          "started": "5h ago",
+          "trendBreakdown": "speechtrump",
+          "percentageIncrease": "1000%"
+        },
+        {
+          "name": "warrior dividend",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "1h ago",
           "percentageIncrease": "1000%"
         },
         {
@@ -114,43 +125,60 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "4h ago",
+          "started": "6h ago",
           "trendBreakdown": "dan",
           "percentageIncrease": "1000%"
-        },
-        {
-          "name": "venezuela",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "23h ago",
-          "percentageIncrease": "300%"
         }
       ]
     },
     {
       "name": "Florida",
       "code": "FL",
-      "topTopic": "debra newton marion county",
+      "topTopic": "warrior dividend",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
         {
-          "name": "debra newton marion county",
+          "name": "warrior dividend",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "2K+",
+          "started": "2h ago",
+          "trendBreakdown": "bonusmilitary",
+          "percentageIncrease": "1000%"
+        },
+        {
+          "name": "joe biden",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "15h ago",
-          "percentageIncrease": "500%"
+          "started": "30 minutes ago",
+          "trendBreakdown": "abc",
+          "percentageIncrease": "1000%"
         },
         {
-          "name": "venezuela",
+          "name": "debra newton marion county",
           "relevanceScore": 95,
           "category": "Law and Government",
-          "searchVolume": "2K+",
-          "started": "23h ago",
-          "trendBreakdown": "trump",
+          "searchVolume": "1K+",
+          "started": "16h ago",
           "percentageIncrease": "400%"
+        },
+        {
+          "name": "defense bill senate",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "1h ago",
+          "percentageIncrease": "200%"
+        },
+        {
+          "name": "strava",
+          "relevanceScore": 90,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "3h ago",
+          "percentageIncrease": "100%"
         }
       ]
     },
@@ -165,9 +193,17 @@
           "name": "trump to address the nation",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "5K+",
-          "started": "5h ago",
-          "trendBreakdown": "address",
+          "searchVolume": "10K+",
+          "started": "7h ago",
+          "trendBreakdown": "speechtrump",
+          "percentageIncrease": "1000%"
+        },
+        {
+          "name": "warrior dividend",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "1K+",
+          "started": "1h ago",
           "percentageIncrease": "1000%"
         },
         {
@@ -175,7 +211,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "4h ago",
+          "started": "6h ago",
           "trendBreakdown": "dan",
           "percentageIncrease": "1000%"
         },
@@ -184,15 +220,23 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "9h ago",
-          "percentageIncrease": "600%"
+          "started": "11h ago",
+          "percentageIncrease": "500%"
+        },
+        {
+          "name": "joe biden",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "10 minutes ago",
+          "percentageIncrease": "1000%"
         },
         {
           "name": "debra newton",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "20h ago",
+          "started": "22h ago",
           "percentageIncrease": "500%"
         },
         {
@@ -200,7 +244,7 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "6h ago",
+          "started": "8h ago",
           "percentageIncrease": "300%"
         }
       ]
@@ -208,41 +252,32 @@
     {
       "name": "Illinois",
       "code": "IL",
-      "topTopic": "health",
+      "topTopic": "warrior dividend",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
+        {
+          "name": "warrior dividend",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "1h ago",
+          "percentageIncrease": "1000%"
+        },
         {
           "name": "health",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "50 minutes ago",
+          "started": "2h ago",
           "percentageIncrease": "600%"
-        },
-        {
-          "name": "venezuela",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "23h ago",
-          "percentageIncrease": "400%"
-        },
-        {
-          "name": "vanity fair trump cabinet",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "20h ago",
-          "trendBreakdown": "vanity",
-          "percentageIncrease": "400%"
         },
         {
           "name": "debra newton",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "16h ago",
+          "started": "18h ago",
           "percentageIncrease": "400%"
         }
       ]
@@ -258,8 +293,8 @@
           "name": "trump to address the nation",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "2K+",
-          "started": "4h ago",
+          "searchVolume": "5K+",
+          "started": "6h ago",
           "trendBreakdown": "addresspresidential",
           "percentageIncrease": "1000%"
         },
@@ -267,8 +302,16 @@
           "name": "dan bongino",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "4h ago",
+          "searchVolume": "1K+",
+          "started": "5h ago",
+          "percentageIncrease": "1000%"
+        },
+        {
+          "name": "warrior dividend",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "1h ago",
           "percentageIncrease": "1000%"
         }
       ]
@@ -285,8 +328,16 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "5K+",
-          "started": "4h ago",
-          "trendBreakdown": "addresstrump",
+          "started": "6h ago",
+          "trendBreakdown": "speechtrump",
+          "percentageIncrease": "1000%"
+        },
+        {
+          "name": "warrior dividend",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "1h ago",
           "percentageIncrease": "1000%"
         },
         {
@@ -294,7 +345,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "5h ago",
+          "started": "6h ago",
           "percentageIncrease": "1000%"
         },
         {
@@ -302,7 +353,7 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "13h ago",
+          "started": "15h ago",
           "percentageIncrease": "300%"
         }
       ]
@@ -319,7 +370,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "4h ago",
+          "started": "5h ago",
           "percentageIncrease": "1000%"
         }
       ]
@@ -335,9 +386,9 @@
           "name": "trump to address the nation",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "5K+",
-          "started": "5h ago",
-          "trendBreakdown": "address",
+          "searchVolume": "10K+",
+          "started": "7h ago",
+          "trendBreakdown": "speechtrump",
           "percentageIncrease": "1000%"
         },
         {
@@ -345,7 +396,23 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "4h ago",
+          "started": "6h ago",
+          "percentageIncrease": "1000%"
+        },
+        {
+          "name": "warrior dividend",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "1h ago",
+          "percentageIncrease": "1000%"
+        },
+        {
+          "name": "joe biden",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "20 minutes ago",
           "percentageIncrease": "1000%"
         },
         {
@@ -353,17 +420,9 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "13h ago",
+          "started": "14h ago",
           "trendBreakdown": "hudson",
           "percentageIncrease": "1000%"
-        },
-        {
-          "name": "venezuela",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "22h ago",
-          "percentageIncrease": "400%"
         }
       ]
     },
@@ -378,9 +437,17 @@
           "name": "trump to address the nation",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "2K+",
-          "started": "4h ago",
-          "trendBreakdown": "address",
+          "searchVolume": "5K+",
+          "started": "6h ago",
+          "trendBreakdown": "speechtrump",
+          "percentageIncrease": "1000%"
+        },
+        {
+          "name": "warrior dividend",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "1h ago",
           "percentageIncrease": "1000%"
         },
         {
@@ -388,16 +455,15 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "3h ago",
+          "started": "5h ago",
           "percentageIncrease": "1000%"
         },
         {
-          "name": "nuno loureiro",
+          "name": "venezuela",
           "relevanceScore": 95,
           "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "20h ago",
-          "trendBreakdown": "mit",
+          "searchVolume": "500+",
+          "started": "4h ago",
           "percentageIncrease": "200%"
         }
       ]
@@ -414,23 +480,31 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "21h ago",
+          "started": "23h ago",
           "percentageIncrease": "500%"
         },
         {
-          "name": "dulce alavez",
+          "name": "defense bill senate",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "7h ago",
-          "percentageIncrease": "1000%"
+          "started": "1h ago",
+          "percentageIncrease": "600%"
         },
         {
           "name": "childcare",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "12h ago",
+          "started": "14h ago",
+          "percentageIncrease": "1000%"
+        },
+        {
+          "name": "dulce alavez",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "9h ago",
           "percentageIncrease": "1000%"
         },
         {
@@ -438,7 +512,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "5h ago",
+          "started": "7h ago",
           "trendBreakdown": "breaking",
           "percentageIncrease": "600%"
         }
@@ -455,9 +529,17 @@
           "name": "trump to address the nation",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "5K+",
-          "started": "5h ago",
-          "trendBreakdown": "trump",
+          "searchVolume": "10K+",
+          "started": "7h ago",
+          "trendBreakdown": "presidential",
+          "percentageIncrease": "1000%"
+        },
+        {
+          "name": "warrior dividend",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "1K+",
+          "started": "1h ago",
           "percentageIncrease": "1000%"
         },
         {
@@ -465,83 +547,83 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "5h ago",
+          "started": "6h ago",
           "trendBreakdown": "dan",
           "percentageIncrease": "1000%"
         },
         {
           "name": "lumbee tribe",
-          "relevanceScore": 100,
+          "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "9h ago",
-          "percentageIncrease": "500%"
+          "started": "10h ago",
+          "percentageIncrease": "400%"
         },
         {
           "name": "war with venezuela",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "20 minutes ago",
+          "started": "2h ago",
           "trendBreakdown": "cbs",
           "percentageIncrease": "300%"
+        },
+        {
+          "name": "nbc news",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "1h ago",
+          "percentageIncrease": "200%"
         }
       ]
     },
     {
       "name": "New York",
       "code": "NY",
-      "topTopic": "mario pineida",
+      "topTopic": "warrior dividend",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
         {
-          "name": "mario pineida",
+          "name": "warrior dividend",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "3h ago",
-          "percentageIncrease": "600%"
+          "started": "1h ago",
+          "percentageIncrease": "1000%"
+        },
+        {
+          "name": "mario pineida",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "1K+",
+          "started": "5h ago",
+          "percentageIncrease": "500%"
         },
         {
           "name": "luxury hotel",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "15h ago",
+          "started": "17h ago",
           "percentageIncrease": "1000%"
-        },
-        {
-          "name": "trump",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "10K+",
-          "started": "2h ago",
-          "percentageIncrease": "200%"
-        },
-        {
-          "name": "christina chambers",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "23h ago",
-          "percentageIncrease": "200%"
-        },
-        {
-          "name": "strava",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "4h ago",
-          "trendBreakdown": "shireen",
-          "percentageIncrease": "200%"
         },
         {
           "name": "debra newton",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "20h ago",
+          "started": "22h ago",
+          "percentageIncrease": "400%"
+        },
+        {
+          "name": "defense bill senate",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "2h ago",
+          "trendBreakdown": "senate",
           "percentageIncrease": "400%"
         },
         {
@@ -549,27 +631,27 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "8h ago",
+          "started": "10h ago",
           "trendBreakdown": "newsap",
           "percentageIncrease": "300%"
         },
         {
-          "name": "health",
+          "name": "republicans obamacare",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "9h ago",
-          "trendBreakdown": "republicans",
-          "percentageIncrease": "200%"
+          "started": "8h ago",
+          "trendBreakdown": "lawlermike",
+          "percentageIncrease": "300%"
         },
         {
-          "name": "camera",
-          "relevanceScore": 95,
+          "name": "strava",
+          "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "22h ago",
-          "trendBreakdown": "kash",
-          "percentageIncrease": "200%"
+          "started": "5h ago",
+          "trendBreakdown": "shireen",
+          "percentageIncrease": "100%"
         }
       ]
     },
@@ -584,26 +666,34 @@
           "name": "dan bongino",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "4h ago",
+          "searchVolume": "2K+",
+          "started": "6h ago",
           "trendBreakdown": "dan",
           "percentageIncrease": "1000%"
         },
         {
-          "name": "venezuela",
+          "name": "warrior dividend",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "23h ago",
-          "percentageIncrease": "600%"
+          "searchVolume": "500+",
+          "started": "1h ago",
+          "percentageIncrease": "1000%"
+        },
+        {
+          "name": "joe biden",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "20 minutes ago",
+          "percentageIncrease": "1000%"
         },
         {
           "name": "debra newton",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "18h ago",
-          "percentageIncrease": "600%"
+          "started": "20h ago",
+          "percentageIncrease": "500%"
         }
       ]
     },
@@ -618,9 +708,9 @@
           "name": "trump to address the nation",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "2h ago",
-          "trendBreakdown": "address",
+          "searchVolume": "2K+",
+          "started": "4h ago",
+          "trendBreakdown": "speech",
           "percentageIncrease": "1000%"
         },
         {
@@ -628,56 +718,72 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "3h ago",
-          "percentageIncrease": "900%"
+          "started": "5h ago",
+          "percentageIncrease": "800%"
         },
         {
-          "name": "news",
-          "relevanceScore": 90,
+          "name": "kgw",
+          "relevanceScore": 95,
           "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "16h ago",
-          "percentageIncrease": "100%"
+          "searchVolume": "1K+",
+          "started": "18h ago",
+          "percentageIncrease": "200%"
         }
       ]
     },
     {
       "name": "Pennsylvania",
       "code": "PA",
-      "topTopic": "debra newton",
+      "topTopic": "warrior dividend",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
+        {
+          "name": "warrior dividend",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "1h ago",
+          "percentageIncrease": "1000%"
+        },
         {
           "name": "debra newton",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "16h ago",
-          "percentageIncrease": "600%"
+          "started": "18h ago",
+          "percentageIncrease": "700%"
+        },
+        {
+          "name": "franklin inn",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "1h ago",
+          "percentageIncrease": "800%"
+        },
+        {
+          "name": "trump",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "10K+",
+          "started": "3h ago",
+          "percentageIncrease": "400%"
         },
         {
           "name": "east berlin pa",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "1h ago",
+          "started": "3h ago",
           "percentageIncrease": "400%"
-        },
-        {
-          "name": "christina chambers",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "23h ago",
-          "percentageIncrease": "300%"
         },
         {
           "name": "republicans obamacare",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "6h ago",
+          "started": "7h ago",
           "percentageIncrease": "400%"
         }
       ]
@@ -693,9 +799,9 @@
           "name": "trump to address the nation",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "2K+",
-          "started": "5h ago",
-          "trendBreakdown": "addresspresidential",
+          "searchVolume": "5K+",
+          "started": "6h ago",
+          "trendBreakdown": "speechtrump",
           "percentageIncrease": "1000%"
         },
         {
@@ -703,16 +809,8 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "3h ago",
-          "percentageIncrease": "1000%"
-        },
-        {
-          "name": "venezuela",
-          "relevanceScore": 90,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "1h ago",
-          "percentageIncrease": "100%"
+          "started": "5h ago",
+          "percentageIncrease": "900%"
         }
       ]
     },
@@ -728,8 +826,16 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "5K+",
-          "started": "4h ago",
+          "started": "5h ago",
           "trendBreakdown": "addresspresidential",
+          "percentageIncrease": "1000%"
+        },
+        {
+          "name": "warrior dividend",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "1h ago",
           "percentageIncrease": "1000%"
         },
         {
@@ -737,7 +843,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "4h ago",
+          "started": "5h ago",
           "percentageIncrease": "1000%"
         },
         {
@@ -745,7 +851,7 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "21h ago",
+          "started": "23h ago",
           "percentageIncrease": "400%"
         },
         {
@@ -753,49 +859,93 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "13h ago",
+          "started": "15h ago",
           "percentageIncrease": "300%"
-        },
-        {
-          "name": "nuno loureiro",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "23h ago",
-          "percentageIncrease": "400%"
         }
       ]
     },
     {
       "name": "Texas",
       "code": "TX",
-      "topTopic": "sterling high school",
+      "topTopic": "warrior dividend",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
         {
-          "name": "sterling high school",
+          "name": "warrior dividend",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "2K+",
-          "started": "5h ago",
+          "started": "2h ago",
+          "trendBreakdown": "military",
+          "percentageIncrease": "1000%"
+        },
+        {
+          "name": "joe biden",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "40 minutes ago",
+          "trendBreakdown": "abc",
+          "percentageIncrease": "1000%"
+        },
+        {
+          "name": "sterling high school",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "2K+",
+          "started": "7h ago",
           "trendBreakdown": "sterling",
-          "percentageIncrease": "500%"
+          "percentageIncrease": "400%"
+        },
+        {
+          "name": "debra newton",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "2K+",
+          "started": "23h ago",
+          "trendBreakdown": "debra",
+          "percentageIncrease": "300%"
         },
         {
           "name": "defense bill senate",
           "relevanceScore": 95,
           "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "1h ago",
-          "percentageIncrease": "400%"
+          "searchVolume": "500+",
+          "started": "2h ago",
+          "percentageIncrease": "300%"
+        },
+        {
+          "name": "miriam adelson",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "1K+",
+          "started": "12h ago",
+          "percentageIncrease": "300%"
         },
         {
           "name": "strava",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "50 minutes ago",
+          "started": "2h ago",
+          "percentageIncrease": "200%"
+        },
+        {
+          "name": "myles jack",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "6h ago",
+          "percentageIncrease": "200%"
+        },
+        {
+          "name": "health",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "11h ago",
+          "trendBreakdown": "republicans",
           "percentageIncrease": "200%"
         },
         {
@@ -803,100 +953,76 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "50 minutes ago",
+          "started": "2h ago",
           "percentageIncrease": "300%"
-        },
-        {
-          "name": "vanity fair trump cabinet",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "23h ago",
-          "percentageIncrease": "200%"
-        },
-        {
-          "name": "debra newton",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "2K+",
-          "started": "21h ago",
-          "trendBreakdown": "debra",
-          "percentageIncrease": "300%"
-        },
-        {
-          "name": "health",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "9h ago",
-          "trendBreakdown": "republicans",
-          "percentageIncrease": "200%"
-        },
-        {
-          "name": "miriam adelson",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "11h ago",
-          "percentageIncrease": "300%"
-        },
-        {
-          "name": "schedule",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "5h ago",
-          "percentageIncrease": "200%"
-        },
-        {
-          "name": "plane",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "10h ago",
-          "percentageIncrease": "200%"
         }
       ]
     },
     {
       "name": "Virginia",
       "code": "VA",
-      "topTopic": "venezuela",
+      "topTopic": "warrior dividend",
       "category": "Law and Government",
-      "trendingScore": 95,
+      "trendingScore": 100,
       "topics": [
         {
-          "name": "venezuela",
-          "relevanceScore": 95,
+          "name": "warrior dividend",
+          "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "23h ago",
-          "percentageIncrease": "400%"
+          "searchVolume": "2K+",
+          "started": "2h ago",
+          "trendBreakdown": "military",
+          "percentageIncrease": "1000%"
+        },
+        {
+          "name": "defense bill senate",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "1h ago",
+          "percentageIncrease": "600%"
+        },
+        {
+          "name": "dollar tree near me",
+          "relevanceScore": 90,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "14h ago",
+          "percentageIncrease": "100%"
         }
       ]
     },
     {
       "name": "District of Columbia",
       "code": "DC",
-      "topTopic": "reston",
+      "topTopic": "warrior dividend",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
+        {
+          "name": "warrior dividend",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "1K+",
+          "started": "1h ago",
+          "trendBreakdown": "cbs",
+          "percentageIncrease": "1000%"
+        },
         {
           "name": "reston",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "6h ago",
+          "started": "8h ago",
           "percentageIncrease": "900%"
         },
         {
-          "name": "ndaa",
-          "relevanceScore": 95,
+          "name": "msnbc",
+          "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "8h ago",
-          "percentageIncrease": "400%"
+          "started": "1h ago",
+          "percentageIncrease": "100%"
         }
       ]
     },
@@ -911,18 +1037,25 @@
           "name": "trump to address the nation",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "3h ago",
-          "trendBreakdown": "addresspresidential",
+          "searchVolume": "2K+",
+          "started": "4h ago",
+          "trendBreakdown": "trumpdonald",
           "percentageIncrease": "1000%"
+        },
+        {
+          "name": "dan bongino",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "5h ago",
+          "percentageIncrease": "700%"
         },
         {
           "name": "venezuela",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "30 minutes ago",
-          "trendBreakdown": "pricesoil",
+          "started": "2h ago",
           "percentageIncrease": "200%"
         }
       ]
@@ -955,17 +1088,25 @@
           "name": "trump to address the nation",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "5K+",
-          "started": "5h ago",
-          "trendBreakdown": "addresstrump",
+          "searchVolume": "10K+",
+          "started": "6h ago",
+          "trendBreakdown": "speechtrump",
+          "percentageIncrease": "1000%"
+        },
+        {
+          "name": "warrior dividend",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "1K+",
+          "started": "1h ago",
           "percentageIncrease": "1000%"
         },
         {
           "name": "dan bongino",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "4h ago",
+          "searchVolume": "1K+",
+          "started": "5h ago",
           "percentageIncrease": "1000%"
         },
         {
@@ -973,16 +1114,24 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "6h ago",
+          "started": "8h ago",
           "trendBreakdown": "evergreen",
-          "percentageIncrease": "800%"
+          "percentageIncrease": "700%"
+        },
+        {
+          "name": "kgw",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "13h ago",
+          "percentageIncrease": "500%"
         },
         {
           "name": "venezuela",
           "relevanceScore": 95,
           "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "17h ago",
+          "searchVolume": "1K+",
+          "started": "19h ago",
           "percentageIncrease": "300%"
         },
         {
@@ -990,7 +1139,7 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "9h ago",
+          "started": "11h ago",
           "percentageIncrease": "400%"
         },
         {
@@ -998,7 +1147,7 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "12h ago",
+          "started": "14h ago",
           "percentageIncrease": "200%"
         },
         {
@@ -1006,8 +1155,16 @@
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "15h ago",
+          "started": "16h ago",
           "percentageIncrease": "100%"
+        },
+        {
+          "name": "news today",
+          "relevanceScore": 85,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "17h ago",
+          "percentageIncrease": "50%"
         }
       ]
     },
@@ -1022,8 +1179,8 @@
           "name": "trump to address the nation",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "3h ago",
+          "searchVolume": "2K+",
+          "started": "4h ago",
           "trendBreakdown": "addresspresidential",
           "percentageIncrease": "1000%"
         },
@@ -1032,8 +1189,8 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "3h ago",
-          "percentageIncrease": "900%"
+          "started": "4h ago",
+          "percentageIncrease": "800%"
         }
       ]
     },
@@ -1048,8 +1205,8 @@
           "name": "trump to address the nation",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "3h ago",
+          "searchVolume": "2K+",
+          "started": "4h ago",
           "trendBreakdown": "addresspresidential",
           "percentageIncrease": "1000%"
         },
@@ -1058,7 +1215,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "2h ago",
+          "started": "3h ago",
           "percentageIncrease": "500%"
         }
       ]
@@ -1066,17 +1223,25 @@
     {
       "name": "New Mexico",
       "code": "NM",
-      "topTopic": "benjamin erickson",
+      "topTopic": "trump to address the nation",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
         {
-          "name": "benjamin erickson",
+          "name": "trump to address the nation",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "22h ago",
+          "started": "3h ago",
           "percentageIncrease": "700%"
+        },
+        {
+          "name": "warrior dividend",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "40 minutes ago",
+          "percentageIncrease": "900%"
         }
       ]
     },
@@ -1091,9 +1256,17 @@
           "name": "trump to address the nation",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "2K+",
-          "started": "3h ago",
-          "trendBreakdown": "address",
+          "searchVolume": "5K+",
+          "started": "5h ago",
+          "trendBreakdown": "speechtrump",
+          "percentageIncrease": "1000%"
+        },
+        {
+          "name": "warrior dividend",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "1h ago",
           "percentageIncrease": "1000%"
         },
         {
@@ -1101,7 +1274,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "3h ago",
+          "started": "5h ago",
           "percentageIncrease": "1000%"
         },
         {
@@ -1109,7 +1282,7 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "13h ago",
+          "started": "15h ago",
           "percentageIncrease": "300%"
         },
         {
@@ -1117,7 +1290,7 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "20h ago",
+          "started": "22h ago",
           "percentageIncrease": "200%"
         }
       ]
@@ -1133,9 +1306,9 @@
           "name": "trump to address the nation",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "3h ago",
-          "trendBreakdown": "addresspresidential",
+          "searchVolume": "2K+",
+          "started": "4h ago",
+          "trendBreakdown": "speechtrump",
           "percentageIncrease": "1000%"
         },
         {
@@ -1143,7 +1316,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "1h ago",
+          "started": "3h ago",
           "percentageIncrease": "500%"
         }
       ]
@@ -1159,10 +1332,26 @@
           "name": "trump to address the nation",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "2h ago",
-          "trendBreakdown": "addresspresidential",
+          "searchVolume": "2K+",
+          "started": "4h ago",
+          "trendBreakdown": "trumpdonald",
           "percentageIncrease": "1000%"
+        },
+        {
+          "name": "dan bongino",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "5h ago",
+          "percentageIncrease": "600%"
+        },
+        {
+          "name": "venezuela",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "2h ago",
+          "percentageIncrease": "200%"
         }
       ]
     },
@@ -1177,9 +1366,9 @@
           "name": "trump to address the nation",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "5K+",
-          "started": "4h ago",
-          "trendBreakdown": "addresspresidential",
+          "searchVolume": "10K+",
+          "started": "6h ago",
+          "trendBreakdown": "speechtrump",
           "percentageIncrease": "1000%"
         },
         {
@@ -1187,23 +1376,23 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "4h ago",
-          "percentageIncrease": "900%"
+          "started": "5h ago",
+          "percentageIncrease": "800%"
         },
         {
           "name": "venezuela",
-          "relevanceScore": 95,
+          "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "13h ago",
-          "percentageIncrease": "400%"
+          "started": "15h ago",
+          "percentageIncrease": "500%"
         },
         {
           "name": "news today",
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "14h ago",
+          "started": "16h ago",
           "trendBreakdown": "mustapha",
           "percentageIncrease": "100%"
         }
@@ -1220,9 +1409,17 @@
           "name": "trump to address the nation",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "2h ago",
+          "searchVolume": "1K+",
+          "started": "3h ago",
           "percentageIncrease": "1000%"
+        },
+        {
+          "name": "warrior dividend",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "30 minutes ago",
+          "percentageIncrease": "900%"
         }
       ]
     },
@@ -1237,9 +1434,9 @@
           "name": "trump to address the nation",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "2h ago",
-          "trendBreakdown": "trumpdonald",
+          "searchVolume": "1K+",
+          "started": "3h ago",
+          "trendBreakdown": "speech",
           "percentageIncrease": "1000%"
         },
         {
@@ -1247,7 +1444,7 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "1h ago",
+          "started": "2h ago",
           "percentageIncrease": "200%"
         }
       ]
@@ -1263,9 +1460,17 @@
           "name": "trump to address the nation",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "2K+",
-          "started": "3h ago",
-          "trendBreakdown": "addresspresidential",
+          "searchVolume": "5K+",
+          "started": "5h ago",
+          "trendBreakdown": "speechtrump",
+          "percentageIncrease": "1000%"
+        },
+        {
+          "name": "warrior dividend",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "1h ago",
           "percentageIncrease": "1000%"
         },
         {
@@ -1273,16 +1478,8 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "4h ago",
+          "started": "5h ago",
           "percentageIncrease": "1000%"
-        },
-        {
-          "name": "venezuela",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "30 minutes ago",
-          "percentageIncrease": "200%"
         }
       ]
     },
@@ -1298,9 +1495,17 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "2K+",
-          "started": "3h ago",
-          "trendBreakdown": "address",
+          "started": "5h ago",
+          "trendBreakdown": "speechtrump",
           "percentageIncrease": "1000%"
+        },
+        {
+          "name": "dan bongino",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "5h ago",
+          "percentageIncrease": "800%"
         }
       ]
     },
@@ -1316,25 +1521,42 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "2K+",
-          "started": "4h ago",
+          "started": "6h ago",
           "trendBreakdown": "addresspresidential",
           "percentageIncrease": "1000%"
+        },
+        {
+          "name": "dan bongino",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "5h ago",
+          "percentageIncrease": "800%"
         }
       ]
     },
     {
       "name": "Puerto Rico",
       "code": "PR",
-      "topTopic": "departamento de educacion",
+      "topTopic": "trump",
       "category": "Law and Government",
-      "trendingScore": 90,
+      "trendingScore": 100,
       "topics": [
+        {
+          "name": "trump",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "2h ago",
+          "trendBreakdown": "donald",
+          "percentageIncrease": "900%"
+        },
         {
           "name": "departamento de educacion",
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "14h ago",
+          "started": "16h ago",
           "percentageIncrease": "100%"
         }
       ]
@@ -1342,17 +1564,17 @@
     {
       "name": "West Virginia",
       "code": "WV",
-      "topTopic": "where is brown university",
+      "topTopic": "trump to address the nation",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
         {
-          "name": "where is brown university",
+          "name": "trump to address the nation",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "23h ago",
-          "percentageIncrease": "600%"
+          "searchVolume": "500+",
+          "started": "3h ago",
+          "percentageIncrease": "900%"
         }
       ]
     },
@@ -1367,17 +1589,33 @@
           "name": "trump to address the nation",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "2h ago",
-          "trendBreakdown": "trumpdonald",
+          "searchVolume": "2K+",
+          "started": "4h ago",
+          "trendBreakdown": "speechtrump",
           "percentageIncrease": "1000%"
+        },
+        {
+          "name": "blake cozzens",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "12h ago",
+          "percentageIncrease": "600%"
+        },
+        {
+          "name": "warrior dividend",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "30 minutes ago",
+          "percentageIncrease": "900%"
         },
         {
           "name": "venezuela",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "20 minutes ago",
+          "started": "2h ago",
           "percentageIncrease": "200%"
         }
       ]
@@ -1393,8 +1631,9 @@
           "name": "trump to address the nation",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "2h ago",
+          "searchVolume": "1K+",
+          "started": "3h ago",
+          "trendBreakdown": "address",
           "percentageIncrease": "1000%"
         }
       ]
@@ -1402,51 +1641,59 @@
     {
       "name": "Idaho",
       "code": "ID",
-      "topTopic": "cnn",
+      "topTopic": "trump to address the nation",
       "category": "Law and Government",
-      "trendingScore": 90,
+      "trendingScore": 100,
       "topics": [
         {
-          "name": "cnn",
-          "relevanceScore": 90,
+          "name": "trump to address the nation",
+          "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "14h ago",
-          "percentageIncrease": "100%"
+          "searchVolume": "1K+",
+          "started": "3h ago",
+          "percentageIncrease": "1000%"
         }
       ]
     },
     {
       "name": "Mississippi",
       "code": "MS",
-      "topTopic": "christina chambers",
+      "topTopic": "trump to address the nation",
       "category": "Law and Government",
-      "trendingScore": 95,
+      "trendingScore": 100,
       "topics": [
         {
-          "name": "christina chambers",
-          "relevanceScore": 95,
+          "name": "trump to address the nation",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "2h ago",
+          "percentageIncrease": "1000%"
+        },
+        {
+          "name": "warrior dividend",
+          "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "22h ago",
-          "percentageIncrease": "300%"
+          "started": "30 minutes ago",
+          "percentageIncrease": "1000%"
         }
       ]
     },
     {
       "name": "New Hampshire",
       "code": "NH",
-      "topTopic": "fox news",
+      "topTopic": "trump to address the nation",
       "category": "Law and Government",
-      "trendingScore": 90,
+      "trendingScore": 100,
       "topics": [
         {
-          "name": "fox news",
-          "relevanceScore": 90,
+          "name": "trump to address the nation",
+          "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "10 minutes ago",
-          "percentageIncrease": "100%"
+          "searchVolume": "500+",
+          "started": "2h ago",
+          "percentageIncrease": "1000%"
         }
       ]
     },
@@ -1478,8 +1725,9 @@
           "name": "trump to address the nation",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "1h ago",
+          "searchVolume": "1K+",
+          "started": "3h ago",
+          "trendBreakdown": "addresspresidential",
           "percentageIncrease": "1000%"
         }
       ]
@@ -1504,70 +1752,51 @@
     {
       "name": "Rhode Island",
       "code": "RI",
-      "topTopic": "mustapha kharbouch",
+      "topTopic": "trump",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
         {
-          "name": "mustapha kharbouch",
+          "name": "trump",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "5K+",
-          "started": "23h ago",
-          "percentageIncrease": "1000%"
-        },
-        {
-          "name": "mit professor shot",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "2K+",
-          "started": "22h ago",
-          "trendBreakdown": "nuno",
-          "percentageIncrease": "1000%"
+          "searchVolume": "500+",
+          "started": "2h ago",
+          "percentageIncrease": "700%"
         }
       ]
     },
     {
       "name": "Delaware",
       "code": "DE",
-      "topTopic": "brown university",
+      "topTopic": "trump to address the nation",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
         {
-          "name": "brown university",
+          "name": "trump to address the nation",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "5K+",
-          "started": "23h ago",
-          "trendBreakdown": "brown",
-          "percentageIncrease": "1000%"
-        },
-        {
-          "name": "army navy",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "23h ago",
-          "percentageIncrease": "600%"
+          "searchVolume": "500+",
+          "started": "2h ago",
+          "percentageIncrease": "900%"
         }
       ]
     },
     {
       "name": "Hawaii",
       "code": "HI",
-      "topTopic": "hawaii news now",
+      "topTopic": "warrior dividend",
       "category": "Law and Government",
-      "trendingScore": 85,
+      "trendingScore": 100,
       "topics": [
         {
-          "name": "hawaii news now",
-          "relevanceScore": 85,
+          "name": "warrior dividend",
+          "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "23h ago",
-          "trendBreakdown": "star",
-          "percentageIncrease": "50%"
+          "searchVolume": "500+",
+          "started": "1h ago",
+          "percentageIncrease": "1000%"
         }
       ]
     },
@@ -1591,18 +1820,25 @@
     {
       "name": "Alaska",
       "code": "AK",
-      "topTopic": "brown university",
+      "topTopic": "warrior dividend",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
         {
-          "name": "brown university",
+          "name": "warrior dividend",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "24h ago",
-          "trendBreakdown": "brown",
-          "percentageIncrease": "700%"
+          "searchVolume": "100+",
+          "started": "20 minutes ago",
+          "percentageIncrease": "800%"
+        },
+        {
+          "name": "trump to address the nation",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "1h ago",
+          "percentageIncrease": "800%"
         }
       ]
     },

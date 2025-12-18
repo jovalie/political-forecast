@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-12-18T02:34:38.184Z",
+  "timestamp": "2025-12-18T04:12:38.793Z",
   "states": [
     {
       "name": "Oregon",
@@ -12,9 +12,9 @@
           "name": "trump to address the nation",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "2h ago",
-          "trendBreakdown": "address",
+          "searchVolume": "2K+",
+          "started": "4h ago",
+          "trendBreakdown": "speech",
           "percentageIncrease": "1000%"
         },
         {
@@ -22,16 +22,16 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "3h ago",
-          "percentageIncrease": "900%"
+          "started": "5h ago",
+          "percentageIncrease": "800%"
         },
         {
-          "name": "news",
-          "relevanceScore": 90,
+          "name": "kgw",
+          "relevanceScore": 95,
           "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "16h ago",
-          "percentageIncrease": "100%"
+          "searchVolume": "1K+",
+          "started": "18h ago",
+          "percentageIncrease": "200%"
         }
       ]
     }

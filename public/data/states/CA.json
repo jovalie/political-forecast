@@ -1,94 +1,97 @@
 {
-  "timestamp": "2025-12-18T02:34:38.184Z",
+  "timestamp": "2025-12-18T04:12:38.793Z",
   "states": [
     {
       "name": "California",
       "code": "CA",
-      "topTopic": "luxury hotel",
+      "topTopic": "strava",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
         {
-          "name": "luxury hotel",
+          "name": "strava",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "5K+",
+          "started": "22h ago",
+          "percentageIncrease": "500%"
+        },
+        {
+          "name": "warrior dividend",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "2K+",
+          "started": "1h ago",
+          "trendBreakdown": "bonusmilitary",
+          "percentageIncrease": "1000%"
+        },
+        {
+          "name": "joe biden",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "22h ago",
-          "percentageIncrease": "600%"
+          "started": "40 minutes ago",
+          "trendBreakdown": "abc",
+          "percentageIncrease": "1000%"
+        },
+        {
+          "name": "samson nacua",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "1h ago",
+          "trendBreakdown": "puka",
+          "percentageIncrease": "500%"
         },
         {
           "name": "razor blades found in bread at walmart",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "21h ago",
+          "started": "22h ago",
           "percentageIncrease": "500%"
         },
         {
-          "name": "strava",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "5K+",
-          "started": "21h ago",
-          "percentageIncrease": "400%"
-        },
-        {
-          "name": "debra newton",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "2K+",
-          "started": "22h ago",
-          "trendBreakdown": "debra",
-          "percentageIncrease": "400%"
-        },
-        {
-          "name": "health",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "22h ago",
-          "trendBreakdown": "republicans",
-          "percentageIncrease": "300%"
-        },
-        {
-          "name": "camera",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "23h ago",
-          "trendBreakdown": "santa",
-          "percentageIncrease": "300%"
-        },
-        {
-          "name": "travel",
+          "name": "kevin kiley",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "22h ago",
+          "started": "30 minutes ago",
+          "trendBreakdown": "republicans",
           "percentageIncrease": "400%"
         },
         {
-          "name": "defense bill senate",
-          "relevanceScore": 95,
+          "name": "jack smith",
+          "relevanceScore": 90,
           "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "1h ago",
-          "percentageIncrease": "200%"
+          "searchVolume": "1K+",
+          "started": "10h ago",
+          "trendBreakdown": "nbc",
+          "percentageIncrease": "100%"
+        },
+        {
+          "name": "war with venezuela",
+          "relevanceScore": 90,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "5h ago",
+          "trendBreakdown": "venezuela",
+          "percentageIncrease": "100%"
         },
         {
           "name": "war",
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "20 minutes ago",
+          "started": "1h ago",
           "percentageIncrease": "100%"
         },
         {
-          "name": "flu influenza",
+          "name": "plane",
           "relevanceScore": 90,
           "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "30 minutes ago",
+          "searchVolume": "500+",
+          "started": "13h ago",
           "percentageIncrease": "100%"
         }
       ]

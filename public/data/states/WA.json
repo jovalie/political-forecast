@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-12-18T02:34:38.184Z",
+  "timestamp": "2025-12-18T04:12:38.793Z",
   "states": [
     {
       "name": "Washington",
@@ -12,17 +12,25 @@
           "name": "trump to address the nation",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "5K+",
-          "started": "5h ago",
-          "trendBreakdown": "addresstrump",
+          "searchVolume": "10K+",
+          "started": "6h ago",
+          "trendBreakdown": "speechtrump",
+          "percentageIncrease": "1000%"
+        },
+        {
+          "name": "warrior dividend",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "1K+",
+          "started": "1h ago",
           "percentageIncrease": "1000%"
         },
         {
           "name": "dan bongino",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "4h ago",
+          "searchVolume": "1K+",
+          "started": "5h ago",
           "percentageIncrease": "1000%"
         },
         {
@@ -30,16 +38,24 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "6h ago",
+          "started": "8h ago",
           "trendBreakdown": "evergreen",
-          "percentageIncrease": "800%"
+          "percentageIncrease": "700%"
+        },
+        {
+          "name": "kgw",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "13h ago",
+          "percentageIncrease": "500%"
         },
         {
           "name": "venezuela",
           "relevanceScore": 95,
           "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "17h ago",
+          "searchVolume": "1K+",
+          "started": "19h ago",
           "percentageIncrease": "300%"
         },
         {
@@ -47,7 +63,7 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "9h ago",
+          "started": "11h ago",
           "percentageIncrease": "400%"
         },
         {
@@ -55,7 +71,7 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "12h ago",
+          "started": "14h ago",
           "percentageIncrease": "200%"
         },
         {
@@ -63,8 +79,16 @@
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "15h ago",
+          "started": "16h ago",
           "percentageIncrease": "100%"
+        },
+        {
+          "name": "news today",
+          "relevanceScore": 85,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "17h ago",
+          "percentageIncrease": "50%"
         }
       ]
     }

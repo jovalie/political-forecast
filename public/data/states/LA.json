@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-12-18T02:34:38.184Z",
+  "timestamp": "2025-12-18T04:12:38.793Z",
   "states": [
     {
       "name": "Louisiana",
@@ -12,10 +12,26 @@
           "name": "trump to address the nation",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "2h ago",
-          "trendBreakdown": "addresspresidential",
+          "searchVolume": "2K+",
+          "started": "4h ago",
+          "trendBreakdown": "trumpdonald",
           "percentageIncrease": "1000%"
+        },
+        {
+          "name": "dan bongino",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "5h ago",
+          "percentageIncrease": "600%"
+        },
+        {
+          "name": "venezuela",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "2h ago",
+          "percentageIncrease": "200%"
         }
       ]
     }

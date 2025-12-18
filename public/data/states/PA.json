@@ -1,43 +1,59 @@
 {
-  "timestamp": "2025-12-18T02:34:38.184Z",
+  "timestamp": "2025-12-18T04:12:38.793Z",
   "states": [
     {
       "name": "Pennsylvania",
       "code": "PA",
-      "topTopic": "debra newton",
+      "topTopic": "warrior dividend",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
+        {
+          "name": "warrior dividend",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "1h ago",
+          "percentageIncrease": "1000%"
+        },
         {
           "name": "debra newton",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "16h ago",
-          "percentageIncrease": "600%"
+          "started": "18h ago",
+          "percentageIncrease": "700%"
+        },
+        {
+          "name": "franklin inn",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "1h ago",
+          "percentageIncrease": "800%"
+        },
+        {
+          "name": "trump",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "10K+",
+          "started": "3h ago",
+          "percentageIncrease": "400%"
         },
         {
           "name": "east berlin pa",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "1h ago",
+          "started": "3h ago",
           "percentageIncrease": "400%"
-        },
-        {
-          "name": "christina chambers",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "23h ago",
-          "percentageIncrease": "300%"
         },
         {
           "name": "republicans obamacare",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "6h ago",
+          "started": "7h ago",
           "percentageIncrease": "400%"
         }
       ]

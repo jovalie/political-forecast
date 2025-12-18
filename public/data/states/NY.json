@@ -1,60 +1,52 @@
 {
-  "timestamp": "2025-12-18T02:34:38.184Z",
+  "timestamp": "2025-12-18T04:12:38.793Z",
   "states": [
     {
       "name": "New York",
       "code": "NY",
-      "topTopic": "mario pineida",
+      "topTopic": "warrior dividend",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
         {
-          "name": "mario pineida",
+          "name": "warrior dividend",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "3h ago",
-          "percentageIncrease": "600%"
+          "started": "1h ago",
+          "percentageIncrease": "1000%"
+        },
+        {
+          "name": "mario pineida",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "1K+",
+          "started": "5h ago",
+          "percentageIncrease": "500%"
         },
         {
           "name": "luxury hotel",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "15h ago",
+          "started": "17h ago",
           "percentageIncrease": "1000%"
-        },
-        {
-          "name": "trump",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "10K+",
-          "started": "2h ago",
-          "percentageIncrease": "200%"
-        },
-        {
-          "name": "christina chambers",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "23h ago",
-          "percentageIncrease": "200%"
-        },
-        {
-          "name": "strava",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "4h ago",
-          "trendBreakdown": "shireen",
-          "percentageIncrease": "200%"
         },
         {
           "name": "debra newton",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "20h ago",
+          "started": "22h ago",
+          "percentageIncrease": "400%"
+        },
+        {
+          "name": "defense bill senate",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "2h ago",
+          "trendBreakdown": "senate",
           "percentageIncrease": "400%"
         },
         {
@@ -62,27 +54,27 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "8h ago",
+          "started": "10h ago",
           "trendBreakdown": "newsap",
           "percentageIncrease": "300%"
         },
         {
-          "name": "health",
+          "name": "republicans obamacare",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "9h ago",
-          "trendBreakdown": "republicans",
-          "percentageIncrease": "200%"
+          "started": "8h ago",
+          "trendBreakdown": "lawlermike",
+          "percentageIncrease": "300%"
         },
         {
-          "name": "camera",
-          "relevanceScore": 95,
+          "name": "strava",
+          "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "22h ago",
-          "trendBreakdown": "kash",
-          "percentageIncrease": "200%"
+          "started": "5h ago",
+          "trendBreakdown": "shireen",
+          "percentageIncrease": "100%"
         }
       ]
     }

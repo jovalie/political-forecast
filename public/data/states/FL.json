@@ -1,29 +1,54 @@
 {
-  "timestamp": "2025-12-18T02:34:38.184Z",
+  "timestamp": "2025-12-18T04:12:38.793Z",
   "states": [
     {
       "name": "Florida",
       "code": "FL",
-      "topTopic": "debra newton marion county",
+      "topTopic": "warrior dividend",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
         {
-          "name": "debra newton marion county",
+          "name": "warrior dividend",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "2K+",
+          "started": "2h ago",
+          "trendBreakdown": "bonusmilitary",
+          "percentageIncrease": "1000%"
+        },
+        {
+          "name": "joe biden",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "15h ago",
-          "percentageIncrease": "500%"
+          "started": "30 minutes ago",
+          "trendBreakdown": "abc",
+          "percentageIncrease": "1000%"
         },
         {
-          "name": "venezuela",
+          "name": "debra newton marion county",
           "relevanceScore": 95,
           "category": "Law and Government",
-          "searchVolume": "2K+",
-          "started": "23h ago",
-          "trendBreakdown": "trump",
+          "searchVolume": "1K+",
+          "started": "16h ago",
           "percentageIncrease": "400%"
+        },
+        {
+          "name": "defense bill senate",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "1h ago",
+          "percentageIncrease": "200%"
+        },
+        {
+          "name": "strava",
+          "relevanceScore": 90,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "3h ago",
+          "percentageIncrease": "100%"
         }
       ]
     }

@@ -1,20 +1,37 @@
 {
-  "timestamp": "2025-12-18T02:34:38.184Z",
+  "timestamp": "2025-12-18T04:12:38.793Z",
   "states": [
     {
       "name": "Virginia",
       "code": "VA",
-      "topTopic": "venezuela",
+      "topTopic": "warrior dividend",
       "category": "Law and Government",
-      "trendingScore": 95,
+      "trendingScore": 100,
       "topics": [
         {
-          "name": "venezuela",
-          "relevanceScore": 95,
+          "name": "warrior dividend",
+          "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "23h ago",
-          "percentageIncrease": "400%"
+          "searchVolume": "2K+",
+          "started": "2h ago",
+          "trendBreakdown": "military",
+          "percentageIncrease": "1000%"
+        },
+        {
+          "name": "defense bill senate",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "1h ago",
+          "percentageIncrease": "600%"
+        },
+        {
+          "name": "dollar tree near me",
+          "relevanceScore": 90,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "14h ago",
+          "percentageIncrease": "100%"
         }
       ]
     }
