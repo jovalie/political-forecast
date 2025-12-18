@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-12-17T22:04:40.658Z",
+  "timestamp": "2025-12-18T00:05:00.696Z",
   "states": [
     {
       "name": "Washington",
@@ -13,42 +13,33 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "2h ago",
+          "started": "4h ago",
           "trendBreakdown": "evergreen",
-          "percentageIncrease": "1000%"
+          "percentageIncrease": "900%"
         },
         {
-          "name": "nuno loureiro",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "22h ago",
-          "trendBreakdown": "mit",
-          "percentageIncrease": "500%"
-        },
-        {
-          "name": "khq news",
-          "relevanceScore": 100,
+          "name": "trump to address the nation",
+          "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "7h ago",
-          "trendBreakdown": "dan",
-          "percentageIncrease": "800%"
+          "started": "2h ago",
+          "trendBreakdown": "trump",
+          "percentageIncrease": "400%"
         },
         {
-          "name": "venezuela",
+          "name": "dan newhouse",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "13h ago",
-          "percentageIncrease": "200%"
+          "started": "7h ago",
+          "percentageIncrease": "400%"
         },
         {
           "name": "the columbian",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "8h ago",
+          "started": "10h ago",
           "percentageIncrease": "200%"
         },
         {
@@ -56,7 +47,7 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "21h ago",
+          "started": "23h ago",
           "percentageIncrease": "300%"
         },
         {
@@ -64,8 +55,16 @@
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "10h ago",
+          "started": "12h ago",
           "percentageIncrease": "100%"
+        },
+        {
+          "name": "news today",
+          "relevanceScore": 85,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "13h ago",
+          "percentageIncrease": "50%"
         }
       ]
     }

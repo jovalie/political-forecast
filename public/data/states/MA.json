@@ -1,38 +1,46 @@
 {
-  "timestamp": "2025-12-17T22:04:40.658Z",
+  "timestamp": "2025-12-18T00:05:00.696Z",
   "states": [
     {
       "name": "Massachusetts",
       "code": "MA",
-      "topTopic": "hudson high school",
+      "topTopic": "trump to address the nation",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
+        {
+          "name": "trump to address the nation",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "3h ago",
+          "trendBreakdown": "trump",
+          "percentageIncrease": "900%"
+        },
+        {
+          "name": "dan bongino",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "2h ago",
+          "percentageIncrease": "1000%"
+        },
         {
           "name": "hudson high school",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "8h ago",
+          "started": "10h ago",
           "trendBreakdown": "hudson",
           "percentageIncrease": "1000%"
         },
         {
-          "name": "nuno loureiro israel",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "23h ago",
-          "trendBreakdown": "mit",
-          "percentageIncrease": "900%"
-        },
-        {
-          "name": "kay flock",
-          "relevanceScore": 100,
+          "name": "venezuela",
+          "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "23h ago",
-          "percentageIncrease": "500%"
+          "started": "20h ago",
+          "percentageIncrease": "300%"
         }
       ]
     }

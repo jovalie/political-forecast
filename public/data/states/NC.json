@@ -1,77 +1,53 @@
 {
-  "timestamp": "2025-12-17T22:04:40.658Z",
+  "timestamp": "2025-12-18T00:05:00.696Z",
   "states": [
     {
       "name": "North Carolina",
       "code": "NC",
-      "topTopic": "lumbee tribe",
+      "topTopic": "trump to address the nation",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
         {
-          "name": "lumbee tribe",
+          "name": "trump to address the nation",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "4h ago",
-          "percentageIncrease": "500%"
+          "started": "2h ago",
+          "trendBreakdown": "trump",
+          "percentageIncrease": "1000%"
         },
         {
           "name": "dan bongino",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "30 minutes ago",
+          "searchVolume": "500+",
+          "started": "2h ago",
           "percentageIncrease": "1000%"
+        },
+        {
+          "name": "lumbee tribe",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "1K+",
+          "started": "6h ago",
+          "percentageIncrease": "500%"
         },
         {
           "name": "christina chambers",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "21h ago",
+          "started": "23h ago",
           "percentageIncrease": "500%"
         },
         {
-          "name": "nuno loureiro",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "22h ago",
-          "trendBreakdown": "mit",
-          "percentageIncrease": "600%"
-        },
-        {
-          "name": "mustapha kharbouch",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "23h ago",
-          "percentageIncrease": "600%"
-        },
-        {
-          "name": "kay flock",
-          "relevanceScore": 100,
+          "name": "venezuela",
+          "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "23h ago",
-          "percentageIncrease": "500%"
-        },
-        {
-          "name": "trump to address the nation",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "50 minutes ago",
+          "started": "22h ago",
           "percentageIncrease": "400%"
-        },
-        {
-          "name": "pat summerall",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "23h ago",
-          "percentageIncrease": "300%"
         }
       ]
     }

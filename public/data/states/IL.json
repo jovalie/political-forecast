@@ -1,36 +1,27 @@
 {
-  "timestamp": "2025-12-17T22:04:40.658Z",
+  "timestamp": "2025-12-18T00:05:00.696Z",
   "states": [
     {
       "name": "Illinois",
       "code": "IL",
-      "topTopic": "kay flock",
+      "topTopic": "venezuela",
       "category": "Law and Government",
-      "trendingScore": 100,
+      "trendingScore": 95,
       "topics": [
-        {
-          "name": "kay flock",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "23h ago",
-          "percentageIncrease": "500%"
-        },
         {
           "name": "venezuela",
           "relevanceScore": 95,
           "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "18h ago",
-          "trendBreakdown": "trump",
-          "percentageIncrease": "300%"
+          "searchVolume": "1K+",
+          "started": "20h ago",
+          "percentageIncrease": "400%"
         },
         {
           "name": "debra newton",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "12h ago",
+          "started": "14h ago",
           "percentageIncrease": "400%"
         },
         {
@@ -38,8 +29,17 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "20h ago",
+          "started": "22h ago",
           "percentageIncrease": "400%"
+        },
+        {
+          "name": "vanity fair trump cabinet",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "18h ago",
+          "trendBreakdown": "vanity",
+          "percentageIncrease": "300%"
         }
       ]
     }

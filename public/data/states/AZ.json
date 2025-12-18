@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-12-17T22:04:40.658Z",
+  "timestamp": "2025-12-18T00:05:00.696Z",
   "states": [
     {
       "name": "Arizona",
@@ -12,16 +12,24 @@
           "name": "dan bongino",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "20 minutes ago",
+          "searchVolume": "500+",
+          "started": "2h ago",
           "percentageIncrease": "1000%"
+        },
+        {
+          "name": "venezuela",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "20h ago",
+          "percentageIncrease": "300%"
         },
         {
           "name": "nuno loureiro",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "20h ago",
+          "started": "22h ago",
           "trendBreakdown": "mit",
           "percentageIncrease": "400%"
         }

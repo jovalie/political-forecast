@@ -1,20 +1,28 @@
 {
-  "timestamp": "2025-12-17T22:04:40.658Z",
+  "timestamp": "2025-12-18T00:05:00.696Z",
   "states": [
     {
       "name": "Louisiana",
       "code": "LA",
-      "topTopic": "christina chambers",
+      "topTopic": "dan bongino",
       "category": "Law and Government",
-      "trendingScore": 95,
+      "trendingScore": 100,
       "topics": [
         {
-          "name": "christina chambers",
-          "relevanceScore": 95,
+          "name": "dan bongino",
+          "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "22h ago",
-          "percentageIncrease": "400%"
+          "searchVolume": "100+",
+          "started": "1h ago",
+          "percentageIncrease": "1000%"
+        },
+        {
+          "name": "trump to address the nation",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "20 minutes ago",
+          "percentageIncrease": "600%"
         }
       ]
     }

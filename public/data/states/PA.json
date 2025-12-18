@@ -1,44 +1,27 @@
 {
-  "timestamp": "2025-12-17T22:04:40.658Z",
+  "timestamp": "2025-12-18T00:05:00.696Z",
   "states": [
     {
       "name": "Pennsylvania",
       "code": "PA",
-      "topTopic": "kay flock",
+      "topTopic": "debra newton",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
-        {
-          "name": "kay flock",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "24h ago",
-          "percentageIncrease": "500%"
-        },
         {
           "name": "debra newton",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "12h ago",
+          "started": "14h ago",
           "percentageIncrease": "600%"
         },
         {
           "name": "venezuela",
           "relevanceScore": 95,
           "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "19h ago",
-          "trendBreakdown": "trump",
-          "percentageIncrease": "300%"
-        },
-        {
-          "name": "republicans obamacare",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "1h ago",
+          "searchVolume": "1K+",
+          "started": "21h ago",
           "percentageIncrease": "400%"
         },
         {
@@ -46,8 +29,16 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "19h ago",
+          "started": "21h ago",
           "percentageIncrease": "300%"
+        },
+        {
+          "name": "republicans obamacare",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "3h ago",
+          "percentageIncrease": "400%"
         }
       ]
     }

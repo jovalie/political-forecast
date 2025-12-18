@@ -1,21 +1,28 @@
 {
-  "timestamp": "2025-12-17T22:04:40.658Z",
+  "timestamp": "2025-12-18T00:05:00.696Z",
   "states": [
     {
       "name": "Alabama",
       "code": "AL",
-      "topTopic": "johnny rimes hoover al",
+      "topTopic": "dan bongino",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
         {
-          "name": "johnny rimes hoover al",
+          "name": "dan bongino",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "22h ago",
-          "trendBreakdown": "johnny",
-          "percentageIncrease": "600%"
+          "searchVolume": "100+",
+          "started": "50 minutes ago",
+          "percentageIncrease": "1000%"
+        },
+        {
+          "name": "trump to address the nation",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "50 minutes ago",
+          "percentageIncrease": "500%"
         }
       ]
     }

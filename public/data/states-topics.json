@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-12-17T22:04:40.658Z",
+  "timestamp": "2025-12-18T00:05:00.696Z",
   "states": [
     {
       "name": "California",
@@ -13,7 +13,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "18h ago",
+          "started": "20h ago",
           "percentageIncrease": "600%"
         },
         {
@@ -21,41 +21,49 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "16h ago",
+          "started": "18h ago",
           "percentageIncrease": "500%"
+        },
+        {
+          "name": "strava",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "5K+",
+          "started": "18h ago",
+          "percentageIncrease": "400%"
+        },
+        {
+          "name": "venezuela",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "2K+",
+          "started": "21h ago",
+          "trendBreakdown": "trump",
+          "percentageIncrease": "400%"
         },
         {
           "name": "debra newton",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "2K+",
-          "started": "18h ago",
+          "started": "20h ago",
           "trendBreakdown": "debra",
           "percentageIncrease": "400%"
+        },
+        {
+          "name": "uc santa cruz",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "1K+",
+          "started": "1h ago",
+          "percentageIncrease": "300%"
         },
         {
           "name": "jack smith",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "4h ago",
-          "percentageIncrease": "200%"
-        },
-        {
-          "name": "venezuela",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "19h ago",
-          "trendBreakdown": "trump",
-          "percentageIncrease": "300%"
-        },
-        {
-          "name": "christina chambers",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "22h ago",
+          "started": "6h ago",
           "percentageIncrease": "200%"
         },
         {
@@ -63,24 +71,8 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "2h ago",
+          "started": "4h ago",
           "trendBreakdown": "aca",
-          "percentageIncrease": "200%"
-        },
-        {
-          "name": "kay flock",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "23h ago",
-          "percentageIncrease": "300%"
-        },
-        {
-          "name": "camera",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "18h ago",
           "percentageIncrease": "200%"
         },
         {
@@ -88,8 +80,16 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "18h ago",
+          "started": "20h ago",
           "percentageIncrease": "300%"
+        },
+        {
+          "name": "edd",
+          "relevanceScore": 90,
+          "category": "Law and Government",
+          "searchVolume": "1K+",
+          "started": "14h ago",
+          "percentageIncrease": "100%"
         }
       ]
     },
@@ -104,16 +104,24 @@
           "name": "dan bongino",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "20 minutes ago",
+          "searchVolume": "500+",
+          "started": "2h ago",
           "percentageIncrease": "1000%"
+        },
+        {
+          "name": "venezuela",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "20h ago",
+          "percentageIncrease": "300%"
         },
         {
           "name": "nuno loureiro",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "20h ago",
+          "started": "22h ago",
           "trendBreakdown": "mit",
           "percentageIncrease": "400%"
         }
@@ -131,7 +139,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "2K+",
-          "started": "20h ago",
+          "started": "22h ago",
           "trendBreakdown": "debra",
           "percentageIncrease": "800%"
         },
@@ -139,41 +147,43 @@
           "name": "venezuela",
           "relevanceScore": 95,
           "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "19h ago",
-          "percentageIncrease": "300%"
-        },
-        {
-          "name": "christina chambers",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "23h ago",
+          "searchVolume": "2K+",
+          "started": "21h ago",
+          "trendBreakdown": "trump",
           "percentageIncrease": "400%"
-        },
-        {
-          "name": "trump",
-          "relevanceScore": 85,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "12h ago",
-          "percentageIncrease": "75%"
         }
       ]
     },
     {
       "name": "Georgia",
       "code": "GA",
-      "topTopic": "kay flock",
+      "topTopic": "trump to address the nation",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
         {
-          "name": "kay flock",
+          "name": "trump to address the nation",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "23h ago",
+          "searchVolume": "500+",
+          "started": "3h ago",
+          "trendBreakdown": "trump",
+          "percentageIncrease": "1000%"
+        },
+        {
+          "name": "dan bongino",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "2h ago",
+          "percentageIncrease": "1000%"
+        },
+        {
+          "name": "fani willis",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "6h ago",
           "percentageIncrease": "500%"
         },
         {
@@ -181,57 +191,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "15h ago",
-          "percentageIncrease": "500%"
-        },
-        {
-          "name": "nuno loureiro",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "22h ago",
-          "trendBreakdown": "mit",
-          "percentageIncrease": "500%"
-        },
-        {
-          "name": "trump to address the nation",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "1h ago",
-          "percentageIncrease": "400%"
-        },
-        {
-          "name": "schedule",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "2h ago",
-          "percentageIncrease": "300%"
-        },
-        {
-          "name": "mustapha kharbouch",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "23h ago",
-          "percentageIncrease": "400%"
-        }
-      ]
-    },
-    {
-      "name": "Illinois",
-      "code": "IL",
-      "topTopic": "kay flock",
-      "category": "Law and Government",
-      "trendingScore": 100,
-      "topics": [
-        {
-          "name": "kay flock",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "23h ago",
+          "started": "17h ago",
           "percentageIncrease": "500%"
         },
         {
@@ -239,16 +199,40 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "18h ago",
-          "trendBreakdown": "trump",
+          "started": "22h ago",
+          "percentageIncrease": "400%"
+        },
+        {
+          "name": "schedule",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "4h ago",
           "percentageIncrease": "300%"
+        }
+      ]
+    },
+    {
+      "name": "Illinois",
+      "code": "IL",
+      "topTopic": "venezuela",
+      "category": "Law and Government",
+      "trendingScore": 95,
+      "topics": [
+        {
+          "name": "venezuela",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "1K+",
+          "started": "20h ago",
+          "percentageIncrease": "400%"
         },
         {
           "name": "debra newton",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "12h ago",
+          "started": "14h ago",
           "percentageIncrease": "400%"
         },
         {
@@ -256,24 +240,33 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "20h ago",
+          "started": "22h ago",
           "percentageIncrease": "400%"
+        },
+        {
+          "name": "vanity fair trump cabinet",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "18h ago",
+          "trendBreakdown": "vanity",
+          "percentageIncrease": "300%"
         }
       ]
     },
     {
       "name": "Indiana",
       "code": "IN",
-      "topTopic": "bill hader",
+      "topTopic": "venezuela",
       "category": "Law and Government",
       "trendingScore": 95,
       "topics": [
         {
-          "name": "bill hader",
+          "name": "venezuela",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "23h ago",
+          "started": "22h ago",
           "percentageIncrease": "300%"
         }
       ]
@@ -289,33 +282,24 @@
           "name": "dan bongino",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "30 minutes ago",
-          "percentageIncrease": "600%"
+          "searchVolume": "500+",
+          "started": "2h ago",
+          "percentageIncrease": "1000%"
         },
         {
-          "name": "nuno loureiro",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "23h ago",
-          "trendBreakdown": "mit",
-          "percentageIncrease": "600%"
-        },
-        {
-          "name": "mustapha kharbouch",
-          "relevanceScore": 100,
+          "name": "venezuela",
+          "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "23h ago",
-          "percentageIncrease": "700%"
+          "started": "22h ago",
+          "percentageIncrease": "300%"
         },
         {
           "name": "debra newton",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "8h ago",
+          "started": "10h ago",
           "percentageIncrease": "300%"
         }
       ]
@@ -323,69 +307,77 @@
     {
       "name": "Michigan",
       "code": "MI",
-      "topTopic": "venezuela",
+      "topTopic": "dan bongino",
       "category": "Law and Government",
-      "trendingScore": 95,
+      "trendingScore": 100,
       "topics": [
         {
-          "name": "venezuela",
-          "relevanceScore": 95,
+          "name": "dan bongino",
+          "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "21h ago",
-          "percentageIncrease": "400%"
+          "started": "1h ago",
+          "percentageIncrease": "1000%"
         },
         {
-          "name": "nuno loureiro",
-          "relevanceScore": 95,
+          "name": "venezuela",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "23h ago",
+          "percentageIncrease": "500%"
+        },
+        {
+          "name": "mit professor shot",
+          "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "21h ago",
-          "trendBreakdown": "mit",
-          "percentageIncrease": "400%"
-        },
-        {
-          "name": "mustapha kharbouch",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "22h ago",
-          "percentageIncrease": "400%"
+          "started": "23h ago",
+          "trendBreakdown": "nuno",
+          "percentageIncrease": "600%"
         }
       ]
     },
     {
       "name": "Massachusetts",
       "code": "MA",
-      "topTopic": "hudson high school",
+      "topTopic": "trump to address the nation",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
+        {
+          "name": "trump to address the nation",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "3h ago",
+          "trendBreakdown": "trump",
+          "percentageIncrease": "900%"
+        },
+        {
+          "name": "dan bongino",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "2h ago",
+          "percentageIncrease": "1000%"
+        },
         {
           "name": "hudson high school",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "8h ago",
+          "started": "10h ago",
           "trendBreakdown": "hudson",
           "percentageIncrease": "1000%"
         },
         {
-          "name": "nuno loureiro israel",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "23h ago",
-          "trendBreakdown": "mit",
-          "percentageIncrease": "900%"
-        },
-        {
-          "name": "kay flock",
-          "relevanceScore": 100,
+          "name": "venezuela",
+          "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "23h ago",
-          "percentageIncrease": "500%"
+          "started": "20h ago",
+          "percentageIncrease": "300%"
         }
       ]
     },
@@ -401,7 +393,7 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "16h ago",
+          "started": "18h ago",
           "trendBreakdown": "mit",
           "percentageIncrease": "200%"
         }
@@ -419,82 +411,74 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "3h ago",
+          "started": "5h ago",
           "percentageIncrease": "1000%"
+        },
+        {
+          "name": "childcare",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "10h ago",
+          "percentageIncrease": "1000%"
+        },
+        {
+          "name": "venezuela",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "1K+",
+          "started": "19h ago",
+          "percentageIncrease": "400%"
         }
       ]
     },
     {
       "name": "North Carolina",
       "code": "NC",
-      "topTopic": "lumbee tribe",
+      "topTopic": "trump to address the nation",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
         {
-          "name": "lumbee tribe",
+          "name": "trump to address the nation",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "4h ago",
-          "percentageIncrease": "500%"
+          "started": "2h ago",
+          "trendBreakdown": "trump",
+          "percentageIncrease": "1000%"
         },
         {
           "name": "dan bongino",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "30 minutes ago",
+          "searchVolume": "500+",
+          "started": "2h ago",
           "percentageIncrease": "1000%"
+        },
+        {
+          "name": "lumbee tribe",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "1K+",
+          "started": "6h ago",
+          "percentageIncrease": "500%"
         },
         {
           "name": "christina chambers",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "21h ago",
+          "started": "23h ago",
           "percentageIncrease": "500%"
         },
         {
-          "name": "nuno loureiro",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "22h ago",
-          "trendBreakdown": "mit",
-          "percentageIncrease": "600%"
-        },
-        {
-          "name": "mustapha kharbouch",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "23h ago",
-          "percentageIncrease": "600%"
-        },
-        {
-          "name": "kay flock",
-          "relevanceScore": 100,
+          "name": "venezuela",
+          "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "23h ago",
-          "percentageIncrease": "500%"
-        },
-        {
-          "name": "trump to address the nation",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "50 minutes ago",
+          "started": "22h ago",
           "percentageIncrease": "400%"
-        },
-        {
-          "name": "pat summerall",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "23h ago",
-          "percentageIncrease": "300%"
         }
       ]
     },
@@ -510,7 +494,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "16h ago",
+          "started": "18h ago",
           "percentageIncrease": "500%"
         },
         {
@@ -518,34 +502,24 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "10h ago",
+          "started": "12h ago",
           "percentageIncrease": "1000%"
+        },
+        {
+          "name": "venezuela",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "2K+",
+          "started": "22h ago",
+          "percentageIncrease": "400%"
         },
         {
           "name": "jack smith",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "4h ago",
+          "started": "6h ago",
           "trendBreakdown": "newsap",
-          "percentageIncrease": "400%"
-        },
-        {
-          "name": "venezuela",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "20h ago",
-          "trendBreakdown": "trump",
-          "percentageIncrease": "400%"
-        },
-        {
-          "name": "republicans obamacare",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "2h ago",
-          "trendBreakdown": "mike",
           "percentageIncrease": "300%"
         },
         {
@@ -553,33 +527,25 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "19h ago",
+          "started": "21h ago",
           "percentageIncrease": "200%"
-        },
-        {
-          "name": "nuno loureiro israel",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "22h ago",
-          "percentageIncrease": "300%"
         },
         {
           "name": "camera",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "18h ago",
+          "started": "20h ago",
           "trendBreakdown": "kash",
           "percentageIncrease": "200%"
         },
         {
-          "name": "shireen afkari",
+          "name": "mike lawler",
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "22h ago",
-          "trendBreakdown": "shireen",
+          "started": "7h ago",
+          "trendBreakdown": "republicans",
           "percentageIncrease": "100%"
         },
         {
@@ -587,7 +553,7 @@
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "2h ago",
+          "started": "4h ago",
           "percentageIncrease": "100%"
         }
       ]
@@ -603,49 +569,32 @@
           "name": "dan bongino",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "20 minutes ago",
-          "percentageIncrease": "900%"
-        },
-        {
-          "name": "mustapha kharbouch",
-          "relevanceScore": 100,
-          "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "23h ago",
-          "percentageIncrease": "500%"
-        },
-        {
-          "name": "nuno loureiro",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "22h ago",
-          "trendBreakdown": "mit",
-          "percentageIncrease": "500%"
+          "started": "2h ago",
+          "percentageIncrease": "1000%"
         },
         {
           "name": "debra newton",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "14h ago",
+          "started": "16h ago",
           "percentageIncrease": "600%"
         },
         {
           "name": "venezuela",
           "relevanceScore": 95,
           "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "19h ago",
-          "percentageIncrease": "300%"
+          "searchVolume": "1K+",
+          "started": "21h ago",
+          "percentageIncrease": "400%"
         },
         {
           "name": "christina chambers",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "21h ago",
+          "started": "23h ago",
           "percentageIncrease": "300%"
         },
         {
@@ -653,7 +602,7 @@
           "relevanceScore": 85,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "20h ago",
+          "started": "22h ago",
           "percentageIncrease": "75%"
         }
       ]
@@ -679,41 +628,24 @@
     {
       "name": "Pennsylvania",
       "code": "PA",
-      "topTopic": "kay flock",
+      "topTopic": "debra newton",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
-        {
-          "name": "kay flock",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "24h ago",
-          "percentageIncrease": "500%"
-        },
         {
           "name": "debra newton",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "12h ago",
+          "started": "14h ago",
           "percentageIncrease": "600%"
         },
         {
           "name": "venezuela",
           "relevanceScore": 95,
           "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "19h ago",
-          "trendBreakdown": "trump",
-          "percentageIncrease": "300%"
-        },
-        {
-          "name": "republicans obamacare",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "1h ago",
+          "searchVolume": "1K+",
+          "started": "21h ago",
           "percentageIncrease": "400%"
         },
         {
@@ -721,41 +653,57 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "19h ago",
+          "started": "21h ago",
           "percentageIncrease": "300%"
+        },
+        {
+          "name": "republicans obamacare",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "3h ago",
+          "percentageIncrease": "400%"
         }
       ]
     },
     {
       "name": "South Carolina",
       "code": "SC",
-      "topTopic": "vanity fair",
+      "topTopic": "trump",
       "category": "Law and Government",
-      "trendingScore": 95,
+      "trendingScore": 90,
       "topics": [
         {
-          "name": "vanity fair",
-          "relevanceScore": 95,
+          "name": "trump",
+          "relevanceScore": 90,
           "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "21h ago",
-          "percentageIncrease": "300%"
+          "searchVolume": "100+",
+          "started": "20 minutes ago",
+          "percentageIncrease": "100%"
         }
       ]
     },
     {
       "name": "Tennessee",
       "code": "TN",
-      "topTopic": "debra newton",
+      "topTopic": "dan bongino",
       "category": "Law and Government",
-      "trendingScore": 95,
+      "trendingScore": 100,
       "topics": [
+        {
+          "name": "dan bongino",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "1h ago",
+          "percentageIncrease": "1000%"
+        },
         {
           "name": "debra newton",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "9h ago",
+          "started": "11h ago",
           "percentageIncrease": "300%"
         }
       ]
@@ -763,33 +711,33 @@
     {
       "name": "Texas",
       "code": "TX",
-      "topTopic": "christina chambers",
+      "topTopic": "sterling high school",
       "category": "Law and Government",
-      "trendingScore": 95,
+      "trendingScore": 100,
       "topics": [
         {
-          "name": "christina chambers",
-          "relevanceScore": 95,
+          "name": "sterling high school",
+          "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "23h ago",
-          "percentageIncrease": "200%"
+          "started": "3h ago",
+          "trendBreakdown": "sterling",
+          "percentageIncrease": "600%"
         },
         {
           "name": "venezuela",
           "relevanceScore": 95,
           "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "21h ago",
-          "trendBreakdown": "pricesoil",
-          "percentageIncrease": "200%"
+          "searchVolume": "2K+",
+          "started": "23h ago",
+          "percentageIncrease": "300%"
         },
         {
           "name": "debra newton",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "2K+",
-          "started": "17h ago",
+          "started": "19h ago",
           "trendBreakdown": "debra",
           "percentageIncrease": "300%"
         },
@@ -798,7 +746,7 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "6h ago",
+          "started": "8h ago",
           "percentageIncrease": "300%"
         },
         {
@@ -806,23 +754,15 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "40 minutes ago",
+          "started": "2h ago",
           "percentageIncrease": "200%"
-        },
-        {
-          "name": "kay flock",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "24h ago",
-          "percentageIncrease": "300%"
         },
         {
           "name": "luxury hotel",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "10h ago",
+          "started": "12h ago",
           "percentageIncrease": "300%"
         }
       ]
@@ -830,42 +770,17 @@
     {
       "name": "Virginia",
       "code": "VA",
-      "topTopic": "mustapha kharbouch",
+      "topTopic": "venezuela",
       "category": "Law and Government",
-      "trendingScore": 100,
+      "trendingScore": 95,
       "topics": [
-        {
-          "name": "mustapha kharbouch",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "24h ago",
-          "percentageIncrease": "600%"
-        },
-        {
-          "name": "mit professor shot",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "2K+",
-          "started": "23h ago",
-          "trendBreakdown": "nuno",
-          "percentageIncrease": "600%"
-        },
-        {
-          "name": "kay flock",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "23h ago",
-          "percentageIncrease": "500%"
-        },
         {
           "name": "venezuela",
           "relevanceScore": 95,
           "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "21h ago",
-          "percentageIncrease": "300%"
+          "searchVolume": "1K+",
+          "started": "23h ago",
+          "percentageIncrease": "400%"
         }
       ]
     },
@@ -881,23 +796,15 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "2h ago",
+          "started": "4h ago",
           "percentageIncrease": "900%"
         },
         {
           "name": "venezuela",
           "relevanceScore": 95,
           "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "21h ago",
-          "percentageIncrease": "400%"
-        },
-        {
-          "name": "kay flock",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "22h ago",
+          "searchVolume": "1K+",
+          "started": "23h ago",
           "percentageIncrease": "400%"
         },
         {
@@ -905,7 +812,7 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "4h ago",
+          "started": "6h ago",
           "percentageIncrease": "400%"
         }
       ]
@@ -913,17 +820,17 @@
     {
       "name": "Oklahoma",
       "code": "OK",
-      "topTopic": "vanity fair",
+      "topTopic": "trump to address the nation",
       "category": "Law and Government",
-      "trendingScore": 95,
+      "trendingScore": 100,
       "topics": [
         {
-          "name": "vanity fair",
-          "relevanceScore": 95,
+          "name": "trump to address the nation",
+          "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "20h ago",
-          "percentageIncrease": "400%"
+          "started": "40 minutes ago",
+          "percentageIncrease": "900%"
         }
       ]
     },
@@ -956,42 +863,33 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "2h ago",
+          "started": "4h ago",
           "trendBreakdown": "evergreen",
-          "percentageIncrease": "1000%"
+          "percentageIncrease": "900%"
         },
         {
-          "name": "nuno loureiro",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "22h ago",
-          "trendBreakdown": "mit",
-          "percentageIncrease": "500%"
-        },
-        {
-          "name": "khq news",
-          "relevanceScore": 100,
+          "name": "trump to address the nation",
+          "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "7h ago",
-          "trendBreakdown": "dan",
-          "percentageIncrease": "800%"
+          "started": "2h ago",
+          "trendBreakdown": "trump",
+          "percentageIncrease": "400%"
         },
         {
-          "name": "venezuela",
+          "name": "dan newhouse",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "13h ago",
-          "percentageIncrease": "200%"
+          "started": "7h ago",
+          "percentageIncrease": "400%"
         },
         {
           "name": "the columbian",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "8h ago",
+          "started": "10h ago",
           "percentageIncrease": "200%"
         },
         {
@@ -999,7 +897,7 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "21h ago",
+          "started": "23h ago",
           "percentageIncrease": "300%"
         },
         {
@@ -1007,44 +905,58 @@
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "10h ago",
+          "started": "12h ago",
           "percentageIncrease": "100%"
+        },
+        {
+          "name": "news today",
+          "relevanceScore": 85,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "13h ago",
+          "percentageIncrease": "50%"
         }
       ]
     },
     {
       "name": "Alabama",
       "code": "AL",
-      "topTopic": "johnny rimes hoover al",
+      "topTopic": "dan bongino",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
         {
-          "name": "johnny rimes hoover al",
+          "name": "dan bongino",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "22h ago",
-          "trendBreakdown": "johnny",
-          "percentageIncrease": "600%"
+          "searchVolume": "100+",
+          "started": "50 minutes ago",
+          "percentageIncrease": "1000%"
+        },
+        {
+          "name": "trump to address the nation",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "50 minutes ago",
+          "percentageIncrease": "500%"
         }
       ]
     },
     {
       "name": "Kansas",
       "code": "KS",
-      "topTopic": "susie wiles",
+      "topTopic": "trump to address the nation",
       "category": "Law and Government",
-      "trendingScore": 95,
+      "trendingScore": 100,
       "topics": [
         {
-          "name": "susie wiles",
-          "relevanceScore": 95,
+          "name": "trump to address the nation",
+          "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "23h ago",
-          "trendBreakdown": "vanity",
-          "percentageIncrease": "400%"
+          "searchVolume": "100+",
+          "started": "40 minutes ago",
+          "percentageIncrease": "800%"
         }
       ]
     },
@@ -1068,24 +980,24 @@
     {
       "name": "Colorado",
       "code": "CO",
-      "topTopic": "venezuela",
+      "topTopic": "trump to address the nation",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
         {
-          "name": "venezuela",
+          "name": "trump to address the nation",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "20h ago",
-          "percentageIncrease": "500%"
+          "started": "1h ago",
+          "percentageIncrease": "900%"
         },
         {
           "name": "bill hader",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "20h ago",
+          "started": "22h ago",
           "percentageIncrease": "200%"
         },
         {
@@ -1093,7 +1005,7 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "20h ago",
+          "started": "22h ago",
           "trendBreakdown": "mit",
           "percentageIncrease": "400%"
         },
@@ -1102,42 +1014,58 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "9h ago",
+          "started": "11h ago",
           "percentageIncrease": "300%"
+        },
+        {
+          "name": "jefferson county",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "18h ago",
+          "percentageIncrease": "200%"
         }
       ]
     },
     {
       "name": "Iowa",
       "code": "IA",
-      "topTopic": "susie wiles",
+      "topTopic": "trump to address the nation",
       "category": "Law and Government",
-      "trendingScore": 95,
+      "trendingScore": 100,
       "topics": [
         {
-          "name": "susie wiles",
-          "relevanceScore": 95,
+          "name": "trump to address the nation",
+          "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "2h ago",
-          "percentageIncrease": "400%"
+          "started": "40 minutes ago",
+          "percentageIncrease": "500%"
         }
       ]
     },
     {
       "name": "Louisiana",
       "code": "LA",
-      "topTopic": "christina chambers",
+      "topTopic": "dan bongino",
       "category": "Law and Government",
-      "trendingScore": 95,
+      "trendingScore": 100,
       "topics": [
         {
-          "name": "christina chambers",
-          "relevanceScore": 95,
+          "name": "dan bongino",
+          "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "22h ago",
-          "percentageIncrease": "400%"
+          "searchVolume": "100+",
+          "started": "1h ago",
+          "percentageIncrease": "1000%"
+        },
+        {
+          "name": "trump to address the nation",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "20 minutes ago",
+          "percentageIncrease": "600%"
         }
       ]
     },
@@ -1178,18 +1106,17 @@
     {
       "name": "Nevada",
       "code": "NV",
-      "topTopic": "susie wiles",
+      "topTopic": "dan bongino",
       "category": "Law and Government",
-      "trendingScore": 95,
+      "trendingScore": 100,
       "topics": [
         {
-          "name": "susie wiles",
-          "relevanceScore": 95,
+          "name": "dan bongino",
+          "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "23h ago",
-          "trendBreakdown": "vanity",
-          "percentageIncrease": "400%"
+          "searchVolume": "100+",
+          "started": "1h ago",
+          "percentageIncrease": "1000%"
         }
       ]
     },
@@ -1247,16 +1174,24 @@
     {
       "name": "Kentucky",
       "code": "KY",
-      "topTopic": "bill hader",
+      "topTopic": "dan bongino",
       "category": "Law and Government",
-      "trendingScore": 95,
+      "trendingScore": 100,
       "topics": [
+        {
+          "name": "dan bongino",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "1h ago",
+          "percentageIncrease": "1000%"
+        },
         {
           "name": "bill hader",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "21h ago",
+          "started": "23h ago",
           "percentageIncrease": "200%"
         }
       ]
@@ -1273,7 +1208,7 @@
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "10h ago",
+          "started": "12h ago",
           "percentageIncrease": "100%"
         }
       ]
@@ -1360,7 +1295,7 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "20h ago",
+          "started": "22h ago",
           "percentageIncrease": "300%"
         }
       ]
@@ -1412,7 +1347,7 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "20h ago",
+          "started": "22h ago",
           "percentageIncrease": "300%"
         }
       ]

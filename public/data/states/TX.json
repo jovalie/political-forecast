@@ -1,36 +1,36 @@
 {
-  "timestamp": "2025-12-17T22:04:40.658Z",
+  "timestamp": "2025-12-18T00:05:00.696Z",
   "states": [
     {
       "name": "Texas",
       "code": "TX",
-      "topTopic": "christina chambers",
+      "topTopic": "sterling high school",
       "category": "Law and Government",
-      "trendingScore": 95,
+      "trendingScore": 100,
       "topics": [
         {
-          "name": "christina chambers",
-          "relevanceScore": 95,
+          "name": "sterling high school",
+          "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "23h ago",
-          "percentageIncrease": "200%"
+          "started": "3h ago",
+          "trendBreakdown": "sterling",
+          "percentageIncrease": "600%"
         },
         {
           "name": "venezuela",
           "relevanceScore": 95,
           "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "21h ago",
-          "trendBreakdown": "pricesoil",
-          "percentageIncrease": "200%"
+          "searchVolume": "2K+",
+          "started": "23h ago",
+          "percentageIncrease": "300%"
         },
         {
           "name": "debra newton",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "2K+",
-          "started": "17h ago",
+          "started": "19h ago",
           "trendBreakdown": "debra",
           "percentageIncrease": "300%"
         },
@@ -39,7 +39,7 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "6h ago",
+          "started": "8h ago",
           "percentageIncrease": "300%"
         },
         {
@@ -47,23 +47,15 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "40 minutes ago",
+          "started": "2h ago",
           "percentageIncrease": "200%"
-        },
-        {
-          "name": "kay flock",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "24h ago",
-          "percentageIncrease": "300%"
         },
         {
           "name": "luxury hotel",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "10h ago",
+          "started": "12h ago",
           "percentageIncrease": "300%"
         }
       ]
