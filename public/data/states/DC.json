@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-12-18T20:04:32.154Z",
+  "timestamp": "2025-12-18T22:04:41.967Z",
   "states": [
     {
       "name": "District of Columbia",
@@ -12,9 +12,18 @@
           "name": "kennedy center",
           "relevanceScore": 100,
           "category": "Law and Government",
+          "searchVolume": "10K+",
+          "started": "3h ago",
+          "trendBreakdown": "trump",
+          "percentageIncrease": "1000%"
+        },
+        {
+          "name": "executive order",
+          "relevanceScore": 100,
+          "category": "Law and Government",
           "searchVolume": "2K+",
           "started": "1h ago",
-          "trendBreakdown": "trump",
+          "trendBreakdown": "schedule",
           "percentageIncrease": "1000%"
         },
         {
@@ -22,33 +31,42 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "2K+",
-          "started": "17h ago",
+          "started": "19h ago",
           "trendBreakdown": "bonus",
+          "percentageIncrease": "1000%"
+        },
+        {
+          "name": "federal holidays",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "1K+",
+          "started": "1h ago",
+          "trendBreakdown": "christmas",
           "percentageIncrease": "1000%"
         },
         {
           "name": "parkdale high school",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "4h ago",
+          "searchVolume": "1K+",
+          "started": "6h ago",
           "percentageIncrease": "1000%"
         },
         {
-          "name": "schedule",
+          "name": "trump speech",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "2K+",
-          "started": "1h ago",
-          "trendBreakdown": "trumpdonald",
-          "percentageIncrease": "1000%"
+          "searchVolume": "5K+",
+          "started": "23h ago",
+          "trendBreakdown": "trump",
+          "percentageIncrease": "800%"
         },
         {
           "name": "brian walshe",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "5h ago",
+          "started": "7h ago",
           "percentageIncrease": "1000%"
         },
         {
@@ -56,7 +74,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "16h ago",
+          "started": "18h ago",
           "percentageIncrease": "1000%"
         },
         {
@@ -64,7 +82,7 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "21h ago",
+          "started": "23h ago",
           "trendBreakdown": "dan",
           "percentageIncrease": "400%"
         },
@@ -73,16 +91,8 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "17h ago",
+          "started": "19h ago",
           "percentageIncrease": "200%"
-        },
-        {
-          "name": "shireen afkari",
-          "relevanceScore": 90,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "7h ago",
-          "percentageIncrease": "100%"
         }
       ]
     }

@@ -1,20 +1,38 @@
 {
-  "timestamp": "2025-12-18T20:04:32.154Z",
+  "timestamp": "2025-12-18T22:04:41.967Z",
   "states": [
     {
       "name": "New York",
       "code": "NY",
-      "topTopic": "kennedy center",
+      "topTopic": "chapin school death",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
+        {
+          "name": "chapin school death",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "5K+",
+          "started": "17h ago",
+          "trendBreakdown": "chapin",
+          "percentageIncrease": "700%"
+        },
         {
           "name": "kennedy center",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "10K+",
-          "started": "1h ago",
+          "started": "3h ago",
           "trendBreakdown": "trump",
+          "percentageIncrease": "1000%"
+        },
+        {
+          "name": "schedule",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "1K+",
+          "started": "3h ago",
+          "trendBreakdown": "what",
           "percentageIncrease": "1000%"
         },
         {
@@ -22,40 +40,48 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "2K+",
-          "started": "17h ago",
+          "started": "19h ago",
           "percentageIncrease": "600%"
         },
         {
-          "name": "schedule",
+          "name": "presidential address",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "2K+",
-          "started": "1h ago",
-          "trendBreakdown": "donald",
-          "percentageIncrease": "900%"
+          "searchVolume": "5K+",
+          "started": "21h ago",
+          "trendBreakdown": "trump",
+          "percentageIncrease": "800%"
         },
         {
           "name": "joe biden",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "16h ago",
+          "started": "18h ago",
           "percentageIncrease": "1000%"
+        },
+        {
+          "name": "mario pineida",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "1K+",
+          "started": "23h ago",
+          "percentageIncrease": "400%"
         },
         {
           "name": "sherif soliman",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "3h ago",
-          "percentageIncrease": "400%"
+          "started": "5h ago",
+          "percentageIncrease": "300%"
         },
         {
           "name": "osman hadi",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "2h ago",
+          "started": "4h ago",
           "percentageIncrease": "300%"
         },
         {
@@ -63,26 +89,8 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "21h ago",
+          "started": "23h ago",
           "percentageIncrease": "400%"
-        },
-        {
-          "name": "defense bill senate",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "18h ago",
-          "trendBreakdown": "senate",
-          "percentageIncrease": "400%"
-        },
-        {
-          "name": "strava",
-          "relevanceScore": 90,
-          "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "21h ago",
-          "trendBreakdown": "shireen",
-          "percentageIncrease": "100%"
         }
       ]
     }

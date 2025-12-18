@@ -1,63 +1,55 @@
 {
-  "timestamp": "2025-12-18T20:04:32.154Z",
+  "timestamp": "2025-12-18T22:04:41.967Z",
   "states": [
     {
       "name": "Ohio",
       "code": "OH",
-      "topTopic": "dan bongino",
+      "topTopic": "schedule",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
-        {
-          "name": "dan bongino",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "2K+",
-          "started": "22h ago",
-          "trendBreakdown": "dan",
-          "percentageIncrease": "800%"
-        },
         {
           "name": "schedule",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "1h ago",
-          "trendBreakdown": "donald",
+          "started": "3h ago",
+          "trendBreakdown": "what",
           "percentageIncrease": "1000%"
-        },
-        {
-          "name": "warrior dividend",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "17h ago",
-          "percentageIncrease": "700%"
         },
         {
           "name": "kennedy center",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "2K+",
-          "started": "50 minutes ago",
-          "trendBreakdown": "trump",
+          "started": "2h ago",
+          "trendBreakdown": "donald",
           "percentageIncrease": "1000%"
         },
         {
           "name": "ice in columbus ohio",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "1h ago",
-          "percentageIncrease": "500%"
+          "searchVolume": "500+",
+          "started": "3h ago",
+          "trendBreakdown": "ice",
+          "percentageIncrease": "700%"
         },
         {
           "name": "trump speech",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "10K+",
-          "started": "19h ago",
+          "started": "21h ago",
           "trendBreakdown": "trump",
+          "percentageIncrease": "700%"
+        },
+        {
+          "name": "warrior dividend",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "1K+",
+          "started": "19h ago",
           "percentageIncrease": "700%"
         },
         {
@@ -65,8 +57,16 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "16h ago",
+          "started": "18h ago",
           "percentageIncrease": "1000%"
+        },
+        {
+          "name": "dan bongino leaving fbi",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "22h ago",
+          "percentageIncrease": "700%"
         }
       ]
     }
