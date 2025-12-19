@@ -1,28 +1,29 @@
 {
-  "timestamp": "2025-12-19T20:04:37.790Z",
+  "timestamp": "2025-12-19T22:04:40.485Z",
   "states": [
     {
       "name": "Nevada",
       "code": "NV",
-      "topTopic": "brown university suspect",
+      "topTopic": "epstein files",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
+        {
+          "name": "epstein files",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "1K+",
+          "started": "7h ago",
+          "trendBreakdown": "epstein",
+          "percentageIncrease": "600%"
+        },
         {
           "name": "brown university suspect",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "18h ago",
+          "started": "20h ago",
           "trendBreakdown": "claudio",
-          "percentageIncrease": "500%"
-        },
-        {
-          "name": "schedule",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "24h ago",
           "percentageIncrease": "500%"
         }
       ]

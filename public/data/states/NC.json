@@ -1,46 +1,61 @@
 {
-  "timestamp": "2025-12-19T20:04:37.790Z",
+  "timestamp": "2025-12-19T22:04:40.485Z",
   "states": [
     {
       "name": "North Carolina",
       "code": "NC",
-      "topTopic": "jim hunt",
+      "topTopic": "epstein files",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
         {
-          "name": "jim hunt",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "5K+",
-          "started": "22h ago",
-          "trendBreakdown": "governor",
-          "percentageIncrease": "1000%"
-        },
-        {
           "name": "epstein files",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "2K+",
-          "started": "16h ago",
+          "searchVolume": "5K+",
+          "started": "18h ago",
           "trendBreakdown": "epstein",
-          "percentageIncrease": "700%"
+          "percentageIncrease": "900%"
         },
         {
           "name": "claudio neves valente",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "10K+",
-          "started": "17h ago",
-          "trendBreakdown": "brown",
+          "searchVolume": "5K+",
+          "started": "19h ago",
+          "trendBreakdown": "claudio",
           "percentageIncrease": "1000%"
+        },
+        {
+          "name": "kennedy center renamed",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "22h ago",
+          "percentageIncrease": "400%"
+        },
+        {
+          "name": "schedule",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "20h ago",
+          "percentageIncrease": "300%"
+        },
+        {
+          "name": "christmas",
+          "relevanceScore": 90,
+          "category": "Law and Government",
+          "searchVolume": "1K+",
+          "started": "8h ago",
+          "percentageIncrease": "100%"
         },
         {
           "name": "merry christmas",
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "7h ago",
+          "started": "9h ago",
           "trendBreakdown": "military",
           "percentageIncrease": "100%"
         }

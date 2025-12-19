@@ -1,20 +1,29 @@
 {
-  "timestamp": "2025-12-19T20:04:37.790Z",
+  "timestamp": "2025-12-19T22:04:40.485Z",
   "states": [
     {
       "name": "New Hampshire",
       "code": "NH",
-      "topTopic": "brown university suspect",
+      "topTopic": "epstein files",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
         {
-          "name": "brown university suspect",
+          "name": "epstein files",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "50 minutes ago",
+          "trendBreakdown": "epstein",
+          "percentageIncrease": "900%"
+        },
+        {
+          "name": "claudio neves valente",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "10K+",
-          "started": "22h ago",
-          "trendBreakdown": "claudio",
+          "started": "19h ago",
+          "trendBreakdown": "brown",
           "percentageIncrease": "1000%"
         }
       ]

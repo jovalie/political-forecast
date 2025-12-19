@@ -1,65 +1,48 @@
 {
-  "timestamp": "2025-12-19T20:04:37.790Z",
+  "timestamp": "2025-12-19T22:04:40.485Z",
   "states": [
     {
       "name": "Maryland",
       "code": "MD",
-      "topTopic": "claudio neves valente",
+      "topTopic": "epstein files",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
+        {
+          "name": "epstein files",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "2K+",
+          "started": "18h ago",
+          "trendBreakdown": "epstein",
+          "percentageIncrease": "600%"
+        },
         {
           "name": "claudio neves valente",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "10K+",
-          "started": "17h ago",
+          "started": "19h ago",
           "trendBreakdown": "brown",
           "percentageIncrease": "1000%"
-        },
-        {
-          "name": "federal holidays",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "2K+",
-          "started": "22h ago",
-          "trendBreakdown": "christmas",
-          "percentageIncrease": "700%"
-        },
-        {
-          "name": "executive order",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "23h ago",
-          "percentageIncrease": "1000%"
-        },
-        {
-          "name": "epstein files",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "2K+",
-          "started": "16h ago",
-          "trendBreakdown": "epstein",
-          "percentageIncrease": "400%"
         },
         {
           "name": "kennedy center renamed",
           "relevanceScore": 95,
           "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "21h ago",
+          "searchVolume": "1K+",
+          "started": "23h ago",
           "trendBreakdown": "the",
           "percentageIncrease": "400%"
         },
         {
-          "name": "gs pay scale",
+          "name": "christmas eve federal holiday",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "22h ago",
-          "trendBreakdown": "opm",
-          "percentageIncrease": "200%"
+          "started": "11h ago",
+          "trendBreakdown": "christmas",
+          "percentageIncrease": "300%"
         }
       ]
     }

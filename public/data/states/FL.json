@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-12-19T20:04:37.790Z",
+  "timestamp": "2025-12-19T22:04:40.485Z",
   "states": [
     {
       "name": "Florida",
@@ -12,17 +12,25 @@
           "name": "epstein files",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "5K+",
-          "started": "22h ago",
+          "searchVolume": "10K+",
+          "started": "24h ago",
           "trendBreakdown": "epstein",
-          "percentageIncrease": "600%"
+          "percentageIncrease": "800%"
+        },
+        {
+          "name": "elise stefanik",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "40 minutes ago",
+          "percentageIncrease": "1000%"
         },
         {
           "name": "federal holidays",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "2K+",
-          "started": "21h ago",
+          "started": "23h ago",
           "trendBreakdown": "christmas",
           "percentageIncrease": "400%"
         },
@@ -31,41 +39,15 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "21h ago",
-          "percentageIncrease": "300%"
-        },
-        {
-          "name": "debra newton kidnapping",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "1h ago",
-          "percentageIncrease": "200%"
-        },
-        {
-          "name": "schedule",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "1K+",
           "started": "23h ago",
-          "trendBreakdown": "reclassification",
           "percentageIncrease": "300%"
-        },
-        {
-          "name": "frank walls",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "22h ago",
-          "trendBreakdown": "department",
-          "percentageIncrease": "200%"
         },
         {
           "name": "marco rubio",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "3h ago",
+          "started": "5h ago",
           "percentageIncrease": "200%"
         },
         {
@@ -73,24 +55,34 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "8h ago",
+          "started": "10h ago",
           "percentageIncrease": "200%"
         },
         {
-          "name": "schengen",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "23h ago",
-          "percentageIncrease": "200%"
-        },
-        {
-          "name": "white house",
+          "name": "reclassification of weed",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
           "started": "22h ago",
+          "trendBreakdown": "trump",
           "percentageIncrease": "200%"
+        },
+        {
+          "name": "merry christmas",
+          "relevanceScore": 90,
+          "category": "Law and Government",
+          "searchVolume": "1K+",
+          "started": "9h ago",
+          "trendBreakdown": "military",
+          "percentageIncrease": "100%"
+        },
+        {
+          "name": "super flu virus",
+          "relevanceScore": 90,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "13h ago",
+          "percentageIncrease": "100%"
         }
       ]
     }

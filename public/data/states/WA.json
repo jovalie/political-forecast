@@ -1,55 +1,55 @@
 {
-  "timestamp": "2025-12-19T20:04:37.790Z",
+  "timestamp": "2025-12-19T22:04:40.485Z",
   "states": [
     {
       "name": "Washington",
       "code": "WA",
-      "topTopic": "claudio manuel neves valente",
+      "topTopic": "epstein files",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
         {
-          "name": "claudio manuel neves valente",
+          "name": "epstein files",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "5K+",
-          "started": "16h ago",
-          "trendBreakdown": "claudio",
-          "percentageIncrease": "700%"
+          "started": "20h ago",
+          "trendBreakdown": "epstein",
+          "percentageIncrease": "500%"
+        },
+        {
+          "name": "claudio neves valente",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "5K+",
+          "started": "19h ago",
+          "trendBreakdown": "brown",
+          "percentageIncrease": "1000%"
         },
         {
           "name": "vaccinations",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "16h ago",
-          "percentageIncrease": "700%"
-        },
-        {
-          "name": "epstein files",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "2K+",
           "started": "18h ago",
-          "trendBreakdown": "epstein",
-          "percentageIncrease": "400%"
+          "percentageIncrease": "700%"
         },
         {
           "name": "kennedy center renamed",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "4h ago",
+          "started": "6h ago",
           "percentageIncrease": "200%"
         },
         {
-          "name": "federal holidays",
-          "relevanceScore": 95,
+          "name": "christmas eve federal holiday",
+          "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "4h ago",
-          "trendBreakdown": "christmas",
-          "percentageIncrease": "300%"
+          "started": "16h ago",
+          "trendBreakdown": "federal",
+          "percentageIncrease": "100%"
         }
       ]
     }
