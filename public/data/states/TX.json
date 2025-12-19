@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-12-19T10:04:43.306Z",
+  "timestamp": "2025-12-19T12:04:45.634Z",
   "states": [
     {
       "name": "Texas",
@@ -13,7 +13,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "10K+",
-          "started": "15h ago",
+          "started": "17h ago",
           "trendBreakdown": "what",
           "percentageIncrease": "1000%"
         },
@@ -22,16 +22,25 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "2K+",
-          "started": "15h ago",
+          "started": "17h ago",
           "trendBreakdown": "trump",
           "percentageIncrease": "600%"
+        },
+        {
+          "name": "epstein files",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "2K+",
+          "started": "15h ago",
+          "trendBreakdown": "epstein",
+          "percentageIncrease": "200%"
         },
         {
           "name": "mario pineida",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "9h ago",
+          "started": "11h ago",
           "percentageIncrease": "300%"
         },
         {
@@ -39,16 +48,16 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "11h ago",
+          "started": "13h ago",
           "trendBreakdown": "christmas",
           "percentageIncrease": "200%"
         },
         {
-          "name": "portugal",
+          "name": "white house",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "6h ago",
+          "started": "15h ago",
           "percentageIncrease": "200%"
         },
         {
@@ -56,15 +65,23 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "14h ago",
+          "started": "16h ago",
           "percentageIncrease": "200%"
+        },
+        {
+          "name": "avatar",
+          "relevanceScore": 90,
+          "category": "Law and Government",
+          "searchVolume": "21K+",
+          "started": "10h ago",
+          "percentageIncrease": "100%"
         },
         {
           "name": "republicans aca subsidies",
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "20h ago",
+          "started": "22h ago",
           "percentageIncrease": "100%"
         }
       ]

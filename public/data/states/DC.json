@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-12-19T10:04:43.306Z",
+  "timestamp": "2025-12-19T12:04:45.634Z",
   "states": [
     {
       "name": "District of Columbia",
@@ -13,7 +13,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "10K+",
-          "started": "15h ago",
+          "started": "17h ago",
           "trendBreakdown": "trump",
           "percentageIncrease": "1000%"
         },
@@ -22,34 +22,34 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "10K+",
-          "started": "7h ago",
+          "started": "9h ago",
           "trendBreakdown": "brown",
           "percentageIncrease": "1000%"
-        },
-        {
-          "name": "schedule",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "2K+",
-          "started": "15h ago",
-          "trendBreakdown": "executive",
-          "percentageIncrease": "700%"
         },
         {
           "name": "federal holidays",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "2K+",
-          "started": "13h ago",
-          "trendBreakdown": "trump",
-          "percentageIncrease": "1000%"
+          "started": "15h ago",
+          "trendBreakdown": "christmas",
+          "percentageIncrease": "900%"
+        },
+        {
+          "name": "schedule",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "2K+",
+          "started": "17h ago",
+          "trendBreakdown": "executive",
+          "percentageIncrease": "700%"
         },
         {
           "name": "opm pay scale",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "12h ago",
+          "started": "14h ago",
           "trendBreakdown": "pay",
           "percentageIncrease": "900%"
         },
@@ -58,23 +58,39 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "18h ago",
+          "started": "20h ago",
           "percentageIncrease": "700%"
+        },
+        {
+          "name": "white house",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "15h ago",
+          "percentageIncrease": "900%"
         },
         {
           "name": "brian walshe",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "19h ago",
+          "started": "21h ago",
           "percentageIncrease": "1000%"
+        },
+        {
+          "name": "epstein files",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "12h ago",
+          "percentageIncrease": "200%"
         },
         {
           "name": "shireen afkari",
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "21h ago",
+          "started": "23h ago",
           "percentageIncrease": "100%"
         }
       ]

@@ -1,37 +1,37 @@
 {
-  "timestamp": "2025-12-19T10:04:43.306Z",
+  "timestamp": "2025-12-19T12:04:45.634Z",
   "states": [
     {
       "name": "Arizona",
       "code": "AZ",
-      "topTopic": "schedule",
+      "topTopic": "claudio neves valente",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
-        {
-          "name": "schedule",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "2K+",
-          "started": "15h ago",
-          "trendBreakdown": "what",
-          "percentageIncrease": "800%"
-        },
         {
           "name": "claudio neves valente",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "5K+",
-          "started": "7h ago",
+          "started": "9h ago",
           "trendBreakdown": "brown",
           "percentageIncrease": "1000%"
+        },
+        {
+          "name": "schedule",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "2K+",
+          "started": "17h ago",
+          "trendBreakdown": "what",
+          "percentageIncrease": "800%"
         },
         {
           "name": "nuno loureiro",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "6h ago",
+          "started": "8h ago",
           "percentageIncrease": "200%"
         },
         {
@@ -39,7 +39,7 @@
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "6h ago",
+          "started": "8h ago",
           "percentageIncrease": "100%"
         }
       ]
