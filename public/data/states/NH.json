@@ -1,19 +1,28 @@
 {
-  "timestamp": "2025-12-18T22:04:41.967Z",
+  "timestamp": "2025-12-19T00:05:05.670Z",
   "states": [
     {
       "name": "New Hampshire",
       "code": "NH",
-      "topTopic": "trump to address the nation",
+      "topTopic": "brown university suspect",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
+        {
+          "name": "brown university suspect",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "1K+",
+          "started": "2h ago",
+          "trendBreakdown": "salem",
+          "percentageIncrease": "1000%"
+        },
         {
           "name": "trump to address the nation",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "20h ago",
+          "started": "22h ago",
           "percentageIncrease": "600%"
         }
       ]

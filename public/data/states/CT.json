@@ -1,52 +1,44 @@
 {
-  "timestamp": "2025-12-18T22:04:41.967Z",
+  "timestamp": "2025-12-19T00:05:05.670Z",
   "states": [
     {
       "name": "Connecticut",
       "code": "CT",
-      "topTopic": "kennedy center",
+      "topTopic": "brown university suspect",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
+        {
+          "name": "brown university suspect",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "2h ago",
+          "percentageIncrease": "700%"
+        },
         {
           "name": "kennedy center",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "2K+",
-          "started": "2h ago",
-          "percentageIncrease": "900%"
-        },
-        {
-          "name": "trump to address the nation",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "2K+",
-          "started": "23h ago",
-          "trendBreakdown": "trump",
-          "percentageIncrease": "900%"
-        },
-        {
-          "name": "dan bongino",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "23h ago",
+          "started": "4h ago",
           "percentageIncrease": "800%"
         },
         {
-          "name": "brown university suspect",
+          "name": "trump speech",
           "relevanceScore": 95,
           "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "20 minutes ago",
-          "percentageIncrease": "300%"
+          "searchVolume": "2K+",
+          "started": "22h ago",
+          "trendBreakdown": "trump",
+          "percentageIncrease": "400%"
         },
         {
           "name": "warrior dividend",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "9h ago",
+          "started": "11h ago",
           "percentageIncrease": "300%"
         }
       ]

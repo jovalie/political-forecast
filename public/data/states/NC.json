@@ -1,19 +1,28 @@
 {
-  "timestamp": "2025-12-18T22:04:41.967Z",
+  "timestamp": "2025-12-19T00:05:05.670Z",
   "states": [
     {
       "name": "North Carolina",
       "code": "NC",
-      "topTopic": "schedule",
+      "topTopic": "jim hunt",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
         {
+          "name": "jim hunt",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "2K+",
+          "started": "2h ago",
+          "trendBreakdown": "governor",
+          "percentageIncrease": "1000%"
+        },
+        {
           "name": "schedule",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "3h ago",
+          "searchVolume": "2K+",
+          "started": "5h ago",
           "trendBreakdown": "what",
           "percentageIncrease": "1000%"
         },
@@ -22,7 +31,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "2K+",
-          "started": "19h ago",
+          "started": "21h ago",
           "trendBreakdown": "bonus",
           "percentageIncrease": "1000%"
         },
@@ -30,66 +39,43 @@
           "name": "kennedy center",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "3h ago",
+          "searchVolume": "2K+",
+          "started": "5h ago",
           "trendBreakdown": "trump",
           "percentageIncrease": "1000%"
-        },
-        {
-          "name": "brown university suspect",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "1h ago",
-          "percentageIncrease": "500%"
         },
         {
           "name": "trump speech",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "5K+",
-          "started": "21h ago",
+          "started": "23h ago",
           "trendBreakdown": "trump",
           "percentageIncrease": "700%"
-        },
-        {
-          "name": "brian walshe",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "6h ago",
-          "percentageIncrease": "1000%"
         },
         {
           "name": "joe biden",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "18h ago",
+          "started": "20h ago",
           "percentageIncrease": "1000%"
         },
         {
-          "name": "mit professor shot",
-          "relevanceScore": 95,
+          "name": "brian walshe",
+          "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "50 minutes ago",
-          "percentageIncrease": "300%"
-        },
-        {
-          "name": "john paul miller",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "19h ago",
-          "percentageIncrease": "200%"
+          "started": "8h ago",
+          "percentageIncrease": "1000%"
         },
         {
           "name": "christmas",
           "relevanceScore": 85,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "8h ago",
+          "started": "10h ago",
+          "trendBreakdown": "postny",
           "percentageIncrease": "75%"
         }
       ]

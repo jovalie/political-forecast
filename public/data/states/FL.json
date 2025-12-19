@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-12-18T22:04:41.967Z",
+  "timestamp": "2025-12-19T00:05:05.670Z",
   "states": [
     {
       "name": "Florida",
@@ -12,9 +12,18 @@
           "name": "schedule",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "2K+",
-          "started": "3h ago",
+          "searchVolume": "5K+",
+          "started": "5h ago",
           "trendBreakdown": "what",
+          "percentageIncrease": "1000%"
+        },
+        {
+          "name": "kennedy center",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "5K+",
+          "started": "5h ago",
+          "trendBreakdown": "trump",
           "percentageIncrease": "1000%"
         },
         {
@@ -22,50 +31,42 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "5K+",
-          "started": "19h ago",
+          "started": "21h ago",
           "trendBreakdown": "military",
           "percentageIncrease": "1000%"
         },
         {
-          "name": "kennedy center",
+          "name": "presidential address",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "2K+",
-          "started": "3h ago",
-          "trendBreakdown": "trump",
+          "searchVolume": "5K+",
+          "started": "23h ago",
+          "trendBreakdown": "trumps",
           "percentageIncrease": "1000%"
-        },
-        {
-          "name": "trump speech",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "10K+",
-          "started": "22h ago",
-          "trendBreakdown": "presidential",
-          "percentageIncrease": "700%"
         },
         {
           "name": "joe biden",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "18h ago",
+          "started": "20h ago",
           "percentageIncrease": "1000%"
         },
         {
-          "name": "dan bongino leaving fbi",
-          "relevanceScore": 100,
+          "name": "federal holidays",
+          "relevanceScore": 95,
           "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "23h ago",
-          "percentageIncrease": "500%"
+          "searchVolume": "500+",
+          "started": "1h ago",
+          "percentageIncrease": "400%"
         },
         {
-          "name": "frank walls",
+          "name": "mit",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "50 minutes ago",
+          "started": "20 minutes ago",
+          "trendBreakdown": "breaking",
           "percentageIncrease": "200%"
         },
         {
@@ -73,25 +74,25 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "21h ago",
+          "started": "23h ago",
           "trendBreakdown": "shireen",
           "percentageIncrease": "200%"
-        },
-        {
-          "name": "mario pineida",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "22h ago",
-          "percentageIncrease": "300%"
         },
         {
           "name": "republicans aca subsidies",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "11h ago",
+          "started": "13h ago",
           "percentageIncrease": "200%"
+        },
+        {
+          "name": "fani willis",
+          "relevanceScore": 90,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "22h ago",
+          "percentageIncrease": "100%"
         }
       ]
     }

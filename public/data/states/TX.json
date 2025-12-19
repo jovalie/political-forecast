@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-12-18T22:04:41.967Z",
+  "timestamp": "2025-12-19T00:05:05.670Z",
   "states": [
     {
       "name": "Texas",
@@ -12,8 +12,8 @@
           "name": "schedule",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "5K+",
-          "started": "3h ago",
+          "searchVolume": "10K+",
+          "started": "5h ago",
           "trendBreakdown": "what",
           "percentageIncrease": "1000%"
         },
@@ -21,9 +21,9 @@
           "name": "warrior dividend",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "5K+",
-          "started": "19h ago",
-          "trendBreakdown": "bonus",
+          "searchVolume": "10K+",
+          "started": "21h ago",
+          "trendBreakdown": "military",
           "percentageIncrease": "800%"
         },
         {
@@ -31,33 +31,41 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "5K+",
-          "started": "3h ago",
+          "started": "5h ago",
           "trendBreakdown": "trump",
+          "percentageIncrease": "900%"
+        },
+        {
+          "name": "joe biden",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "1K+",
+          "started": "20h ago",
           "percentageIncrease": "1000%"
         },
         {
-          "name": "white house",
+          "name": "brown university suspect",
           "relevanceScore": 95,
           "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "1h ago",
-          "trendBreakdown": "joe",
-          "percentageIncrease": "200%"
+          "searchVolume": "500+",
+          "started": "2h ago",
+          "percentageIncrease": "400%"
         },
         {
-          "name": "dan bongino leaving fbi",
+          "name": "presidential address today",
           "relevanceScore": 95,
           "category": "Law and Government",
-          "searchVolume": "1K+",
+          "searchVolume": "5K+",
           "started": "23h ago",
-          "percentageIncrease": "300%"
+          "trendBreakdown": "trump",
+          "percentageIncrease": "400%"
         },
         {
           "name": "defense bill senate",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "20h ago",
+          "started": "22h ago",
           "percentageIncrease": "300%"
         },
         {
@@ -65,7 +73,7 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "2h ago",
+          "started": "4h ago",
           "percentageIncrease": "200%"
         },
         {
@@ -73,7 +81,7 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "17h ago",
+          "started": "19h ago",
           "percentageIncrease": "400%"
         },
         {
@@ -81,15 +89,7 @@
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "20h ago",
-          "percentageIncrease": "100%"
-        },
-        {
-          "name": "republicans aca subsidies",
-          "relevanceScore": 90,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "8h ago",
+          "started": "22h ago",
           "percentageIncrease": "100%"
         }
       ]

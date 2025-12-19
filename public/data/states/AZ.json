@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-12-18T22:04:41.967Z",
+  "timestamp": "2025-12-19T00:05:05.670Z",
   "states": [
     {
       "name": "Arizona",
@@ -12,35 +12,44 @@
           "name": "schedule",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "3h ago",
+          "searchVolume": "1K+",
+          "started": "5h ago",
+          "trendBreakdown": "what",
           "percentageIncrease": "1000%"
         },
         {
-          "name": "trump to address the nation",
+          "name": "trump speech",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "5K+",
-          "started": "23h ago",
+          "searchVolume": "2K+",
+          "started": "22h ago",
           "trendBreakdown": "trump",
-          "percentageIncrease": "1000%"
+          "percentageIncrease": "500%"
         },
         {
           "name": "warrior dividend",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "19h ago",
+          "started": "21h ago",
           "percentageIncrease": "900%"
         },
         {
-          "name": "trump",
+          "name": "kennedy center",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "2K+",
-          "started": "21h ago",
-          "trendBreakdown": "kennedy",
-          "percentageIncrease": "300%"
+          "started": "3h ago",
+          "percentageIncrease": "400%"
+        },
+        {
+          "name": "mit professor shot",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "2h ago",
+          "trendBreakdown": "news",
+          "percentageIncrease": "400%"
         }
       ]
     }

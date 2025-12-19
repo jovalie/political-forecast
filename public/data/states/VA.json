@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-12-18T22:04:41.967Z",
+  "timestamp": "2025-12-19T00:05:05.670Z",
   "states": [
     {
       "name": "Virginia",
@@ -13,7 +13,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "5K+",
-          "started": "3h ago",
+          "started": "5h ago",
           "trendBreakdown": "trump",
           "percentageIncrease": "1000%"
         },
@@ -22,7 +22,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "5K+",
-          "started": "19h ago",
+          "started": "21h ago",
           "trendBreakdown": "bonus",
           "percentageIncrease": "1000%"
         },
@@ -31,24 +31,25 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "2K+",
-          "started": "3h ago",
-          "trendBreakdown": "executive",
+          "started": "5h ago",
+          "trendBreakdown": "what",
           "percentageIncrease": "1000%"
         },
         {
           "name": "federal holidays",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "50 minutes ago",
+          "searchVolume": "1K+",
+          "started": "2h ago",
+          "trendBreakdown": "christmas",
           "percentageIncrease": "1000%"
         },
         {
-          "name": "trump speech",
+          "name": "presidential address",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "10K+",
-          "started": "22h ago",
+          "searchVolume": "2K+",
+          "started": "23h ago",
           "trendBreakdown": "trump",
           "percentageIncrease": "1000%"
         },
@@ -57,15 +58,15 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "18h ago",
+          "started": "20h ago",
           "percentageIncrease": "1000%"
         },
         {
-          "name": "brown university suspect",
+          "name": "gs pay scale",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "20 minutes ago",
+          "started": "3h ago",
           "percentageIncrease": "300%"
         },
         {
@@ -73,7 +74,7 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "9h ago",
+          "started": "11h ago",
           "percentageIncrease": "300%"
         }
       ]
