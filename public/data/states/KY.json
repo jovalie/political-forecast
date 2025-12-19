@@ -1,44 +1,37 @@
 {
-  "timestamp": "2025-12-19T02:35:50.637Z",
+  "timestamp": "2025-12-19T04:14:18.237Z",
   "states": [
     {
       "name": "Kentucky",
       "code": "KY",
-      "topTopic": "schedule",
+      "topTopic": "brown university suspect",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
         {
-          "name": "schedule",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "7h ago",
-          "trendBreakdown": "what",
-          "percentageIncrease": "1000%"
-        },
-        {
           "name": "brown university suspect",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "2h ago",
-          "percentageIncrease": "600%"
+          "searchVolume": "1K+",
+          "started": "4h ago",
+          "trendBreakdown": "claudio",
+          "percentageIncrease": "1000%"
         },
         {
-          "name": "warrior dividend",
+          "name": "schedule",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "23h ago",
-          "percentageIncrease": "500%"
+          "searchVolume": "2K+",
+          "started": "8h ago",
+          "trendBreakdown": "what",
+          "percentageIncrease": "1000%"
         },
         {
           "name": "christmas",
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "9h ago",
+          "started": "11h ago",
           "percentageIncrease": "100%"
         }
       ]

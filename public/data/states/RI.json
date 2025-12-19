@@ -1,29 +1,19 @@
 {
-  "timestamp": "2025-12-19T02:35:50.637Z",
+  "timestamp": "2025-12-19T04:14:18.237Z",
   "states": [
     {
       "name": "Rhode Island",
       "code": "RI",
-      "topTopic": "brown university suspect",
+      "topTopic": "nuno loureiro",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
         {
-          "name": "brown university suspect",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "2K+",
-          "started": "5h ago",
-          "trendBreakdown": "brown",
-          "percentageIncrease": "1000%"
-        },
-        {
-          "name": "salem nh",
+          "name": "nuno loureiro",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "2h ago",
-          "trendBreakdown": "salem",
+          "started": "6h ago",
           "percentageIncrease": "1000%"
         }
       ]

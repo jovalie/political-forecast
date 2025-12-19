@@ -1,45 +1,37 @@
 {
-  "timestamp": "2025-12-19T02:35:50.637Z",
+  "timestamp": "2025-12-19T04:14:18.237Z",
   "states": [
     {
       "name": "Arizona",
       "code": "AZ",
-      "topTopic": "schedule",
+      "topTopic": "brown university suspect",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
         {
-          "name": "schedule",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "7h ago",
-          "trendBreakdown": "what",
-          "percentageIncrease": "1000%"
-        },
-        {
           "name": "brown university suspect",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "2h ago",
-          "trendBreakdown": "mit",
-          "percentageIncrease": "800%"
+          "searchVolume": "2K+",
+          "started": "4h ago",
+          "trendBreakdown": "claudio",
+          "percentageIncrease": "1000%"
         },
         {
-          "name": "warrior dividend",
+          "name": "schedule",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "24h ago",
-          "percentageIncrease": "900%"
+          "searchVolume": "2K+",
+          "started": "9h ago",
+          "trendBreakdown": "what",
+          "percentageIncrease": "1000%"
         },
         {
           "name": "prime",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "1h ago",
+          "started": "2h ago",
           "percentageIncrease": "200%"
         }
       ]

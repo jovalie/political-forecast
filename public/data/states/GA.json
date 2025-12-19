@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-12-19T02:35:50.637Z",
+  "timestamp": "2025-12-19T04:14:18.237Z",
   "states": [
     {
       "name": "Georgia",
@@ -12,61 +12,44 @@
           "name": "brown university suspect",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "4h ago",
-          "trendBreakdown": "mit",
-          "percentageIncrease": "600%"
-        },
-        {
-          "name": "what is a schedule",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "1K+",
+          "searchVolume": "5K+",
           "started": "6h ago",
-          "trendBreakdown": "trump",
-          "percentageIncrease": "700%"
+          "trendBreakdown": "claudio",
+          "percentageIncrease": "1000%"
         },
         {
           "name": "kennedy center",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "7h ago",
+          "started": "8h ago",
           "trendBreakdown": "trump",
           "percentageIncrease": "900%"
         },
         {
-          "name": "salem nh",
+          "name": "what is a schedule",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "20 minutes ago",
-          "percentageIncrease": "500%"
-        },
-        {
-          "name": "joe biden",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "22h ago",
-          "percentageIncrease": "1000%"
+          "searchVolume": "1K+",
+          "started": "8h ago",
+          "trendBreakdown": "schedule",
+          "percentageIncrease": "600%"
         },
         {
           "name": "federal holidays",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "1h ago",
+          "started": "3h ago",
           "percentageIncrease": "300%"
         },
         {
-          "name": "trump speech tonight",
-          "relevanceScore": 95,
+          "name": "avatar",
+          "relevanceScore": 90,
           "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "23h ago",
-          "trendBreakdown": "trump",
-          "percentageIncrease": "300%"
+          "searchVolume": "100+",
+          "started": "4h ago",
+          "percentageIncrease": "100%"
         }
       ]
     }
