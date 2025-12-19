@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-12-19T16:04:40.641Z",
+  "timestamp": "2025-12-19T18:04:38.904Z",
   "states": [
     {
       "name": "Illinois",
@@ -13,43 +13,51 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "10K+",
-          "started": "13h ago",
+          "started": "15h ago",
           "trendBreakdown": "brown",
           "percentageIncrease": "1000%"
+        },
+        {
+          "name": "epstein files",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "2K+",
+          "started": "16h ago",
+          "trendBreakdown": "files",
+          "percentageIncrease": "500%"
         },
         {
           "name": "schedule",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "2K+",
-          "started": "21h ago",
+          "started": "23h ago",
           "trendBreakdown": "what",
-          "percentageIncrease": "1000%"
+          "percentageIncrease": "900%"
         },
         {
           "name": "kennedy center",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "2K+",
-          "started": "21h ago",
+          "started": "23h ago",
           "trendBreakdown": "trump",
           "percentageIncrease": "900%"
         },
         {
-          "name": "epstein files",
-          "relevanceScore": 95,
+          "name": "vaccines",
+          "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "2K+",
+          "searchVolume": "500+",
           "started": "14h ago",
-          "trendBreakdown": "files",
-          "percentageIncrease": "400%"
+          "percentageIncrease": "1000%"
         },
         {
           "name": "christmas eve federal holiday",
           "relevanceScore": 95,
           "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "13h ago",
+          "searchVolume": "1K+",
+          "started": "15h ago",
           "trendBreakdown": "federal",
           "percentageIncrease": "400%"
         },
@@ -58,8 +66,16 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "4h ago",
+          "started": "6h ago",
           "percentageIncrease": "200%"
+        },
+        {
+          "name": "merry christmas",
+          "relevanceScore": 90,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "4h ago",
+          "percentageIncrease": "100%"
         }
       ]
     }

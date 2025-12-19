@@ -1,29 +1,29 @@
 {
-  "timestamp": "2025-12-19T16:04:40.641Z",
+  "timestamp": "2025-12-19T18:04:38.904Z",
   "states": [
     {
       "name": "Ohio",
       "code": "OH",
-      "topTopic": "schedule",
+      "topTopic": "epstein files",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
+        {
+          "name": "epstein files",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "2K+",
+          "started": "18h ago",
+          "trendBreakdown": "files",
+          "percentageIncrease": "500%"
+        },
         {
           "name": "schedule",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "5K+",
-          "started": "21h ago",
+          "started": "23h ago",
           "trendBreakdown": "what",
-          "percentageIncrease": "1000%"
-        },
-        {
-          "name": "claudio neves valente",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "10K+",
-          "started": "13h ago",
-          "trendBreakdown": "claudio",
           "percentageIncrease": "1000%"
         },
         {
@@ -31,36 +31,53 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "2K+",
-          "started": "21h ago",
+          "started": "23h ago",
           "trendBreakdown": "ice",
           "percentageIncrease": "600%"
+        },
+        {
+          "name": "claudio neves valente",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "10K+",
+          "started": "15h ago",
+          "trendBreakdown": "claudio",
+          "percentageIncrease": "1000%"
         },
         {
           "name": "kennedy center",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "2K+",
-          "started": "20h ago",
+          "started": "22h ago",
           "trendBreakdown": "trump",
-          "percentageIncrease": "700%"
+          "percentageIncrease": "600%"
         },
         {
-          "name": "epstein files",
+          "name": "federal holidays",
           "relevanceScore": 95,
           "category": "Law and Government",
-          "searchVolume": "2K+",
-          "started": "16h ago",
-          "trendBreakdown": "files",
+          "searchVolume": "1K+",
+          "started": "15h ago",
+          "trendBreakdown": "christmas",
           "percentageIncrease": "400%"
         },
         {
-          "name": "christmas eve federal holiday",
+          "name": "whio tv",
           "relevanceScore": 95,
           "category": "Law and Government",
-          "searchVolume": "500+",
+          "searchVolume": "100+",
+          "started": "6h ago",
+          "percentageIncrease": "200%"
+        },
+        {
+          "name": "weather columbus ohio",
+          "relevanceScore": 90,
+          "category": "Law and Government",
+          "searchVolume": "100+",
           "started": "7h ago",
-          "trendBreakdown": "federal",
-          "percentageIncrease": "300%"
+          "trendBreakdown": "columbus",
+          "percentageIncrease": "100%"
         }
       ]
     }

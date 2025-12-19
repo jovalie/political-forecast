@@ -1,37 +1,29 @@
 {
-  "timestamp": "2025-12-19T16:04:40.641Z",
+  "timestamp": "2025-12-19T18:04:38.904Z",
   "states": [
     {
       "name": "Nevada",
       "code": "NV",
-      "topTopic": "schedule",
+      "topTopic": "brown university suspect",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
+        {
+          "name": "brown university suspect",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "1K+",
+          "started": "16h ago",
+          "trendBreakdown": "claudio",
+          "percentageIncrease": "500%"
+        },
         {
           "name": "schedule",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "20h ago",
+          "started": "22h ago",
           "percentageIncrease": "500%"
-        },
-        {
-          "name": "epstein files",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "1h ago",
-          "percentageIncrease": "400%"
-        },
-        {
-          "name": "claudio manuel neves valente",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "30 minutes ago",
-          "trendBreakdown": "brown",
-          "percentageIncrease": "200%"
         }
       ]
     }

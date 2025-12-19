@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-12-19T16:04:40.641Z",
+  "timestamp": "2025-12-19T18:04:38.904Z",
   "states": [
     {
       "name": "New York",
@@ -12,35 +12,44 @@
           "name": "kennedy center",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "5K+",
-          "started": "21h ago",
+          "searchVolume": "10K+",
+          "started": "23h ago",
           "trendBreakdown": "trump",
           "percentageIncrease": "1000%"
+        },
+        {
+          "name": "epstein files",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "5K+",
+          "started": "20h ago",
+          "trendBreakdown": "files",
+          "percentageIncrease": "500%"
         },
         {
           "name": "schedule",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "5K+",
-          "started": "21h ago",
+          "started": "23h ago",
           "trendBreakdown": "what",
-          "percentageIncrease": "800%"
+          "percentageIncrease": "700%"
         },
         {
-          "name": "epstein files",
-          "relevanceScore": 95,
+          "name": "julie su",
+          "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "2K+",
-          "started": "18h ago",
-          "trendBreakdown": "epstein",
-          "percentageIncrease": "400%"
+          "searchVolume": "1K+",
+          "started": "2h ago",
+          "trendBreakdown": "leila",
+          "percentageIncrease": "600%"
         },
         {
           "name": "christmas eve federal holiday",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "5K+",
-          "started": "15h ago",
+          "started": "17h ago",
           "trendBreakdown": "federal",
           "percentageIncrease": "400%"
         },
@@ -49,8 +58,16 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "16h ago",
+          "started": "18h ago",
           "trendBreakdown": "super",
+          "percentageIncrease": "400%"
+        },
+        {
+          "name": "the view",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "1h ago",
           "percentageIncrease": "400%"
         },
         {
@@ -58,7 +75,7 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "20h ago",
+          "started": "22h ago",
           "percentageIncrease": "200%"
         },
         {
@@ -66,16 +83,16 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "18h ago",
+          "started": "20h ago",
           "percentageIncrease": "200%"
         },
         {
-          "name": "sherif soliman",
-          "relevanceScore": 95,
+          "name": "nyseg",
+          "relevanceScore": 90,
           "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "23h ago",
-          "percentageIncrease": "300%"
+          "searchVolume": "1K+",
+          "started": "9h ago",
+          "percentageIncrease": "100%"
         }
       ]
     }

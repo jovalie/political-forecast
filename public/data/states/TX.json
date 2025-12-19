@@ -1,46 +1,45 @@
 {
-  "timestamp": "2025-12-19T16:04:40.641Z",
+  "timestamp": "2025-12-19T18:04:38.904Z",
   "states": [
     {
       "name": "Texas",
       "code": "TX",
-      "topTopic": "schedule",
+      "topTopic": "kennedy center",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
-        {
-          "name": "schedule",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "10K+",
-          "started": "21h ago",
-          "trendBreakdown": "what",
-          "percentageIncrease": "1000%"
-        },
         {
           "name": "kennedy center",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "5K+",
-          "started": "21h ago",
+          "started": "23h ago",
           "trendBreakdown": "trump",
           "percentageIncrease": "500%"
+        },
+        {
+          "name": "vaccinations",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "14h ago",
+          "percentageIncrease": "800%"
         },
         {
           "name": "epstein files",
           "relevanceScore": 95,
           "category": "Law and Government",
-          "searchVolume": "2K+",
-          "started": "19h ago",
+          "searchVolume": "5K+",
+          "started": "21h ago",
           "trendBreakdown": "files",
-          "percentageIncrease": "300%"
+          "percentageIncrease": "400%"
         },
         {
           "name": "federal holidays",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "2K+",
-          "started": "17h ago",
+          "started": "19h ago",
           "trendBreakdown": "christmas",
           "percentageIncrease": "200%"
         },
@@ -49,15 +48,7 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "15h ago",
-          "percentageIncrease": "300%"
-        },
-        {
-          "name": "ash trevino jail",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "22h ago",
+          "started": "17h ago",
           "percentageIncrease": "300%"
         },
         {
@@ -65,15 +56,23 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "2h ago",
+          "started": "4h ago",
           "percentageIncrease": "400%"
+        },
+        {
+          "name": "portugal",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "14h ago",
+          "percentageIncrease": "200%"
         },
         {
           "name": "white house",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "19h ago",
+          "started": "21h ago",
           "percentageIncrease": "200%"
         },
         {
@@ -81,7 +80,7 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "20h ago",
+          "started": "22h ago",
           "percentageIncrease": "200%"
         },
         {
@@ -89,7 +88,7 @@
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "14h ago",
+          "started": "16h ago",
           "percentageIncrease": "100%"
         }
       ]

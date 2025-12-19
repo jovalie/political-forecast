@@ -1,29 +1,29 @@
 {
-  "timestamp": "2025-12-19T16:04:40.641Z",
+  "timestamp": "2025-12-19T18:04:38.904Z",
   "states": [
     {
       "name": "Georgia",
       "code": "GA",
-      "topTopic": "claudio neves valente",
+      "topTopic": "kennedy center",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
-        {
-          "name": "claudio neves valente",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "10K+",
-          "started": "13h ago",
-          "trendBreakdown": "brown",
-          "percentageIncrease": "1000%"
-        },
         {
           "name": "kennedy center",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "20h ago",
+          "started": "22h ago",
           "trendBreakdown": "trump",
+          "percentageIncrease": "600%"
+        },
+        {
+          "name": "claudio manuel neves valente",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "10K+",
+          "started": "14h ago",
+          "trendBreakdown": "brown",
           "percentageIncrease": "600%"
         },
         {
@@ -31,7 +31,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "20h ago",
+          "started": "22h ago",
           "trendBreakdown": "schedule",
           "percentageIncrease": "500%"
         },
@@ -39,9 +39,18 @@
           "name": "epstein files",
           "relevanceScore": 95,
           "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "13h ago",
-          "trendBreakdown": "news",
+          "searchVolume": "2K+",
+          "started": "15h ago",
+          "trendBreakdown": "todaynews",
+          "percentageIncrease": "400%"
+        },
+        {
+          "name": "federal holidays",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "16h ago",
+          "trendBreakdown": "christmas",
           "percentageIncrease": "300%"
         }
       ]

@@ -1,72 +1,80 @@
 {
-  "timestamp": "2025-12-19T16:04:40.641Z",
+  "timestamp": "2025-12-19T18:04:38.904Z",
   "states": [
     {
       "name": "Michigan",
       "code": "MI",
-      "topTopic": "brown university suspect",
+      "topTopic": "epstein files",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
         {
-          "name": "brown university suspect",
+          "name": "epstein files",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "5K+",
-          "started": "17h ago",
-          "trendBreakdown": "claudio",
-          "percentageIncrease": "700%"
+          "searchVolume": "2K+",
+          "started": "16h ago",
+          "trendBreakdown": "epstein",
+          "percentageIncrease": "500%"
         },
         {
           "name": "schedule",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "2K+",
-          "started": "21h ago",
+          "started": "23h ago",
           "trendBreakdown": "what",
-          "percentageIncrease": "1000%"
+          "percentageIncrease": "900%"
         },
         {
-          "name": "westland kroger shooting",
+          "name": "brown university suspect",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "2K+",
-          "started": "15h ago",
-          "trendBreakdown": "kroger",
-          "percentageIncrease": "800%"
+          "searchVolume": "5K+",
+          "started": "19h ago",
+          "trendBreakdown": "claudio",
+          "percentageIncrease": "600%"
         },
         {
           "name": "kennedy center",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "20h ago",
+          "started": "22h ago",
           "trendBreakdown": "trump",
-          "percentageIncrease": "700%"
+          "percentageIncrease": "800%"
         },
         {
-          "name": "epstein files",
-          "relevanceScore": 95,
+          "name": "westland kroger shooting",
+          "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "14h ago",
-          "trendBreakdown": "epstein",
-          "percentageIncrease": "400%"
+          "searchVolume": "2K+",
+          "started": "17h ago",
+          "trendBreakdown": "kroger",
+          "percentageIncrease": "800%"
         },
         {
           "name": "fox",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "5h ago",
+          "started": "7h ago",
           "percentageIncrease": "300%"
+        },
+        {
+          "name": "closed schools",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "7h ago",
+          "percentageIncrease": "200%"
         },
         {
           "name": "nuno loureiro",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "12h ago",
+          "started": "14h ago",
           "percentageIncrease": "200%"
         }
       ]
