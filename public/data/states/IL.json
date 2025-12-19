@@ -1,20 +1,20 @@
 {
-  "timestamp": "2025-12-19T12:04:45.634Z",
+  "timestamp": "2025-12-19T14:05:04.321Z",
   "states": [
     {
       "name": "Illinois",
       "code": "IL",
-      "topTopic": "claudio neves valente",
+      "topTopic": "brown university suspect",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
         {
-          "name": "claudio neves valente",
+          "name": "brown university suspect",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "10K+",
-          "started": "9h ago",
-          "trendBreakdown": "brown",
+          "started": "15h ago",
+          "trendBreakdown": "claudio",
           "percentageIncrease": "1000%"
         },
         {
@@ -22,7 +22,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "2K+",
-          "started": "17h ago",
+          "started": "19h ago",
           "trendBreakdown": "what",
           "percentageIncrease": "1000%"
         },
@@ -31,8 +31,8 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "2K+",
-          "started": "17h ago",
-          "trendBreakdown": "trump",
+          "started": "19h ago",
+          "trendBreakdown": "kennedy",
           "percentageIncrease": "1000%"
         },
         {
@@ -40,15 +40,24 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "20h ago",
+          "started": "22h ago",
           "percentageIncrease": "1000%"
         },
         {
           "name": "epstein files",
           "relevanceScore": 95,
           "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "10h ago",
+          "searchVolume": "1K+",
+          "started": "12h ago",
+          "trendBreakdown": "files",
+          "percentageIncrease": "300%"
+        },
+        {
+          "name": "merry christmas",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "50 minutes ago",
           "percentageIncrease": "200%"
         },
         {
@@ -56,7 +65,7 @@
           "relevanceScore": 85,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "9h ago",
+          "started": "11h ago",
           "percentageIncrease": "50%"
         }
       ]

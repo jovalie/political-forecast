@@ -1,72 +1,81 @@
 {
-  "timestamp": "2025-12-19T12:04:45.634Z",
+  "timestamp": "2025-12-19T14:05:04.321Z",
   "states": [
     {
       "name": "Maryland",
       "code": "MD",
-      "topTopic": "brown university suspect",
+      "topTopic": "claudio neves valente",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
         {
-          "name": "brown university suspect",
+          "name": "claudio neves valente",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "5K+",
-          "started": "13h ago",
-          "trendBreakdown": "claudio",
-          "percentageIncrease": "900%"
+          "searchVolume": "10K+",
+          "started": "11h ago",
+          "trendBreakdown": "brown",
+          "percentageIncrease": "1000%"
         },
         {
           "name": "kennedy center",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "5K+",
-          "started": "17h ago",
+          "started": "19h ago",
           "trendBreakdown": "trump",
           "percentageIncrease": "1000%"
-        },
-        {
-          "name": "schedule",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "2K+",
-          "started": "16h ago",
-          "trendBreakdown": "executive",
-          "percentageIncrease": "600%"
         },
         {
           "name": "federal holidays",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "14h ago",
+          "started": "16h ago",
           "trendBreakdown": "christmas",
           "percentageIncrease": "700%"
+        },
+        {
+          "name": "schedule",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "2K+",
+          "started": "18h ago",
+          "trendBreakdown": "executive",
+          "percentageIncrease": "600%"
         },
         {
           "name": "parkdale high school",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "20h ago",
+          "started": "22h ago",
           "percentageIncrease": "700%"
-        },
-        {
-          "name": "white house",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "15h ago",
-          "percentageIncrease": "1000%"
         },
         {
           "name": "brian walshe",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "19h ago",
+          "started": "21h ago",
           "percentageIncrease": "800%"
+        },
+        {
+          "name": "epstein files",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "10h ago",
+          "percentageIncrease": "200%"
+        },
+        {
+          "name": "gs pay scale",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "16h ago",
+          "trendBreakdown": "opm",
+          "percentageIncrease": "200%"
         }
       ]
     }
