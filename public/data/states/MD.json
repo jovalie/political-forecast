@@ -1,54 +1,38 @@
 {
-  "timestamp": "2025-12-19T08:04:51.889Z",
+  "timestamp": "2025-12-19T10:04:43.306Z",
   "states": [
     {
       "name": "Maryland",
       "code": "MD",
-      "topTopic": "brown university suspect",
+      "topTopic": "kennedy center",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
-        {
-          "name": "brown university suspect",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "5K+",
-          "started": "9h ago",
-          "trendBreakdown": "claudio",
-          "percentageIncrease": "1000%"
-        },
         {
           "name": "kennedy center",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "5K+",
-          "started": "13h ago",
+          "started": "15h ago",
           "trendBreakdown": "trump",
           "percentageIncrease": "1000%"
         },
         {
-          "name": "white house",
+          "name": "brown university suspect",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "500+",
+          "searchVolume": "5K+",
           "started": "11h ago",
-          "percentageIncrease": "1000%"
+          "trendBreakdown": "claudio",
+          "percentageIncrease": "900%"
         },
         {
           "name": "schedule",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "2K+",
-          "started": "12h ago",
+          "started": "14h ago",
           "trendBreakdown": "executive",
-          "percentageIncrease": "700%"
-        },
-        {
-          "name": "parkdale high school",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "16h ago",
           "percentageIncrease": "700%"
         },
         {
@@ -56,25 +40,25 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "10h ago",
+          "started": "12h ago",
           "trendBreakdown": "christmas",
           "percentageIncrease": "800%"
+        },
+        {
+          "name": "parkdale high school",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "1K+",
+          "started": "18h ago",
+          "percentageIncrease": "700%"
         },
         {
           "name": "brian walshe",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "15h ago",
+          "started": "17h ago",
           "percentageIncrease": "800%"
-        },
-        {
-          "name": "gs pay scale",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "10h ago",
-          "percentageIncrease": "300%"
         }
       ]
     }

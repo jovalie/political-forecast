@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-12-19T08:04:51.889Z",
+  "timestamp": "2025-12-19T10:04:43.306Z",
   "states": [
     {
       "name": "West Virginia",
@@ -13,7 +13,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "11h ago",
+          "started": "13h ago",
           "percentageIncrease": "500%"
         },
         {
@@ -21,8 +21,16 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "4h ago",
+          "started": "6h ago",
           "percentageIncrease": "1000%"
+        },
+        {
+          "name": "first energy",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "2h ago",
+          "percentageIncrease": "300%"
         }
       ]
     }

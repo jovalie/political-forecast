@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-12-19T08:04:51.889Z",
+  "timestamp": "2025-12-19T10:04:43.306Z",
   "states": [
     {
       "name": "California",
@@ -96,35 +96,43 @@
     {
       "name": "Arizona",
       "code": "AZ",
-      "topTopic": "claudio neves valente",
+      "topTopic": "schedule",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
-        {
-          "name": "claudio neves valente",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "5K+",
-          "started": "5h ago",
-          "trendBreakdown": "brown",
-          "percentageIncrease": "1000%"
-        },
         {
           "name": "schedule",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "2K+",
-          "started": "13h ago",
+          "started": "15h ago",
           "trendBreakdown": "what",
+          "percentageIncrease": "800%"
+        },
+        {
+          "name": "claudio neves valente",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "5K+",
+          "started": "7h ago",
+          "trendBreakdown": "brown",
           "percentageIncrease": "1000%"
         },
         {
-          "name": "vaccinations",
-          "relevanceScore": 100,
+          "name": "nuno loureiro",
+          "relevanceScore": 95,
           "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "4h ago",
-          "percentageIncrease": "1000%"
+          "searchVolume": "100+",
+          "started": "6h ago",
+          "percentageIncrease": "200%"
+        },
+        {
+          "name": "avatar",
+          "relevanceScore": 90,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "6h ago",
+          "percentageIncrease": "100%"
         }
       ]
     },
@@ -140,7 +148,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "10K+",
-          "started": "5h ago",
+          "started": "7h ago",
           "trendBreakdown": "claudio",
           "percentageIncrease": "1000%"
         },
@@ -149,7 +157,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "10K+",
-          "started": "13h ago",
+          "started": "15h ago",
           "trendBreakdown": "what",
           "percentageIncrease": "1000%"
         },
@@ -157,35 +165,35 @@
           "name": "kennedy center",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "2K+",
-          "started": "13h ago",
+          "searchVolume": "5K+",
+          "started": "15h ago",
           "trendBreakdown": "trump",
           "percentageIncrease": "1000%"
-        },
-        {
-          "name": "federal holidays",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "9h ago",
-          "trendBreakdown": "christmas",
-          "percentageIncrease": "300%"
         },
         {
           "name": "frank walls",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "10h ago",
+          "started": "12h ago",
           "trendBreakdown": "florida",
           "percentageIncrease": "200%"
+        },
+        {
+          "name": "federal holidays",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "1K+",
+          "started": "11h ago",
+          "trendBreakdown": "christmas",
+          "percentageIncrease": "300%"
         },
         {
           "name": "schengen",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "11h ago",
+          "started": "13h ago",
           "percentageIncrease": "200%"
         },
         {
@@ -193,7 +201,7 @@
           "relevanceScore": 85,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "19h ago",
+          "started": "21h ago",
           "percentageIncrease": "50%"
         }
       ]
@@ -210,7 +218,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "5K+",
-          "started": "9h ago",
+          "started": "11h ago",
           "trendBreakdown": "claudio",
           "percentageIncrease": "1000%"
         },
@@ -219,7 +227,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "12h ago",
+          "started": "14h ago",
           "trendBreakdown": "trump",
           "percentageIncrease": "700%"
         },
@@ -228,7 +236,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "12h ago",
+          "started": "14h ago",
           "trendBreakdown": "schedule",
           "percentageIncrease": "600%"
         },
@@ -237,7 +245,7 @@
           "relevanceScore": 85,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "18h ago",
+          "started": "20h ago",
           "trendBreakdown": "federal",
           "percentageIncrease": "75%"
         }
@@ -255,7 +263,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "10K+",
-          "started": "5h ago",
+          "started": "7h ago",
           "trendBreakdown": "brown",
           "percentageIncrease": "1000%"
         },
@@ -264,7 +272,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "2K+",
-          "started": "13h ago",
+          "started": "15h ago",
           "trendBreakdown": "what",
           "percentageIncrease": "1000%"
         },
@@ -273,24 +281,8 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "2K+",
-          "started": "13h ago",
+          "started": "15h ago",
           "trendBreakdown": "trump",
-          "percentageIncrease": "1000%"
-        },
-        {
-          "name": "conduent",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "18h ago",
-          "percentageIncrease": "700%"
-        },
-        {
-          "name": "vaccinations",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "4h ago",
           "percentageIncrease": "1000%"
         },
         {
@@ -298,42 +290,50 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "16h ago",
+          "started": "18h ago",
           "percentageIncrease": "1000%"
+        },
+        {
+          "name": "dollar tree",
+          "relevanceScore": 85,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "7h ago",
+          "percentageIncrease": "50%"
         }
       ]
     },
     {
       "name": "Indiana",
       "code": "IN",
-      "topTopic": "schedule",
+      "topTopic": "brown university suspect",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
-        {
-          "name": "schedule",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "2K+",
-          "started": "13h ago",
-          "trendBreakdown": "what",
-          "percentageIncrease": "900%"
-        },
         {
           "name": "brown university suspect",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "2K+",
-          "started": "10h ago",
+          "started": "12h ago",
           "trendBreakdown": "claudio",
           "percentageIncrease": "1000%"
+        },
+        {
+          "name": "schedule",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "2K+",
+          "started": "15h ago",
+          "trendBreakdown": "what",
+          "percentageIncrease": "800%"
         },
         {
           "name": "kennedy center",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "11h ago",
+          "started": "13h ago",
           "percentageIncrease": "500%"
         }
       ]
@@ -341,6 +341,67 @@
     {
       "name": "Maryland",
       "code": "MD",
+      "topTopic": "kennedy center",
+      "category": "Law and Government",
+      "trendingScore": 100,
+      "topics": [
+        {
+          "name": "kennedy center",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "5K+",
+          "started": "15h ago",
+          "trendBreakdown": "trump",
+          "percentageIncrease": "1000%"
+        },
+        {
+          "name": "brown university suspect",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "5K+",
+          "started": "11h ago",
+          "trendBreakdown": "claudio",
+          "percentageIncrease": "900%"
+        },
+        {
+          "name": "schedule",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "2K+",
+          "started": "14h ago",
+          "trendBreakdown": "executive",
+          "percentageIncrease": "700%"
+        },
+        {
+          "name": "federal holidays",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "1K+",
+          "started": "12h ago",
+          "trendBreakdown": "christmas",
+          "percentageIncrease": "800%"
+        },
+        {
+          "name": "parkdale high school",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "1K+",
+          "started": "18h ago",
+          "percentageIncrease": "700%"
+        },
+        {
+          "name": "brian walshe",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "17h ago",
+          "percentageIncrease": "800%"
+        }
+      ]
+    },
+    {
+      "name": "Michigan",
+      "code": "MI",
       "topTopic": "brown university suspect",
       "category": "Law and Government",
       "trendingScore": 100,
@@ -350,102 +411,25 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "5K+",
-          "started": "9h ago",
-          "trendBreakdown": "claudio",
-          "percentageIncrease": "1000%"
-        },
-        {
-          "name": "kennedy center",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "5K+",
-          "started": "13h ago",
-          "trendBreakdown": "trump",
-          "percentageIncrease": "1000%"
-        },
-        {
-          "name": "white house",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "500+",
           "started": "11h ago",
-          "percentageIncrease": "1000%"
-        },
-        {
-          "name": "schedule",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "2K+",
-          "started": "12h ago",
-          "trendBreakdown": "executive",
-          "percentageIncrease": "700%"
-        },
-        {
-          "name": "parkdale high school",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "16h ago",
-          "percentageIncrease": "700%"
-        },
-        {
-          "name": "federal holidays",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "10h ago",
-          "trendBreakdown": "christmas",
-          "percentageIncrease": "800%"
-        },
-        {
-          "name": "brian walshe",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "15h ago",
-          "percentageIncrease": "800%"
-        },
-        {
-          "name": "gs pay scale",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "10h ago",
-          "percentageIncrease": "300%"
-        }
-      ]
-    },
-    {
-      "name": "Michigan",
-      "code": "MI",
-      "topTopic": "schedule",
-      "category": "Law and Government",
-      "trendingScore": 100,
-      "topics": [
-        {
-          "name": "schedule",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "2K+",
-          "started": "13h ago",
-          "trendBreakdown": "what",
-          "percentageIncrease": "1000%"
-        },
-        {
-          "name": "brown university suspect",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "5K+",
-          "started": "9h ago",
           "trendBreakdown": "claudio",
           "percentageIncrease": "900%"
+        },
+        {
+          "name": "schedule",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "2K+",
+          "started": "15h ago",
+          "trendBreakdown": "what",
+          "percentageIncrease": "1000%"
         },
         {
           "name": "westland kroger shooting",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "7h ago",
+          "started": "9h ago",
           "trendBreakdown": "kroger",
           "percentageIncrease": "1000%"
         },
@@ -454,7 +438,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "12h ago",
+          "started": "14h ago",
           "trendBreakdown": "trump",
           "percentageIncrease": "800%"
         },
@@ -463,8 +447,16 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "18h ago",
+          "started": "20h ago",
           "percentageIncrease": "1000%"
+        },
+        {
+          "name": "nuno loureiro",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "6h ago",
+          "percentageIncrease": "200%"
         }
       ]
     },
@@ -480,7 +472,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "50K+",
-          "started": "5h ago",
+          "started": "7h ago",
           "trendBreakdown": "claudio",
           "percentageIncrease": "1000%"
         },
@@ -489,7 +481,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "2K+",
-          "started": "13h ago",
+          "started": "15h ago",
           "trendBreakdown": "trump",
           "percentageIncrease": "1000%"
         },
@@ -498,7 +490,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "12h ago",
+          "started": "14h ago",
           "percentageIncrease": "900%"
         },
         {
@@ -506,7 +498,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "4h ago",
+          "started": "6h ago",
           "percentageIncrease": "1000%"
         },
         {
@@ -514,15 +506,16 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "5h ago",
+          "started": "7h ago",
           "percentageIncrease": "1000%"
         },
         {
           "name": "wcvb",
           "relevanceScore": 95,
           "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "10h ago",
+          "searchVolume": "2K+",
+          "started": "12h ago",
+          "trendBreakdown": "todaynews",
           "percentageIncrease": "300%"
         },
         {
@@ -530,7 +523,7 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "4h ago",
+          "started": "6h ago",
           "percentageIncrease": "400%"
         }
       ]
@@ -547,25 +540,25 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "2K+",
-          "started": "12h ago",
+          "started": "14h ago",
           "trendBreakdown": "what",
-          "percentageIncrease": "1000%"
+          "percentageIncrease": "900%"
         },
         {
           "name": "brown university suspect",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "2K+",
-          "started": "7h ago",
+          "started": "9h ago",
           "trendBreakdown": "claudio",
-          "percentageIncrease": "1000%"
+          "percentageIncrease": "900%"
         },
         {
           "name": "kennedy center",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "12h ago",
+          "started": "14h ago",
           "percentageIncrease": "800%"
         },
         {
@@ -573,7 +566,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "9h ago",
+          "started": "11h ago",
           "trendBreakdown": "amber",
           "percentageIncrease": "1000%"
         },
@@ -582,8 +575,16 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "15h ago",
+          "started": "17h ago",
           "percentageIncrease": "900%"
+        },
+        {
+          "name": "epstein files",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "5h ago",
+          "percentageIncrease": "200%"
         }
       ]
     },
@@ -599,8 +600,17 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "10K+",
-          "started": "5h ago",
+          "started": "7h ago",
           "trendBreakdown": "brown",
+          "percentageIncrease": "1000%"
+        },
+        {
+          "name": "kennedy center",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "2K+",
+          "started": "15h ago",
+          "trendBreakdown": "trump",
           "percentageIncrease": "1000%"
         },
         {
@@ -608,34 +618,34 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "13h ago",
+          "started": "15h ago",
           "trendBreakdown": "what",
-          "percentageIncrease": "800%"
-        },
-        {
-          "name": "kennedy center",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "2K+",
-          "started": "13h ago",
-          "trendBreakdown": "trump",
-          "percentageIncrease": "1000%"
+          "percentageIncrease": "700%"
         }
       ]
     },
     {
       "name": "North Carolina",
       "code": "NC",
-      "topTopic": "jim hunt",
+      "topTopic": "brown university suspect",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
+        {
+          "name": "brown university suspect",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "10K+",
+          "started": "13h ago",
+          "trendBreakdown": "claudio",
+          "percentageIncrease": "1000%"
+        },
         {
           "name": "jim hunt",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "5K+",
-          "started": "10h ago",
+          "started": "12h ago",
           "trendBreakdown": "governor",
           "percentageIncrease": "1000%"
         },
@@ -644,17 +654,8 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "5K+",
-          "started": "13h ago",
+          "started": "15h ago",
           "trendBreakdown": "what",
-          "percentageIncrease": "1000%"
-        },
-        {
-          "name": "brown university suspect",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "10K+",
-          "started": "11h ago",
-          "trendBreakdown": "claudio",
           "percentageIncrease": "1000%"
         },
         {
@@ -662,7 +663,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "2K+",
-          "started": "13h ago",
+          "started": "15h ago",
           "trendBreakdown": "trump",
           "percentageIncrease": "1000%"
         },
@@ -671,7 +672,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "16h ago",
+          "started": "18h ago",
           "percentageIncrease": "1000%"
         },
         {
@@ -679,7 +680,7 @@
           "relevanceScore": 85,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "18h ago",
+          "started": "20h ago",
           "percentageIncrease": "75%"
         }
       ]
@@ -696,16 +697,16 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "2K+",
-          "started": "13h ago",
+          "started": "15h ago",
           "trendBreakdown": "what",
-          "percentageIncrease": "1000%"
+          "percentageIncrease": "900%"
         },
         {
           "name": "kennedy center",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "5K+",
-          "started": "13h ago",
+          "started": "15h ago",
           "trendBreakdown": "trump",
           "percentageIncrease": "1000%"
         },
@@ -714,7 +715,7 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "8h ago",
+          "started": "10h ago",
           "trendBreakdown": "flu",
           "percentageIncrease": "400%"
         },
@@ -723,7 +724,7 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "2K+",
-          "started": "7h ago",
+          "started": "9h ago",
           "trendBreakdown": "federal",
           "percentageIncrease": "300%"
         },
@@ -732,7 +733,7 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "10h ago",
+          "started": "12h ago",
           "trendBreakdown": "chapin",
           "percentageIncrease": "200%"
         },
@@ -741,7 +742,7 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "12h ago",
+          "started": "14h ago",
           "percentageIncrease": "200%"
         },
         {
@@ -749,7 +750,7 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "15h ago",
+          "started": "17h ago",
           "percentageIncrease": "300%"
         },
         {
@@ -757,101 +758,14 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "6h ago",
+          "started": "8h ago",
           "percentageIncrease": "200%"
-        },
-        {
-          "name": "merry christmas",
-          "relevanceScore": 90,
-          "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "18h ago",
-          "percentageIncrease": "100%"
         }
       ]
     },
     {
       "name": "Ohio",
       "code": "OH",
-      "topTopic": "brown university suspect",
-      "category": "Law and Government",
-      "trendingScore": 100,
-      "topics": [
-        {
-          "name": "brown university suspect",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "10K+",
-          "started": "8h ago",
-          "trendBreakdown": "claudio",
-          "percentageIncrease": "1000%"
-        },
-        {
-          "name": "schedule",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "2K+",
-          "started": "13h ago",
-          "trendBreakdown": "what",
-          "percentageIncrease": "1000%"
-        },
-        {
-          "name": "kennedy center",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "2K+",
-          "started": "12h ago",
-          "trendBreakdown": "trump",
-          "percentageIncrease": "800%"
-        },
-        {
-          "name": "ice in columbus ohio",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "13h ago",
-          "trendBreakdown": "ice",
-          "percentageIncrease": "600%"
-        },
-        {
-          "name": "trump's",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "20h ago",
-          "percentageIncrease": "300%"
-        }
-      ]
-    },
-    {
-      "name": "Oregon",
-      "code": "OR",
-      "topTopic": "brown university suspect",
-      "category": "Law and Government",
-      "trendingScore": 100,
-      "topics": [
-        {
-          "name": "brown university suspect",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "2K+",
-          "started": "5h ago",
-          "trendBreakdown": "claudio",
-          "percentageIncrease": "900%"
-        },
-        {
-          "name": "schedule",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "12h ago",
-          "percentageIncrease": "800%"
-        }
-      ]
-    },
-    {
-      "name": "Pennsylvania",
-      "code": "PA",
       "topTopic": "claudio neves valente",
       "category": "Law and Government",
       "trendingScore": 100,
@@ -861,7 +775,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "10K+",
-          "started": "5h ago",
+          "started": "7h ago",
           "trendBreakdown": "brown",
           "percentageIncrease": "1000%"
         },
@@ -869,8 +783,95 @@
           "name": "schedule",
           "relevanceScore": 100,
           "category": "Law and Government",
+          "searchVolume": "2K+",
+          "started": "15h ago",
+          "trendBreakdown": "what",
+          "percentageIncrease": "1000%"
+        },
+        {
+          "name": "kennedy center",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "2K+",
+          "started": "14h ago",
+          "trendBreakdown": "trump",
+          "percentageIncrease": "800%"
+        },
+        {
+          "name": "ice in columbus ohio",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "1K+",
+          "started": "15h ago",
+          "trendBreakdown": "ice",
+          "percentageIncrease": "600%"
+        },
+        {
+          "name": "trump's",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "22h ago",
+          "percentageIncrease": "300%"
+        },
+        {
+          "name": "dollar tree",
+          "relevanceScore": 85,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "7h ago",
+          "percentageIncrease": "75%"
+        }
+      ]
+    },
+    {
+      "name": "Oregon",
+      "code": "OR",
+      "topTopic": "claudio neves valente",
+      "category": "Law and Government",
+      "trendingScore": 100,
+      "topics": [
+        {
+          "name": "claudio neves valente",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "2K+",
+          "started": "7h ago",
+          "trendBreakdown": "brown",
+          "percentageIncrease": "1000%"
+        },
+        {
+          "name": "schedule",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "1K+",
+          "started": "14h ago",
+          "percentageIncrease": "700%"
+        }
+      ]
+    },
+    {
+      "name": "Pennsylvania",
+      "code": "PA",
+      "topTopic": "brown university suspect",
+      "category": "Law and Government",
+      "trendingScore": 100,
+      "topics": [
+        {
+          "name": "brown university suspect",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "10K+",
+          "started": "12h ago",
+          "trendBreakdown": "claudio",
+          "percentageIncrease": "1000%"
+        },
+        {
+          "name": "schedule",
+          "relevanceScore": 100,
+          "category": "Law and Government",
           "searchVolume": "5K+",
-          "started": "13h ago",
+          "started": "15h ago",
           "trendBreakdown": "what",
           "percentageIncrease": "800%"
         },
@@ -879,7 +880,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "2K+",
-          "started": "13h ago",
+          "started": "15h ago",
           "trendBreakdown": "trump",
           "percentageIncrease": "1000%"
         },
@@ -888,7 +889,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "15h ago",
+          "started": "17h ago",
           "percentageIncrease": "500%"
         },
         {
@@ -896,7 +897,7 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "21h ago",
+          "started": "23h ago",
           "percentageIncrease": "300%"
         }
       ]
@@ -913,7 +914,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "2K+",
-          "started": "10h ago",
+          "started": "12h ago",
           "trendBreakdown": "claudio",
           "percentageIncrease": "1000%"
         },
@@ -922,7 +923,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "10K+",
-          "started": "20h ago",
+          "started": "22h ago",
           "trendBreakdown": "don",
           "percentageIncrease": "1000%"
         },
@@ -931,7 +932,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "2K+",
-          "started": "13h ago",
+          "started": "15h ago",
           "trendBreakdown": "what",
           "percentageIncrease": "900%"
         }
@@ -949,7 +950,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "5K+",
-          "started": "13h ago",
+          "started": "15h ago",
           "trendBreakdown": "what",
           "percentageIncrease": "1000%"
         },
@@ -958,7 +959,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "5K+",
-          "started": "5h ago",
+          "started": "7h ago",
           "trendBreakdown": "brown",
           "percentageIncrease": "1000%"
         },
@@ -967,7 +968,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "12h ago",
+          "started": "14h ago",
           "percentageIncrease": "500%"
         }
       ]
@@ -984,7 +985,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "10K+",
-          "started": "13h ago",
+          "started": "15h ago",
           "trendBreakdown": "what",
           "percentageIncrease": "1000%"
         },
@@ -993,7 +994,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "2K+",
-          "started": "13h ago",
+          "started": "15h ago",
           "trendBreakdown": "trump",
           "percentageIncrease": "600%"
         },
@@ -1002,7 +1003,7 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "7h ago",
+          "started": "9h ago",
           "percentageIncrease": "300%"
         },
         {
@@ -1010,7 +1011,7 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "9h ago",
+          "started": "11h ago",
           "trendBreakdown": "christmas",
           "percentageIncrease": "200%"
         },
@@ -1019,15 +1020,7 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "4h ago",
-          "percentageIncrease": "200%"
-        },
-        {
-          "name": "white house",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "11h ago",
+          "started": "6h ago",
           "percentageIncrease": "200%"
         },
         {
@@ -1035,7 +1028,7 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "12h ago",
+          "started": "14h ago",
           "percentageIncrease": "200%"
         },
         {
@@ -1043,7 +1036,7 @@
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "18h ago",
+          "started": "20h ago",
           "percentageIncrease": "100%"
         }
       ]
@@ -1060,7 +1053,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "10K+",
-          "started": "5h ago",
+          "started": "7h ago",
           "trendBreakdown": "brown",
           "percentageIncrease": "1000%"
         },
@@ -1069,17 +1062,8 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "5K+",
-          "started": "13h ago",
+          "started": "15h ago",
           "trendBreakdown": "trump",
-          "percentageIncrease": "1000%"
-        },
-        {
-          "name": "schedule",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "2K+",
-          "started": "13h ago",
-          "trendBreakdown": "what",
           "percentageIncrease": "1000%"
         },
         {
@@ -1087,43 +1071,69 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "2K+",
-          "started": "10h ago",
+          "started": "12h ago",
           "trendBreakdown": "trump",
           "percentageIncrease": "800%"
+        },
+        {
+          "name": "schedule",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "2K+",
+          "started": "15h ago",
+          "trendBreakdown": "what",
+          "percentageIncrease": "1000%"
+        },
+        {
+          "name": "opm pay scale",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "10h ago",
+          "trendBreakdown": "pay",
+          "percentageIncrease": "400%"
         },
         {
           "name": "republicans aca subsidies",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "19h ago",
+          "started": "21h ago",
           "percentageIncrease": "300%"
+        },
+        {
+          "name": "avatar",
+          "relevanceScore": 90,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "8h ago",
+          "percentageIncrease": "100%"
         }
       ]
     },
     {
       "name": "District of Columbia",
       "code": "DC",
-      "topTopic": "claudio neves valente",
+      "topTopic": "kennedy center",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
-        {
-          "name": "claudio neves valente",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "10K+",
-          "started": "5h ago",
-          "trendBreakdown": "brown",
-          "percentageIncrease": "1000%"
-        },
         {
           "name": "kennedy center",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "10K+",
-          "started": "13h ago",
+          "started": "15h ago",
           "trendBreakdown": "trump",
+          "percentageIncrease": "1000%"
+        },
+        {
+          "name": "claudio neves valente",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "10K+",
+          "started": "7h ago",
+          "trendBreakdown": "brown",
           "percentageIncrease": "1000%"
         },
         {
@@ -1131,50 +1141,42 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "2K+",
-          "started": "13h ago",
+          "started": "15h ago",
           "trendBreakdown": "executive",
           "percentageIncrease": "700%"
-        },
-        {
-          "name": "white house",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "11h ago",
-          "percentageIncrease": "900%"
         },
         {
           "name": "federal holidays",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "2K+",
-          "started": "11h ago",
-          "trendBreakdown": "christmas",
+          "started": "13h ago",
+          "trendBreakdown": "trump",
           "percentageIncrease": "1000%"
+        },
+        {
+          "name": "opm pay scale",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "1K+",
+          "started": "12h ago",
+          "trendBreakdown": "pay",
+          "percentageIncrease": "900%"
         },
         {
           "name": "parkdale high school",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "16h ago",
+          "started": "18h ago",
           "percentageIncrease": "700%"
-        },
-        {
-          "name": "gs pay scale",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "11h ago",
-          "trendBreakdown": "pay",
-          "percentageIncrease": "500%"
         },
         {
           "name": "brian walshe",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "17h ago",
+          "started": "19h ago",
           "percentageIncrease": "1000%"
         },
         {
@@ -1182,7 +1184,7 @@
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "19h ago",
+          "started": "21h ago",
           "percentageIncrease": "100%"
         }
       ]
@@ -1199,7 +1201,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "2K+",
-          "started": "12h ago",
+          "started": "14h ago",
           "trendBreakdown": "what",
           "percentageIncrease": "1000%"
         },
@@ -1208,7 +1210,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "5h ago",
+          "started": "7h ago",
           "trendBreakdown": "claudio",
           "percentageIncrease": "700%"
         }
@@ -1243,7 +1245,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "5K+",
-          "started": "9h ago",
+          "started": "11h ago",
           "trendBreakdown": "claudio",
           "percentageIncrease": "1000%"
         },
@@ -1252,7 +1254,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "2K+",
-          "started": "12h ago",
+          "started": "14h ago",
           "trendBreakdown": "what",
           "percentageIncrease": "1000%"
         },
@@ -1261,16 +1263,8 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "12h ago",
+          "started": "14h ago",
           "percentageIncrease": "900%"
-        },
-        {
-          "name": "vaccinations",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "4h ago",
-          "percentageIncrease": "700%"
         }
       ]
     },
@@ -1286,7 +1280,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "2K+",
-          "started": "8h ago",
+          "started": "10h ago",
           "trendBreakdown": "claudio",
           "percentageIncrease": "1000%"
         },
@@ -1295,7 +1289,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "2K+",
-          "started": "13h ago",
+          "started": "15h ago",
           "trendBreakdown": "what",
           "percentageIncrease": "900%"
         },
@@ -1304,7 +1298,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "8h ago",
+          "started": "10h ago",
           "trendBreakdown": "whnt",
           "percentageIncrease": "500%"
         }
@@ -1322,7 +1316,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "5h ago",
+          "started": "7h ago",
           "trendBreakdown": "claudio",
           "percentageIncrease": "800%"
         },
@@ -1331,7 +1325,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "12h ago",
+          "started": "14h ago",
           "percentageIncrease": "700%"
         }
       ]
@@ -1365,7 +1359,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "5K+",
-          "started": "9h ago",
+          "started": "11h ago",
           "trendBreakdown": "claudio",
           "percentageIncrease": "1000%"
         },
@@ -1374,7 +1368,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "2K+",
-          "started": "13h ago",
+          "started": "15h ago",
           "percentageIncrease": "1000%"
         },
         {
@@ -1382,7 +1376,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "12h ago",
+          "started": "14h ago",
           "percentageIncrease": "600%"
         }
       ]
@@ -1399,7 +1393,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "12h ago",
+          "started": "14h ago",
           "percentageIncrease": "600%"
         },
         {
@@ -1407,7 +1401,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "5h ago",
+          "started": "7h ago",
           "trendBreakdown": "claudio",
           "percentageIncrease": "1000%"
         },
@@ -1416,7 +1410,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "15h ago",
+          "started": "17h ago",
           "percentageIncrease": "900%"
         }
       ]
@@ -1433,7 +1427,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "2K+",
-          "started": "13h ago",
+          "started": "15h ago",
           "trendBreakdown": "what",
           "percentageIncrease": "800%"
         },
@@ -1442,7 +1436,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "4h ago",
+          "started": "6h ago",
           "trendBreakdown": "brown",
           "percentageIncrease": "1000%"
         }
@@ -1460,7 +1454,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "5K+",
-          "started": "8h ago",
+          "started": "10h ago",
           "trendBreakdown": "claudio",
           "percentageIncrease": "1000%"
         },
@@ -1469,7 +1463,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "12h ago",
+          "started": "14h ago",
           "percentageIncrease": "1000%"
         },
         {
@@ -1477,8 +1471,16 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "12h ago",
+          "started": "14h ago",
           "percentageIncrease": "700%"
+        },
+        {
+          "name": "nuno loureiro",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "6h ago",
+          "percentageIncrease": "300%"
         }
       ]
     },
@@ -1494,7 +1496,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "11h ago",
+          "started": "13h ago",
           "percentageIncrease": "600%"
         }
       ]
@@ -1502,26 +1504,26 @@
     {
       "name": "Nevada",
       "code": "NV",
-      "topTopic": "schedule",
+      "topTopic": "brown university suspect",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
-        {
-          "name": "schedule",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "12h ago",
-          "percentageIncrease": "500%"
-        },
         {
           "name": "brown university suspect",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "6h ago",
+          "started": "8h ago",
           "trendBreakdown": "claudio",
           "percentageIncrease": "600%"
+        },
+        {
+          "name": "schedule",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "1K+",
+          "started": "14h ago",
+          "percentageIncrease": "500%"
         }
       ]
     },
@@ -1537,7 +1539,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "5K+",
-          "started": "5h ago",
+          "started": "7h ago",
           "trendBreakdown": "brown",
           "percentageIncrease": "1000%"
         },
@@ -1546,7 +1548,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "2K+",
-          "started": "5h ago",
+          "started": "7h ago",
           "trendBreakdown": "hannah",
           "percentageIncrease": "900%"
         },
@@ -1555,7 +1557,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "12h ago",
+          "started": "14h ago",
           "percentageIncrease": "800%"
         },
         {
@@ -1563,8 +1565,8 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "12h ago",
-          "trendBreakdown": "trump",
+          "started": "14h ago",
+          "trendBreakdown": "kennedy",
           "percentageIncrease": "700%"
         }
       ]
@@ -1572,17 +1574,17 @@
     {
       "name": "Connecticut",
       "code": "CT",
-      "topTopic": "brown university suspect",
+      "topTopic": "claudio neves valente",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
         {
-          "name": "brown university suspect",
+          "name": "claudio neves valente",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "10K+",
-          "started": "10h ago",
-          "trendBreakdown": "claudio",
+          "started": "7h ago",
+          "trendBreakdown": "brown",
           "percentageIncrease": "1000%"
         },
         {
@@ -1590,7 +1592,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "12h ago",
+          "started": "14h ago",
           "percentageIncrease": "700%"
         },
         {
@@ -1598,7 +1600,7 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "19h ago",
+          "started": "21h ago",
           "percentageIncrease": "300%"
         }
       ]
@@ -1606,34 +1608,34 @@
     {
       "name": "Kentucky",
       "code": "KY",
-      "topTopic": "brown university suspect",
+      "topTopic": "schedule",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
-        {
-          "name": "brown university suspect",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "7h ago",
-          "trendBreakdown": "claudio",
-          "percentageIncrease": "1000%"
-        },
         {
           "name": "schedule",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "2K+",
-          "started": "12h ago",
+          "started": "14h ago",
           "trendBreakdown": "what",
           "percentageIncrease": "1000%"
+        },
+        {
+          "name": "brown university suspect",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "1K+",
+          "started": "9h ago",
+          "trendBreakdown": "claudio",
+          "percentageIncrease": "900%"
         },
         {
           "name": "christmas",
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "15h ago",
+          "started": "17h ago",
           "percentageIncrease": "100%"
         }
       ]
@@ -1668,7 +1670,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "11h ago",
+          "started": "13h ago",
           "percentageIncrease": "500%"
         },
         {
@@ -1676,8 +1678,16 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "4h ago",
+          "started": "6h ago",
           "percentageIncrease": "1000%"
+        },
+        {
+          "name": "first energy",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "2h ago",
+          "percentageIncrease": "300%"
         }
       ]
     },
@@ -1693,7 +1703,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "5h ago",
+          "started": "7h ago",
           "trendBreakdown": "claudio",
           "percentageIncrease": "1000%"
         },
@@ -1702,7 +1712,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "11h ago",
+          "started": "13h ago",
           "percentageIncrease": "600%"
         }
       ]
@@ -1719,7 +1729,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "12h ago",
+          "started": "14h ago",
           "trendBreakdown": "what",
           "percentageIncrease": "800%"
         }
@@ -1754,7 +1764,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "12h ago",
+          "started": "14h ago",
           "percentageIncrease": "800%"
         }
       ]
@@ -1771,8 +1781,8 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "10K+",
-          "started": "10h ago",
-          "trendBreakdown": "brown",
+          "started": "12h ago",
+          "trendBreakdown": "claudio",
           "percentageIncrease": "1000%"
         }
       ]
@@ -1806,7 +1816,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "2K+",
-          "started": "7h ago",
+          "started": "9h ago",
           "trendBreakdown": "claudio",
           "percentageIncrease": "1000%"
         }
@@ -1841,7 +1851,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "6h ago",
+          "started": "12h ago",
           "percentageIncrease": "1000%"
         }
       ]
@@ -1858,7 +1868,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "4h ago",
+          "started": "6h ago",
           "percentageIncrease": "900%"
         }
       ]

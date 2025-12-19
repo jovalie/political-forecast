@@ -1,38 +1,46 @@
 {
-  "timestamp": "2025-12-19T08:04:51.889Z",
+  "timestamp": "2025-12-19T10:04:43.306Z",
   "states": [
     {
       "name": "Arizona",
       "code": "AZ",
-      "topTopic": "claudio neves valente",
+      "topTopic": "schedule",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
-        {
-          "name": "claudio neves valente",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "5K+",
-          "started": "5h ago",
-          "trendBreakdown": "brown",
-          "percentageIncrease": "1000%"
-        },
         {
           "name": "schedule",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "2K+",
-          "started": "13h ago",
+          "started": "15h ago",
           "trendBreakdown": "what",
+          "percentageIncrease": "800%"
+        },
+        {
+          "name": "claudio neves valente",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "5K+",
+          "started": "7h ago",
+          "trendBreakdown": "brown",
           "percentageIncrease": "1000%"
         },
         {
-          "name": "vaccinations",
-          "relevanceScore": 100,
+          "name": "nuno loureiro",
+          "relevanceScore": 95,
           "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "4h ago",
-          "percentageIncrease": "1000%"
+          "searchVolume": "100+",
+          "started": "6h ago",
+          "percentageIncrease": "200%"
+        },
+        {
+          "name": "avatar",
+          "relevanceScore": 90,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "6h ago",
+          "percentageIncrease": "100%"
         }
       ]
     }
