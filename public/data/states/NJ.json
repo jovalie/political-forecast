@@ -1,38 +1,47 @@
 {
-  "timestamp": "2025-12-19T14:05:04.321Z",
+  "timestamp": "2025-12-19T16:04:40.641Z",
   "states": [
     {
       "name": "New Jersey",
       "code": "NJ",
-      "topTopic": "kennedy center",
+      "topTopic": "schedule",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
+        {
+          "name": "schedule",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "2K+",
+          "started": "21h ago",
+          "trendBreakdown": "what",
+          "percentageIncrease": "600%"
+        },
         {
           "name": "kennedy center",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "2K+",
-          "started": "19h ago",
+          "started": "21h ago",
           "trendBreakdown": "trump",
           "percentageIncrease": "1000%"
-        },
-        {
-          "name": "schedule",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "19h ago",
-          "trendBreakdown": "what",
-          "percentageIncrease": "600%"
         },
         {
           "name": "epstein files",
           "relevanceScore": 95,
           "category": "Law and Government",
+          "searchVolume": "1K+",
+          "started": "10h ago",
+          "trendBreakdown": "epsteinjeffrey",
+          "percentageIncrease": "400%"
+        },
+        {
+          "name": "christmas eve federal holiday",
+          "relevanceScore": 95,
+          "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "8h ago",
-          "trendBreakdown": "jeffrey",
+          "started": "14h ago",
+          "trendBreakdown": "federal",
           "percentageIncrease": "300%"
         },
         {
@@ -40,7 +49,7 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "5h ago",
+          "started": "7h ago",
           "percentageIncrease": "200%"
         }
       ]

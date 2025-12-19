@@ -1,29 +1,29 @@
 {
-  "timestamp": "2025-12-19T14:05:04.321Z",
+  "timestamp": "2025-12-19T16:04:40.641Z",
   "states": [
     {
       "name": "South Carolina",
       "code": "SC",
-      "topTopic": "brown university suspect",
+      "topTopic": "schedule",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
-        {
-          "name": "brown university suspect",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "5K+",
-          "started": "16h ago",
-          "trendBreakdown": "claudio",
-          "percentageIncrease": "900%"
-        },
         {
           "name": "schedule",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "2K+",
-          "started": "19h ago",
+          "started": "21h ago",
           "trendBreakdown": "what",
+          "percentageIncrease": "800%"
+        },
+        {
+          "name": "claudio neves valente",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "5K+",
+          "started": "13h ago",
+          "trendBreakdown": "brown",
           "percentageIncrease": "800%"
         }
       ]

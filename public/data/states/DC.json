@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-12-19T14:05:04.321Z",
+  "timestamp": "2025-12-19T16:04:40.641Z",
   "states": [
     {
       "name": "District of Columbia",
@@ -13,7 +13,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "10K+",
-          "started": "19h ago",
+          "started": "21h ago",
           "trendBreakdown": "trump",
           "percentageIncrease": "1000%"
         },
@@ -22,7 +22,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "10K+",
-          "started": "11h ago",
+          "started": "13h ago",
           "trendBreakdown": "claudio",
           "percentageIncrease": "1000%"
         },
@@ -30,51 +30,35 @@
           "name": "federal holidays",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "2K+",
-          "started": "17h ago",
+          "searchVolume": "5K+",
+          "started": "19h ago",
           "trendBreakdown": "christmas",
           "percentageIncrease": "800%"
         },
         {
-          "name": "schedule",
+          "name": "executive order",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "2K+",
           "started": "19h ago",
-          "trendBreakdown": "executive",
-          "percentageIncrease": "600%"
-        },
-        {
-          "name": "parkdale high school",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "22h ago",
-          "percentageIncrease": "700%"
-        },
-        {
-          "name": "brian walshe",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "23h ago",
+          "trendBreakdown": "schedule",
           "percentageIncrease": "1000%"
+        },
+        {
+          "name": "opm pay scale",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "2K+",
+          "started": "18h ago",
+          "trendBreakdown": "pay",
+          "percentageIncrease": "800%"
         },
         {
           "name": "epstein files",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "14h ago",
-          "percentageIncrease": "200%"
-        },
-        {
-          "name": "gs pay scale",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "17h ago",
-          "trendBreakdown": "opm",
+          "started": "16h ago",
           "percentageIncrease": "400%"
         },
         {
@@ -82,7 +66,7 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "3h ago",
+          "started": "5h ago",
           "percentageIncrease": "200%"
         }
       ]

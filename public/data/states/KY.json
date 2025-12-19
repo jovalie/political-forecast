@@ -1,46 +1,30 @@
 {
-  "timestamp": "2025-12-19T14:05:04.321Z",
+  "timestamp": "2025-12-19T16:04:40.641Z",
   "states": [
     {
       "name": "Kentucky",
       "code": "KY",
-      "topTopic": "schedule",
+      "topTopic": "brown university suspect",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
-        {
-          "name": "schedule",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "2K+",
-          "started": "18h ago",
-          "trendBreakdown": "what",
-          "percentageIncrease": "800%"
-        },
         {
           "name": "brown university suspect",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "2K+",
-          "started": "13h ago",
+          "started": "15h ago",
           "trendBreakdown": "claudio",
           "percentageIncrease": "700%"
         },
         {
-          "name": "epstein files",
-          "relevanceScore": 95,
+          "name": "schedule",
+          "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "7h ago",
-          "percentageIncrease": "200%"
-        },
-        {
-          "name": "christmas",
-          "relevanceScore": 90,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "21h ago",
-          "percentageIncrease": "100%"
+          "searchVolume": "2K+",
+          "started": "20h ago",
+          "trendBreakdown": "what",
+          "percentageIncrease": "800%"
         }
       ]
     }

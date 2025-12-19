@@ -1,29 +1,37 @@
 {
-  "timestamp": "2025-12-19T14:05:04.321Z",
+  "timestamp": "2025-12-19T16:04:40.641Z",
   "states": [
     {
       "name": "Kansas",
       "code": "KS",
-      "topTopic": "schedule",
+      "topTopic": "epstein files",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
         {
-          "name": "schedule",
+          "name": "epstein files",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "18h ago",
-          "percentageIncrease": "600%"
+          "searchVolume": "100+",
+          "started": "2h ago",
+          "percentageIncrease": "500%"
         },
         {
           "name": "brown university suspect",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "11h ago",
+          "started": "13h ago",
           "trendBreakdown": "claudio",
-          "percentageIncrease": "700%"
+          "percentageIncrease": "500%"
+        },
+        {
+          "name": "schedule",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "20h ago",
+          "percentageIncrease": "500%"
         }
       ]
     }
