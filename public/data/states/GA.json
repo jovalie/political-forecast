@@ -1,57 +1,48 @@
 {
-  "timestamp": "2025-12-19T18:04:38.904Z",
+  "timestamp": "2025-12-19T20:04:37.790Z",
   "states": [
     {
       "name": "Georgia",
       "code": "GA",
-      "topTopic": "kennedy center",
+      "topTopic": "epstein files",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
         {
-          "name": "kennedy center",
+          "name": "epstein files",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "22h ago",
-          "trendBreakdown": "trump",
-          "percentageIncrease": "600%"
-        },
-        {
-          "name": "claudio manuel neves valente",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "10K+",
-          "started": "14h ago",
-          "trendBreakdown": "brown",
-          "percentageIncrease": "600%"
-        },
-        {
-          "name": "what is a schedule",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "22h ago",
-          "trendBreakdown": "schedule",
+          "searchVolume": "2K+",
+          "started": "17h ago",
+          "trendBreakdown": "epstein",
           "percentageIncrease": "500%"
         },
         {
-          "name": "epstein files",
-          "relevanceScore": 95,
+          "name": "brown university suspect",
+          "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "2K+",
-          "started": "15h ago",
-          "trendBreakdown": "todaynews",
-          "percentageIncrease": "400%"
+          "searchVolume": "10K+",
+          "started": "21h ago",
+          "trendBreakdown": "claudio",
+          "percentageIncrease": "900%"
         },
         {
           "name": "federal holidays",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "16h ago",
+          "started": "18h ago",
           "trendBreakdown": "christmas",
           "percentageIncrease": "300%"
+        },
+        {
+          "name": "schedule",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "23h ago",
+          "trendBreakdown": "trump",
+          "percentageIncrease": "400%"
         }
       ]
     }

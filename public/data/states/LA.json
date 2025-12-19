@@ -1,38 +1,29 @@
 {
-  "timestamp": "2025-12-19T18:04:38.904Z",
+  "timestamp": "2025-12-19T20:04:37.790Z",
   "states": [
     {
       "name": "Louisiana",
       "code": "LA",
-      "topTopic": "schedule",
+      "topTopic": "claudio neves valente",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
-        {
-          "name": "schedule",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "2K+",
-          "started": "23h ago",
-          "trendBreakdown": "what",
-          "percentageIncrease": "600%"
-        },
         {
           "name": "claudio neves valente",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "14h ago",
+          "started": "16h ago",
           "trendBreakdown": "brown",
           "percentageIncrease": "800%"
         },
         {
-          "name": "epstein files",
+          "name": "what is a schedule",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "3h ago",
-          "percentageIncrease": "300%"
+          "started": "20h ago",
+          "percentageIncrease": "400%"
         }
       ]
     }

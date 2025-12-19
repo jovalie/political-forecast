@@ -1,27 +1,19 @@
 {
-  "timestamp": "2025-12-19T18:04:38.904Z",
+  "timestamp": "2025-12-19T20:04:37.790Z",
   "states": [
     {
       "name": "Kansas",
       "code": "KS",
-      "topTopic": "schedule",
+      "topTopic": "brown university suspect",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
-        {
-          "name": "schedule",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "22h ago",
-          "percentageIncrease": "600%"
-        },
         {
           "name": "brown university suspect",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "15h ago",
+          "started": "17h ago",
           "trendBreakdown": "claudio",
           "percentageIncrease": "500%"
         }

@@ -1,46 +1,46 @@
 {
-  "timestamp": "2025-12-19T18:04:38.904Z",
+  "timestamp": "2025-12-19T20:04:37.790Z",
   "states": [
     {
       "name": "Arizona",
       "code": "AZ",
-      "topTopic": "brown university suspect",
+      "topTopic": "luke air force base",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
+        {
+          "name": "luke air force base",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "5K+",
+          "started": "2h ago",
+          "trendBreakdown": "luke",
+          "percentageIncrease": "1000%"
+        },
         {
           "name": "brown university suspect",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "5K+",
-          "started": "18h ago",
+          "started": "20h ago",
           "trendBreakdown": "claudio",
           "percentageIncrease": "900%"
-        },
-        {
-          "name": "schedule",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "2K+",
-          "started": "23h ago",
-          "trendBreakdown": "what",
-          "percentageIncrease": "700%"
         },
         {
           "name": "epstein files",
           "relevanceScore": 95,
           "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "16h ago",
-          "trendBreakdown": "files",
-          "percentageIncrease": "300%"
+          "searchVolume": "2K+",
+          "started": "18h ago",
+          "trendBreakdown": "epstein",
+          "percentageIncrease": "400%"
         },
         {
           "name": "nuno loureiro",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "14h ago",
+          "started": "16h ago",
           "percentageIncrease": "200%"
         }
       ]

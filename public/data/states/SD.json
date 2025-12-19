@@ -1,20 +1,20 @@
 {
-  "timestamp": "2025-12-19T18:04:38.904Z",
+  "timestamp": "2025-12-19T20:04:37.790Z",
   "states": [
     {
       "name": "South Dakota",
       "code": "SD",
-      "topTopic": "brown university",
+      "topTopic": "walmart",
       "category": "Law and Government",
-      "trendingScore": 100,
+      "trendingScore": 90,
       "topics": [
         {
-          "name": "brown university",
-          "relevanceScore": 100,
+          "name": "walmart",
+          "relevanceScore": 90,
           "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "22h ago",
-          "percentageIncrease": "900%"
+          "searchVolume": "100+",
+          "started": "11h ago",
+          "percentageIncrease": "100%"
         }
       ]
     }

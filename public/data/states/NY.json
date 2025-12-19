@@ -1,47 +1,20 @@
 {
-  "timestamp": "2025-12-19T18:04:38.904Z",
+  "timestamp": "2025-12-19T20:04:37.790Z",
   "states": [
     {
       "name": "New York",
       "code": "NY",
-      "topTopic": "kennedy center",
+      "topTopic": "epstein files",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
-        {
-          "name": "kennedy center",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "10K+",
-          "started": "23h ago",
-          "trendBreakdown": "trump",
-          "percentageIncrease": "1000%"
-        },
         {
           "name": "epstein files",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "5K+",
-          "started": "20h ago",
-          "trendBreakdown": "files",
-          "percentageIncrease": "500%"
-        },
-        {
-          "name": "schedule",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "5K+",
-          "started": "23h ago",
-          "trendBreakdown": "what",
-          "percentageIncrease": "700%"
-        },
-        {
-          "name": "julie su",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "2h ago",
-          "trendBreakdown": "leila",
+          "started": "22h ago",
+          "trendBreakdown": "epstein",
           "percentageIncrease": "600%"
         },
         {
@@ -49,8 +22,26 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "5K+",
-          "started": "17h ago",
+          "started": "19h ago",
           "trendBreakdown": "federal",
+          "percentageIncrease": "400%"
+        },
+        {
+          "name": "kennedy center renamed",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "1K+",
+          "started": "23h ago",
+          "trendBreakdown": "the",
+          "percentageIncrease": "300%"
+        },
+        {
+          "name": "julie su",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "1K+",
+          "started": "4h ago",
+          "trendBreakdown": "leila",
           "percentageIncrease": "400%"
         },
         {
@@ -58,20 +49,28 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "18h ago",
-          "trendBreakdown": "super",
+          "started": "20h ago",
           "percentageIncrease": "400%"
+        },
+        {
+          "name": "what is a schedule",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "1K+",
+          "started": "23h ago",
+          "trendBreakdown": "schedule",
+          "percentageIncrease": "200%"
         },
         {
           "name": "the view",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "1h ago",
+          "started": "3h ago",
           "percentageIncrease": "400%"
         },
         {
-          "name": "schengen",
+          "name": "the chapin school",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "500+",
@@ -79,20 +78,12 @@
           "percentageIncrease": "200%"
         },
         {
-          "name": "the chapin school",
+          "name": "super flu",
           "relevanceScore": 95,
           "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "20h ago",
+          "searchVolume": "100+",
+          "started": "18h ago",
           "percentageIncrease": "200%"
-        },
-        {
-          "name": "nyseg",
-          "relevanceScore": 90,
-          "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "9h ago",
-          "percentageIncrease": "100%"
         }
       ]
     }
