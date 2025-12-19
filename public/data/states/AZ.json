@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-12-19T00:05:05.670Z",
+  "timestamp": "2025-12-19T02:35:50.637Z",
   "states": [
     {
       "name": "Arizona",
@@ -13,43 +13,34 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "5h ago",
+          "started": "7h ago",
           "trendBreakdown": "what",
           "percentageIncrease": "1000%"
         },
         {
-          "name": "trump speech",
+          "name": "brown university suspect",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "2K+",
-          "started": "22h ago",
-          "trendBreakdown": "trump",
-          "percentageIncrease": "500%"
+          "searchVolume": "500+",
+          "started": "2h ago",
+          "trendBreakdown": "mit",
+          "percentageIncrease": "800%"
         },
         {
           "name": "warrior dividend",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "21h ago",
+          "started": "24h ago",
           "percentageIncrease": "900%"
         },
         {
-          "name": "kennedy center",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "2K+",
-          "started": "3h ago",
-          "percentageIncrease": "400%"
-        },
-        {
-          "name": "mit professor shot",
+          "name": "prime",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "2h ago",
-          "trendBreakdown": "news",
-          "percentageIncrease": "400%"
+          "started": "1h ago",
+          "percentageIncrease": "200%"
         }
       ]
     }

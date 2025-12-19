@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-12-19T00:05:05.670Z",
+  "timestamp": "2025-12-19T02:35:50.637Z",
   "states": [
     {
       "name": "North Carolina",
@@ -12,8 +12,8 @@
           "name": "jim hunt",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "2K+",
-          "started": "2h ago",
+          "searchVolume": "5K+",
+          "started": "4h ago",
           "trendBreakdown": "governor",
           "percentageIncrease": "1000%"
         },
@@ -22,43 +22,34 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "2K+",
-          "started": "5h ago",
+          "started": "7h ago",
           "trendBreakdown": "what",
           "percentageIncrease": "1000%"
         },
         {
-          "name": "warrior dividend",
+          "name": "brown university suspect",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "2K+",
-          "started": "21h ago",
-          "trendBreakdown": "bonus",
-          "percentageIncrease": "1000%"
+          "searchVolume": "1K+",
+          "started": "5h ago",
+          "trendBreakdown": "salem",
+          "percentageIncrease": "700%"
         },
         {
           "name": "kennedy center",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "2K+",
-          "started": "5h ago",
+          "searchVolume": "1K+",
+          "started": "7h ago",
           "trendBreakdown": "trump",
           "percentageIncrease": "1000%"
-        },
-        {
-          "name": "trump speech",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "5K+",
-          "started": "23h ago",
-          "trendBreakdown": "trump",
-          "percentageIncrease": "700%"
         },
         {
           "name": "joe biden",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "20h ago",
+          "started": "22h ago",
           "percentageIncrease": "1000%"
         },
         {
@@ -66,15 +57,32 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "8h ago",
+          "started": "10h ago",
           "percentageIncrease": "1000%"
+        },
+        {
+          "name": "mit professor shot",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "5h ago",
+          "percentageIncrease": "300%"
+        },
+        {
+          "name": "trump's",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "14h ago",
+          "trendBreakdown": "trump",
+          "percentageIncrease": "200%"
         },
         {
           "name": "christmas",
           "relevanceScore": 85,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "10h ago",
+          "started": "12h ago",
           "trendBreakdown": "postny",
           "percentageIncrease": "75%"
         }

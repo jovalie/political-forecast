@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-12-19T00:05:05.670Z",
+  "timestamp": "2025-12-19T02:35:50.637Z",
   "states": [
     {
       "name": "New Hampshire",
@@ -12,18 +12,19 @@
           "name": "brown university suspect",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "2h ago",
+          "searchVolume": "5K+",
+          "started": "5h ago",
           "trendBreakdown": "salem",
           "percentageIncrease": "1000%"
         },
         {
-          "name": "trump to address the nation",
+          "name": "brown shooting suspect",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "22h ago",
-          "percentageIncrease": "600%"
+          "searchVolume": "2K+",
+          "started": "3h ago",
+          "trendBreakdown": "mit",
+          "percentageIncrease": "900%"
         }
       ]
     }

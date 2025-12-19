@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-12-19T00:05:05.670Z",
+  "timestamp": "2025-12-19T02:35:50.637Z",
   "states": [
     {
       "name": "Kentucky",
@@ -13,33 +13,32 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "4h ago",
+          "started": "7h ago",
           "trendBreakdown": "what",
           "percentageIncrease": "1000%"
+        },
+        {
+          "name": "brown university suspect",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "2h ago",
+          "percentageIncrease": "600%"
         },
         {
           "name": "warrior dividend",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "21h ago",
+          "started": "23h ago",
           "percentageIncrease": "500%"
-        },
-        {
-          "name": "trump speech",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "21h ago",
-          "trendBreakdown": "trump",
-          "percentageIncrease": "700%"
         },
         {
           "name": "christmas",
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "7h ago",
+          "started": "9h ago",
           "percentageIncrease": "100%"
         }
       ]

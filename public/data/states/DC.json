@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-12-19T00:05:05.670Z",
+  "timestamp": "2025-12-19T02:35:50.637Z",
   "states": [
     {
       "name": "District of Columbia",
@@ -13,17 +13,8 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "10K+",
-          "started": "5h ago",
+          "started": "8h ago",
           "trendBreakdown": "trump",
-          "percentageIncrease": "1000%"
-        },
-        {
-          "name": "warrior dividend",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "2K+",
-          "started": "21h ago",
-          "trendBreakdown": "military",
           "percentageIncrease": "1000%"
         },
         {
@@ -31,7 +22,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "2K+",
-          "started": "5h ago",
+          "started": "7h ago",
           "trendBreakdown": "executive",
           "percentageIncrease": "1000%"
         },
@@ -39,59 +30,59 @@
           "name": "federal holidays",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "3h ago",
-          "trendBreakdown": "christmas",
+          "searchVolume": "2K+",
+          "started": "5h ago",
+          "trendBreakdown": "trump",
           "percentageIncrease": "1000%"
+        },
+        {
+          "name": "brown university suspect",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "4h ago",
+          "percentageIncrease": "700%"
         },
         {
           "name": "parkdale high school",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "8h ago",
-          "percentageIncrease": "900%"
+          "started": "11h ago",
+          "percentageIncrease": "800%"
+        },
+        {
+          "name": "white house",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "1K+",
+          "started": "6h ago",
+          "trendBreakdown": "joe",
+          "percentageIncrease": "1000%"
         },
         {
           "name": "brian walshe",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "9h ago",
+          "started": "11h ago",
           "percentageIncrease": "1000%"
-        },
-        {
-          "name": "presidential address",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "2K+",
-          "started": "23h ago",
-          "trendBreakdown": "president",
-          "percentageIncrease": "1000%"
-        },
-        {
-          "name": "joe biden",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "20h ago",
-          "percentageIncrease": "1000%"
-        },
-        {
-          "name": "dan bongino leaving fbi",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "23h ago",
-          "percentageIncrease": "300%"
         },
         {
           "name": "trump venezuela",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "21h ago",
+          "started": "23h ago",
           "percentageIncrease": "200%"
+        },
+        {
+          "name": "shireen afkari",
+          "relevanceScore": 90,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "13h ago",
+          "percentageIncrease": "100%"
         }
       ]
     }

@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-12-19T00:05:05.670Z",
+  "timestamp": "2025-12-19T02:35:50.637Z",
   "states": [
     {
       "name": "Rhode Island",
@@ -12,26 +12,19 @@
           "name": "brown university suspect",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "3h ago",
-          "percentageIncrease": "800%"
+          "searchVolume": "2K+",
+          "started": "5h ago",
+          "trendBreakdown": "brown",
+          "percentageIncrease": "1000%"
         },
         {
-          "name": "trump to address the nation",
+          "name": "salem nh",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "22h ago",
-          "percentageIncrease": "900%"
-        },
-        {
-          "name": "brown shooting update",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "500+",
+          "searchVolume": "1K+",
           "started": "2h ago",
-          "trendBreakdown": "nuno",
-          "percentageIncrease": "300%"
+          "trendBreakdown": "salem",
+          "percentageIncrease": "1000%"
         }
       ]
     }

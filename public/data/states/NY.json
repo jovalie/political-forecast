@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-12-19T00:05:05.670Z",
+  "timestamp": "2025-12-19T02:35:50.637Z",
   "states": [
     {
       "name": "New York",
@@ -12,17 +12,17 @@
           "name": "kennedy center",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "10K+",
-          "started": "5h ago",
+          "searchVolume": "5K+",
+          "started": "8h ago",
           "trendBreakdown": "trump",
           "percentageIncrease": "1000%"
         },
         {
-          "name": "chapin school",
+          "name": "chapin school death",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "5K+",
-          "started": "22h ago",
+          "started": "21h ago",
           "trendBreakdown": "chapin",
           "percentageIncrease": "700%"
         },
@@ -31,58 +31,70 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "2K+",
-          "started": "5h ago",
+          "started": "7h ago",
           "trendBreakdown": "what",
           "percentageIncrease": "1000%"
         },
         {
-          "name": "warrior dividend",
+          "name": "salem nh",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "2K+",
-          "started": "21h ago",
-          "percentageIncrease": "500%"
+          "searchVolume": "1K+",
+          "started": "2h ago",
+          "trendBreakdown": "salem",
+          "percentageIncrease": "1000%"
         },
         {
-          "name": "presidential address",
+          "name": "mit professor shooting",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "2K+",
-          "started": "23h ago",
-          "trendBreakdown": "president",
-          "percentageIncrease": "800%"
+          "searchVolume": "500+",
+          "started": "2h ago",
+          "trendBreakdown": "brown",
+          "percentageIncrease": "600%"
+        },
+        {
+          "name": "super flu virus",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "2h ago",
+          "trendBreakdown": "super",
+          "percentageIncrease": "500%"
         },
         {
           "name": "joe biden",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "20h ago",
+          "started": "23h ago",
+          "trendBreakdown": "white",
           "percentageIncrease": "1000%"
+        },
+        {
+          "name": "christmas eve federal holiday",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "1K+",
+          "started": "1h ago",
+          "trendBreakdown": "federal",
+          "percentageIncrease": "300%"
+        },
+        {
+          "name": "schengen",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "7h ago",
+          "percentageIncrease": "200%"
         },
         {
           "name": "sherif soliman",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "7h ago",
+          "started": "10h ago",
           "percentageIncrease": "300%"
-        },
-        {
-          "name": "osman hadi",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "6h ago",
-          "percentageIncrease": "300%"
-        },
-        {
-          "name": "avatar",
-          "relevanceScore": 90,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "50 minutes ago",
-          "percentageIncrease": "100%"
         }
       ]
     }

@@ -1,54 +1,54 @@
 {
-  "timestamp": "2025-12-19T00:05:05.670Z",
+  "timestamp": "2025-12-19T02:35:50.637Z",
   "states": [
     {
       "name": "Massachusetts",
       "code": "MA",
-      "topTopic": "kennedy center",
+      "topTopic": "salem nh",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
         {
-          "name": "kennedy center",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "5K+",
-          "started": "5h ago",
-          "trendBreakdown": "trump",
-          "percentageIncrease": "1000%"
-        },
-        {
           "name": "salem nh",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "1h ago",
-          "trendBreakdown": "boston",
+          "searchVolume": "5K+",
+          "started": "3h ago",
+          "trendBreakdown": "salem",
+          "percentageIncrease": "1000%"
+        },
+        {
+          "name": "brown shooter update",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "2K+",
+          "started": "5h ago",
+          "trendBreakdown": "mit",
+          "percentageIncrease": "1000%"
+        },
+        {
+          "name": "kennedy center",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "2K+",
+          "started": "7h ago",
+          "trendBreakdown": "trump",
           "percentageIncrease": "1000%"
         },
         {
           "name": "schedule",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "4h ago",
+          "searchVolume": "1K+",
+          "started": "7h ago",
           "percentageIncrease": "1000%"
-        },
-        {
-          "name": "trump speech today",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "2K+",
-          "started": "22h ago",
-          "trendBreakdown": "presidential",
-          "percentageIncrease": "900%"
         },
         {
           "name": "warrior dividend",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "21h ago",
+          "started": "23h ago",
           "percentageIncrease": "500%"
         },
         {
@@ -56,17 +56,8 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "20h ago",
+          "started": "22h ago",
           "percentageIncrease": "1000%"
-        },
-        {
-          "name": "brown shooter update",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "2h ago",
-          "trendBreakdown": "mit",
-          "percentageIncrease": "400%"
         }
       ]
     }
