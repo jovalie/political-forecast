@@ -1,30 +1,30 @@
 {
-  "timestamp": "2025-12-19T04:14:18.237Z",
+  "timestamp": "2025-12-19T06:04:46.600Z",
   "states": [
     {
       "name": "Louisiana",
       "code": "LA",
-      "topTopic": "brown university suspect",
+      "topTopic": "schedule",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
+        {
+          "name": "schedule",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "2K+",
+          "started": "11h ago",
+          "trendBreakdown": "what",
+          "percentageIncrease": "900%"
+        },
         {
           "name": "brown university suspect",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "2h ago",
+          "started": "3h ago",
           "trendBreakdown": "claudio",
-          "percentageIncrease": "1000%"
-        },
-        {
-          "name": "schedule",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "9h ago",
-          "trendBreakdown": "what",
-          "percentageIncrease": "900%"
+          "percentageIncrease": "700%"
         }
       ]
     }
