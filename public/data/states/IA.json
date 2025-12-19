@@ -1,36 +1,36 @@
 {
-  "timestamp": "2025-12-19T06:04:46.600Z",
+  "timestamp": "2025-12-19T08:04:51.889Z",
   "states": [
     {
       "name": "Iowa",
       "code": "IA",
-      "topTopic": "brown university suspect",
+      "topTopic": "schedule",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
-        {
-          "name": "brown university suspect",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "3h ago",
-          "trendBreakdown": "claudio",
-          "percentageIncrease": "1000%"
-        },
         {
           "name": "schedule",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "10h ago",
-          "percentageIncrease": "700%"
+          "started": "12h ago",
+          "percentageIncrease": "600%"
+        },
+        {
+          "name": "brown university suspect",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "1K+",
+          "started": "5h ago",
+          "trendBreakdown": "claudio",
+          "percentageIncrease": "1000%"
         },
         {
           "name": "brooklyn iowa",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "13h ago",
+          "started": "15h ago",
           "percentageIncrease": "900%"
         }
       ]

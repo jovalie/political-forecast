@@ -1,46 +1,46 @@
 {
-  "timestamp": "2025-12-19T06:04:46.600Z",
+  "timestamp": "2025-12-19T08:04:51.889Z",
   "states": [
     {
       "name": "New York",
       "code": "NY",
-      "topTopic": "kennedy center",
+      "topTopic": "schedule",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
-        {
-          "name": "kennedy center",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "5K+",
-          "started": "11h ago",
-          "trendBreakdown": "trump",
-          "percentageIncrease": "1000%"
-        },
         {
           "name": "schedule",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "2K+",
-          "started": "11h ago",
+          "started": "13h ago",
           "trendBreakdown": "what",
           "percentageIncrease": "1000%"
         },
         {
-          "name": "super flu virus",
+          "name": "kennedy center",
           "relevanceScore": 100,
           "category": "Law and Government",
+          "searchVolume": "5K+",
+          "started": "13h ago",
+          "trendBreakdown": "trump",
+          "percentageIncrease": "1000%"
+        },
+        {
+          "name": "super flu virus",
+          "relevanceScore": 95,
+          "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "6h ago",
-          "trendBreakdown": "super",
-          "percentageIncrease": "500%"
+          "started": "8h ago",
+          "trendBreakdown": "flu",
+          "percentageIncrease": "400%"
         },
         {
           "name": "christmas eve federal holiday",
           "relevanceScore": 95,
           "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "5h ago",
+          "searchVolume": "2K+",
+          "started": "7h ago",
           "trendBreakdown": "federal",
           "percentageIncrease": "300%"
         },
@@ -49,7 +49,7 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "8h ago",
+          "started": "10h ago",
           "trendBreakdown": "chapin",
           "percentageIncrease": "200%"
         },
@@ -58,7 +58,7 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "10h ago",
+          "started": "12h ago",
           "percentageIncrease": "200%"
         },
         {
@@ -66,15 +66,23 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "13h ago",
+          "started": "15h ago",
           "percentageIncrease": "300%"
+        },
+        {
+          "name": "super flu",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "6h ago",
+          "percentageIncrease": "200%"
         },
         {
           "name": "merry christmas",
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "16h ago",
+          "started": "18h ago",
           "percentageIncrease": "100%"
         }
       ]
