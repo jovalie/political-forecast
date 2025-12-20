@@ -1,45 +1,28 @@
 {
-  "timestamp": "2025-12-20T02:34:00.660Z",
+  "timestamp": "2025-12-20T04:08:12.816Z",
   "states": [
     {
       "name": "New York",
       "code": "NY",
-      "topTopic": "epstien files",
+      "topTopic": "julie su",
       "category": "Law and Government",
       "trendingScore": 95,
       "topics": [
-        {
-          "name": "epstien files",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "5h ago",
-          "percentageIncrease": "400%"
-        },
         {
           "name": "julie su",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "10h ago",
+          "started": "12h ago",
           "trendBreakdown": "leila",
           "percentageIncrease": "400%"
-        },
-        {
-          "name": "trump federal holiday",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "2K+",
-          "started": "22h ago",
-          "trendBreakdown": "trump",
-          "percentageIncrease": "200%"
         },
         {
           "name": "milwaukee county judge hannah dugan",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "13h ago",
+          "started": "14h ago",
           "trendBreakdown": "hannah",
           "percentageIncrease": "300%"
         },
@@ -48,16 +31,33 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "10h ago",
+          "started": "11h ago",
           "percentageIncrease": "400%"
+        },
+        {
+          "name": "reddit",
+          "relevanceScore": 90,
+          "category": "Law and Government",
+          "searchVolume": "1K+",
+          "started": "4h ago",
+          "percentageIncrease": "100%"
         },
         {
           "name": "staten island mall",
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "3h ago",
+          "started": "4h ago",
           "percentageIncrease": "100%"
+        },
+        {
+          "name": "christmas",
+          "relevanceScore": 85,
+          "category": "Law and Government",
+          "searchVolume": "1K+",
+          "started": "13h ago",
+          "trendBreakdown": "trump",
+          "percentageIncrease": "75%"
         }
       ]
     }

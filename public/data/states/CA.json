@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-12-20T02:34:00.660Z",
+  "timestamp": "2025-12-20T04:08:12.816Z",
   "states": [
     {
       "name": "California",
@@ -13,7 +13,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "5K+",
-          "started": "5h ago",
+          "started": "6h ago",
           "percentageIncrease": "1000%"
         },
         {
@@ -21,32 +21,24 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "2K+",
-          "started": "5h ago",
+          "started": "6h ago",
           "trendBreakdown": "promenade",
-          "percentageIncrease": "900%"
+          "percentageIncrease": "700%"
         },
         {
-          "name": "vaccinations",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "23h ago",
-          "percentageIncrease": "500%"
-        },
-        {
-          "name": "epstien files",
+          "name": "prince",
           "relevanceScore": 95,
           "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "5h ago",
-          "percentageIncrease": "400%"
+          "searchVolume": "100+",
+          "started": "50 minutes ago",
+          "percentageIncrease": "200%"
         },
         {
           "name": "temecula",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "5h ago",
+          "started": "6h ago",
           "percentageIncrease": "300%"
         },
         {
@@ -54,7 +46,7 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "7h ago",
+          "started": "9h ago",
           "percentageIncrease": "300%"
         },
         {
@@ -62,32 +54,40 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "19h ago",
+          "started": "21h ago",
           "percentageIncrease": "300%"
         },
         {
-          "name": "immunizations",
-          "relevanceScore": 95,
+          "name": "taiwan",
+          "relevanceScore": 90,
           "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "23h ago",
-          "percentageIncrease": "300%"
+          "searchVolume": "1K+",
+          "started": "12h ago",
+          "percentageIncrease": "100%"
         },
         {
-          "name": "flu shots",
-          "relevanceScore": 95,
+          "name": "debra newton kidnapping",
+          "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "23h ago",
-          "percentageIncrease": "200%"
+          "started": "12h ago",
+          "percentageIncrease": "100%"
         },
         {
-          "name": "portugal",
-          "relevanceScore": 95,
+          "name": "federal holidays",
+          "relevanceScore": 90,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "11h ago",
+          "percentageIncrease": "100%"
+        },
+        {
+          "name": "evita",
+          "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "23h ago",
-          "percentageIncrease": "200%"
+          "started": "7h ago",
+          "percentageIncrease": "100%"
         }
       ]
     }

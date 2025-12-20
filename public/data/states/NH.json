@@ -1,28 +1,19 @@
 {
-  "timestamp": "2025-12-20T02:34:00.660Z",
+  "timestamp": "2025-12-20T04:08:12.816Z",
   "states": [
     {
       "name": "New Hampshire",
       "code": "NH",
-      "topTopic": "claudio neves valente",
+      "topTopic": "elise stefanik",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
-        {
-          "name": "claudio neves valente",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "2K+",
-          "started": "23h ago",
-          "trendBreakdown": "claudio",
-          "percentageIncrease": "1000%"
-        },
         {
           "name": "elise stefanik",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "2h ago",
+          "started": "4h ago",
           "percentageIncrease": "500%"
         }
       ]
