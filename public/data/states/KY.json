@@ -1,37 +1,37 @@
 {
-  "timestamp": "2025-12-19T22:04:40.485Z",
+  "timestamp": "2025-12-20T00:04:45.578Z",
   "states": [
     {
       "name": "Kentucky",
       "code": "KY",
-      "topTopic": "epstein files",
+      "topTopic": "epstein files released",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
         {
-          "name": "epstein files",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "15h ago",
-          "trendBreakdown": "epstein",
-          "percentageIncrease": "500%"
-        },
-        {
-          "name": "brown university suspect",
+          "name": "epstein files released",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "2K+",
-          "started": "21h ago",
-          "trendBreakdown": "claudio",
-          "percentageIncrease": "700%"
+          "started": "6h ago",
+          "trendBreakdown": "epstein",
+          "percentageIncrease": "1000%"
+        },
+        {
+          "name": "reddit",
+          "relevanceScore": 90,
+          "category": "Law and Government",
+          "searchVolume": "2K+",
+          "started": "50 minutes ago",
+          "trendBreakdown": "brown",
+          "percentageIncrease": "100%"
         },
         {
           "name": "christmas",
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "6h ago",
+          "started": "8h ago",
           "percentageIncrease": "100%"
         }
       ]

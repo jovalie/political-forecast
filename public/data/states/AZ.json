@@ -1,46 +1,46 @@
 {
-  "timestamp": "2025-12-19T22:04:40.485Z",
+  "timestamp": "2025-12-20T00:04:45.578Z",
   "states": [
     {
       "name": "Arizona",
       "code": "AZ",
-      "topTopic": "luke air force base",
+      "topTopic": "epstein files released",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
+        {
+          "name": "epstein files released",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "5K+",
+          "started": "6h ago",
+          "trendBreakdown": "epstein",
+          "percentageIncrease": "1000%"
+        },
         {
           "name": "luke air force base",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "5K+",
-          "started": "4h ago",
+          "started": "6h ago",
           "trendBreakdown": "luke",
           "percentageIncrease": "1000%"
         },
         {
-          "name": "epstein files",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "2K+",
-          "started": "20h ago",
-          "trendBreakdown": "epstein",
-          "percentageIncrease": "600%"
-        },
-        {
-          "name": "brown university suspect",
+          "name": "claudio neves valente",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "5K+",
-          "started": "22h ago",
+          "started": "21h ago",
           "trendBreakdown": "claudio",
-          "percentageIncrease": "900%"
+          "percentageIncrease": "1000%"
         },
         {
           "name": "nuno loureiro",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "18h ago",
+          "started": "20h ago",
           "percentageIncrease": "200%"
         }
       ]

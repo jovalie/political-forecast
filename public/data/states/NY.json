@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-12-19T22:04:40.485Z",
+  "timestamp": "2025-12-20T00:04:45.578Z",
   "states": [
     {
       "name": "New York",
@@ -12,8 +12,8 @@
           "name": "elise stefanik",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "5K+",
-          "started": "1h ago",
+          "searchVolume": "10K+",
+          "started": "3h ago",
           "trendBreakdown": "blakemanbruce",
           "percentageIncrease": "1000%"
         },
@@ -21,35 +21,35 @@
           "name": "epstein",
           "relevanceScore": 95,
           "category": "Law and Government",
-          "searchVolume": "2K+",
-          "started": "9h ago",
-          "trendBreakdown": "epsteinjeffrey",
-          "percentageIncrease": "300%"
+          "searchVolume": "5K+",
+          "started": "11h ago",
+          "trendBreakdown": "jeffrey",
+          "percentageIncrease": "400%"
         },
         {
           "name": "christmas eve federal holiday",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "5K+",
-          "started": "21h ago",
-          "trendBreakdown": "federal",
+          "started": "23h ago",
+          "trendBreakdown": "christmas",
           "percentageIncrease": "400%"
+        },
+        {
+          "name": "taiwan",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "1h ago",
+          "percentageIncrease": "200%"
         },
         {
           "name": "julie su",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "6h ago",
+          "started": "8h ago",
           "trendBreakdown": "leila",
-          "percentageIncrease": "400%"
-        },
-        {
-          "name": "super flu virus",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "22h ago",
           "percentageIncrease": "400%"
         },
         {
@@ -57,7 +57,7 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "8h ago",
+          "started": "10h ago",
           "trendBreakdown": "hannah",
           "percentageIncrease": "300%"
         },
@@ -66,8 +66,16 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "20h ago",
+          "started": "22h ago",
           "percentageIncrease": "200%"
+        },
+        {
+          "name": "staten island mall",
+          "relevanceScore": 90,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "30 minutes ago",
+          "percentageIncrease": "100%"
         }
       ]
     }
