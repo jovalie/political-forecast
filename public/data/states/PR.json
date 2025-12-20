@@ -1,21 +1,21 @@
 {
-  "timestamp": "2025-12-20T16:04:33.277Z",
+  "timestamp": "2025-12-20T18:04:32.622Z",
   "states": [
     {
       "name": "Puerto Rico",
       "code": "PR",
-      "topTopic": "trump",
+      "topTopic": "senador juan oscar morales",
       "category": "Law and Government",
-      "trendingScore": 100,
+      "trendingScore": 95,
       "topics": [
         {
-          "name": "trump",
-          "relevanceScore": 100,
+          "name": "senador juan oscar morales",
+          "relevanceScore": 95,
           "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "20h ago",
-          "trendBreakdown": "donald",
-          "percentageIncrease": "600%"
+          "searchVolume": "100+",
+          "started": "2h ago",
+          "trendBreakdown": "metro",
+          "percentageIncrease": "200%"
         }
       ]
     }
