@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-12-20T14:04:45.148Z",
+  "timestamp": "2025-12-20T16:04:33.277Z",
   "states": [
     {
       "name": "California",
@@ -13,7 +13,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "5K+",
-          "started": "16h ago",
+          "started": "18h ago",
           "percentageIncrease": "1000%"
         },
         {
@@ -21,7 +21,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "2K+",
-          "started": "16h ago",
+          "started": "18h ago",
           "trendBreakdown": "mallpromenade",
           "percentageIncrease": "700%"
         },
@@ -30,7 +30,7 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "19h ago",
+          "started": "21h ago",
           "trendBreakdown": "shooting",
           "percentageIncrease": "300%"
         },
@@ -39,23 +39,15 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "17h ago",
+          "started": "19h ago",
           "percentageIncrease": "200%"
         },
         {
-          "name": "taiwan",
+          "name": "pam bondi",
           "relevanceScore": 90,
           "category": "Law and Government",
-          "searchVolume": "2K+",
-          "started": "22h ago",
-          "percentageIncrease": "100%"
-        },
-        {
-          "name": "debra newton kidnapping",
-          "relevanceScore": 90,
-          "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "22h ago",
+          "searchVolume": "1K+",
+          "started": "18h ago",
           "percentageIncrease": "100%"
         },
         {
@@ -63,7 +55,7 @@
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "21h ago",
+          "started": "23h ago",
           "percentageIncrease": "100%"
         },
         {
@@ -71,7 +63,15 @@
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "11h ago",
+          "started": "13h ago",
+          "percentageIncrease": "100%"
+        },
+        {
+          "name": "caltrans",
+          "relevanceScore": 90,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "16h ago",
           "percentageIncrease": "100%"
         },
         {
@@ -79,15 +79,15 @@
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "17h ago",
+          "started": "19h ago",
           "percentageIncrease": "100%"
         },
         {
-          "name": "kron",
+          "name": "mall",
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "9h ago",
+          "started": "12h ago",
           "percentageIncrease": "100%"
         }
       ]

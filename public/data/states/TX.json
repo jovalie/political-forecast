@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-12-20T14:04:45.148Z",
+  "timestamp": "2025-12-20T16:04:33.277Z",
   "states": [
     {
       "name": "Texas",
@@ -12,16 +12,24 @@
           "name": "elise stefanik",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "2K+",
-          "started": "16h ago",
-          "percentageIncrease": "800%"
+          "searchVolume": "5K+",
+          "started": "18h ago",
+          "percentageIncrease": "700%"
         },
         {
           "name": "trump announcement today",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "19h ago",
+          "started": "21h ago",
+          "percentageIncrease": "400%"
+        },
+        {
+          "name": "nigeria",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "10h ago",
           "percentageIncrease": "400%"
         },
         {
@@ -29,7 +37,7 @@
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "12h ago",
+          "started": "14h ago",
           "percentageIncrease": "100%"
         },
         {
@@ -37,15 +45,7 @@
           "relevanceScore": 85,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "15h ago",
-          "percentageIncrease": "75%"
-        },
-        {
-          "name": "merry christmas",
-          "relevanceScore": 85,
-          "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "23h ago",
+          "started": "17h ago",
           "percentageIncrease": "75%"
         }
       ]
