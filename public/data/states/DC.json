@@ -1,46 +1,46 @@
 {
-  "timestamp": "2025-12-20T00:04:45.578Z",
+  "timestamp": "2025-12-20T02:34:00.660Z",
   "states": [
     {
       "name": "District of Columbia",
       "code": "DC",
-      "topTopic": "epstein files released",
+      "topTopic": "claudio neves valente",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
-        {
-          "name": "epstein files released",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "5K+",
-          "started": "6h ago",
-          "trendBreakdown": "epsteinjeffrey",
-          "percentageIncrease": "1000%"
-        },
         {
           "name": "claudio neves valente",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "10K+",
-          "started": "21h ago",
+          "started": "23h ago",
+          "trendBreakdown": "claudio",
           "percentageIncrease": "1000%"
         },
         {
-          "name": "christmas eve federal holiday",
-          "relevanceScore": 100,
+          "name": "epstien files",
+          "relevanceScore": 95,
           "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "21h ago",
-          "trendBreakdown": "holidayfederal",
-          "percentageIncrease": "700%"
+          "searchVolume": "100+",
+          "started": "3h ago",
+          "percentageIncrease": "300%"
         },
         {
           "name": "super flu virus",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "13h ago",
+          "started": "16h ago",
           "percentageIncrease": "200%"
+        },
+        {
+          "name": "christmas",
+          "relevanceScore": 90,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "13h ago",
+          "trendBreakdown": "federal",
+          "percentageIncrease": "100%"
         }
       ]
     }

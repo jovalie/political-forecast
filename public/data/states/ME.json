@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-12-20T00:04:45.578Z",
+  "timestamp": "2025-12-20T02:34:00.660Z",
   "states": [
     {
       "name": "Maine",
@@ -12,27 +12,18 @@
           "name": "central maine power",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "6h ago",
-          "percentageIncrease": "1000%"
-        },
-        {
-          "name": "epstein files released",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "2h ago",
-          "trendBreakdown": "epstein",
-          "percentageIncrease": "1000%"
-        },
-        {
-          "name": "brown university suspect",
-          "relevanceScore": 100,
-          "category": "Law and Government",
           "searchVolume": "2K+",
+          "started": "9h ago",
+          "percentageIncrease": "1000%"
+        },
+        {
+          "name": "claudio neves valente",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "1K+",
           "started": "23h ago",
-          "trendBreakdown": "claudio",
-          "percentageIncrease": "800%"
+          "trendBreakdown": "brown",
+          "percentageIncrease": "700%"
         }
       ]
     }

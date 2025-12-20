@@ -1,29 +1,20 @@
 {
-  "timestamp": "2025-12-20T00:04:45.578Z",
+  "timestamp": "2025-12-20T02:34:00.660Z",
   "states": [
     {
       "name": "Kentucky",
       "code": "KY",
-      "topTopic": "epstein files released",
+      "topTopic": "reddit",
       "category": "Law and Government",
-      "trendingScore": 100,
+      "trendingScore": 90,
       "topics": [
-        {
-          "name": "epstein files released",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "2K+",
-          "started": "6h ago",
-          "trendBreakdown": "epstein",
-          "percentageIncrease": "1000%"
-        },
         {
           "name": "reddit",
           "relevanceScore": 90,
           "category": "Law and Government",
-          "searchVolume": "2K+",
-          "started": "50 minutes ago",
-          "trendBreakdown": "brown",
+          "searchVolume": "1K+",
+          "started": "3h ago",
+          "trendBreakdown": "claudio",
           "percentageIncrease": "100%"
         },
         {
@@ -31,7 +22,7 @@
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "8h ago",
+          "started": "11h ago",
           "percentageIncrease": "100%"
         }
       ]

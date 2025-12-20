@@ -1,62 +1,44 @@
 {
-  "timestamp": "2025-12-20T00:04:45.578Z",
+  "timestamp": "2025-12-20T02:34:00.660Z",
   "states": [
     {
       "name": "Michigan",
       "code": "MI",
-      "topTopic": "epstein files released",
+      "topTopic": "elise stefanik",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
         {
-          "name": "epstein files released",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "10K+",
-          "started": "8h ago",
-          "trendBreakdown": "epstein",
-          "percentageIncrease": "1000%"
-        },
-        {
           "name": "elise stefanik",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "2h ago",
+          "searchVolume": "1K+",
+          "started": "4h ago",
           "percentageIncrease": "1000%"
         },
         {
           "name": "claudio neves valente",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "5K+",
-          "started": "21h ago",
+          "searchVolume": "2K+",
+          "started": "23h ago",
           "trendBreakdown": "claudio",
           "percentageIncrease": "1000%"
         },
         {
-          "name": "westland kroger shooting",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "2K+",
-          "started": "23h ago",
-          "trendBreakdown": "kroger",
-          "percentageIncrease": "800%"
-        },
-        {
-          "name": "wnem tv",
+          "name": "epstien files",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "13h ago",
-          "percentageIncrease": "200%"
+          "started": "3h ago",
+          "percentageIncrease": "300%"
         },
         {
           "name": "nuno loureiro",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "20h ago",
+          "started": "23h ago",
           "percentageIncrease": "200%"
         }
       ]

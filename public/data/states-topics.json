@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-12-20T00:04:45.578Z",
+  "timestamp": "2025-12-20T02:34:00.660Z",
   "states": [
     {
       "name": "California",
@@ -12,57 +12,57 @@
           "name": "elise stefanik",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "2K+",
-          "started": "2h ago",
+          "searchVolume": "5K+",
+          "started": "5h ago",
           "percentageIncrease": "1000%"
+        },
+        {
+          "name": "temecula mall",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "2K+",
+          "started": "5h ago",
+          "trendBreakdown": "promenade",
+          "percentageIncrease": "900%"
         },
         {
           "name": "vaccinations",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "20h ago",
+          "started": "23h ago",
           "percentageIncrease": "500%"
         },
         {
-          "name": "christmas eve federal holiday",
+          "name": "epstien files",
           "relevanceScore": 95,
           "category": "Law and Government",
-          "searchVolume": "2K+",
-          "started": "22h ago",
-          "trendBreakdown": "christmas",
-          "percentageIncrease": "200%"
+          "searchVolume": "1K+",
+          "started": "5h ago",
+          "percentageIncrease": "400%"
         },
         {
           "name": "temecula",
           "relevanceScore": 95,
           "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "2h ago",
-          "percentageIncrease": "400%"
+          "searchVolume": "1K+",
+          "started": "5h ago",
+          "percentageIncrease": "300%"
         },
         {
           "name": "luke air force base",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "5h ago",
+          "started": "7h ago",
           "percentageIncrease": "300%"
-        },
-        {
-          "name": "mario pineida",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "23h ago",
-          "percentageIncrease": "200%"
         },
         {
           "name": "green card lottery",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "17h ago",
+          "started": "19h ago",
           "percentageIncrease": "300%"
         },
         {
@@ -70,7 +70,7 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "20h ago",
+          "started": "23h ago",
           "percentageIncrease": "300%"
         },
         {
@@ -78,7 +78,7 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "20h ago",
+          "started": "23h ago",
           "percentageIncrease": "200%"
         },
         {
@@ -86,7 +86,7 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "21h ago",
+          "started": "23h ago",
           "percentageIncrease": "200%"
         }
       ]
@@ -94,26 +94,25 @@
     {
       "name": "Arizona",
       "code": "AZ",
-      "topTopic": "epstein files released",
+      "topTopic": "luke air force base",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
-        {
-          "name": "epstein files released",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "5K+",
-          "started": "6h ago",
-          "trendBreakdown": "epstein",
-          "percentageIncrease": "1000%"
-        },
         {
           "name": "luke air force base",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "5K+",
-          "started": "6h ago",
+          "started": "8h ago",
           "trendBreakdown": "luke",
+          "percentageIncrease": "1000%"
+        },
+        {
+          "name": "elise stefanik",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "4h ago",
           "percentageIncrease": "1000%"
         },
         {
@@ -121,7 +120,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "5K+",
-          "started": "21h ago",
+          "started": "23h ago",
           "trendBreakdown": "claudio",
           "percentageIncrease": "1000%"
         },
@@ -130,7 +129,7 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "20h ago",
+          "started": "23h ago",
           "percentageIncrease": "200%"
         }
       ]
@@ -147,33 +146,41 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "2K+",
-          "started": "2h ago",
+          "started": "5h ago",
           "percentageIncrease": "1000%"
         },
         {
-          "name": "epstein",
-          "relevanceScore": 95,
+          "name": "claudio neves valente",
+          "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "5K+",
-          "started": "12h ago",
-          "trendBreakdown": "jeffrey",
-          "percentageIncrease": "300%"
+          "searchVolume": "10K+",
+          "started": "23h ago",
+          "trendBreakdown": "claudio",
+          "percentageIncrease": "1000%"
         },
         {
-          "name": "christmas eve federal holiday",
+          "name": "epstien files",
           "relevanceScore": 95,
           "category": "Law and Government",
-          "searchVolume": "2K+",
-          "started": "22h ago",
-          "trendBreakdown": "christmas",
+          "searchVolume": "500+",
+          "started": "4h ago",
           "percentageIncrease": "400%"
+        },
+        {
+          "name": "is christmas eve a federal holiday",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "1K+",
+          "started": "15h ago",
+          "trendBreakdown": "federal",
+          "percentageIncrease": "200%"
         },
         {
           "name": "marco rubio",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "7h ago",
+          "started": "9h ago",
           "percentageIncrease": "200%"
         },
         {
@@ -181,7 +188,7 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "12h ago",
+          "started": "14h ago",
           "percentageIncrease": "200%"
         },
         {
@@ -189,7 +196,7 @@
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "11h ago",
+          "started": "14h ago",
           "percentageIncrease": "100%"
         },
         {
@@ -197,7 +204,7 @@
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "15h ago",
+          "started": "17h ago",
           "percentageIncrease": "100%"
         }
       ]
@@ -205,478 +212,6 @@
     {
       "name": "Georgia",
       "code": "GA",
-      "topTopic": "epstein files released",
-      "category": "Law and Government",
-      "trendingScore": 100,
-      "topics": [
-        {
-          "name": "epstein files released",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "10K+",
-          "started": "6h ago",
-          "trendBreakdown": "epstein",
-          "percentageIncrease": "1000%"
-        },
-        {
-          "name": "elise stefanik",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "2h ago",
-          "percentageIncrease": "1000%"
-        },
-        {
-          "name": "claudio neves valente",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "5K+",
-          "started": "21h ago",
-          "trendBreakdown": "claudio",
-          "percentageIncrease": "1000%"
-        },
-        {
-          "name": "federal holidays",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "22h ago",
-          "trendBreakdown": "christmas",
-          "percentageIncrease": "300%"
-        }
-      ]
-    },
-    {
-      "name": "Illinois",
-      "code": "IL",
-      "topTopic": "epstein files released",
-      "category": "Law and Government",
-      "trendingScore": 100,
-      "topics": [
-        {
-          "name": "epstein files released",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "10K+",
-          "started": "10h ago",
-          "trendBreakdown": "epstein",
-          "percentageIncrease": "1000%"
-        },
-        {
-          "name": "elise stefanik",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "2h ago",
-          "percentageIncrease": "1000%"
-        },
-        {
-          "name": "vaccines",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "20h ago",
-          "percentageIncrease": "1000%"
-        },
-        {
-          "name": "christmas eve federal holiday",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "21h ago",
-          "trendBreakdown": "federal",
-          "percentageIncrease": "400%"
-        },
-        {
-          "name": "hannah dugan",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "12h ago",
-          "percentageIncrease": "200%"
-        },
-        {
-          "name": "merry christmas",
-          "relevanceScore": 90,
-          "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "10h ago",
-          "percentageIncrease": "100%"
-        },
-        {
-          "name": "reddit",
-          "relevanceScore": 85,
-          "category": "Law and Government",
-          "searchVolume": "10K+",
-          "started": "30 minutes ago",
-          "trendBreakdown": "claudio",
-          "percentageIncrease": "75%"
-        },
-        {
-          "name": "dollar tree",
-          "relevanceScore": 85,
-          "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "21h ago",
-          "percentageIncrease": "50%"
-        }
-      ]
-    },
-    {
-      "name": "Indiana",
-      "code": "IN",
-      "topTopic": "epstein files released",
-      "category": "Law and Government",
-      "trendingScore": 100,
-      "topics": [
-        {
-          "name": "epstein files released",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "5K+",
-          "started": "5h ago",
-          "trendBreakdown": "epstein",
-          "percentageIncrease": "1000%"
-        },
-        {
-          "name": "claudio neves valente",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "2K+",
-          "started": "21h ago",
-          "trendBreakdown": "brown",
-          "percentageIncrease": "800%"
-        },
-        {
-          "name": "wndu",
-          "relevanceScore": 90,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "14h ago",
-          "percentageIncrease": "100%"
-        },
-        {
-          "name": "wsbt",
-          "relevanceScore": 90,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "13h ago",
-          "percentageIncrease": "100%"
-        }
-      ]
-    },
-    {
-      "name": "Maryland",
-      "code": "MD",
-      "topTopic": "epstein files released",
-      "category": "Law and Government",
-      "trendingScore": 100,
-      "topics": [
-        {
-          "name": "epstein files released",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "5K+",
-          "started": "4h ago",
-          "trendBreakdown": "epstein",
-          "percentageIncrease": "1000%"
-        },
-        {
-          "name": "elise stefanik",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "2h ago",
-          "percentageIncrease": "1000%"
-        },
-        {
-          "name": "claudio neves valente",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "5K+",
-          "started": "21h ago",
-          "trendBreakdown": "claudio",
-          "percentageIncrease": "1000%"
-        },
-        {
-          "name": "christmas eve federal holiday",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "13h ago",
-          "trendBreakdown": "trump",
-          "percentageIncrease": "300%"
-        }
-      ]
-    },
-    {
-      "name": "Michigan",
-      "code": "MI",
-      "topTopic": "epstein files released",
-      "category": "Law and Government",
-      "trendingScore": 100,
-      "topics": [
-        {
-          "name": "epstein files released",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "10K+",
-          "started": "8h ago",
-          "trendBreakdown": "epstein",
-          "percentageIncrease": "1000%"
-        },
-        {
-          "name": "elise stefanik",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "2h ago",
-          "percentageIncrease": "1000%"
-        },
-        {
-          "name": "claudio neves valente",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "5K+",
-          "started": "21h ago",
-          "trendBreakdown": "claudio",
-          "percentageIncrease": "1000%"
-        },
-        {
-          "name": "westland kroger shooting",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "2K+",
-          "started": "23h ago",
-          "trendBreakdown": "kroger",
-          "percentageIncrease": "800%"
-        },
-        {
-          "name": "wnem tv",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "13h ago",
-          "percentageIncrease": "200%"
-        },
-        {
-          "name": "nuno loureiro",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "20h ago",
-          "percentageIncrease": "200%"
-        }
-      ]
-    },
-    {
-      "name": "Massachusetts",
-      "code": "MA",
-      "topTopic": "epstein files released",
-      "category": "Law and Government",
-      "trendingScore": 100,
-      "topics": [
-        {
-          "name": "epstein files released",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "10K+",
-          "started": "6h ago",
-          "trendBreakdown": "epstein",
-          "percentageIncrease": "1000%"
-        },
-        {
-          "name": "claudio neves valente",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "50K+",
-          "started": "21h ago",
-          "trendBreakdown": "claudio",
-          "percentageIncrease": "1000%"
-        },
-        {
-          "name": "elise stefanik",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "2h ago",
-          "percentageIncrease": "1000%"
-        },
-        {
-          "name": "atf",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "21h ago",
-          "percentageIncrease": "1000%"
-        },
-        {
-          "name": "nbc news",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "21h ago",
-          "percentageIncrease": "200%"
-        },
-        {
-          "name": "portugal",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "20h ago",
-          "percentageIncrease": "400%"
-        },
-        {
-          "name": "cnn",
-          "relevanceScore": 90,
-          "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "21h ago",
-          "percentageIncrease": "100%"
-        }
-      ]
-    },
-    {
-      "name": "Missouri",
-      "code": "MO",
-      "topTopic": "epstein files released",
-      "category": "Law and Government",
-      "trendingScore": 100,
-      "topics": [
-        {
-          "name": "epstein files released",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "5K+",
-          "started": "6h ago",
-          "trendBreakdown": "epstein",
-          "percentageIncrease": "1000%"
-        },
-        {
-          "name": "reddit",
-          "relevanceScore": 90,
-          "category": "Law and Government",
-          "searchVolume": "5K+",
-          "started": "10 minutes ago",
-          "trendBreakdown": "brown",
-          "percentageIncrease": "100%"
-        }
-      ]
-    },
-    {
-      "name": "New Jersey",
-      "code": "NJ",
-      "topTopic": "epstein files released",
-      "category": "Law and Government",
-      "trendingScore": 100,
-      "topics": [
-        {
-          "name": "epstein files released",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "10K+",
-          "started": "6h ago",
-          "trendBreakdown": "epstein",
-          "percentageIncrease": "1000%"
-        },
-        {
-          "name": "elise stefanik",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "2K+",
-          "started": "2h ago",
-          "percentageIncrease": "1000%"
-        },
-        {
-          "name": "claudio neves valente",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "10K+",
-          "started": "21h ago",
-          "trendBreakdown": "claudio",
-          "percentageIncrease": "1000%"
-        },
-        {
-          "name": "christmas eve federal holiday",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "22h ago",
-          "trendBreakdown": "federal",
-          "percentageIncrease": "400%"
-        },
-        {
-          "name": "super flu virus",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "15h ago",
-          "percentageIncrease": "200%"
-        }
-      ]
-    },
-    {
-      "name": "North Carolina",
-      "code": "NC",
-      "topTopic": "epstein files released",
-      "category": "Law and Government",
-      "trendingScore": 100,
-      "topics": [
-        {
-          "name": "epstein files released",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "10K+",
-          "started": "7h ago",
-          "trendBreakdown": "epstein",
-          "percentageIncrease": "1000%"
-        },
-        {
-          "name": "elise stefanik",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "2h ago",
-          "percentageIncrease": "1000%"
-        },
-        {
-          "name": "schedule",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "22h ago",
-          "percentageIncrease": "300%"
-        },
-        {
-          "name": "christmas",
-          "relevanceScore": 90,
-          "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "10h ago",
-          "percentageIncrease": "100%"
-        },
-        {
-          "name": "merry christmas",
-          "relevanceScore": 90,
-          "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "11h ago",
-          "percentageIncrease": "100%"
-        },
-        {
-          "name": "reddit",
-          "relevanceScore": 85,
-          "category": "Law and Government",
-          "searchVolume": "5K+",
-          "started": "50 minutes ago",
-          "trendBreakdown": "claudio",
-          "percentageIncrease": "75%"
-        }
-      ]
-    },
-    {
-      "name": "New York",
-      "code": "NY",
       "topTopic": "elise stefanik",
       "category": "Law and Government",
       "trendingScore": 100,
@@ -685,69 +220,436 @@
           "name": "elise stefanik",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "10K+",
-          "started": "3h ago",
-          "trendBreakdown": "blakemanbruce",
+          "searchVolume": "1K+",
+          "started": "4h ago",
           "percentageIncrease": "1000%"
         },
         {
-          "name": "epstein",
-          "relevanceScore": 95,
+          "name": "claudio neves valente",
+          "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "5K+",
-          "started": "11h ago",
-          "trendBreakdown": "jeffrey",
-          "percentageIncrease": "400%"
+          "started": "23h ago",
+          "trendBreakdown": "claudio",
+          "percentageIncrease": "1000%"
+        },
+        {
+          "name": "epstien files",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "2h ago",
+          "percentageIncrease": "300%"
         },
         {
           "name": "christmas eve federal holiday",
           "relevanceScore": 95,
           "category": "Law and Government",
-          "searchVolume": "5K+",
-          "started": "23h ago",
-          "trendBreakdown": "christmas",
-          "percentageIncrease": "400%"
+          "searchVolume": "100+",
+          "started": "13h ago",
+          "percentageIncrease": "200%"
+        }
+      ]
+    },
+    {
+      "name": "Illinois",
+      "code": "IL",
+      "topTopic": "elise stefanik",
+      "category": "Law and Government",
+      "trendingScore": 100,
+      "topics": [
+        {
+          "name": "elise stefanik",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "2K+",
+          "started": "5h ago",
+          "percentageIncrease": "1000%"
         },
         {
-          "name": "taiwan",
+          "name": "claudio neves valente",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "10K+",
+          "started": "23h ago",
+          "trendBreakdown": "claudio",
+          "percentageIncrease": "1000%"
+        },
+        {
+          "name": "vaccines",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "23h ago",
+          "percentageIncrease": "1000%"
+        },
+        {
+          "name": "epstien files",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "1h ago",
+          "started": "3h ago",
+          "percentageIncrease": "300%"
+        },
+        {
+          "name": "federal holidays",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "1K+",
+          "started": "23h ago",
           "percentageIncrease": "200%"
+        },
+        {
+          "name": "hannah dugan",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "14h ago",
+          "percentageIncrease": "200%"
+        },
+        {
+          "name": "merry christmas",
+          "relevanceScore": 90,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "13h ago",
+          "percentageIncrease": "100%"
+        },
+        {
+          "name": "dollar tree",
+          "relevanceScore": 85,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "23h ago",
+          "percentageIncrease": "50%"
+        }
+      ]
+    },
+    {
+      "name": "Indiana",
+      "code": "IN",
+      "topTopic": "elise stefanik",
+      "category": "Law and Government",
+      "trendingScore": 100,
+      "topics": [
+        {
+          "name": "elise stefanik",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "4h ago",
+          "percentageIncrease": "1000%"
+        },
+        {
+          "name": "claudio neves valente",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "2K+",
+          "started": "23h ago",
+          "trendBreakdown": "brown",
+          "percentageIncrease": "800%"
+        },
+        {
+          "name": "wndu",
+          "relevanceScore": 90,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "16h ago",
+          "percentageIncrease": "100%"
+        },
+        {
+          "name": "wsbt",
+          "relevanceScore": 90,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "16h ago",
+          "percentageIncrease": "100%"
+        }
+      ]
+    },
+    {
+      "name": "Maryland",
+      "code": "MD",
+      "topTopic": "elise stefanik",
+      "category": "Law and Government",
+      "trendingScore": 100,
+      "topics": [
+        {
+          "name": "elise stefanik",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "1K+",
+          "started": "4h ago",
+          "percentageIncrease": "1000%"
+        },
+        {
+          "name": "claudio neves valente",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "5K+",
+          "started": "23h ago",
+          "trendBreakdown": "claudio",
+          "percentageIncrease": "1000%"
+        },
+        {
+          "name": "christmas eve federal holiday",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "16h ago",
+          "percentageIncrease": "300%"
+        }
+      ]
+    },
+    {
+      "name": "Michigan",
+      "code": "MI",
+      "topTopic": "elise stefanik",
+      "category": "Law and Government",
+      "trendingScore": 100,
+      "topics": [
+        {
+          "name": "elise stefanik",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "1K+",
+          "started": "4h ago",
+          "percentageIncrease": "1000%"
+        },
+        {
+          "name": "claudio neves valente",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "2K+",
+          "started": "23h ago",
+          "trendBreakdown": "claudio",
+          "percentageIncrease": "1000%"
+        },
+        {
+          "name": "epstien files",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "3h ago",
+          "percentageIncrease": "300%"
+        },
+        {
+          "name": "nuno loureiro",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "23h ago",
+          "percentageIncrease": "200%"
+        }
+      ]
+    },
+    {
+      "name": "Massachusetts",
+      "code": "MA",
+      "topTopic": "elise stefanik",
+      "category": "Law and Government",
+      "trendingScore": 100,
+      "topics": [
+        {
+          "name": "elise stefanik",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "2K+",
+          "started": "5h ago",
+          "percentageIncrease": "1000%"
+        },
+        {
+          "name": "atf",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "23h ago",
+          "percentageIncrease": "1000%"
+        },
+        {
+          "name": "epstien files",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "1K+",
+          "started": "4h ago",
+          "trendBreakdown": "todaynews",
+          "percentageIncrease": "200%"
+        },
+        {
+          "name": "portugal",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "23h ago",
+          "percentageIncrease": "400%"
+        }
+      ]
+    },
+    {
+      "name": "Missouri",
+      "code": "MO",
+      "topTopic": "elise stefanik",
+      "category": "Law and Government",
+      "trendingScore": 100,
+      "topics": [
+        {
+          "name": "elise stefanik",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "4h ago",
+          "percentageIncrease": "1000%"
+        },
+        {
+          "name": "claudio neves valente",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "2K+",
+          "started": "23h ago",
+          "percentageIncrease": "800%"
+        }
+      ]
+    },
+    {
+      "name": "New Jersey",
+      "code": "NJ",
+      "topTopic": "elise stefanik",
+      "category": "Law and Government",
+      "trendingScore": 100,
+      "topics": [
+        {
+          "name": "elise stefanik",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "2K+",
+          "started": "5h ago",
+          "percentageIncrease": "1000%"
+        },
+        {
+          "name": "claudio neves valente",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "10K+",
+          "started": "23h ago",
+          "trendBreakdown": "claudio",
+          "percentageIncrease": "1000%"
+        },
+        {
+          "name": "super flu virus",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "17h ago",
+          "percentageIncrease": "200%"
+        },
+        {
+          "name": "kennedy center renamed",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "14h ago",
+          "percentageIncrease": "200%"
+        }
+      ]
+    },
+    {
+      "name": "North Carolina",
+      "code": "NC",
+      "topTopic": "elise stefanik",
+      "category": "Law and Government",
+      "trendingScore": 100,
+      "topics": [
+        {
+          "name": "elise stefanik",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "1K+",
+          "started": "4h ago",
+          "percentageIncrease": "1000%"
+        },
+        {
+          "name": "claudio neves valente",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "5K+",
+          "started": "23h ago",
+          "trendBreakdown": "claudio",
+          "percentageIncrease": "1000%"
+        },
+        {
+          "name": "christmas",
+          "relevanceScore": 90,
+          "category": "Law and Government",
+          "searchVolume": "1K+",
+          "started": "13h ago",
+          "percentageIncrease": "100%"
+        },
+        {
+          "name": "merry christmas",
+          "relevanceScore": 90,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "13h ago",
+          "percentageIncrease": "100%"
+        }
+      ]
+    },
+    {
+      "name": "New York",
+      "code": "NY",
+      "topTopic": "epstien files",
+      "category": "Law and Government",
+      "trendingScore": 95,
+      "topics": [
+        {
+          "name": "epstien files",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "5h ago",
+          "percentageIncrease": "400%"
         },
         {
           "name": "julie su",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "8h ago",
+          "started": "10h ago",
           "trendBreakdown": "leila",
           "percentageIncrease": "400%"
+        },
+        {
+          "name": "trump federal holiday",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "2K+",
+          "started": "22h ago",
+          "trendBreakdown": "trump",
+          "percentageIncrease": "200%"
         },
         {
           "name": "milwaukee county judge hannah dugan",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "10h ago",
+          "started": "13h ago",
           "trendBreakdown": "hannah",
           "percentageIncrease": "300%"
         },
         {
-          "name": "super flu",
+          "name": "the view",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "22h ago",
-          "percentageIncrease": "200%"
+          "started": "10h ago",
+          "percentageIncrease": "400%"
         },
         {
           "name": "staten island mall",
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "30 minutes ago",
+          "started": "3h ago",
           "percentageIncrease": "100%"
         }
       ]
@@ -764,24 +666,24 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "2h ago",
+          "started": "4h ago",
           "percentageIncrease": "1000%"
         },
         {
-          "name": "epstein",
-          "relevanceScore": 95,
+          "name": "claudio neves valente",
+          "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "9h ago",
-          "trendBreakdown": "jeffrey",
-          "percentageIncrease": "400%"
+          "searchVolume": "5K+",
+          "started": "23h ago",
+          "trendBreakdown": "claudio",
+          "percentageIncrease": "1000%"
         },
         {
           "name": "federal holidays",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "21h ago",
+          "started": "23h ago",
           "trendBreakdown": "christmas",
           "percentageIncrease": "400%"
         },
@@ -790,34 +692,24 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "12h ago",
+          "started": "15h ago",
           "percentageIncrease": "200%"
-        },
-        {
-          "name": "reddit",
-          "relevanceScore": 90,
-          "category": "Law and Government",
-          "searchVolume": "10K+",
-          "started": "40 minutes ago",
-          "trendBreakdown": "claudio",
-          "percentageIncrease": "100%"
         }
       ]
     },
     {
       "name": "Oregon",
       "code": "OR",
-      "topTopic": "epstein files released",
+      "topTopic": "elise stefanik",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
         {
-          "name": "epstein files released",
+          "name": "elise stefanik",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "5K+",
-          "started": "6h ago",
-          "trendBreakdown": "epstein",
+          "searchVolume": "500+",
+          "started": "4h ago",
           "percentageIncrease": "1000%"
         },
         {
@@ -825,8 +717,8 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "2K+",
-          "started": "21h ago",
-          "trendBreakdown": "brown",
+          "started": "23h ago",
+          "trendBreakdown": "claudio",
           "percentageIncrease": "900%"
         }
       ]
@@ -834,25 +726,16 @@
     {
       "name": "Pennsylvania",
       "code": "PA",
-      "topTopic": "epstein files released",
+      "topTopic": "elise stefanik",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
         {
-          "name": "epstein files released",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "5K+",
-          "started": "6h ago",
-          "trendBreakdown": "epsteinjeffrey",
-          "percentageIncrease": "1000%"
-        },
-        {
           "name": "elise stefanik",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "2h ago",
+          "searchVolume": "2K+",
+          "started": "5h ago",
           "percentageIncrease": "1000%"
         },
         {
@@ -860,7 +743,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "10K+",
-          "started": "21h ago",
+          "started": "23h ago",
           "trendBreakdown": "claudio",
           "percentageIncrease": "1000%"
         },
@@ -868,51 +751,33 @@
           "name": "christmas eve federal holiday",
           "relevanceScore": 95,
           "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "20h ago",
-          "trendBreakdown": "federal",
-          "percentageIncrease": "300%"
-        },
-        {
-          "name": "super flu virus",
-          "relevanceScore": 95,
-          "category": "Law and Government",
           "searchVolume": "500+",
           "started": "22h ago",
-          "percentageIncrease": "400%"
+          "percentageIncrease": "300%"
         },
         {
           "name": "milwaukee county judge hannah dugan",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "3h ago",
+          "started": "6h ago",
           "percentageIncrease": "400%"
-        },
-        {
-          "name": "the kennedy center",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "24h ago",
-          "percentageIncrease": "300%"
         }
       ]
     },
     {
       "name": "South Carolina",
       "code": "SC",
-      "topTopic": "epstein files released",
+      "topTopic": "elise stefanik",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
         {
-          "name": "epstein files released",
+          "name": "elise stefanik",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "2K+",
+          "searchVolume": "500+",
           "started": "4h ago",
-          "trendBreakdown": "epstein",
           "percentageIncrease": "1000%"
         },
         {
@@ -920,7 +785,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "2K+",
-          "started": "21h ago",
+          "started": "23h ago",
           "trendBreakdown": "brown",
           "percentageIncrease": "800%"
         }
@@ -929,17 +794,116 @@
     {
       "name": "Tennessee",
       "code": "TN",
-      "topTopic": "epstein files released",
+      "topTopic": "elise stefanik",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
         {
-          "name": "epstein files released",
+          "name": "elise stefanik",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "5K+",
-          "started": "6h ago",
-          "trendBreakdown": "epstein",
+          "searchVolume": "500+",
+          "started": "4h ago",
+          "percentageIncrease": "1000%"
+        },
+        {
+          "name": "claudio neves valente",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "2K+",
+          "started": "23h ago",
+          "trendBreakdown": "claudio",
+          "percentageIncrease": "1000%"
+        }
+      ]
+    },
+    {
+      "name": "Texas",
+      "code": "TX",
+      "topTopic": "elise stefanik",
+      "category": "Law and Government",
+      "trendingScore": 100,
+      "topics": [
+        {
+          "name": "elise stefanik",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "2K+",
+          "started": "5h ago",
+          "percentageIncrease": "1000%"
+        },
+        {
+          "name": "claudio neves valente",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "10K+",
+          "started": "23h ago",
+          "trendBreakdown": "claudio",
+          "percentageIncrease": "1000%"
+        },
+        {
+          "name": "vaccinations",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "23h ago",
+          "percentageIncrease": "800%"
+        },
+        {
+          "name": "epstien files",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "5h ago",
+          "percentageIncrease": "300%"
+        },
+        {
+          "name": "portugal",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "23h ago",
+          "percentageIncrease": "200%"
+        },
+        {
+          "name": "kennedy center renamed",
+          "relevanceScore": 90,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "1h ago",
+          "percentageIncrease": "100%"
+        },
+        {
+          "name": "merry christmas",
+          "relevanceScore": 85,
+          "category": "Law and Government",
+          "searchVolume": "1K+",
+          "started": "12h ago",
+          "percentageIncrease": "75%"
+        },
+        {
+          "name": "dollar tree",
+          "relevanceScore": 85,
+          "category": "Law and Government",
+          "searchVolume": "1K+",
+          "started": "12h ago",
+          "percentageIncrease": "50%"
+        }
+      ]
+    },
+    {
+      "name": "Virginia",
+      "code": "VA",
+      "topTopic": "elise stefanik",
+      "category": "Law and Government",
+      "trendingScore": 100,
+      "topics": [
+        {
+          "name": "elise stefanik",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "2K+",
+          "started": "5h ago",
           "percentageIncrease": "1000%"
         },
         {
@@ -947,23 +911,40 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "5K+",
-          "started": "21h ago",
+          "started": "23h ago",
           "trendBreakdown": "claudio",
           "percentageIncrease": "1000%"
         },
         {
-          "name": "federal holidays",
+          "name": "epstien files",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "21h ago",
-          "percentageIncrease": "300%"
+          "started": "2h ago",
+          "percentageIncrease": "400%"
+        },
+        {
+          "name": "merry christmas",
+          "relevanceScore": 90,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "12h ago",
+          "percentageIncrease": "100%"
+        },
+        {
+          "name": "christmas",
+          "relevanceScore": 90,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "13h ago",
+          "trendBreakdown": "federal",
+          "percentageIncrease": "100%"
         }
       ]
     },
     {
-      "name": "Texas",
-      "code": "TX",
+      "name": "District of Columbia",
+      "code": "DC",
       "topTopic": "claudio neves valente",
       "category": "Law and Government",
       "trendingScore": 100,
@@ -973,201 +954,50 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "10K+",
-          "started": "21h ago",
-          "percentageIncrease": "1000%"
-        },
-        {
-          "name": "elise stefanik",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "2K+",
-          "started": "2h ago",
-          "percentageIncrease": "1000%"
-        },
-        {
-          "name": "vaccinations",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "20h ago",
-          "percentageIncrease": "800%"
-        },
-        {
-          "name": "epstein",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "5K+",
-          "started": "10h ago",
-          "trendBreakdown": "jeffrey",
-          "percentageIncrease": "300%"
-        },
-        {
-          "name": "christmas eve federal holiday",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "22h ago",
-          "trendBreakdown": "christmas",
-          "percentageIncrease": "200%"
-        },
-        {
-          "name": "mario pineida",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "1K+",
           "started": "23h ago",
+          "trendBreakdown": "claudio",
+          "percentageIncrease": "1000%"
+        },
+        {
+          "name": "epstien files",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "3h ago",
           "percentageIncrease": "300%"
         },
         {
-          "name": "portugal",
+          "name": "super flu virus",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "20h ago",
+          "started": "16h ago",
           "percentageIncrease": "200%"
         },
         {
-          "name": "super flu virus",
+          "name": "christmas",
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "22h ago",
-          "percentageIncrease": "100%"
-        },
-        {
-          "name": "merry christmas",
-          "relevanceScore": 85,
-          "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "9h ago",
-          "percentageIncrease": "75%"
-        },
-        {
-          "name": "dollar tree",
-          "relevanceScore": 85,
-          "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "10h ago",
-          "percentageIncrease": "50%"
-        }
-      ]
-    },
-    {
-      "name": "Virginia",
-      "code": "VA",
-      "topTopic": "epstein files released",
-      "category": "Law and Government",
-      "trendingScore": 100,
-      "topics": [
-        {
-          "name": "epstein files released",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "10K+",
-          "started": "6h ago",
-          "trendBreakdown": "epstein",
-          "percentageIncrease": "1000%"
-        },
-        {
-          "name": "elise stefanik",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "2h ago",
-          "percentageIncrease": "1000%"
-        },
-        {
-          "name": "claudio neves valente",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "10K+",
-          "started": "21h ago",
-          "percentageIncrease": "1000%"
-        },
-        {
-          "name": "christmas eve federal holiday",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "21h ago",
-          "trendBreakdown": "holidaysfederal",
-          "percentageIncrease": "500%"
-        },
-        {
-          "name": "merry christmas",
-          "relevanceScore": 90,
-          "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "10h ago",
-          "percentageIncrease": "100%"
-        }
-      ]
-    },
-    {
-      "name": "District of Columbia",
-      "code": "DC",
-      "topTopic": "epstein files released",
-      "category": "Law and Government",
-      "trendingScore": 100,
-      "topics": [
-        {
-          "name": "epstein files released",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "5K+",
-          "started": "6h ago",
-          "trendBreakdown": "epsteinjeffrey",
-          "percentageIncrease": "1000%"
-        },
-        {
-          "name": "claudio neves valente",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "10K+",
-          "started": "21h ago",
-          "percentageIncrease": "1000%"
-        },
-        {
-          "name": "christmas eve federal holiday",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "21h ago",
-          "trendBreakdown": "holidayfederal",
-          "percentageIncrease": "700%"
-        },
-        {
-          "name": "super flu virus",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "100+",
           "started": "13h ago",
-          "percentageIncrease": "200%"
+          "trendBreakdown": "federal",
+          "percentageIncrease": "100%"
         }
       ]
     },
     {
       "name": "Oklahoma",
       "code": "OK",
-      "topTopic": "epstein files released",
+      "topTopic": "brown university suspect",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
-        {
-          "name": "epstein files released",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "2K+",
-          "started": "4h ago",
-          "trendBreakdown": "epstein",
-          "percentageIncrease": "1000%"
-        },
         {
           "name": "brown university suspect",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "21h ago",
+          "started": "24h ago",
           "trendBreakdown": "claudio",
           "percentageIncrease": "600%"
         },
@@ -1176,7 +1006,7 @@
           "relevanceScore": 85,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "9h ago",
+          "started": "12h ago",
           "percentageIncrease": "75%"
         }
       ]
@@ -1184,50 +1014,33 @@
     {
       "name": "Vermont",
       "code": "VT",
-      "topTopic": "epstein files released",
+      "topTopic": "elise stefanik",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
-        {
-          "name": "epstein files released",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "1h ago",
-          "percentageIncrease": "500%"
-        },
         {
           "name": "elise stefanik",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "50 minutes ago",
-          "percentageIncrease": "1000%"
+          "started": "3h ago",
+          "percentageIncrease": "700%"
         }
       ]
     },
     {
       "name": "Washington",
       "code": "WA",
-      "topTopic": "epstein files released",
+      "topTopic": "elise stefanik",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
         {
-          "name": "epstein files released",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "5K+",
-          "started": "8h ago",
-          "trendBreakdown": "epstein",
-          "percentageIncrease": "1000%"
-        },
-        {
           "name": "elise stefanik",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "2h ago",
+          "searchVolume": "1K+",
+          "started": "4h ago",
           "percentageIncrease": "1000%"
         },
         {
@@ -1235,7 +1048,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "5K+",
-          "started": "21h ago",
+          "started": "23h ago",
           "trendBreakdown": "claudio",
           "percentageIncrease": "1000%"
         },
@@ -1244,7 +1057,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "20h ago",
+          "started": "23h ago",
           "percentageIncrease": "700%"
         },
         {
@@ -1252,7 +1065,7 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "8h ago",
+          "started": "10h ago",
           "percentageIncrease": "200%"
         },
         {
@@ -1260,7 +1073,7 @@
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "18h ago",
+          "started": "20h ago",
           "trendBreakdown": "federal",
           "percentageIncrease": "100%"
         }
@@ -1269,33 +1082,16 @@
     {
       "name": "Alabama",
       "code": "AL",
-      "topTopic": "epstein files released",
+      "topTopic": "claudio neves valente",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
-        {
-          "name": "epstein files released",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "2K+",
-          "started": "3h ago",
-          "trendBreakdown": "epstein",
-          "percentageIncrease": "1000%"
-        },
-        {
-          "name": "elise stefanik",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "1h ago",
-          "percentageIncrease": "1000%"
-        },
         {
           "name": "claudio neves valente",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "2K+",
-          "started": "21h ago",
+          "started": "23h ago",
           "trendBreakdown": "brown",
           "percentageIncrease": "1000%"
         }
@@ -1304,27 +1100,26 @@
     {
       "name": "Kansas",
       "code": "KS",
-      "topTopic": "epstein files released",
+      "topTopic": "elise stefanik",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
         {
-          "name": "epstein files released",
+          "name": "elise stefanik",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "3h ago",
-          "trendBreakdown": "epstein",
-          "percentageIncrease": "1000%"
+          "searchVolume": "100+",
+          "started": "2h ago",
+          "percentageIncrease": "500%"
         },
         {
-          "name": "brown university suspect",
+          "name": "claudio neves valente",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "21h ago",
-          "trendBreakdown": "claudio",
-          "percentageIncrease": "500%"
+          "searchVolume": "500+",
+          "started": "23h ago",
+          "trendBreakdown": "brown",
+          "percentageIncrease": "900%"
         }
       ]
     },
@@ -1349,25 +1144,16 @@
     {
       "name": "Colorado",
       "code": "CO",
-      "topTopic": "epstein files released",
+      "topTopic": "elise stefanik",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
-        {
-          "name": "epstein files released",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "5K+",
-          "started": "6h ago",
-          "trendBreakdown": "epstein",
-          "percentageIncrease": "1000%"
-        },
         {
           "name": "elise stefanik",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "2h ago",
+          "started": "4h ago",
           "percentageIncrease": "1000%"
         },
         {
@@ -1375,7 +1161,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "5K+",
-          "started": "21h ago",
+          "started": "23h ago",
           "trendBreakdown": "claudio",
           "percentageIncrease": "1000%"
         }
@@ -1384,60 +1170,42 @@
     {
       "name": "Iowa",
       "code": "IA",
-      "topTopic": "epstein files released",
+      "topTopic": "claudio neves valente",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
         {
-          "name": "epstein files released",
+          "name": "claudio neves valente",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "2K+",
-          "started": "3h ago",
-          "trendBreakdown": "epstein",
+          "searchVolume": "500+",
+          "started": "23h ago",
+          "trendBreakdown": "brown",
           "percentageIncrease": "1000%"
-        },
-        {
-          "name": "elise stefanik",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "1h ago",
-          "percentageIncrease": "900%"
-        },
-        {
-          "name": "brown university suspect",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "21h ago",
-          "trendBreakdown": "claudio",
-          "percentageIncrease": "700%"
         }
       ]
     },
     {
       "name": "Louisiana",
       "code": "LA",
-      "topTopic": "epstein files released",
+      "topTopic": "elise stefanik",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
         {
-          "name": "epstein files released",
+          "name": "elise stefanik",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "2K+",
-          "started": "3h ago",
-          "trendBreakdown": "epstein",
-          "percentageIncrease": "1000%"
+          "searchVolume": "100+",
+          "started": "2h ago",
+          "percentageIncrease": "600%"
         },
         {
           "name": "claudio neves valente",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "20h ago",
+          "started": "23h ago",
           "trendBreakdown": "brown",
           "percentageIncrease": "800%"
         }
@@ -1446,17 +1214,16 @@
     {
       "name": "Minnesota",
       "code": "MN",
-      "topTopic": "epstein files released",
+      "topTopic": "elise stefanik",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
         {
-          "name": "epstein files released",
+          "name": "elise stefanik",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "5K+",
-          "started": "5h ago",
-          "trendBreakdown": "epstein",
+          "searchVolume": "500+",
+          "started": "4h ago",
           "percentageIncrease": "1000%"
         },
         {
@@ -1464,7 +1231,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "5K+",
-          "started": "21h ago",
+          "started": "23h ago",
           "trendBreakdown": "claudio",
           "percentageIncrease": "1000%"
         },
@@ -1473,7 +1240,7 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "20h ago",
+          "started": "22h ago",
           "percentageIncrease": "300%"
         }
       ]
@@ -1499,44 +1266,51 @@
     {
       "name": "Nevada",
       "code": "NV",
-      "topTopic": "epstein files released",
+      "topTopic": "elise stefanik",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
         {
-          "name": "epstein files released",
+          "name": "elise stefanik",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "2K+",
-          "started": "4h ago",
-          "trendBreakdown": "epstein",
-          "percentageIncrease": "1000%"
+          "searchVolume": "100+",
+          "started": "3h ago",
+          "percentageIncrease": "500%"
         },
         {
-          "name": "brown university suspect",
+          "name": "claudio neves valente",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "22h ago",
-          "trendBreakdown": "claudio",
-          "percentageIncrease": "500%"
+          "searchVolume": "500+",
+          "started": "23h ago",
+          "trendBreakdown": "brown",
+          "percentageIncrease": "1000%"
         }
       ]
     },
     {
       "name": "Wisconsin",
       "code": "WI",
-      "topTopic": "epstein files released",
+      "topTopic": "elise stefanik",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
         {
-          "name": "epstein files released",
+          "name": "elise stefanik",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "5K+",
+          "searchVolume": "500+",
           "started": "4h ago",
-          "trendBreakdown": "epstein",
+          "percentageIncrease": "1000%"
+        },
+        {
+          "name": "claudio neves valente",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "2K+",
+          "started": "23h ago",
+          "trendBreakdown": "claudio",
           "percentageIncrease": "1000%"
         },
         {
@@ -1544,7 +1318,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "2K+",
-          "started": "21h ago",
+          "started": "23h ago",
           "trendBreakdown": "judge",
           "percentageIncrease": "600%"
         },
@@ -1553,42 +1327,24 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "7h ago",
+          "started": "9h ago",
           "percentageIncrease": "300%"
-        },
-        {
-          "name": "reddit",
-          "relevanceScore": 90,
-          "category": "Law and Government",
-          "searchVolume": "5K+",
-          "started": "10 minutes ago",
-          "trendBreakdown": "claudio",
-          "percentageIncrease": "100%"
         }
       ]
     },
     {
       "name": "Connecticut",
       "code": "CT",
-      "topTopic": "epstein files released",
+      "topTopic": "elise stefanik",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
         {
-          "name": "epstein files released",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "2K+",
-          "started": "3h ago",
-          "trendBreakdown": "epstein",
-          "percentageIncrease": "1000%"
-        },
-        {
           "name": "elise stefanik",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "2h ago",
+          "searchVolume": "1K+",
+          "started": "4h ago",
           "percentageIncrease": "1000%"
         },
         {
@@ -1596,7 +1352,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "5K+",
-          "started": "21h ago",
+          "started": "23h ago",
           "trendBreakdown": "claudio",
           "percentageIncrease": "1000%"
         }
@@ -1605,26 +1361,17 @@
     {
       "name": "Kentucky",
       "code": "KY",
-      "topTopic": "epstein files released",
+      "topTopic": "reddit",
       "category": "Law and Government",
-      "trendingScore": 100,
+      "trendingScore": 90,
       "topics": [
-        {
-          "name": "epstein files released",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "2K+",
-          "started": "6h ago",
-          "trendBreakdown": "epstein",
-          "percentageIncrease": "1000%"
-        },
         {
           "name": "reddit",
           "relevanceScore": 90,
           "category": "Law and Government",
-          "searchVolume": "2K+",
-          "started": "50 minutes ago",
-          "trendBreakdown": "brown",
+          "searchVolume": "1K+",
+          "started": "3h ago",
+          "trendBreakdown": "claudio",
           "percentageIncrease": "100%"
         },
         {
@@ -1632,7 +1379,7 @@
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "8h ago",
+          "started": "11h ago",
           "percentageIncrease": "100%"
         }
       ]
@@ -1658,25 +1405,16 @@
     {
       "name": "West Virginia",
       "code": "WV",
-      "topTopic": "epstein files released",
+      "topTopic": "brown university suspect",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
-        {
-          "name": "epstein files released",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "2h ago",
-          "trendBreakdown": "epstein",
-          "percentageIncrease": "1000%"
-        },
         {
           "name": "brown university suspect",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "20h ago",
+          "started": "22h ago",
           "percentageIncrease": "500%"
         }
       ]
@@ -1684,25 +1422,24 @@
     {
       "name": "Utah",
       "code": "UT",
-      "topTopic": "epstein files released",
+      "topTopic": "elise stefanik",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
         {
-          "name": "epstein files released",
+          "name": "elise stefanik",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "2K+",
-          "started": "4h ago",
-          "trendBreakdown": "epstein",
-          "percentageIncrease": "1000%"
+          "searchVolume": "100+",
+          "started": "2h ago",
+          "percentageIncrease": "600%"
         },
         {
           "name": "brown university suspect",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "21h ago",
+          "started": "23h ago",
           "trendBreakdown": "claudio",
           "percentageIncrease": "700%"
         }
@@ -1765,27 +1502,26 @@
     {
       "name": "New Hampshire",
       "code": "NH",
-      "topTopic": "epstein files released",
+      "topTopic": "claudio neves valente",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
         {
-          "name": "epstein files released",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "2h ago",
-          "trendBreakdown": "epstein",
-          "percentageIncrease": "1000%"
-        },
-        {
           "name": "claudio neves valente",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "5K+",
-          "started": "21h ago",
+          "searchVolume": "2K+",
+          "started": "23h ago",
           "trendBreakdown": "claudio",
           "percentageIncrease": "1000%"
+        },
+        {
+          "name": "elise stefanik",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "2h ago",
+          "percentageIncrease": "500%"
         }
       ]
     },
@@ -1817,27 +1553,18 @@
           "name": "central maine power",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "6h ago",
-          "percentageIncrease": "1000%"
-        },
-        {
-          "name": "epstein files released",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "2h ago",
-          "trendBreakdown": "epstein",
-          "percentageIncrease": "1000%"
-        },
-        {
-          "name": "brown university suspect",
-          "relevanceScore": 100,
-          "category": "Law and Government",
           "searchVolume": "2K+",
+          "started": "9h ago",
+          "percentageIncrease": "1000%"
+        },
+        {
+          "name": "claudio neves valente",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "1K+",
           "started": "23h ago",
-          "trendBreakdown": "claudio",
-          "percentageIncrease": "800%"
+          "trendBreakdown": "brown",
+          "percentageIncrease": "700%"
         }
       ]
     },
@@ -1896,7 +1623,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "20h ago",
+          "started": "23h ago",
           "percentageIncrease": "900%"
         }
       ]
@@ -1931,7 +1658,7 @@
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "15h ago",
+          "started": "17h ago",
           "percentageIncrease": "100%"
         }
       ]

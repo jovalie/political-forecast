@@ -1,28 +1,19 @@
 {
-  "timestamp": "2025-12-20T00:04:45.578Z",
+  "timestamp": "2025-12-20T02:34:00.660Z",
   "states": [
     {
       "name": "West Virginia",
       "code": "WV",
-      "topTopic": "epstein files released",
+      "topTopic": "brown university suspect",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
-        {
-          "name": "epstein files released",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "2h ago",
-          "trendBreakdown": "epstein",
-          "percentageIncrease": "1000%"
-        },
         {
           "name": "brown university suspect",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "20h ago",
+          "started": "22h ago",
           "percentageIncrease": "500%"
         }
       ]
