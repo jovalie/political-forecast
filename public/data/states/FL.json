@@ -1,37 +1,29 @@
 {
-  "timestamp": "2025-12-20T20:04:36.516Z",
+  "timestamp": "2025-12-20T22:04:24.088Z",
   "states": [
     {
       "name": "Florida",
       "code": "FL",
-      "topTopic": "elise stefanik",
+      "topTopic": "randall spivey",
       "category": "Law and Government",
-      "trendingScore": 100,
+      "trendingScore": 95,
       "topics": [
-        {
-          "name": "elise stefanik",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "5K+",
-          "started": "22h ago",
-          "percentageIncrease": "1000%"
-        },
-        {
-          "name": "ghislaine maxwell",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "20h ago",
-          "percentageIncrease": "300%"
-        },
         {
           "name": "randall spivey",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "4h ago",
+          "started": "6h ago",
           "trendBreakdown": "wink",
           "percentageIncrease": "300%"
+        },
+        {
+          "name": "st augustine",
+          "relevanceScore": 85,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "7h ago",
+          "percentageIncrease": "75%"
         }
       ]
     }

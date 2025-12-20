@@ -1,53 +1,28 @@
 {
-  "timestamp": "2025-12-20T20:04:36.516Z",
+  "timestamp": "2025-12-20T22:04:24.088Z",
   "states": [
     {
       "name": "California",
       "code": "CA",
-      "topTopic": "elise stefanik",
+      "topTopic": "temecula promenade",
       "category": "Law and Government",
-      "trendingScore": 100,
+      "trendingScore": 95,
       "topics": [
         {
-          "name": "elise stefanik",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "10K+",
-          "started": "22h ago",
-          "trendBreakdown": "stefanik",
-          "percentageIncrease": "1000%"
-        },
-        {
-          "name": "temecula mall",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "2K+",
-          "started": "22h ago",
-          "trendBreakdown": "mallpromenade",
-          "percentageIncrease": "700%"
-        },
-        {
-          "name": "ghislaine maxwell",
+          "name": "temecula promenade",
           "relevanceScore": 95,
           "category": "Law and Government",
-          "searchVolume": "2K+",
-          "started": "21h ago",
-          "percentageIncrease": "300%"
-        },
-        {
-          "name": "santa monica",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "100+",
+          "searchVolume": "500+",
           "started": "23h ago",
-          "percentageIncrease": "200%"
+          "trendBreakdown": "promenade",
+          "percentageIncrease": "400%"
         },
         {
           "name": "nyc mayor",
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "4h ago",
+          "started": "6h ago",
           "percentageIncrease": "100%"
         },
         {
@@ -55,15 +30,7 @@
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "20h ago",
-          "percentageIncrease": "100%"
-        },
-        {
-          "name": "evita",
-          "relevanceScore": 90,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "23h ago",
+          "started": "22h ago",
           "percentageIncrease": "100%"
         },
         {
@@ -71,7 +38,7 @@
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "16h ago",
+          "started": "18h ago",
           "percentageIncrease": "100%"
         },
         {
@@ -79,7 +46,7 @@
           "relevanceScore": 85,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "20h ago",
+          "started": "22h ago",
           "percentageIncrease": "50%"
         }
       ]

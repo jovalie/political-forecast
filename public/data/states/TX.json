@@ -1,52 +1,43 @@
 {
-  "timestamp": "2025-12-20T20:04:36.516Z",
+  "timestamp": "2025-12-20T22:04:24.088Z",
   "states": [
     {
       "name": "Texas",
       "code": "TX",
-      "topTopic": "elise stefanik",
+      "topTopic": "elise stefanik ny governor",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
         {
-          "name": "elise stefanik",
+          "name": "elise stefanik ny governor",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "5K+",
-          "started": "22h ago",
-          "trendBreakdown": "elise",
-          "percentageIncrease": "600%"
+          "searchVolume": "500+",
+          "started": "18h ago",
+          "percentageIncrease": "500%"
         },
         {
-          "name": "ghislaine maxwell",
+          "name": "town east mall",
           "relevanceScore": 95,
           "category": "Law and Government",
-          "searchVolume": "2K+",
-          "started": "20h ago",
-          "percentageIncrease": "200%"
+          "searchVolume": "500+",
+          "started": "6h ago",
+          "percentageIncrease": "400%"
         },
         {
           "name": "nigeria",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "14h ago",
+          "started": "16h ago",
           "percentageIncrease": "400%"
-        },
-        {
-          "name": "denmark childhood vaccines",
-          "relevanceScore": 90,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "5h ago",
-          "percentageIncrease": "100%"
         },
         {
           "name": "kennedy center renamed",
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "18h ago",
+          "started": "20h ago",
           "percentageIncrease": "100%"
         },
         {
@@ -54,7 +45,7 @@
           "relevanceScore": 85,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "21h ago",
+          "started": "23h ago",
           "percentageIncrease": "75%"
         }
       ]

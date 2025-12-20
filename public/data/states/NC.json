@@ -1,27 +1,19 @@
 {
-  "timestamp": "2025-12-20T20:04:36.516Z",
+  "timestamp": "2025-12-20T22:04:24.088Z",
   "states": [
     {
       "name": "North Carolina",
       "code": "NC",
-      "topTopic": "elise stefanik",
+      "topTopic": "rocky mount nc",
       "category": "Law and Government",
-      "trendingScore": 100,
+      "trendingScore": 95,
       "topics": [
-        {
-          "name": "elise stefanik",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "2K+",
-          "started": "22h ago",
-          "percentageIncrease": "1000%"
-        },
         {
           "name": "rocky mount nc",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "18h ago",
+          "started": "20h ago",
           "trendBreakdown": "trump",
           "percentageIncrease": "300%"
         },
@@ -30,7 +22,7 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "6h ago",
+          "started": "8h ago",
           "trendBreakdown": "flu",
           "percentageIncrease": "200%"
         }
