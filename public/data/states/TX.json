@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-12-20T08:04:44.694Z",
+  "timestamp": "2025-12-20T10:04:36.907Z",
   "states": [
     {
       "name": "Texas",
@@ -13,16 +13,23 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "2K+",
-          "started": "10h ago",
-          "trendBreakdown": "announcement",
-          "percentageIncrease": "1000%"
+          "started": "12h ago",
+          "percentageIncrease": "900%"
+        },
+        {
+          "name": "trump announcement today",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "15h ago",
+          "percentageIncrease": "400%"
         },
         {
           "name": "kennedy center renamed",
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "6h ago",
+          "started": "8h ago",
           "percentageIncrease": "100%"
         },
         {
@@ -30,7 +37,7 @@
           "relevanceScore": 85,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "9h ago",
+          "started": "11h ago",
           "percentageIncrease": "75%"
         },
         {
@@ -38,7 +45,7 @@
           "relevanceScore": 85,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "17h ago",
+          "started": "19h ago",
           "percentageIncrease": "75%"
         },
         {
@@ -46,7 +53,7 @@
           "relevanceScore": 85,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "18h ago",
+          "started": "20h ago",
           "percentageIncrease": "50%"
         }
       ]

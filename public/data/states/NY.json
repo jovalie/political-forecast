@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-12-20T08:04:44.694Z",
+  "timestamp": "2025-12-20T10:04:36.907Z",
   "states": [
     {
       "name": "New York",
@@ -13,32 +13,25 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "9h ago",
+          "started": "11h ago",
           "percentageIncrease": "1000%"
         },
         {
-          "name": "ghislaine maxwell",
+          "name": "rochester ny news",
           "relevanceScore": 95,
           "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "9h ago",
-          "percentageIncrease": "400%"
+          "searchVolume": "500+",
+          "started": "5h ago",
+          "trendBreakdown": "rochester",
+          "percentageIncrease": "300%"
         },
         {
           "name": "julie su",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "16h ago",
+          "started": "18h ago",
           "trendBreakdown": "leila",
-          "percentageIncrease": "400%"
-        },
-        {
-          "name": "matt rife",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "3h ago",
           "percentageIncrease": "400%"
         },
         {
@@ -46,16 +39,24 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "18h ago",
+          "started": "20h ago",
           "trendBreakdown": "hannah",
           "percentageIncrease": "300%"
+        },
+        {
+          "name": "matt rife",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "5h ago",
+          "percentageIncrease": "400%"
         },
         {
           "name": "the view",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "15h ago",
+          "started": "17h ago",
           "percentageIncrease": "400%"
         },
         {
@@ -63,7 +64,7 @@
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "8h ago",
+          "started": "10h ago",
           "percentageIncrease": "100%"
         },
         {
@@ -71,7 +72,7 @@
           "relevanceScore": 85,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "17h ago",
+          "started": "19h ago",
           "trendBreakdown": "trump",
           "percentageIncrease": "75%"
         }
