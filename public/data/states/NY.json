@@ -1,27 +1,27 @@
 {
-  "timestamp": "2025-12-20T06:04:42.103Z",
+  "timestamp": "2025-12-20T08:04:44.694Z",
   "states": [
     {
       "name": "New York",
       "code": "NY",
-      "topTopic": "ghislaine maxwell",
+      "topTopic": "reddit down",
       "category": "Law and Government",
-      "trendingScore": 95,
+      "trendingScore": 100,
       "topics": [
+        {
+          "name": "reddit down",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "1K+",
+          "started": "9h ago",
+          "percentageIncrease": "1000%"
+        },
         {
           "name": "ghislaine maxwell",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "7h ago",
-          "percentageIncrease": "400%"
-        },
-        {
-          "name": "matt rife",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "1h ago",
+          "started": "9h ago",
           "percentageIncrease": "400%"
         },
         {
@@ -29,8 +29,16 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "14h ago",
+          "started": "16h ago",
           "trendBreakdown": "leila",
+          "percentageIncrease": "400%"
+        },
+        {
+          "name": "matt rife",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "3h ago",
           "percentageIncrease": "400%"
         },
         {
@@ -38,7 +46,7 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "16h ago",
+          "started": "18h ago",
           "trendBreakdown": "hannah",
           "percentageIncrease": "300%"
         },
@@ -47,23 +55,15 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "13h ago",
+          "started": "15h ago",
           "percentageIncrease": "400%"
-        },
-        {
-          "name": "reddit",
-          "relevanceScore": 90,
-          "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "6h ago",
-          "percentageIncrease": "100%"
         },
         {
           "name": "staten island mall",
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "6h ago",
+          "started": "8h ago",
           "percentageIncrease": "100%"
         },
         {
@@ -71,7 +71,7 @@
           "relevanceScore": 85,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "15h ago",
+          "started": "17h ago",
           "trendBreakdown": "trump",
           "percentageIncrease": "75%"
         }
