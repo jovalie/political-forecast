@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-12-20T10:04:36.907Z",
+  "timestamp": "2025-12-20T12:04:32.397Z",
   "states": [
     {
       "name": "Wisconsin",
@@ -13,32 +13,32 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "11h ago",
-          "percentageIncrease": "1000%"
+          "started": "13h ago",
+          "percentageIncrease": "900%"
         },
         {
           "name": "conduent",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "20h ago",
-          "percentageIncrease": "1000%"
-        },
-        {
-          "name": "weau school closings",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "100+",
           "started": "22h ago",
-          "percentageIncrease": "400%"
+          "percentageIncrease": "1000%"
         },
         {
           "name": "merry christmas",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "17h ago",
+          "started": "19h ago",
           "percentageIncrease": "300%"
+        },
+        {
+          "name": "menards",
+          "relevanceScore": 90,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "40 minutes ago",
+          "percentageIncrease": "100%"
         }
       ]
     }

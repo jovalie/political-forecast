@@ -1,36 +1,28 @@
 {
-  "timestamp": "2025-12-20T10:04:36.907Z",
+  "timestamp": "2025-12-20T12:04:32.397Z",
   "states": [
     {
       "name": "New York",
       "code": "NY",
-      "topTopic": "reddit down",
+      "topTopic": "rochester ny news",
       "category": "Law and Government",
-      "trendingScore": 100,
+      "trendingScore": 95,
       "topics": [
-        {
-          "name": "reddit down",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "11h ago",
-          "percentageIncrease": "1000%"
-        },
         {
           "name": "rochester ny news",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "5h ago",
+          "started": "7h ago",
           "trendBreakdown": "rochester",
-          "percentageIncrease": "300%"
+          "percentageIncrease": "400%"
         },
         {
           "name": "julie su",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "18h ago",
+          "started": "20h ago",
           "trendBreakdown": "leila",
           "percentageIncrease": "400%"
         },
@@ -39,7 +31,7 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "20h ago",
+          "started": "22h ago",
           "trendBreakdown": "hannah",
           "percentageIncrease": "300%"
         },
@@ -48,7 +40,7 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "5h ago",
+          "started": "7h ago",
           "percentageIncrease": "400%"
         },
         {
@@ -56,24 +48,40 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "17h ago",
+          "started": "19h ago",
           "percentageIncrease": "400%"
+        },
+        {
+          "name": "trump christmas federal holiday",
+          "relevanceScore": 90,
+          "category": "Law and Government",
+          "searchVolume": "1K+",
+          "started": "21h ago",
+          "trendBreakdown": "evechristmas",
+          "percentageIncrease": "100%"
+        },
+        {
+          "name": "reddit",
+          "relevanceScore": 90,
+          "category": "Law and Government",
+          "searchVolume": "1K+",
+          "started": "12h ago",
+          "percentageIncrease": "100%"
         },
         {
           "name": "staten island mall",
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "10h ago",
+          "started": "12h ago",
           "percentageIncrease": "100%"
         },
         {
-          "name": "christmas",
+          "name": "google",
           "relevanceScore": 85,
           "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "19h ago",
-          "trendBreakdown": "trump",
+          "searchVolume": "500+",
+          "started": "1h ago",
           "percentageIncrease": "75%"
         }
       ]
