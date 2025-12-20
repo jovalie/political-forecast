@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-12-20T12:04:32.397Z",
+  "timestamp": "2025-12-20T14:04:45.148Z",
   "states": [
     {
       "name": "Florida",
@@ -12,33 +12,26 @@
           "name": "elise stefanik",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "2K+",
-          "started": "14h ago",
+          "searchVolume": "5K+",
+          "started": "16h ago",
           "percentageIncrease": "1000%"
-        },
-        {
-          "name": "matt rife",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "7h ago",
-          "percentageIncrease": "400%"
         },
         {
           "name": "marco rubio",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "19h ago",
+          "started": "21h ago",
           "percentageIncrease": "200%"
         },
         {
-          "name": "merry christmas",
-          "relevanceScore": 90,
+          "name": "usa today",
+          "relevanceScore": 85,
           "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "23h ago",
-          "percentageIncrease": "100%"
+          "searchVolume": "100+",
+          "started": "2h ago",
+          "trendBreakdown": "trump",
+          "percentageIncrease": "75%"
         }
       ]
     }

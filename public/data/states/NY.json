@@ -1,46 +1,46 @@
 {
-  "timestamp": "2025-12-20T12:04:32.397Z",
+  "timestamp": "2025-12-20T14:04:45.148Z",
   "states": [
     {
       "name": "New York",
       "code": "NY",
       "topTopic": "rochester ny news",
       "category": "Law and Government",
-      "trendingScore": 95,
+      "trendingScore": 100,
       "topics": [
         {
           "name": "rochester ny news",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "1K+",
+          "started": "9h ago",
+          "trendBreakdown": "rochester",
+          "percentageIncrease": "500%"
+        },
+        {
+          "name": "denmark childhood vaccines",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "2h ago",
+          "percentageIncrease": "700%"
+        },
+        {
+          "name": "flu a symptoms",
           "relevanceScore": 95,
           "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "7h ago",
-          "trendBreakdown": "rochester",
-          "percentageIncrease": "400%"
+          "searchVolume": "100+",
+          "started": "50 minutes ago",
+          "trendBreakdown": "flu",
+          "percentageIncrease": "200%"
         },
         {
           "name": "julie su",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "20h ago",
-          "trendBreakdown": "leila",
-          "percentageIncrease": "400%"
-        },
-        {
-          "name": "milwaukee county judge hannah dugan",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "500+",
           "started": "22h ago",
-          "trendBreakdown": "hannah",
-          "percentageIncrease": "300%"
-        },
-        {
-          "name": "matt rife",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "7h ago",
+          "trendBreakdown": "leila",
           "percentageIncrease": "400%"
         },
         {
@@ -48,7 +48,7 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "19h ago",
+          "started": "21h ago",
           "percentageIncrease": "400%"
         },
         {
@@ -56,16 +56,8 @@
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "21h ago",
+          "started": "23h ago",
           "trendBreakdown": "evechristmas",
-          "percentageIncrease": "100%"
-        },
-        {
-          "name": "reddit",
-          "relevanceScore": 90,
-          "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "12h ago",
           "percentageIncrease": "100%"
         },
         {
@@ -73,16 +65,16 @@
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "12h ago",
+          "started": "14h ago",
           "percentageIncrease": "100%"
         },
         {
-          "name": "google",
-          "relevanceScore": 85,
+          "name": "reddit",
+          "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "1h ago",
-          "percentageIncrease": "75%"
+          "started": "14h ago",
+          "percentageIncrease": "100%"
         }
       ]
     }

@@ -1,21 +1,21 @@
 {
-  "timestamp": "2025-12-20T12:04:32.397Z",
+  "timestamp": "2025-12-20T14:04:45.148Z",
   "states": [
     {
       "name": "District of Columbia",
       "code": "DC",
-      "topTopic": "christmas",
+      "topTopic": "opm holidays",
       "category": "Law and Government",
-      "trendingScore": 90,
+      "trendingScore": 95,
       "topics": [
         {
-          "name": "christmas",
-          "relevanceScore": 90,
+          "name": "opm holidays",
+          "relevanceScore": 95,
           "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "22h ago",
-          "trendBreakdown": "federal",
-          "percentageIncrease": "100%"
+          "searchVolume": "100+",
+          "started": "23h ago",
+          "trendBreakdown": "trump",
+          "percentageIncrease": "300%"
         }
       ]
     }
