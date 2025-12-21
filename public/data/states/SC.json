@@ -1,19 +1,27 @@
 {
-  "timestamp": "2025-12-21T06:05:01.954Z",
+  "timestamp": "2025-12-21T08:04:45.331Z",
   "states": [
     {
       "name": "South Carolina",
       "code": "SC",
-      "topTopic": "dollar tree",
+      "topTopic": "reddit",
       "category": "Law and Government",
-      "trendingScore": 85,
+      "trendingScore": 90,
       "topics": [
+        {
+          "name": "reddit",
+          "relevanceScore": 90,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "50 minutes ago",
+          "percentageIncrease": "100%"
+        },
         {
           "name": "dollar tree",
           "relevanceScore": 85,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "17h ago",
+          "started": "19h ago",
           "percentageIncrease": "50%"
         }
       ]

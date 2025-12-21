@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-12-21T06:05:01.954Z",
+  "timestamp": "2025-12-21T08:04:45.331Z",
   "states": [
     {
       "name": "Ohio",
@@ -13,8 +13,16 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "19h ago",
+          "started": "21h ago",
           "percentageIncrease": "200%"
+        },
+        {
+          "name": "cincinnati zoo",
+          "relevanceScore": 90,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "9h ago",
+          "percentageIncrease": "100%"
         }
       ]
     }
