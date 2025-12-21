@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-12-21T12:04:42.889Z",
+  "timestamp": "2025-12-21T14:04:41.234Z",
   "states": [
     {
       "name": "Texas",
@@ -13,24 +13,8 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "20h ago",
-          "percentageIncrease": "200%"
-        },
-        {
-          "name": "fox",
-          "relevanceScore": 90,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "10h ago",
-          "percentageIncrease": "100%"
-        },
-        {
-          "name": "dollar tree",
-          "relevanceScore": 85,
-          "category": "Law and Government",
-          "searchVolume": "500+",
           "started": "22h ago",
-          "percentageIncrease": "50%"
+          "percentageIncrease": "200%"
         }
       ]
     }

@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-12-21T12:04:42.889Z",
+  "timestamp": "2025-12-21T14:04:41.234Z",
   "states": [
     {
       "name": "North Carolina",
@@ -13,8 +13,7 @@
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "1h ago",
-          "trendBreakdown": "flu",
+          "started": "3h ago",
           "percentageIncrease": "100%"
         },
         {
@@ -22,16 +21,8 @@
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "3h ago",
+          "started": "5h ago",
           "percentageIncrease": "100%"
-        },
-        {
-          "name": "dollar tree",
-          "relevanceScore": 85,
-          "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "23h ago",
-          "percentageIncrease": "50%"
         }
       ]
     }
