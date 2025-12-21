@@ -1,36 +1,28 @@
 {
-  "timestamp": "2025-12-20T22:04:24.088Z",
+  "timestamp": "2025-12-21T00:05:01.155Z",
   "states": [
     {
       "name": "California",
       "code": "CA",
-      "topTopic": "temecula promenade",
+      "topTopic": "palace hotel",
       "category": "Law and Government",
-      "trendingScore": 95,
+      "trendingScore": 100,
       "topics": [
         {
-          "name": "temecula promenade",
-          "relevanceScore": 95,
+          "name": "palace hotel",
+          "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "23h ago",
-          "trendBreakdown": "promenade",
-          "percentageIncrease": "400%"
+          "started": "1h ago",
+          "trendBreakdown": "palace",
+          "percentageIncrease": "500%"
         },
         {
           "name": "nyc mayor",
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "6h ago",
-          "percentageIncrease": "100%"
-        },
-        {
-          "name": "caltrans",
-          "relevanceScore": 90,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "22h ago",
+          "started": "8h ago",
           "percentageIncrease": "100%"
         },
         {
@@ -38,40 +30,24 @@
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "18h ago",
+          "started": "20h ago",
           "percentageIncrease": "100%"
-        },
-        {
-          "name": "reddit",
-          "relevanceScore": 85,
-          "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "22h ago",
-          "percentageIncrease": "50%"
         }
       ]
     },
     {
       "name": "Arizona",
       "code": "AZ",
-      "topTopic": "elise stefanik",
+      "topTopic": "home depot",
       "category": "Law and Government",
-      "trendingScore": 100,
+      "trendingScore": 85,
       "topics": [
-        {
-          "name": "elise stefanik",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "24h ago",
-          "percentageIncrease": "900%"
-        },
         {
           "name": "home depot",
           "relevanceScore": 85,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "6h ago",
+          "started": "8h ago",
           "percentageIncrease": "50%"
         }
       ]
@@ -88,17 +64,9 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "6h ago",
+          "started": "8h ago",
           "trendBreakdown": "wink",
           "percentageIncrease": "300%"
-        },
-        {
-          "name": "st augustine",
-          "relevanceScore": 85,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "7h ago",
-          "percentageIncrease": "75%"
         }
       ]
     },
@@ -114,49 +82,25 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "15h ago",
+          "started": "17h ago",
           "percentageIncrease": "1000%"
-        },
-        {
-          "name": "delta airlines",
-          "relevanceScore": 90,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "9h ago",
-          "percentageIncrease": "100%"
         }
       ]
     },
     {
       "name": "Illinois",
       "code": "IL",
-      "topTopic": "stefanik",
+      "topTopic": "illinois tollway",
       "category": "Law and Government",
-      "trendingScore": 95,
+      "trendingScore": 90,
       "topics": [
-        {
-          "name": "stefanik",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "22h ago",
-          "percentageIncrease": "300%"
-        },
         {
           "name": "illinois tollway",
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "6h ago",
+          "started": "8h ago",
           "percentageIncrease": "100%"
-        },
-        {
-          "name": "reddit",
-          "relevanceScore": 85,
-          "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "22h ago",
-          "percentageIncrease": "75%"
         }
       ]
     },
@@ -231,24 +175,16 @@
     {
       "name": "Missouri",
       "code": "MO",
-      "topTopic": "elise stefanik",
+      "topTopic": "sonic",
       "category": "Law and Government",
-      "trendingScore": 100,
+      "trendingScore": 85,
       "topics": [
-        {
-          "name": "elise stefanik",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "23h ago",
-          "percentageIncrease": "1000%"
-        },
         {
           "name": "sonic",
           "relevanceScore": 85,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "17h ago",
+          "started": "19h ago",
           "percentageIncrease": "50%"
         }
       ]
@@ -281,25 +217,16 @@
     {
       "name": "North Carolina",
       "code": "NC",
-      "topTopic": "rocky mount nc",
+      "topTopic": "flu symptoms",
       "category": "Law and Government",
       "trendingScore": 95,
       "topics": [
-        {
-          "name": "rocky mount nc",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "20h ago",
-          "trendBreakdown": "trump",
-          "percentageIncrease": "300%"
-        },
         {
           "name": "flu symptoms",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "8h ago",
+          "started": "10h ago",
           "trendBreakdown": "flu",
           "percentageIncrease": "200%"
         }
@@ -317,7 +244,7 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "2K+",
-          "started": "17h ago",
+          "started": "19h ago",
           "trendBreakdown": "rochester",
           "percentageIncrease": "400%"
         },
@@ -326,32 +253,48 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "10h ago",
+          "started": "12h ago",
           "percentageIncrease": "400%"
+        },
+        {
+          "name": "fox",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "1h ago",
+          "percentageIncrease": "200%"
         },
         {
           "name": "stefanik drops out",
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "21h ago",
+          "started": "23h ago",
           "trendBreakdown": "elise",
           "percentageIncrease": "100%"
         },
         {
-          "name": "reddit",
+          "name": "white",
           "relevanceScore": 90,
           "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "22h ago",
+          "searchVolume": "100+",
+          "started": "12h ago",
           "percentageIncrease": "100%"
+        },
+        {
+          "name": "google",
+          "relevanceScore": 85,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "13h ago",
+          "percentageIncrease": "75%"
         },
         {
           "name": "daily mail",
           "relevanceScore": 85,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "11h ago",
+          "started": "13h ago",
           "percentageIncrease": "75%"
         }
       ]
@@ -368,7 +311,7 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "11h ago",
+          "started": "13h ago",
           "percentageIncrease": "200%"
         }
       ]
@@ -402,7 +345,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "8h ago",
+          "started": "10h ago",
           "percentageIncrease": "700%"
         }
       ]
@@ -427,24 +370,16 @@
     {
       "name": "Tennessee",
       "code": "TN",
-      "topTopic": "elise stefanik",
+      "topTopic": "ashley palmer sevierville tn",
       "category": "Law and Government",
-      "trendingScore": 100,
+      "trendingScore": 95,
       "topics": [
-        {
-          "name": "elise stefanik",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "23h ago",
-          "percentageIncrease": "900%"
-        },
         {
           "name": "ashley palmer sevierville tn",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "18h ago",
+          "started": "20h ago",
           "percentageIncrease": "300%"
         },
         {
@@ -452,7 +387,7 @@
           "relevanceScore": 85,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "13h ago",
+          "started": "15h ago",
           "percentageIncrease": "50%"
         }
       ]
@@ -460,32 +395,32 @@
     {
       "name": "Texas",
       "code": "TX",
-      "topTopic": "elise stefanik ny governor",
+      "topTopic": "town east mall",
       "category": "Law and Government",
-      "trendingScore": 100,
+      "trendingScore": 95,
       "topics": [
-        {
-          "name": "elise stefanik ny governor",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "18h ago",
-          "percentageIncrease": "500%"
-        },
         {
           "name": "town east mall",
           "relevanceScore": 95,
           "category": "Law and Government",
+          "searchVolume": "1K+",
+          "started": "8h ago",
+          "percentageIncrease": "300%"
+        },
+        {
+          "name": "katy mills",
+          "relevanceScore": 95,
+          "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "6h ago",
-          "percentageIncrease": "400%"
+          "started": "3h ago",
+          "percentageIncrease": "300%"
         },
         {
           "name": "nigeria",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "16h ago",
+          "started": "18h ago",
           "percentageIncrease": "400%"
         },
         {
@@ -493,40 +428,24 @@
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "20h ago",
+          "started": "22h ago",
           "percentageIncrease": "100%"
-        },
-        {
-          "name": "reddit",
-          "relevanceScore": 85,
-          "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "23h ago",
-          "percentageIncrease": "75%"
         }
       ]
     },
     {
       "name": "Virginia",
       "code": "VA",
-      "topTopic": "reddit",
+      "topTopic": "sonic",
       "category": "Law and Government",
-      "trendingScore": 90,
+      "trendingScore": 85,
       "topics": [
-        {
-          "name": "reddit",
-          "relevanceScore": 90,
-          "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "23h ago",
-          "percentageIncrease": "100%"
-        },
         {
           "name": "sonic",
           "relevanceScore": 85,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "18h ago",
+          "started": "20h ago",
           "percentageIncrease": "75%"
         }
       ]
@@ -595,7 +514,7 @@
           "relevanceScore": 85,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "4h ago",
+          "started": "6h ago",
           "percentageIncrease": "50%"
         }
       ]
@@ -682,7 +601,7 @@
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "7h ago",
+          "started": "9h ago",
           "percentageIncrease": "100%"
         }
       ]
@@ -699,7 +618,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "21h ago",
+          "started": "23h ago",
           "percentageIncrease": "600%"
         }
       ]
@@ -760,24 +679,16 @@
     {
       "name": "Wisconsin",
       "code": "WI",
-      "topTopic": "elise stefanik",
+      "topTopic": "menards",
       "category": "Law and Government",
-      "trendingScore": 100,
+      "trendingScore": 90,
       "topics": [
-        {
-          "name": "elise stefanik",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "23h ago",
-          "percentageIncrease": "800%"
-        },
         {
           "name": "menards",
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "10h ago",
+          "started": "12h ago",
           "percentageIncrease": "100%"
         }
       ]
@@ -1011,7 +922,7 @@
           "relevanceScore": 85,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "10h ago",
+          "started": "12h ago",
           "percentageIncrease": "75%"
         }
       ]

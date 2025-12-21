@@ -1,28 +1,19 @@
 {
-  "timestamp": "2025-12-20T22:04:24.088Z",
+  "timestamp": "2025-12-21T00:05:01.155Z",
   "states": [
     {
       "name": "North Carolina",
       "code": "NC",
-      "topTopic": "rocky mount nc",
+      "topTopic": "flu symptoms",
       "category": "Law and Government",
       "trendingScore": 95,
       "topics": [
-        {
-          "name": "rocky mount nc",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "20h ago",
-          "trendBreakdown": "trump",
-          "percentageIncrease": "300%"
-        },
         {
           "name": "flu symptoms",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "8h ago",
+          "started": "10h ago",
           "trendBreakdown": "flu",
           "percentageIncrease": "200%"
         }

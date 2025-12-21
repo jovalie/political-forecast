@@ -1,27 +1,19 @@
 {
-  "timestamp": "2025-12-20T22:04:24.088Z",
+  "timestamp": "2025-12-21T00:05:01.155Z",
   "states": [
     {
       "name": "Arizona",
       "code": "AZ",
-      "topTopic": "elise stefanik",
+      "topTopic": "home depot",
       "category": "Law and Government",
-      "trendingScore": 100,
+      "trendingScore": 85,
       "topics": [
-        {
-          "name": "elise stefanik",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "24h ago",
-          "percentageIncrease": "900%"
-        },
         {
           "name": "home depot",
           "relevanceScore": 85,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "6h ago",
+          "started": "8h ago",
           "percentageIncrease": "50%"
         }
       ]

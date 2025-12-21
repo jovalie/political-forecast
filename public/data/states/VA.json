@@ -1,27 +1,19 @@
 {
-  "timestamp": "2025-12-20T22:04:24.088Z",
+  "timestamp": "2025-12-21T00:05:01.155Z",
   "states": [
     {
       "name": "Virginia",
       "code": "VA",
-      "topTopic": "reddit",
+      "topTopic": "sonic",
       "category": "Law and Government",
-      "trendingScore": 90,
+      "trendingScore": 85,
       "topics": [
-        {
-          "name": "reddit",
-          "relevanceScore": 90,
-          "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "23h ago",
-          "percentageIncrease": "100%"
-        },
         {
           "name": "sonic",
           "relevanceScore": 85,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "18h ago",
+          "started": "20h ago",
           "percentageIncrease": "75%"
         }
       ]

@@ -1,36 +1,28 @@
 {
-  "timestamp": "2025-12-20T22:04:24.088Z",
+  "timestamp": "2025-12-21T00:05:01.155Z",
   "states": [
     {
       "name": "California",
       "code": "CA",
-      "topTopic": "temecula promenade",
+      "topTopic": "palace hotel",
       "category": "Law and Government",
-      "trendingScore": 95,
+      "trendingScore": 100,
       "topics": [
         {
-          "name": "temecula promenade",
-          "relevanceScore": 95,
+          "name": "palace hotel",
+          "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "23h ago",
-          "trendBreakdown": "promenade",
-          "percentageIncrease": "400%"
+          "started": "1h ago",
+          "trendBreakdown": "palace",
+          "percentageIncrease": "500%"
         },
         {
           "name": "nyc mayor",
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "6h ago",
-          "percentageIncrease": "100%"
-        },
-        {
-          "name": "caltrans",
-          "relevanceScore": 90,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "22h ago",
+          "started": "8h ago",
           "percentageIncrease": "100%"
         },
         {
@@ -38,16 +30,8 @@
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "18h ago",
+          "started": "20h ago",
           "percentageIncrease": "100%"
-        },
-        {
-          "name": "reddit",
-          "relevanceScore": 85,
-          "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "22h ago",
-          "percentageIncrease": "50%"
         }
       ]
     }

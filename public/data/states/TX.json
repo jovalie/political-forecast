@@ -1,35 +1,35 @@
 {
-  "timestamp": "2025-12-20T22:04:24.088Z",
+  "timestamp": "2025-12-21T00:05:01.155Z",
   "states": [
     {
       "name": "Texas",
       "code": "TX",
-      "topTopic": "elise stefanik ny governor",
+      "topTopic": "town east mall",
       "category": "Law and Government",
-      "trendingScore": 100,
+      "trendingScore": 95,
       "topics": [
-        {
-          "name": "elise stefanik ny governor",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "18h ago",
-          "percentageIncrease": "500%"
-        },
         {
           "name": "town east mall",
           "relevanceScore": 95,
           "category": "Law and Government",
+          "searchVolume": "1K+",
+          "started": "8h ago",
+          "percentageIncrease": "300%"
+        },
+        {
+          "name": "katy mills",
+          "relevanceScore": 95,
+          "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "6h ago",
-          "percentageIncrease": "400%"
+          "started": "3h ago",
+          "percentageIncrease": "300%"
         },
         {
           "name": "nigeria",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "16h ago",
+          "started": "18h ago",
           "percentageIncrease": "400%"
         },
         {
@@ -37,16 +37,8 @@
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "20h ago",
+          "started": "22h ago",
           "percentageIncrease": "100%"
-        },
-        {
-          "name": "reddit",
-          "relevanceScore": 85,
-          "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "23h ago",
-          "percentageIncrease": "75%"
         }
       ]
     }

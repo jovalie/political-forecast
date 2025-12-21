@@ -1,27 +1,19 @@
 {
-  "timestamp": "2025-12-20T22:04:24.088Z",
+  "timestamp": "2025-12-21T00:05:01.155Z",
   "states": [
     {
       "name": "Wisconsin",
       "code": "WI",
-      "topTopic": "elise stefanik",
+      "topTopic": "menards",
       "category": "Law and Government",
-      "trendingScore": 100,
+      "trendingScore": 90,
       "topics": [
-        {
-          "name": "elise stefanik",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "23h ago",
-          "percentageIncrease": "800%"
-        },
         {
           "name": "menards",
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "10h ago",
+          "started": "12h ago",
           "percentageIncrease": "100%"
         }
       ]
