@@ -1,27 +1,19 @@
 {
-  "timestamp": "2025-12-21T10:04:24.824Z",
+  "timestamp": "2025-12-21T12:04:42.889Z",
   "states": [
     {
       "name": "Alabama",
       "code": "AL",
-      "topTopic": "sonic",
+      "topTopic": "dollar tree",
       "category": "Law and Government",
       "trendingScore": 85,
       "topics": [
-        {
-          "name": "sonic",
-          "relevanceScore": 85,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "5h ago",
-          "percentageIncrease": "75%"
-        },
         {
           "name": "dollar tree",
           "relevanceScore": 85,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "20h ago",
+          "started": "22h ago",
           "percentageIncrease": "75%"
         }
       ]

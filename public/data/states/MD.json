@@ -1,20 +1,20 @@
 {
-  "timestamp": "2025-12-21T10:04:24.824Z",
+  "timestamp": "2025-12-21T12:04:42.889Z",
   "states": [
     {
       "name": "Maryland",
       "code": "MD",
-      "topTopic": "stefanik",
+      "topTopic": "fox",
       "category": "Law and Government",
-      "trendingScore": 100,
+      "trendingScore": 95,
       "topics": [
         {
-          "name": "stefanik",
-          "relevanceScore": 100,
+          "name": "fox",
+          "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "23h ago",
-          "percentageIncrease": "500%"
+          "started": "13h ago",
+          "percentageIncrease": "400%"
         }
       ]
     }

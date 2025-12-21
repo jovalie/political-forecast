@@ -1,27 +1,19 @@
 {
-  "timestamp": "2025-12-21T10:04:24.824Z",
+  "timestamp": "2025-12-21T12:04:42.889Z",
   "states": [
     {
       "name": "Ohio",
       "code": "OH",
-      "topTopic": "shane newman",
+      "topTopic": "cincinnati zoo",
       "category": "Law and Government",
-      "trendingScore": 95,
+      "trendingScore": 90,
       "topics": [
-        {
-          "name": "shane newman",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "23h ago",
-          "percentageIncrease": "200%"
-        },
         {
           "name": "cincinnati zoo",
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "11h ago",
+          "started": "13h ago",
           "percentageIncrease": "100%"
         }
       ]

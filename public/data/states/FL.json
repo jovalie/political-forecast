@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-12-21T10:04:24.824Z",
+  "timestamp": "2025-12-21T12:04:42.889Z",
   "states": [
     {
       "name": "Florida",
@@ -13,9 +13,17 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "18h ago",
-          "trendBreakdown": "wink",
+          "started": "20h ago",
+          "trendBreakdown": "missing",
           "percentageIncrease": "300%"
+        },
+        {
+          "name": "new york times",
+          "relevanceScore": 85,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "4h ago",
+          "percentageIncrease": "75%"
         }
       ]
     }

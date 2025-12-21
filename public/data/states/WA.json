@@ -1,19 +1,27 @@
 {
-  "timestamp": "2025-12-21T10:04:24.824Z",
+  "timestamp": "2025-12-21T12:04:42.889Z",
   "states": [
     {
       "name": "Washington",
       "code": "WA",
-      "topTopic": "home depot",
+      "topTopic": "unemployment",
       "category": "Law and Government",
-      "trendingScore": 85,
+      "trendingScore": 90,
       "topics": [
+        {
+          "name": "unemployment",
+          "relevanceScore": 90,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "3h ago",
+          "percentageIncrease": "100%"
+        },
         {
           "name": "home depot",
           "relevanceScore": 85,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "16h ago",
+          "started": "18h ago",
           "percentageIncrease": "50%"
         }
       ]
