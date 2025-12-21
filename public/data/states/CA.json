@@ -1,37 +1,37 @@
 {
-  "timestamp": "2025-12-21T02:40:24.533Z",
+  "timestamp": "2025-12-21T04:16:51.767Z",
   "states": [
     {
       "name": "California",
       "code": "CA",
       "topTopic": "palace hotel",
       "category": "Law and Government",
-      "trendingScore": 100,
+      "trendingScore": 95,
       "topics": [
         {
           "name": "palace hotel",
-          "relevanceScore": 100,
+          "relevanceScore": 95,
           "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "4h ago",
+          "searchVolume": "2K+",
+          "started": "5h ago",
           "trendBreakdown": "palace",
-          "percentageIncrease": "500%"
+          "percentageIncrease": "400%"
         },
         {
           "name": "nyc mayor",
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "10h ago",
+          "started": "12h ago",
           "percentageIncrease": "100%"
         },
         {
-          "name": "mall",
-          "relevanceScore": 90,
+          "name": "dollar tree",
+          "relevanceScore": 85,
           "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "22h ago",
-          "percentageIncrease": "100%"
+          "searchVolume": "1K+",
+          "started": "12h ago",
+          "percentageIncrease": "50%"
         }
       ]
     }

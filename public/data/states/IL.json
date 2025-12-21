@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-12-21T02:40:24.533Z",
+  "timestamp": "2025-12-21T04:16:51.767Z",
   "states": [
     {
       "name": "Illinois",
@@ -13,8 +13,16 @@
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "11h ago",
+          "started": "12h ago",
           "percentageIncrease": "100%"
+        },
+        {
+          "name": "dollar tree",
+          "relevanceScore": 85,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "14h ago",
+          "percentageIncrease": "50%"
         }
       ]
     }

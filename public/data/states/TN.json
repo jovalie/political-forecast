@@ -1,27 +1,19 @@
 {
-  "timestamp": "2025-12-21T02:40:24.533Z",
+  "timestamp": "2025-12-21T04:16:51.767Z",
   "states": [
     {
       "name": "Tennessee",
       "code": "TN",
-      "topTopic": "ashley palmer sevierville tn",
+      "topTopic": "reddit",
       "category": "Law and Government",
-      "trendingScore": 95,
+      "trendingScore": 85,
       "topics": [
-        {
-          "name": "ashley palmer sevierville tn",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "22h ago",
-          "percentageIncrease": "300%"
-        },
         {
           "name": "reddit",
           "relevanceScore": 85,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "17h ago",
+          "started": "19h ago",
           "percentageIncrease": "50%"
         }
       ]

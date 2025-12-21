@@ -1,21 +1,20 @@
 {
-  "timestamp": "2025-12-21T02:40:24.533Z",
+  "timestamp": "2025-12-21T04:16:51.767Z",
   "states": [
     {
       "name": "District of Columbia",
       "code": "DC",
-      "topTopic": "opm holidays",
+      "topTopic": "dollar tree",
       "category": "Law and Government",
-      "trendingScore": 95,
+      "trendingScore": 85,
       "topics": [
         {
-          "name": "opm holidays",
-          "relevanceScore": 95,
+          "name": "dollar tree",
+          "relevanceScore": 85,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "23h ago",
-          "trendBreakdown": "trump",
-          "percentageIncrease": "300%"
+          "started": "15h ago",
+          "percentageIncrease": "75%"
         }
       ]
     }
