@@ -1,19 +1,28 @@
 {
-  "timestamp": "2025-12-21T20:04:35.124Z",
+  "timestamp": "2025-12-21T22:04:30.000Z",
   "states": [
     {
       "name": "California",
       "code": "CA",
-      "topTopic": "palace hotel",
+      "topTopic": "sunvalley mall",
       "category": "Law and Government",
       "trendingScore": 95,
       "topics": [
+        {
+          "name": "sunvalley mall",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "2h ago",
+          "trendBreakdown": "sun",
+          "percentageIncrease": "400%"
+        },
         {
           "name": "palace hotel",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "2K+",
-          "started": "21h ago",
+          "started": "23h ago",
           "trendBreakdown": "palace",
           "percentageIncrease": "300%"
         },
@@ -22,7 +31,7 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "17h ago",
+          "started": "19h ago",
           "percentageIncrease": "200%"
         },
         {
@@ -30,8 +39,7 @@
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "21h ago",
-          "trendBreakdown": "world",
+          "started": "23h ago",
           "percentageIncrease": "100%"
         },
         {
@@ -39,7 +47,7 @@
           "relevanceScore": 85,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "4h ago",
+          "started": "6h ago",
           "percentageIncrease": "50%"
         }
       ]
