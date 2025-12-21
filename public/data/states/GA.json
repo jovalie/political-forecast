@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-12-21T14:04:41.234Z",
+  "timestamp": "2025-12-21T16:04:28.263Z",
   "states": [
     {
       "name": "Georgia",
@@ -13,8 +13,16 @@
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "3h ago",
+          "started": "5h ago",
           "percentageIncrease": "100%"
+        },
+        {
+          "name": "dollar tree",
+          "relevanceScore": 85,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "2h ago",
+          "percentageIncrease": "75%"
         }
       ]
     }

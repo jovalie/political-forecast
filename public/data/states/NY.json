@@ -1,37 +1,35 @@
 {
-  "timestamp": "2025-12-21T14:04:41.234Z",
+  "timestamp": "2025-12-21T16:04:28.263Z",
   "states": [
     {
       "name": "New York",
       "code": "NY",
-      "topTopic": "flu a symptoms",
+      "topTopic": "seneca falls",
       "category": "Law and Government",
-      "trendingScore": 95,
+      "trendingScore": 100,
       "topics": [
         {
-          "name": "flu a symptoms",
-          "relevanceScore": 95,
+          "name": "seneca falls",
+          "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "22h ago",
-          "trendBreakdown": "flu",
-          "percentageIncrease": "200%"
+          "searchVolume": "500+",
+          "started": "1h ago",
+          "percentageIncrease": "1000%"
         },
         {
-          "name": "rochester police officers shot",
+          "name": "flu a",
           "relevanceScore": 90,
           "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "18h ago",
-          "trendBreakdown": "rochester",
+          "searchVolume": "100+",
+          "started": "4h ago",
           "percentageIncrease": "100%"
         },
         {
-          "name": "dollar tree",
+          "name": "unemployment",
           "relevanceScore": 85,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "23h ago",
+          "started": "5h ago",
           "percentageIncrease": "50%"
         }
       ]

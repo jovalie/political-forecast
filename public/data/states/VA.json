@@ -1,20 +1,20 @@
 {
-  "timestamp": "2025-12-21T14:04:41.234Z",
+  "timestamp": "2025-12-21T16:04:28.263Z",
   "states": [
     {
       "name": "Virginia",
       "code": "VA",
-      "topTopic": "washington post",
+      "topTopic": "dollar tree",
       "category": "Law and Government",
-      "trendingScore": 90,
+      "trendingScore": 85,
       "topics": [
         {
-          "name": "washington post",
-          "relevanceScore": 90,
+          "name": "dollar tree",
+          "relevanceScore": 85,
           "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "40 minutes ago",
-          "percentageIncrease": "100%"
+          "searchVolume": "500+",
+          "started": "3h ago",
+          "percentageIncrease": "75%"
         }
       ]
     }
