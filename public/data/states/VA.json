@@ -1,19 +1,27 @@
 {
-  "timestamp": "2025-12-21T00:05:01.155Z",
+  "timestamp": "2025-12-21T02:40:24.533Z",
   "states": [
     {
       "name": "Virginia",
       "code": "VA",
-      "topTopic": "sonic",
+      "topTopic": "hardees",
       "category": "Law and Government",
-      "trendingScore": 85,
+      "trendingScore": 90,
       "topics": [
+        {
+          "name": "hardees",
+          "relevanceScore": 90,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "16h ago",
+          "percentageIncrease": "100%"
+        },
         {
           "name": "sonic",
           "relevanceScore": 85,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "20h ago",
+          "started": "23h ago",
           "percentageIncrease": "75%"
         }
       ]

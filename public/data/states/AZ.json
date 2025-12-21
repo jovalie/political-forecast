@@ -1,19 +1,27 @@
 {
-  "timestamp": "2025-12-21T00:05:01.155Z",
+  "timestamp": "2025-12-21T02:40:24.533Z",
   "states": [
     {
       "name": "Arizona",
       "code": "AZ",
-      "topTopic": "home depot",
+      "topTopic": "tulsi gabbard",
       "category": "Law and Government",
-      "trendingScore": 85,
+      "trendingScore": 100,
       "topics": [
+        {
+          "name": "tulsi gabbard",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "2h ago",
+          "percentageIncrease": "900%"
+        },
         {
           "name": "home depot",
           "relevanceScore": 85,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "8h ago",
+          "started": "10h ago",
           "percentageIncrease": "50%"
         }
       ]
