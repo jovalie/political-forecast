@@ -1,19 +1,28 @@
 {
-  "timestamp": "2025-12-21T16:04:28.263Z",
+  "timestamp": "2025-12-21T18:04:38.035Z",
   "states": [
     {
       "name": "Florida",
       "code": "FL",
-      "topTopic": "gaylord palms",
+      "topTopic": "missing boaters fort myers",
       "category": "Law and Government",
-      "trendingScore": 90,
+      "trendingScore": 95,
       "topics": [
+        {
+          "name": "missing boaters fort myers",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "6h ago",
+          "trendBreakdown": "missing",
+          "percentageIncrease": "300%"
+        },
         {
           "name": "gaylord palms",
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "3h ago",
+          "started": "5h ago",
           "percentageIncrease": "100%"
         },
         {
@@ -21,7 +30,7 @@
           "relevanceScore": 85,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "3h ago",
+          "started": "5h ago",
           "percentageIncrease": "50%"
         }
       ]
