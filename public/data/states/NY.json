@@ -1,36 +1,36 @@
 {
-  "timestamp": "2025-12-21T04:16:51.767Z",
+  "timestamp": "2025-12-21T06:05:01.954Z",
   "states": [
     {
       "name": "New York",
       "code": "NY",
-      "topTopic": "rochester ny news",
+      "topTopic": "denmark childhood vaccines",
       "category": "Law and Government",
       "trendingScore": 95,
       "topics": [
-        {
-          "name": "rochester ny news",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "2K+",
-          "started": "23h ago",
-          "trendBreakdown": "rochester",
-          "percentageIncrease": "400%"
-        },
         {
           "name": "denmark childhood vaccines",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "16h ago",
+          "started": "18h ago",
           "percentageIncrease": "400%"
         },
         {
-          "name": "chicago",
+          "name": "rochester police officers shot",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "1K+",
+          "started": "12h ago",
+          "trendBreakdown": "rochester",
+          "percentageIncrease": "200%"
+        },
+        {
+          "name": "white",
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "2h ago",
+          "started": "18h ago",
           "percentageIncrease": "100%"
         },
         {
@@ -38,7 +38,7 @@
           "relevanceScore": 85,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "15h ago",
+          "started": "17h ago",
           "percentageIncrease": "50%"
         },
         {
@@ -46,7 +46,7 @@
           "relevanceScore": 85,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "17h ago",
+          "started": "19h ago",
           "percentageIncrease": "75%"
         },
         {
@@ -54,7 +54,7 @@
           "relevanceScore": 85,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "17h ago",
+          "started": "19h ago",
           "percentageIncrease": "75%"
         }
       ]
