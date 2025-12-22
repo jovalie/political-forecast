@@ -1,43 +1,35 @@
 {
-  "timestamp": "2025-12-22T12:04:38.656Z",
+  "timestamp": "2025-12-22T14:04:46.943Z",
   "states": [
     {
       "name": "New York",
       "code": "NY",
-      "topTopic": "nbc",
+      "topTopic": "madhu gottumukkala cisa polygraph",
       "category": "Law and Government",
       "trendingScore": 95,
       "topics": [
-        {
-          "name": "nbc",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "9h ago",
-          "percentageIncrease": "400%"
-        },
         {
           "name": "madhu gottumukkala cisa polygraph",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "7h ago",
+          "started": "11h ago",
           "percentageIncrease": "200%"
         },
         {
-          "name": "flu a",
+          "name": "is christmas eve a federal holiday",
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "22h ago",
+          "started": "2h ago",
           "percentageIncrease": "100%"
         },
         {
-          "name": "unemployment",
+          "name": "flu symptoms",
           "relevanceScore": 85,
           "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "23h ago",
+          "searchVolume": "100+",
+          "started": "2h ago",
           "percentageIncrease": "50%"
         }
       ]

@@ -1,20 +1,20 @@
 {
-  "timestamp": "2025-12-22T12:04:38.656Z",
+  "timestamp": "2025-12-22T14:04:46.943Z",
   "states": [
     {
       "name": "Tennessee",
       "code": "TN",
-      "topTopic": "reddit",
+      "topTopic": "kyle chrisley",
       "category": "Law and Government",
-      "trendingScore": 85,
+      "trendingScore": 90,
       "topics": [
         {
-          "name": "reddit",
-          "relevanceScore": 85,
+          "name": "kyle chrisley",
+          "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "23h ago",
-          "percentageIncrease": "50%"
+          "started": "2h ago",
+          "percentageIncrease": "100%"
         }
       ]
     }

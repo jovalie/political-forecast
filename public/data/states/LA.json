@@ -1,20 +1,21 @@
 {
-  "timestamp": "2025-12-22T12:04:38.656Z",
+  "timestamp": "2025-12-22T14:04:46.943Z",
   "states": [
     {
       "name": "Louisiana",
       "code": "LA",
-      "topTopic": "dollar tree",
+      "topTopic": "jeff landry",
       "category": "Law and Government",
-      "trendingScore": 85,
+      "trendingScore": 100,
       "topics": [
         {
-          "name": "dollar tree",
-          "relevanceScore": 85,
+          "name": "jeff landry",
+          "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "22h ago",
-          "percentageIncrease": "50%"
+          "searchVolume": "500+",
+          "started": "10h ago",
+          "trendBreakdown": "landry",
+          "percentageIncrease": "600%"
         }
       ]
     }
