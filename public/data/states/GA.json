@@ -1,19 +1,27 @@
 {
-  "timestamp": "2025-12-21T22:04:30.000Z",
+  "timestamp": "2025-12-22T00:05:03.952Z",
   "states": [
     {
       "name": "Georgia",
       "code": "GA",
-      "topTopic": "reddit",
+      "topTopic": "atlanta airport",
       "category": "Law and Government",
-      "trendingScore": 90,
+      "trendingScore": 95,
       "topics": [
+        {
+          "name": "atlanta airport",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "30 minutes ago",
+          "percentageIncrease": "200%"
+        },
         {
           "name": "reddit",
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "11h ago",
+          "started": "13h ago",
           "percentageIncrease": "100%"
         },
         {
@@ -21,7 +29,7 @@
           "relevanceScore": 85,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "8h ago",
+          "started": "10h ago",
           "percentageIncrease": "75%"
         }
       ]

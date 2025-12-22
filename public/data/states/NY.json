@@ -1,27 +1,19 @@
 {
-  "timestamp": "2025-12-21T22:04:30.000Z",
+  "timestamp": "2025-12-22T00:05:03.952Z",
   "states": [
     {
       "name": "New York",
       "code": "NY",
-      "topTopic": "seneca falls",
+      "topTopic": "knickerbocker village",
       "category": "Law and Government",
-      "trendingScore": 100,
+      "trendingScore": 95,
       "topics": [
-        {
-          "name": "seneca falls",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "7h ago",
-          "percentageIncrease": "1000%"
-        },
         {
           "name": "knickerbocker village",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "17h ago",
+          "started": "19h ago",
           "percentageIncrease": "200%"
         },
         {
@@ -29,24 +21,7 @@
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "10h ago",
-          "percentageIncrease": "100%"
-        },
-        {
-          "name": "nypd",
-          "relevanceScore": 90,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "13h ago",
-          "trendBreakdown": "new",
-          "percentageIncrease": "100%"
-        },
-        {
-          "name": "por",
-          "relevanceScore": 90,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "15h ago",
+          "started": "12h ago",
           "percentageIncrease": "100%"
         },
         {
@@ -54,7 +29,7 @@
           "relevanceScore": 85,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "11h ago",
+          "started": "13h ago",
           "percentageIncrease": "50%"
         }
       ]

@@ -1,27 +1,19 @@
 {
-  "timestamp": "2025-12-21T22:04:30.000Z",
+  "timestamp": "2025-12-22T00:05:03.952Z",
   "states": [
     {
       "name": "Massachusetts",
       "code": "MA",
-      "topTopic": "fox",
+      "topTopic": "dollar tree",
       "category": "Law and Government",
-      "trendingScore": 95,
+      "trendingScore": 85,
       "topics": [
-        {
-          "name": "fox",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "23h ago",
-          "percentageIncrease": "200%"
-        },
         {
           "name": "dollar tree",
           "relevanceScore": 85,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "8h ago",
+          "started": "10h ago",
           "percentageIncrease": "75%"
         }
       ]
