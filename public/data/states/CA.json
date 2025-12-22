@@ -1,36 +1,69 @@
 {
-  "timestamp": "2025-12-22T02:40:17.093Z",
+  "timestamp": "2025-12-22T04:18:36.451Z",
   "states": [
     {
       "name": "California",
       "code": "CA",
-      "topTopic": "sunvalley mall",
+      "topTopic": "airport",
       "category": "Law and Government",
-      "trendingScore": 95,
+      "trendingScore": 100,
       "topics": [
+        {
+          "name": "airport",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "1h ago",
+          "percentageIncrease": "600%"
+        },
         {
           "name": "sunvalley mall",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "6h ago",
+          "started": "8h ago",
           "trendBreakdown": "sun",
           "percentageIncrease": "300%"
         },
         {
-          "name": "danville earthquake",
-          "relevanceScore": 95,
+          "name": "nbc",
+          "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "23h ago",
-          "percentageIncrease": "200%"
+          "started": "2h ago",
+          "percentageIncrease": "100%"
+        },
+        {
+          "name": "cambodia",
+          "relevanceScore": 90,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "5h ago",
+          "percentageIncrease": "100%"
+        },
+        {
+          "name": "the guardian",
+          "relevanceScore": 90,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "11h ago",
+          "percentageIncrease": "100%"
+        },
+        {
+          "name": "world news",
+          "relevanceScore": 90,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "12h ago",
+          "trendBreakdown": "breaking",
+          "percentageIncrease": "100%"
         },
         {
           "name": "dollar tree",
           "relevanceScore": 85,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "11h ago",
+          "started": "12h ago",
           "percentageIncrease": "50%"
         }
       ]

@@ -1,19 +1,27 @@
 {
-  "timestamp": "2025-12-22T02:40:17.093Z",
+  "timestamp": "2025-12-22T04:18:36.451Z",
   "states": [
     {
       "name": "Illinois",
       "code": "IL",
-      "topTopic": "dollar tree",
+      "topTopic": "airport",
       "category": "Law and Government",
-      "trendingScore": 85,
+      "trendingScore": 100,
       "topics": [
+        {
+          "name": "airport",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "40 minutes ago",
+          "percentageIncrease": "800%"
+        },
         {
           "name": "dollar tree",
           "relevanceScore": 85,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "12h ago",
+          "started": "14h ago",
           "percentageIncrease": "50%"
         }
       ]

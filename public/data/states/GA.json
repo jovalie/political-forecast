@@ -1,28 +1,28 @@
 {
-  "timestamp": "2025-12-22T02:40:17.093Z",
+  "timestamp": "2025-12-22T04:18:36.451Z",
   "states": [
     {
       "name": "Georgia",
       "code": "GA",
-      "topTopic": "atlanta airport",
+      "topTopic": "atlanta airport shooting",
       "category": "Law and Government",
       "trendingScore": 95,
       "topics": [
         {
-          "name": "atlanta airport",
+          "name": "atlanta airport shooting",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "500+",
           "started": "3h ago",
           "trendBreakdown": "atlanta",
-          "percentageIncrease": "200%"
+          "percentageIncrease": "400%"
         },
         {
           "name": "reddit",
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "15h ago",
+          "started": "17h ago",
           "percentageIncrease": "100%"
         },
         {
@@ -30,7 +30,7 @@
           "relevanceScore": 85,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "13h ago",
+          "started": "14h ago",
           "percentageIncrease": "75%"
         }
       ]
