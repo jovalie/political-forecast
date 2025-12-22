@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-12-22T14:04:46.943Z",
+  "timestamp": "2025-12-22T16:04:33.370Z",
   "states": [
     {
       "name": "New York",
@@ -13,15 +13,24 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "11h ago",
+          "started": "13h ago",
           "percentageIncrease": "200%"
         },
         {
-          "name": "is christmas eve a federal holiday",
+          "name": "greenland",
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "2h ago",
+          "started": "1h ago",
+          "trendBreakdown": "jeff",
+          "percentageIncrease": "100%"
+        },
+        {
+          "name": "new york times",
+          "relevanceScore": 90,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "8h ago",
           "percentageIncrease": "100%"
         },
         {
@@ -29,7 +38,7 @@
           "relevanceScore": 85,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "2h ago",
+          "started": "4h ago",
           "percentageIncrease": "50%"
         }
       ]

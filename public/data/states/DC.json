@@ -1,20 +1,21 @@
 {
-  "timestamp": "2025-12-22T14:04:46.943Z",
+  "timestamp": "2025-12-22T16:04:33.370Z",
   "states": [
     {
       "name": "District of Columbia",
       "code": "DC",
-      "topTopic": "dollar tree",
+      "topTopic": "jeff landry",
       "category": "Law and Government",
-      "trendingScore": 85,
+      "trendingScore": 95,
       "topics": [
         {
-          "name": "dollar tree",
-          "relevanceScore": 85,
+          "name": "jeff landry",
+          "relevanceScore": 95,
           "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "22h ago",
-          "percentageIncrease": "75%"
+          "searchVolume": "100+",
+          "started": "1h ago",
+          "trendBreakdown": "news",
+          "percentageIncrease": "200%"
         }
       ]
     }

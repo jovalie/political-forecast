@@ -1,19 +1,27 @@
 {
-  "timestamp": "2025-12-22T14:04:46.943Z",
+  "timestamp": "2025-12-22T16:04:33.370Z",
   "states": [
     {
       "name": "Virginia",
       "code": "VA",
-      "topTopic": "car",
+      "topTopic": "amber alert",
       "category": "Law and Government",
-      "trendingScore": 95,
+      "trendingScore": 100,
       "topics": [
+        {
+          "name": "amber alert",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "50 minutes ago",
+          "percentageIncrease": "900%"
+        },
         {
           "name": "car",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "11h ago",
+          "started": "13h ago",
           "percentageIncrease": "400%"
         }
       ]

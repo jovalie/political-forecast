@@ -1,21 +1,21 @@
 {
-  "timestamp": "2025-12-22T14:04:46.943Z",
+  "timestamp": "2025-12-22T16:04:33.370Z",
   "states": [
     {
       "name": "Louisiana",
       "code": "LA",
-      "topTopic": "jeff landry",
+      "topTopic": "greenland",
       "category": "Law and Government",
-      "trendingScore": 100,
+      "trendingScore": 95,
       "topics": [
         {
-          "name": "jeff landry",
-          "relevanceScore": 100,
+          "name": "greenland",
+          "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "10h ago",
-          "trendBreakdown": "landry",
-          "percentageIncrease": "600%"
+          "started": "3h ago",
+          "trendBreakdown": "jeff",
+          "percentageIncrease": "400%"
         }
       ]
     }
