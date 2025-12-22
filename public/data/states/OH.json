@@ -1,28 +1,21 @@
 {
-  "timestamp": "2025-12-22T18:04:53.234Z",
+  "timestamp": "2025-12-22T20:04:49.143Z",
   "states": [
     {
       "name": "Ohio",
       "code": "OH",
-      "topTopic": "southpark mall",
+      "topTopic": "richland source",
       "category": "Law and Government",
       "trendingScore": 95,
       "topics": [
         {
-          "name": "southpark mall",
+          "name": "richland source",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
           "started": "7h ago",
+          "trendBreakdown": "mansfield",
           "percentageIncrease": "200%"
-        },
-        {
-          "name": "cincinnati zoo",
-          "relevanceScore": 90,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "23h ago",
-          "percentageIncrease": "100%"
         }
       ]
     }

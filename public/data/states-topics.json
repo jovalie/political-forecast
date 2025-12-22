@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-12-22T18:04:53.234Z",
+  "timestamp": "2025-12-22T20:04:49.143Z",
   "states": [
     {
       "name": "California",
@@ -13,7 +13,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "15h ago",
+          "started": "17h ago",
           "percentageIncrease": "600%"
         },
         {
@@ -21,15 +21,31 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "15h ago",
+          "started": "17h ago",
           "percentageIncrease": "600%"
+        },
+        {
+          "name": "airport",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "17h ago",
+          "percentageIncrease": "600%"
+        },
+        {
+          "name": "greenland",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "4h ago",
+          "percentageIncrease": "200%"
         },
         {
           "name": "victor valley mall",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "14h ago",
+          "started": "16h ago",
           "trendBreakdown": "victorville",
           "percentageIncrease": "400%"
         },
@@ -38,7 +54,7 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "22h ago",
+          "started": "24h ago",
           "trendBreakdown": "sun",
           "percentageIncrease": "300%"
         },
@@ -46,8 +62,17 @@
           "name": "is christmas eve a federal holiday",
           "relevanceScore": 90,
           "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "2h ago",
+          "trendBreakdown": "christmas",
+          "percentageIncrease": "100%"
+        },
+        {
+          "name": "redheaded blackbelt",
+          "relevanceScore": 90,
+          "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "50 minutes ago",
+          "started": "4h ago",
           "percentageIncrease": "100%"
         },
         {
@@ -55,8 +80,16 @@
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "19h ago",
+          "started": "21h ago",
           "percentageIncrease": "100%"
+        },
+        {
+          "name": "san diego",
+          "relevanceScore": 85,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "3h ago",
+          "percentageIncrease": "50%"
         }
       ]
     },
@@ -80,49 +113,49 @@
     {
       "name": "Florida",
       "code": "FL",
-      "topTopic": "carel pedre arrests",
+      "topTopic": "is christmas eve a federal holiday",
       "category": "Law and Government",
-      "trendingScore": 100,
+      "trendingScore": 95,
       "topics": [
-        {
-          "name": "carel pedre arrests",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "23h ago",
-          "percentageIncrease": "500%"
-        },
         {
           "name": "is christmas eve a federal holiday",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "5h ago",
+          "started": "7h ago",
           "percentageIncrease": "200%"
         },
         {
-          "name": "donovan metayer",
-          "relevanceScore": 95,
+          "name": "greenland",
+          "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "6h ago",
-          "percentageIncrease": "200%"
+          "started": "2h ago",
+          "percentageIncrease": "100%"
         }
       ]
     },
     {
       "name": "Georgia",
       "code": "GA",
-      "topTopic": "atlanta airport",
+      "topTopic": "dekalb county jail",
       "category": "Law and Government",
-      "trendingScore": 95,
+      "trendingScore": 100,
       "topics": [
+        {
+          "name": "dekalb county jail",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "4h ago",
+          "percentageIncrease": "500%"
+        },
         {
           "name": "atlanta airport",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "18h ago",
+          "started": "20h ago",
           "trendBreakdown": "atlanta",
           "percentageIncrease": "200%"
         },
@@ -131,7 +164,7 @@
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "1h ago",
+          "started": "3h ago",
           "trendBreakdown": "flu",
           "percentageIncrease": "100%"
         },
@@ -140,7 +173,7 @@
           "relevanceScore": 85,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "10h ago",
+          "started": "12h ago",
           "percentageIncrease": "50%"
         }
       ]
@@ -174,7 +207,7 @@
           "relevanceScore": 85,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "11h ago",
+          "started": "13h ago",
           "percentageIncrease": "75%"
         }
       ]
@@ -301,15 +334,23 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "15h ago",
+          "started": "17h ago",
           "percentageIncrease": "200%"
+        },
+        {
+          "name": "new york times",
+          "relevanceScore": 90,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "12h ago",
+          "percentageIncrease": "100%"
         },
         {
           "name": "flu symptoms",
           "relevanceScore": 85,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "6h ago",
+          "started": "8h ago",
           "percentageIncrease": "50%"
         }
       ]
@@ -317,25 +358,18 @@
     {
       "name": "Ohio",
       "code": "OH",
-      "topTopic": "southpark mall",
+      "topTopic": "richland source",
       "category": "Law and Government",
       "trendingScore": 95,
       "topics": [
         {
-          "name": "southpark mall",
+          "name": "richland source",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
           "started": "7h ago",
+          "trendBreakdown": "mansfield",
           "percentageIncrease": "200%"
-        },
-        {
-          "name": "cincinnati zoo",
-          "relevanceScore": 90,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "23h ago",
-          "percentageIncrease": "100%"
         }
       ]
     },
@@ -420,7 +454,7 @@
           "relevanceScore": 85,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "9h ago",
+          "started": "11h ago",
           "percentageIncrease": "50%"
         },
         {
@@ -428,7 +462,7 @@
           "relevanceScore": 85,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "6h ago",
+          "started": "8h ago",
           "percentageIncrease": "50%"
         }
       ]
@@ -445,7 +479,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "2h ago",
+          "started": "4h ago",
           "percentageIncrease": "900%"
         },
         {
@@ -453,7 +487,7 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "15h ago",
+          "started": "17h ago",
           "percentageIncrease": "400%"
         }
       ]
@@ -623,7 +657,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "14h ago",
+          "started": "16h ago",
           "trendBreakdown": "landry",
           "percentageIncrease": "600%"
         }
