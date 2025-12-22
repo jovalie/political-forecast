@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-12-22T16:04:33.370Z",
+  "timestamp": "2025-12-22T18:04:53.234Z",
   "states": [
     {
       "name": "New York",
@@ -13,32 +13,15 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "13h ago",
+          "started": "15h ago",
           "percentageIncrease": "200%"
-        },
-        {
-          "name": "greenland",
-          "relevanceScore": 90,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "1h ago",
-          "trendBreakdown": "jeff",
-          "percentageIncrease": "100%"
-        },
-        {
-          "name": "new york times",
-          "relevanceScore": 90,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "8h ago",
-          "percentageIncrease": "100%"
         },
         {
           "name": "flu symptoms",
           "relevanceScore": 85,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "4h ago",
+          "started": "6h ago",
           "percentageIncrease": "50%"
         }
       ]

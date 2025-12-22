@@ -1,21 +1,20 @@
 {
-  "timestamp": "2025-12-22T16:04:33.370Z",
+  "timestamp": "2025-12-22T18:04:53.234Z",
   "states": [
     {
       "name": "District of Columbia",
       "code": "DC",
-      "topTopic": "jeff landry",
+      "topTopic": "fox news",
       "category": "Law and Government",
-      "trendingScore": 95,
+      "trendingScore": 85,
       "topics": [
         {
-          "name": "jeff landry",
-          "relevanceScore": 95,
+          "name": "fox news",
+          "relevanceScore": 85,
           "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "1h ago",
-          "trendBreakdown": "news",
-          "percentageIncrease": "200%"
+          "searchVolume": "500+",
+          "started": "8h ago",
+          "percentageIncrease": "50%"
         }
       ]
     }
