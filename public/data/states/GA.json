@@ -1,27 +1,27 @@
 {
-  "timestamp": "2025-12-22T20:04:49.143Z",
+  "timestamp": "2025-12-22T22:04:31.561Z",
   "states": [
     {
       "name": "Georgia",
       "code": "GA",
       "topTopic": "dekalb county jail",
       "category": "Law and Government",
-      "trendingScore": 100,
+      "trendingScore": 95,
       "topics": [
         {
           "name": "dekalb county jail",
-          "relevanceScore": 100,
+          "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "4h ago",
-          "percentageIncrease": "500%"
+          "started": "6h ago",
+          "percentageIncrease": "400%"
         },
         {
           "name": "atlanta airport",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "20h ago",
+          "started": "22h ago",
           "trendBreakdown": "atlanta",
           "percentageIncrease": "200%"
         },
@@ -30,7 +30,7 @@
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "3h ago",
+          "started": "5h ago",
           "trendBreakdown": "flu",
           "percentageIncrease": "100%"
         },
@@ -39,7 +39,7 @@
           "relevanceScore": 85,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "12h ago",
+          "started": "14h ago",
           "percentageIncrease": "50%"
         }
       ]

@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-12-22T20:04:49.143Z",
+  "timestamp": "2025-12-22T22:04:31.561Z",
   "states": [
     {
       "name": "California",
@@ -13,7 +13,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "17h ago",
+          "started": "19h ago",
           "percentageIncrease": "600%"
         },
         {
@@ -21,7 +21,8 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "17h ago",
+          "started": "19h ago",
+          "trendBreakdown": "world",
           "percentageIncrease": "600%"
         },
         {
@@ -29,7 +30,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "17h ago",
+          "started": "19h ago",
           "percentageIncrease": "600%"
         },
         {
@@ -37,7 +38,7 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "4h ago",
+          "started": "6h ago",
           "percentageIncrease": "200%"
         },
         {
@@ -45,25 +46,16 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "16h ago",
+          "started": "18h ago",
           "trendBreakdown": "victorville",
           "percentageIncrease": "400%"
         },
         {
-          "name": "sunvalley mall",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "24h ago",
-          "trendBreakdown": "sun",
-          "percentageIncrease": "300%"
-        },
-        {
-          "name": "is christmas eve a federal holiday",
+          "name": "christmas eve",
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "2h ago",
+          "started": "5h ago",
           "trendBreakdown": "christmas",
           "percentageIncrease": "100%"
         },
@@ -72,7 +64,7 @@
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "4h ago",
+          "started": "6h ago",
           "percentageIncrease": "100%"
         },
         {
@@ -80,16 +72,8 @@
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "21h ago",
+          "started": "23h ago",
           "percentageIncrease": "100%"
-        },
-        {
-          "name": "san diego",
-          "relevanceScore": 85,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "3h ago",
-          "percentageIncrease": "50%"
         }
       ]
     },
@@ -113,16 +97,24 @@
     {
       "name": "Florida",
       "code": "FL",
-      "topTopic": "is christmas eve a federal holiday",
+      "topTopic": "trump announcement today",
       "category": "Law and Government",
       "trendingScore": 95,
       "topics": [
+        {
+          "name": "trump announcement today",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "20 minutes ago",
+          "percentageIncrease": "300%"
+        },
         {
           "name": "is christmas eve a federal holiday",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "7h ago",
+          "started": "9h ago",
           "percentageIncrease": "200%"
         },
         {
@@ -130,7 +122,7 @@
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "2h ago",
+          "started": "4h ago",
           "percentageIncrease": "100%"
         }
       ]
@@ -140,22 +132,22 @@
       "code": "GA",
       "topTopic": "dekalb county jail",
       "category": "Law and Government",
-      "trendingScore": 100,
+      "trendingScore": 95,
       "topics": [
         {
           "name": "dekalb county jail",
-          "relevanceScore": 100,
+          "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "4h ago",
-          "percentageIncrease": "500%"
+          "started": "6h ago",
+          "percentageIncrease": "400%"
         },
         {
           "name": "atlanta airport",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "20h ago",
+          "started": "22h ago",
           "trendBreakdown": "atlanta",
           "percentageIncrease": "200%"
         },
@@ -164,7 +156,7 @@
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "3h ago",
+          "started": "5h ago",
           "trendBreakdown": "flu",
           "percentageIncrease": "100%"
         },
@@ -173,7 +165,7 @@
           "relevanceScore": 85,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "12h ago",
+          "started": "14h ago",
           "percentageIncrease": "50%"
         }
       ]
@@ -207,7 +199,7 @@
           "relevanceScore": 85,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "13h ago",
+          "started": "15h ago",
           "percentageIncrease": "75%"
         }
       ]
@@ -325,16 +317,25 @@
     {
       "name": "New York",
       "code": "NY",
-      "topTopic": "madhu gottumukkala cisa polygraph",
+      "topTopic": "surge",
       "category": "Law and Government",
       "trendingScore": 95,
       "topics": [
+        {
+          "name": "surge",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "8h ago",
+          "trendBreakdown": "flu",
+          "percentageIncrease": "200%"
+        },
         {
           "name": "madhu gottumukkala cisa polygraph",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "17h ago",
+          "started": "19h ago",
           "percentageIncrease": "200%"
         },
         {
@@ -342,16 +343,8 @@
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "12h ago",
+          "started": "14h ago",
           "percentageIncrease": "100%"
-        },
-        {
-          "name": "flu symptoms",
-          "relevanceScore": 85,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "8h ago",
-          "percentageIncrease": "50%"
         }
       ]
     },
@@ -367,7 +360,7 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "7h ago",
+          "started": "9h ago",
           "trendBreakdown": "mansfield",
           "percentageIncrease": "200%"
         }
@@ -393,18 +386,17 @@
     {
       "name": "Pennsylvania",
       "code": "PA",
-      "topTopic": "dollar tree",
+      "topTopic": "flu a",
       "category": "Law and Government",
-      "trendingScore": 85,
+      "trendingScore": 95,
       "topics": [
         {
-          "name": "dollar tree",
-          "relevanceScore": 85,
+          "name": "flu a",
+          "relevanceScore": 95,
           "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "23h ago",
-          "trendBreakdown": "dollar",
-          "percentageIncrease": "50%"
+          "searchVolume": "100+",
+          "started": "2h ago",
+          "percentageIncrease": "200%"
         }
       ]
     },
@@ -454,15 +446,7 @@
           "relevanceScore": 85,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "11h ago",
-          "percentageIncrease": "50%"
-        },
-        {
-          "name": "flu symptoms",
-          "relevanceScore": 85,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "8h ago",
+          "started": "13h ago",
           "percentageIncrease": "50%"
         }
       ]
@@ -479,7 +463,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "4h ago",
+          "started": "6h ago",
           "percentageIncrease": "900%"
         },
         {
@@ -487,7 +471,7 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "17h ago",
+          "started": "19h ago",
           "percentageIncrease": "400%"
         }
       ]
@@ -657,7 +641,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "16h ago",
+          "started": "18h ago",
           "trendBreakdown": "landry",
           "percentageIncrease": "600%"
         }
@@ -751,16 +735,16 @@
     {
       "name": "Kentucky",
       "code": "KY",
-      "topTopic": "christmas",
+      "topTopic": "us bank",
       "category": "Law and Government",
       "trendingScore": 90,
       "topics": [
         {
-          "name": "christmas",
+          "name": "us bank",
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "22h ago",
+          "started": "8h ago",
           "percentageIncrease": "100%"
         }
       ]
