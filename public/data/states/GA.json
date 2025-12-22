@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-12-22T00:05:03.952Z",
+  "timestamp": "2025-12-22T02:40:17.093Z",
   "states": [
     {
       "name": "Georgia",
@@ -12,8 +12,9 @@
           "name": "atlanta airport",
           "relevanceScore": 95,
           "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "30 minutes ago",
+          "searchVolume": "500+",
+          "started": "3h ago",
+          "trendBreakdown": "atlanta",
           "percentageIncrease": "200%"
         },
         {
@@ -21,7 +22,7 @@
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "13h ago",
+          "started": "15h ago",
           "percentageIncrease": "100%"
         },
         {
@@ -29,7 +30,7 @@
           "relevanceScore": 85,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "10h ago",
+          "started": "13h ago",
           "percentageIncrease": "75%"
         }
       ]

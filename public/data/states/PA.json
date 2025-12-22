@@ -1,21 +1,21 @@
 {
-  "timestamp": "2025-12-22T00:05:03.952Z",
+  "timestamp": "2025-12-22T02:40:17.093Z",
   "states": [
     {
       "name": "Pennsylvania",
       "code": "PA",
-      "topTopic": "dollar store",
+      "topTopic": "dollar tree",
       "category": "Law and Government",
-      "trendingScore": 90,
+      "trendingScore": 85,
       "topics": [
         {
-          "name": "dollar store",
-          "relevanceScore": 90,
+          "name": "dollar tree",
+          "relevanceScore": 85,
           "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "30 minutes ago",
+          "searchVolume": "1K+",
+          "started": "13h ago",
           "trendBreakdown": "dollar",
-          "percentageIncrease": "100%"
+          "percentageIncrease": "50%"
         }
       ]
     }
