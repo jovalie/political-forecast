@@ -1,19 +1,27 @@
 {
-  "timestamp": "2025-12-22T06:04:55.812Z",
+  "timestamp": "2025-12-22T08:04:37.755Z",
   "states": [
     {
       "name": "Virginia",
       "code": "VA",
-      "topTopic": "dollar tree",
+      "topTopic": "car",
       "category": "Law and Government",
-      "trendingScore": 85,
+      "trendingScore": 95,
       "topics": [
+        {
+          "name": "car",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "5h ago",
+          "percentageIncrease": "400%"
+        },
         {
           "name": "dollar tree",
           "relevanceScore": 85,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "17h ago",
+          "started": "19h ago",
           "percentageIncrease": "50%"
         }
       ]
