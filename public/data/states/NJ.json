@@ -1,20 +1,20 @@
 {
-  "timestamp": "2025-12-22T22:04:31.561Z",
+  "timestamp": "2025-12-23T00:04:53.526Z",
   "states": [
     {
       "name": "New Jersey",
       "code": "NJ",
-      "topTopic": "garden state plaza",
+      "topTopic": "ernest heinz",
       "category": "Law and Government",
-      "trendingScore": 90,
+      "trendingScore": 100,
       "topics": [
         {
-          "name": "garden state plaza",
-          "relevanceScore": 90,
+          "name": "ernest heinz",
+          "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "4h ago",
-          "percentageIncrease": "100%"
+          "searchVolume": "500+",
+          "started": "5h ago",
+          "percentageIncrease": "900%"
         }
       ]
     }

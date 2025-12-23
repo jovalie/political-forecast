@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-12-22T22:04:31.561Z",
+  "timestamp": "2025-12-23T00:04:53.526Z",
   "states": [
     {
       "name": "California",
@@ -13,7 +13,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "19h ago",
+          "started": "21h ago",
           "percentageIncrease": "600%"
         },
         {
@@ -21,8 +21,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "19h ago",
-          "trendBreakdown": "world",
+          "started": "21h ago",
           "percentageIncrease": "600%"
         },
         {
@@ -30,15 +29,15 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "19h ago",
+          "started": "21h ago",
           "percentageIncrease": "600%"
         },
         {
           "name": "greenland",
           "relevanceScore": 95,
           "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "6h ago",
+          "searchVolume": "1K+",
+          "started": "8h ago",
           "percentageIncrease": "200%"
         },
         {
@@ -46,7 +45,7 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "18h ago",
+          "started": "20h ago",
           "trendBreakdown": "victorville",
           "percentageIncrease": "400%"
         },
@@ -54,8 +53,8 @@
           "name": "christmas eve",
           "relevanceScore": 90,
           "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "5h ago",
+          "searchVolume": "1K+",
+          "started": "7h ago",
           "trendBreakdown": "christmas",
           "percentageIncrease": "100%"
         },
@@ -64,15 +63,7 @@
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "6h ago",
-          "percentageIncrease": "100%"
-        },
-        {
-          "name": "cambodia",
-          "relevanceScore": 90,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "23h ago",
+          "started": "8h ago",
           "percentageIncrease": "100%"
         }
       ]
@@ -97,33 +88,17 @@
     {
       "name": "Florida",
       "code": "FL",
-      "topTopic": "trump announcement today",
+      "topTopic": "is christmas eve a federal holiday",
       "category": "Law and Government",
       "trendingScore": 95,
       "topics": [
-        {
-          "name": "trump announcement today",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "20 minutes ago",
-          "percentageIncrease": "300%"
-        },
         {
           "name": "is christmas eve a federal holiday",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "9h ago",
+          "started": "11h ago",
           "percentageIncrease": "200%"
-        },
-        {
-          "name": "greenland",
-          "relevanceScore": 90,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "4h ago",
-          "percentageIncrease": "100%"
         }
       ]
     },
@@ -138,34 +113,16 @@
           "name": "dekalb county jail",
           "relevanceScore": 95,
           "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "6h ago",
+          "searchVolume": "1K+",
+          "started": "8h ago",
           "percentageIncrease": "400%"
-        },
-        {
-          "name": "atlanta airport",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "22h ago",
-          "trendBreakdown": "atlanta",
-          "percentageIncrease": "200%"
-        },
-        {
-          "name": "flu a",
-          "relevanceScore": 90,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "5h ago",
-          "trendBreakdown": "flu",
-          "percentageIncrease": "100%"
         },
         {
           "name": "reddit",
           "relevanceScore": 85,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "14h ago",
+          "started": "16h ago",
           "percentageIncrease": "50%"
         }
       ]
@@ -199,7 +156,7 @@
           "relevanceScore": 85,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "15h ago",
+          "started": "17h ago",
           "percentageIncrease": "75%"
         }
       ]
@@ -283,17 +240,17 @@
     {
       "name": "New Jersey",
       "code": "NJ",
-      "topTopic": "garden state plaza",
+      "topTopic": "ernest heinz",
       "category": "Law and Government",
-      "trendingScore": 90,
+      "trendingScore": 100,
       "topics": [
         {
-          "name": "garden state plaza",
-          "relevanceScore": 90,
+          "name": "ernest heinz",
+          "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "4h ago",
-          "percentageIncrease": "100%"
+          "searchVolume": "500+",
+          "started": "5h ago",
+          "percentageIncrease": "900%"
         }
       ]
     },
@@ -317,25 +274,16 @@
     {
       "name": "New York",
       "code": "NY",
-      "topTopic": "surge",
+      "topTopic": "madhu gottumukkala cisa polygraph",
       "category": "Law and Government",
       "trendingScore": 95,
       "topics": [
-        {
-          "name": "surge",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "8h ago",
-          "trendBreakdown": "flu",
-          "percentageIncrease": "200%"
-        },
         {
           "name": "madhu gottumukkala cisa polygraph",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "19h ago",
+          "started": "21h ago",
           "percentageIncrease": "200%"
         },
         {
@@ -343,8 +291,17 @@
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "14h ago",
+          "started": "16h ago",
           "percentageIncrease": "100%"
+        },
+        {
+          "name": "flu symptoms",
+          "relevanceScore": 85,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "12h ago",
+          "trendBreakdown": "influenza",
+          "percentageIncrease": "50%"
         }
       ]
     },
@@ -422,15 +379,15 @@
       "code": "TN",
       "topTopic": "kyle chrisley",
       "category": "Law and Government",
-      "trendingScore": 90,
+      "trendingScore": 95,
       "topics": [
         {
           "name": "kyle chrisley",
-          "relevanceScore": 90,
+          "relevanceScore": 95,
           "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "6h ago",
-          "percentageIncrease": "100%"
+          "searchVolume": "500+",
+          "started": "12h ago",
+          "percentageIncrease": "300%"
         }
       ]
     },
@@ -446,7 +403,7 @@
           "relevanceScore": 85,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "13h ago",
+          "started": "15h ago",
           "percentageIncrease": "50%"
         }
       ]
@@ -463,7 +420,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "6h ago",
+          "started": "8h ago",
           "percentageIncrease": "900%"
         },
         {
@@ -471,7 +428,7 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "19h ago",
+          "started": "21h ago",
           "percentageIncrease": "400%"
         }
       ]
@@ -479,17 +436,18 @@
     {
       "name": "District of Columbia",
       "code": "DC",
-      "topTopic": "fox news",
+      "topTopic": "greenland",
       "category": "Law and Government",
-      "trendingScore": 85,
+      "trendingScore": 90,
       "topics": [
         {
-          "name": "fox news",
-          "relevanceScore": 85,
+          "name": "greenland",
+          "relevanceScore": 90,
           "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "8h ago",
-          "percentageIncrease": "50%"
+          "searchVolume": "100+",
+          "started": "40 minutes ago",
+          "trendBreakdown": "jeff",
+          "percentageIncrease": "100%"
         }
       ]
     },
@@ -632,18 +590,18 @@
     {
       "name": "Louisiana",
       "code": "LA",
-      "topTopic": "jeff landry",
+      "topTopic": "greenland",
       "category": "Law and Government",
-      "trendingScore": 100,
+      "trendingScore": 95,
       "topics": [
         {
-          "name": "jeff landry",
-          "relevanceScore": 100,
+          "name": "greenland",
+          "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "18h ago",
-          "trendBreakdown": "landry",
-          "percentageIncrease": "600%"
+          "started": "11h ago",
+          "trendBreakdown": "jeff",
+          "percentageIncrease": "400%"
         }
       ]
     },
@@ -744,7 +702,7 @@
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "8h ago",
+          "started": "10h ago",
           "percentageIncrease": "100%"
         }
       ]

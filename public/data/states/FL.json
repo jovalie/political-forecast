@@ -1,36 +1,20 @@
 {
-  "timestamp": "2025-12-22T22:04:31.561Z",
+  "timestamp": "2025-12-23T00:04:53.526Z",
   "states": [
     {
       "name": "Florida",
       "code": "FL",
-      "topTopic": "trump announcement today",
+      "topTopic": "is christmas eve a federal holiday",
       "category": "Law and Government",
       "trendingScore": 95,
       "topics": [
-        {
-          "name": "trump announcement today",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "20 minutes ago",
-          "percentageIncrease": "300%"
-        },
         {
           "name": "is christmas eve a federal holiday",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "9h ago",
+          "started": "11h ago",
           "percentageIncrease": "200%"
-        },
-        {
-          "name": "greenland",
-          "relevanceScore": 90,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "4h ago",
-          "percentageIncrease": "100%"
         }
       ]
     }

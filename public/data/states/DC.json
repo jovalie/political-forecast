@@ -1,20 +1,21 @@
 {
-  "timestamp": "2025-12-22T22:04:31.561Z",
+  "timestamp": "2025-12-23T00:04:53.526Z",
   "states": [
     {
       "name": "District of Columbia",
       "code": "DC",
-      "topTopic": "fox news",
+      "topTopic": "greenland",
       "category": "Law and Government",
-      "trendingScore": 85,
+      "trendingScore": 90,
       "topics": [
         {
-          "name": "fox news",
-          "relevanceScore": 85,
+          "name": "greenland",
+          "relevanceScore": 90,
           "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "8h ago",
-          "percentageIncrease": "50%"
+          "searchVolume": "100+",
+          "started": "40 minutes ago",
+          "trendBreakdown": "jeff",
+          "percentageIncrease": "100%"
         }
       ]
     }

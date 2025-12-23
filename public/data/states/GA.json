@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-12-22T22:04:31.561Z",
+  "timestamp": "2025-12-23T00:04:53.526Z",
   "states": [
     {
       "name": "Georgia",
@@ -12,34 +12,16 @@
           "name": "dekalb county jail",
           "relevanceScore": 95,
           "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "6h ago",
+          "searchVolume": "1K+",
+          "started": "8h ago",
           "percentageIncrease": "400%"
-        },
-        {
-          "name": "atlanta airport",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "22h ago",
-          "trendBreakdown": "atlanta",
-          "percentageIncrease": "200%"
-        },
-        {
-          "name": "flu a",
-          "relevanceScore": 90,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "5h ago",
-          "trendBreakdown": "flu",
-          "percentageIncrease": "100%"
         },
         {
           "name": "reddit",
           "relevanceScore": 85,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "14h ago",
+          "started": "16h ago",
           "percentageIncrease": "50%"
         }
       ]
