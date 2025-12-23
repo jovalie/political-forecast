@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-12-23T04:16:25.535Z",
+  "timestamp": "2025-12-23T06:05:03.598Z",
   "states": [
     {
       "name": "New York",
@@ -13,8 +13,16 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "13h ago",
+          "started": "15h ago",
           "trendBreakdown": "jeff",
+          "percentageIncrease": "200%"
+        },
+        {
+          "name": "charlie javice",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "3h ago",
           "percentageIncrease": "200%"
         },
         {
@@ -22,24 +30,16 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "14h ago",
+          "started": "16h ago",
           "trendBreakdown": "flu",
           "percentageIncrease": "200%"
-        },
-        {
-          "name": "charlie javice",
-          "relevanceScore": 90,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "1h ago",
-          "percentageIncrease": "100%"
         },
         {
           "name": "new york times",
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "20h ago",
+          "started": "22h ago",
           "percentageIncrease": "100%"
         }
       ]
