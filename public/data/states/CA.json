@@ -1,45 +1,44 @@
 {
-  "timestamp": "2025-12-23T02:37:16.354Z",
+  "timestamp": "2025-12-23T04:16:25.535Z",
   "states": [
     {
       "name": "California",
       "code": "CA",
-      "topTopic": "indianapolis",
+      "topTopic": "retuquel dupree",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
+        {
+          "name": "retuquel dupree",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "1K+",
+          "started": "2h ago",
+          "percentageIncrease": "1000%"
+        },
         {
           "name": "indianapolis",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "1h ago",
+          "started": "2h ago",
           "percentageIncrease": "600%"
-        },
-        {
-          "name": "victor valley mall",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "23h ago",
-          "trendBreakdown": "victorville",
-          "percentageIncrease": "400%"
         },
         {
           "name": "greenland",
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "11h ago",
+          "started": "12h ago",
           "percentageIncrease": "100%"
         },
         {
-          "name": "is christmas eve a federal holiday",
+          "name": "christmas eve",
           "relevanceScore": 90,
           "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "9h ago",
-          "trendBreakdown": "news",
+          "searchVolume": "1K+",
+          "started": "11h ago",
+          "trendBreakdown": "christmas",
           "percentageIncrease": "100%"
         },
         {
@@ -47,16 +46,8 @@
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "10h ago",
+          "started": "12h ago",
           "percentageIncrease": "100%"
-        },
-        {
-          "name": "in",
-          "relevanceScore": 85,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "16h ago",
-          "percentageIncrease": "50%"
         }
       ]
     }
