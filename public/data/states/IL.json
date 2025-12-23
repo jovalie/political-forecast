@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-12-23T20:04:27.507Z",
+  "timestamp": "2025-12-23T22:04:27.355Z",
   "states": [
     {
       "name": "Illinois",
@@ -13,16 +13,32 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "5h ago",
+          "started": "7h ago",
           "percentageIncrease": "1000%"
+        },
+        {
+          "name": "supreme court",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "40 minutes ago",
+          "percentageIncrease": "1000%"
+        },
+        {
+          "name": "melodee buzzard",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "1h ago",
+          "percentageIncrease": "900%"
         },
         {
           "name": "are banks open on christmas eve",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "6h ago",
-          "trendBreakdown": "christmas",
+          "started": "8h ago",
+          "trendBreakdown": "does",
           "percentageIncrease": "200%"
         }
       ]

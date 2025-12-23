@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-12-23T20:04:27.507Z",
+  "timestamp": "2025-12-23T22:04:27.355Z",
   "states": [
     {
       "name": "Texas",
@@ -13,7 +13,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "2K+",
-          "started": "6h ago",
+          "started": "8h ago",
           "percentageIncrease": "1000%"
         },
         {
@@ -21,25 +21,17 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "2K+",
-          "started": "7h ago",
-          "trendBreakdown": "christmas",
+          "started": "9h ago",
+          "trendBreakdown": "when",
           "percentageIncrease": "300%"
         },
         {
-          "name": "white",
-          "relevanceScore": 90,
+          "name": "foxnews",
+          "relevanceScore": 85,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "12h ago",
-          "percentageIncrease": "100%"
-        },
-        {
-          "name": "flu a",
-          "relevanceScore": 90,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "22h ago",
-          "percentageIncrease": "100%"
+          "started": "8h ago",
+          "percentageIncrease": "50%"
         }
       ]
     }

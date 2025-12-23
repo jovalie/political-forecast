@@ -1,27 +1,44 @@
 {
-  "timestamp": "2025-12-23T20:04:27.507Z",
+  "timestamp": "2025-12-23T22:04:27.355Z",
   "states": [
     {
       "name": "New Jersey",
       "code": "NJ",
-      "topTopic": "larry nassar",
+      "topTopic": "silver lake nursing home",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
+        {
+          "name": "silver lake nursing home",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "1K+",
+          "started": "2h ago",
+          "trendBreakdown": "bristol",
+          "percentageIncrease": "1000%"
+        },
         {
           "name": "larry nassar",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "5h ago",
+          "started": "7h ago",
           "percentageIncrease": "1000%"
+        },
+        {
+          "name": "lillian bonsignore",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "1h ago",
+          "percentageIncrease": "900%"
         },
         {
           "name": "john brennan",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "6h ago",
+          "started": "8h ago",
           "percentageIncrease": "800%"
         }
       ]

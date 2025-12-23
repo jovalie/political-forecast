@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-12-23T20:04:27.507Z",
+  "timestamp": "2025-12-23T22:04:27.355Z",
   "states": [
     {
       "name": "Georgia",
@@ -12,16 +12,24 @@
           "name": "larry nassar",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "5h ago",
+          "searchVolume": "1K+",
+          "started": "7h ago",
           "percentageIncrease": "1000%"
+        },
+        {
+          "name": "are banks open on christmas eve",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "10h ago",
+          "percentageIncrease": "300%"
         },
         {
           "name": "dekalb county",
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "16h ago",
+          "started": "18h ago",
           "percentageIncrease": "100%"
         }
       ]
