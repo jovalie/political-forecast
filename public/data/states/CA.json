@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-12-23T16:04:47.973Z",
+  "timestamp": "2025-12-23T18:04:58.283Z",
   "states": [
     {
       "name": "California",
@@ -12,16 +12,16 @@
           "name": "larry nassar",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "8h ago",
-          "percentageIncrease": "600%"
+          "searchVolume": "2K+",
+          "started": "10h ago",
+          "percentageIncrease": "1000%"
         },
         {
           "name": "retuquel dupree",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "2K+",
-          "started": "14h ago",
+          "started": "16h ago",
           "trendBreakdown": "retuquel",
           "percentageIncrease": "600%"
         },
@@ -30,24 +30,33 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "17h ago",
-          "percentageIncrease": "200%"
+          "started": "19h ago",
+          "trendBreakdown": "mark",
+          "percentageIncrease": "400%"
         },
         {
-          "name": "christmas eve",
+          "name": "are banks open on christmas eve",
           "relevanceScore": 90,
           "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "23h ago",
-          "trendBreakdown": "christmas",
+          "searchVolume": "500+",
+          "started": "4h ago",
+          "trendBreakdown": "when",
           "percentageIncrease": "100%"
+        },
+        {
+          "name": "dji",
+          "relevanceScore": 85,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "2h ago",
+          "percentageIncrease": "50%"
         },
         {
           "name": "new york times",
           "relevanceScore": 85,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "8h ago",
+          "started": "10h ago",
           "percentageIncrease": "75%"
         }
       ]

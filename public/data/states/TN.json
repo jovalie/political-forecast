@@ -1,20 +1,21 @@
 {
-  "timestamp": "2025-12-23T16:04:47.973Z",
+  "timestamp": "2025-12-23T18:04:58.283Z",
   "states": [
     {
       "name": "Tennessee",
       "code": "TN",
-      "topTopic": "kyle chrisley",
+      "topTopic": "are banks open on christmas eve",
       "category": "Law and Government",
       "trendingScore": 95,
       "topics": [
         {
-          "name": "kyle chrisley",
+          "name": "are banks open on christmas eve",
           "relevanceScore": 95,
           "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "22h ago",
-          "percentageIncrease": "200%"
+          "searchVolume": "100+",
+          "started": "3h ago",
+          "trendBreakdown": "christmas",
+          "percentageIncrease": "300%"
         }
       ]
     }

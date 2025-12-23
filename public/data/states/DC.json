@@ -1,20 +1,45 @@
 {
-  "timestamp": "2025-12-23T16:04:47.973Z",
+  "timestamp": "2025-12-23T18:04:58.283Z",
   "states": [
     {
       "name": "District of Columbia",
       "code": "DC",
-      "topTopic": "john brennan",
+      "topTopic": "larry nassar",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
+        {
+          "name": "larry nassar",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "3h ago",
+          "percentageIncrease": "1000%"
+        },
         {
           "name": "john brennan",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "2h ago",
+          "started": "4h ago",
           "percentageIncrease": "1000%"
+        },
+        {
+          "name": "is christmas eve a federal holiday",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "5h ago",
+          "percentageIncrease": "200%"
+        },
+        {
+          "name": "greenland",
+          "relevanceScore": 90,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "18h ago",
+          "trendBreakdown": "bbc",
+          "percentageIncrease": "100%"
         }
       ]
     }

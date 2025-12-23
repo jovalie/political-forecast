@@ -1,27 +1,35 @@
 {
-  "timestamp": "2025-12-23T16:04:47.973Z",
+  "timestamp": "2025-12-23T18:04:58.283Z",
   "states": [
     {
       "name": "Georgia",
       "code": "GA",
-      "topTopic": "dekalb county",
+      "topTopic": "larry nassar",
       "category": "Law and Government",
-      "trendingScore": 90,
+      "trendingScore": 100,
       "topics": [
+        {
+          "name": "larry nassar",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "3h ago",
+          "percentageIncrease": "1000%"
+        },
+        {
+          "name": "cholo abdi abdullah",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "2h ago",
+          "percentageIncrease": "400%"
+        },
         {
           "name": "dekalb county",
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "12h ago",
-          "percentageIncrease": "100%"
-        },
-        {
-          "name": "flu a",
-          "relevanceScore": 90,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "23h ago",
+          "started": "14h ago",
           "percentageIncrease": "100%"
         }
       ]

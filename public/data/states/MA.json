@@ -1,20 +1,20 @@
 {
-  "timestamp": "2025-12-23T16:04:47.973Z",
+  "timestamp": "2025-12-23T18:04:58.283Z",
   "states": [
     {
       "name": "Massachusetts",
       "code": "MA",
-      "topTopic": "rodney chatman",
+      "topTopic": "larry nassar",
       "category": "Law and Government",
-      "trendingScore": 95,
+      "trendingScore": 100,
       "topics": [
         {
-          "name": "rodney chatman",
-          "relevanceScore": 95,
+          "name": "larry nassar",
+          "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "7h ago",
-          "percentageIncrease": "400%"
+          "searchVolume": "500+",
+          "started": "3h ago",
+          "percentageIncrease": "1000%"
         }
       ]
     }

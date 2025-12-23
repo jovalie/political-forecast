@@ -1,29 +1,20 @@
 {
-  "timestamp": "2025-12-23T16:04:47.973Z",
+  "timestamp": "2025-12-23T18:04:58.283Z",
   "states": [
     {
       "name": "North Carolina",
       "code": "NC",
-      "topTopic": "flu symptoms",
+      "topTopic": "larry nassar",
       "category": "Law and Government",
-      "trendingScore": 90,
+      "trendingScore": 100,
       "topics": [
         {
-          "name": "flu symptoms",
-          "relevanceScore": 90,
+          "name": "larry nassar",
+          "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "1h ago",
-          "trendBreakdown": "flu",
-          "percentageIncrease": "100%"
-        },
-        {
-          "name": "fedex",
-          "relevanceScore": 85,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "22h ago",
-          "percentageIncrease": "75%"
+          "searchVolume": "500+",
+          "started": "3h ago",
+          "percentageIncrease": "1000%"
         }
       ]
     }

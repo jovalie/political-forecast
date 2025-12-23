@@ -1,36 +1,36 @@
 {
-  "timestamp": "2025-12-23T16:04:47.973Z",
+  "timestamp": "2025-12-23T18:04:58.283Z",
   "states": [
     {
       "name": "Pennsylvania",
       "code": "PA",
-      "topTopic": "are banks open on christmas eve",
+      "topTopic": "larry nassar",
       "category": "Law and Government",
-      "trendingScore": 95,
+      "trendingScore": 100,
       "topics": [
         {
-          "name": "are banks open on christmas eve",
-          "relevanceScore": 95,
+          "name": "larry nassar",
+          "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "5h ago",
-          "percentageIncrease": "200%"
+          "searchVolume": "500+",
+          "started": "4h ago",
+          "percentageIncrease": "1000%"
         },
         {
           "name": "wtaj",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "5h ago",
+          "started": "7h ago",
           "percentageIncrease": "300%"
         },
         {
-          "name": "flu a",
-          "relevanceScore": 95,
+          "name": "are banks open on christmas eve",
+          "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "20h ago",
-          "percentageIncrease": "200%"
+          "started": "7h ago",
+          "percentageIncrease": "100%"
         }
       ]
     }
