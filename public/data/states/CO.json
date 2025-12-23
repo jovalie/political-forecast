@@ -1,20 +1,20 @@
 {
-  "timestamp": "2025-12-23T12:05:02.281Z",
+  "timestamp": "2025-12-23T14:04:36.781Z",
   "states": [
     {
       "name": "Colorado",
       "code": "CO",
-      "topTopic": "boulder fire today",
+      "topTopic": "boulder fire",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
         {
-          "name": "boulder fire today",
+          "name": "boulder fire",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "5K+",
-          "started": "9h ago",
-          "trendBreakdown": "boulder",
+          "started": "12h ago",
+          "trendBreakdown": "wild",
           "percentageIncrease": "1000%"
         }
       ]

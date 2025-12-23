@@ -1,19 +1,27 @@
 {
-  "timestamp": "2025-12-23T12:05:02.281Z",
+  "timestamp": "2025-12-23T14:04:36.781Z",
   "states": [
     {
       "name": "Pennsylvania",
       "code": "PA",
-      "topTopic": "wtaj",
+      "topTopic": "wgal",
       "category": "Law and Government",
       "trendingScore": 95,
       "topics": [
+        {
+          "name": "wgal",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "4h ago",
+          "percentageIncrease": "200%"
+        },
         {
           "name": "wtaj",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "1h ago",
+          "started": "3h ago",
           "percentageIncrease": "300%"
         },
         {
@@ -21,7 +29,7 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "16h ago",
+          "started": "18h ago",
           "percentageIncrease": "200%"
         }
       ]

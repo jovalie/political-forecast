@@ -1,19 +1,27 @@
 {
-  "timestamp": "2025-12-23T12:05:02.281Z",
+  "timestamp": "2025-12-23T14:04:36.781Z",
   "states": [
     {
       "name": "Virginia",
       "code": "VA",
-      "topTopic": "amber alert",
+      "topTopic": "john brennan",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
+        {
+          "name": "john brennan",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "20 minutes ago",
+          "percentageIncrease": "1000%"
+        },
         {
           "name": "amber alert",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "20h ago",
+          "started": "22h ago",
           "percentageIncrease": "900%"
         },
         {
@@ -21,9 +29,9 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "11h ago",
+          "started": "13h ago",
           "trendBreakdown": "uss",
-          "percentageIncrease": "300%"
+          "percentageIncrease": "200%"
         }
       ]
     }

@@ -1,29 +1,21 @@
 {
-  "timestamp": "2025-12-23T12:05:02.281Z",
+  "timestamp": "2025-12-23T14:04:36.781Z",
   "states": [
     {
       "name": "Florida",
       "code": "FL",
-      "topTopic": "when is christmas eve",
+      "topTopic": "christmas eve eve",
       "category": "Law and Government",
-      "trendingScore": 95,
+      "trendingScore": 100,
       "topics": [
         {
-          "name": "when is christmas eve",
-          "relevanceScore": 95,
+          "name": "christmas eve eve",
+          "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "3h ago",
-          "trendBreakdown": "christmas",
-          "percentageIncrease": "200%"
-        },
-        {
-          "name": "white",
-          "relevanceScore": 85,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "4h ago",
-          "percentageIncrease": "75%"
+          "searchVolume": "500+",
+          "started": "1h ago",
+          "trendBreakdown": "are",
+          "percentageIncrease": "800%"
         }
       ]
     }

@@ -1,38 +1,45 @@
 {
-  "timestamp": "2025-12-23T12:05:02.281Z",
+  "timestamp": "2025-12-23T14:04:36.781Z",
   "states": [
     {
       "name": "New York",
       "code": "NY",
-      "topTopic": "greenland",
+      "topTopic": "john brennan",
       "category": "Law and Government",
-      "trendingScore": 95,
+      "trendingScore": 100,
       "topics": [
+        {
+          "name": "john brennan",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "40 minutes ago",
+          "percentageIncrease": "900%"
+        },
         {
           "name": "greenland",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "21h ago",
+          "started": "23h ago",
           "trendBreakdown": "jeff",
           "percentageIncrease": "200%"
         },
         {
           "name": "charlie javice",
-          "relevanceScore": 95,
+          "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "9h ago",
-          "percentageIncrease": "200%"
+          "started": "11h ago",
+          "percentageIncrease": "100%"
         },
         {
-          "name": "surge",
-          "relevanceScore": 95,
+          "name": "newsday",
+          "relevanceScore": 85,
           "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "22h ago",
-          "trendBreakdown": "symptoms",
-          "percentageIncrease": "200%"
+          "searchVolume": "100+",
+          "started": "1h ago",
+          "percentageIncrease": "75%"
         }
       ]
     }
