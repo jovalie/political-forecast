@@ -1,27 +1,27 @@
 {
-  "timestamp": "2025-12-23T00:04:53.526Z",
+  "timestamp": "2025-12-23T02:37:16.354Z",
   "states": [
     {
       "name": "Georgia",
       "code": "GA",
       "topTopic": "dekalb county jail",
       "category": "Law and Government",
-      "trendingScore": 95,
+      "trendingScore": 100,
       "topics": [
         {
           "name": "dekalb county jail",
-          "relevanceScore": 95,
+          "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "8h ago",
-          "percentageIncrease": "400%"
+          "started": "11h ago",
+          "percentageIncrease": "500%"
         },
         {
           "name": "reddit",
           "relevanceScore": 85,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "16h ago",
+          "started": "18h ago",
           "percentageIncrease": "50%"
         }
       ]

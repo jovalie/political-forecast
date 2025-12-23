@@ -1,21 +1,30 @@
 {
-  "timestamp": "2025-12-23T00:04:53.526Z",
+  "timestamp": "2025-12-23T02:37:16.354Z",
   "states": [
     {
       "name": "District of Columbia",
       "code": "DC",
-      "topTopic": "greenland",
+      "topTopic": "uss defiant",
       "category": "Law and Government",
-      "trendingScore": 90,
+      "trendingScore": 95,
       "topics": [
         {
+          "name": "uss defiant",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "1h ago",
+          "trendBreakdown": "trump",
+          "percentageIncrease": "400%"
+        },
+        {
           "name": "greenland",
-          "relevanceScore": 90,
+          "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "40 minutes ago",
+          "started": "3h ago",
           "trendBreakdown": "jeff",
-          "percentageIncrease": "100%"
+          "percentageIncrease": "200%"
         }
       ]
     }

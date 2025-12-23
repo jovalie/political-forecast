@@ -1,20 +1,21 @@
 {
-  "timestamp": "2025-12-23T00:04:53.526Z",
+  "timestamp": "2025-12-23T02:37:16.354Z",
   "states": [
     {
       "name": "Minnesota",
       "code": "MN",
-      "topTopic": "elise stefanik",
+      "topTopic": "influenza a",
       "category": "Law and Government",
-      "trendingScore": 100,
+      "trendingScore": 90,
       "topics": [
         {
-          "name": "elise stefanik",
-          "relevanceScore": 100,
+          "name": "influenza a",
+          "relevanceScore": 90,
           "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "23h ago",
-          "percentageIncrease": "900%"
+          "searchVolume": "100+",
+          "started": "2h ago",
+          "trendBreakdown": "influenza",
+          "percentageIncrease": "100%"
         }
       ]
     }

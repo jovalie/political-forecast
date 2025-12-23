@@ -1,61 +1,45 @@
 {
-  "timestamp": "2025-12-23T00:04:53.526Z",
+  "timestamp": "2025-12-23T02:37:16.354Z",
   "states": [
     {
       "name": "California",
       "code": "CA",
-      "topTopic": "hotel",
+      "topTopic": "indianapolis",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
         {
-          "name": "hotel",
+          "name": "indianapolis",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "21h ago",
+          "started": "1h ago",
           "percentageIncrease": "600%"
-        },
-        {
-          "name": "car",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "21h ago",
-          "percentageIncrease": "600%"
-        },
-        {
-          "name": "airport",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "21h ago",
-          "percentageIncrease": "600%"
-        },
-        {
-          "name": "greenland",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "8h ago",
-          "percentageIncrease": "200%"
         },
         {
           "name": "victor valley mall",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "20h ago",
+          "started": "23h ago",
           "trendBreakdown": "victorville",
           "percentageIncrease": "400%"
         },
         {
-          "name": "christmas eve",
+          "name": "greenland",
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "7h ago",
-          "trendBreakdown": "christmas",
+          "started": "11h ago",
+          "percentageIncrease": "100%"
+        },
+        {
+          "name": "is christmas eve a federal holiday",
+          "relevanceScore": 90,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "9h ago",
+          "trendBreakdown": "news",
           "percentageIncrease": "100%"
         },
         {
@@ -63,8 +47,16 @@
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "8h ago",
+          "started": "10h ago",
           "percentageIncrease": "100%"
+        },
+        {
+          "name": "in",
+          "relevanceScore": 85,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "16h ago",
+          "percentageIncrease": "50%"
         }
       ]
     }

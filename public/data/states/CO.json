@@ -1,20 +1,21 @@
 {
-  "timestamp": "2025-12-23T00:04:53.526Z",
+  "timestamp": "2025-12-23T02:37:16.354Z",
   "states": [
     {
       "name": "Colorado",
       "code": "CO",
-      "topTopic": "dollar tree",
+      "topTopic": "boulder fire",
       "category": "Law and Government",
-      "trendingScore": 85,
+      "trendingScore": 100,
       "topics": [
         {
-          "name": "dollar tree",
-          "relevanceScore": 85,
+          "name": "boulder fire",
+          "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "22h ago",
-          "percentageIncrease": "75%"
+          "searchVolume": "2K+",
+          "started": "1h ago",
+          "trendBreakdown": "four",
+          "percentageIncrease": "1000%"
         }
       ]
     }
