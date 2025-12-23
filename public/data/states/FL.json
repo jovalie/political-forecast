@@ -1,19 +1,20 @@
 {
-  "timestamp": "2025-12-23T06:05:03.598Z",
+  "timestamp": "2025-12-23T08:04:46.186Z",
   "states": [
     {
       "name": "Florida",
       "code": "FL",
-      "topTopic": "is christmas eve a federal holiday",
+      "topTopic": "when is christmas eve",
       "category": "Law and Government",
       "trendingScore": 95,
       "topics": [
         {
-          "name": "is christmas eve a federal holiday",
+          "name": "when is christmas eve",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "17h ago",
+          "started": "1h ago",
+          "trendBreakdown": "christmas",
           "percentageIncrease": "200%"
         },
         {
@@ -21,7 +22,7 @@
           "relevanceScore": 85,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "30 minutes ago",
+          "started": "2h ago",
           "percentageIncrease": "75%"
         }
       ]

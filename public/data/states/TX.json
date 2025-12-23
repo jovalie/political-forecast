@@ -1,19 +1,27 @@
 {
-  "timestamp": "2025-12-23T06:05:03.598Z",
+  "timestamp": "2025-12-23T08:04:46.186Z",
   "states": [
     {
       "name": "Texas",
       "code": "TX",
-      "topTopic": "reddit",
+      "topTopic": "white",
       "category": "Law and Government",
-      "trendingScore": 85,
+      "trendingScore": 90,
       "topics": [
+        {
+          "name": "white",
+          "relevanceScore": 90,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "10 minutes ago",
+          "percentageIncrease": "100%"
+        },
         {
           "name": "reddit",
           "relevanceScore": 85,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "21h ago",
+          "started": "23h ago",
           "percentageIncrease": "50%"
         }
       ]

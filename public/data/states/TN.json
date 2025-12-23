@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-12-23T06:05:03.598Z",
+  "timestamp": "2025-12-23T08:04:46.186Z",
   "states": [
     {
       "name": "Tennessee",
@@ -13,8 +13,16 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "18h ago",
+          "started": "20h ago",
           "percentageIncrease": "200%"
+        },
+        {
+          "name": "sonic",
+          "relevanceScore": 85,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "3h ago",
+          "percentageIncrease": "50%"
         }
       ]
     }
