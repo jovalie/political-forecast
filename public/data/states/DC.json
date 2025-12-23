@@ -1,21 +1,21 @@
 {
-  "timestamp": "2025-12-23T10:04:49.476Z",
+  "timestamp": "2025-12-23T12:05:02.281Z",
   "states": [
     {
       "name": "District of Columbia",
       "code": "DC",
       "topTopic": "greenland",
       "category": "Law and Government",
-      "trendingScore": 95,
+      "trendingScore": 90,
       "topics": [
         {
           "name": "greenland",
-          "relevanceScore": 95,
+          "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "10h ago",
+          "started": "12h ago",
           "trendBreakdown": "jeff",
-          "percentageIncrease": "200%"
+          "percentageIncrease": "100%"
         }
       ]
     }

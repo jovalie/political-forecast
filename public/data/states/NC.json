@@ -1,19 +1,28 @@
 {
-  "timestamp": "2025-12-23T10:04:49.476Z",
+  "timestamp": "2025-12-23T12:05:02.281Z",
   "states": [
     {
       "name": "North Carolina",
       "code": "NC",
-      "topTopic": "fedex",
+      "topTopic": "flu symptoms",
       "category": "Law and Government",
-      "trendingScore": 85,
+      "trendingScore": 90,
       "topics": [
+        {
+          "name": "flu symptoms",
+          "relevanceScore": 90,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "1h ago",
+          "trendBreakdown": "flu",
+          "percentageIncrease": "100%"
+        },
         {
           "name": "fedex",
           "relevanceScore": 85,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "20h ago",
+          "started": "22h ago",
           "percentageIncrease": "75%"
         }
       ]

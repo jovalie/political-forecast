@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-12-23T10:04:49.476Z",
+  "timestamp": "2025-12-23T12:05:02.281Z",
   "states": [
     {
       "name": "California",
@@ -13,7 +13,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "2K+",
-          "started": "8h ago",
+          "started": "10h ago",
           "trendBreakdown": "retuquel",
           "percentageIncrease": "600%"
         },
@@ -22,7 +22,7 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "11h ago",
+          "started": "13h ago",
           "percentageIncrease": "200%"
         },
         {
@@ -30,17 +30,34 @@
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "2K+",
-          "started": "18h ago",
+          "started": "20h ago",
           "percentageIncrease": "100%"
+        },
+        {
+          "name": "new york times",
+          "relevanceScore": 85,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "4h ago",
+          "percentageIncrease": "75%"
         },
         {
           "name": "when is christmas eve",
           "relevanceScore": 85,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "1h ago",
+          "started": "3h ago",
           "trendBreakdown": "christmas",
           "percentageIncrease": "75%"
+        },
+        {
+          "name": "san diego",
+          "relevanceScore": 85,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "19h ago",
+          "trendBreakdown": "san",
+          "percentageIncrease": "50%"
         }
       ]
     },
@@ -92,16 +109,25 @@
       "code": "GA",
       "topTopic": "dekalb county jail",
       "category": "Law and Government",
-      "trendingScore": 100,
+      "trendingScore": 95,
       "topics": [
         {
           "name": "dekalb county jail",
-          "relevanceScore": 100,
+          "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "2K+",
-          "started": "18h ago",
+          "started": "20h ago",
           "trendBreakdown": "dekalb",
-          "percentageIncrease": "500%"
+          "percentageIncrease": "400%"
+        },
+        {
+          "name": "are banks open on christmas eve",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "10 minutes ago",
+          "trendBreakdown": "christmas",
+          "percentageIncrease": "300%"
         }
       ]
     },
@@ -227,7 +253,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "15h ago",
+          "started": "17h ago",
           "percentageIncrease": "700%"
         },
         {
@@ -235,7 +261,7 @@
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "20h ago",
+          "started": "22h ago",
           "percentageIncrease": "100%"
         }
       ]
@@ -243,16 +269,25 @@
     {
       "name": "North Carolina",
       "code": "NC",
-      "topTopic": "fedex",
+      "topTopic": "flu symptoms",
       "category": "Law and Government",
-      "trendingScore": 85,
+      "trendingScore": 90,
       "topics": [
+        {
+          "name": "flu symptoms",
+          "relevanceScore": 90,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "1h ago",
+          "trendBreakdown": "flu",
+          "percentageIncrease": "100%"
+        },
         {
           "name": "fedex",
           "relevanceScore": 85,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "20h ago",
+          "started": "22h ago",
           "percentageIncrease": "75%"
         }
       ]
@@ -269,7 +304,7 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "19h ago",
+          "started": "21h ago",
           "trendBreakdown": "jeff",
           "percentageIncrease": "200%"
         },
@@ -278,7 +313,7 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "7h ago",
+          "started": "9h ago",
           "percentageIncrease": "200%"
         },
         {
@@ -286,8 +321,8 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "20h ago",
-          "trendBreakdown": "flu",
+          "started": "22h ago",
+          "trendBreakdown": "symptoms",
           "percentageIncrease": "200%"
         }
       ]
@@ -330,16 +365,24 @@
     {
       "name": "Pennsylvania",
       "code": "PA",
-      "topTopic": "flu a",
+      "topTopic": "wtaj",
       "category": "Law and Government",
       "trendingScore": 95,
       "topics": [
+        {
+          "name": "wtaj",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "1h ago",
+          "percentageIncrease": "300%"
+        },
         {
           "name": "flu a",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "14h ago",
+          "started": "16h ago",
           "percentageIncrease": "200%"
         }
       ]
@@ -381,16 +424,16 @@
     {
       "name": "Texas",
       "code": "TX",
-      "topTopic": "white",
+      "topTopic": "flu a",
       "category": "Law and Government",
       "trendingScore": 90,
       "topics": [
         {
-          "name": "white",
+          "name": "flu a",
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "2h ago",
+          "started": "14h ago",
           "percentageIncrease": "100%"
         }
       ]
@@ -407,7 +450,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "18h ago",
+          "started": "20h ago",
           "percentageIncrease": "900%"
         },
         {
@@ -415,7 +458,7 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "9h ago",
+          "started": "11h ago",
           "trendBreakdown": "uss",
           "percentageIncrease": "300%"
         }
@@ -426,16 +469,16 @@
       "code": "DC",
       "topTopic": "greenland",
       "category": "Law and Government",
-      "trendingScore": 95,
+      "trendingScore": 90,
       "topics": [
         {
           "name": "greenland",
-          "relevanceScore": 95,
+          "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "10h ago",
+          "started": "12h ago",
           "trendBreakdown": "jeff",
-          "percentageIncrease": "200%"
+          "percentageIncrease": "100%"
         }
       ]
     },
@@ -544,17 +587,17 @@
     {
       "name": "Colorado",
       "code": "CO",
-      "topTopic": "boulder fire",
+      "topTopic": "boulder fire today",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
         {
-          "name": "boulder fire",
+          "name": "boulder fire today",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "5K+",
-          "started": "8h ago",
-          "trendBreakdown": "wild",
+          "started": "9h ago",
+          "trendBreakdown": "boulder",
           "percentageIncrease": "1000%"
         }
       ]
@@ -606,8 +649,7 @@
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "10h ago",
-          "trendBreakdown": "influenza",
+          "started": "12h ago",
           "percentageIncrease": "100%"
         }
       ]
@@ -624,7 +666,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "16h ago",
+          "started": "18h ago",
           "trendBreakdown": "furnas",
           "percentageIncrease": "700%"
         }
@@ -669,15 +711,15 @@
       "code": "CT",
       "topTopic": "wfsb",
       "category": "Law and Government",
-      "trendingScore": 90,
+      "trendingScore": 95,
       "topics": [
         {
           "name": "wfsb",
-          "relevanceScore": 90,
+          "relevanceScore": 95,
           "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "50 minutes ago",
-          "percentageIncrease": "100%"
+          "searchVolume": "500+",
+          "started": "2h ago",
+          "percentageIncrease": "200%"
         }
       ]
     },
@@ -926,7 +968,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "11h ago",
+          "started": "13h ago",
           "percentageIncrease": "700%"
         }
       ]

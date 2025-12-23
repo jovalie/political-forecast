@@ -1,21 +1,30 @@
 {
-  "timestamp": "2025-12-23T10:04:49.476Z",
+  "timestamp": "2025-12-23T12:05:02.281Z",
   "states": [
     {
       "name": "Georgia",
       "code": "GA",
       "topTopic": "dekalb county jail",
       "category": "Law and Government",
-      "trendingScore": 100,
+      "trendingScore": 95,
       "topics": [
         {
           "name": "dekalb county jail",
-          "relevanceScore": 100,
+          "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "2K+",
-          "started": "18h ago",
+          "started": "20h ago",
           "trendBreakdown": "dekalb",
-          "percentageIncrease": "500%"
+          "percentageIncrease": "400%"
+        },
+        {
+          "name": "are banks open on christmas eve",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "10 minutes ago",
+          "trendBreakdown": "christmas",
+          "percentageIncrease": "300%"
         }
       ]
     }

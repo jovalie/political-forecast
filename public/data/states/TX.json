@@ -1,19 +1,19 @@
 {
-  "timestamp": "2025-12-23T10:04:49.476Z",
+  "timestamp": "2025-12-23T12:05:02.281Z",
   "states": [
     {
       "name": "Texas",
       "code": "TX",
-      "topTopic": "white",
+      "topTopic": "flu a",
       "category": "Law and Government",
       "trendingScore": 90,
       "topics": [
         {
-          "name": "white",
+          "name": "flu a",
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "2h ago",
+          "started": "14h ago",
           "percentageIncrease": "100%"
         }
       ]
