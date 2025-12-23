@@ -1,20 +1,20 @@
 {
-  "timestamp": "2025-12-23T18:04:58.283Z",
+  "timestamp": "2025-12-23T20:04:27.507Z",
   "states": [
     {
       "name": "Alabama",
       "code": "AL",
-      "topTopic": "sonic",
+      "topTopic": "news",
       "category": "Law and Government",
-      "trendingScore": 85,
+      "trendingScore": 90,
       "topics": [
         {
-          "name": "sonic",
-          "relevanceScore": 85,
+          "name": "news",
+          "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "23h ago",
-          "percentageIncrease": "75%"
+          "started": "7h ago",
+          "percentageIncrease": "100%"
         }
       ]
     }

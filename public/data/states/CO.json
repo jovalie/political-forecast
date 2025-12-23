@@ -1,19 +1,27 @@
 {
-  "timestamp": "2025-12-23T18:04:58.283Z",
+  "timestamp": "2025-12-23T20:04:27.507Z",
   "states": [
     {
       "name": "Colorado",
       "code": "CO",
-      "topTopic": "boulder fire",
+      "topTopic": "larry nassar",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
+        {
+          "name": "larry nassar",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "4h ago",
+          "percentageIncrease": "800%"
+        },
         {
           "name": "boulder fire",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "5K+",
-          "started": "16h ago",
+          "started": "18h ago",
           "trendBreakdown": "wild",
           "percentageIncrease": "1000%"
         }

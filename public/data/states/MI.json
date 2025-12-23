@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-12-23T18:04:58.283Z",
+  "timestamp": "2025-12-23T20:04:27.507Z",
   "states": [
     {
       "name": "Michigan",
@@ -12,9 +12,18 @@
           "name": "larry nassar",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "4h ago",
+          "searchVolume": "1K+",
+          "started": "6h ago",
           "percentageIncrease": "1000%"
+        },
+        {
+          "name": "are banks open on christmas eve",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "10h ago",
+          "trendBreakdown": "christmas",
+          "percentageIncrease": "200%"
         }
       ]
     }

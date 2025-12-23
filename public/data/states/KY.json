@@ -1,19 +1,27 @@
 {
-  "timestamp": "2025-12-23T18:04:58.283Z",
+  "timestamp": "2025-12-23T20:04:27.507Z",
   "states": [
     {
       "name": "Kentucky",
       "code": "KY",
-      "topTopic": "dollar tree",
+      "topTopic": "jacob bard",
       "category": "Law and Government",
-      "trendingScore": 85,
+      "trendingScore": 100,
       "topics": [
+        {
+          "name": "jacob bard",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "1h ago",
+          "percentageIncrease": "1000%"
+        },
         {
           "name": "dollar tree",
           "relevanceScore": 85,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "4h ago",
+          "started": "6h ago",
           "percentageIncrease": "75%"
         }
       ]

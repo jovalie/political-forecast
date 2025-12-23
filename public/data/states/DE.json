@@ -1,20 +1,21 @@
 {
-  "timestamp": "2025-12-23T18:04:58.283Z",
+  "timestamp": "2025-12-23T20:04:27.507Z",
   "states": [
     {
       "name": "Delaware",
       "code": "DE",
-      "topTopic": "brown university suspect",
+      "topTopic": "delaware dmv",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
         {
-          "name": "brown university suspect",
+          "name": "delaware dmv",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "23h ago",
-          "percentageIncrease": "900%"
+          "searchVolume": "1K+",
+          "started": "30 minutes ago",
+          "trendBreakdown": "dmvwilmington",
+          "percentageIncrease": "1000%"
         }
       ]
     }
