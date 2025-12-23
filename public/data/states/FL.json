@@ -1,21 +1,46 @@
 {
-  "timestamp": "2025-12-23T14:04:36.781Z",
+  "timestamp": "2025-12-23T16:04:47.973Z",
   "states": [
     {
       "name": "Florida",
       "code": "FL",
-      "topTopic": "christmas eve eve",
+      "topTopic": "zoo miami",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
         {
-          "name": "christmas eve eve",
+          "name": "zoo miami",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
           "started": "1h ago",
-          "trendBreakdown": "are",
+          "trendBreakdown": "miami",
+          "percentageIncrease": "1000%"
+        },
+        {
+          "name": "larry nassar",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "2h ago",
           "percentageIncrease": "800%"
+        },
+        {
+          "name": "are banks open on christmas eve",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "1K+",
+          "started": "5h ago",
+          "trendBreakdown": "christmas",
+          "percentageIncrease": "200%"
+        },
+        {
+          "name": "greenland",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "22h ago",
+          "percentageIncrease": "200%"
         }
       ]
     }

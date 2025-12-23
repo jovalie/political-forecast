@@ -1,21 +1,20 @@
 {
-  "timestamp": "2025-12-23T14:04:36.781Z",
+  "timestamp": "2025-12-23T16:04:47.973Z",
   "states": [
     {
       "name": "Louisiana",
       "code": "LA",
-      "topTopic": "greenland",
+      "topTopic": "dollar tree",
       "category": "Law and Government",
-      "trendingScore": 95,
+      "trendingScore": 85,
       "topics": [
         {
-          "name": "greenland",
-          "relevanceScore": 95,
+          "name": "dollar tree",
+          "relevanceScore": 85,
           "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "13h ago",
-          "trendBreakdown": "jeff",
-          "percentageIncrease": "400%"
+          "searchVolume": "100+",
+          "started": "1h ago",
+          "percentageIncrease": "50%"
         }
       ]
     }

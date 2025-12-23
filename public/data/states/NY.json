@@ -1,36 +1,36 @@
 {
-  "timestamp": "2025-12-23T14:04:36.781Z",
+  "timestamp": "2025-12-23T16:04:47.973Z",
   "states": [
     {
       "name": "New York",
       "code": "NY",
-      "topTopic": "john brennan",
+      "topTopic": "larry nassar",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
         {
-          "name": "john brennan",
+          "name": "larry nassar",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "40 minutes ago",
-          "percentageIncrease": "900%"
+          "searchVolume": "500+",
+          "started": "3h ago",
+          "percentageIncrease": "1000%"
         },
         {
-          "name": "greenland",
+          "name": "christmas eve eve",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "23h ago",
-          "trendBreakdown": "jeff",
-          "percentageIncrease": "200%"
+          "started": "2h ago",
+          "trendBreakdown": "are",
+          "percentageIncrease": "300%"
         },
         {
           "name": "charlie javice",
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "11h ago",
+          "started": "13h ago",
           "percentageIncrease": "100%"
         },
         {
@@ -38,7 +38,7 @@
           "relevanceScore": 85,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "1h ago",
+          "started": "3h ago",
           "percentageIncrease": "75%"
         }
       ]

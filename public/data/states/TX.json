@@ -1,19 +1,36 @@
 {
-  "timestamp": "2025-12-23T14:04:36.781Z",
+  "timestamp": "2025-12-23T16:04:47.973Z",
   "states": [
     {
       "name": "Texas",
       "code": "TX",
-      "topTopic": "flu a",
+      "topTopic": "larry nassar",
       "category": "Law and Government",
-      "trendingScore": 90,
+      "trendingScore": 100,
       "topics": [
+        {
+          "name": "larry nassar",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "2h ago",
+          "percentageIncrease": "1000%"
+        },
+        {
+          "name": "are banks open on christmas eve",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "1K+",
+          "started": "3h ago",
+          "trendBreakdown": "christmas",
+          "percentageIncrease": "300%"
+        },
         {
           "name": "flu a",
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "16h ago",
+          "started": "18h ago",
           "percentageIncrease": "100%"
         }
       ]

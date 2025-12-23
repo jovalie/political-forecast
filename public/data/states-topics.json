@@ -1,45 +1,53 @@
 {
-  "timestamp": "2025-12-23T14:04:36.781Z",
+  "timestamp": "2025-12-23T16:04:47.973Z",
   "states": [
     {
       "name": "California",
       "code": "CA",
-      "topTopic": "retuquel dupree",
+      "topTopic": "larry nassar",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
+        {
+          "name": "larry nassar",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "8h ago",
+          "percentageIncrease": "600%"
+        },
         {
           "name": "retuquel dupree",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "2K+",
-          "started": "12h ago",
+          "started": "14h ago",
           "trendBreakdown": "retuquel",
           "percentageIncrease": "600%"
         },
         {
-          "name": "greenland",
-          "relevanceScore": 90,
-          "category": "Law and Government",
-          "searchVolume": "2K+",
-          "started": "22h ago",
-          "percentageIncrease": "100%"
-        },
-        {
           "name": "tatyana remley",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "1K+",
+          "started": "17h ago",
+          "percentageIncrease": "200%"
+        },
+        {
+          "name": "christmas eve",
           "relevanceScore": 90,
           "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "15h ago",
+          "searchVolume": "1K+",
+          "started": "23h ago",
+          "trendBreakdown": "christmas",
           "percentageIncrease": "100%"
         },
         {
-          "name": "when is christmas eve",
+          "name": "new york times",
           "relevanceScore": 85,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "5h ago",
-          "trendBreakdown": "christmas",
+          "started": "8h ago",
           "percentageIncrease": "75%"
         }
       ]
@@ -47,61 +55,85 @@
     {
       "name": "Arizona",
       "code": "AZ",
-      "topTopic": "tulsi gabbard",
+      "topTopic": "larry nassar",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
         {
-          "name": "tulsi gabbard",
+          "name": "larry nassar",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "23h ago",
-          "percentageIncrease": "900%"
+          "started": "40 minutes ago",
+          "percentageIncrease": "1000%"
         }
       ]
     },
     {
       "name": "Florida",
       "code": "FL",
-      "topTopic": "christmas eve eve",
+      "topTopic": "zoo miami",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
         {
-          "name": "christmas eve eve",
+          "name": "zoo miami",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
           "started": "1h ago",
-          "trendBreakdown": "are",
+          "trendBreakdown": "miami",
+          "percentageIncrease": "1000%"
+        },
+        {
+          "name": "larry nassar",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "2h ago",
           "percentageIncrease": "800%"
+        },
+        {
+          "name": "are banks open on christmas eve",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "1K+",
+          "started": "5h ago",
+          "trendBreakdown": "christmas",
+          "percentageIncrease": "200%"
+        },
+        {
+          "name": "greenland",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "22h ago",
+          "percentageIncrease": "200%"
         }
       ]
     },
     {
       "name": "Georgia",
       "code": "GA",
-      "topTopic": "dekalb county jail",
+      "topTopic": "dekalb county",
       "category": "Law and Government",
-      "trendingScore": 95,
+      "trendingScore": 90,
       "topics": [
         {
-          "name": "dekalb county jail",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "2K+",
-          "started": "22h ago",
-          "trendBreakdown": "dekalb",
-          "percentageIncrease": "400%"
-        },
-        {
-          "name": "are banks open on christmas eve",
-          "relevanceScore": 95,
+          "name": "dekalb county",
+          "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "2h ago",
-          "percentageIncrease": "300%"
+          "started": "12h ago",
+          "percentageIncrease": "100%"
+        },
+        {
+          "name": "flu a",
+          "relevanceScore": 90,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "23h ago",
+          "percentageIncrease": "100%"
         }
       ]
     },
@@ -125,34 +157,34 @@
     {
       "name": "Indiana",
       "code": "IN",
-      "topTopic": "reddit",
+      "topTopic": "larry nassar",
       "category": "Law and Government",
-      "trendingScore": 85,
+      "trendingScore": 100,
       "topics": [
         {
-          "name": "reddit",
-          "relevanceScore": 85,
+          "name": "larry nassar",
+          "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "23h ago",
-          "percentageIncrease": "75%"
+          "started": "30 minutes ago",
+          "percentageIncrease": "600%"
         }
       ]
     },
     {
       "name": "Maryland",
       "code": "MD",
-      "topTopic": "dollar tree",
+      "topTopic": "larry nassar",
       "category": "Law and Government",
-      "trendingScore": 90,
+      "trendingScore": 100,
       "topics": [
         {
-          "name": "dollar tree",
-          "relevanceScore": 90,
+          "name": "larry nassar",
+          "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "23h ago",
-          "percentageIncrease": "100%"
+          "searchVolume": "100+",
+          "started": "50 minutes ago",
+          "percentageIncrease": "1000%"
         }
       ]
     },
@@ -228,7 +260,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "19h ago",
+          "started": "21h ago",
           "percentageIncrease": "600%"
         },
         {
@@ -236,8 +268,8 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "20 minutes ago",
-          "percentageIncrease": "700%"
+          "started": "2h ago",
+          "percentageIncrease": "800%"
         }
       ]
     },
@@ -270,33 +302,33 @@
     {
       "name": "New York",
       "code": "NY",
-      "topTopic": "john brennan",
+      "topTopic": "larry nassar",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
         {
-          "name": "john brennan",
+          "name": "larry nassar",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "40 minutes ago",
-          "percentageIncrease": "900%"
+          "searchVolume": "500+",
+          "started": "3h ago",
+          "percentageIncrease": "1000%"
         },
         {
-          "name": "greenland",
+          "name": "christmas eve eve",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "23h ago",
-          "trendBreakdown": "jeff",
-          "percentageIncrease": "200%"
+          "started": "2h ago",
+          "trendBreakdown": "are",
+          "percentageIncrease": "300%"
         },
         {
           "name": "charlie javice",
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "11h ago",
+          "started": "13h ago",
           "percentageIncrease": "100%"
         },
         {
@@ -304,7 +336,7 @@
           "relevanceScore": 85,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "1h ago",
+          "started": "3h ago",
           "percentageIncrease": "75%"
         }
       ]
@@ -312,17 +344,16 @@
     {
       "name": "Ohio",
       "code": "OH",
-      "topTopic": "richland source",
+      "topTopic": "leslie ann celebrezze",
       "category": "Law and Government",
       "trendingScore": 95,
       "topics": [
         {
-          "name": "richland source",
+          "name": "leslie ann celebrezze",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "9h ago",
-          "trendBreakdown": "mansfield",
+          "started": "4h ago",
           "percentageIncrease": "200%"
         }
       ]
@@ -347,16 +378,16 @@
     {
       "name": "Pennsylvania",
       "code": "PA",
-      "topTopic": "wgal",
+      "topTopic": "are banks open on christmas eve",
       "category": "Law and Government",
       "trendingScore": 95,
       "topics": [
         {
-          "name": "wgal",
+          "name": "are banks open on christmas eve",
           "relevanceScore": 95,
           "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "4h ago",
+          "searchVolume": "100+",
+          "started": "5h ago",
           "percentageIncrease": "200%"
         },
         {
@@ -364,7 +395,7 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "3h ago",
+          "started": "5h ago",
           "percentageIncrease": "300%"
         },
         {
@@ -372,7 +403,7 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "18h ago",
+          "started": "20h ago",
           "percentageIncrease": "200%"
         }
       ]
@@ -414,16 +445,33 @@
     {
       "name": "Texas",
       "code": "TX",
-      "topTopic": "flu a",
+      "topTopic": "larry nassar",
       "category": "Law and Government",
-      "trendingScore": 90,
+      "trendingScore": 100,
       "topics": [
+        {
+          "name": "larry nassar",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "2h ago",
+          "percentageIncrease": "1000%"
+        },
+        {
+          "name": "are banks open on christmas eve",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "1K+",
+          "started": "3h ago",
+          "trendBreakdown": "christmas",
+          "percentageIncrease": "300%"
+        },
         {
           "name": "flu a",
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "16h ago",
+          "started": "18h ago",
           "percentageIncrease": "100%"
         }
       ]
@@ -440,43 +488,43 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "20 minutes ago",
+          "started": "2h ago",
           "percentageIncrease": "1000%"
         },
         {
-          "name": "amber alert",
-          "relevanceScore": 100,
+          "name": "christmas eve eve",
+          "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "22h ago",
-          "percentageIncrease": "900%"
+          "started": "1h ago",
+          "trendBreakdown": "are",
+          "percentageIncrease": "400%"
         },
         {
           "name": "trump battleships",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "13h ago",
+          "started": "15h ago",
           "trendBreakdown": "uss",
-          "percentageIncrease": "200%"
+          "percentageIncrease": "300%"
         }
       ]
     },
     {
       "name": "District of Columbia",
       "code": "DC",
-      "topTopic": "greenland",
+      "topTopic": "john brennan",
       "category": "Law and Government",
-      "trendingScore": 90,
+      "trendingScore": 100,
       "topics": [
         {
-          "name": "greenland",
-          "relevanceScore": 90,
+          "name": "john brennan",
+          "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "14h ago",
-          "trendBreakdown": "jeff",
-          "percentageIncrease": "100%"
+          "started": "2h ago",
+          "percentageIncrease": "1000%"
         }
       ]
     },
@@ -594,9 +642,17 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "5K+",
-          "started": "12h ago",
+          "started": "14h ago",
           "trendBreakdown": "wild",
           "percentageIncrease": "1000%"
+        },
+        {
+          "name": "larry nassar",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "30 minutes ago",
+          "percentageIncrease": "800%"
         }
       ]
     },
@@ -620,34 +676,41 @@
     {
       "name": "Louisiana",
       "code": "LA",
-      "topTopic": "greenland",
+      "topTopic": "dollar tree",
       "category": "Law and Government",
-      "trendingScore": 95,
+      "trendingScore": 85,
       "topics": [
         {
-          "name": "greenland",
-          "relevanceScore": 95,
+          "name": "dollar tree",
+          "relevanceScore": 85,
           "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "13h ago",
-          "trendBreakdown": "jeff",
-          "percentageIncrease": "400%"
+          "searchVolume": "100+",
+          "started": "1h ago",
+          "percentageIncrease": "50%"
         }
       ]
     },
     {
       "name": "Minnesota",
       "code": "MN",
-      "topTopic": "influenza a",
+      "topTopic": "larry nassar",
       "category": "Law and Government",
-      "trendingScore": 90,
+      "trendingScore": 100,
       "topics": [
+        {
+          "name": "larry nassar",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "30 minutes ago",
+          "percentageIncrease": "1000%"
+        },
         {
           "name": "influenza a",
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "14h ago",
+          "started": "16h ago",
           "percentageIncrease": "100%"
         }
       ]
@@ -664,7 +727,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "20h ago",
+          "started": "22h ago",
           "trendBreakdown": "furnas",
           "percentageIncrease": "700%"
         }
@@ -699,7 +762,7 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "14h ago",
+          "started": "16h ago",
           "percentageIncrease": "300%"
         }
       ]
@@ -724,17 +787,17 @@
     {
       "name": "Kentucky",
       "code": "KY",
-      "topTopic": "us bank",
+      "topTopic": "dollar tree",
       "category": "Law and Government",
-      "trendingScore": 90,
+      "trendingScore": 85,
       "topics": [
         {
-          "name": "us bank",
-          "relevanceScore": 90,
+          "name": "dollar tree",
+          "relevanceScore": 85,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "12h ago",
-          "percentageIncrease": "100%"
+          "started": "2h ago",
+          "percentageIncrease": "75%"
         }
       ]
     },
@@ -966,7 +1029,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "15h ago",
+          "started": "17h ago",
           "percentageIncrease": "700%"
         }
       ]
