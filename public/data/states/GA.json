@@ -1,45 +1,37 @@
 {
-  "timestamp": "2025-12-24T02:35:07.138Z",
+  "timestamp": "2025-12-24T04:14:45.442Z",
   "states": [
     {
       "name": "Georgia",
       "code": "GA",
-      "topTopic": "larry nassar",
+      "topTopic": "melodee buzzard",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
-        {
-          "name": "larry nassar",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "11h ago",
-          "percentageIncrease": "1000%"
-        },
         {
           "name": "melodee buzzard",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "5h ago",
+          "started": "7h ago",
           "percentageIncrease": "700%"
+        },
+        {
+          "name": "larry nassar",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "1K+",
+          "started": "13h ago",
+          "percentageIncrease": "1000%"
         },
         {
           "name": "are banks open on christmas eve",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "14h ago",
+          "started": "16h ago",
           "trendBreakdown": "the",
           "percentageIncrease": "300%"
-        },
-        {
-          "name": "dekalb county",
-          "relevanceScore": 90,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "22h ago",
-          "percentageIncrease": "100%"
         }
       ]
     }

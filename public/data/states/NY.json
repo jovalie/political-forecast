@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-12-24T02:35:07.138Z",
+  "timestamp": "2025-12-24T04:14:45.442Z",
   "states": [
     {
       "name": "New York",
@@ -13,7 +13,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "5K+",
-          "started": "8h ago",
+          "started": "10h ago",
           "trendBreakdown": "fdny",
           "percentageIncrease": "1000%"
         },
@@ -22,7 +22,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "5K+",
-          "started": "13h ago",
+          "started": "15h ago",
           "trendBreakdown": "what",
           "percentageIncrease": "1000%"
         },
@@ -31,26 +31,35 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "2K+",
-          "started": "5h ago",
+          "started": "7h ago",
           "trendBreakdown": "nursing",
           "percentageIncrease": "600%"
         },
         {
-          "name": "is the post office open on christmas eve",
-          "relevanceScore": 90,
+          "name": "are banks open on christmas eve",
+          "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "7h ago",
-          "trendBreakdown": "are",
-          "percentageIncrease": "100%"
+          "started": "18h ago",
+          "trendBreakdown": "the",
+          "percentageIncrease": "200%"
         },
         {
-          "name": "charlie javice",
-          "relevanceScore": 90,
+          "name": "epstein files pdf",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "5h ago",
+          "trendBreakdown": "trump",
+          "percentageIncrease": "200%"
+        },
+        {
+          "name": "les wexner",
+          "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "23h ago",
-          "percentageIncrease": "100%"
+          "started": "5h ago",
+          "percentageIncrease": "200%"
         }
       ]
     }

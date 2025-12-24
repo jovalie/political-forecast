@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-12-24T02:35:07.138Z",
+  "timestamp": "2025-12-24T04:14:45.442Z",
   "states": [
     {
       "name": "Kentucky",
@@ -13,8 +13,16 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "8h ago",
+          "started": "10h ago",
           "percentageIncrease": "400%"
+        },
+        {
+          "name": "dollar tree",
+          "relevanceScore": 90,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "15h ago",
+          "percentageIncrease": "100%"
         }
       ]
     }
