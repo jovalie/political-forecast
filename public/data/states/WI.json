@@ -1,20 +1,28 @@
 {
-  "timestamp": "2025-12-23T22:04:27.355Z",
+  "timestamp": "2025-12-24T00:04:58.256Z",
   "states": [
     {
       "name": "Wisconsin",
       "code": "WI",
-      "topTopic": "maia pearson",
+      "topTopic": "larry nassar",
       "category": "Law and Government",
-      "trendingScore": 95,
+      "trendingScore": 100,
       "topics": [
         {
-          "name": "maia pearson",
+          "name": "larry nassar",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "7h ago",
+          "percentageIncrease": "500%"
+        },
+        {
+          "name": "melodee buzzard",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "22h ago",
-          "percentageIncrease": "300%"
+          "started": "1h ago",
+          "percentageIncrease": "400%"
         }
       ]
     }
