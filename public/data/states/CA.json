@@ -1,36 +1,19 @@
 {
-  "timestamp": "2025-12-24T16:04:34.828Z",
+  "timestamp": "2025-12-24T18:04:32.423Z",
   "states": [
     {
       "name": "California",
       "code": "CA",
-      "topTopic": "childcare",
+      "topTopic": "is the post office open on christmas eve",
       "category": "Law and Government",
-      "trendingScore": 100,
+      "trendingScore": 95,
       "topics": [
-        {
-          "name": "childcare",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "5h ago",
-          "percentageIncrease": "900%"
-        },
-        {
-          "name": "sce",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "2h ago",
-          "trendBreakdown": "socal",
-          "percentageIncrease": "200%"
-        },
         {
           "name": "is the post office open on christmas eve",
           "relevanceScore": 95,
           "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "18h ago",
+          "searchVolume": "2K+",
+          "started": "20h ago",
           "trendBreakdown": "usps",
           "percentageIncrease": "200%"
         },
@@ -39,15 +22,7 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "18h ago",
-          "percentageIncrease": "200%"
-        },
-        {
-          "name": "what does nubile mean",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "22h ago",
+          "started": "20h ago",
           "percentageIncrease": "200%"
         },
         {
@@ -55,16 +30,33 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "21h ago",
+          "started": "23h ago",
           "percentageIncrease": "200%"
         },
         {
           "name": "epstein files pdf",
           "relevanceScore": 90,
           "category": "Law and Government",
+          "searchVolume": "1K+",
+          "started": "20h ago",
+          "trendBreakdown": "unredacted",
+          "percentageIncrease": "100%"
+        },
+        {
+          "name": "sce",
+          "relevanceScore": 90,
+          "category": "Law and Government",
           "searchVolume": "2K+",
-          "started": "18h ago",
-          "trendBreakdown": "trump",
+          "started": "4h ago",
+          "trendBreakdown": "southern",
+          "percentageIncrease": "100%"
+        },
+        {
+          "name": "prince andrew",
+          "relevanceScore": 90,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "21h ago",
           "percentageIncrease": "100%"
         },
         {
@@ -72,25 +64,17 @@
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "18h ago",
+          "started": "20h ago",
           "trendBreakdown": "black",
           "percentageIncrease": "100%"
         },
         {
-          "name": "jenia resha belt",
+          "name": "barnes and noble near me",
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "11h ago",
+          "started": "1h ago",
           "percentageIncrease": "100%"
-        },
-        {
-          "name": "las vegas",
-          "relevanceScore": 85,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "16h ago",
-          "percentageIncrease": "75%"
         }
       ]
     }

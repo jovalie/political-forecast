@@ -1,20 +1,20 @@
 {
-  "timestamp": "2025-12-24T16:04:34.828Z",
+  "timestamp": "2025-12-24T18:04:32.423Z",
   "states": [
     {
       "name": "Washington",
       "code": "WA",
-      "topTopic": "larry nassar",
+      "topTopic": "washington state income tax",
       "category": "Law and Government",
-      "trendingScore": 100,
+      "trendingScore": 95,
       "topics": [
         {
-          "name": "larry nassar",
-          "relevanceScore": 100,
+          "name": "washington state income tax",
+          "relevanceScore": 95,
           "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "23h ago",
-          "percentageIncrease": "600%"
+          "searchVolume": "100+",
+          "started": "2h ago",
+          "percentageIncrease": "300%"
         }
       ]
     }

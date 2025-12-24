@@ -1,28 +1,19 @@
 {
-  "timestamp": "2025-12-24T16:04:34.828Z",
+  "timestamp": "2025-12-24T18:04:32.423Z",
   "states": [
     {
       "name": "New York",
       "code": "NY",
-      "topTopic": "lillian bonsignore",
+      "topTopic": "nursing home explosion bristol pa",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
-        {
-          "name": "lillian bonsignore",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "5K+",
-          "started": "22h ago",
-          "trendBreakdown": "fdny",
-          "percentageIncrease": "1000%"
-        },
         {
           "name": "nursing home explosion bristol pa",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "2K+",
-          "started": "15h ago",
+          "started": "17h ago",
           "trendBreakdown": "silver",
           "percentageIncrease": "500%"
         },
@@ -31,7 +22,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "10h ago",
+          "started": "12h ago",
           "percentageIncrease": "1000%"
         },
         {
@@ -39,7 +30,7 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "2K+",
-          "started": "20h ago",
+          "started": "22h ago",
           "trendBreakdown": "there",
           "percentageIncrease": "200%"
         },
@@ -48,16 +39,25 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "16h ago",
+          "started": "18h ago",
           "trendBreakdown": "trump",
           "percentageIncrease": "200%"
+        },
+        {
+          "name": "fdny commissioner",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "1K+",
+          "started": "23h ago",
+          "trendBreakdown": "new",
+          "percentageIncrease": "300%"
         },
         {
           "name": "les wexner",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "17h ago",
+          "started": "19h ago",
           "percentageIncrease": "200%"
         },
         {
@@ -65,16 +65,8 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "21h ago",
+          "started": "23h ago",
           "percentageIncrease": "200%"
-        },
-        {
-          "name": "flu a symptoms",
-          "relevanceScore": 90,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "5h ago",
-          "percentageIncrease": "100%"
         }
       ]
     }
