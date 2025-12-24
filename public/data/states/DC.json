@@ -1,37 +1,29 @@
 {
-  "timestamp": "2025-12-24T12:04:56.269Z",
+  "timestamp": "2025-12-24T14:04:44.534Z",
   "states": [
     {
       "name": "District of Columbia",
       "code": "DC",
-      "topTopic": "melodee buzzard",
+      "topTopic": "larry nassar",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
-        {
-          "name": "melodee buzzard",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "14h ago",
-          "trendBreakdown": "ashlee",
-          "percentageIncrease": "500%"
-        },
         {
           "name": "larry nassar",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "2K+",
-          "started": "21h ago",
+          "started": "23h ago",
           "percentageIncrease": "1000%"
         },
         {
-          "name": "john brennan",
+          "name": "melodee buzzard",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "22h ago",
-          "percentageIncrease": "1000%"
+          "searchVolume": "1K+",
+          "started": "16h ago",
+          "trendBreakdown": "ashlee",
+          "percentageIncrease": "500%"
         }
       ]
     }

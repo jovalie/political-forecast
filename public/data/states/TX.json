@@ -1,44 +1,36 @@
 {
-  "timestamp": "2025-12-24T12:04:56.269Z",
+  "timestamp": "2025-12-24T14:04:44.534Z",
   "states": [
     {
       "name": "Texas",
       "code": "TX",
-      "topTopic": "larry nassar",
+      "topTopic": "is christmas eve a federal holiday",
       "category": "Law and Government",
-      "trendingScore": 100,
+      "trendingScore": 90,
       "topics": [
         {
-          "name": "larry nassar",
-          "relevanceScore": 100,
+          "name": "is christmas eve a federal holiday",
+          "relevanceScore": 90,
           "category": "Law and Government",
-          "searchVolume": "2K+",
+          "searchVolume": "1K+",
           "started": "22h ago",
-          "percentageIncrease": "800%"
+          "trendBreakdown": "the",
+          "percentageIncrease": "100%"
         },
         {
-          "name": "are banks open on christmas eve",
-          "relevanceScore": 95,
+          "name": "fiesta",
+          "relevanceScore": 90,
           "category": "Law and Government",
-          "searchVolume": "2K+",
-          "started": "23h ago",
-          "trendBreakdown": "christmas",
-          "percentageIncrease": "200%"
+          "searchVolume": "500+",
+          "started": "13h ago",
+          "percentageIncrease": "100%"
         },
         {
           "name": "azul plastic surgery",
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "16h ago",
-          "percentageIncrease": "100%"
-        },
-        {
-          "name": "lotto",
-          "relevanceScore": 90,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "22h ago",
+          "started": "18h ago",
           "percentageIncrease": "100%"
         }
       ]

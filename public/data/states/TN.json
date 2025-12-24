@@ -1,28 +1,37 @@
 {
-  "timestamp": "2025-12-24T12:04:56.269Z",
+  "timestamp": "2025-12-24T14:04:44.534Z",
   "states": [
     {
       "name": "Tennessee",
       "code": "TN",
-      "topTopic": "larry nassar",
+      "topTopic": "melodee buzzard",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
-        {
-          "name": "larry nassar",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "20h ago",
-          "percentageIncrease": "600%"
-        },
         {
           "name": "melodee buzzard",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "14h ago",
+          "started": "16h ago",
+          "percentageIncrease": "500%"
+        },
+        {
+          "name": "larry nassar",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "22h ago",
           "percentageIncrease": "600%"
+        },
+        {
+          "name": "are banks open on christmas eve",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "23h ago",
+          "trendBreakdown": "does",
+          "percentageIncrease": "300%"
         }
       ]
     }

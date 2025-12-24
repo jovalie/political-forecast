@@ -1,53 +1,29 @@
 {
-  "timestamp": "2025-12-24T12:04:56.269Z",
+  "timestamp": "2025-12-24T14:04:44.534Z",
   "states": [
     {
       "name": "Virginia",
       "code": "VA",
-      "topTopic": "melodee buzzard",
+      "topTopic": "larry nassar",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
-        {
-          "name": "melodee buzzard",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "15h ago",
-          "trendBreakdown": "ashlee",
-          "percentageIncrease": "600%"
-        },
         {
           "name": "larry nassar",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "2K+",
-          "started": "22h ago",
-          "percentageIncrease": "900%"
+          "started": "24h ago",
+          "percentageIncrease": "800%"
         },
         {
-          "name": "john brennan",
+          "name": "melodee buzzard",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "22h ago",
-          "percentageIncrease": "1000%"
-        },
-        {
-          "name": "is the post office open on christmas eve",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "14h ago",
-          "percentageIncrease": "300%"
-        },
-        {
-          "name": "flu symptoms",
-          "relevanceScore": 90,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "23h ago",
-          "percentageIncrease": "100%"
+          "searchVolume": "1K+",
+          "started": "17h ago",
+          "trendBreakdown": "ashlee",
+          "percentageIncrease": "600%"
         }
       ]
     }
