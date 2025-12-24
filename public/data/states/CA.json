@@ -1,20 +1,28 @@
 {
-  "timestamp": "2025-12-24T18:04:32.423Z",
+  "timestamp": "2025-12-24T20:04:32.763Z",
   "states": [
     {
       "name": "California",
       "code": "CA",
-      "topTopic": "is the post office open on christmas eve",
+      "topTopic": "epstein files pdf",
       "category": "Law and Government",
       "trendingScore": 95,
       "topics": [
         {
-          "name": "is the post office open on christmas eve",
+          "name": "epstein files pdf",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "2K+",
-          "started": "20h ago",
-          "trendBreakdown": "usps",
+          "started": "22h ago",
+          "trendBreakdown": "unredacted",
+          "percentageIncrease": "200%"
+        },
+        {
+          "name": "ernest heinz",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "40 minutes ago",
           "percentageIncrease": "200%"
         },
         {
@@ -22,37 +30,20 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "20h ago",
+          "started": "22h ago",
           "percentageIncrease": "200%"
-        },
-        {
-          "name": "kash patel",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "23h ago",
-          "percentageIncrease": "200%"
-        },
-        {
-          "name": "epstein files pdf",
-          "relevanceScore": 90,
-          "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "20h ago",
-          "trendBreakdown": "unredacted",
-          "percentageIncrease": "100%"
         },
         {
           "name": "sce",
           "relevanceScore": 90,
           "category": "Law and Government",
-          "searchVolume": "2K+",
-          "started": "4h ago",
-          "trendBreakdown": "southern",
+          "searchVolume": "1K+",
+          "started": "6h ago",
+          "trendBreakdown": "cal",
           "percentageIncrease": "100%"
         },
         {
-          "name": "prince andrew",
+          "name": "ashley buzzard",
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "500+",
@@ -60,21 +51,29 @@
           "percentageIncrease": "100%"
         },
         {
+          "name": "prince andrew",
+          "relevanceScore": 90,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "23h ago",
+          "percentageIncrease": "100%"
+        },
+        {
           "name": "zodiac killer",
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "20h ago",
+          "started": "22h ago",
           "trendBreakdown": "black",
           "percentageIncrease": "100%"
         },
         {
           "name": "barnes and noble near me",
-          "relevanceScore": 90,
+          "relevanceScore": 85,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "1h ago",
-          "percentageIncrease": "100%"
+          "started": "3h ago",
+          "percentageIncrease": "75%"
         }
       ]
     }
