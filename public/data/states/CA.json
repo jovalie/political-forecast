@@ -1,38 +1,28 @@
 {
-  "timestamp": "2025-12-24T06:04:49.006Z",
+  "timestamp": "2025-12-24T08:04:53.303Z",
   "states": [
     {
       "name": "California",
       "code": "CA",
-      "topTopic": "larry nassar",
+      "topTopic": "epstein files pdf",
       "category": "Law and Government",
-      "trendingScore": 100,
+      "trendingScore": 95,
       "topics": [
-        {
-          "name": "larry nassar",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "5K+",
-          "started": "22h ago",
-          "trendBreakdown": "what",
-          "percentageIncrease": "1000%"
-        },
         {
           "name": "epstein files pdf",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "2K+",
-          "started": "8h ago",
+          "started": "10h ago",
           "trendBreakdown": "trump",
           "percentageIncrease": "200%"
         },
         {
-          "name": "is the post office open on christmas eve",
+          "name": "nipsey hussle",
           "relevanceScore": 95,
           "category": "Law and Government",
-          "searchVolume": "5K+",
-          "started": "8h ago",
-          "trendBreakdown": "are",
+          "searchVolume": "500+",
+          "started": "4h ago",
           "percentageIncrease": "200%"
         },
         {
@@ -40,7 +30,15 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "8h ago",
+          "started": "10h ago",
+          "percentageIncrease": "200%"
+        },
+        {
+          "name": "what does nubile mean",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "14h ago",
           "percentageIncrease": "200%"
         },
         {
@@ -48,15 +46,33 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "11h ago",
+          "started": "13h ago",
           "percentageIncrease": "200%"
+        },
+        {
+          "name": "is christmas eve a federal holiday",
+          "relevanceScore": 90,
+          "category": "Law and Government",
+          "searchVolume": "5K+",
+          "started": "16h ago",
+          "trendBreakdown": "are",
+          "percentageIncrease": "100%"
+        },
+        {
+          "name": "zodiac killer",
+          "relevanceScore": 90,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "10h ago",
+          "trendBreakdown": "black",
+          "percentageIncrease": "100%"
         },
         {
           "name": "jenia resha belt",
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "1h ago",
+          "started": "3h ago",
           "percentageIncrease": "100%"
         },
         {
@@ -64,15 +80,7 @@
           "relevanceScore": 85,
           "category": "Law and Government",
           "searchVolume": "2K+",
-          "started": "14h ago",
-          "percentageIncrease": "50%"
-        },
-        {
-          "name": "new york times",
-          "relevanceScore": 85,
-          "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "22h ago",
+          "started": "16h ago",
           "percentageIncrease": "75%"
         },
         {
@@ -80,7 +88,7 @@
           "relevanceScore": 85,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "6h ago",
+          "started": "8h ago",
           "percentageIncrease": "75%"
         }
       ]

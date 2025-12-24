@@ -1,36 +1,36 @@
 {
-  "timestamp": "2025-12-24T06:04:49.006Z",
+  "timestamp": "2025-12-24T08:04:53.303Z",
   "states": [
     {
       "name": "Virginia",
       "code": "VA",
-      "topTopic": "larry nassar",
+      "topTopic": "melodee buzzard",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
-        {
-          "name": "larry nassar",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "2K+",
-          "started": "16h ago",
-          "percentageIncrease": "900%"
-        },
         {
           "name": "melodee buzzard",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "9h ago",
+          "started": "11h ago",
           "trendBreakdown": "ashlee",
           "percentageIncrease": "700%"
+        },
+        {
+          "name": "larry nassar",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "2K+",
+          "started": "18h ago",
+          "percentageIncrease": "900%"
         },
         {
           "name": "john brennan",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "16h ago",
+          "started": "18h ago",
           "percentageIncrease": "1000%"
         },
         {
@@ -38,17 +38,8 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "18h ago",
+          "started": "20h ago",
           "trendBreakdown": "the",
-          "percentageIncrease": "200%"
-        },
-        {
-          "name": "epstein files pdf",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "2h ago",
-          "trendBreakdown": "cnn",
           "percentageIncrease": "200%"
         },
         {
@@ -56,7 +47,7 @@
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "17h ago",
+          "started": "19h ago",
           "percentageIncrease": "100%"
         }
       ]
