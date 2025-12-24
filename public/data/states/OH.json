@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-12-24T00:04:58.256Z",
+  "timestamp": "2025-12-24T02:35:07.138Z",
   "states": [
     {
       "name": "Ohio",
@@ -12,8 +12,8 @@
           "name": "larry nassar",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "9h ago",
+          "searchVolume": "2K+",
+          "started": "12h ago",
           "percentageIncrease": "1000%"
         },
         {
@@ -21,8 +21,16 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "3h ago",
+          "started": "5h ago",
           "trendBreakdown": "ashlee",
+          "percentageIncrease": "1000%"
+        },
+        {
+          "name": "dayton news",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "40 minutes ago",
           "percentageIncrease": "1000%"
         },
         {
@@ -30,7 +38,7 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "12h ago",
+          "started": "14h ago",
           "percentageIncrease": "200%"
         },
         {
@@ -38,7 +46,7 @@
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "1h ago",
+          "started": "3h ago",
           "percentageIncrease": "100%"
         }
       ]

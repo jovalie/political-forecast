@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-12-24T00:04:58.256Z",
+  "timestamp": "2025-12-24T02:35:07.138Z",
   "states": [
     {
       "name": "Arizona",
@@ -13,8 +13,17 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "8h ago",
+          "started": "11h ago",
           "percentageIncrease": "1000%"
+        },
+        {
+          "name": "are banks open on christmas eve",
+          "relevanceScore": 90,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "2h ago",
+          "trendBreakdown": "bankus",
+          "percentageIncrease": "100%"
         }
       ]
     }

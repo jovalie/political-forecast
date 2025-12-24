@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-12-24T00:04:58.256Z",
+  "timestamp": "2025-12-24T02:35:07.138Z",
   "states": [
     {
       "name": "Florida",
@@ -13,7 +13,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "2K+",
-          "started": "10h ago",
+          "started": "12h ago",
           "percentageIncrease": "1000%"
         },
         {
@@ -21,43 +21,34 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "2K+",
-          "started": "9h ago",
+          "started": "11h ago",
           "trendBreakdown": "miami",
           "percentageIncrease": "500%"
-        },
-        {
-          "name": "are banks open on christmas eve",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "13h ago",
-          "trendBreakdown": "when",
-          "percentageIncrease": "200%"
         },
         {
           "name": "barnes and noble palm beach gardens",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "5h ago",
-          "percentageIncrease": "400%"
+          "started": "7h ago",
+          "percentageIncrease": "300%"
         },
         {
-          "name": "silver lake nursing home",
+          "name": "are banks open on christmas eve",
           "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "1K+",
+          "started": "16h ago",
+          "trendBreakdown": "the",
+          "percentageIncrease": "200%"
+        },
+        {
+          "name": "public",
+          "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "100+",
           "started": "1h ago",
-          "trendBreakdown": "news",
-          "percentageIncrease": "200%"
-        },
-        {
-          "name": "trump battleships",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "23h ago",
-          "percentageIncrease": "200%"
+          "percentageIncrease": "100%"
         }
       ]
     }

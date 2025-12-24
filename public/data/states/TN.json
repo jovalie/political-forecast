@@ -1,19 +1,27 @@
 {
-  "timestamp": "2025-12-24T00:04:58.256Z",
+  "timestamp": "2025-12-24T02:35:07.138Z",
   "states": [
     {
       "name": "Tennessee",
       "code": "TN",
-      "topTopic": "larry nassar",
+      "topTopic": "melodee buzzard",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
+        {
+          "name": "melodee buzzard",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "4h ago",
+          "percentageIncrease": "600%"
+        },
         {
           "name": "larry nassar",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "8h ago",
+          "started": "10h ago",
           "percentageIncrease": "600%"
         }
       ]
