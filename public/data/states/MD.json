@@ -1,27 +1,19 @@
 {
-  "timestamp": "2025-12-24T14:04:44.534Z",
+  "timestamp": "2025-12-24T16:04:34.828Z",
   "states": [
     {
       "name": "Maryland",
       "code": "MD",
-      "topTopic": "larry nassar",
+      "topTopic": "melodee buzzard",
       "category": "Law and Government",
-      "trendingScore": 100,
+      "trendingScore": 95,
       "topics": [
-        {
-          "name": "larry nassar",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "22h ago",
-          "percentageIncrease": "900%"
-        },
         {
           "name": "melodee buzzard",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "16h ago",
+          "started": "18h ago",
           "percentageIncrease": "400%"
         }
       ]

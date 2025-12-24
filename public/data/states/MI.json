@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-12-24T14:04:44.534Z",
+  "timestamp": "2025-12-24T16:04:34.828Z",
   "states": [
     {
       "name": "Michigan",
@@ -13,7 +13,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "8h ago",
+          "started": "10h ago",
           "percentageIncrease": "1000%"
         },
         {
@@ -21,8 +21,16 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "16h ago",
+          "started": "18h ago",
           "percentageIncrease": "300%"
+        },
+        {
+          "name": "epstein files pdf",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "9h ago",
+          "percentageIncrease": "200%"
         }
       ]
     }

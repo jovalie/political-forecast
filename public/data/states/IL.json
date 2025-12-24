@@ -1,29 +1,29 @@
 {
-  "timestamp": "2025-12-24T14:04:44.534Z",
+  "timestamp": "2025-12-24T16:04:34.828Z",
   "states": [
     {
       "name": "Illinois",
       "code": "IL",
-      "topTopic": "larry nassar",
+      "topTopic": "melodee buzzard",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
-        {
-          "name": "larry nassar",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "2K+",
-          "started": "23h ago",
-          "percentageIncrease": "1000%"
-        },
         {
           "name": "melodee buzzard",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "17h ago",
+          "started": "19h ago",
           "trendBreakdown": "ashlee",
-          "percentageIncrease": "700%"
+          "percentageIncrease": "600%"
+        },
+        {
+          "name": "kevin niemiec",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "13h ago",
+          "percentageIncrease": "400%"
         }
       ]
     }

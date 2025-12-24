@@ -1,28 +1,19 @@
 {
-  "timestamp": "2025-12-24T14:04:44.534Z",
+  "timestamp": "2025-12-24T16:04:34.828Z",
   "states": [
     {
       "name": "Florida",
       "code": "FL",
-      "topTopic": "zoo miami",
+      "topTopic": "epstein files pdf",
       "category": "Law and Government",
-      "trendingScore": 100,
+      "trendingScore": 95,
       "topics": [
-        {
-          "name": "zoo miami",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "2K+",
-          "started": "23h ago",
-          "trendBreakdown": "miami",
-          "percentageIncrease": "500%"
-        },
         {
           "name": "epstein files pdf",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "14h ago",
+          "started": "16h ago",
           "trendBreakdown": "trump",
           "percentageIncrease": "200%"
         },
@@ -31,16 +22,8 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "14h ago",
+          "started": "16h ago",
           "trendBreakdown": "christmas",
-          "percentageIncrease": "200%"
-        },
-        {
-          "name": "barnes and noble palm beach gardens",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "19h ago",
           "percentageIncrease": "300%"
         },
         {
@@ -48,7 +31,7 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "10h ago",
+          "started": "12h ago",
           "percentageIncrease": "200%"
         },
         {
@@ -56,8 +39,17 @@
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "10h ago",
+          "started": "12h ago",
           "percentageIncrease": "100%"
+        },
+        {
+          "name": "barnes and noble",
+          "relevanceScore": 85,
+          "category": "Law and Government",
+          "searchVolume": "1K+",
+          "started": "1h ago",
+          "trendBreakdown": "barnes",
+          "percentageIncrease": "50%"
         }
       ]
     }

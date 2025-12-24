@@ -1,36 +1,35 @@
 {
-  "timestamp": "2025-12-24T14:04:44.534Z",
+  "timestamp": "2025-12-24T16:04:34.828Z",
   "states": [
     {
       "name": "North Carolina",
       "code": "NC",
-      "topTopic": "larry nassar",
+      "topTopic": "independence mall",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
-        {
-          "name": "larry nassar",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "2K+",
-          "started": "23h ago",
-          "percentageIncrease": "900%"
-        },
         {
           "name": "independence mall",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "2K+",
-          "started": "17h ago",
-          "trendBreakdown": "wect",
+          "started": "19h ago",
           "percentageIncrease": "900%"
+        },
+        {
+          "name": "wect",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "1h ago",
+          "percentageIncrease": "300%"
         },
         {
           "name": "epstein files pdf",
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "7h ago",
+          "started": "9h ago",
           "percentageIncrease": "100%"
         }
       ]

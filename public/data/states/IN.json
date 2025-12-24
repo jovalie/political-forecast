@@ -1,27 +1,19 @@
 {
-  "timestamp": "2025-12-24T14:04:44.534Z",
+  "timestamp": "2025-12-24T16:04:34.828Z",
   "states": [
     {
       "name": "Indiana",
       "code": "IN",
-      "topTopic": "larry nassar",
+      "topTopic": "jacob bard",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
-        {
-          "name": "larry nassar",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "22h ago",
-          "percentageIncrease": "500%"
-        },
         {
           "name": "jacob bard",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "19h ago",
+          "started": "21h ago",
           "percentageIncrease": "600%"
         }
       ]
