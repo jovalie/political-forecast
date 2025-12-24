@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-12-24T20:04:32.763Z",
+  "timestamp": "2025-12-24T22:04:33.831Z",
   "states": [
     {
       "name": "California",
@@ -13,24 +13,8 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "2K+",
-          "started": "22h ago",
+          "started": "24h ago",
           "trendBreakdown": "unredacted",
-          "percentageIncrease": "200%"
-        },
-        {
-          "name": "ernest heinz",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "40 minutes ago",
-          "percentageIncrease": "200%"
-        },
-        {
-          "name": "supreme court",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "22h ago",
           "percentageIncrease": "200%"
         },
         {
@@ -38,7 +22,7 @@
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "6h ago",
+          "started": "8h ago",
           "trendBreakdown": "cal",
           "percentageIncrease": "100%"
         },
@@ -47,24 +31,7 @@
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "21h ago",
-          "percentageIncrease": "100%"
-        },
-        {
-          "name": "prince andrew",
-          "relevanceScore": 90,
-          "category": "Law and Government",
-          "searchVolume": "500+",
           "started": "23h ago",
-          "percentageIncrease": "100%"
-        },
-        {
-          "name": "zodiac killer",
-          "relevanceScore": 90,
-          "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "22h ago",
-          "trendBreakdown": "black",
           "percentageIncrease": "100%"
         },
         {
@@ -72,8 +39,16 @@
           "relevanceScore": 85,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "3h ago",
+          "started": "5h ago",
           "percentageIncrease": "75%"
+        },
+        {
+          "name": "white",
+          "relevanceScore": 85,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "12h ago",
+          "percentageIncrease": "50%"
         }
       ]
     },
@@ -106,8 +81,8 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "20h ago",
-          "trendBreakdown": "epstein",
+          "started": "22h ago",
+          "trendBreakdown": "doj",
           "percentageIncrease": "200%"
         },
         {
@@ -115,7 +90,7 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "20h ago",
+          "started": "22h ago",
           "trendBreakdown": "post",
           "percentageIncrease": "300%"
         },
@@ -124,15 +99,15 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "16h ago",
+          "started": "18h ago",
           "percentageIncrease": "200%"
         },
         {
           "name": "public",
           "relevanceScore": 90,
           "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "18h ago",
+          "searchVolume": "1K+",
+          "started": "20h ago",
           "percentageIncrease": "100%"
         },
         {
@@ -140,15 +115,15 @@
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "16h ago",
+          "started": "18h ago",
           "percentageIncrease": "100%"
         },
         {
           "name": "trulieve",
           "relevanceScore": 85,
           "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "7h ago",
+          "searchVolume": "2K+",
+          "started": "9h ago",
           "percentageIncrease": "50%"
         },
         {
@@ -156,7 +131,7 @@
           "relevanceScore": 85,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "5h ago",
+          "started": "7h ago",
           "trendBreakdown": "barnes",
           "percentageIncrease": "50%"
         }
@@ -165,61 +140,51 @@
     {
       "name": "Georgia",
       "code": "GA",
-      "topTopic": "melodee buzzard",
+      "topTopic": "public",
       "category": "Law and Government",
-      "trendingScore": 100,
+      "trendingScore": 95,
       "topics": [
         {
-          "name": "melodee buzzard",
-          "relevanceScore": 100,
+          "name": "public",
+          "relevanceScore": 95,
           "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "23h ago",
-          "trendBreakdown": "ashlee",
-          "percentageIncrease": "600%"
+          "searchVolume": "100+",
+          "started": "2h ago",
+          "percentageIncrease": "200%"
         },
         {
           "name": "is the post office open on christmas eve",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "21h ago",
-          "trendBreakdown": "does",
+          "started": "23h ago",
+          "trendBreakdown": "post",
           "percentageIncrease": "300%"
+        },
+        {
+          "name": "lenox mall",
+          "relevanceScore": 90,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "22h ago",
+          "percentageIncrease": "100%"
         }
       ]
     },
     {
       "name": "Illinois",
       "code": "IL",
-      "topTopic": "melodee buzzard",
+      "topTopic": "kevin niemiec",
       "category": "Law and Government",
-      "trendingScore": 100,
+      "trendingScore": 95,
       "topics": [
-        {
-          "name": "melodee buzzard",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "23h ago",
-          "trendBreakdown": "ashlee",
-          "percentageIncrease": "600%"
-        },
         {
           "name": "kevin niemiec",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "17h ago",
+          "started": "19h ago",
           "percentageIncrease": "400%"
-        },
-        {
-          "name": "epstein files pdf",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "15h ago",
-          "percentageIncrease": "200%"
         }
       ]
     },
@@ -243,17 +208,25 @@
     {
       "name": "Maryland",
       "code": "MD",
-      "topTopic": "melodee buzzard",
+      "topTopic": "ice shooting glen burnie",
       "category": "Law and Government",
-      "trendingScore": 95,
+      "trendingScore": 100,
       "topics": [
         {
-          "name": "melodee buzzard",
+          "name": "ice shooting glen burnie",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "50 minutes ago",
+          "percentageIncrease": "900%"
+        },
+        {
+          "name": "wawa",
           "relevanceScore": 95,
           "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "22h ago",
-          "percentageIncrease": "400%"
+          "searchVolume": "100+",
+          "started": "3h ago",
+          "percentageIncrease": "200%"
         }
       ]
     },
@@ -269,23 +242,15 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "14h ago",
+          "started": "16h ago",
           "percentageIncrease": "1000%"
-        },
-        {
-          "name": "melodee buzzard",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "22h ago",
-          "percentageIncrease": "300%"
         },
         {
           "name": "epstein files pdf",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "13h ago",
+          "started": "15h ago",
           "percentageIncrease": "200%"
         }
       ]
@@ -293,17 +258,17 @@
     {
       "name": "Massachusetts",
       "code": "MA",
-      "topTopic": "melodee buzzard",
+      "topTopic": "epstein files pdf",
       "category": "Law and Government",
       "trendingScore": 95,
       "topics": [
         {
-          "name": "melodee buzzard",
+          "name": "epstein files pdf",
           "relevanceScore": 95,
           "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "22h ago",
-          "percentageIncrease": "400%"
+          "searchVolume": "100+",
+          "started": "17h ago",
+          "percentageIncrease": "200%"
         }
       ]
     },
@@ -327,51 +292,34 @@
     {
       "name": "New Jersey",
       "code": "NJ",
-      "topTopic": "silver lake nursing home",
+      "topTopic": "delaware state trooper killed today",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
         {
-          "name": "silver lake nursing home",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "5K+",
-          "started": "24h ago",
-          "trendBreakdown": "nursing",
-          "percentageIncrease": "1000%"
-        },
-        {
-          "name": "delaware state police",
+          "name": "delaware state trooper killed today",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "20h ago",
+          "started": "10h ago",
           "trendBreakdown": "delaware",
           "percentageIncrease": "500%"
         },
         {
-          "name": "melodee buzzard",
+          "name": "nursing home explosion bristol pa",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "1K+",
+          "searchVolume": "2K+",
           "started": "23h ago",
-          "trendBreakdown": "ashlee",
-          "percentageIncrease": "500%"
-        },
-        {
-          "name": "lillian bonsignore",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "23h ago",
-          "percentageIncrease": "700%"
+          "trendBreakdown": "bristol",
+          "percentageIncrease": "800%"
         },
         {
           "name": "garden state plaza",
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "19h ago",
+          "started": "21h ago",
           "percentageIncrease": "100%"
         }
       ]
@@ -379,40 +327,24 @@
     {
       "name": "North Carolina",
       "code": "NC",
-      "topTopic": "independence mall",
+      "topTopic": "why are flags at half mast today",
       "category": "Law and Government",
-      "trendingScore": 100,
+      "trendingScore": 95,
       "topics": [
-        {
-          "name": "independence mall",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "2K+",
-          "started": "23h ago",
-          "percentageIncrease": "900%"
-        },
-        {
-          "name": "epstein files pdf",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "13h ago",
-          "percentageIncrease": "200%"
-        },
         {
           "name": "why are flags at half mast today",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "2h ago",
+          "started": "4h ago",
           "percentageIncrease": "200%"
         },
         {
           "name": "wect",
           "relevanceScore": 95,
           "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "5h ago",
+          "searchVolume": "100+",
+          "started": "7h ago",
           "percentageIncrease": "300%"
         }
       ]
@@ -420,17 +352,25 @@
     {
       "name": "New York",
       "code": "NY",
-      "topTopic": "nursing home explosion bristol pa",
+      "topTopic": "eu visa bans",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
         {
+          "name": "eu visa bans",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "40 minutes ago",
+          "percentageIncrease": "800%"
+        },
+        {
           "name": "nursing home explosion bristol pa",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "2K+",
-          "started": "19h ago",
-          "trendBreakdown": "silver",
+          "searchVolume": "1K+",
+          "started": "21h ago",
+          "trendBreakdown": "nursing",
           "percentageIncrease": "500%"
         },
         {
@@ -438,7 +378,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "14h ago",
+          "started": "16h ago",
           "percentageIncrease": "1000%"
         },
         {
@@ -446,24 +386,8 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "20h ago",
-          "trendBreakdown": "trump",
-          "percentageIncrease": "200%"
-        },
-        {
-          "name": "ernest heinz",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "1h ago",
-          "percentageIncrease": "200%"
-        },
-        {
-          "name": "ashlee buzzard",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "1K+",
           "started": "22h ago",
+          "trendBreakdown": "unredacted",
           "percentageIncrease": "200%"
         },
         {
@@ -471,7 +395,7 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "21h ago",
+          "started": "23h ago",
           "percentageIncrease": "200%"
         },
         {
@@ -479,7 +403,7 @@
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "13h ago",
+          "started": "15h ago",
           "percentageIncrease": "100%"
         }
       ]
@@ -487,25 +411,16 @@
     {
       "name": "Ohio",
       "code": "OH",
-      "topTopic": "melodee buzzard",
+      "topTopic": "dayton news",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
-        {
-          "name": "melodee buzzard",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "23h ago",
-          "trendBreakdown": "ashlee",
-          "percentageIncrease": "600%"
-        },
         {
           "name": "dayton news",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "18h ago",
+          "started": "20h ago",
           "percentageIncrease": "1000%"
         },
         {
@@ -513,9 +428,17 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "21h ago",
+          "started": "23h ago",
           "trendBreakdown": "post",
           "percentageIncrease": "300%"
+        },
+        {
+          "name": "ashlee buzzard",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "22h ago",
+          "percentageIncrease": "400%"
         }
       ]
     },
@@ -539,35 +462,35 @@
     {
       "name": "Pennsylvania",
       "code": "PA",
-      "topTopic": "melodee buzzard",
+      "topTopic": "nursing home explosion bucks county",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
         {
-          "name": "melodee buzzard",
+          "name": "nursing home explosion bucks county",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "2K+",
+          "searchVolume": "5K+",
           "started": "23h ago",
-          "trendBreakdown": "ashlee",
-          "percentageIncrease": "600%"
-        },
-        {
-          "name": "nbc",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "23h ago",
-          "percentageIncrease": "500%"
+          "trendBreakdown": "nursing",
+          "percentageIncrease": "1000%"
         },
         {
           "name": "delaware state police",
           "relevanceScore": 95,
           "category": "Law and Government",
-          "searchVolume": "2K+",
-          "started": "21h ago",
+          "searchVolume": "1K+",
+          "started": "23h ago",
           "trendBreakdown": "delaware",
           "percentageIncrease": "400%"
+        },
+        {
+          "name": "wawa",
+          "relevanceScore": 90,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "3h ago",
+          "percentageIncrease": "100%"
         }
       ]
     },
@@ -617,15 +540,8 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "17h ago",
-          "percentageIncrease": "200%"
-        },
-        {
-          "name": "ashlee buzzard",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "23h ago",
+          "started": "19h ago",
+          "trendBreakdown": "unredacted",
           "percentageIncrease": "200%"
         },
         {
@@ -633,42 +549,32 @@
           "relevanceScore": 85,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "5h ago",
+          "started": "7h ago",
           "percentageIncrease": "50%"
+        },
+        {
+          "name": "white",
+          "relevanceScore": 85,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "14h ago",
+          "percentageIncrease": "75%"
         }
       ]
     },
     {
       "name": "Virginia",
       "code": "VA",
-      "topTopic": "melodee buzzard",
+      "topTopic": "barnes and noble",
       "category": "Law and Government",
-      "trendingScore": 100,
+      "trendingScore": 85,
       "topics": [
-        {
-          "name": "melodee buzzard",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "23h ago",
-          "trendBreakdown": "ashlee",
-          "percentageIncrease": "600%"
-        },
-        {
-          "name": "is the post office open on christmas eve",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "22h ago",
-          "trendBreakdown": "post",
-          "percentageIncrease": "300%"
-        },
         {
           "name": "barnes and noble",
           "relevanceScore": 85,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "5h ago",
+          "started": "7h ago",
           "percentageIncrease": "75%"
         }
       ]
@@ -676,25 +582,24 @@
     {
       "name": "District of Columbia",
       "code": "DC",
-      "topTopic": "melodee buzzard",
+      "topTopic": "epstein files pdf",
       "category": "Law and Government",
-      "trendingScore": 100,
+      "trendingScore": 95,
       "topics": [
         {
-          "name": "melodee buzzard",
-          "relevanceScore": 100,
+          "name": "epstein files pdf",
+          "relevanceScore": 95,
           "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "22h ago",
-          "trendBreakdown": "ashlee",
-          "percentageIncrease": "500%"
+          "searchVolume": "100+",
+          "started": "2h ago",
+          "percentageIncrease": "200%"
         },
         {
           "name": "barnes and noble",
           "relevanceScore": 85,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "6h ago",
+          "started": "8h ago",
           "percentageIncrease": "75%"
         }
       ]
@@ -711,8 +616,16 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "21h ago",
+          "started": "23h ago",
           "percentageIncrease": "200%"
+        },
+        {
+          "name": "homeland",
+          "relevanceScore": 90,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "1h ago",
+          "percentageIncrease": "100%"
         }
       ]
     },
@@ -736,16 +649,24 @@
     {
       "name": "Washington",
       "code": "WA",
-      "topTopic": "washington state income tax",
+      "topTopic": "epstein files pdf",
       "category": "Law and Government",
       "trendingScore": 95,
       "topics": [
+        {
+          "name": "epstein files pdf",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "15h ago",
+          "percentageIncrease": "200%"
+        },
         {
           "name": "washington state income tax",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "4h ago",
+          "started": "6h ago",
           "percentageIncrease": "300%"
         }
       ]
@@ -813,7 +734,7 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "20h ago",
+          "started": "22h ago",
           "percentageIncrease": "400%"
         },
         {
@@ -821,7 +742,7 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "14h ago",
+          "started": "16h ago",
           "percentageIncrease": "200%"
         }
       ]
@@ -872,7 +793,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "21h ago",
+          "started": "23h ago",
           "percentageIncrease": "500%"
         }
       ]
@@ -889,7 +810,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "21h ago",
+          "started": "23h ago",
           "percentageIncrease": "500%"
         }
       ]
@@ -1173,18 +1094,18 @@
     {
       "name": "Delaware",
       "code": "DE",
-      "topTopic": "delaware state police",
+      "topTopic": "delaware state trooper killed today",
       "category": "Law and Government",
-      "trendingScore": 100,
+      "trendingScore": 95,
       "topics": [
         {
-          "name": "delaware state police",
-          "relevanceScore": 100,
+          "name": "delaware state trooper killed today",
+          "relevanceScore": 95,
           "category": "Law and Government",
-          "searchVolume": "5K+",
-          "started": "22h ago",
-          "trendBreakdown": "dmv",
-          "percentageIncrease": "700%"
+          "searchVolume": "500+",
+          "started": "20h ago",
+          "trendBreakdown": "snookty",
+          "percentageIncrease": "400%"
         }
       ]
     },

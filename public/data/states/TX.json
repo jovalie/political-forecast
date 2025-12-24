@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-12-24T20:04:32.763Z",
+  "timestamp": "2025-12-24T22:04:33.831Z",
   "states": [
     {
       "name": "Texas",
@@ -13,15 +13,8 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "17h ago",
-          "percentageIncrease": "200%"
-        },
-        {
-          "name": "ashlee buzzard",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "23h ago",
+          "started": "19h ago",
+          "trendBreakdown": "unredacted",
           "percentageIncrease": "200%"
         },
         {
@@ -29,8 +22,16 @@
           "relevanceScore": 85,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "5h ago",
+          "started": "7h ago",
           "percentageIncrease": "50%"
+        },
+        {
+          "name": "white",
+          "relevanceScore": 85,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "14h ago",
+          "percentageIncrease": "75%"
         }
       ]
     }

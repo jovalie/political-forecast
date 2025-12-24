@@ -1,37 +1,20 @@
 {
-  "timestamp": "2025-12-24T20:04:32.763Z",
+  "timestamp": "2025-12-24T22:04:33.831Z",
   "states": [
     {
       "name": "Illinois",
       "code": "IL",
-      "topTopic": "melodee buzzard",
+      "topTopic": "kevin niemiec",
       "category": "Law and Government",
-      "trendingScore": 100,
+      "trendingScore": 95,
       "topics": [
-        {
-          "name": "melodee buzzard",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "23h ago",
-          "trendBreakdown": "ashlee",
-          "percentageIncrease": "600%"
-        },
         {
           "name": "kevin niemiec",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "17h ago",
+          "started": "19h ago",
           "percentageIncrease": "400%"
-        },
-        {
-          "name": "epstein files pdf",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "15h ago",
-          "percentageIncrease": "200%"
         }
       ]
     }

@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-12-24T20:04:32.763Z",
+  "timestamp": "2025-12-24T22:04:33.831Z",
   "states": [
     {
       "name": "California",
@@ -13,24 +13,8 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "2K+",
-          "started": "22h ago",
+          "started": "24h ago",
           "trendBreakdown": "unredacted",
-          "percentageIncrease": "200%"
-        },
-        {
-          "name": "ernest heinz",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "40 minutes ago",
-          "percentageIncrease": "200%"
-        },
-        {
-          "name": "supreme court",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "22h ago",
           "percentageIncrease": "200%"
         },
         {
@@ -38,7 +22,7 @@
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "6h ago",
+          "started": "8h ago",
           "trendBreakdown": "cal",
           "percentageIncrease": "100%"
         },
@@ -47,24 +31,7 @@
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "21h ago",
-          "percentageIncrease": "100%"
-        },
-        {
-          "name": "prince andrew",
-          "relevanceScore": 90,
-          "category": "Law and Government",
-          "searchVolume": "500+",
           "started": "23h ago",
-          "percentageIncrease": "100%"
-        },
-        {
-          "name": "zodiac killer",
-          "relevanceScore": 90,
-          "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "22h ago",
-          "trendBreakdown": "black",
           "percentageIncrease": "100%"
         },
         {
@@ -72,8 +39,16 @@
           "relevanceScore": 85,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "3h ago",
+          "started": "5h ago",
           "percentageIncrease": "75%"
+        },
+        {
+          "name": "white",
+          "relevanceScore": 85,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "12h ago",
+          "percentageIncrease": "50%"
         }
       ]
     }

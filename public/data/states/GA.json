@@ -1,30 +1,37 @@
 {
-  "timestamp": "2025-12-24T20:04:32.763Z",
+  "timestamp": "2025-12-24T22:04:33.831Z",
   "states": [
     {
       "name": "Georgia",
       "code": "GA",
-      "topTopic": "melodee buzzard",
+      "topTopic": "public",
       "category": "Law and Government",
-      "trendingScore": 100,
+      "trendingScore": 95,
       "topics": [
         {
-          "name": "melodee buzzard",
-          "relevanceScore": 100,
+          "name": "public",
+          "relevanceScore": 95,
           "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "23h ago",
-          "trendBreakdown": "ashlee",
-          "percentageIncrease": "600%"
+          "searchVolume": "100+",
+          "started": "2h ago",
+          "percentageIncrease": "200%"
         },
         {
           "name": "is the post office open on christmas eve",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "21h ago",
-          "trendBreakdown": "does",
+          "started": "23h ago",
+          "trendBreakdown": "post",
           "percentageIncrease": "300%"
+        },
+        {
+          "name": "lenox mall",
+          "relevanceScore": 90,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "22h ago",
+          "percentageIncrease": "100%"
         }
       ]
     }

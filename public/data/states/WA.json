@@ -1,19 +1,27 @@
 {
-  "timestamp": "2025-12-24T20:04:32.763Z",
+  "timestamp": "2025-12-24T22:04:33.831Z",
   "states": [
     {
       "name": "Washington",
       "code": "WA",
-      "topTopic": "washington state income tax",
+      "topTopic": "epstein files pdf",
       "category": "Law and Government",
       "trendingScore": 95,
       "topics": [
+        {
+          "name": "epstein files pdf",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "15h ago",
+          "percentageIncrease": "200%"
+        },
         {
           "name": "washington state income tax",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "4h ago",
+          "started": "6h ago",
           "percentageIncrease": "300%"
         }
       ]
