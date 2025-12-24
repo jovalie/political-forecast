@@ -1,37 +1,37 @@
 {
-  "timestamp": "2025-12-24T04:14:45.442Z",
+  "timestamp": "2025-12-24T06:04:49.006Z",
   "states": [
     {
       "name": "Georgia",
       "code": "GA",
-      "topTopic": "melodee buzzard",
+      "topTopic": "larry nassar",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
-        {
-          "name": "melodee buzzard",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "7h ago",
-          "percentageIncrease": "700%"
-        },
         {
           "name": "larry nassar",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "13h ago",
-          "percentageIncrease": "1000%"
+          "started": "15h ago",
+          "percentageIncrease": "900%"
         },
         {
-          "name": "are banks open on christmas eve",
-          "relevanceScore": 95,
+          "name": "melodee buzzard",
+          "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "16h ago",
-          "trendBreakdown": "the",
-          "percentageIncrease": "300%"
+          "started": "9h ago",
+          "percentageIncrease": "600%"
+        },
+        {
+          "name": "when is christmas eve",
+          "relevanceScore": 90,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "20 minutes ago",
+          "trendBreakdown": "are",
+          "percentageIncrease": "100%"
         }
       ]
     }

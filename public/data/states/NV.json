@@ -1,20 +1,20 @@
 {
-  "timestamp": "2025-12-24T04:14:45.442Z",
+  "timestamp": "2025-12-24T06:04:49.006Z",
   "states": [
     {
       "name": "Nevada",
       "code": "NV",
-      "topTopic": "larry nassar",
+      "topTopic": "smiths",
       "category": "Law and Government",
-      "trendingScore": 100,
+      "trendingScore": 90,
       "topics": [
         {
-          "name": "larry nassar",
-          "relevanceScore": 100,
+          "name": "smiths",
+          "relevanceScore": 90,
           "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "2h ago",
-          "percentageIncrease": "600%"
+          "searchVolume": "500+",
+          "started": "16h ago",
+          "percentageIncrease": "100%"
         }
       ]
     }
