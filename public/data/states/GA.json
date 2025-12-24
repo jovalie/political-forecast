@@ -1,36 +1,35 @@
 {
-  "timestamp": "2025-12-24T10:04:27.403Z",
+  "timestamp": "2025-12-24T12:04:56.269Z",
   "states": [
     {
       "name": "Georgia",
       "code": "GA",
-      "topTopic": "larry nassar",
+      "topTopic": "melodee buzzard",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
-        {
-          "name": "larry nassar",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "19h ago",
-          "percentageIncrease": "900%"
-        },
         {
           "name": "melodee buzzard",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "13h ago",
+          "started": "15h ago",
           "percentageIncrease": "600%"
         },
         {
-          "name": "when is christmas eve",
+          "name": "larry nassar",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "1K+",
+          "started": "21h ago",
+          "percentageIncrease": "900%"
+        },
+        {
+          "name": "mall",
           "relevanceScore": 90,
           "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "4h ago",
-          "trendBreakdown": "are",
+          "searchVolume": "100+",
+          "started": "12h ago",
           "percentageIncrease": "100%"
         }
       ]

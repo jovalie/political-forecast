@@ -1,21 +1,21 @@
 {
-  "timestamp": "2025-12-24T10:04:27.403Z",
+  "timestamp": "2025-12-24T12:04:56.269Z",
   "states": [
     {
       "name": "Delaware",
       "code": "DE",
-      "topTopic": "delaware state police",
+      "topTopic": "delaware dmv shooting",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
         {
-          "name": "delaware state police",
+          "name": "delaware dmv shooting",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "10K+",
-          "started": "12h ago",
+          "started": "16h ago",
           "trendBreakdown": "delaware",
-          "percentageIncrease": "900%"
+          "percentageIncrease": "1000%"
         }
       ]
     }

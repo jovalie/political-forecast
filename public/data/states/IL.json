@@ -1,38 +1,39 @@
 {
-  "timestamp": "2025-12-24T10:04:27.403Z",
+  "timestamp": "2025-12-24T12:04:56.269Z",
   "states": [
     {
       "name": "Illinois",
       "code": "IL",
-      "topTopic": "larry nassar",
+      "topTopic": "melodee buzzard",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
-        {
-          "name": "larry nassar",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "2K+",
-          "started": "19h ago",
-          "percentageIncrease": "1000%"
-        },
         {
           "name": "melodee buzzard",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "13h ago",
+          "started": "15h ago",
           "trendBreakdown": "ashlee",
           "percentageIncrease": "800%"
+        },
+        {
+          "name": "larry nassar",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "2K+",
+          "started": "21h ago",
+          "trendBreakdown": "les",
+          "percentageIncrease": "1000%"
         },
         {
           "name": "are banks open on christmas eve",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "20h ago",
+          "started": "22h ago",
           "trendBreakdown": "the",
-          "percentageIncrease": "300%"
+          "percentageIncrease": "200%"
         }
       ]
     }
