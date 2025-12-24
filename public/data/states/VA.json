@@ -1,36 +1,36 @@
 {
-  "timestamp": "2025-12-24T08:04:53.303Z",
+  "timestamp": "2025-12-24T10:04:27.403Z",
   "states": [
     {
       "name": "Virginia",
       "code": "VA",
-      "topTopic": "melodee buzzard",
+      "topTopic": "larry nassar",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
-        {
-          "name": "melodee buzzard",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "11h ago",
-          "trendBreakdown": "ashlee",
-          "percentageIncrease": "700%"
-        },
         {
           "name": "larry nassar",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "2K+",
-          "started": "18h ago",
+          "started": "20h ago",
           "percentageIncrease": "900%"
+        },
+        {
+          "name": "melodee buzzard",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "1K+",
+          "started": "13h ago",
+          "trendBreakdown": "ashlee",
+          "percentageIncrease": "600%"
         },
         {
           "name": "john brennan",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "18h ago",
+          "started": "20h ago",
           "percentageIncrease": "1000%"
         },
         {
@@ -38,7 +38,7 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "20h ago",
+          "started": "22h ago",
           "trendBreakdown": "the",
           "percentageIncrease": "200%"
         },
@@ -47,7 +47,7 @@
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "19h ago",
+          "started": "21h ago",
           "percentageIncrease": "100%"
         }
       ]
