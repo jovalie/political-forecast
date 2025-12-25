@@ -1,19 +1,27 @@
 {
-  "timestamp": "2025-12-25T02:37:39.036Z",
+  "timestamp": "2025-12-25T04:16:10.188Z",
   "states": [
     {
       "name": "California",
       "code": "CA",
-      "topTopic": "sce",
+      "topTopic": "abc",
       "category": "Law and Government",
       "trendingScore": 90,
       "topics": [
+        {
+          "name": "abc",
+          "relevanceScore": 90,
+          "category": "Law and Government",
+          "searchVolume": "1K+",
+          "started": "15h ago",
+          "percentageIncrease": "100%"
+        },
         {
           "name": "sce",
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "13h ago",
+          "started": "15h ago",
           "percentageIncrease": "100%"
         },
         {
@@ -21,7 +29,7 @@
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "21h ago",
+          "started": "23h ago",
           "percentageIncrease": "100%"
         },
         {
@@ -29,7 +37,7 @@
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "3h ago",
+          "started": "4h ago",
           "trendBreakdown": "breaking",
           "percentageIncrease": "100%"
         },
@@ -38,7 +46,7 @@
           "relevanceScore": 85,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "9h ago",
+          "started": "11h ago",
           "percentageIncrease": "75%"
         },
         {
@@ -46,7 +54,7 @@
           "relevanceScore": 85,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "17h ago",
+          "started": "19h ago",
           "percentageIncrease": "50%"
         }
       ]
@@ -63,7 +71,7 @@
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "21h ago",
+          "started": "23h ago",
           "percentageIncrease": "100%"
         }
       ]
@@ -80,31 +88,15 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "3h ago",
+          "started": "4h ago",
           "percentageIncrease": "200%"
-        },
-        {
-          "name": "les wexner",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "23h ago",
-          "percentageIncrease": "200%"
-        },
-        {
-          "name": "prince andrew",
-          "relevanceScore": 90,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "23h ago",
-          "percentageIncrease": "100%"
         },
         {
           "name": "trulieve",
           "relevanceScore": 85,
           "category": "Law and Government",
           "searchVolume": "2K+",
-          "started": "14h ago",
+          "started": "15h ago",
           "percentageIncrease": "50%"
         },
         {
@@ -112,7 +104,7 @@
           "relevanceScore": 85,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "12h ago",
+          "started": "13h ago",
           "trendBreakdown": "barnes",
           "percentageIncrease": "50%"
         }
@@ -223,7 +215,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "20h ago",
+          "started": "22h ago",
           "percentageIncrease": "1000%"
         }
       ]
@@ -274,7 +266,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "4h ago",
+          "started": "6h ago",
           "trendBreakdown": "delaware",
           "percentageIncrease": "600%"
         }
@@ -292,7 +284,7 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "12h ago",
+          "started": "13h ago",
           "percentageIncrease": "300%"
         },
         {
@@ -300,7 +292,7 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "9h ago",
+          "started": "10h ago",
           "percentageIncrease": "200%"
         },
         {
@@ -308,7 +300,7 @@
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "13h ago",
+          "started": "14h ago",
           "percentageIncrease": "100%"
         }
       ]
@@ -325,7 +317,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "5h ago",
+          "started": "6h ago",
           "percentageIncrease": "800%"
         },
         {
@@ -333,7 +325,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "20h ago",
+          "started": "22h ago",
           "percentageIncrease": "1000%"
         },
         {
@@ -341,7 +333,7 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "2h ago",
+          "started": "4h ago",
           "percentageIncrease": "200%"
         },
         {
@@ -349,7 +341,7 @@
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "2h ago",
+          "started": "4h ago",
           "percentageIncrease": "100%"
         },
         {
@@ -357,7 +349,7 @@
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "4h ago",
+          "started": "5h ago",
           "percentageIncrease": "100%"
         },
         {
@@ -365,7 +357,7 @@
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "20h ago",
+          "started": "22h ago",
           "percentageIncrease": "100%"
         }
       ]
@@ -373,24 +365,24 @@
     {
       "name": "Ohio",
       "code": "OH",
-      "topTopic": "epstein files pdf",
+      "topTopic": "elwood jones",
       "category": "Law and Government",
-      "trendingScore": 95,
+      "trendingScore": 100,
       "topics": [
         {
-          "name": "epstein files pdf",
-          "relevanceScore": 95,
+          "name": "elwood jones",
+          "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "22h ago",
-          "percentageIncrease": "300%"
+          "searchVolume": "100+",
+          "started": "1h ago",
+          "percentageIncrease": "700%"
         },
         {
           "name": "red robin",
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "4h ago",
+          "started": "5h ago",
           "percentageIncrease": "100%"
         }
       ]
@@ -475,7 +467,7 @@
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "30 minutes ago",
+          "started": "2h ago",
           "percentageIncrease": "100%"
         },
         {
@@ -483,7 +475,7 @@
           "relevanceScore": 85,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "12h ago",
+          "started": "13h ago",
           "percentageIncrease": "50%"
         },
         {
@@ -491,7 +483,7 @@
           "relevanceScore": 85,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "19h ago",
+          "started": "20h ago",
           "percentageIncrease": "75%"
         }
       ]
@@ -508,7 +500,7 @@
           "relevanceScore": 85,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "12h ago",
+          "started": "14h ago",
           "percentageIncrease": "75%"
         }
       ]
@@ -525,7 +517,7 @@
           "relevanceScore": 85,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "12h ago",
+          "started": "14h ago",
           "percentageIncrease": "75%"
         }
       ]
@@ -542,8 +534,8 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "6h ago",
-          "percentageIncrease": "300%"
+          "started": "7h ago",
+          "percentageIncrease": "200%"
         }
       ]
     },
@@ -576,7 +568,7 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "10h ago",
+          "started": "12h ago",
           "percentageIncrease": "300%"
         }
       ]
@@ -644,7 +636,7 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "21h ago",
+          "started": "22h ago",
           "percentageIncrease": "200%"
         },
         {
@@ -652,7 +644,7 @@
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "2h ago",
+          "started": "4h ago",
           "percentageIncrease": "100%"
         }
       ]

@@ -1,19 +1,27 @@
 {
-  "timestamp": "2025-12-25T02:37:39.036Z",
+  "timestamp": "2025-12-25T04:16:10.188Z",
   "states": [
     {
       "name": "California",
       "code": "CA",
-      "topTopic": "sce",
+      "topTopic": "abc",
       "category": "Law and Government",
       "trendingScore": 90,
       "topics": [
+        {
+          "name": "abc",
+          "relevanceScore": 90,
+          "category": "Law and Government",
+          "searchVolume": "1K+",
+          "started": "15h ago",
+          "percentageIncrease": "100%"
+        },
         {
           "name": "sce",
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "13h ago",
+          "started": "15h ago",
           "percentageIncrease": "100%"
         },
         {
@@ -21,7 +29,7 @@
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "21h ago",
+          "started": "23h ago",
           "percentageIncrease": "100%"
         },
         {
@@ -29,7 +37,7 @@
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "3h ago",
+          "started": "4h ago",
           "trendBreakdown": "breaking",
           "percentageIncrease": "100%"
         },
@@ -38,7 +46,7 @@
           "relevanceScore": 85,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "9h ago",
+          "started": "11h ago",
           "percentageIncrease": "75%"
         },
         {
@@ -46,7 +54,7 @@
           "relevanceScore": 85,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "17h ago",
+          "started": "19h ago",
           "percentageIncrease": "50%"
         }
       ]
