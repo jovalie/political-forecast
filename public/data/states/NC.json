@@ -1,19 +1,27 @@
 {
-  "timestamp": "2025-12-25T04:16:10.188Z",
+  "timestamp": "2025-12-25T06:04:43.577Z",
   "states": [
     {
       "name": "North Carolina",
       "code": "NC",
-      "topTopic": "wect",
+      "topTopic": "epstein files pdf",
       "category": "Law and Government",
       "trendingScore": 95,
       "topics": [
+        {
+          "name": "epstein files pdf",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "23h ago",
+          "percentageIncrease": "300%"
+        },
         {
           "name": "wect",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "13h ago",
+          "started": "15h ago",
           "percentageIncrease": "300%"
         },
         {
@@ -21,7 +29,7 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "10h ago",
+          "started": "12h ago",
           "percentageIncrease": "200%"
         },
         {
@@ -29,7 +37,7 @@
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "14h ago",
+          "started": "16h ago",
           "percentageIncrease": "100%"
         }
       ]

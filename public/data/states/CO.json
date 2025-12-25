@@ -1,27 +1,19 @@
 {
-  "timestamp": "2025-12-25T04:16:10.188Z",
+  "timestamp": "2025-12-25T06:04:43.577Z",
   "states": [
     {
       "name": "Colorado",
       "code": "CO",
-      "topTopic": "measles",
+      "topTopic": "red robin",
       "category": "Law and Government",
-      "trendingScore": 95,
+      "trendingScore": 90,
       "topics": [
-        {
-          "name": "measles",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "22h ago",
-          "percentageIncrease": "200%"
-        },
         {
           "name": "red robin",
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "4h ago",
+          "started": "6h ago",
           "percentageIncrease": "100%"
         }
       ]

@@ -1,44 +1,19 @@
 {
-  "timestamp": "2025-12-25T04:16:10.188Z",
+  "timestamp": "2025-12-25T06:04:43.577Z",
   "states": [
     {
       "name": "California",
       "code": "CA",
-      "topTopic": "abc",
+      "topTopic": "sce",
       "category": "Law and Government",
       "trendingScore": 90,
       "topics": [
-        {
-          "name": "abc",
-          "relevanceScore": 90,
-          "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "15h ago",
-          "percentageIncrease": "100%"
-        },
         {
           "name": "sce",
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "15h ago",
-          "percentageIncrease": "100%"
-        },
-        {
-          "name": "unredacted epstein files",
-          "relevanceScore": 90,
-          "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "23h ago",
-          "percentageIncrease": "100%"
-        },
-        {
-          "name": "michael abatti",
-          "relevanceScore": 90,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "4h ago",
-          "trendBreakdown": "breaking",
+          "started": "16h ago",
           "percentageIncrease": "100%"
         },
         {
@@ -46,7 +21,7 @@
           "relevanceScore": 85,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "11h ago",
+          "started": "13h ago",
           "percentageIncrease": "75%"
         },
         {
@@ -54,7 +29,7 @@
           "relevanceScore": 85,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "19h ago",
+          "started": "20h ago",
           "percentageIncrease": "50%"
         }
       ]
