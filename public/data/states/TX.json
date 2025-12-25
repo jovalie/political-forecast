@@ -1,43 +1,35 @@
 {
-  "timestamp": "2025-12-25T18:04:47.585Z",
+  "timestamp": "2025-12-25T20:04:35.244Z",
   "states": [
     {
       "name": "Texas",
       "code": "TX",
-      "topTopic": "laredo",
+      "topTopic": "tom segura",
       "category": "Law and Government",
-      "trendingScore": 100,
+      "trendingScore": 95,
       "topics": [
-        {
-          "name": "laredo",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "5K+",
-          "started": "11h ago",
-          "percentageIncrease": "1000%"
-        },
         {
           "name": "tom segura",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "1h ago",
+          "started": "3h ago",
           "percentageIncrease": "200%"
+        },
+        {
+          "name": "sonic",
+          "relevanceScore": 90,
+          "category": "Law and Government",
+          "searchVolume": "5K+",
+          "started": "21h ago",
+          "percentageIncrease": "100%"
         },
         {
           "name": "the star",
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "16h ago",
-          "percentageIncrease": "100%"
-        },
-        {
-          "name": "greenland",
-          "relevanceScore": 90,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "16h ago",
+          "started": "18h ago",
           "percentageIncrease": "100%"
         },
         {
@@ -45,7 +37,7 @@
           "relevanceScore": 85,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "8h ago",
+          "started": "10h ago",
           "percentageIncrease": "75%"
         }
       ]

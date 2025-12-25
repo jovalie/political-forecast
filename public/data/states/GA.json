@@ -1,37 +1,28 @@
 {
-  "timestamp": "2025-12-25T18:04:47.585Z",
+  "timestamp": "2025-12-25T20:04:35.244Z",
   "states": [
     {
       "name": "Georgia",
       "code": "GA",
-      "topTopic": "laredo",
+      "topTopic": "carnival cruise",
       "category": "Law and Government",
-      "trendingScore": 100,
+      "trendingScore": 95,
       "topics": [
         {
-          "name": "laredo",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "2K+",
-          "started": "12h ago",
-          "percentageIncrease": "1000%"
-        },
-        {
-          "name": "efta",
+          "name": "carnival cruise",
           "relevanceScore": 95,
           "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "22h ago",
-          "trendBreakdown": "epstein",
-          "percentageIncrease": "300%"
+          "searchVolume": "100+",
+          "started": "9h ago",
+          "percentageIncrease": "200%"
         },
         {
-          "name": "public",
-          "relevanceScore": 95,
+          "name": "epstein files pdf",
+          "relevanceScore": 90,
           "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "22h ago",
-          "percentageIncrease": "300%"
+          "searchVolume": "100+",
+          "started": "17h ago",
+          "percentageIncrease": "100%"
         }
       ]
     }

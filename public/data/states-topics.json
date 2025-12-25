@@ -1,36 +1,20 @@
 {
-  "timestamp": "2025-12-25T18:04:47.585Z",
+  "timestamp": "2025-12-25T20:04:35.244Z",
   "states": [
     {
       "name": "California",
       "code": "CA",
-      "topTopic": "laredo",
+      "topTopic": "car accident lawyer",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
         {
-          "name": "laredo",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "10K+",
-          "started": "10h ago",
-          "percentageIncrease": "1000%"
-        },
-        {
           "name": "car accident lawyer",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "1h ago",
-          "trendBreakdown": "truck",
-          "percentageIncrease": "500%"
-        },
-        {
-          "name": "personal injury lawyer",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "1h ago",
+          "searchVolume": "2K+",
+          "started": "3h ago",
+          "trendBreakdown": "personal",
           "percentageIncrease": "500%"
         },
         {
@@ -38,7 +22,7 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "10h ago",
+          "started": "12h ago",
           "trendBreakdown": "amber",
           "percentageIncrease": "400%"
         },
@@ -47,7 +31,7 @@
           "relevanceScore": 85,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "7h ago",
+          "started": "9h ago",
           "percentageIncrease": "50%"
         }
       ]
@@ -81,32 +65,32 @@
     {
       "name": "Florida",
       "code": "FL",
-      "topTopic": "laredo",
+      "topTopic": "presidente",
       "category": "Law and Government",
-      "trendingScore": 100,
+      "trendingScore": 95,
       "topics": [
-        {
-          "name": "laredo",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "10K+",
-          "started": "13h ago",
-          "percentageIncrease": "1000%"
-        },
         {
           "name": "presidente",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "18h ago",
+          "started": "20h ago",
           "percentageIncrease": "300%"
+        },
+        {
+          "name": "greenland",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "1h ago",
+          "percentageIncrease": "200%"
         },
         {
           "name": "white",
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "12h ago",
+          "started": "14h ago",
           "percentageIncrease": "100%"
         },
         {
@@ -114,7 +98,7 @@
           "relevanceScore": 85,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "9h ago",
+          "started": "11h ago",
           "percentageIncrease": "75%"
         }
       ]
@@ -122,34 +106,25 @@
     {
       "name": "Georgia",
       "code": "GA",
-      "topTopic": "laredo",
+      "topTopic": "carnival cruise",
       "category": "Law and Government",
-      "trendingScore": 100,
+      "trendingScore": 95,
       "topics": [
         {
-          "name": "laredo",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "2K+",
-          "started": "12h ago",
-          "percentageIncrease": "1000%"
-        },
-        {
-          "name": "efta",
+          "name": "carnival cruise",
           "relevanceScore": 95,
           "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "22h ago",
-          "trendBreakdown": "epstein",
-          "percentageIncrease": "300%"
+          "searchVolume": "100+",
+          "started": "9h ago",
+          "percentageIncrease": "200%"
         },
         {
-          "name": "public",
-          "relevanceScore": 95,
+          "name": "epstein files pdf",
+          "relevanceScore": 90,
           "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "22h ago",
-          "percentageIncrease": "300%"
+          "searchVolume": "100+",
+          "started": "17h ago",
+          "percentageIncrease": "100%"
         }
       ]
     },
@@ -182,16 +157,8 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "5K+",
-          "started": "17h ago",
+          "started": "19h ago",
           "trendBreakdown": "ken",
-          "percentageIncrease": "1000%"
-        },
-        {
-          "name": "laredo",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "2K+",
-          "started": "12h ago",
           "percentageIncrease": "1000%"
         },
         {
@@ -199,7 +166,7 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "21h ago",
+          "started": "23h ago",
           "percentageIncrease": "300%"
         }
       ]
@@ -207,24 +174,16 @@
     {
       "name": "Maryland",
       "code": "MD",
-      "topTopic": "laredo",
+      "topTopic": "efta",
       "category": "Law and Government",
-      "trendingScore": 100,
+      "trendingScore": 95,
       "topics": [
-        {
-          "name": "laredo",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "2K+",
-          "started": "12h ago",
-          "percentageIncrease": "1000%"
-        },
         {
           "name": "efta",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "22h ago",
+          "started": "24h ago",
           "percentageIncrease": "300%"
         }
       ]
@@ -290,50 +249,50 @@
     {
       "name": "Missouri",
       "code": "MO",
-      "topTopic": "laredo",
+      "topTopic": "sonic",
       "category": "Law and Government",
-      "trendingScore": 100,
+      "trendingScore": 90,
       "topics": [
         {
-          "name": "laredo",
-          "relevanceScore": 100,
+          "name": "sonic",
+          "relevanceScore": 90,
           "category": "Law and Government",
-          "searchVolume": "2K+",
-          "started": "11h ago",
-          "percentageIncrease": "1000%"
+          "searchVolume": "1K+",
+          "started": "23h ago",
+          "percentageIncrease": "100%"
         }
       ]
     },
     {
       "name": "New Jersey",
       "code": "NJ",
-      "topTopic": "laredo",
+      "topTopic": "matthew snook",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
         {
-          "name": "laredo",
+          "name": "matthew snook",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "5K+",
-          "started": "12h ago",
-          "percentageIncrease": "1000%"
+          "searchVolume": "500+",
+          "started": "22h ago",
+          "trendBreakdown": "delaware",
+          "percentageIncrease": "500%"
+        },
+        {
+          "name": "rhode",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "2h ago",
+          "percentageIncrease": "300%"
         },
         {
           "name": "american dream mall",
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "2K+",
-          "started": "4h ago",
-          "percentageIncrease": "100%"
-        },
-        {
-          "name": "american dream",
-          "relevanceScore": 90,
-          "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "2h ago",
-          "trendBreakdown": "matthew",
+          "started": "6h ago",
           "percentageIncrease": "100%"
         }
       ]
@@ -358,24 +317,16 @@
     {
       "name": "New York",
       "code": "NY",
-      "topTopic": "laredo",
+      "topTopic": "eu visa bans",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
-        {
-          "name": "laredo",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "10K+",
-          "started": "13h ago",
-          "percentageIncrease": "1000%"
-        },
         {
           "name": "eu visa bans",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "20h ago",
+          "started": "22h ago",
           "percentageIncrease": "800%"
         },
         {
@@ -383,7 +334,7 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "18h ago",
+          "started": "20h ago",
           "percentageIncrease": "200%"
         },
         {
@@ -391,7 +342,7 @@
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "19h ago",
+          "started": "21h ago",
           "percentageIncrease": "100%"
         },
         {
@@ -399,32 +350,32 @@
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "18h ago",
+          "started": "20h ago",
           "percentageIncrease": "100%"
+        },
+        {
+          "name": "american dream mall",
+          "relevanceScore": 85,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "3h ago",
+          "percentageIncrease": "75%"
         }
       ]
     },
     {
       "name": "Ohio",
       "code": "OH",
-      "topTopic": "laredo",
+      "topTopic": "elwood jones",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
-        {
-          "name": "laredo",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "5K+",
-          "started": "12h ago",
-          "percentageIncrease": "1000%"
-        },
         {
           "name": "elwood jones",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "15h ago",
+          "started": "17h ago",
           "percentageIncrease": "600%"
         },
         {
@@ -432,7 +383,7 @@
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "19h ago",
+          "started": "21h ago",
           "percentageIncrease": "100%"
         }
       ]
@@ -440,24 +391,16 @@
     {
       "name": "Oregon",
       "code": "OR",
-      "topTopic": "laredo",
+      "topTopic": "efta",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
-        {
-          "name": "laredo",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "2K+",
-          "started": "9h ago",
-          "percentageIncrease": "1000%"
-        },
         {
           "name": "efta",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "21h ago",
+          "started": "23h ago",
           "percentageIncrease": "500%"
         }
       ]
@@ -465,24 +408,24 @@
     {
       "name": "Pennsylvania",
       "code": "PA",
-      "topTopic": "laredo",
+      "topTopic": "greenland",
       "category": "Law and Government",
-      "trendingScore": 100,
+      "trendingScore": 95,
       "topics": [
         {
-          "name": "laredo",
-          "relevanceScore": 100,
+          "name": "greenland",
+          "relevanceScore": 95,
           "category": "Law and Government",
-          "searchVolume": "5K+",
-          "started": "12h ago",
-          "percentageIncrease": "1000%"
+          "searchVolume": "100+",
+          "started": "1h ago",
+          "percentageIncrease": "200%"
         },
         {
           "name": "discord",
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "10h ago",
+          "started": "12h ago",
           "percentageIncrease": "100%"
         }
       ]
@@ -490,17 +433,17 @@
     {
       "name": "South Carolina",
       "code": "SC",
-      "topTopic": "laredo",
+      "topTopic": "sonic",
       "category": "Law and Government",
-      "trendingScore": 100,
+      "trendingScore": 95,
       "topics": [
         {
-          "name": "laredo",
-          "relevanceScore": 100,
+          "name": "sonic",
+          "relevanceScore": 95,
           "category": "Law and Government",
-          "searchVolume": "2K+",
-          "started": "12h ago",
-          "percentageIncrease": "1000%"
+          "searchVolume": "500+",
+          "started": "21h ago",
+          "percentageIncrease": "200%"
         }
       ]
     },
@@ -532,40 +475,32 @@
     {
       "name": "Texas",
       "code": "TX",
-      "topTopic": "laredo",
+      "topTopic": "tom segura",
       "category": "Law and Government",
-      "trendingScore": 100,
+      "trendingScore": 95,
       "topics": [
-        {
-          "name": "laredo",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "5K+",
-          "started": "11h ago",
-          "percentageIncrease": "1000%"
-        },
         {
           "name": "tom segura",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "1h ago",
+          "started": "3h ago",
           "percentageIncrease": "200%"
+        },
+        {
+          "name": "sonic",
+          "relevanceScore": 90,
+          "category": "Law and Government",
+          "searchVolume": "5K+",
+          "started": "21h ago",
+          "percentageIncrease": "100%"
         },
         {
           "name": "the star",
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "16h ago",
-          "percentageIncrease": "100%"
-        },
-        {
-          "name": "greenland",
-          "relevanceScore": 90,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "16h ago",
+          "started": "18h ago",
           "percentageIncrease": "100%"
         },
         {
@@ -573,7 +508,7 @@
           "relevanceScore": 85,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "8h ago",
+          "started": "10h ago",
           "percentageIncrease": "75%"
         }
       ]
@@ -581,17 +516,17 @@
     {
       "name": "Virginia",
       "code": "VA",
-      "topTopic": "laredo",
+      "topTopic": "greenland",
       "category": "Law and Government",
-      "trendingScore": 100,
+      "trendingScore": 95,
       "topics": [
         {
-          "name": "laredo",
-          "relevanceScore": 100,
+          "name": "greenland",
+          "relevanceScore": 95,
           "category": "Law and Government",
-          "searchVolume": "5K+",
-          "started": "12h ago",
-          "percentageIncrease": "1000%"
+          "searchVolume": "100+",
+          "started": "1h ago",
+          "percentageIncrease": "300%"
         }
       ]
     },
@@ -623,24 +558,32 @@
     {
       "name": "Oklahoma",
       "code": "OK",
-      "topTopic": "laredo",
+      "topTopic": "homeland",
       "category": "Law and Government",
-      "trendingScore": 100,
+      "trendingScore": 95,
       "topics": [
         {
-          "name": "laredo",
-          "relevanceScore": 100,
+          "name": "homeland",
+          "relevanceScore": 95,
           "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "7h ago",
-          "percentageIncrease": "800%"
+          "searchVolume": "1K+",
+          "started": "23h ago",
+          "percentageIncrease": "200%"
+        },
+        {
+          "name": "sonic",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "1K+",
+          "started": "21h ago",
+          "percentageIncrease": "200%"
         },
         {
           "name": "efta",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "19h ago",
+          "started": "21h ago",
           "percentageIncrease": "300%"
         }
       ]
@@ -682,24 +625,16 @@
     {
       "name": "Alabama",
       "code": "AL",
-      "topTopic": "laredo",
+      "topTopic": "efta",
       "category": "Law and Government",
-      "trendingScore": 100,
+      "trendingScore": 95,
       "topics": [
-        {
-          "name": "laredo",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "9h ago",
-          "percentageIncrease": "1000%"
-        },
         {
           "name": "efta",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "19h ago",
+          "started": "21h ago",
           "percentageIncrease": "300%"
         }
       ]
@@ -707,58 +642,50 @@
     {
       "name": "Kansas",
       "code": "KS",
-      "topTopic": "laredo",
+      "topTopic": "sonic",
       "category": "Law and Government",
-      "trendingScore": 100,
+      "trendingScore": 95,
       "topics": [
         {
-          "name": "laredo",
-          "relevanceScore": 100,
+          "name": "sonic",
+          "relevanceScore": 95,
           "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "6h ago",
-          "percentageIncrease": "1000%"
+          "searchVolume": "500+",
+          "started": "22h ago",
+          "percentageIncrease": "300%"
         }
       ]
     },
     {
       "name": "New Mexico",
       "code": "NM",
-      "topTopic": "laredo",
+      "topTopic": "sonic",
       "category": "Law and Government",
-      "trendingScore": 100,
+      "trendingScore": 95,
       "topics": [
         {
-          "name": "laredo",
-          "relevanceScore": 100,
+          "name": "sonic",
+          "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "4h ago",
-          "percentageIncrease": "700%"
+          "started": "18h ago",
+          "percentageIncrease": "200%"
         }
       ]
     },
     {
       "name": "Colorado",
       "code": "CO",
-      "topTopic": "laredo",
+      "topTopic": "efta",
       "category": "Law and Government",
-      "trendingScore": 100,
+      "trendingScore": 95,
       "topics": [
-        {
-          "name": "laredo",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "2K+",
-          "started": "10h ago",
-          "percentageIncrease": "1000%"
-        },
         {
           "name": "efta",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "21h ago",
+          "started": "23h ago",
           "percentageIncrease": "400%"
         },
         {
@@ -766,7 +693,7 @@
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "18h ago",
+          "started": "20h ago",
           "percentageIncrease": "100%"
         }
       ]

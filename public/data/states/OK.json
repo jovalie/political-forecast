@@ -1,27 +1,35 @@
 {
-  "timestamp": "2025-12-25T18:04:47.585Z",
+  "timestamp": "2025-12-25T20:04:35.244Z",
   "states": [
     {
       "name": "Oklahoma",
       "code": "OK",
-      "topTopic": "laredo",
+      "topTopic": "homeland",
       "category": "Law and Government",
-      "trendingScore": 100,
+      "trendingScore": 95,
       "topics": [
         {
-          "name": "laredo",
-          "relevanceScore": 100,
+          "name": "homeland",
+          "relevanceScore": 95,
           "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "7h ago",
-          "percentageIncrease": "800%"
+          "searchVolume": "1K+",
+          "started": "23h ago",
+          "percentageIncrease": "200%"
+        },
+        {
+          "name": "sonic",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "1K+",
+          "started": "21h ago",
+          "percentageIncrease": "200%"
         },
         {
           "name": "efta",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "19h ago",
+          "started": "21h ago",
           "percentageIncrease": "300%"
         }
       ]
