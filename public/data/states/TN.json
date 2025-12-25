@@ -1,20 +1,20 @@
 {
-  "timestamp": "2025-12-25T06:04:43.577Z",
+  "timestamp": "2025-12-25T08:04:29.867Z",
   "states": [
     {
       "name": "Tennessee",
       "code": "TN",
-      "topTopic": "melodee buzzard",
+      "topTopic": "sonic",
       "category": "Law and Government",
-      "trendingScore": 100,
+      "trendingScore": 90,
       "topics": [
         {
-          "name": "melodee buzzard",
-          "relevanceScore": 100,
+          "name": "sonic",
+          "relevanceScore": 90,
           "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "22h ago",
-          "percentageIncrease": "500%"
+          "searchVolume": "1K+",
+          "started": "10h ago",
+          "percentageIncrease": "100%"
         }
       ]
     }
