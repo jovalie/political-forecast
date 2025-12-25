@@ -1,19 +1,20 @@
 {
-  "timestamp": "2025-12-25T12:04:41.229Z",
+  "timestamp": "2025-12-25T14:04:40.619Z",
   "states": [
     {
       "name": "Arizona",
       "code": "AZ",
-      "topTopic": "epstein files pdf",
+      "topTopic": "fox",
       "category": "Law and Government",
       "trendingScore": 90,
       "topics": [
         {
-          "name": "epstein files pdf",
+          "name": "fox",
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "5h ago",
+          "started": "1h ago",
+          "trendBreakdown": "epstein",
           "percentageIncrease": "100%"
         }
       ]

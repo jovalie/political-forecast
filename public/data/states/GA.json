@@ -1,19 +1,27 @@
 {
-  "timestamp": "2025-12-25T12:04:41.229Z",
+  "timestamp": "2025-12-25T14:04:40.619Z",
   "states": [
     {
       "name": "Georgia",
       "code": "GA",
-      "topTopic": "epstein files pdf",
+      "topTopic": "public",
       "category": "Law and Government",
-      "trendingScore": 90,
+      "trendingScore": 95,
       "topics": [
+        {
+          "name": "public",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "18h ago",
+          "percentageIncrease": "200%"
+        },
         {
           "name": "epstein files pdf",
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "9h ago",
+          "started": "11h ago",
           "percentageIncrease": "100%"
         }
       ]
