@@ -1,35 +1,43 @@
 {
-  "timestamp": "2025-12-25T20:04:35.244Z",
+  "timestamp": "2025-12-25T22:04:30.848Z",
   "states": [
     {
       "name": "New York",
       "code": "NY",
-      "topTopic": "eu visa bans",
+      "topTopic": "laredo",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
         {
-          "name": "eu visa bans",
+          "name": "laredo",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "22h ago",
-          "percentageIncrease": "800%"
+          "searchVolume": "10K+",
+          "started": "17h ago",
+          "percentageIncrease": "1000%"
         },
         {
           "name": "nasry asfura",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "20h ago",
+          "started": "22h ago",
           "percentageIncrease": "200%"
+        },
+        {
+          "name": "rhode",
+          "relevanceScore": 90,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "6h ago",
+          "percentageIncrease": "100%"
         },
         {
           "name": "marshals",
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "21h ago",
+          "started": "23h ago",
           "percentageIncrease": "100%"
         },
         {
@@ -37,7 +45,7 @@
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "20h ago",
+          "started": "22h ago",
           "percentageIncrease": "100%"
         },
         {
@@ -45,7 +53,7 @@
           "relevanceScore": 85,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "3h ago",
+          "started": "5h ago",
           "percentageIncrease": "75%"
         }
       ]

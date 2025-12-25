@@ -1,21 +1,20 @@
 {
-  "timestamp": "2025-12-25T20:04:35.244Z",
+  "timestamp": "2025-12-25T22:04:30.848Z",
   "states": [
     {
       "name": "Delaware",
       "code": "DE",
-      "topTopic": "delaware state trooper killed today",
+      "topTopic": "laredo",
       "category": "Law and Government",
-      "trendingScore": 95,
+      "trendingScore": 100,
       "topics": [
         {
-          "name": "delaware state trooper killed today",
-          "relevanceScore": 95,
+          "name": "laredo",
+          "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "22h ago",
-          "trendBreakdown": "snookty",
-          "percentageIncrease": "400%"
+          "started": "9h ago",
+          "percentageIncrease": "700%"
         }
       ]
     }
