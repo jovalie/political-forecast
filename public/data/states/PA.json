@@ -1,37 +1,27 @@
 {
-  "timestamp": "2025-12-24T22:04:33.831Z",
+  "timestamp": "2025-12-25T00:04:55.488Z",
   "states": [
     {
       "name": "Pennsylvania",
       "code": "PA",
-      "topTopic": "nursing home explosion bucks county",
+      "topTopic": "delaware state trooper killed today",
       "category": "Law and Government",
-      "trendingScore": 100,
+      "trendingScore": 95,
       "topics": [
         {
-          "name": "nursing home explosion bucks county",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "5K+",
-          "started": "23h ago",
-          "trendBreakdown": "nursing",
-          "percentageIncrease": "1000%"
-        },
-        {
-          "name": "delaware state police",
+          "name": "delaware state trooper killed today",
           "relevanceScore": 95,
           "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "23h ago",
-          "trendBreakdown": "delaware",
-          "percentageIncrease": "400%"
+          "searchVolume": "100+",
+          "started": "19h ago",
+          "percentageIncrease": "200%"
         },
         {
           "name": "wawa",
           "relevanceScore": 90,
           "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "3h ago",
+          "searchVolume": "1K+",
+          "started": "5h ago",
           "percentageIncrease": "100%"
         }
       ]

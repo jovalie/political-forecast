@@ -1,28 +1,36 @@
 {
-  "timestamp": "2025-12-24T22:04:33.831Z",
+  "timestamp": "2025-12-25T00:04:55.488Z",
   "states": [
     {
       "name": "North Carolina",
       "code": "NC",
-      "topTopic": "why are flags at half mast today",
+      "topTopic": "wect",
       "category": "Law and Government",
       "trendingScore": 95,
       "topics": [
-        {
-          "name": "why are flags at half mast today",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "4h ago",
-          "percentageIncrease": "200%"
-        },
         {
           "name": "wect",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "7h ago",
+          "started": "9h ago",
           "percentageIncrease": "300%"
+        },
+        {
+          "name": "why are flags at half mast today",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "6h ago",
+          "percentageIncrease": "200%"
+        },
+        {
+          "name": "southpark mall",
+          "relevanceScore": 90,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "10h ago",
+          "percentageIncrease": "100%"
         }
       ]
     }

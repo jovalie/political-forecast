@@ -1,37 +1,45 @@
 {
-  "timestamp": "2025-12-24T22:04:33.831Z",
+  "timestamp": "2025-12-25T00:04:55.488Z",
   "states": [
     {
       "name": "New Jersey",
       "code": "NJ",
-      "topTopic": "delaware state trooper killed today",
+      "topTopic": "matthew snook",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
         {
-          "name": "delaware state trooper killed today",
+          "name": "matthew snook",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "10h ago",
+          "started": "2h ago",
           "trendBreakdown": "delaware",
-          "percentageIncrease": "500%"
+          "percentageIncrease": "700%"
         },
         {
-          "name": "nursing home explosion bristol pa",
-          "relevanceScore": 100,
+          "name": "wawa",
+          "relevanceScore": 95,
           "category": "Law and Government",
-          "searchVolume": "2K+",
+          "searchVolume": "1K+",
+          "started": "5h ago",
+          "percentageIncrease": "200%"
+        },
+        {
+          "name": "bristol nursing home explosion",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "500+",
           "started": "23h ago",
-          "trendBreakdown": "bristol",
-          "percentageIncrease": "800%"
+          "trendBreakdown": "nursing",
+          "percentageIncrease": "400%"
         },
         {
           "name": "garden state plaza",
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "21h ago",
+          "started": "23h ago",
           "percentageIncrease": "100%"
         }
       ]

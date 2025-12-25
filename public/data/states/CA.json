@@ -1,37 +1,45 @@
 {
-  "timestamp": "2025-12-24T22:04:33.831Z",
+  "timestamp": "2025-12-25T00:04:55.488Z",
   "states": [
     {
       "name": "California",
       "code": "CA",
-      "topTopic": "epstein files pdf",
+      "topTopic": "unredacted epstein files",
       "category": "Law and Government",
-      "trendingScore": 95,
+      "trendingScore": 90,
       "topics": [
         {
-          "name": "epstein files pdf",
-          "relevanceScore": 95,
+          "name": "unredacted epstein files",
+          "relevanceScore": 90,
           "category": "Law and Government",
-          "searchVolume": "2K+",
-          "started": "24h ago",
-          "trendBreakdown": "unredacted",
-          "percentageIncrease": "200%"
+          "searchVolume": "500+",
+          "started": "18h ago",
+          "percentageIncrease": "100%"
+        },
+        {
+          "name": "michael abatti",
+          "relevanceScore": 90,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "30 minutes ago",
+          "trendBreakdown": "breaking",
+          "percentageIncrease": "100%"
         },
         {
           "name": "sce",
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "8h ago",
+          "started": "10h ago",
           "trendBreakdown": "cal",
           "percentageIncrease": "100%"
         },
         {
-          "name": "ashley buzzard",
+          "name": "valley plaza mall",
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "23h ago",
+          "started": "22h ago",
           "percentageIncrease": "100%"
         },
         {
@@ -39,7 +47,7 @@
           "relevanceScore": 85,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "5h ago",
+          "started": "7h ago",
           "percentageIncrease": "75%"
         },
         {
@@ -47,7 +55,7 @@
           "relevanceScore": 85,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "12h ago",
+          "started": "14h ago",
           "percentageIncrease": "50%"
         }
       ]
