@@ -1,19 +1,27 @@
 {
-  "timestamp": "2025-12-25T16:04:35.487Z",
+  "timestamp": "2025-12-25T18:04:47.585Z",
   "states": [
     {
       "name": "Ohio",
       "code": "OH",
-      "topTopic": "elwood jones",
+      "topTopic": "laredo",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
+        {
+          "name": "laredo",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "5K+",
+          "started": "12h ago",
+          "percentageIncrease": "1000%"
+        },
         {
           "name": "elwood jones",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "13h ago",
+          "started": "15h ago",
           "percentageIncrease": "600%"
         },
         {
@@ -21,7 +29,7 @@
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "17h ago",
+          "started": "19h ago",
           "percentageIncrease": "100%"
         }
       ]

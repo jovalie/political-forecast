@@ -1,20 +1,20 @@
 {
-  "timestamp": "2025-12-25T16:04:35.487Z",
+  "timestamp": "2025-12-25T18:04:47.585Z",
   "states": [
     {
       "name": "South Dakota",
       "code": "SD",
-      "topTopic": "walmart",
+      "topTopic": "laredo",
       "category": "Law and Government",
-      "trendingScore": 90,
+      "trendingScore": 100,
       "topics": [
         {
-          "name": "walmart",
-          "relevanceScore": 90,
+          "name": "laredo",
+          "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "23h ago",
-          "percentageIncrease": "100%"
+          "started": "3h ago",
+          "percentageIncrease": "600%"
         }
       ]
     }

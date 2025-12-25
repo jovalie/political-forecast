@@ -1,20 +1,28 @@
 {
-  "timestamp": "2025-12-25T16:04:35.487Z",
+  "timestamp": "2025-12-25T18:04:47.585Z",
   "states": [
     {
       "name": "Alabama",
       "code": "AL",
-      "topTopic": "sonic",
+      "topTopic": "laredo",
       "category": "Law and Government",
-      "trendingScore": 95,
+      "trendingScore": 100,
       "topics": [
         {
-          "name": "sonic",
+          "name": "laredo",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "1K+",
+          "started": "9h ago",
+          "percentageIncrease": "1000%"
+        },
+        {
+          "name": "efta",
           "relevanceScore": 95,
           "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "8h ago",
-          "percentageIncrease": "200%"
+          "searchVolume": "100+",
+          "started": "19h ago",
+          "percentageIncrease": "300%"
         }
       ]
     }

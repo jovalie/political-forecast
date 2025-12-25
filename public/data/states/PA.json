@@ -1,21 +1,28 @@
 {
-  "timestamp": "2025-12-25T16:04:35.487Z",
+  "timestamp": "2025-12-25T18:04:47.585Z",
   "states": [
     {
       "name": "Pennsylvania",
       "code": "PA",
-      "topTopic": "matthew snook",
+      "topTopic": "laredo",
       "category": "Law and Government",
-      "trendingScore": 95,
+      "trendingScore": 100,
       "topics": [
         {
-          "name": "matthew snook",
-          "relevanceScore": 95,
+          "name": "laredo",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "5K+",
+          "started": "12h ago",
+          "percentageIncrease": "1000%"
+        },
+        {
+          "name": "discord",
+          "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "100+",
           "started": "10h ago",
-          "trendBreakdown": "snookty",
-          "percentageIncrease": "300%"
+          "percentageIncrease": "100%"
         }
       ]
     }

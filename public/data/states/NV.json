@@ -1,20 +1,20 @@
 {
-  "timestamp": "2025-12-25T16:04:35.487Z",
+  "timestamp": "2025-12-25T18:04:47.585Z",
   "states": [
     {
       "name": "Nevada",
       "code": "NV",
-      "topTopic": "sprouts",
+      "topTopic": "laredo",
       "category": "Law and Government",
-      "trendingScore": 95,
+      "trendingScore": 100,
       "topics": [
         {
-          "name": "sprouts",
-          "relevanceScore": 95,
+          "name": "laredo",
+          "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "23h ago",
-          "percentageIncrease": "200%"
+          "started": "6h ago",
+          "percentageIncrease": "1000%"
         }
       ]
     }

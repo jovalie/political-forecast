@@ -1,19 +1,28 @@
 {
-  "timestamp": "2025-12-25T16:04:35.487Z",
+  "timestamp": "2025-12-25T18:04:47.585Z",
   "states": [
     {
       "name": "Minnesota",
       "code": "MN",
-      "topTopic": "melodee buzzard",
+      "topTopic": "laredo",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
         {
-          "name": "melodee buzzard",
+          "name": "laredo",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "2K+",
+          "started": "11h ago",
+          "percentageIncrease": "1000%"
+        },
+        {
+          "name": "efta",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "23h ago",
+          "started": "22h ago",
+          "trendBreakdown": "epstein",
           "percentageIncrease": "500%"
         }
       ]
