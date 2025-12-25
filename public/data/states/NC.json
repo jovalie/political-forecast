@@ -1,27 +1,19 @@
 {
-  "timestamp": "2025-12-25T14:04:40.619Z",
+  "timestamp": "2025-12-25T16:04:35.487Z",
   "states": [
     {
       "name": "North Carolina",
       "code": "NC",
-      "topTopic": "wect",
+      "topTopic": "why are flags at half mast today",
       "category": "Law and Government",
       "trendingScore": 95,
       "topics": [
-        {
-          "name": "wect",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "23h ago",
-          "percentageIncrease": "300%"
-        },
         {
           "name": "why are flags at half mast today",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "20h ago",
+          "started": "22h ago",
           "percentageIncrease": "200%"
         }
       ]

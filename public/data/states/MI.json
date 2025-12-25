@@ -1,20 +1,20 @@
 {
-  "timestamp": "2025-12-25T14:04:40.619Z",
+  "timestamp": "2025-12-25T16:04:35.487Z",
   "states": [
     {
       "name": "Michigan",
       "code": "MI",
-      "topTopic": "bank",
+      "topTopic": "coney island",
       "category": "Law and Government",
-      "trendingScore": 100,
+      "trendingScore": 95,
       "topics": [
         {
-          "name": "bank",
-          "relevanceScore": 100,
+          "name": "coney island",
+          "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "22h ago",
-          "percentageIncrease": "1000%"
+          "started": "1h ago",
+          "percentageIncrease": "300%"
         }
       ]
     }

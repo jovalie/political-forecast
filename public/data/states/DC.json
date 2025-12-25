@@ -1,19 +1,27 @@
 {
-  "timestamp": "2025-12-25T14:04:40.619Z",
+  "timestamp": "2025-12-25T16:04:35.487Z",
   "states": [
     {
       "name": "District of Columbia",
       "code": "DC",
-      "topTopic": "epstein files pdf",
+      "topTopic": "news",
       "category": "Law and Government",
-      "trendingScore": 90,
+      "trendingScore": 95,
       "topics": [
+        {
+          "name": "news",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "7h ago",
+          "percentageIncrease": "300%"
+        },
         {
           "name": "epstein files pdf",
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "18h ago",
+          "started": "20h ago",
           "percentageIncrease": "100%"
         }
       ]

@@ -1,28 +1,36 @@
 {
-  "timestamp": "2025-12-25T14:04:40.619Z",
+  "timestamp": "2025-12-25T16:04:35.487Z",
   "states": [
     {
       "name": "California",
       "code": "CA",
       "topTopic": "amber alert california",
       "category": "Law and Government",
-      "trendingScore": 100,
+      "trendingScore": 95,
       "topics": [
         {
           "name": "amber alert california",
-          "relevanceScore": 100,
+          "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "6h ago",
+          "started": "8h ago",
           "trendBreakdown": "amber",
-          "percentageIncrease": "500%"
+          "percentageIncrease": "400%"
+        },
+        {
+          "name": "kron",
+          "relevanceScore": 90,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "4h ago",
+          "percentageIncrease": "100%"
         },
         {
           "name": "white",
           "relevanceScore": 85,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "3h ago",
+          "started": "5h ago",
           "percentageIncrease": "50%"
         },
         {
@@ -30,7 +38,7 @@
           "relevanceScore": 85,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "21h ago",
+          "started": "23h ago",
           "percentageIncrease": "75%"
         }
       ]

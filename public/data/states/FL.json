@@ -1,28 +1,27 @@
 {
-  "timestamp": "2025-12-25T14:04:40.619Z",
+  "timestamp": "2025-12-25T16:04:35.487Z",
   "states": [
     {
       "name": "Florida",
       "code": "FL",
-      "topTopic": "white",
+      "topTopic": "presidente",
       "category": "Law and Government",
-      "trendingScore": 90,
+      "trendingScore": 95,
       "topics": [
+        {
+          "name": "presidente",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "16h ago",
+          "percentageIncrease": "300%"
+        },
         {
           "name": "white",
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "8h ago",
-          "percentageIncrease": "100%"
-        },
-        {
-          "name": "florida",
-          "relevanceScore": 90,
-          "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "2h ago",
-          "trendBreakdown": "barnes",
+          "started": "10h ago",
           "percentageIncrease": "100%"
         }
       ]
