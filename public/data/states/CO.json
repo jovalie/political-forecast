@@ -1,28 +1,28 @@
 {
-  "timestamp": "2025-12-25T00:04:55.488Z",
+  "timestamp": "2025-12-25T02:37:39.036Z",
   "states": [
     {
       "name": "Colorado",
       "code": "CO",
-      "topTopic": "kimberlee singler",
+      "topTopic": "measles",
       "category": "Law and Government",
       "trendingScore": 95,
       "topics": [
-        {
-          "name": "kimberlee singler",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "24h ago",
-          "percentageIncrease": "400%"
-        },
         {
           "name": "measles",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "18h ago",
+          "started": "21h ago",
           "percentageIncrease": "200%"
+        },
+        {
+          "name": "red robin",
+          "relevanceScore": 90,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "2h ago",
+          "percentageIncrease": "100%"
         }
       ]
     }

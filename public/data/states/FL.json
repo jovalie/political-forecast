@@ -1,26 +1,18 @@
 {
-  "timestamp": "2025-12-25T00:04:55.488Z",
+  "timestamp": "2025-12-25T02:37:39.036Z",
   "states": [
     {
       "name": "Florida",
       "code": "FL",
-      "topTopic": "public",
+      "topTopic": "presidente",
       "category": "Law and Government",
       "trendingScore": 95,
       "topics": [
         {
-          "name": "public",
+          "name": "presidente",
           "relevanceScore": 95,
           "category": "Law and Government",
-          "searchVolume": "2K+",
-          "started": "22h ago",
-          "percentageIncrease": "200%"
-        },
-        {
-          "name": "abc",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "500+",
+          "searchVolume": "100+",
           "started": "3h ago",
           "percentageIncrease": "200%"
         },
@@ -29,23 +21,15 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "20h ago",
+          "started": "23h ago",
           "percentageIncrease": "200%"
-        },
-        {
-          "name": "wawa",
-          "relevanceScore": 90,
-          "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "16h ago",
-          "percentageIncrease": "100%"
         },
         {
           "name": "prince andrew",
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "20h ago",
+          "started": "23h ago",
           "percentageIncrease": "100%"
         },
         {
@@ -53,7 +37,7 @@
           "relevanceScore": 85,
           "category": "Law and Government",
           "searchVolume": "2K+",
-          "started": "11h ago",
+          "started": "14h ago",
           "percentageIncrease": "50%"
         },
         {
@@ -61,7 +45,7 @@
           "relevanceScore": 85,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "9h ago",
+          "started": "12h ago",
           "trendBreakdown": "barnes",
           "percentageIncrease": "50%"
         }

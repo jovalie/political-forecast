@@ -1,20 +1,20 @@
 {
-  "timestamp": "2025-12-25T00:04:55.488Z",
+  "timestamp": "2025-12-25T02:37:39.036Z",
   "states": [
     {
       "name": "Arizona",
       "code": "AZ",
-      "topTopic": "larry nassar",
+      "topTopic": "sakura sushi",
       "category": "Law and Government",
-      "trendingScore": 100,
+      "trendingScore": 90,
       "topics": [
         {
-          "name": "larry nassar",
-          "relevanceScore": 100,
+          "name": "sakura sushi",
+          "relevanceScore": 90,
           "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "22h ago",
-          "percentageIncrease": "1000%"
+          "searchVolume": "500+",
+          "started": "21h ago",
+          "percentageIncrease": "100%"
         }
       ]
     }
