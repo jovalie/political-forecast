@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-12-26T02:36:33.929Z",
+  "timestamp": "2025-12-26T04:14:17.751Z",
   "states": [
     {
       "name": "Nevada",
@@ -13,8 +13,16 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "11h ago",
+          "started": "12h ago",
           "percentageIncrease": "200%"
+        },
+        {
+          "name": "sonic",
+          "relevanceScore": 90,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "1h ago",
+          "percentageIncrease": "100%"
         }
       ]
     }

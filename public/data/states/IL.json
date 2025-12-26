@@ -1,20 +1,20 @@
 {
-  "timestamp": "2025-12-26T02:36:33.929Z",
+  "timestamp": "2025-12-26T04:14:17.751Z",
   "states": [
     {
       "name": "Illinois",
       "code": "IL",
-      "topTopic": "laredo",
+      "topTopic": "greenland",
       "category": "Law and Government",
-      "trendingScore": 100,
+      "trendingScore": 95,
       "topics": [
         {
-          "name": "laredo",
-          "relevanceScore": 100,
+          "name": "greenland",
+          "relevanceScore": 95,
           "category": "Law and Government",
-          "searchVolume": "5K+",
-          "started": "15h ago",
-          "percentageIncrease": "1000%"
+          "searchVolume": "100+",
+          "started": "3h ago",
+          "percentageIncrease": "200%"
         }
       ]
     }
