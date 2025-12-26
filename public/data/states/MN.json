@@ -1,19 +1,27 @@
 {
-  "timestamp": "2025-12-26T18:04:43.583Z",
+  "timestamp": "2025-12-26T20:04:33.727Z",
   "states": [
     {
       "name": "Minnesota",
       "code": "MN",
-      "topTopic": "fox news",
+      "topTopic": "kstp",
       "category": "Law and Government",
-      "trendingScore": 85,
+      "trendingScore": 90,
       "topics": [
+        {
+          "name": "kstp",
+          "relevanceScore": 90,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "6h ago",
+          "percentageIncrease": "100%"
+        },
         {
           "name": "fox news",
           "relevanceScore": 85,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "5h ago",
+          "started": "7h ago",
           "percentageIncrease": "50%"
         }
       ]

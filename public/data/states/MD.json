@@ -1,19 +1,27 @@
 {
-  "timestamp": "2025-12-26T18:04:43.583Z",
+  "timestamp": "2025-12-26T20:04:33.727Z",
   "states": [
     {
       "name": "Maryland",
       "code": "MD",
-      "topTopic": "southwest",
+      "topTopic": "somaliland",
       "category": "Law and Government",
-      "trendingScore": 90,
+      "trendingScore": 95,
       "topics": [
+        {
+          "name": "somaliland",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "1h ago",
+          "percentageIncrease": "200%"
+        },
         {
           "name": "southwest",
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "1h ago",
+          "started": "5h ago",
           "percentageIncrease": "100%"
         }
       ]
