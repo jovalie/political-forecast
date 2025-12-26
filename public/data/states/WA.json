@@ -1,20 +1,21 @@
 {
-  "timestamp": "2025-12-26T14:04:34.904Z",
+  "timestamp": "2025-12-26T16:04:34.096Z",
   "states": [
     {
       "name": "Washington",
       "code": "WA",
-      "topTopic": "laredo",
+      "topTopic": "foxnews",
       "category": "Law and Government",
-      "trendingScore": 100,
+      "trendingScore": 90,
       "topics": [
         {
-          "name": "laredo",
-          "relevanceScore": 100,
+          "name": "foxnews",
+          "relevanceScore": 90,
           "category": "Law and Government",
-          "searchVolume": "10K+",
-          "started": "23h ago",
-          "percentageIncrease": "1000%"
+          "searchVolume": "100+",
+          "started": "20 minutes ago",
+          "trendBreakdown": "fox",
+          "percentageIncrease": "100%"
         }
       ]
     }

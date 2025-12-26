@@ -1,35 +1,68 @@
 {
-  "timestamp": "2025-12-26T14:04:34.904Z",
+  "timestamp": "2025-12-26T16:04:34.096Z",
   "states": [
     {
       "name": "New York",
       "code": "NY",
-      "topTopic": "irs announces gigantic tax refund",
+      "topTopic": "somaliland",
       "category": "Law and Government",
-      "trendingScore": 95,
+      "trendingScore": 100,
       "topics": [
+        {
+          "name": "somaliland",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "30 minutes ago",
+          "percentageIncrease": "700%"
+        },
+        {
+          "name": "cvs lindenhurst",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "11h ago",
+          "trendBreakdown": "lindenhurst",
+          "percentageIncrease": "200%"
+        },
         {
           "name": "irs announces gigantic tax refund",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "20h ago",
+          "started": "22h ago",
           "percentageIncrease": "300%"
         },
         {
-          "name": "rhode",
+          "name": "southwest airlines",
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "22h ago",
+          "started": "2h ago",
           "percentageIncrease": "100%"
+        },
+        {
+          "name": "barnes and noble",
+          "relevanceScore": 85,
+          "category": "Law and Government",
+          "searchVolume": "1K+",
+          "started": "2h ago",
+          "percentageIncrease": "50%"
+        },
+        {
+          "name": "dmv",
+          "relevanceScore": 85,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "2h ago",
+          "percentageIncrease": "75%"
         },
         {
           "name": "american dream mall",
           "relevanceScore": 85,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "21h ago",
+          "started": "23h ago",
           "percentageIncrease": "75%"
         }
       ]

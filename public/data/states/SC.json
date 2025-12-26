@@ -1,27 +1,19 @@
 {
-  "timestamp": "2025-12-26T14:04:34.904Z",
+  "timestamp": "2025-12-26T16:04:34.096Z",
   "states": [
     {
       "name": "South Carolina",
       "code": "SC",
-      "topTopic": "laredo",
+      "topTopic": "dmv",
       "category": "Law and Government",
-      "trendingScore": 100,
+      "trendingScore": 95,
       "topics": [
         {
-          "name": "laredo",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "2K+",
-          "started": "16h ago",
-          "percentageIncrease": "1000%"
-        },
-        {
-          "name": "sonic",
+          "name": "dmv",
           "relevanceScore": 95,
           "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "23h ago",
+          "searchVolume": "100+",
+          "started": "50 minutes ago",
           "percentageIncrease": "200%"
         }
       ]

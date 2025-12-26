@@ -1,20 +1,20 @@
 {
-  "timestamp": "2025-12-26T14:04:34.904Z",
+  "timestamp": "2025-12-26T16:04:34.096Z",
   "states": [
     {
       "name": "North Carolina",
       "code": "NC",
-      "topTopic": "dmv",
+      "topTopic": "barnes and noble",
       "category": "Law and Government",
-      "trendingScore": 90,
+      "trendingScore": 85,
       "topics": [
         {
-          "name": "dmv",
-          "relevanceScore": 90,
+          "name": "barnes and noble",
+          "relevanceScore": 85,
           "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "20 minutes ago",
-          "percentageIncrease": "100%"
+          "searchVolume": "500+",
+          "started": "1h ago",
+          "percentageIncrease": "75%"
         }
       ]
     }

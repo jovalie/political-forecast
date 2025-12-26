@@ -1,20 +1,20 @@
 {
-  "timestamp": "2025-12-26T14:04:34.904Z",
+  "timestamp": "2025-12-26T16:04:34.096Z",
   "states": [
     {
       "name": "Oregon",
       "code": "OR",
-      "topTopic": "laredo",
+      "topTopic": "fox news",
       "category": "Law and Government",
-      "trendingScore": 100,
+      "trendingScore": 85,
       "topics": [
         {
-          "name": "laredo",
-          "relevanceScore": 100,
+          "name": "fox news",
+          "relevanceScore": 85,
           "category": "Law and Government",
-          "searchVolume": "5K+",
-          "started": "23h ago",
-          "percentageIncrease": "1000%"
+          "searchVolume": "100+",
+          "started": "1h ago",
+          "percentageIncrease": "50%"
         }
       ]
     }
