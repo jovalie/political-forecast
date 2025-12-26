@@ -1,19 +1,27 @@
 {
-  "timestamp": "2025-12-26T20:04:33.727Z",
+  "timestamp": "2025-12-26T22:04:31.752Z",
   "states": [
     {
       "name": "Texas",
       "code": "TX",
-      "topTopic": "barnes and noble",
+      "topTopic": "somaliland",
       "category": "Law and Government",
-      "trendingScore": 85,
+      "trendingScore": 95,
       "topics": [
+        {
+          "name": "somaliland",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "5h ago",
+          "percentageIncrease": "300%"
+        },
         {
           "name": "barnes and noble",
           "relevanceScore": 85,
           "category": "Law and Government",
-          "searchVolume": "2K+",
-          "started": "5h ago",
+          "searchVolume": "5K+",
+          "started": "7h ago",
           "percentageIncrease": "50%"
         }
       ]

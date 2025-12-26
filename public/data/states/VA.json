@@ -1,19 +1,27 @@
 {
-  "timestamp": "2025-12-26T20:04:33.727Z",
+  "timestamp": "2025-12-26T22:04:31.752Z",
   "states": [
     {
       "name": "Virginia",
       "code": "VA",
-      "topTopic": "dmv",
+      "topTopic": "green card travel rules",
       "category": "Law and Government",
-      "trendingScore": 85,
+      "trendingScore": 100,
       "topics": [
+        {
+          "name": "green card travel rules",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "1h ago",
+          "percentageIncrease": "700%"
+        },
         {
           "name": "dmv",
           "relevanceScore": 85,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "6h ago",
+          "started": "8h ago",
           "percentageIncrease": "75%"
         }
       ]

@@ -1,19 +1,27 @@
 {
-  "timestamp": "2025-12-26T20:04:33.727Z",
+  "timestamp": "2025-12-26T22:04:31.752Z",
   "states": [
     {
       "name": "Alabama",
       "code": "AL",
-      "topTopic": "fox news",
+      "topTopic": "barnes and noble",
       "category": "Law and Government",
       "trendingScore": 85,
       "topics": [
+        {
+          "name": "barnes and noble",
+          "relevanceScore": 85,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "1h ago",
+          "percentageIncrease": "50%"
+        },
         {
           "name": "fox news",
           "relevanceScore": 85,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "7h ago",
+          "started": "9h ago",
           "percentageIncrease": "50%"
         }
       ]
