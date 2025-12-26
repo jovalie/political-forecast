@@ -1,19 +1,19 @@
 {
-  "timestamp": "2025-12-26T16:04:34.096Z",
+  "timestamp": "2025-12-26T18:04:43.583Z",
   "states": [
     {
       "name": "Indiana",
       "code": "IN",
-      "topTopic": "fox news",
+      "topTopic": "barnes and noble",
       "category": "Law and Government",
       "trendingScore": 85,
       "topics": [
         {
-          "name": "fox news",
+          "name": "barnes and noble",
           "relevanceScore": 85,
           "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "5h ago",
+          "searchVolume": "500+",
+          "started": "4h ago",
           "percentageIncrease": "50%"
         }
       ]

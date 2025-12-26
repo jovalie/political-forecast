@@ -1,20 +1,20 @@
 {
-  "timestamp": "2025-12-26T16:04:34.096Z",
+  "timestamp": "2025-12-26T18:04:43.583Z",
   "states": [
     {
       "name": "Georgia",
       "code": "GA",
-      "topTopic": "carnival cruise",
+      "topTopic": "barnes and noble",
       "category": "Law and Government",
-      "trendingScore": 95,
+      "trendingScore": 85,
       "topics": [
         {
-          "name": "carnival cruise",
-          "relevanceScore": 95,
+          "name": "barnes and noble",
+          "relevanceScore": 85,
           "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "23h ago",
-          "percentageIncrease": "200%"
+          "searchVolume": "500+",
+          "started": "4h ago",
+          "percentageIncrease": "75%"
         }
       ]
     }

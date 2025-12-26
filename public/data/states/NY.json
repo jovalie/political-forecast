@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-12-26T16:04:34.096Z",
+  "timestamp": "2025-12-26T18:04:43.583Z",
   "states": [
     {
       "name": "New York",
@@ -12,25 +12,26 @@
           "name": "somaliland",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "30 minutes ago",
-          "percentageIncrease": "700%"
+          "searchVolume": "500+",
+          "started": "2h ago",
+          "percentageIncrease": "600%"
         },
         {
           "name": "cvs lindenhurst",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "11h ago",
+          "started": "13h ago",
           "trendBreakdown": "lindenhurst",
-          "percentageIncrease": "200%"
+          "percentageIncrease": "300%"
         },
         {
-          "name": "irs announces gigantic tax refund",
+          "name": "new flu symptoms",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "22h ago",
+          "started": "12h ago",
+          "trendBreakdown": "flu",
           "percentageIncrease": "300%"
         },
         {
@@ -38,7 +39,7 @@
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "2h ago",
+          "started": "4h ago",
           "percentageIncrease": "100%"
         },
         {
@@ -46,7 +47,7 @@
           "relevanceScore": 85,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "2h ago",
+          "started": "4h ago",
           "percentageIncrease": "50%"
         },
         {
@@ -54,15 +55,7 @@
           "relevanceScore": 85,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "2h ago",
-          "percentageIncrease": "75%"
-        },
-        {
-          "name": "american dream mall",
-          "relevanceScore": 85,
-          "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "23h ago",
+          "started": "4h ago",
           "percentageIncrease": "75%"
         }
       ]

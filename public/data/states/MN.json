@@ -1,35 +1,19 @@
 {
-  "timestamp": "2025-12-26T16:04:34.096Z",
+  "timestamp": "2025-12-26T18:04:43.583Z",
   "states": [
     {
       "name": "Minnesota",
       "code": "MN",
-      "topTopic": "somaliland",
+      "topTopic": "fox news",
       "category": "Law and Government",
-      "trendingScore": 100,
+      "trendingScore": 85,
       "topics": [
-        {
-          "name": "somaliland",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "10 minutes ago",
-          "percentageIncrease": "1000%"
-        },
-        {
-          "name": "dmv",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "1h ago",
-          "percentageIncrease": "200%"
-        },
         {
           "name": "fox news",
           "relevanceScore": 85,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "3h ago",
+          "started": "5h ago",
           "percentageIncrease": "50%"
         }
       ]
