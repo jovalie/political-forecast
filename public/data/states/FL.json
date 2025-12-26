@@ -1,35 +1,19 @@
 {
-  "timestamp": "2025-12-25T22:04:30.848Z",
+  "timestamp": "2025-12-26T00:05:10.807Z",
   "states": [
     {
       "name": "Florida",
       "code": "FL",
-      "topTopic": "laredo",
+      "topTopic": "greenland",
       "category": "Law and Government",
-      "trendingScore": 100,
+      "trendingScore": 95,
       "topics": [
-        {
-          "name": "laredo",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "10K+",
-          "started": "17h ago",
-          "percentageIncrease": "1000%"
-        },
-        {
-          "name": "presidente",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "22h ago",
-          "percentageIncrease": "300%"
-        },
         {
           "name": "greenland",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "3h ago",
+          "started": "5h ago",
           "percentageIncrease": "200%"
         },
         {
@@ -37,7 +21,7 @@
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "5h ago",
+          "started": "7h ago",
           "percentageIncrease": "100%"
         },
         {
@@ -45,7 +29,7 @@
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "16h ago",
+          "started": "18h ago",
           "percentageIncrease": "100%"
         },
         {
@@ -53,7 +37,7 @@
           "relevanceScore": 85,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "13h ago",
+          "started": "15h ago",
           "percentageIncrease": "75%"
         }
       ]

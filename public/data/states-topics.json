@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-12-25T22:04:30.848Z",
+  "timestamp": "2025-12-26T00:05:10.807Z",
   "states": [
     {
       "name": "California",
@@ -13,7 +13,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "2K+",
-          "started": "5h ago",
+          "started": "7h ago",
           "trendBreakdown": "personal",
           "percentageIncrease": "500%"
         },
@@ -22,16 +22,24 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "14h ago",
+          "started": "16h ago",
           "trendBreakdown": "amber",
           "percentageIncrease": "400%"
+        },
+        {
+          "name": "ktvu",
+          "relevanceScore": 90,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "8h ago",
+          "percentageIncrease": "100%"
         },
         {
           "name": "apple store",
           "relevanceScore": 85,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "2h ago",
+          "started": "4h ago",
           "percentageIncrease": "50%"
         },
         {
@@ -39,7 +47,7 @@
           "relevanceScore": 85,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "11h ago",
+          "started": "13h ago",
           "percentageIncrease": "50%"
         }
       ]
@@ -72,32 +80,16 @@
     {
       "name": "Florida",
       "code": "FL",
-      "topTopic": "laredo",
+      "topTopic": "greenland",
       "category": "Law and Government",
-      "trendingScore": 100,
+      "trendingScore": 95,
       "topics": [
-        {
-          "name": "laredo",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "10K+",
-          "started": "17h ago",
-          "percentageIncrease": "1000%"
-        },
-        {
-          "name": "presidente",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "22h ago",
-          "percentageIncrease": "300%"
-        },
         {
           "name": "greenland",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "3h ago",
+          "started": "5h ago",
           "percentageIncrease": "200%"
         },
         {
@@ -105,7 +97,7 @@
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "5h ago",
+          "started": "7h ago",
           "percentageIncrease": "100%"
         },
         {
@@ -113,7 +105,7 @@
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "16h ago",
+          "started": "18h ago",
           "percentageIncrease": "100%"
         },
         {
@@ -121,7 +113,7 @@
           "relevanceScore": 85,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "13h ago",
+          "started": "15h ago",
           "percentageIncrease": "75%"
         }
       ]
@@ -129,24 +121,16 @@
     {
       "name": "Georgia",
       "code": "GA",
-      "topTopic": "laredo",
+      "topTopic": "carnival cruise",
       "category": "Law and Government",
-      "trendingScore": 100,
+      "trendingScore": 95,
       "topics": [
-        {
-          "name": "laredo",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "5K+",
-          "started": "16h ago",
-          "percentageIncrease": "1000%"
-        },
         {
           "name": "carnival cruise",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "11h ago",
+          "started": "13h ago",
           "percentageIncrease": "200%"
         },
         {
@@ -154,7 +138,7 @@
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "19h ago",
+          "started": "21h ago",
           "percentageIncrease": "100%"
         }
       ]
@@ -188,16 +172,8 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "5K+",
-          "started": "21h ago",
+          "started": "23h ago",
           "trendBreakdown": "ken",
-          "percentageIncrease": "1000%"
-        },
-        {
-          "name": "laredo",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "2K+",
-          "started": "16h ago",
           "percentageIncrease": "1000%"
         }
       ]
@@ -239,24 +215,16 @@
     {
       "name": "Massachusetts",
       "code": "MA",
-      "topTopic": "laredo",
+      "topTopic": "can you buy alcohol on christmas",
       "category": "Law and Government",
-      "trendingScore": 100,
+      "trendingScore": 95,
       "topics": [
-        {
-          "name": "laredo",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "5K+",
-          "started": "16h ago",
-          "percentageIncrease": "1000%"
-        },
         {
           "name": "can you buy alcohol on christmas",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "2h ago",
+          "started": "4h ago",
           "percentageIncrease": "400%"
         }
       ]
@@ -281,33 +249,16 @@
     {
       "name": "New Jersey",
       "code": "NJ",
-      "topTopic": "laredo",
+      "topTopic": "rhode",
       "category": "Law and Government",
-      "trendingScore": 100,
+      "trendingScore": 95,
       "topics": [
-        {
-          "name": "laredo",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "5K+",
-          "started": "16h ago",
-          "percentageIncrease": "1000%"
-        },
-        {
-          "name": "matthew snook",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "24h ago",
-          "trendBreakdown": "delaware",
-          "percentageIncrease": "500%"
-        },
         {
           "name": "rhode",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "4h ago",
+          "started": "6h ago",
           "percentageIncrease": "300%"
         },
         {
@@ -315,7 +266,7 @@
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "2K+",
-          "started": "8h ago",
+          "started": "10h ago",
           "percentageIncrease": "100%"
         }
       ]
@@ -340,48 +291,16 @@
     {
       "name": "New York",
       "code": "NY",
-      "topTopic": "laredo",
+      "topTopic": "rhode",
       "category": "Law and Government",
-      "trendingScore": 100,
+      "trendingScore": 90,
       "topics": [
-        {
-          "name": "laredo",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "10K+",
-          "started": "17h ago",
-          "percentageIncrease": "1000%"
-        },
-        {
-          "name": "nasry asfura",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "22h ago",
-          "percentageIncrease": "200%"
-        },
         {
           "name": "rhode",
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "6h ago",
-          "percentageIncrease": "100%"
-        },
-        {
-          "name": "marshals",
-          "relevanceScore": 90,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "23h ago",
-          "percentageIncrease": "100%"
-        },
-        {
-          "name": "al pacino",
-          "relevanceScore": 90,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "22h ago",
+          "started": "8h ago",
           "percentageIncrease": "100%"
         },
         {
@@ -389,7 +308,7 @@
           "relevanceScore": 85,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "5h ago",
+          "started": "7h ago",
           "percentageIncrease": "75%"
         }
       ]
@@ -397,33 +316,17 @@
     {
       "name": "Ohio",
       "code": "OH",
-      "topTopic": "laredo",
+      "topTopic": "elwood jones",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
-        {
-          "name": "laredo",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "5K+",
-          "started": "16h ago",
-          "percentageIncrease": "1000%"
-        },
         {
           "name": "elwood jones",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "19h ago",
+          "started": "21h ago",
           "percentageIncrease": "600%"
-        },
-        {
-          "name": "red robin",
-          "relevanceScore": 90,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "23h ago",
-          "percentageIncrease": "100%"
         }
       ]
     },
@@ -447,24 +350,16 @@
     {
       "name": "Pennsylvania",
       "code": "PA",
-      "topTopic": "laredo",
+      "topTopic": "greenland",
       "category": "Law and Government",
-      "trendingScore": 100,
+      "trendingScore": 95,
       "topics": [
-        {
-          "name": "laredo",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "10K+",
-          "started": "16h ago",
-          "percentageIncrease": "1000%"
-        },
         {
           "name": "greenland",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "3h ago",
+          "started": "5h ago",
           "percentageIncrease": "200%"
         },
         {
@@ -472,7 +367,7 @@
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "14h ago",
+          "started": "16h ago",
           "percentageIncrease": "100%"
         }
       ]
@@ -522,24 +417,16 @@
     {
       "name": "Texas",
       "code": "TX",
-      "topTopic": "laredo",
+      "topTopic": "greenland",
       "category": "Law and Government",
-      "trendingScore": 100,
+      "trendingScore": 95,
       "topics": [
-        {
-          "name": "laredo",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "5K+",
-          "started": "15h ago",
-          "percentageIncrease": "1000%"
-        },
         {
           "name": "greenland",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "3h ago",
+          "started": "5h ago",
           "percentageIncrease": "300%"
         },
         {
@@ -547,23 +434,15 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "5h ago",
+          "started": "7h ago",
           "percentageIncrease": "200%"
-        },
-        {
-          "name": "sonic",
-          "relevanceScore": 90,
-          "category": "Law and Government",
-          "searchVolume": "10K+",
-          "started": "23h ago",
-          "percentageIncrease": "100%"
         },
         {
           "name": "the star",
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "20h ago",
+          "started": "22h ago",
           "percentageIncrease": "100%"
         },
         {
@@ -571,7 +450,7 @@
           "relevanceScore": 85,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "12h ago",
+          "started": "14h ago",
           "percentageIncrease": "75%"
         }
       ]
@@ -579,24 +458,16 @@
     {
       "name": "Virginia",
       "code": "VA",
-      "topTopic": "laredo",
+      "topTopic": "greenland",
       "category": "Law and Government",
-      "trendingScore": 100,
+      "trendingScore": 95,
       "topics": [
-        {
-          "name": "laredo",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "5K+",
-          "started": "16h ago",
-          "percentageIncrease": "1000%"
-        },
         {
           "name": "greenland",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "3h ago",
+          "started": "5h ago",
           "percentageIncrease": "300%"
         },
         {
@@ -604,7 +475,7 @@
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "4h ago",
+          "started": "6h ago",
           "percentageIncrease": "100%"
         }
       ]
@@ -763,24 +634,16 @@
     {
       "name": "Colorado",
       "code": "CO",
-      "topTopic": "laredo",
+      "topTopic": "red robin",
       "category": "Law and Government",
-      "trendingScore": 100,
+      "trendingScore": 90,
       "topics": [
-        {
-          "name": "laredo",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "5K+",
-          "started": "14h ago",
-          "percentageIncrease": "1000%"
-        },
         {
           "name": "red robin",
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "22h ago",
+          "started": "24h ago",
           "percentageIncrease": "100%"
         }
       ]
@@ -907,33 +770,18 @@
     {
       "name": "Kentucky",
       "code": "KY",
-      "topTopic": "laredo",
+      "topTopic": "tatum dale",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
         {
-          "name": "laredo",
+          "name": "tatum dale",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "2K+",
-          "started": "15h ago",
+          "started": "5h ago",
+          "trendBreakdown": "tatum",
           "percentageIncrease": "1000%"
-        },
-        {
-          "name": "tatum dale kentucky",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "20 minutes ago",
-          "percentageIncrease": "600%"
-        },
-        {
-          "name": "sonic",
-          "relevanceScore": 90,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "20 minutes ago",
-          "percentageIncrease": "100%"
         }
       ]
     },
