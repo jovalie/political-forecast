@@ -1,19 +1,27 @@
 {
-  "timestamp": "2025-12-26T10:04:39.178Z",
+  "timestamp": "2025-12-26T12:04:40.326Z",
   "states": [
     {
       "name": "New York",
       "code": "NY",
-      "topTopic": "rhode",
+      "topTopic": "cvs lindenhurst",
       "category": "Law and Government",
       "trendingScore": 90,
       "topics": [
+        {
+          "name": "cvs lindenhurst",
+          "relevanceScore": 90,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "7h ago",
+          "percentageIncrease": "100%"
+        },
         {
           "name": "rhode",
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "18h ago",
+          "started": "20h ago",
           "percentageIncrease": "100%"
         },
         {
@@ -21,7 +29,7 @@
           "relevanceScore": 85,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "17h ago",
+          "started": "19h ago",
           "percentageIncrease": "75%"
         }
       ]

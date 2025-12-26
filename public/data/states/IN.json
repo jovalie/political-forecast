@@ -1,21 +1,20 @@
 {
-  "timestamp": "2025-12-26T10:04:39.178Z",
+  "timestamp": "2025-12-26T12:04:40.326Z",
   "states": [
     {
       "name": "Indiana",
       "code": "IN",
-      "topTopic": "ken nunn age",
+      "topTopic": "fox news",
       "category": "Law and Government",
-      "trendingScore": 95,
+      "trendingScore": 85,
       "topics": [
         {
-          "name": "ken nunn age",
-          "relevanceScore": 95,
+          "name": "fox news",
+          "relevanceScore": 85,
           "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "22h ago",
-          "trendBreakdown": "ken",
-          "percentageIncrease": "400%"
+          "searchVolume": "100+",
+          "started": "1h ago",
+          "percentageIncrease": "50%"
         }
       ]
     }
