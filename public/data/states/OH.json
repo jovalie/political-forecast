@@ -1,20 +1,20 @@
 {
-  "timestamp": "2025-12-26T04:14:17.751Z",
+  "timestamp": "2025-12-26T06:04:42.513Z",
   "states": [
     {
       "name": "Ohio",
       "code": "OH",
-      "topTopic": "elwood jones",
+      "topTopic": "rhode",
       "category": "Law and Government",
-      "trendingScore": 100,
+      "trendingScore": 90,
       "topics": [
         {
-          "name": "elwood jones",
-          "relevanceScore": 100,
+          "name": "rhode",
+          "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "23h ago",
-          "percentageIncrease": "600%"
+          "started": "6h ago",
+          "percentageIncrease": "100%"
         }
       ]
     }

@@ -1,19 +1,27 @@
 {
-  "timestamp": "2025-12-26T04:14:17.751Z",
+  "timestamp": "2025-12-26T06:04:42.513Z",
   "states": [
     {
       "name": "Louisiana",
       "code": "LA",
-      "topTopic": "sonic",
+      "topTopic": "laredo",
       "category": "Law and Government",
-      "trendingScore": 90,
+      "trendingScore": 100,
       "topics": [
+        {
+          "name": "laredo",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "1K+",
+          "started": "19h ago",
+          "percentageIncrease": "1000%"
+        },
         {
           "name": "sonic",
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "3h ago",
+          "started": "5h ago",
           "percentageIncrease": "100%"
         }
       ]
