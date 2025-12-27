@@ -1,36 +1,20 @@
 {
-  "timestamp": "2025-12-27T12:05:02.445Z",
+  "timestamp": "2025-12-27T14:04:49.013Z",
   "states": [
     {
       "name": "Minnesota",
       "code": "MN",
       "topTopic": "somaliland",
       "category": "Law and Government",
-      "trendingScore": 100,
+      "trendingScore": 95,
       "topics": [
         {
           "name": "somaliland",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "20h ago",
-          "percentageIncrease": "500%"
-        },
-        {
-          "name": "nick shirley",
           "relevanceScore": 95,
           "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "9h ago",
-          "percentageIncrease": "200%"
-        },
-        {
-          "name": "fox news",
-          "relevanceScore": 85,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "23h ago",
-          "percentageIncrease": "50%"
+          "searchVolume": "1K+",
+          "started": "22h ago",
+          "percentageIncrease": "400%"
         }
       ]
     }
