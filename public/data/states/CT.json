@@ -1,28 +1,28 @@
 {
-  "timestamp": "2025-12-27T08:04:42.736Z",
+  "timestamp": "2025-12-27T10:04:52.342Z",
   "states": [
     {
       "name": "Connecticut",
       "code": "CT",
-      "topTopic": "irs announces gigantic tax refund",
+      "topTopic": "trumbull mall",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
-        {
-          "name": "irs announces gigantic tax refund",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "14h ago",
-          "percentageIncrease": "500%"
-        },
         {
           "name": "trumbull mall",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "2K+",
-          "started": "9h ago",
+          "started": "11h ago",
           "percentageIncrease": "1000%"
+        },
+        {
+          "name": "irs announces gigantic tax refund",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "16h ago",
+          "percentageIncrease": "500%"
         }
       ]
     }

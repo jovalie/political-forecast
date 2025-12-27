@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-12-27T08:04:42.736Z",
+  "timestamp": "2025-12-27T10:04:52.342Z",
   "states": [
     {
       "name": "Florida",
@@ -13,15 +13,23 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "2K+",
-          "started": "15h ago",
+          "started": "17h ago",
           "percentageIncrease": "400%"
+        },
+        {
+          "name": "palau",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "10h ago",
+          "percentageIncrease": "200%"
         },
         {
           "name": "dmv",
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "19h ago",
+          "started": "21h ago",
           "percentageIncrease": "100%"
         }
       ]

@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-12-27T08:04:42.736Z",
+  "timestamp": "2025-12-27T10:04:52.342Z",
   "states": [
     {
       "name": "Washington",
@@ -13,24 +13,24 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "7h ago",
+          "started": "9h ago",
           "trendBreakdown": "wallace",
           "percentageIncrease": "1000%"
         },
         {
           "name": "somaliland",
-          "relevanceScore": 100,
+          "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "12h ago",
-          "percentageIncrease": "500%"
+          "started": "14h ago",
+          "percentageIncrease": "400%"
         },
         {
           "name": "foxnews",
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "16h ago",
+          "started": "18h ago",
           "trendBreakdown": "fox",
           "percentageIncrease": "100%"
         }
