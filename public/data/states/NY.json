@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-12-27T00:05:01.341Z",
+  "timestamp": "2025-12-27T02:34:34.412Z",
   "states": [
     {
       "name": "New York",
@@ -12,8 +12,8 @@
           "name": "somaliland",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "8h ago",
+          "searchVolume": "2K+",
+          "started": "11h ago",
           "percentageIncrease": "700%"
         },
         {
@@ -21,33 +21,33 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "4h ago",
+          "started": "7h ago",
           "percentageIncrease": "600%"
-        },
-        {
-          "name": "cvs lindenhurst",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "19h ago",
-          "trendBreakdown": "lindenhurst",
-          "percentageIncrease": "200%"
         },
         {
           "name": "new flu symptoms",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "18h ago",
+          "started": "21h ago",
           "trendBreakdown": "flu",
           "percentageIncrease": "300%"
+        },
+        {
+          "name": "cvs lindenhurst",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "1K+",
+          "started": "21h ago",
+          "trendBreakdown": "lindenhurst",
+          "percentageIncrease": "200%"
         },
         {
           "name": "southwest airlines",
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "10h ago",
+          "started": "12h ago",
           "percentageIncrease": "100%"
         },
         {
@@ -55,24 +55,24 @@
           "relevanceScore": 85,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "10h ago",
+          "started": "12h ago",
           "trendBreakdown": "barnes",
           "percentageIncrease": "50%"
-        },
-        {
-          "name": "windsor",
-          "relevanceScore": 85,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "50 minutes ago",
-          "percentageIncrease": "75%"
         },
         {
           "name": "dmv",
           "relevanceScore": 85,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "10h ago",
+          "started": "13h ago",
+          "percentageIncrease": "75%"
+        },
+        {
+          "name": "windsor",
+          "relevanceScore": 85,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "3h ago",
           "percentageIncrease": "75%"
         }
       ]

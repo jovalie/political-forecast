@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-12-27T00:05:01.341Z",
+  "timestamp": "2025-12-27T02:34:34.412Z",
   "states": [
     {
       "name": "Virginia",
@@ -13,15 +13,23 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "3h ago",
+          "started": "5h ago",
           "percentageIncrease": "700%"
+        },
+        {
+          "name": "somaliland",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "8h ago",
+          "percentageIncrease": "400%"
         },
         {
           "name": "dmv",
           "relevanceScore": 85,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "10h ago",
+          "started": "13h ago",
           "percentageIncrease": "75%"
         }
       ]

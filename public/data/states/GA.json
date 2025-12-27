@@ -1,27 +1,19 @@
 {
-  "timestamp": "2025-12-27T00:05:01.341Z",
+  "timestamp": "2025-12-27T02:34:34.412Z",
   "states": [
     {
       "name": "Georgia",
       "code": "GA",
-      "topTopic": "somaliland",
+      "topTopic": "barnes and noble",
       "category": "Law and Government",
-      "trendingScore": 95,
+      "trendingScore": 85,
       "topics": [
-        {
-          "name": "somaliland",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "3h ago",
-          "percentageIncrease": "300%"
-        },
         {
           "name": "barnes and noble",
           "relevanceScore": 85,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "10h ago",
+          "started": "12h ago",
           "percentageIncrease": "75%"
         }
       ]

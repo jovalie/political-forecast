@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-12-27T00:05:01.341Z",
+  "timestamp": "2025-12-27T02:34:34.412Z",
   "states": [
     {
       "name": "California",
@@ -12,8 +12,8 @@
           "name": "somaliland",
           "relevanceScore": 95,
           "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "7h ago",
+          "searchVolume": "2K+",
+          "started": "9h ago",
           "percentageIncrease": "400%"
         },
         {
@@ -21,23 +21,15 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "20 minutes ago",
+          "started": "2h ago",
           "percentageIncrease": "200%"
-        },
-        {
-          "name": "greenland",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "23h ago",
-          "percentageIncrease": "300%"
         },
         {
           "name": "flu shots",
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "20h ago",
+          "started": "23h ago",
           "percentageIncrease": "100%"
         },
         {
@@ -45,7 +37,7 @@
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "20h ago",
+          "started": "23h ago",
           "percentageIncrease": "100%"
         },
         {
@@ -53,7 +45,7 @@
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "9h ago",
+          "started": "12h ago",
           "percentageIncrease": "100%"
         },
         {
@@ -61,7 +53,7 @@
           "relevanceScore": 85,
           "category": "Law and Government",
           "searchVolume": "5K+",
-          "started": "6h ago",
+          "started": "9h ago",
           "percentageIncrease": "50%"
         },
         {
@@ -69,7 +61,15 @@
           "relevanceScore": 85,
           "category": "Law and Government",
           "searchVolume": "5K+",
-          "started": "6h ago",
+          "started": "8h ago",
+          "percentageIncrease": "50%"
+        },
+        {
+          "name": "aol",
+          "relevanceScore": 85,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "11h ago",
           "percentageIncrease": "50%"
         },
         {
@@ -77,7 +77,7 @@
           "relevanceScore": 85,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "8h ago",
+          "started": "11h ago",
           "percentageIncrease": "75%"
         }
       ]

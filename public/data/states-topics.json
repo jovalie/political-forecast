@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-12-27T00:05:01.341Z",
+  "timestamp": "2025-12-27T02:34:34.412Z",
   "states": [
     {
       "name": "California",
@@ -12,8 +12,8 @@
           "name": "somaliland",
           "relevanceScore": 95,
           "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "7h ago",
+          "searchVolume": "2K+",
+          "started": "9h ago",
           "percentageIncrease": "400%"
         },
         {
@@ -21,23 +21,15 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "20 minutes ago",
+          "started": "2h ago",
           "percentageIncrease": "200%"
-        },
-        {
-          "name": "greenland",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "23h ago",
-          "percentageIncrease": "300%"
         },
         {
           "name": "flu shots",
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "20h ago",
+          "started": "23h ago",
           "percentageIncrease": "100%"
         },
         {
@@ -45,7 +37,7 @@
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "20h ago",
+          "started": "23h ago",
           "percentageIncrease": "100%"
         },
         {
@@ -53,7 +45,7 @@
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "9h ago",
+          "started": "12h ago",
           "percentageIncrease": "100%"
         },
         {
@@ -61,7 +53,7 @@
           "relevanceScore": 85,
           "category": "Law and Government",
           "searchVolume": "5K+",
-          "started": "6h ago",
+          "started": "9h ago",
           "percentageIncrease": "50%"
         },
         {
@@ -69,7 +61,15 @@
           "relevanceScore": 85,
           "category": "Law and Government",
           "searchVolume": "5K+",
-          "started": "6h ago",
+          "started": "8h ago",
+          "percentageIncrease": "50%"
+        },
+        {
+          "name": "aol",
+          "relevanceScore": 85,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "11h ago",
           "percentageIncrease": "50%"
         },
         {
@@ -77,7 +77,7 @@
           "relevanceScore": 85,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "8h ago",
+          "started": "11h ago",
           "percentageIncrease": "75%"
         }
       ]
@@ -94,7 +94,7 @@
           "relevanceScore": 85,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "7h ago",
+          "started": "10h ago",
           "percentageIncrease": "50%"
         }
       ]
@@ -111,23 +111,15 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "7h ago",
+          "started": "10h ago",
           "percentageIncrease": "400%"
-        },
-        {
-          "name": "northwestern university",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "2h ago",
-          "percentageIncrease": "300%"
         },
         {
           "name": "dmv",
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "11h ago",
+          "started": "13h ago",
           "percentageIncrease": "100%"
         }
       ]
@@ -135,24 +127,16 @@
     {
       "name": "Georgia",
       "code": "GA",
-      "topTopic": "somaliland",
+      "topTopic": "barnes and noble",
       "category": "Law and Government",
-      "trendingScore": 95,
+      "trendingScore": 85,
       "topics": [
-        {
-          "name": "somaliland",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "3h ago",
-          "percentageIncrease": "300%"
-        },
         {
           "name": "barnes and noble",
           "relevanceScore": 85,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "10h ago",
+          "started": "12h ago",
           "percentageIncrease": "75%"
         }
       ]
@@ -160,24 +144,24 @@
     {
       "name": "Illinois",
       "code": "IL",
-      "topTopic": "greenland",
+      "topTopic": "somaliland",
       "category": "Law and Government",
-      "trendingScore": 95,
+      "trendingScore": 100,
       "topics": [
         {
-          "name": "greenland",
-          "relevanceScore": 95,
+          "name": "somaliland",
+          "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "23h ago",
-          "percentageIncrease": "200%"
+          "searchVolume": "500+",
+          "started": "7h ago",
+          "percentageIncrease": "500%"
         },
         {
           "name": "southwest",
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "9h ago",
+          "started": "12h ago",
           "percentageIncrease": "100%"
         },
         {
@@ -185,7 +169,7 @@
           "relevanceScore": 85,
           "category": "Law and Government",
           "searchVolume": "2K+",
-          "started": "8h ago",
+          "started": "11h ago",
           "percentageIncrease": "50%"
         }
       ]
@@ -202,7 +186,7 @@
           "relevanceScore": 85,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "10h ago",
+          "started": "12h ago",
           "percentageIncrease": "75%"
         },
         {
@@ -210,7 +194,7 @@
           "relevanceScore": 85,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "13h ago",
+          "started": "15h ago",
           "percentageIncrease": "50%"
         }
       ]
@@ -227,7 +211,7 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "5h ago",
+          "started": "8h ago",
           "percentageIncrease": "200%"
         },
         {
@@ -235,7 +219,7 @@
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "9h ago",
+          "started": "12h ago",
           "percentageIncrease": "100%"
         }
       ]
@@ -243,24 +227,16 @@
     {
       "name": "Michigan",
       "code": "MI",
-      "topTopic": "greenland",
+      "topTopic": "fox news",
       "category": "Law and Government",
-      "trendingScore": 95,
+      "trendingScore": 85,
       "topics": [
-        {
-          "name": "greenland",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "23h ago",
-          "percentageIncrease": "400%"
-        },
         {
           "name": "fox news",
           "relevanceScore": 85,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "12h ago",
+          "started": "15h ago",
           "percentageIncrease": "50%"
         }
       ]
@@ -268,16 +244,24 @@
     {
       "name": "Massachusetts",
       "code": "MA",
-      "topTopic": "southwest airlines",
+      "topTopic": "somaliland",
       "category": "Law and Government",
-      "trendingScore": 90,
+      "trendingScore": 95,
       "topics": [
+        {
+          "name": "somaliland",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "6h ago",
+          "percentageIncrease": "400%"
+        },
         {
           "name": "southwest airlines",
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "5h ago",
+          "started": "8h ago",
           "percentageIncrease": "100%"
         }
       ]
@@ -294,7 +278,7 @@
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "9h ago",
+          "started": "12h ago",
           "percentageIncrease": "100%"
         }
       ]
@@ -311,7 +295,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "6h ago",
+          "started": "9h ago",
           "percentageIncrease": "700%"
         }
       ]
@@ -328,16 +312,24 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "2K+",
-          "started": "6h ago",
+          "started": "8h ago",
           "trendBreakdown": "mint",
-          "percentageIncrease": "900%"
+          "percentageIncrease": "800%"
+        },
+        {
+          "name": "somaliland",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "5h ago",
+          "percentageIncrease": "300%"
         },
         {
           "name": "dmv",
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "10h ago",
+          "started": "12h ago",
           "percentageIncrease": "100%"
         },
         {
@@ -345,7 +337,7 @@
           "relevanceScore": 85,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "9h ago",
+          "started": "11h ago",
           "percentageIncrease": "75%"
         }
       ]
@@ -361,8 +353,8 @@
           "name": "somaliland",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "8h ago",
+          "searchVolume": "2K+",
+          "started": "11h ago",
           "percentageIncrease": "700%"
         },
         {
@@ -370,33 +362,33 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "4h ago",
+          "started": "7h ago",
           "percentageIncrease": "600%"
-        },
-        {
-          "name": "cvs lindenhurst",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "19h ago",
-          "trendBreakdown": "lindenhurst",
-          "percentageIncrease": "200%"
         },
         {
           "name": "new flu symptoms",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "18h ago",
+          "started": "21h ago",
           "trendBreakdown": "flu",
           "percentageIncrease": "300%"
+        },
+        {
+          "name": "cvs lindenhurst",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "1K+",
+          "started": "21h ago",
+          "trendBreakdown": "lindenhurst",
+          "percentageIncrease": "200%"
         },
         {
           "name": "southwest airlines",
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "10h ago",
+          "started": "12h ago",
           "percentageIncrease": "100%"
         },
         {
@@ -404,24 +396,24 @@
           "relevanceScore": 85,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "10h ago",
+          "started": "12h ago",
           "trendBreakdown": "barnes",
           "percentageIncrease": "50%"
-        },
-        {
-          "name": "windsor",
-          "relevanceScore": 85,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "50 minutes ago",
-          "percentageIncrease": "75%"
         },
         {
           "name": "dmv",
           "relevanceScore": 85,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "10h ago",
+          "started": "13h ago",
+          "percentageIncrease": "75%"
+        },
+        {
+          "name": "windsor",
+          "relevanceScore": 85,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "3h ago",
           "percentageIncrease": "75%"
         }
       ]
@@ -438,7 +430,7 @@
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "50 minutes ago",
+          "started": "3h ago",
           "percentageIncrease": "100%"
         }
       ]
@@ -448,22 +440,22 @@
       "code": "OR",
       "topTopic": "barnes and noble",
       "category": "Law and Government",
-      "trendingScore": 90,
+      "trendingScore": 85,
       "topics": [
         {
           "name": "barnes and noble",
-          "relevanceScore": 90,
+          "relevanceScore": 85,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "7h ago",
-          "percentageIncrease": "100%"
+          "started": "9h ago",
+          "percentageIncrease": "75%"
         },
         {
           "name": "fox news",
           "relevanceScore": 85,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "9h ago",
+          "started": "11h ago",
           "percentageIncrease": "50%"
         }
       ]
@@ -471,16 +463,24 @@
     {
       "name": "Pennsylvania",
       "code": "PA",
-      "topTopic": "green card travel rules",
+      "topTopic": "somaliland",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
+        {
+          "name": "somaliland",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "8h ago",
+          "percentageIncrease": "500%"
+        },
         {
           "name": "green card travel rules",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "3h ago",
+          "started": "6h ago",
           "percentageIncrease": "600%"
         },
         {
@@ -488,7 +488,7 @@
           "relevanceScore": 85,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "10h ago",
+          "started": "12h ago",
           "percentageIncrease": "75%"
         }
       ]
@@ -522,7 +522,7 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "11h ago",
+          "started": "13h ago",
           "percentageIncrease": "200%"
         },
         {
@@ -530,7 +530,7 @@
           "relevanceScore": 85,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "10h ago",
+          "started": "12h ago",
           "percentageIncrease": "75%"
         }
       ]
@@ -547,7 +547,7 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "7h ago",
+          "started": "9h ago",
           "percentageIncrease": "300%"
         },
         {
@@ -555,7 +555,7 @@
           "relevanceScore": 85,
           "category": "Law and Government",
           "searchVolume": "5K+",
-          "started": "9h ago",
+          "started": "12h ago",
           "percentageIncrease": "50%"
         }
       ]
@@ -572,15 +572,23 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "3h ago",
+          "started": "5h ago",
           "percentageIncrease": "700%"
+        },
+        {
+          "name": "somaliland",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "8h ago",
+          "percentageIncrease": "400%"
         },
         {
           "name": "dmv",
           "relevanceScore": 85,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "10h ago",
+          "started": "13h ago",
           "percentageIncrease": "75%"
         }
       ]
@@ -597,7 +605,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "7h ago",
+          "started": "9h ago",
           "percentageIncrease": "600%"
         },
         {
@@ -605,7 +613,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "3h ago",
+          "started": "5h ago",
           "percentageIncrease": "500%"
         }
       ]
@@ -647,16 +655,33 @@
     {
       "name": "Washington",
       "code": "WA",
-      "topTopic": "foxnews",
+      "topTopic": "wallace idaho",
       "category": "Law and Government",
-      "trendingScore": 90,
+      "trendingScore": 100,
       "topics": [
+        {
+          "name": "wallace idaho",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "1h ago",
+          "trendBreakdown": "abc",
+          "percentageIncrease": "1000%"
+        },
+        {
+          "name": "somaliland",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "6h ago",
+          "percentageIncrease": "500%"
+        },
         {
           "name": "foxnews",
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "8h ago",
+          "started": "10h ago",
           "trendBreakdown": "fox",
           "percentageIncrease": "100%"
         }
@@ -674,7 +699,7 @@
           "relevanceScore": 85,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "3h ago",
+          "started": "5h ago",
           "percentageIncrease": "50%"
         },
         {
@@ -682,7 +707,7 @@
           "relevanceScore": 85,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "11h ago",
+          "started": "14h ago",
           "percentageIncrease": "50%"
         }
       ]
@@ -733,7 +758,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "20h ago",
+          "started": "22h ago",
           "percentageIncrease": "600%"
         }
       ]
@@ -767,7 +792,7 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "7h ago",
+          "started": "10h ago",
           "percentageIncrease": "300%"
         }
       ]
@@ -784,15 +809,15 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "8h ago",
-          "percentageIncrease": "700%"
+          "started": "10h ago",
+          "percentageIncrease": "600%"
         },
         {
           "name": "fox news",
           "relevanceScore": 85,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "11h ago",
+          "started": "14h ago",
           "percentageIncrease": "50%"
         }
       ]
@@ -826,7 +851,7 @@
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "6h ago",
+          "started": "9h ago",
           "percentageIncrease": "100%"
         }
       ]
@@ -859,8 +884,8 @@
           "name": "trumbull mall",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "1h ago",
+          "searchVolume": "2K+",
+          "started": "3h ago",
           "percentageIncrease": "1000%"
         }
       ]
@@ -929,7 +954,7 @@
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "8h ago",
+          "started": "10h ago",
           "percentageIncrease": "100%"
         }
       ]
@@ -946,7 +971,7 @@
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "9h ago",
+          "started": "11h ago",
           "percentageIncrease": "100%"
         },
         {
@@ -954,7 +979,7 @@
           "relevanceScore": 85,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "11h ago",
+          "started": "14h ago",
           "percentageIncrease": "75%"
         }
       ]
@@ -962,16 +987,16 @@
     {
       "name": "Idaho",
       "code": "ID",
-      "topTopic": "laredo",
+      "topTopic": "wallace idaho",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
         {
-          "name": "laredo",
+          "name": "wallace idaho",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "23h ago",
+          "searchVolume": "500+",
+          "started": "2h ago",
           "percentageIncrease": "1000%"
         }
       ]
@@ -988,8 +1013,8 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "2h ago",
-          "percentageIncrease": "900%"
+          "started": "4h ago",
+          "percentageIncrease": "700%"
         }
       ]
     },
@@ -1099,7 +1124,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "4h ago",
+          "started": "7h ago",
           "percentageIncrease": "600%"
         }
       ]

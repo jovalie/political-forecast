@@ -1,27 +1,27 @@
 {
-  "timestamp": "2025-12-27T00:05:01.341Z",
+  "timestamp": "2025-12-27T02:34:34.412Z",
   "states": [
     {
       "name": "Oregon",
       "code": "OR",
       "topTopic": "barnes and noble",
       "category": "Law and Government",
-      "trendingScore": 90,
+      "trendingScore": 85,
       "topics": [
         {
           "name": "barnes and noble",
-          "relevanceScore": 90,
+          "relevanceScore": 85,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "7h ago",
-          "percentageIncrease": "100%"
+          "started": "9h ago",
+          "percentageIncrease": "75%"
         },
         {
           "name": "fox news",
           "relevanceScore": 85,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "9h ago",
+          "started": "11h ago",
           "percentageIncrease": "50%"
         }
       ]
