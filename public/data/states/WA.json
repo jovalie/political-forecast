@@ -1,27 +1,19 @@
 {
-  "timestamp": "2025-12-26T22:04:31.752Z",
+  "timestamp": "2025-12-27T00:05:01.341Z",
   "states": [
     {
       "name": "Washington",
       "code": "WA",
-      "topTopic": "somaliland",
+      "topTopic": "foxnews",
       "category": "Law and Government",
-      "trendingScore": 100,
+      "trendingScore": 90,
       "topics": [
-        {
-          "name": "somaliland",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "2h ago",
-          "percentageIncrease": "600%"
-        },
         {
           "name": "foxnews",
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "6h ago",
+          "started": "8h ago",
           "trendBreakdown": "fox",
           "percentageIncrease": "100%"
         }

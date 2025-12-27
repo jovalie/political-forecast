@@ -1,20 +1,20 @@
 {
-  "timestamp": "2025-12-26T22:04:31.752Z",
+  "timestamp": "2025-12-27T00:05:01.341Z",
   "states": [
     {
       "name": "Oklahoma",
       "code": "OK",
-      "topTopic": "laredo",
+      "topTopic": "okc weather",
       "category": "Law and Government",
-      "trendingScore": 100,
+      "trendingScore": 90,
       "topics": [
         {
-          "name": "laredo",
-          "relevanceScore": 100,
+          "name": "okc weather",
+          "relevanceScore": 90,
           "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "23h ago",
-          "percentageIncrease": "700%"
+          "searchVolume": "100+",
+          "started": "10h ago",
+          "percentageIncrease": "100%"
         }
       ]
     }

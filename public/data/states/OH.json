@@ -1,27 +1,19 @@
 {
-  "timestamp": "2025-12-26T22:04:31.752Z",
+  "timestamp": "2025-12-27T00:05:01.341Z",
   "states": [
     {
       "name": "Ohio",
       "code": "OH",
-      "topTopic": "somaliland",
+      "topTopic": "summit mall",
       "category": "Law and Government",
-      "trendingScore": 95,
+      "trendingScore": 90,
       "topics": [
         {
-          "name": "somaliland",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "2h ago",
-          "percentageIncrease": "300%"
-        },
-        {
-          "name": "rhode",
+          "name": "summit mall",
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "22h ago",
+          "started": "50 minutes ago",
           "percentageIncrease": "100%"
         }
       ]

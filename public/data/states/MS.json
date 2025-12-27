@@ -1,20 +1,20 @@
 {
-  "timestamp": "2025-12-26T22:04:31.752Z",
+  "timestamp": "2025-12-27T00:05:01.341Z",
   "states": [
     {
       "name": "Mississippi",
       "code": "MS",
-      "topTopic": "laredo",
+      "topTopic": "turtle creek mall",
       "category": "Law and Government",
-      "trendingScore": 95,
+      "trendingScore": 100,
       "topics": [
         {
-          "name": "laredo",
-          "relevanceScore": 95,
+          "name": "turtle creek mall",
+          "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "22h ago",
-          "percentageIncrease": "400%"
+          "searchVolume": "1K+",
+          "started": "2h ago",
+          "percentageIncrease": "900%"
         }
       ]
     }

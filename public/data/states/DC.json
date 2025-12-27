@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-12-26T22:04:31.752Z",
+  "timestamp": "2025-12-27T00:05:01.341Z",
   "states": [
     {
       "name": "District of Columbia",
@@ -13,8 +13,16 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "5h ago",
+          "started": "7h ago",
           "percentageIncrease": "600%"
+        },
+        {
+          "name": "green card travel rules",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "3h ago",
+          "percentageIncrease": "500%"
         }
       ]
     }

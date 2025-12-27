@@ -1,19 +1,19 @@
 {
-  "timestamp": "2025-12-26T22:04:31.752Z",
+  "timestamp": "2025-12-27T00:05:01.341Z",
   "states": [
     {
       "name": "Connecticut",
       "code": "CT",
-      "topTopic": "laredo",
+      "topTopic": "trumbull mall",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
         {
-          "name": "laredo",
+          "name": "trumbull mall",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "2K+",
-          "started": "16h ago",
+          "searchVolume": "500+",
+          "started": "1h ago",
           "percentageIncrease": "1000%"
         }
       ]
