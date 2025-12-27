@@ -1,19 +1,27 @@
 {
-  "timestamp": "2025-12-27T02:34:34.412Z",
+  "timestamp": "2025-12-27T04:12:08.258Z",
   "states": [
     {
       "name": "Arizona",
       "code": "AZ",
-      "topTopic": "barnes and noble",
+      "topTopic": "turquoise alert",
       "category": "Law and Government",
-      "trendingScore": 85,
+      "trendingScore": 100,
       "topics": [
+        {
+          "name": "turquoise alert",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "1K+",
+          "started": "2h ago",
+          "percentageIncrease": "1000%"
+        },
         {
           "name": "barnes and noble",
           "relevanceScore": 85,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "10h ago",
+          "started": "11h ago",
           "percentageIncrease": "50%"
         }
       ]

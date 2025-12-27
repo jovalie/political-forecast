@@ -1,27 +1,19 @@
 {
-  "timestamp": "2025-12-27T02:34:34.412Z",
+  "timestamp": "2025-12-27T04:12:08.258Z",
   "states": [
     {
       "name": "Virginia",
       "code": "VA",
-      "topTopic": "green card travel rules",
+      "topTopic": "somaliland",
       "category": "Law and Government",
-      "trendingScore": 100,
+      "trendingScore": 95,
       "topics": [
-        {
-          "name": "green card travel rules",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "5h ago",
-          "percentageIncrease": "700%"
-        },
         {
           "name": "somaliland",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "8h ago",
+          "started": "9h ago",
           "percentageIncrease": "400%"
         },
         {
@@ -29,7 +21,7 @@
           "relevanceScore": 85,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "13h ago",
+          "started": "15h ago",
           "percentageIncrease": "75%"
         }
       ]

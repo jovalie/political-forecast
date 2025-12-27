@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-12-27T02:34:34.412Z",
+  "timestamp": "2025-12-27T04:12:08.258Z",
   "states": [
     {
       "name": "California",
@@ -13,47 +13,31 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "2K+",
-          "started": "9h ago",
+          "started": "11h ago",
           "percentageIncrease": "400%"
+        },
+        {
+          "name": "supreme",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "12h ago",
+          "percentageIncrease": "200%"
         },
         {
           "name": "lillian bonsignore",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "2h ago",
+          "started": "4h ago",
           "percentageIncrease": "200%"
-        },
-        {
-          "name": "flu shots",
-          "relevanceScore": 90,
-          "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "23h ago",
-          "percentageIncrease": "100%"
-        },
-        {
-          "name": "vaccinations",
-          "relevanceScore": 90,
-          "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "23h ago",
-          "percentageIncrease": "100%"
-        },
-        {
-          "name": "cnn news",
-          "relevanceScore": 90,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "12h ago",
-          "percentageIncrease": "100%"
         },
         {
           "name": "barnes and noble",
           "relevanceScore": 85,
           "category": "Law and Government",
           "searchVolume": "5K+",
-          "started": "9h ago",
+          "started": "10h ago",
           "percentageIncrease": "50%"
         },
         {
@@ -61,15 +45,7 @@
           "relevanceScore": 85,
           "category": "Law and Government",
           "searchVolume": "5K+",
-          "started": "8h ago",
-          "percentageIncrease": "50%"
-        },
-        {
-          "name": "aol",
-          "relevanceScore": 85,
-          "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "11h ago",
+          "started": "10h ago",
           "percentageIncrease": "50%"
         },
         {
@@ -77,7 +53,7 @@
           "relevanceScore": 85,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "11h ago",
+          "started": "12h ago",
           "percentageIncrease": "75%"
         }
       ]
