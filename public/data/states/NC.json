@@ -1,28 +1,28 @@
 {
-  "timestamp": "2025-12-27T14:04:49.013Z",
+  "timestamp": "2025-12-27T16:04:36.625Z",
   "states": [
     {
       "name": "North Carolina",
       "code": "NC",
-      "topTopic": "mint hill nc",
+      "topTopic": "mint hill officers shot",
       "category": "Law and Government",
-      "trendingScore": 100,
+      "trendingScore": 95,
       "topics": [
         {
-          "name": "mint hill nc",
-          "relevanceScore": 100,
+          "name": "mint hill officers shot",
+          "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "2K+",
           "started": "20h ago",
           "trendBreakdown": "mint",
-          "percentageIncrease": "700%"
+          "percentageIncrease": "300%"
         },
         {
           "name": "palau",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "3h ago",
+          "started": "5h ago",
           "percentageIncrease": "200%"
         },
         {
@@ -30,16 +30,17 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "20h ago",
+          "started": "22h ago",
           "percentageIncrease": "400%"
         },
         {
-          "name": "barnes and noble",
-          "relevanceScore": 85,
+          "name": "flu a symptoms",
+          "relevanceScore": 90,
           "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "23h ago",
-          "percentageIncrease": "75%"
+          "searchVolume": "100+",
+          "started": "2h ago",
+          "trendBreakdown": "flu",
+          "percentageIncrease": "100%"
         }
       ]
     }

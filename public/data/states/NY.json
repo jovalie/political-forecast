@@ -1,27 +1,19 @@
 {
-  "timestamp": "2025-12-27T14:04:49.013Z",
+  "timestamp": "2025-12-27T16:04:36.625Z",
   "states": [
     {
       "name": "New York",
       "code": "NY",
-      "topTopic": "somaliland",
+      "topTopic": "green card travel rules",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
-        {
-          "name": "somaliland",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "2K+",
-          "started": "22h ago",
-          "percentageIncrease": "700%"
-        },
         {
           "name": "green card travel rules",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "18h ago",
+          "started": "20h ago",
           "percentageIncrease": "600%"
         },
         {
@@ -29,15 +21,23 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "11h ago",
+          "started": "13h ago",
           "percentageIncrease": "200%"
+        },
+        {
+          "name": "newark airport",
+          "relevanceScore": 90,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "5h ago",
+          "percentageIncrease": "100%"
         },
         {
           "name": "cvs stabbing lindenhurst",
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "21h ago",
+          "started": "23h ago",
           "percentageIncrease": "100%"
         },
         {
@@ -45,16 +45,8 @@
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "3h ago",
+          "started": "5h ago",
           "trendBreakdown": "flu",
-          "percentageIncrease": "100%"
-        },
-        {
-          "name": "tom segura",
-          "relevanceScore": 90,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "13h ago",
           "percentageIncrease": "100%"
         },
         {
@@ -62,7 +54,7 @@
           "relevanceScore": 85,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "20 minutes ago",
+          "started": "2h ago",
           "percentageIncrease": "50%"
         },
         {
@@ -70,7 +62,7 @@
           "relevanceScore": 85,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "14h ago",
+          "started": "16h ago",
           "percentageIncrease": "75%"
         }
       ]
