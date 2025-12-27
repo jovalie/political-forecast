@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-12-27T10:04:52.342Z",
+  "timestamp": "2025-12-27T12:05:02.445Z",
   "states": [
     {
       "name": "Massachusetts",
@@ -13,7 +13,7 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "13h ago",
+          "started": "15h ago",
           "percentageIncrease": "300%"
         },
         {
@@ -21,15 +21,24 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "12h ago",
+          "started": "14h ago",
           "percentageIncrease": "400%"
+        },
+        {
+          "name": "flu symptoms",
+          "relevanceScore": 90,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "2h ago",
+          "trendBreakdown": "new",
+          "percentageIncrease": "100%"
         },
         {
           "name": "southwest airlines",
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "15h ago",
+          "started": "17h ago",
           "percentageIncrease": "100%"
         }
       ]
