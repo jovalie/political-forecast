@@ -1,35 +1,19 @@
 {
-  "timestamp": "2025-12-27T20:04:27.754Z",
+  "timestamp": "2025-12-27T22:04:31.047Z",
   "states": [
     {
       "name": "Massachusetts",
       "code": "MA",
-      "topTopic": "somaliland",
+      "topTopic": "flu symptoms",
       "category": "Law and Government",
-      "trendingScore": 95,
+      "trendingScore": 90,
       "topics": [
-        {
-          "name": "somaliland",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "23h ago",
-          "percentageIncrease": "300%"
-        },
-        {
-          "name": "green card travel rules",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "22h ago",
-          "percentageIncrease": "400%"
-        },
         {
           "name": "flu symptoms",
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "10h ago",
+          "started": "12h ago",
           "trendBreakdown": "new",
           "percentageIncrease": "100%"
         }

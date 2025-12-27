@@ -1,27 +1,19 @@
 {
-  "timestamp": "2025-12-27T20:04:27.754Z",
+  "timestamp": "2025-12-27T22:04:31.047Z",
   "states": [
     {
       "name": "Utah",
       "code": "UT",
-      "topTopic": "ksl news",
+      "topTopic": "ksl",
       "category": "Law and Government",
-      "trendingScore": 90,
+      "trendingScore": 85,
       "topics": [
-        {
-          "name": "ksl news",
-          "relevanceScore": 90,
-          "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "5h ago",
-          "percentageIncrease": "100%"
-        },
         {
           "name": "ksl",
           "relevanceScore": 85,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "6h ago",
+          "started": "8h ago",
           "percentageIncrease": "50%"
         }
       ]
