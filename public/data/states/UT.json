@@ -1,20 +1,28 @@
 {
-  "timestamp": "2025-12-27T16:04:36.625Z",
+  "timestamp": "2025-12-27T18:04:35.348Z",
   "states": [
     {
       "name": "Utah",
       "code": "UT",
-      "topTopic": "barnes and noble",
+      "topTopic": "ksl news",
       "category": "Law and Government",
       "trendingScore": 90,
       "topics": [
         {
-          "name": "barnes and noble",
+          "name": "ksl news",
           "relevanceScore": 90,
           "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "22h ago",
+          "searchVolume": "500+",
+          "started": "3h ago",
           "percentageIncrease": "100%"
+        },
+        {
+          "name": "ksl",
+          "relevanceScore": 85,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "4h ago",
+          "percentageIncrease": "50%"
         }
       ]
     }

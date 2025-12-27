@@ -1,35 +1,19 @@
 {
-  "timestamp": "2025-12-27T16:04:36.625Z",
+  "timestamp": "2025-12-27T18:04:35.348Z",
   "states": [
     {
       "name": "Texas",
       "code": "TX",
-      "topTopic": "somaliland",
+      "topTopic": "palau",
       "category": "Law and Government",
-      "trendingScore": 95,
+      "trendingScore": 90,
       "topics": [
-        {
-          "name": "somaliland",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "2K+",
-          "started": "23h ago",
-          "percentageIncrease": "200%"
-        },
         {
           "name": "palau",
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "15h ago",
-          "percentageIncrease": "100%"
-        },
-        {
-          "name": "ukraine",
-          "relevanceScore": 90,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "10h ago",
+          "started": "17h ago",
           "percentageIncrease": "100%"
         },
         {
@@ -37,7 +21,7 @@
           "relevanceScore": 85,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "3h ago",
+          "started": "5h ago",
           "percentageIncrease": "75%"
         }
       ]
