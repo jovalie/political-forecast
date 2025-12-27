@@ -1,27 +1,27 @@
 {
-  "timestamp": "2025-12-27T06:04:41.152Z",
+  "timestamp": "2025-12-27T08:04:42.736Z",
   "states": [
     {
       "name": "Florida",
       "code": "FL",
       "topTopic": "somaliland",
       "category": "Law and Government",
-      "trendingScore": 100,
+      "trendingScore": 95,
       "topics": [
         {
           "name": "somaliland",
-          "relevanceScore": 100,
+          "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "2K+",
-          "started": "13h ago",
-          "percentageIncrease": "500%"
+          "started": "15h ago",
+          "percentageIncrease": "400%"
         },
         {
           "name": "dmv",
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "17h ago",
+          "started": "19h ago",
           "percentageIncrease": "100%"
         }
       ]
