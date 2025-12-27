@@ -1,43 +1,43 @@
 {
-  "timestamp": "2025-12-27T18:04:35.348Z",
+  "timestamp": "2025-12-27T20:04:27.754Z",
   "states": [
     {
       "name": "New York",
       "code": "NY",
-      "topTopic": "green card travel rules",
+      "topTopic": "john pilaccio",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
         {
-          "name": "green card travel rules",
+          "name": "john pilaccio",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "22h ago",
-          "percentageIncrease": "600%"
+          "searchVolume": "2K+",
+          "started": "17h ago",
+          "percentageIncrease": "900%"
         },
         {
           "name": "palau",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "15h ago",
+          "started": "17h ago",
           "percentageIncrease": "200%"
         },
         {
-          "name": "newark airport",
-          "relevanceScore": 90,
+          "name": "newsday",
+          "relevanceScore": 85,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "7h ago",
-          "percentageIncrease": "100%"
+          "started": "6h ago",
+          "percentageIncrease": "50%"
         },
         {
           "name": "windsor",
           "relevanceScore": 85,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "18h ago",
+          "started": "20h ago",
           "percentageIncrease": "75%"
         }
       ]

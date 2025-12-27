@@ -1,27 +1,19 @@
 {
-  "timestamp": "2025-12-27T18:04:35.348Z",
+  "timestamp": "2025-12-27T20:04:27.754Z",
   "states": [
     {
       "name": "Virginia",
       "code": "VA",
-      "topTopic": "somaliland",
+      "topTopic": "flu symptoms",
       "category": "Law and Government",
-      "trendingScore": 95,
+      "trendingScore": 90,
       "topics": [
-        {
-          "name": "somaliland",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "23h ago",
-          "percentageIncrease": "300%"
-        },
         {
           "name": "flu symptoms",
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "8h ago",
+          "started": "10h ago",
           "percentageIncrease": "100%"
         }
       ]

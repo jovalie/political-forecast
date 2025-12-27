@@ -1,19 +1,27 @@
 {
-  "timestamp": "2025-12-27T18:04:35.348Z",
+  "timestamp": "2025-12-27T20:04:27.754Z",
   "states": [
     {
       "name": "California",
       "code": "CA",
-      "topTopic": "mora namdar",
+      "topTopic": "sofi stadium",
       "category": "Law and Government",
-      "trendingScore": 90,
+      "trendingScore": 95,
       "topics": [
+        {
+          "name": "sofi stadium",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "1K+",
+          "started": "4h ago",
+          "percentageIncrease": "200%"
+        },
         {
           "name": "mora namdar",
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "2h ago",
+          "started": "4h ago",
           "percentageIncrease": "100%"
         },
         {
@@ -21,23 +29,15 @@
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "11h ago",
+          "started": "13h ago",
           "percentageIncrease": "100%"
-        },
-        {
-          "name": "las vegas",
-          "relevanceScore": 85,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "40 minutes ago",
-          "percentageIncrease": "50%"
         },
         {
           "name": "huffington post",
           "relevanceScore": 85,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "1h ago",
+          "started": "3h ago",
           "percentageIncrease": "50%"
         }
       ]

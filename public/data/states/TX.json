@@ -1,19 +1,27 @@
 {
-  "timestamp": "2025-12-27T18:04:35.348Z",
+  "timestamp": "2025-12-27T20:04:27.754Z",
   "states": [
     {
       "name": "Texas",
       "code": "TX",
-      "topTopic": "palau",
+      "topTopic": "east carolina university",
       "category": "Law and Government",
-      "trendingScore": 90,
+      "trendingScore": 95,
       "topics": [
+        {
+          "name": "east carolina university",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "50 minutes ago",
+          "percentageIncrease": "200%"
+        },
         {
           "name": "palau",
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "17h ago",
+          "started": "19h ago",
           "percentageIncrease": "100%"
         },
         {
@@ -21,7 +29,7 @@
           "relevanceScore": 85,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "5h ago",
+          "started": "7h ago",
           "percentageIncrease": "75%"
         }
       ]
