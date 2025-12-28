@@ -1,19 +1,27 @@
 {
-  "timestamp": "2025-12-28T18:04:37.272Z",
+  "timestamp": "2025-12-28T20:04:44.840Z",
   "states": [
     {
       "name": "Massachusetts",
       "code": "MA",
-      "topTopic": "nick shirley",
+      "topTopic": "fox",
       "category": "Law and Government",
-      "trendingScore": 95,
+      "trendingScore": 100,
       "topics": [
+        {
+          "name": "fox",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "2h ago",
+          "percentageIncrease": "500%"
+        },
         {
           "name": "nick shirley",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "5h ago",
+          "started": "7h ago",
           "trendBreakdown": "minnesota",
           "percentageIncrease": "200%"
         }

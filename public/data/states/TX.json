@@ -1,28 +1,20 @@
 {
-  "timestamp": "2025-12-28T18:04:37.272Z",
+  "timestamp": "2025-12-28T20:04:44.840Z",
   "states": [
     {
       "name": "Texas",
       "code": "TX",
-      "topTopic": "nick shirley",
+      "topTopic": "minnesota fraud",
       "category": "Law and Government",
       "trendingScore": 95,
       "topics": [
         {
-          "name": "nick shirley",
+          "name": "minnesota fraud",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "4h ago",
-          "trendBreakdown": "minnesota",
-          "percentageIncrease": "200%"
-        },
-        {
-          "name": "east carolina university",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "22h ago",
+          "started": "5h ago",
+          "trendBreakdown": "nick",
           "percentageIncrease": "200%"
         }
       ]

@@ -1,36 +1,28 @@
 {
-  "timestamp": "2025-12-28T18:04:37.272Z",
+  "timestamp": "2025-12-28T20:04:44.840Z",
   "states": [
     {
       "name": "California",
       "code": "CA",
       "topTopic": "minnesota fraud",
       "category": "Law and Government",
-      "trendingScore": 90,
+      "trendingScore": 95,
       "topics": [
         {
           "name": "minnesota fraud",
-          "relevanceScore": 90,
+          "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "2K+",
-          "started": "12h ago",
-          "trendBreakdown": "nick",
-          "percentageIncrease": "100%"
+          "started": "14h ago",
+          "trendBreakdown": "tim",
+          "percentageIncrease": "200%"
         },
         {
           "name": "frontier airlines",
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "1h ago",
-          "percentageIncrease": "100%"
-        },
-        {
-          "name": "royal caribbean cruise",
-          "relevanceScore": 90,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "16h ago",
+          "started": "3h ago",
           "percentageIncrease": "100%"
         },
         {
@@ -38,7 +30,7 @@
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "15h ago",
+          "started": "17h ago",
           "percentageIncrease": "100%"
         },
         {
@@ -46,7 +38,7 @@
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "18h ago",
+          "started": "20h ago",
           "percentageIncrease": "100%"
         }
       ]

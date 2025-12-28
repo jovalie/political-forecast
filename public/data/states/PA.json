@@ -1,27 +1,19 @@
 {
-  "timestamp": "2025-12-28T18:04:37.272Z",
+  "timestamp": "2025-12-28T20:04:44.840Z",
   "states": [
     {
       "name": "Pennsylvania",
       "code": "PA",
-      "topTopic": "iran president",
+      "topTopic": "minnesota fraud",
       "category": "Law and Government",
-      "trendingScore": 100,
+      "trendingScore": 95,
       "topics": [
-        {
-          "name": "iran president",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "13h ago",
-          "percentageIncrease": "600%"
-        },
         {
           "name": "minnesota fraud",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "4h ago",
+          "started": "6h ago",
           "trendBreakdown": "nick",
           "percentageIncrease": "200%"
         }
