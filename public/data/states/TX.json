@@ -1,27 +1,27 @@
 {
-  "timestamp": "2025-12-27T22:04:31.047Z",
+  "timestamp": "2025-12-28T00:04:55.044Z",
   "states": [
     {
       "name": "Texas",
       "code": "TX",
-      "topTopic": "east carolina university",
+      "topTopic": "greenland",
       "category": "Law and Government",
       "trendingScore": 95,
       "topics": [
         {
-          "name": "east carolina university",
+          "name": "greenland",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "2h ago",
-          "percentageIncrease": "200%"
+          "started": "1h ago",
+          "percentageIncrease": "400%"
         },
         {
           "name": "palau",
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "21h ago",
+          "started": "23h ago",
           "percentageIncrease": "100%"
         },
         {
@@ -29,7 +29,7 @@
           "relevanceScore": 85,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "9h ago",
+          "started": "11h ago",
           "percentageIncrease": "75%"
         }
       ]

@@ -1,27 +1,19 @@
 {
-  "timestamp": "2025-12-27T22:04:31.047Z",
+  "timestamp": "2025-12-28T00:04:55.044Z",
   "states": [
     {
       "name": "Florida",
       "code": "FL",
-      "topTopic": "palau",
+      "topTopic": "nypost",
       "category": "Law and Government",
-      "trendingScore": 95,
+      "trendingScore": 85,
       "topics": [
-        {
-          "name": "palau",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "22h ago",
-          "percentageIncrease": "200%"
-        },
         {
           "name": "nypost",
           "relevanceScore": 85,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "10h ago",
+          "started": "12h ago",
           "percentageIncrease": "50%"
         }
       ]

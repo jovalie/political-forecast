@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-12-27T22:04:31.047Z",
+  "timestamp": "2025-12-28T00:04:55.044Z",
   "states": [
     {
       "name": "New York",
@@ -13,15 +13,32 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "2K+",
-          "started": "19h ago",
-          "percentageIncrease": "900%"
+          "started": "21h ago",
+          "percentageIncrease": "800%"
+        },
+        {
+          "name": "super flu symptoms",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "5h ago",
+          "trendBreakdown": "flu",
+          "percentageIncrease": "300%"
+        },
+        {
+          "name": "iran",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "30 minutes ago",
+          "percentageIncrease": "400%"
         },
         {
           "name": "palau",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "19h ago",
+          "started": "21h ago",
           "percentageIncrease": "200%"
         },
         {
@@ -29,16 +46,8 @@
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "1h ago",
+          "started": "3h ago",
           "percentageIncrease": "100%"
-        },
-        {
-          "name": "windsor",
-          "relevanceScore": 85,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "22h ago",
-          "percentageIncrease": "75%"
         }
       ]
     }
