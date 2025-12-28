@@ -1,19 +1,27 @@
 {
-  "timestamp": "2025-12-28T20:04:44.840Z",
+  "timestamp": "2025-12-28T22:04:56.131Z",
   "states": [
     {
       "name": "Texas",
       "code": "TX",
-      "topTopic": "minnesota fraud",
+      "topTopic": "eddy betancourt",
       "category": "Law and Government",
-      "trendingScore": 95,
+      "trendingScore": 100,
       "topics": [
+        {
+          "name": "eddy betancourt",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "1K+",
+          "started": "5h ago",
+          "percentageIncrease": "500%"
+        },
         {
           "name": "minnesota fraud",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "5h ago",
+          "started": "7h ago",
           "trendBreakdown": "nick",
           "percentageIncrease": "200%"
         }

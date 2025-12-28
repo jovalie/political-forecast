@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-12-28T20:04:44.840Z",
+  "timestamp": "2025-12-28T22:04:56.131Z",
   "states": [
     {
       "name": "California",
@@ -13,16 +13,32 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "2K+",
-          "started": "14h ago",
+          "started": "16h ago",
           "trendBreakdown": "tim",
           "percentageIncrease": "200%"
+        },
+        {
+          "name": "somalia",
+          "relevanceScore": 90,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "1h ago",
+          "percentageIncrease": "100%"
         },
         {
           "name": "frontier airlines",
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "3h ago",
+          "started": "5h ago",
+          "percentageIncrease": "100%"
+        },
+        {
+          "name": "new york times",
+          "relevanceScore": 90,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "9h ago",
           "percentageIncrease": "100%"
         },
         {
@@ -30,7 +46,7 @@
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "17h ago",
+          "started": "19h ago",
           "percentageIncrease": "100%"
         },
         {
@@ -38,8 +54,16 @@
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "20h ago",
+          "started": "22h ago",
           "percentageIncrease": "100%"
+        },
+        {
+          "name": "nyt",
+          "relevanceScore": 85,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "6h ago",
+          "percentageIncrease": "75%"
         }
       ]
     }

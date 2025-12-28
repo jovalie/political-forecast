@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-12-28T20:04:44.840Z",
+  "timestamp": "2025-12-28T22:04:56.131Z",
   "states": [
     {
       "name": "California",
@@ -13,16 +13,32 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "2K+",
-          "started": "14h ago",
+          "started": "16h ago",
           "trendBreakdown": "tim",
           "percentageIncrease": "200%"
+        },
+        {
+          "name": "somalia",
+          "relevanceScore": 90,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "1h ago",
+          "percentageIncrease": "100%"
         },
         {
           "name": "frontier airlines",
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "3h ago",
+          "started": "5h ago",
+          "percentageIncrease": "100%"
+        },
+        {
+          "name": "new york times",
+          "relevanceScore": 90,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "9h ago",
           "percentageIncrease": "100%"
         },
         {
@@ -30,7 +46,7 @@
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "17h ago",
+          "started": "19h ago",
           "percentageIncrease": "100%"
         },
         {
@@ -38,8 +54,16 @@
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "20h ago",
+          "started": "22h ago",
           "percentageIncrease": "100%"
+        },
+        {
+          "name": "nyt",
+          "relevanceScore": 85,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "6h ago",
+          "percentageIncrease": "75%"
         }
       ]
     },
@@ -55,7 +79,7 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "3h ago",
+          "started": "5h ago",
           "percentageIncrease": "300%"
         },
         {
@@ -63,7 +87,7 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "4h ago",
+          "started": "6h ago",
           "percentageIncrease": "400%"
         }
       ]
@@ -80,16 +104,25 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "2K+",
-          "started": "18h ago",
+          "started": "20h ago",
           "trendBreakdown": "minnesota",
           "percentageIncrease": "300%"
+        },
+        {
+          "name": "fort lauderdale shooting",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "6h ago",
+          "trendBreakdown": "fort",
+          "percentageIncrease": "200%"
         },
         {
           "name": "somalia",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "7h ago",
+          "started": "9h ago",
           "percentageIncrease": "200%"
         }
       ]
@@ -97,24 +130,16 @@
     {
       "name": "Georgia",
       "code": "GA",
-      "topTopic": "atlantic station",
+      "topTopic": "royal caribbean cruise",
       "category": "Law and Government",
-      "trendingScore": 95,
+      "trendingScore": 90,
       "topics": [
-        {
-          "name": "atlantic station",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "5K+",
-          "started": "23h ago",
-          "percentageIncrease": "300%"
-        },
         {
           "name": "royal caribbean cruise",
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "17h ago",
+          "started": "19h ago",
           "percentageIncrease": "100%"
         }
       ]
@@ -130,17 +155,17 @@
           "name": "river north shooting",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "5h ago",
+          "searchVolume": "1K+",
+          "started": "7h ago",
           "trendBreakdown": "chicago",
-          "percentageIncrease": "1000%"
+          "percentageIncrease": "900%"
         },
         {
           "name": "nick shirley",
           "relevanceScore": 95,
           "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "8h ago",
+          "searchVolume": "1K+",
+          "started": "10h ago",
           "trendBreakdown": "minnesota",
           "percentageIncrease": "200%"
         },
@@ -149,7 +174,7 @@
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "3h ago",
+          "started": "5h ago",
           "percentageIncrease": "100%"
         }
       ]
@@ -166,7 +191,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "19h ago",
+          "started": "21h ago",
           "trendBreakdown": "castleton",
           "percentageIncrease": "700%"
         }
@@ -209,24 +234,16 @@
     {
       "name": "Massachusetts",
       "code": "MA",
-      "topTopic": "fox",
+      "topTopic": "nick shirley",
       "category": "Law and Government",
-      "trendingScore": 100,
+      "trendingScore": 95,
       "topics": [
-        {
-          "name": "fox",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "2h ago",
-          "percentageIncrease": "500%"
-        },
         {
           "name": "nick shirley",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "7h ago",
+          "started": "9h ago",
           "trendBreakdown": "minnesota",
           "percentageIncrease": "200%"
         }
@@ -244,8 +261,8 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "18h ago",
-          "percentageIncrease": "1000%"
+          "started": "20h ago",
+          "percentageIncrease": "900%"
         }
       ]
     },
@@ -279,7 +296,7 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "3h ago",
+          "started": "5h ago",
           "trendBreakdown": "nick",
           "percentageIncrease": "200%"
         },
@@ -288,7 +305,7 @@
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "3h ago",
+          "started": "5h ago",
           "percentageIncrease": "100%"
         }
       ]
@@ -305,49 +322,24 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "16h ago",
+          "started": "18h ago",
           "percentageIncrease": "500%"
         },
         {
           "name": "minnesota fraud",
           "relevanceScore": 95,
           "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "17h ago",
+          "searchVolume": "2K+",
+          "started": "19h ago",
           "trendBreakdown": "tim",
           "percentageIncrease": "300%"
         },
         {
-          "name": "israel somaliland recognition",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "2h ago",
-          "percentageIncrease": "200%"
-        },
-        {
-          "name": "flu a symptoms",
-          "relevanceScore": 90,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "7h ago",
-          "percentageIncrease": "100%"
-        },
-        {
-          "name": "ncl",
-          "relevanceScore": 90,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "7h ago",
-          "trendBreakdown": "norwegian",
-          "percentageIncrease": "100%"
-        },
-        {
-          "name": "southwest airlines",
+          "name": "stubhub",
           "relevanceScore": 85,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "5h ago",
+          "started": "8h ago",
           "percentageIncrease": "75%"
         },
         {
@@ -355,7 +347,7 @@
           "relevanceScore": 85,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "6h ago",
+          "started": "8h ago",
           "percentageIncrease": "50%"
         }
       ]
@@ -397,18 +389,18 @@
     {
       "name": "Pennsylvania",
       "code": "PA",
-      "topTopic": "minnesota fraud",
+      "topTopic": "nick shirley",
       "category": "Law and Government",
       "trendingScore": 95,
       "topics": [
         {
-          "name": "minnesota fraud",
+          "name": "nick shirley",
           "relevanceScore": 95,
           "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "6h ago",
-          "trendBreakdown": "nick",
-          "percentageIncrease": "200%"
+          "searchVolume": "1K+",
+          "started": "9h ago",
+          "trendBreakdown": "minnesota",
+          "percentageIncrease": "300%"
         }
       ]
     },
@@ -457,16 +449,24 @@
     {
       "name": "Texas",
       "code": "TX",
-      "topTopic": "minnesota fraud",
+      "topTopic": "eddy betancourt",
       "category": "Law and Government",
-      "trendingScore": 95,
+      "trendingScore": 100,
       "topics": [
+        {
+          "name": "eddy betancourt",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "1K+",
+          "started": "5h ago",
+          "percentageIncrease": "500%"
+        },
         {
           "name": "minnesota fraud",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "5h ago",
+          "started": "7h ago",
           "trendBreakdown": "nick",
           "percentageIncrease": "200%"
         }
@@ -501,7 +501,7 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "9h ago",
+          "started": "11h ago",
           "percentageIncrease": "200%"
         }
       ]
@@ -620,7 +620,7 @@
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "3h ago",
+          "started": "5h ago",
           "percentageIncrease": "100%"
         }
       ]
@@ -662,16 +662,17 @@
     {
       "name": "Minnesota",
       "code": "MN",
-      "topTopic": "nick shirley",
+      "topTopic": "quality learning center",
       "category": "Law and Government",
       "trendingScore": 95,
       "topics": [
         {
-          "name": "nick shirley",
+          "name": "quality learning center",
           "relevanceScore": 95,
           "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "23h ago",
+          "searchVolume": "100+",
+          "started": "7h ago",
+          "trendBreakdown": "minnesota",
           "percentageIncrease": "300%"
         }
       ]
@@ -705,7 +706,7 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "3h ago",
+          "started": "5h ago",
           "percentageIncrease": "200%"
         }
       ]
@@ -722,7 +723,7 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "19h ago",
+          "started": "21h ago",
           "percentageIncrease": "400%"
         }
       ]
