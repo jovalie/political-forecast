@@ -1,28 +1,28 @@
 {
-  "timestamp": "2025-12-28T12:04:57.883Z",
+  "timestamp": "2025-12-28T14:05:34.851Z",
   "states": [
     {
       "name": "Texas",
       "code": "TX",
-      "topTopic": "east carolina university",
+      "topTopic": "nick shirley",
       "category": "Law and Government",
       "trendingScore": 95,
       "topics": [
+        {
+          "name": "nick shirley",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "40 minutes ago",
+          "percentageIncrease": "300%"
+        },
         {
           "name": "east carolina university",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "16h ago",
+          "started": "18h ago",
           "percentageIncrease": "200%"
-        },
-        {
-          "name": "southwest airlines",
-          "relevanceScore": 85,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "23h ago",
-          "percentageIncrease": "75%"
         }
       ]
     }

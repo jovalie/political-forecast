@@ -1,47 +1,46 @@
 {
-  "timestamp": "2025-12-28T12:04:57.883Z",
+  "timestamp": "2025-12-28T14:05:34.851Z",
   "states": [
     {
       "name": "New York",
       "code": "NY",
-      "topTopic": "iran president",
+      "topTopic": "nick shirley",
       "category": "Law and Government",
-      "trendingScore": 100,
+      "trendingScore": 95,
       "topics": [
         {
-          "name": "iran president",
-          "relevanceScore": 100,
+          "name": "nick shirley",
+          "relevanceScore": 95,
           "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "8h ago",
-          "percentageIncrease": "600%"
+          "searchVolume": "1K+",
+          "started": "19h ago",
+          "trendBreakdown": "minnesota",
+          "percentageIncrease": "200%"
         },
         {
-          "name": "super flu symptoms",
+          "name": "iran",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "17h ago",
-          "trendBreakdown": "how",
-          "percentageIncrease": "300%"
+          "started": "14h ago",
+          "percentageIncrease": "200%"
         },
         {
-          "name": "minnesota fraud",
+          "name": "flu a symptoms",
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "9h ago",
-          "trendBreakdown": "shirleynick",
+          "started": "1h ago",
+          "trendBreakdown": "flu",
           "percentageIncrease": "100%"
         },
         {
-          "name": "royal caribbean cruise",
-          "relevanceScore": 90,
+          "name": "stubhub",
+          "relevanceScore": 85,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "18h ago",
-          "trendBreakdown": "norwegian",
-          "percentageIncrease": "100%"
+          "started": "10 minutes ago",
+          "percentageIncrease": "75%"
         }
       ]
     }

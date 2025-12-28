@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-12-28T12:04:57.883Z",
+  "timestamp": "2025-12-28T14:05:34.851Z",
   "states": [
     {
       "name": "Florida",
@@ -12,9 +12,18 @@
           "name": "nick shirley",
           "relevanceScore": 95,
           "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "12h ago",
+          "trendBreakdown": "minnesota",
+          "percentageIncrease": "300%"
+        },
+        {
+          "name": "white",
+          "relevanceScore": 90,
+          "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "2h ago",
-          "percentageIncrease": "200%"
+          "started": "7h ago",
+          "percentageIncrease": "100%"
         }
       ]
     }
