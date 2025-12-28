@@ -1,21 +1,21 @@
 {
-  "timestamp": "2025-12-28T00:04:55.044Z",
+  "timestamp": "2025-12-28T02:45:56.129Z",
   "states": [
     {
       "name": "Massachusetts",
       "code": "MA",
-      "topTopic": "flu symptoms",
+      "topTopic": "super flu symptoms",
       "category": "Law and Government",
-      "trendingScore": 90,
+      "trendingScore": 95,
       "topics": [
         {
-          "name": "flu symptoms",
-          "relevanceScore": 90,
+          "name": "super flu symptoms",
+          "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "12h ago",
-          "trendBreakdown": "new",
-          "percentageIncrease": "100%"
+          "started": "3h ago",
+          "trendBreakdown": "flu",
+          "percentageIncrease": "300%"
         }
       ]
     }

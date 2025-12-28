@@ -1,35 +1,19 @@
 {
-  "timestamp": "2025-12-28T00:04:55.044Z",
+  "timestamp": "2025-12-28T02:45:56.129Z",
   "states": [
     {
       "name": "Texas",
       "code": "TX",
-      "topTopic": "greenland",
+      "topTopic": "southwest airlines",
       "category": "Law and Government",
-      "trendingScore": 95,
+      "trendingScore": 85,
       "topics": [
-        {
-          "name": "greenland",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "1h ago",
-          "percentageIncrease": "400%"
-        },
-        {
-          "name": "palau",
-          "relevanceScore": 90,
-          "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "23h ago",
-          "percentageIncrease": "100%"
-        },
         {
           "name": "southwest airlines",
           "relevanceScore": 85,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "11h ago",
+          "started": "14h ago",
           "percentageIncrease": "75%"
         }
       ]

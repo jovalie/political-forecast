@@ -1,21 +1,28 @@
 {
-  "timestamp": "2025-12-28T00:04:55.044Z",
+  "timestamp": "2025-12-28T02:45:56.129Z",
   "states": [
     {
       "name": "Washington",
       "code": "WA",
-      "topTopic": "wallace idaho",
+      "topTopic": "wallace idaho active shooter",
       "category": "Law and Government",
-      "trendingScore": 100,
+      "trendingScore": 95,
       "topics": [
         {
-          "name": "wallace idaho",
-          "relevanceScore": 100,
+          "name": "wallace idaho active shooter",
+          "relevanceScore": 95,
           "category": "Law and Government",
-          "searchVolume": "2K+",
-          "started": "23h ago",
-          "trendBreakdown": "wallace",
-          "percentageIncrease": "800%"
+          "searchVolume": "100+",
+          "started": "20h ago",
+          "percentageIncrease": "200%"
+        },
+        {
+          "name": "snoqualmie pass",
+          "relevanceScore": 85,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "12h ago",
+          "percentageIncrease": "75%"
         }
       ]
     }

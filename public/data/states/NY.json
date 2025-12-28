@@ -1,44 +1,28 @@
 {
-  "timestamp": "2025-12-28T00:04:55.044Z",
+  "timestamp": "2025-12-28T02:45:56.129Z",
   "states": [
     {
       "name": "New York",
       "code": "NY",
-      "topTopic": "john pilaccio",
+      "topTopic": "super flu symptoms",
       "category": "Law and Government",
-      "trendingScore": 100,
+      "trendingScore": 95,
       "topics": [
-        {
-          "name": "john pilaccio",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "2K+",
-          "started": "21h ago",
-          "percentageIncrease": "800%"
-        },
         {
           "name": "super flu symptoms",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "5h ago",
+          "started": "8h ago",
           "trendBreakdown": "flu",
           "percentageIncrease": "300%"
-        },
-        {
-          "name": "iran",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "30 minutes ago",
-          "percentageIncrease": "400%"
         },
         {
           "name": "palau",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "21h ago",
+          "started": "23h ago",
           "percentageIncrease": "200%"
         },
         {
@@ -46,7 +30,7 @@
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "3h ago",
+          "started": "6h ago",
           "percentageIncrease": "100%"
         }
       ]

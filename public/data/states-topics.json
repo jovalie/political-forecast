@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-12-28T00:04:55.044Z",
+  "timestamp": "2025-12-28T02:45:56.129Z",
   "states": [
     {
       "name": "California",
@@ -12,24 +12,40 @@
           "name": "sofi stadium",
           "relevanceScore": 95,
           "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "8h ago",
+          "searchVolume": "2K+",
+          "started": "11h ago",
           "percentageIncrease": "200%"
         },
         {
-          "name": "greenland",
-          "relevanceScore": 95,
+          "name": "royal caribbean cruise",
+          "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "2h ago",
-          "percentageIncrease": "200%"
+          "started": "40 minutes ago",
+          "percentageIncrease": "100%"
+        },
+        {
+          "name": "wallace idaho",
+          "relevanceScore": 90,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "30 minutes ago",
+          "percentageIncrease": "100%"
         },
         {
           "name": "lillian bonsignore",
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "7h ago",
+          "started": "9h ago",
+          "percentageIncrease": "100%"
+        },
+        {
+          "name": "barnes and nobles",
+          "relevanceScore": 90,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "2h ago",
           "percentageIncrease": "100%"
         },
         {
@@ -37,7 +53,7 @@
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "8h ago",
+          "started": "11h ago",
           "percentageIncrease": "100%"
         },
         {
@@ -45,7 +61,7 @@
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "17h ago",
+          "started": "20h ago",
           "percentageIncrease": "100%"
         }
       ]
@@ -53,25 +69,16 @@
     {
       "name": "Arizona",
       "code": "AZ",
-      "topTopic": "turquoise alert",
+      "topTopic": "somaliland",
       "category": "Law and Government",
-      "trendingScore": 100,
+      "trendingScore": 90,
       "topics": [
-        {
-          "name": "turquoise alert",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "2K+",
-          "started": "22h ago",
-          "trendBreakdown": "turquoise",
-          "percentageIncrease": "1000%"
-        },
         {
           "name": "somaliland",
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "20h ago",
+          "started": "23h ago",
           "percentageIncrease": "100%"
         }
       ]
@@ -96,17 +103,17 @@
     {
       "name": "Georgia",
       "code": "GA",
-      "topTopic": "somaliland",
+      "topTopic": "atlantic station",
       "category": "Law and Government",
       "trendingScore": 95,
       "topics": [
         {
-          "name": "somaliland",
+          "name": "atlantic station",
           "relevanceScore": 95,
           "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "23h ago",
-          "percentageIncrease": "300%"
+          "searchVolume": "2K+",
+          "started": "6h ago",
+          "percentageIncrease": "200%"
         }
       ]
     },
@@ -156,7 +163,7 @@
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "10h ago",
+          "started": "12h ago",
           "percentageIncrease": "100%"
         }
       ]
@@ -173,7 +180,7 @@
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "10h ago",
+          "started": "13h ago",
           "percentageIncrease": "100%"
         }
       ]
@@ -181,34 +188,42 @@
     {
       "name": "Massachusetts",
       "code": "MA",
-      "topTopic": "flu symptoms",
+      "topTopic": "super flu symptoms",
       "category": "Law and Government",
-      "trendingScore": 90,
+      "trendingScore": 95,
       "topics": [
         {
-          "name": "flu symptoms",
-          "relevanceScore": 90,
+          "name": "super flu symptoms",
+          "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "12h ago",
-          "trendBreakdown": "new",
-          "percentageIncrease": "100%"
+          "started": "3h ago",
+          "trendBreakdown": "flu",
+          "percentageIncrease": "300%"
         }
       ]
     },
     {
       "name": "Missouri",
       "code": "MO",
-      "topTopic": "southwest airlines",
+      "topTopic": "tm fieldhouse",
       "category": "Law and Government",
-      "trendingScore": 85,
+      "trendingScore": 100,
       "topics": [
+        {
+          "name": "tm fieldhouse",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "1h ago",
+          "percentageIncrease": "1000%"
+        },
         {
           "name": "southwest airlines",
           "relevanceScore": 85,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "11h ago",
+          "started": "14h ago",
           "percentageIncrease": "75%"
         }
       ]
@@ -225,7 +240,7 @@
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "14h ago",
+          "started": "17h ago",
           "percentageIncrease": "100%"
         }
       ]
@@ -242,15 +257,15 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "13h ago",
+          "started": "16h ago",
           "percentageIncrease": "200%"
         },
         {
-          "name": "flu a symptoms",
+          "name": "flu symptoms",
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "10h ago",
+          "started": "15h ago",
           "trendBreakdown": "flu",
           "percentageIncrease": "100%"
         }
@@ -259,41 +274,25 @@
     {
       "name": "New York",
       "code": "NY",
-      "topTopic": "john pilaccio",
+      "topTopic": "super flu symptoms",
       "category": "Law and Government",
-      "trendingScore": 100,
+      "trendingScore": 95,
       "topics": [
-        {
-          "name": "john pilaccio",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "2K+",
-          "started": "21h ago",
-          "percentageIncrease": "800%"
-        },
         {
           "name": "super flu symptoms",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "5h ago",
+          "started": "8h ago",
           "trendBreakdown": "flu",
           "percentageIncrease": "300%"
-        },
-        {
-          "name": "iran",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "30 minutes ago",
-          "percentageIncrease": "400%"
         },
         {
           "name": "palau",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "21h ago",
+          "started": "23h ago",
           "percentageIncrease": "200%"
         },
         {
@@ -301,7 +300,7 @@
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "3h ago",
+          "started": "6h ago",
           "percentageIncrease": "100%"
         }
       ]
@@ -352,7 +351,7 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "11h ago",
+          "started": "14h ago",
           "percentageIncrease": "200%"
         }
       ]
@@ -402,32 +401,16 @@
     {
       "name": "Texas",
       "code": "TX",
-      "topTopic": "greenland",
+      "topTopic": "southwest airlines",
       "category": "Law and Government",
-      "trendingScore": 95,
+      "trendingScore": 85,
       "topics": [
-        {
-          "name": "greenland",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "1h ago",
-          "percentageIncrease": "400%"
-        },
-        {
-          "name": "palau",
-          "relevanceScore": 90,
-          "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "23h ago",
-          "percentageIncrease": "100%"
-        },
         {
           "name": "southwest airlines",
           "relevanceScore": 85,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "11h ago",
+          "started": "14h ago",
           "percentageIncrease": "75%"
         }
       ]
@@ -503,18 +486,25 @@
     {
       "name": "Washington",
       "code": "WA",
-      "topTopic": "wallace idaho",
+      "topTopic": "wallace idaho active shooter",
       "category": "Law and Government",
-      "trendingScore": 100,
+      "trendingScore": 95,
       "topics": [
         {
-          "name": "wallace idaho",
-          "relevanceScore": 100,
+          "name": "wallace idaho active shooter",
+          "relevanceScore": 95,
           "category": "Law and Government",
-          "searchVolume": "2K+",
-          "started": "23h ago",
-          "trendBreakdown": "wallace",
-          "percentageIncrease": "800%"
+          "searchVolume": "100+",
+          "started": "20h ago",
+          "percentageIncrease": "200%"
+        },
+        {
+          "name": "snoqualmie pass",
+          "relevanceScore": 85,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "12h ago",
+          "percentageIncrease": "75%"
         }
       ]
     },
@@ -581,7 +571,7 @@
           "relevanceScore": 85,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "12h ago",
+          "started": "14h ago",
           "percentageIncrease": "75%"
         }
       ]
@@ -631,8 +621,8 @@
           "name": "nick shirley",
           "relevanceScore": 95,
           "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "21h ago",
+          "searchVolume": "1K+",
+          "started": "23h ago",
           "percentageIncrease": "300%"
         }
       ]
@@ -674,17 +664,17 @@
     {
       "name": "Wisconsin",
       "code": "WI",
-      "topTopic": "fox news",
+      "topTopic": "cherry pit studios",
       "category": "Law and Government",
-      "trendingScore": 85,
+      "trendingScore": 95,
       "topics": [
         {
-          "name": "fox news",
-          "relevanceScore": 85,
+          "name": "cherry pit studios",
+          "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "10 minutes ago",
-          "percentageIncrease": "75%"
+          "started": "2h ago",
+          "percentageIncrease": "400%"
         }
       ]
     },
@@ -760,17 +750,17 @@
     {
       "name": "Utah",
       "code": "UT",
-      "topTopic": "ksl",
+      "topTopic": "ksl news",
       "category": "Law and Government",
-      "trendingScore": 85,
+      "trendingScore": 90,
       "topics": [
         {
-          "name": "ksl",
-          "relevanceScore": 85,
+          "name": "ksl news",
+          "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "8h ago",
-          "percentageIncrease": "50%"
+          "started": "12h ago",
+          "percentageIncrease": "100%"
         }
       ]
     },
