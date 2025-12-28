@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-12-28T10:04:47.085Z",
+  "timestamp": "2025-12-28T12:04:57.883Z",
   "states": [
     {
       "name": "New York",
@@ -13,7 +13,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "6h ago",
+          "started": "8h ago",
           "percentageIncrease": "600%"
         },
         {
@@ -21,33 +21,17 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "15h ago",
-          "trendBreakdown": "flu",
+          "started": "17h ago",
+          "trendBreakdown": "how",
           "percentageIncrease": "300%"
         },
         {
-          "name": "nick shirley",
+          "name": "minnesota fraud",
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "15h ago",
-          "trendBreakdown": "minnesota",
-          "percentageIncrease": "100%"
-        },
-        {
-          "name": "news",
-          "relevanceScore": 90,
-          "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "22h ago",
-          "percentageIncrease": "100%"
-        },
-        {
-          "name": "newark airport",
-          "relevanceScore": 90,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "23h ago",
+          "started": "9h ago",
+          "trendBreakdown": "shirleynick",
           "percentageIncrease": "100%"
         },
         {
@@ -55,7 +39,7 @@
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "16h ago",
+          "started": "18h ago",
           "trendBreakdown": "norwegian",
           "percentageIncrease": "100%"
         }
