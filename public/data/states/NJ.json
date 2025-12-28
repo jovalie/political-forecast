@@ -1,20 +1,21 @@
 {
-  "timestamp": "2025-12-28T14:05:34.851Z",
+  "timestamp": "2025-12-28T16:04:48.539Z",
   "states": [
     {
       "name": "New Jersey",
       "code": "NJ",
-      "topTopic": "news",
+      "topTopic": "nick shirley",
       "category": "Law and Government",
-      "trendingScore": 90,
+      "trendingScore": 95,
       "topics": [
         {
-          "name": "news",
-          "relevanceScore": 90,
+          "name": "nick shirley",
+          "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "22h ago",
-          "percentageIncrease": "100%"
+          "started": "2h ago",
+          "trendBreakdown": "minnesota",
+          "percentageIncrease": "200%"
         }
       ]
     }

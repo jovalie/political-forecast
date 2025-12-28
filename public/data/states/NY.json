@@ -1,28 +1,28 @@
 {
-  "timestamp": "2025-12-28T14:05:34.851Z",
+  "timestamp": "2025-12-28T16:04:48.539Z",
   "states": [
     {
       "name": "New York",
       "code": "NY",
-      "topTopic": "nick shirley",
+      "topTopic": "iran president",
       "category": "Law and Government",
-      "trendingScore": 95,
+      "trendingScore": 100,
       "topics": [
         {
-          "name": "nick shirley",
+          "name": "iran president",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "12h ago",
+          "percentageIncrease": "500%"
+        },
+        {
+          "name": "minnesota fraud",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "19h ago",
-          "trendBreakdown": "minnesota",
-          "percentageIncrease": "200%"
-        },
-        {
-          "name": "iran",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "14h ago",
+          "started": "13h ago",
+          "trendBreakdown": "nick",
           "percentageIncrease": "200%"
         },
         {
@@ -30,8 +30,8 @@
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "1h ago",
-          "trendBreakdown": "flu",
+          "started": "3h ago",
+          "trendBreakdown": "super",
           "percentageIncrease": "100%"
         },
         {
@@ -39,7 +39,7 @@
           "relevanceScore": 85,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "10 minutes ago",
+          "started": "2h ago",
           "percentageIncrease": "75%"
         }
       ]
