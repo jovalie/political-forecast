@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-12-28T16:04:48.539Z",
+  "timestamp": "2025-12-28T18:04:37.272Z",
   "states": [
     {
       "name": "Georgia",
@@ -12,8 +12,8 @@
           "name": "atlantic station",
           "relevanceScore": 95,
           "category": "Law and Government",
-          "searchVolume": "2K+",
-          "started": "19h ago",
+          "searchVolume": "5K+",
+          "started": "21h ago",
           "percentageIncrease": "300%"
         },
         {
@@ -21,9 +21,17 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "4h ago",
+          "started": "6h ago",
           "trendBreakdown": "minnesota",
           "percentageIncrease": "200%"
+        },
+        {
+          "name": "royal caribbean cruise",
+          "relevanceScore": 90,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "15h ago",
+          "percentageIncrease": "100%"
         }
       ]
     }

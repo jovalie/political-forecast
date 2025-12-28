@@ -1,28 +1,28 @@
 {
-  "timestamp": "2025-12-28T16:04:48.539Z",
+  "timestamp": "2025-12-28T18:04:37.272Z",
   "states": [
     {
       "name": "North Carolina",
       "code": "NC",
-      "topTopic": "palau",
+      "topTopic": "minnesota fraud",
       "category": "Law and Government",
       "trendingScore": 95,
       "topics": [
         {
-          "name": "palau",
+          "name": "minnesota fraud",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "23h ago",
+          "started": "1h ago",
+          "trendBreakdown": "nick",
           "percentageIncrease": "200%"
         },
         {
-          "name": "flu symptoms",
+          "name": "frontier airlines",
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "22h ago",
-          "trendBreakdown": "flu",
+          "started": "1h ago",
           "percentageIncrease": "100%"
         }
       ]

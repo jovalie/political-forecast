@@ -1,20 +1,20 @@
 {
-  "timestamp": "2025-12-28T16:04:48.539Z",
+  "timestamp": "2025-12-28T18:04:37.272Z",
   "states": [
     {
       "name": "Nevada",
       "code": "NV",
-      "topTopic": "barnes and noble",
+      "topTopic": "frontier airlines",
       "category": "Law and Government",
-      "trendingScore": 90,
+      "trendingScore": 95,
       "topics": [
         {
-          "name": "barnes and noble",
-          "relevanceScore": 90,
+          "name": "frontier airlines",
+          "relevanceScore": 95,
           "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "22h ago",
-          "percentageIncrease": "100%"
+          "searchVolume": "100+",
+          "started": "1h ago",
+          "percentageIncrease": "200%"
         }
       ]
     }

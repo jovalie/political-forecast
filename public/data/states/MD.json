@@ -1,19 +1,19 @@
 {
-  "timestamp": "2025-12-28T16:04:48.539Z",
+  "timestamp": "2025-12-28T18:04:37.272Z",
   "states": [
     {
       "name": "Maryland",
       "code": "MD",
-      "topTopic": "southwest airlines",
+      "topTopic": "fox news",
       "category": "Law and Government",
       "trendingScore": 90,
       "topics": [
         {
-          "name": "southwest airlines",
+          "name": "fox news",
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "22h ago",
+          "started": "6h ago",
           "percentageIncrease": "100%"
         }
       ]

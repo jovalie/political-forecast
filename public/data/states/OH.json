@@ -1,28 +1,19 @@
 {
-  "timestamp": "2025-12-28T16:04:48.539Z",
+  "timestamp": "2025-12-28T18:04:37.272Z",
   "states": [
     {
       "name": "Ohio",
       "code": "OH",
-      "topTopic": "nick shirley",
+      "topTopic": "stubhub",
       "category": "Law and Government",
-      "trendingScore": 95,
+      "trendingScore": 90,
       "topics": [
-        {
-          "name": "nick shirley",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "2h ago",
-          "trendBreakdown": "minnesota",
-          "percentageIncrease": "300%"
-        },
         {
           "name": "stubhub",
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "1h ago",
+          "started": "3h ago",
           "percentageIncrease": "100%"
         }
       ]

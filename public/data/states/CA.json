@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-12-28T16:04:48.539Z",
+  "timestamp": "2025-12-28T18:04:37.272Z",
   "states": [
     {
       "name": "California",
@@ -12,21 +12,21 @@
           "name": "minnesota fraud",
           "relevanceScore": 90,
           "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "10h ago",
+          "searchVolume": "2K+",
+          "started": "12h ago",
           "trendBreakdown": "nick",
           "percentageIncrease": "100%"
         },
         {
-          "name": "wallace idaho",
+          "name": "frontier airlines",
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "13h ago",
+          "started": "1h ago",
           "percentageIncrease": "100%"
         },
         {
-          "name": "barnes and nobles",
+          "name": "royal caribbean cruise",
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "100+",
@@ -34,12 +34,20 @@
           "percentageIncrease": "100%"
         },
         {
-          "name": "las vegas",
-          "relevanceScore": 85,
+          "name": "wallace idaho",
+          "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "22h ago",
-          "percentageIncrease": "50%"
+          "started": "15h ago",
+          "percentageIncrease": "100%"
+        },
+        {
+          "name": "barnes and nobles",
+          "relevanceScore": 90,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "18h ago",
+          "percentageIncrease": "100%"
         }
       ]
     }

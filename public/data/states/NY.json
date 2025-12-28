@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-12-28T16:04:48.539Z",
+  "timestamp": "2025-12-28T18:04:37.272Z",
   "states": [
     {
       "name": "New York",
@@ -13,25 +13,42 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "12h ago",
+          "started": "14h ago",
           "percentageIncrease": "500%"
         },
         {
-          "name": "minnesota fraud",
+          "name": "nick shirley",
           "relevanceScore": 95,
           "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "13h ago",
-          "trendBreakdown": "nick",
+          "searchVolume": "2K+",
+          "started": "23h ago",
+          "trendBreakdown": "minnesota",
           "percentageIncrease": "200%"
         },
         {
-          "name": "flu a symptoms",
-          "relevanceScore": 90,
+          "name": "israel somaliland recognition",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "30 minutes ago",
+          "percentageIncrease": "300%"
+        },
+        {
+          "name": "super flu symptoms",
+          "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "3h ago",
-          "trendBreakdown": "super",
+          "started": "23h ago",
+          "trendBreakdown": "flu",
+          "percentageIncrease": "300%"
+        },
+        {
+          "name": "ncl",
+          "relevanceScore": 90,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "5h ago",
+          "trendBreakdown": "norwegian",
           "percentageIncrease": "100%"
         },
         {
@@ -39,8 +56,16 @@
           "relevanceScore": 85,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "2h ago",
+          "started": "4h ago",
           "percentageIncrease": "75%"
+        },
+        {
+          "name": "nytimes",
+          "relevanceScore": 85,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "4h ago",
+          "percentageIncrease": "50%"
         }
       ]
     }
