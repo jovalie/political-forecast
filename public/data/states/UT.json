@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-12-28T02:45:56.129Z",
+  "timestamp": "2025-12-28T04:21:08.681Z",
   "states": [
     {
       "name": "Utah",
@@ -13,8 +13,16 @@
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "12h ago",
+          "started": "13h ago",
           "percentageIncrease": "100%"
+        },
+        {
+          "name": "ksl",
+          "relevanceScore": 85,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "14h ago",
+          "percentageIncrease": "50%"
         }
       ]
     }

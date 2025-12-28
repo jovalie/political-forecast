@@ -1,20 +1,20 @@
 {
-  "timestamp": "2025-12-28T02:45:56.129Z",
+  "timestamp": "2025-12-28T04:21:08.681Z",
   "states": [
     {
       "name": "Florida",
       "code": "FL",
-      "topTopic": "nypost",
+      "topTopic": "nick shirley",
       "category": "Law and Government",
-      "trendingScore": 85,
+      "trendingScore": 95,
       "topics": [
         {
-          "name": "nypost",
-          "relevanceScore": 85,
+          "name": "nick shirley",
+          "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "12h ago",
-          "percentageIncrease": "50%"
+          "started": "2h ago",
+          "percentageIncrease": "200%"
         }
       ]
     }

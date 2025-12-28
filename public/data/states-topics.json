@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-12-28T02:45:56.129Z",
+  "timestamp": "2025-12-28T04:21:08.681Z",
   "states": [
     {
       "name": "California",
@@ -13,35 +13,11 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "2K+",
-          "started": "11h ago",
+          "started": "12h ago",
           "percentageIncrease": "200%"
         },
         {
-          "name": "royal caribbean cruise",
-          "relevanceScore": 90,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "40 minutes ago",
-          "percentageIncrease": "100%"
-        },
-        {
           "name": "wallace idaho",
-          "relevanceScore": 90,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "30 minutes ago",
-          "percentageIncrease": "100%"
-        },
-        {
-          "name": "lillian bonsignore",
-          "relevanceScore": 90,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "9h ago",
-          "percentageIncrease": "100%"
-        },
-        {
-          "name": "barnes and nobles",
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "100+",
@@ -53,7 +29,15 @@
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "11h ago",
+          "started": "12h ago",
+          "percentageIncrease": "100%"
+        },
+        {
+          "name": "barnes and nobles",
+          "relevanceScore": 90,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "4h ago",
           "percentageIncrease": "100%"
         },
         {
@@ -61,7 +45,7 @@
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "20h ago",
+          "started": "21h ago",
           "percentageIncrease": "100%"
         }
       ]
@@ -86,17 +70,17 @@
     {
       "name": "Florida",
       "code": "FL",
-      "topTopic": "nypost",
+      "topTopic": "nick shirley",
       "category": "Law and Government",
-      "trendingScore": 85,
+      "trendingScore": 95,
       "topics": [
         {
-          "name": "nypost",
-          "relevanceScore": 85,
+          "name": "nick shirley",
+          "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "12h ago",
-          "percentageIncrease": "50%"
+          "started": "2h ago",
+          "percentageIncrease": "200%"
         }
       ]
     },
@@ -112,8 +96,16 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "2K+",
-          "started": "6h ago",
-          "percentageIncrease": "200%"
+          "started": "8h ago",
+          "percentageIncrease": "300%"
+        },
+        {
+          "name": "royal caribbean cruise",
+          "relevanceScore": 90,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "1h ago",
+          "percentageIncrease": "100%"
         }
       ]
     },
@@ -137,17 +129,18 @@
     {
       "name": "Indiana",
       "code": "IN",
-      "topTopic": "irs announces gigantic tax refund",
+      "topTopic": "castleton mall",
       "category": "Law and Government",
-      "trendingScore": 95,
+      "trendingScore": 100,
       "topics": [
         {
-          "name": "irs announces gigantic tax refund",
-          "relevanceScore": 95,
+          "name": "castleton mall",
+          "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "23h ago",
-          "percentageIncrease": "300%"
+          "searchVolume": "1K+",
+          "started": "3h ago",
+          "trendBreakdown": "castleton",
+          "percentageIncrease": "800%"
         }
       ]
     },
@@ -163,7 +156,7 @@
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "12h ago",
+          "started": "14h ago",
           "percentageIncrease": "100%"
         }
       ]
@@ -180,7 +173,7 @@
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "13h ago",
+          "started": "14h ago",
           "percentageIncrease": "100%"
         }
       ]
@@ -197,7 +190,7 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "3h ago",
+          "started": "5h ago",
           "trendBreakdown": "flu",
           "percentageIncrease": "300%"
         }
@@ -214,8 +207,8 @@
           "name": "tm fieldhouse",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "1h ago",
+          "searchVolume": "1K+",
+          "started": "2h ago",
           "percentageIncrease": "1000%"
         },
         {
@@ -223,7 +216,7 @@
           "relevanceScore": 85,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "14h ago",
+          "started": "15h ago",
           "percentageIncrease": "75%"
         }
       ]
@@ -240,7 +233,7 @@
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "17h ago",
+          "started": "18h ago",
           "percentageIncrease": "100%"
         }
       ]
@@ -257,7 +250,7 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "16h ago",
+          "started": "17h ago",
           "percentageIncrease": "200%"
         },
         {
@@ -265,7 +258,7 @@
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "15h ago",
+          "started": "16h ago",
           "trendBreakdown": "flu",
           "percentageIncrease": "100%"
         }
@@ -274,33 +267,49 @@
     {
       "name": "New York",
       "code": "NY",
-      "topTopic": "super flu symptoms",
+      "topTopic": "iran president",
       "category": "Law and Government",
-      "trendingScore": 95,
+      "trendingScore": 100,
       "topics": [
+        {
+          "name": "iran president",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "40 minutes ago",
+          "percentageIncrease": "900%"
+        },
         {
           "name": "super flu symptoms",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "8h ago",
+          "started": "9h ago",
           "trendBreakdown": "flu",
           "percentageIncrease": "300%"
         },
         {
-          "name": "palau",
-          "relevanceScore": 95,
+          "name": "news",
+          "relevanceScore": 90,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "17h ago",
+          "percentageIncrease": "100%"
+        },
+        {
+          "name": "newark airport",
+          "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "23h ago",
-          "percentageIncrease": "200%"
+          "started": "18h ago",
+          "percentageIncrease": "100%"
         },
         {
           "name": "norwegian cruise line",
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "6h ago",
+          "started": "8h ago",
           "percentageIncrease": "100%"
         }
       ]
@@ -351,8 +360,16 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "14h ago",
+          "started": "16h ago",
           "percentageIncrease": "200%"
+        },
+        {
+          "name": "abc",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "11h ago",
+          "percentageIncrease": "400%"
         }
       ]
     },
@@ -410,7 +427,7 @@
           "relevanceScore": 85,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "14h ago",
+          "started": "15h ago",
           "percentageIncrease": "75%"
         }
       ]
@@ -495,7 +512,7 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "20h ago",
+          "started": "22h ago",
           "percentageIncrease": "200%"
         },
         {
@@ -503,7 +520,7 @@
           "relevanceScore": 85,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "12h ago",
+          "started": "13h ago",
           "percentageIncrease": "75%"
         }
       ]
@@ -571,7 +588,7 @@
           "relevanceScore": 85,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "14h ago",
+          "started": "16h ago",
           "percentageIncrease": "75%"
         }
       ]
@@ -673,7 +690,7 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "2h ago",
+          "started": "3h ago",
           "percentageIncrease": "400%"
         }
       ]
@@ -759,8 +776,16 @@
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "12h ago",
+          "started": "13h ago",
           "percentageIncrease": "100%"
+        },
+        {
+          "name": "ksl",
+          "relevanceScore": 85,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "14h ago",
+          "percentageIncrease": "50%"
         }
       ]
     },
@@ -784,18 +809,17 @@
     {
       "name": "Idaho",
       "code": "ID",
-      "topTopic": "wallace idaho",
+      "topTopic": "wallace shooting",
       "category": "Law and Government",
-      "trendingScore": 100,
+      "trendingScore": 95,
       "topics": [
         {
-          "name": "wallace idaho",
-          "relevanceScore": 100,
+          "name": "wallace shooting",
+          "relevanceScore": 95,
           "category": "Law and Government",
-          "searchVolume": "2K+",
+          "searchVolume": "100+",
           "started": "23h ago",
-          "trendBreakdown": "wallace",
-          "percentageIncrease": "900%"
+          "percentageIncrease": "400%"
         }
       ]
     },

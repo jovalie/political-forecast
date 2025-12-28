@@ -1,21 +1,20 @@
 {
-  "timestamp": "2025-12-28T02:45:56.129Z",
+  "timestamp": "2025-12-28T04:21:08.681Z",
   "states": [
     {
       "name": "Idaho",
       "code": "ID",
-      "topTopic": "wallace idaho",
+      "topTopic": "wallace shooting",
       "category": "Law and Government",
-      "trendingScore": 100,
+      "trendingScore": 95,
       "topics": [
         {
-          "name": "wallace idaho",
-          "relevanceScore": 100,
+          "name": "wallace shooting",
+          "relevanceScore": 95,
           "category": "Law and Government",
-          "searchVolume": "2K+",
+          "searchVolume": "100+",
           "started": "23h ago",
-          "trendBreakdown": "wallace",
-          "percentageIncrease": "900%"
+          "percentageIncrease": "400%"
         }
       ]
     }

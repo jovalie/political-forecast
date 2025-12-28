@@ -1,36 +1,52 @@
 {
-  "timestamp": "2025-12-28T02:45:56.129Z",
+  "timestamp": "2025-12-28T04:21:08.681Z",
   "states": [
     {
       "name": "New York",
       "code": "NY",
-      "topTopic": "super flu symptoms",
+      "topTopic": "iran president",
       "category": "Law and Government",
-      "trendingScore": 95,
+      "trendingScore": 100,
       "topics": [
+        {
+          "name": "iran president",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "40 minutes ago",
+          "percentageIncrease": "900%"
+        },
         {
           "name": "super flu symptoms",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "8h ago",
+          "started": "9h ago",
           "trendBreakdown": "flu",
           "percentageIncrease": "300%"
         },
         {
-          "name": "palau",
-          "relevanceScore": 95,
+          "name": "news",
+          "relevanceScore": 90,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "17h ago",
+          "percentageIncrease": "100%"
+        },
+        {
+          "name": "newark airport",
+          "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "23h ago",
-          "percentageIncrease": "200%"
+          "started": "18h ago",
+          "percentageIncrease": "100%"
         },
         {
           "name": "norwegian cruise line",
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "6h ago",
+          "started": "8h ago",
           "percentageIncrease": "100%"
         }
       ]
