@@ -1,19 +1,27 @@
 {
-  "timestamp": "2025-12-28T06:04:48.303Z",
+  "timestamp": "2025-12-28T08:04:36.033Z",
   "states": [
     {
       "name": "Texas",
       "code": "TX",
-      "topTopic": "southwest airlines",
+      "topTopic": "east carolina university",
       "category": "Law and Government",
-      "trendingScore": 85,
+      "trendingScore": 95,
       "topics": [
+        {
+          "name": "east carolina university",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "12h ago",
+          "percentageIncrease": "200%"
+        },
         {
           "name": "southwest airlines",
           "relevanceScore": 85,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "17h ago",
+          "started": "19h ago",
           "percentageIncrease": "75%"
         }
       ]
