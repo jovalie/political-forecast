@@ -1,27 +1,19 @@
 {
-  "timestamp": "2025-12-29T10:04:50.291Z",
+  "timestamp": "2025-12-29T12:04:50.240Z",
   "states": [
     {
       "name": "New York",
       "code": "NY",
-      "topTopic": "iran war",
+      "topTopic": "taiwan",
       "category": "Law and Government",
-      "trendingScore": 100,
+      "trendingScore": 95,
       "topics": [
-        {
-          "name": "iran war",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "5h ago",
-          "percentageIncrease": "900%"
-        },
         {
           "name": "taiwan",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "5h ago",
+          "started": "7h ago",
           "percentageIncrease": "200%"
         },
         {
@@ -29,8 +21,16 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "8h ago",
+          "started": "10h ago",
           "percentageIncrease": "400%"
+        },
+        {
+          "name": "somali daycare minnesota",
+          "relevanceScore": 90,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "8h ago",
+          "percentageIncrease": "100%"
         }
       ]
     }

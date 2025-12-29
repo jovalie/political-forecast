@@ -1,21 +1,21 @@
 {
-  "timestamp": "2025-12-29T10:04:50.291Z",
+  "timestamp": "2025-12-29T12:04:50.240Z",
   "states": [
     {
       "name": "Minnesota",
       "code": "MN",
-      "topTopic": "quality learning center",
+      "topTopic": "minnesota",
       "category": "Law and Government",
-      "trendingScore": 95,
+      "trendingScore": 90,
       "topics": [
         {
-          "name": "quality learning center",
-          "relevanceScore": 95,
+          "name": "minnesota",
+          "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "19h ago",
-          "trendBreakdown": "minnesota",
-          "percentageIncrease": "300%"
+          "started": "30 minutes ago",
+          "trendBreakdown": "quality",
+          "percentageIncrease": "100%"
         }
       ]
     }
