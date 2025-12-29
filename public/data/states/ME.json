@@ -1,29 +1,20 @@
 {
-  "timestamp": "2025-12-29T20:04:31.718Z",
+  "timestamp": "2025-12-29T22:04:57.848Z",
   "states": [
     {
       "name": "Maine",
       "code": "ME",
-      "topTopic": "custom house wharf portland maine",
+      "topTopic": "wgme",
       "category": "Law and Government",
-      "trendingScore": 100,
+      "trendingScore": 90,
       "topics": [
         {
-          "name": "custom house wharf portland maine",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "2K+",
-          "started": "1h ago",
-          "trendBreakdown": "portland",
-          "percentageIncrease": "1000%"
-        },
-        {
           "name": "wgme",
-          "relevanceScore": 95,
+          "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "20 minutes ago",
-          "percentageIncrease": "400%"
+          "started": "11h ago",
+          "percentageIncrease": "100%"
         }
       ]
     }
