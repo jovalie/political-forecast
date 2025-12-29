@@ -1,28 +1,20 @@
 {
-  "timestamp": "2025-12-29T08:04:38.511Z",
+  "timestamp": "2025-12-29T10:04:50.291Z",
   "states": [
     {
       "name": "Tennessee",
       "code": "TN",
-      "topTopic": "dmv",
+      "topTopic": "iran war",
       "category": "Law and Government",
       "trendingScore": 95,
       "topics": [
         {
-          "name": "dmv",
+          "name": "iran war",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "23h ago",
-          "percentageIncrease": "200%"
-        },
-        {
-          "name": "barnes and noble",
-          "relevanceScore": 85,
-          "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "22h ago",
-          "percentageIncrease": "75%"
+          "started": "3h ago",
+          "percentageIncrease": "300%"
         }
       ]
     }

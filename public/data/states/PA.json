@@ -1,27 +1,19 @@
 {
-  "timestamp": "2025-12-29T08:04:38.511Z",
+  "timestamp": "2025-12-29T10:04:50.291Z",
   "states": [
     {
       "name": "Pennsylvania",
       "code": "PA",
-      "topTopic": "iran war",
+      "topTopic": "greenland",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
-        {
-          "name": "iran war",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "2h ago",
-          "percentageIncrease": "500%"
-        },
         {
           "name": "greenland",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "6h ago",
+          "started": "8h ago",
           "percentageIncrease": "600%"
         },
         {
@@ -29,7 +21,7 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "2K+",
-          "started": "19h ago",
+          "started": "21h ago",
           "trendBreakdown": "minnesota",
           "percentageIncrease": "300%"
         },
@@ -38,7 +30,7 @@
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "20h ago",
+          "started": "22h ago",
           "percentageIncrease": "100%"
         }
       ]
