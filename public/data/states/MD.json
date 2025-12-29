@@ -1,19 +1,27 @@
 {
-  "timestamp": "2025-12-29T16:04:30.616Z",
+  "timestamp": "2025-12-29T18:04:43.336Z",
   "states": [
     {
       "name": "Maryland",
       "code": "MD",
-      "topTopic": "nick shirley",
+      "topTopic": "iran",
       "category": "Law and Government",
-      "trendingScore": 90,
+      "trendingScore": 100,
       "topics": [
+        {
+          "name": "iran",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "1K+",
+          "started": "15h ago",
+          "percentageIncrease": "500%"
+        },
         {
           "name": "nick shirley",
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "4h ago",
+          "started": "6h ago",
           "percentageIncrease": "100%"
         }
       ]

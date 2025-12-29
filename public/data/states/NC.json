@@ -1,28 +1,28 @@
 {
-  "timestamp": "2025-12-29T16:04:30.616Z",
+  "timestamp": "2025-12-29T18:04:43.336Z",
   "states": [
     {
       "name": "North Carolina",
       "code": "NC",
-      "topTopic": "frontier airlines",
+      "topTopic": "iran",
       "category": "Law and Government",
-      "trendingScore": 90,
+      "trendingScore": 100,
       "topics": [
         {
-          "name": "frontier airlines",
-          "relevanceScore": 90,
+          "name": "iran",
+          "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "23h ago",
-          "percentageIncrease": "100%"
+          "searchVolume": "2K+",
+          "started": "16h ago",
+          "percentageIncrease": "800%"
         },
         {
-          "name": "dmv",
-          "relevanceScore": 85,
+          "name": "chad ollinger",
+          "relevanceScore": 95,
           "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "3h ago",
-          "percentageIncrease": "75%"
+          "searchVolume": "500+",
+          "started": "6h ago",
+          "percentageIncrease": "300%"
         }
       ]
     }

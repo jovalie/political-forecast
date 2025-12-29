@@ -1,27 +1,19 @@
 {
-  "timestamp": "2025-12-29T16:04:30.616Z",
+  "timestamp": "2025-12-29T18:04:43.336Z",
   "states": [
     {
       "name": "Michigan",
       "code": "MI",
-      "topTopic": "greenland",
+      "topTopic": "cnn",
       "category": "Law and Government",
-      "trendingScore": 100,
+      "trendingScore": 85,
       "topics": [
-        {
-          "name": "greenland",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "14h ago",
-          "percentageIncrease": "600%"
-        },
         {
           "name": "cnn",
           "relevanceScore": 85,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "4h ago",
+          "started": "6h ago",
           "percentageIncrease": "50%"
         }
       ]

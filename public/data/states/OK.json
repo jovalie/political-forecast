@@ -1,20 +1,20 @@
 {
-  "timestamp": "2025-12-29T16:04:30.616Z",
+  "timestamp": "2025-12-29T18:04:43.336Z",
   "states": [
     {
       "name": "Oklahoma",
       "code": "OK",
-      "topTopic": "okc weather",
+      "topTopic": "iran",
       "category": "Law and Government",
-      "trendingScore": 90,
+      "trendingScore": 95,
       "topics": [
         {
-          "name": "okc weather",
-          "relevanceScore": 90,
+          "name": "iran",
+          "relevanceScore": 95,
           "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "10h ago",
-          "percentageIncrease": "100%"
+          "searchVolume": "500+",
+          "started": "12h ago",
+          "percentageIncrease": "400%"
         }
       ]
     }

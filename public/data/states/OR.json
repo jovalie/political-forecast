@@ -1,19 +1,19 @@
 {
-  "timestamp": "2025-12-29T16:04:30.616Z",
+  "timestamp": "2025-12-29T18:04:43.336Z",
   "states": [
     {
       "name": "Oregon",
       "code": "OR",
-      "topTopic": "iran war",
+      "topTopic": "iran",
       "category": "Law and Government",
       "trendingScore": 95,
       "topics": [
         {
-          "name": "iran war",
+          "name": "iran",
           "relevanceScore": 95,
           "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "5h ago",
+          "searchVolume": "500+",
+          "started": "13h ago",
           "percentageIncrease": "300%"
         }
       ]

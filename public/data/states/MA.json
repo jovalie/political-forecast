@@ -1,21 +1,20 @@
 {
-  "timestamp": "2025-12-29T16:04:30.616Z",
+  "timestamp": "2025-12-29T18:04:43.336Z",
   "states": [
     {
       "name": "Massachusetts",
       "code": "MA",
-      "topTopic": "minnesota fraud",
+      "topTopic": "iran",
       "category": "Law and Government",
-      "trendingScore": 90,
+      "trendingScore": 100,
       "topics": [
         {
-          "name": "minnesota fraud",
-          "relevanceScore": 90,
+          "name": "iran",
+          "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "21h ago",
-          "trendBreakdown": "nick",
-          "percentageIncrease": "100%"
+          "searchVolume": "1K+",
+          "started": "15h ago",
+          "percentageIncrease": "700%"
         }
       ]
     }

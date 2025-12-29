@@ -1,20 +1,20 @@
 {
-  "timestamp": "2025-12-29T16:04:30.616Z",
+  "timestamp": "2025-12-29T18:04:43.336Z",
   "states": [
     {
       "name": "Connecticut",
       "code": "CT",
-      "topTopic": "trumbull mall",
+      "topTopic": "iran",
       "category": "Law and Government",
-      "trendingScore": 100,
+      "trendingScore": 95,
       "topics": [
         {
-          "name": "trumbull mall",
-          "relevanceScore": 100,
+          "name": "iran",
+          "relevanceScore": 95,
           "category": "Law and Government",
-          "searchVolume": "2K+",
-          "started": "23h ago",
-          "percentageIncrease": "1000%"
+          "searchVolume": "500+",
+          "started": "12h ago",
+          "percentageIncrease": "300%"
         }
       ]
     }

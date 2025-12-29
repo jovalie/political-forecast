@@ -1,21 +1,21 @@
 {
-  "timestamp": "2025-12-29T16:04:30.616Z",
+  "timestamp": "2025-12-29T18:04:43.336Z",
   "states": [
     {
       "name": "Washington",
       "code": "WA",
-      "topTopic": "minnesota fraud",
+      "topTopic": "tim walz",
       "category": "Law and Government",
-      "trendingScore": 95,
+      "trendingScore": 90,
       "topics": [
         {
-          "name": "minnesota fraud",
-          "relevanceScore": 95,
+          "name": "tim walz",
+          "relevanceScore": 90,
           "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "23h ago",
-          "trendBreakdown": "nick",
-          "percentageIncrease": "300%"
+          "searchVolume": "100+",
+          "started": "2h ago",
+          "trendBreakdown": "somali",
+          "percentageIncrease": "100%"
         }
       ]
     }

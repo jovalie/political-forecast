@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-12-29T16:04:30.616Z",
+  "timestamp": "2025-12-29T18:04:43.336Z",
   "states": [
     {
       "name": "Texas",
@@ -12,25 +12,17 @@
           "name": "chad ollinger",
           "relevanceScore": 95,
           "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "13h ago",
-          "percentageIncrease": "300%"
-        },
-        {
-          "name": "tim walz",
-          "relevanceScore": 95,
-          "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "24h ago",
-          "percentageIncrease": "200%"
+          "started": "15h ago",
+          "percentageIncrease": "400%"
         },
         {
-          "name": "eddy betancourt",
-          "relevanceScore": 95,
+          "name": "ksat",
+          "relevanceScore": 85,
           "category": "Law and Government",
-          "searchVolume": "2K+",
-          "started": "23h ago",
-          "percentageIncrease": "300%"
+          "searchVolume": "100+",
+          "started": "5h ago",
+          "percentageIncrease": "75%"
         }
       ]
     }

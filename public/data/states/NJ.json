@@ -1,35 +1,19 @@
 {
-  "timestamp": "2025-12-29T16:04:30.616Z",
+  "timestamp": "2025-12-29T18:04:43.336Z",
   "states": [
     {
       "name": "New Jersey",
       "code": "NJ",
-      "topTopic": "tim walz",
+      "topTopic": "flu symptoms",
       "category": "Law and Government",
       "trendingScore": 95,
       "topics": [
-        {
-          "name": "tim walz",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "2h ago",
-          "percentageIncrease": "200%"
-        },
         {
           "name": "flu symptoms",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "2h ago",
-          "percentageIncrease": "200%"
-        },
-        {
-          "name": "fox",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "18h ago",
+          "started": "4h ago",
           "percentageIncrease": "200%"
         }
       ]
