@@ -1,19 +1,27 @@
 {
-  "timestamp": "2025-12-29T14:05:32.361Z",
+  "timestamp": "2025-12-29T16:04:30.616Z",
   "states": [
     {
       "name": "Kentucky",
       "code": "KY",
-      "topTopic": "fox news",
+      "topTopic": "wdrb",
       "category": "Law and Government",
-      "trendingScore": 85,
+      "trendingScore": 95,
       "topics": [
+        {
+          "name": "wdrb",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "13h ago",
+          "percentageIncrease": "400%"
+        },
         {
           "name": "fox news",
           "relevanceScore": 85,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "2h ago",
+          "started": "4h ago",
           "percentageIncrease": "50%"
         }
       ]
