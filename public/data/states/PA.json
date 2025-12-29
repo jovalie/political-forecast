@@ -1,29 +1,20 @@
 {
-  "timestamp": "2025-12-29T12:04:50.240Z",
+  "timestamp": "2025-12-29T14:05:32.361Z",
   "states": [
     {
       "name": "Pennsylvania",
       "code": "PA",
-      "topTopic": "greenland",
+      "topTopic": "flu symptoms",
       "category": "Law and Government",
-      "trendingScore": 100,
+      "trendingScore": 90,
       "topics": [
         {
-          "name": "greenland",
-          "relevanceScore": 100,
+          "name": "flu symptoms",
+          "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "10h ago",
-          "percentageIncrease": "600%"
-        },
-        {
-          "name": "nick shirley",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "2K+",
-          "started": "23h ago",
-          "trendBreakdown": "minnesota",
-          "percentageIncrease": "300%"
+          "started": "1h ago",
+          "percentageIncrease": "100%"
         }
       ]
     }

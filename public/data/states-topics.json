@@ -1,27 +1,19 @@
 {
-  "timestamp": "2025-12-29T12:04:50.240Z",
+  "timestamp": "2025-12-29T14:05:32.361Z",
   "states": [
     {
       "name": "California",
       "code": "CA",
-      "topTopic": "iran war",
+      "topTopic": "greenland",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
-        {
-          "name": "iran war",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "2K+",
-          "started": "8h ago",
-          "percentageIncrease": "600%"
-        },
         {
           "name": "greenland",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "10h ago",
+          "started": "12h ago",
           "percentageIncrease": "1000%"
         },
         {
@@ -29,7 +21,7 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "5h ago",
+          "started": "7h ago",
           "trendBreakdown": "posthuffington",
           "percentageIncrease": "200%"
         },
@@ -38,7 +30,7 @@
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "19h ago",
+          "started": "21h ago",
           "percentageIncrease": "100%"
         },
         {
@@ -46,7 +38,7 @@
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "11h ago",
+          "started": "13h ago",
           "percentageIncrease": "100%"
         }
       ]
@@ -63,7 +55,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "9h ago",
+          "started": "11h ago",
           "percentageIncrease": "500%"
         },
         {
@@ -71,7 +63,7 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "19h ago",
+          "started": "21h ago",
           "percentageIncrease": "300%"
         }
       ]
@@ -88,7 +80,15 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "20h ago",
+          "started": "22h ago",
+          "percentageIncrease": "200%"
+        },
+        {
+          "name": "somali daycare minnesota",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "10h ago",
           "percentageIncrease": "200%"
         }
       ]
@@ -105,32 +105,32 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "10h ago",
+          "started": "12h ago",
           "percentageIncrease": "500%"
+        },
+        {
+          "name": "walb",
+          "relevanceScore": 90,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "2h ago",
+          "percentageIncrease": "100%"
         }
       ]
     },
     {
       "name": "Illinois",
       "code": "IL",
-      "topTopic": "iran war",
+      "topTopic": "river north shooting",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
-        {
-          "name": "iran war",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "6h ago",
-          "percentageIncrease": "700%"
-        },
         {
           "name": "river north shooting",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "2K+",
-          "started": "21h ago",
+          "started": "23h ago",
           "trendBreakdown": "chicago",
           "percentageIncrease": "700%"
         },
@@ -139,16 +139,24 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "14h ago",
+          "started": "16h ago",
           "percentageIncrease": "1000%"
         },
         {
-          "name": "nick shirley",
+          "name": "kankakee",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "16h ago",
+          "percentageIncrease": "1000%"
+        },
+        {
+          "name": "minnesota fraud",
           "relevanceScore": 95,
           "category": "Law and Government",
-          "searchVolume": "2K+",
-          "started": "24h ago",
-          "trendBreakdown": "minnesota",
+          "searchVolume": "500+",
+          "started": "23h ago",
+          "trendBreakdown": "tim",
           "percentageIncrease": "200%"
         },
         {
@@ -156,7 +164,7 @@
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "19h ago",
+          "started": "21h ago",
           "percentageIncrease": "100%"
         }
       ]
@@ -166,39 +174,31 @@
       "code": "IN",
       "topTopic": "wthr",
       "category": "Law and Government",
-      "trendingScore": 100,
+      "trendingScore": 95,
       "topics": [
         {
           "name": "wthr",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "12h ago",
-          "percentageIncrease": "600%"
-        },
-        {
-          "name": "nick shirley",
           "relevanceScore": 95,
           "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "21h ago",
-          "percentageIncrease": "200%"
+          "searchVolume": "1K+",
+          "started": "14h ago",
+          "percentageIncrease": "400%"
         }
       ]
     },
     {
       "name": "Maryland",
       "code": "MD",
-      "topTopic": "fox news",
+      "topTopic": "nick shirley",
       "category": "Law and Government",
       "trendingScore": 90,
       "topics": [
         {
-          "name": "fox news",
+          "name": "nick shirley",
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "8h ago",
+          "started": "2h ago",
           "percentageIncrease": "100%"
         }
       ]
@@ -215,16 +215,15 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "10h ago",
+          "started": "12h ago",
           "percentageIncrease": "600%"
         },
         {
-          "name": "nick shirley",
+          "name": "minnesota fraud",
           "relevanceScore": 95,
           "category": "Law and Government",
-          "searchVolume": "500+",
+          "searchVolume": "100+",
           "started": "23h ago",
-          "trendBreakdown": "minnesota",
           "percentageIncrease": "300%"
         },
         {
@@ -232,7 +231,7 @@
           "relevanceScore": 85,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "30 minutes ago",
+          "started": "2h ago",
           "percentageIncrease": "50%"
         }
       ]
@@ -275,51 +274,49 @@
     {
       "name": "New Jersey",
       "code": "NJ",
-      "topTopic": "nick shirley",
+      "topTopic": "flu symptoms",
       "category": "Law and Government",
-      "trendingScore": 90,
+      "trendingScore": 95,
       "topics": [
         {
-          "name": "nick shirley",
-          "relevanceScore": 90,
+          "name": "flu symptoms",
+          "relevanceScore": 95,
           "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "22h ago",
-          "trendBreakdown": "minnesota",
-          "percentageIncrease": "100%"
+          "searchVolume": "100+",
+          "started": "30 minutes ago",
+          "percentageIncrease": "200%"
+        },
+        {
+          "name": "fox",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "16h ago",
+          "percentageIncrease": "200%"
         }
       ]
     },
     {
       "name": "North Carolina",
       "code": "NC",
-      "topTopic": "nick shirley",
+      "topTopic": "chad ollinger",
       "category": "Law and Government",
-      "trendingScore": 95,
+      "trendingScore": 90,
       "topics": [
         {
-          "name": "nick shirley",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "22h ago",
-          "trendBreakdown": "minnesota",
-          "percentageIncrease": "200%"
-        },
-        {
-          "name": "iran war",
-          "relevanceScore": 95,
+          "name": "chad ollinger",
+          "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "5h ago",
-          "percentageIncrease": "300%"
+          "started": "2h ago",
+          "percentageIncrease": "100%"
         },
         {
           "name": "frontier airlines",
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "19h ago",
+          "started": "21h ago",
           "percentageIncrease": "100%"
         }
       ]
@@ -327,58 +324,41 @@
     {
       "name": "New York",
       "code": "NY",
-      "topTopic": "taiwan",
+      "topTopic": "greenland",
       "category": "Law and Government",
       "trendingScore": 95,
       "topics": [
-        {
-          "name": "taiwan",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "7h ago",
-          "percentageIncrease": "200%"
-        },
         {
           "name": "greenland",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "10h ago",
+          "started": "12h ago",
           "percentageIncrease": "400%"
         },
         {
-          "name": "somali daycare minnesota",
-          "relevanceScore": 90,
+          "name": "nbc",
+          "relevanceScore": 85,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "8h ago",
-          "percentageIncrease": "100%"
+          "started": "9h ago",
+          "percentageIncrease": "75%"
         }
       ]
     },
     {
       "name": "Ohio",
       "code": "OH",
-      "topTopic": "nick shirley",
+      "topTopic": "greenland",
       "category": "Law and Government",
       "trendingScore": 95,
       "topics": [
-        {
-          "name": "nick shirley",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "22h ago",
-          "trendBreakdown": "minnesota",
-          "percentageIncrease": "300%"
-        },
         {
           "name": "greenland",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "9h ago",
+          "started": "11h ago",
           "percentageIncrease": "400%"
         }
       ]
@@ -403,26 +383,17 @@
     {
       "name": "Pennsylvania",
       "code": "PA",
-      "topTopic": "greenland",
+      "topTopic": "flu symptoms",
       "category": "Law and Government",
-      "trendingScore": 100,
+      "trendingScore": 90,
       "topics": [
         {
-          "name": "greenland",
-          "relevanceScore": 100,
+          "name": "flu symptoms",
+          "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "10h ago",
-          "percentageIncrease": "600%"
-        },
-        {
-          "name": "nick shirley",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "2K+",
-          "started": "23h ago",
-          "trendBreakdown": "minnesota",
-          "percentageIncrease": "300%"
+          "started": "1h ago",
+          "percentageIncrease": "100%"
         }
       ]
     },
@@ -463,25 +434,25 @@
     {
       "name": "Texas",
       "code": "TX",
-      "topTopic": "iran war",
+      "topTopic": "minnesota fraud",
       "category": "Law and Government",
-      "trendingScore": 100,
+      "trendingScore": 95,
       "topics": [
-        {
-          "name": "iran war",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "7h ago",
-          "percentageIncrease": "500%"
-        },
         {
           "name": "minnesota fraud",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "2K+",
-          "started": "21h ago",
-          "trendBreakdown": "nick",
+          "started": "23h ago",
+          "trendBreakdown": "tim",
+          "percentageIncrease": "200%"
+        },
+        {
+          "name": "chad ollinger",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "11h ago",
           "percentageIncrease": "200%"
         },
         {
@@ -489,7 +460,7 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "19h ago",
+          "started": "21h ago",
           "percentageIncrease": "300%"
         }
       ]
@@ -497,25 +468,16 @@
     {
       "name": "Virginia",
       "code": "VA",
-      "topTopic": "nick shirley",
+      "topTopic": "greenland",
       "category": "Law and Government",
       "trendingScore": 95,
       "topics": [
-        {
-          "name": "nick shirley",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "22h ago",
-          "trendBreakdown": "minnesota",
-          "percentageIncrease": "200%"
-        },
         {
           "name": "greenland",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "9h ago",
+          "started": "11h ago",
           "percentageIncrease": "400%"
         }
       ]
@@ -584,7 +546,7 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "21h ago",
+          "started": "23h ago",
           "trendBreakdown": "nick",
           "percentageIncrease": "300%"
         }
@@ -653,7 +615,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "9h ago",
+          "started": "11h ago",
           "percentageIncrease": "700%"
         },
         {
@@ -661,7 +623,7 @@
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "19h ago",
+          "started": "21h ago",
           "percentageIncrease": "100%"
         }
       ]
@@ -703,17 +665,17 @@
     {
       "name": "Minnesota",
       "code": "MN",
-      "topTopic": "minnesota",
+      "topTopic": "tim walz",
       "category": "Law and Government",
       "trendingScore": 90,
       "topics": [
         {
-          "name": "minnesota",
+          "name": "tim walz",
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "30 minutes ago",
-          "trendBreakdown": "quality",
+          "started": "10 minutes ago",
+          "trendBreakdown": "learning",
           "percentageIncrease": "100%"
         }
       ]
@@ -747,7 +709,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "17h ago",
+          "started": "19h ago",
           "percentageIncrease": "600%"
         },
         {
@@ -755,7 +717,7 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "19h ago",
+          "started": "21h ago",
           "percentageIncrease": "200%"
         }
       ]
@@ -797,18 +759,17 @@
     {
       "name": "Kentucky",
       "code": "KY",
-      "topTopic": "tatum dale obituary",
+      "topTopic": "fox news",
       "category": "Law and Government",
-      "trendingScore": 100,
+      "trendingScore": 85,
       "topics": [
         {
-          "name": "tatum dale obituary",
-          "relevanceScore": 100,
+          "name": "fox news",
+          "relevanceScore": 85,
           "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "23h ago",
-          "trendBreakdown": "tatum",
-          "percentageIncrease": "600%"
+          "searchVolume": "100+",
+          "started": "2h ago",
+          "percentageIncrease": "50%"
         }
       ]
     },
@@ -832,17 +793,17 @@
     {
       "name": "West Virginia",
       "code": "WV",
-      "topTopic": "fox news",
+      "topTopic": "iran declared war",
       "category": "Law and Government",
-      "trendingScore": 85,
+      "trendingScore": 95,
       "topics": [
         {
-          "name": "fox news",
-          "relevanceScore": 85,
+          "name": "iran declared war",
+          "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "8h ago",
-          "percentageIncrease": "75%"
+          "started": "2h ago",
+          "percentageIncrease": "300%"
         }
       ]
     },
@@ -900,17 +861,17 @@
     {
       "name": "Mississippi",
       "code": "MS",
-      "topTopic": "turtle creek mall",
+      "topTopic": "iran declared war",
       "category": "Law and Government",
-      "trendingScore": 100,
+      "trendingScore": 95,
       "topics": [
         {
-          "name": "turtle creek mall",
-          "relevanceScore": 100,
+          "name": "iran declared war",
+          "relevanceScore": 95,
           "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "22h ago",
-          "percentageIncrease": "700%"
+          "searchVolume": "100+",
+          "started": "2h ago",
+          "percentageIncrease": "200%"
         }
       ]
     },

@@ -1,21 +1,20 @@
 {
-  "timestamp": "2025-12-29T12:04:50.240Z",
+  "timestamp": "2025-12-29T14:05:32.361Z",
   "states": [
     {
       "name": "Kentucky",
       "code": "KY",
-      "topTopic": "tatum dale obituary",
+      "topTopic": "fox news",
       "category": "Law and Government",
-      "trendingScore": 100,
+      "trendingScore": 85,
       "topics": [
         {
-          "name": "tatum dale obituary",
-          "relevanceScore": 100,
+          "name": "fox news",
+          "relevanceScore": 85,
           "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "23h ago",
-          "trendBreakdown": "tatum",
-          "percentageIncrease": "600%"
+          "searchVolume": "100+",
+          "started": "2h ago",
+          "percentageIncrease": "50%"
         }
       ]
     }

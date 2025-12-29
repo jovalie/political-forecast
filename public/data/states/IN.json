@@ -1,28 +1,20 @@
 {
-  "timestamp": "2025-12-29T12:04:50.240Z",
+  "timestamp": "2025-12-29T14:05:32.361Z",
   "states": [
     {
       "name": "Indiana",
       "code": "IN",
       "topTopic": "wthr",
       "category": "Law and Government",
-      "trendingScore": 100,
+      "trendingScore": 95,
       "topics": [
         {
           "name": "wthr",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "12h ago",
-          "percentageIncrease": "600%"
-        },
-        {
-          "name": "nick shirley",
           "relevanceScore": 95,
           "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "21h ago",
-          "percentageIncrease": "200%"
+          "searchVolume": "1K+",
+          "started": "14h ago",
+          "percentageIncrease": "400%"
         }
       ]
     }
