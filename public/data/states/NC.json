@@ -1,19 +1,27 @@
 {
-  "timestamp": "2025-12-29T06:04:44.309Z",
+  "timestamp": "2025-12-29T08:04:38.511Z",
   "states": [
     {
       "name": "North Carolina",
       "code": "NC",
-      "topTopic": "nick shirley",
+      "topTopic": "iran war",
       "category": "Law and Government",
       "trendingScore": 95,
       "topics": [
+        {
+          "name": "iran war",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "1h ago",
+          "percentageIncrease": "300%"
+        },
         {
           "name": "nick shirley",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "16h ago",
+          "started": "18h ago",
           "trendBreakdown": "minnesota",
           "percentageIncrease": "200%"
         },
@@ -22,7 +30,7 @@
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "13h ago",
+          "started": "15h ago",
           "percentageIncrease": "100%"
         }
       ]

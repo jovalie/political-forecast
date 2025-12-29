@@ -1,27 +1,35 @@
 {
-  "timestamp": "2025-12-29T06:04:44.309Z",
+  "timestamp": "2025-12-29T08:04:38.511Z",
   "states": [
     {
       "name": "California",
       "code": "CA",
-      "topTopic": "greenland",
+      "topTopic": "iran war",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
+        {
+          "name": "iran war",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "2K+",
+          "started": "4h ago",
+          "percentageIncrease": "900%"
+        },
         {
           "name": "greenland",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "4h ago",
+          "started": "6h ago",
           "percentageIncrease": "1000%"
         },
         {
-          "name": "salvation army",
+          "name": "china",
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "5h ago",
+          "started": "1h ago",
           "percentageIncrease": "100%"
         },
         {
@@ -29,17 +37,16 @@
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "13h ago",
+          "started": "15h ago",
           "percentageIncrease": "100%"
         },
         {
-          "name": "huffpost",
-          "relevanceScore": 85,
+          "name": "salvation army",
+          "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "14h ago",
-          "trendBreakdown": "huffington",
-          "percentageIncrease": "50%"
+          "started": "7h ago",
+          "percentageIncrease": "100%"
         }
       ]
     }
