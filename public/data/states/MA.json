@@ -1,29 +1,21 @@
 {
-  "timestamp": "2025-12-29T02:44:34.715Z",
+  "timestamp": "2025-12-29T04:22:54.990Z",
   "states": [
     {
       "name": "Massachusetts",
       "code": "MA",
-      "topTopic": "fox",
+      "topTopic": "minnesota fraud",
       "category": "Law and Government",
-      "trendingScore": 100,
+      "trendingScore": 90,
       "topics": [
         {
-          "name": "fox",
-          "relevanceScore": 100,
+          "name": "minnesota fraud",
+          "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "6h ago",
-          "percentageIncrease": "500%"
-        },
-        {
-          "name": "nick shirley",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "11h ago",
-          "trendBreakdown": "minnesota",
-          "percentageIncrease": "200%"
+          "started": "14h ago",
+          "trendBreakdown": "nick",
+          "percentageIncrease": "100%"
         }
       ]
     }

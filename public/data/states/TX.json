@@ -1,36 +1,28 @@
 {
-  "timestamp": "2025-12-29T02:44:34.715Z",
+  "timestamp": "2025-12-29T04:22:54.990Z",
   "states": [
     {
       "name": "Texas",
       "code": "TX",
-      "topTopic": "nick shirley",
+      "topTopic": "minnesota fraud",
       "category": "Law and Government",
       "trendingScore": 95,
       "topics": [
         {
-          "name": "nick shirley",
+          "name": "minnesota fraud",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "2K+",
           "started": "13h ago",
-          "trendBreakdown": "minnesota",
+          "trendBreakdown": "nick",
           "percentageIncrease": "200%"
-        },
-        {
-          "name": "chad ollinger",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "30 minutes ago",
-          "percentageIncrease": "300%"
         },
         {
           "name": "eddy betancourt",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "10h ago",
+          "started": "12h ago",
           "percentageIncrease": "300%"
         }
       ]
