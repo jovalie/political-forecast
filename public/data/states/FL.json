@@ -1,29 +1,29 @@
 {
-  "timestamp": "2025-12-29T04:22:54.990Z",
+  "timestamp": "2025-12-29T06:04:44.309Z",
   "states": [
     {
       "name": "Florida",
       "code": "FL",
-      "topTopic": "minnesota fraud",
+      "topTopic": "fort lauderdale shooting",
       "category": "Law and Government",
       "trendingScore": 95,
       "topics": [
-        {
-          "name": "minnesota fraud",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "2K+",
-          "started": "16h ago",
-          "trendBreakdown": "tim",
-          "percentageIncrease": "200%"
-        },
         {
           "name": "fort lauderdale shooting",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "12h ago",
+          "started": "14h ago",
           "trendBreakdown": "fort",
+          "percentageIncrease": "200%"
+        },
+        {
+          "name": "minnesota fraud",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "2K+",
+          "started": "18h ago",
+          "trendBreakdown": "tim",
           "percentageIncrease": "200%"
         },
         {
@@ -31,9 +31,17 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "6h ago",
+          "started": "8h ago",
           "trendBreakdown": "world",
           "percentageIncrease": "200%"
+        },
+        {
+          "name": "tampa",
+          "relevanceScore": 90,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "8h ago",
+          "percentageIncrease": "100%"
         }
       ]
     }
