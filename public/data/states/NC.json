@@ -1,19 +1,28 @@
 {
-  "timestamp": "2025-12-29T00:05:01.307Z",
+  "timestamp": "2025-12-29T02:44:34.715Z",
   "states": [
     {
       "name": "North Carolina",
       "code": "NC",
-      "topTopic": "frontier airlines",
+      "topTopic": "nick shirley",
       "category": "Law and Government",
-      "trendingScore": 90,
+      "trendingScore": 95,
       "topics": [
+        {
+          "name": "nick shirley",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "13h ago",
+          "trendBreakdown": "minnesota",
+          "percentageIncrease": "200%"
+        },
         {
           "name": "frontier airlines",
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "7h ago",
+          "started": "9h ago",
           "percentageIncrease": "100%"
         }
       ]

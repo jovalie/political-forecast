@@ -1,52 +1,52 @@
 {
-  "timestamp": "2025-12-29T00:05:01.307Z",
+  "timestamp": "2025-12-29T02:44:34.715Z",
   "states": [
     {
       "name": "California",
       "code": "CA",
-      "topTopic": "minnesota fraud",
+      "topTopic": "greenland",
       "category": "Law and Government",
-      "trendingScore": 95,
+      "trendingScore": 100,
       "topics": [
+        {
+          "name": "greenland",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "40 minutes ago",
+          "percentageIncrease": "1000%"
+        },
         {
           "name": "minnesota fraud",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "2K+",
-          "started": "18h ago",
+          "started": "21h ago",
           "trendBreakdown": "tim",
           "percentageIncrease": "200%"
+        },
+        {
+          "name": "santa clara",
+          "relevanceScore": 90,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "30 minutes ago",
+          "percentageIncrease": "100%"
+        },
+        {
+          "name": "salvation army",
+          "relevanceScore": 90,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "2h ago",
+          "percentageIncrease": "100%"
         },
         {
           "name": "frontier airlines",
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "7h ago",
-          "percentageIncrease": "100%"
-        },
-        {
-          "name": "somalia",
-          "relevanceScore": 90,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "3h ago",
-          "percentageIncrease": "100%"
-        },
-        {
-          "name": "wallace idaho",
-          "relevanceScore": 90,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "21h ago",
-          "percentageIncrease": "100%"
-        },
-        {
-          "name": "barnes and nobles",
-          "relevanceScore": 90,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "24h ago",
+          "started": "10h ago",
           "percentageIncrease": "100%"
         },
         {
@@ -54,7 +54,7 @@
           "relevanceScore": 85,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "8h ago",
+          "started": "11h ago",
           "trendBreakdown": "huffington",
           "percentageIncrease": "50%"
         }

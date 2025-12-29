@@ -1,19 +1,27 @@
 {
-  "timestamp": "2025-12-29T00:05:01.307Z",
+  "timestamp": "2025-12-29T02:44:34.715Z",
   "states": [
     {
       "name": "Colorado",
       "code": "CO",
-      "topTopic": "frontier airlines",
+      "topTopic": "greenland",
       "category": "Law and Government",
-      "trendingScore": 90,
+      "trendingScore": 100,
       "topics": [
+        {
+          "name": "greenland",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "30 minutes ago",
+          "percentageIncrease": "700%"
+        },
         {
           "name": "frontier airlines",
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "7h ago",
+          "started": "9h ago",
           "percentageIncrease": "100%"
         }
       ]

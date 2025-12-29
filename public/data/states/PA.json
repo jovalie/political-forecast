@@ -1,19 +1,27 @@
 {
-  "timestamp": "2025-12-29T00:05:01.307Z",
+  "timestamp": "2025-12-29T02:44:34.715Z",
   "states": [
     {
       "name": "Pennsylvania",
       "code": "PA",
-      "topTopic": "nick shirley",
+      "topTopic": "greenland",
       "category": "Law and Government",
-      "trendingScore": 95,
+      "trendingScore": 100,
       "topics": [
+        {
+          "name": "greenland",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "40 minutes ago",
+          "percentageIncrease": "600%"
+        },
         {
           "name": "nick shirley",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "11h ago",
+          "started": "13h ago",
           "trendBreakdown": "minnesota",
           "percentageIncrease": "300%"
         },
@@ -22,7 +30,7 @@
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "12h ago",
+          "started": "15h ago",
           "percentageIncrease": "100%"
         }
       ]

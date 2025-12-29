@@ -1,52 +1,52 @@
 {
-  "timestamp": "2025-12-29T00:05:01.307Z",
+  "timestamp": "2025-12-29T02:44:34.715Z",
   "states": [
     {
       "name": "California",
       "code": "CA",
-      "topTopic": "minnesota fraud",
+      "topTopic": "greenland",
       "category": "Law and Government",
-      "trendingScore": 95,
+      "trendingScore": 100,
       "topics": [
+        {
+          "name": "greenland",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "40 minutes ago",
+          "percentageIncrease": "1000%"
+        },
         {
           "name": "minnesota fraud",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "2K+",
-          "started": "18h ago",
+          "started": "21h ago",
           "trendBreakdown": "tim",
           "percentageIncrease": "200%"
+        },
+        {
+          "name": "santa clara",
+          "relevanceScore": 90,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "30 minutes ago",
+          "percentageIncrease": "100%"
+        },
+        {
+          "name": "salvation army",
+          "relevanceScore": 90,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "2h ago",
+          "percentageIncrease": "100%"
         },
         {
           "name": "frontier airlines",
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "7h ago",
-          "percentageIncrease": "100%"
-        },
-        {
-          "name": "somalia",
-          "relevanceScore": 90,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "3h ago",
-          "percentageIncrease": "100%"
-        },
-        {
-          "name": "wallace idaho",
-          "relevanceScore": 90,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "21h ago",
-          "percentageIncrease": "100%"
-        },
-        {
-          "name": "barnes and nobles",
-          "relevanceScore": 90,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "24h ago",
+          "started": "10h ago",
           "percentageIncrease": "100%"
         },
         {
@@ -54,7 +54,7 @@
           "relevanceScore": 85,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "8h ago",
+          "started": "11h ago",
           "trendBreakdown": "huffington",
           "percentageIncrease": "50%"
         }
@@ -63,24 +63,24 @@
     {
       "name": "Arizona",
       "code": "AZ",
-      "topTopic": "nick shirley",
+      "topTopic": "greenland",
       "category": "Law and Government",
-      "trendingScore": 95,
+      "trendingScore": 100,
       "topics": [
         {
-          "name": "nick shirley",
-          "relevanceScore": 95,
+          "name": "greenland",
+          "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "8h ago",
-          "percentageIncrease": "400%"
+          "started": "30 minutes ago",
+          "percentageIncrease": "500%"
         },
         {
           "name": "frontier airlines",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "7h ago",
+          "started": "10h ago",
           "percentageIncrease": "300%"
         }
       ]
@@ -88,34 +88,35 @@
     {
       "name": "Florida",
       "code": "FL",
-      "topTopic": "nick shirley",
+      "topTopic": "minnesota fraud",
       "category": "Law and Government",
       "trendingScore": 95,
       "topics": [
         {
-          "name": "nick shirley",
+          "name": "minnesota fraud",
           "relevanceScore": 95,
           "category": "Law and Government",
-          "searchVolume": "2K+",
-          "started": "22h ago",
-          "trendBreakdown": "minnesota",
-          "percentageIncrease": "300%"
+          "searchVolume": "1K+",
+          "started": "15h ago",
+          "trendBreakdown": "tim",
+          "percentageIncrease": "200%"
         },
         {
           "name": "fort lauderdale shooting",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "8h ago",
+          "started": "10h ago",
           "trendBreakdown": "fort",
           "percentageIncrease": "200%"
         },
         {
-          "name": "somalia",
+          "name": "mar a lago",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "11h ago",
+          "started": "5h ago",
+          "trendBreakdown": "world",
           "percentageIncrease": "200%"
         }
       ]
@@ -123,16 +124,24 @@
     {
       "name": "Georgia",
       "code": "GA",
-      "topTopic": "royal caribbean cruise",
+      "topTopic": "greenland",
       "category": "Law and Government",
-      "trendingScore": 90,
+      "trendingScore": 100,
       "topics": [
+        {
+          "name": "greenland",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "40 minutes ago",
+          "percentageIncrease": "500%"
+        },
         {
           "name": "royal caribbean cruise",
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "21h ago",
+          "started": "23h ago",
           "percentageIncrease": "100%"
         }
       ]
@@ -149,16 +158,24 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "9h ago",
+          "started": "11h ago",
           "trendBreakdown": "chicago",
           "percentageIncrease": "800%"
         },
         {
-          "name": "kankakee county",
+          "name": "santa clara",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "30 minutes ago",
+          "percentageIncrease": "900%"
+        },
+        {
+          "name": "kankakee",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "2h ago",
+          "started": "5h ago",
           "percentageIncrease": "1000%"
         },
         {
@@ -166,15 +183,15 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "1h ago",
-          "percentageIncrease": "600%"
+          "started": "3h ago",
+          "percentageIncrease": "500%"
         },
         {
           "name": "nick shirley",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "12h ago",
+          "started": "14h ago",
           "trendBreakdown": "minnesota",
           "percentageIncrease": "200%"
         },
@@ -183,7 +200,7 @@
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "7h ago",
+          "started": "9h ago",
           "percentageIncrease": "100%"
         }
       ]
@@ -226,17 +243,26 @@
     {
       "name": "Michigan",
       "code": "MI",
-      "topTopic": "southwest airlines",
+      "topTopic": "greenland",
       "category": "Law and Government",
-      "trendingScore": 90,
+      "trendingScore": 100,
       "topics": [
         {
-          "name": "southwest airlines",
-          "relevanceScore": 90,
+          "name": "greenland",
+          "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "22h ago",
-          "percentageIncrease": "100%"
+          "started": "40 minutes ago",
+          "percentageIncrease": "600%"
+        },
+        {
+          "name": "nick shirley",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "14h ago",
+          "trendBreakdown": "minnesota",
+          "percentageIncrease": "400%"
         }
       ]
     },
@@ -286,25 +312,17 @@
     {
       "name": "New Jersey",
       "code": "NJ",
-      "topTopic": "minnesota fraud",
+      "topTopic": "nick shirley",
       "category": "Law and Government",
       "trendingScore": 95,
       "topics": [
         {
-          "name": "minnesota fraud",
+          "name": "nick shirley",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "10h ago",
-          "trendBreakdown": "nick",
-          "percentageIncrease": "300%"
-        },
-        {
-          "name": "fox",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "2h ago",
+          "started": "13h ago",
+          "trendBreakdown": "minnesota",
           "percentageIncrease": "200%"
         }
       ]
@@ -312,16 +330,25 @@
     {
       "name": "North Carolina",
       "code": "NC",
-      "topTopic": "frontier airlines",
+      "topTopic": "nick shirley",
       "category": "Law and Government",
-      "trendingScore": 90,
+      "trendingScore": 95,
       "topics": [
+        {
+          "name": "nick shirley",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "13h ago",
+          "trendBreakdown": "minnesota",
+          "percentageIncrease": "200%"
+        },
         {
           "name": "frontier airlines",
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "7h ago",
+          "started": "9h ago",
           "percentageIncrease": "100%"
         }
       ]
@@ -338,34 +365,43 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "2K+",
-          "started": "21h ago",
+          "started": "23h ago",
           "trendBreakdown": "tim",
           "percentageIncrease": "200%"
         },
         {
-          "name": "flu",
-          "relevanceScore": 90,
+          "name": "greenland",
+          "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "12h ago",
-          "percentageIncrease": "100%"
+          "started": "40 minutes ago",
+          "percentageIncrease": "300%"
         }
       ]
     },
     {
       "name": "Ohio",
       "code": "OH",
-      "topTopic": "stubhub",
+      "topTopic": "greenland",
       "category": "Law and Government",
-      "trendingScore": 90,
+      "trendingScore": 95,
       "topics": [
         {
-          "name": "stubhub",
-          "relevanceScore": 90,
+          "name": "greenland",
+          "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "9h ago",
-          "percentageIncrease": "100%"
+          "started": "30 minutes ago",
+          "percentageIncrease": "400%"
+        },
+        {
+          "name": "nick shirley",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "12h ago",
+          "trendBreakdown": "minnesota",
+          "percentageIncrease": "300%"
         }
       ]
     },
@@ -389,16 +425,24 @@
     {
       "name": "Pennsylvania",
       "code": "PA",
-      "topTopic": "nick shirley",
+      "topTopic": "greenland",
       "category": "Law and Government",
-      "trendingScore": 95,
+      "trendingScore": 100,
       "topics": [
+        {
+          "name": "greenland",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "40 minutes ago",
+          "percentageIncrease": "600%"
+        },
         {
           "name": "nick shirley",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "11h ago",
+          "started": "13h ago",
           "trendBreakdown": "minnesota",
           "percentageIncrease": "300%"
         },
@@ -407,7 +451,7 @@
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "12h ago",
+          "started": "15h ago",
           "percentageIncrease": "100%"
         }
       ]
@@ -457,26 +501,34 @@
     {
       "name": "Texas",
       "code": "TX",
-      "topTopic": "minnesota fraud",
+      "topTopic": "nick shirley",
       "category": "Law and Government",
       "trendingScore": 95,
       "topics": [
         {
-          "name": "minnesota fraud",
+          "name": "nick shirley",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "2K+",
-          "started": "9h ago",
-          "trendBreakdown": "nick",
+          "started": "13h ago",
+          "trendBreakdown": "minnesota",
           "percentageIncrease": "200%"
+        },
+        {
+          "name": "chad ollinger",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "30 minutes ago",
+          "percentageIncrease": "300%"
         },
         {
           "name": "eddy betancourt",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "7h ago",
-          "percentageIncrease": "400%"
+          "started": "10h ago",
+          "percentageIncrease": "300%"
         }
       ]
     },
@@ -492,17 +544,17 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "10h ago",
+          "started": "13h ago",
           "trendBreakdown": "minnesota",
-          "percentageIncrease": "200%"
+          "percentageIncrease": "300%"
         },
         {
-          "name": "fox",
+          "name": "greenland",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "2h ago",
-          "percentageIncrease": "200%"
+          "started": "20 minutes ago",
+          "percentageIncrease": "400%"
         }
       ]
     },
@@ -518,7 +570,7 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "13h ago",
+          "started": "15h ago",
           "percentageIncrease": "200%"
         }
       ]
@@ -628,16 +680,24 @@
     {
       "name": "Colorado",
       "code": "CO",
-      "topTopic": "frontier airlines",
+      "topTopic": "greenland",
       "category": "Law and Government",
-      "trendingScore": 90,
+      "trendingScore": 100,
       "topics": [
+        {
+          "name": "greenland",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "30 minutes ago",
+          "percentageIncrease": "700%"
+        },
         {
           "name": "frontier airlines",
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "7h ago",
+          "started": "9h ago",
           "percentageIncrease": "100%"
         }
       ]
@@ -688,7 +748,7 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "9h ago",
+          "started": "11h ago",
           "trendBreakdown": "minnesota",
           "percentageIncrease": "300%"
         }
@@ -714,16 +774,24 @@
     {
       "name": "Nevada",
       "code": "NV",
-      "topTopic": "frontier airlines",
+      "topTopic": "chad ollinger",
       "category": "Law and Government",
-      "trendingScore": 95,
+      "trendingScore": 100,
       "topics": [
+        {
+          "name": "chad ollinger",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "8h ago",
+          "percentageIncrease": "600%"
+        },
         {
           "name": "frontier airlines",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "7h ago",
+          "started": "9h ago",
           "percentageIncrease": "200%"
         }
       ]

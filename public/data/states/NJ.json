@@ -1,28 +1,20 @@
 {
-  "timestamp": "2025-12-29T00:05:01.307Z",
+  "timestamp": "2025-12-29T02:44:34.715Z",
   "states": [
     {
       "name": "New Jersey",
       "code": "NJ",
-      "topTopic": "minnesota fraud",
+      "topTopic": "nick shirley",
       "category": "Law and Government",
       "trendingScore": 95,
       "topics": [
         {
-          "name": "minnesota fraud",
+          "name": "nick shirley",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "10h ago",
-          "trendBreakdown": "nick",
-          "percentageIncrease": "300%"
-        },
-        {
-          "name": "fox",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "2h ago",
+          "started": "13h ago",
+          "trendBreakdown": "minnesota",
           "percentageIncrease": "200%"
         }
       ]
