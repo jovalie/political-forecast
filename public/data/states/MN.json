@@ -1,20 +1,27 @@
 {
-  "timestamp": "2025-12-29T18:04:43.336Z",
+  "timestamp": "2025-12-29T20:04:31.718Z",
   "states": [
     {
       "name": "Minnesota",
       "code": "MN",
-      "topTopic": "tim walz",
+      "topTopic": "iran",
       "category": "Law and Government",
-      "trendingScore": 90,
+      "trendingScore": 100,
       "topics": [
         {
-          "name": "tim walz",
+          "name": "iran",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "1K+",
+          "started": "16h ago",
+          "percentageIncrease": "500%"
+        },
+        {
+          "name": "tiktok",
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "10 minutes ago",
-          "trendBreakdown": "learning",
+          "started": "13h ago",
           "percentageIncrease": "100%"
         }
       ]

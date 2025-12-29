@@ -1,27 +1,28 @@
 {
-  "timestamp": "2025-12-29T18:04:43.336Z",
+  "timestamp": "2025-12-29T20:04:31.718Z",
   "states": [
     {
       "name": "Pennsylvania",
       "code": "PA",
-      "topTopic": "somali daycare minnesota",
+      "topTopic": "iranian",
       "category": "Law and Government",
-      "trendingScore": 95,
+      "trendingScore": 100,
       "topics": [
         {
-          "name": "somali daycare minnesota",
-          "relevanceScore": 95,
+          "name": "iranian",
+          "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "1h ago",
-          "percentageIncrease": "400%"
+          "started": "2h ago",
+          "trendBreakdown": "iran",
+          "percentageIncrease": "500%"
         },
         {
           "name": "flu symptoms",
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "5h ago",
+          "started": "7h ago",
           "percentageIncrease": "100%"
         }
       ]
