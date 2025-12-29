@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-12-28T22:04:56.131Z",
+  "timestamp": "2025-12-29T00:05:01.307Z",
   "states": [
     {
       "name": "California",
@@ -13,32 +13,24 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "2K+",
-          "started": "16h ago",
+          "started": "18h ago",
           "trendBreakdown": "tim",
           "percentageIncrease": "200%"
-        },
-        {
-          "name": "somalia",
-          "relevanceScore": 90,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "1h ago",
-          "percentageIncrease": "100%"
         },
         {
           "name": "frontier airlines",
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "5h ago",
+          "started": "7h ago",
           "percentageIncrease": "100%"
         },
         {
-          "name": "new york times",
+          "name": "somalia",
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "9h ago",
+          "started": "3h ago",
           "percentageIncrease": "100%"
         },
         {
@@ -46,7 +38,7 @@
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "19h ago",
+          "started": "21h ago",
           "percentageIncrease": "100%"
         },
         {
@@ -54,16 +46,17 @@
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "22h ago",
+          "started": "24h ago",
           "percentageIncrease": "100%"
         },
         {
-          "name": "nyt",
+          "name": "huffpost",
           "relevanceScore": 85,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "6h ago",
-          "percentageIncrease": "75%"
+          "started": "8h ago",
+          "trendBreakdown": "huffington",
+          "percentageIncrease": "50%"
         }
       ]
     }

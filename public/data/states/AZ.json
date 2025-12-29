@@ -1,28 +1,28 @@
 {
-  "timestamp": "2025-12-28T22:04:56.131Z",
+  "timestamp": "2025-12-29T00:05:01.307Z",
   "states": [
     {
       "name": "Arizona",
       "code": "AZ",
-      "topTopic": "frontier airlines",
+      "topTopic": "nick shirley",
       "category": "Law and Government",
       "trendingScore": 95,
       "topics": [
-        {
-          "name": "frontier airlines",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "5h ago",
-          "percentageIncrease": "300%"
-        },
         {
           "name": "nick shirley",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "6h ago",
+          "started": "8h ago",
           "percentageIncrease": "400%"
+        },
+        {
+          "name": "frontier airlines",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "7h ago",
+          "percentageIncrease": "300%"
         }
       ]
     }
