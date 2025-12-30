@@ -1,29 +1,20 @@
 {
-  "timestamp": "2025-12-30T04:17:17.778Z",
+  "timestamp": "2025-12-30T06:04:47.592Z",
   "states": [
     {
       "name": "Washington",
       "code": "WA",
-      "topTopic": "iran",
+      "topTopic": "iran news",
       "category": "Law and Government",
-      "trendingScore": 100,
+      "trendingScore": 95,
       "topics": [
         {
-          "name": "iran",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "2K+",
-          "started": "22h ago",
-          "percentageIncrease": "800%"
-        },
-        {
-          "name": "tim walz",
-          "relevanceScore": 90,
+          "name": "iran news",
+          "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "8h ago",
-          "trendBreakdown": "somali",
-          "percentageIncrease": "100%"
+          "started": "24h ago",
+          "percentageIncrease": "300%"
         }
       ]
     }

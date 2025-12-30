@@ -1,28 +1,19 @@
 {
-  "timestamp": "2025-12-30T04:17:17.778Z",
+  "timestamp": "2025-12-30T06:04:47.592Z",
   "states": [
     {
       "name": "New York",
       "code": "NY",
-      "topTopic": "iranian president",
+      "topTopic": "bryant park",
       "category": "Law and Government",
-      "trendingScore": 100,
+      "trendingScore": 95,
       "topics": [
-        {
-          "name": "iranian president",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "2K+",
-          "started": "16h ago",
-          "trendBreakdown": "did",
-          "percentageIncrease": "800%"
-        },
         {
           "name": "bryant park",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "2h ago",
+          "started": "3h ago",
           "percentageIncrease": "200%"
         },
         {
@@ -30,16 +21,8 @@
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "16h ago",
+          "started": "18h ago",
           "percentageIncrease": "100%"
-        },
-        {
-          "name": "nbc",
-          "relevanceScore": 85,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "23h ago",
-          "percentageIncrease": "75%"
         }
       ]
     }
