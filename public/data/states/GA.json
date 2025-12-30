@@ -1,19 +1,28 @@
 {
-  "timestamp": "2025-12-30T12:04:50.338Z",
+  "timestamp": "2025-12-30T14:05:01.056Z",
   "states": [
     {
       "name": "Georgia",
       "code": "GA",
-      "topTopic": "tim walz",
+      "topTopic": "ryan wedding",
       "category": "Law and Government",
-      "trendingScore": 90,
+      "trendingScore": 95,
       "topics": [
         {
-          "name": "tim walz",
+          "name": "ryan wedding",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "2h ago",
+          "percentageIncrease": "400%"
+        },
+        {
+          "name": "somali daycare minnesota",
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "8h ago",
+          "started": "40 minutes ago",
+          "trendBreakdown": "tim",
           "percentageIncrease": "100%"
         }
       ]

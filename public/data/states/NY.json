@@ -1,23 +1,15 @@
 {
-  "timestamp": "2025-12-30T12:04:50.338Z",
+  "timestamp": "2025-12-30T14:05:01.056Z",
   "states": [
     {
       "name": "New York",
       "code": "NY",
-      "topTopic": "ryan wedding",
+      "topTopic": "bryant park",
       "category": "Law and Government",
       "trendingScore": 95,
       "topics": [
         {
-          "name": "ryan wedding",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "5h ago",
-          "percentageIncrease": "200%"
-        },
-        {
-          "name": "did iran declare war on the us",
+          "name": "bryant park",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
@@ -25,19 +17,19 @@
           "percentageIncrease": "200%"
         },
         {
-          "name": "bryant park",
-          "relevanceScore": 95,
+          "name": "chad ollinger",
+          "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "9h ago",
-          "percentageIncrease": "200%"
+          "started": "5h ago",
+          "percentageIncrease": "100%"
         },
         {
           "name": "tiktok",
           "relevanceScore": 85,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "2h ago",
+          "started": "4h ago",
           "percentageIncrease": "50%"
         }
       ]

@@ -1,28 +1,20 @@
 {
-  "timestamp": "2025-12-30T12:04:50.338Z",
+  "timestamp": "2025-12-30T14:05:01.056Z",
   "states": [
     {
       "name": "Minnesota",
       "code": "MN",
-      "topTopic": "startribune",
+      "topTopic": "quality learning center minneapolis",
       "category": "Law and Government",
       "trendingScore": 95,
       "topics": [
         {
-          "name": "startribune",
+          "name": "quality learning center minneapolis",
           "relevanceScore": 95,
           "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "10 minutes ago",
-          "trendBreakdown": "tim",
-          "percentageIncrease": "200%"
-        },
-        {
-          "name": "jonathan chet winch",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "8h ago",
+          "searchVolume": "500+",
+          "started": "14h ago",
+          "trendBreakdown": "quality",
           "percentageIncrease": "200%"
         }
       ]

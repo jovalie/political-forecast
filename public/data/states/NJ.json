@@ -1,29 +1,20 @@
 {
-  "timestamp": "2025-12-30T12:04:50.338Z",
+  "timestamp": "2025-12-30T14:05:01.056Z",
   "states": [
     {
       "name": "New Jersey",
       "code": "NJ",
-      "topTopic": "tim walz",
+      "topTopic": "ryan wedding",
       "category": "Law and Government",
-      "trendingScore": 95,
+      "trendingScore": 100,
       "topics": [
         {
-          "name": "tim walz",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "22h ago",
-          "trendBreakdown": "somali",
-          "percentageIncrease": "200%"
-        },
-        {
-          "name": "flu symptoms",
-          "relevanceScore": 95,
+          "name": "ryan wedding",
+          "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "22h ago",
-          "percentageIncrease": "200%"
+          "started": "1h ago",
+          "percentageIncrease": "600%"
         }
       ]
     }

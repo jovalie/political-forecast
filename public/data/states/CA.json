@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-12-30T12:04:50.338Z",
+  "timestamp": "2025-12-30T14:05:01.056Z",
   "states": [
     {
       "name": "California",
@@ -13,32 +13,16 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "2K+",
-          "started": "9h ago",
+          "started": "11h ago",
           "trendBreakdown": "ryan",
           "percentageIncrease": "300%"
-        },
-        {
-          "name": "alberto prieto valencia",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "9h ago",
-          "percentageIncrease": "200%"
         },
         {
           "name": "tony mccollister",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "10h ago",
-          "percentageIncrease": "200%"
-        },
-        {
-          "name": "did iran declare war on the us",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "13h ago",
+          "started": "12h ago",
           "percentageIncrease": "200%"
         },
         {
@@ -46,8 +30,16 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "20h ago",
+          "started": "22h ago",
           "trendBreakdown": "california",
+          "percentageIncrease": "200%"
+        },
+        {
+          "name": "did iran declare war on the us",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "15h ago",
           "percentageIncrease": "200%"
         },
         {
@@ -55,7 +47,7 @@
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "17h ago",
+          "started": "19h ago",
           "percentageIncrease": "100%"
         },
         {
@@ -63,7 +55,7 @@
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "5h ago",
+          "started": "7h ago",
           "percentageIncrease": "100%"
         },
         {
@@ -71,7 +63,7 @@
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "18h ago",
+          "started": "20h ago",
           "percentageIncrease": "100%"
         },
         {
@@ -79,15 +71,24 @@
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "18h ago",
+          "started": "20h ago",
           "percentageIncrease": "100%"
+        },
+        {
+          "name": "alberto prieto",
+          "relevanceScore": 85,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "1h ago",
+          "trendBreakdown": "alberto",
+          "percentageIncrease": "50%"
         },
         {
           "name": "american airlines",
           "relevanceScore": 85,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "19h ago",
+          "started": "21h ago",
           "percentageIncrease": "50%"
         }
       ]
