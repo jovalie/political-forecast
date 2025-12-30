@@ -1,28 +1,20 @@
 {
-  "timestamp": "2025-12-30T00:05:02.607Z",
+  "timestamp": "2025-12-30T02:38:10.841Z",
   "states": [
     {
       "name": "District of Columbia",
       "code": "DC",
-      "topTopic": "iran",
+      "topTopic": "tim walz",
       "category": "Law and Government",
-      "trendingScore": 100,
+      "trendingScore": 95,
       "topics": [
         {
-          "name": "iran",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "2K+",
-          "started": "22h ago",
-          "percentageIncrease": "600%"
-        },
-        {
           "name": "tim walz",
-          "relevanceScore": 90,
+          "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "11h ago",
-          "percentageIncrease": "100%"
+          "started": "14h ago",
+          "percentageIncrease": "200%"
         }
       ]
     }

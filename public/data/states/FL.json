@@ -1,35 +1,35 @@
 {
-  "timestamp": "2025-12-30T00:05:02.607Z",
+  "timestamp": "2025-12-30T02:38:10.841Z",
   "states": [
     {
       "name": "Florida",
       "code": "FL",
-      "topTopic": "iran",
+      "topTopic": "somali daycare minnesota",
       "category": "Law and Government",
-      "trendingScore": 100,
+      "trendingScore": 95,
       "topics": [
-        {
-          "name": "iran",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "5K+",
-          "started": "22h ago",
-          "percentageIncrease": "800%"
-        },
         {
           "name": "somali daycare minnesota",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "20h ago",
+          "started": "23h ago",
           "percentageIncrease": "200%"
+        },
+        {
+          "name": "silver alert",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "2h ago",
+          "percentageIncrease": "400%"
         },
         {
           "name": "venezuela news",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "1h ago",
+          "started": "4h ago",
           "percentageIncrease": "200%"
         },
         {
@@ -37,7 +37,7 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "13h ago",
+          "started": "15h ago",
           "percentageIncrease": "200%"
         }
       ]

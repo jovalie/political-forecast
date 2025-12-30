@@ -1,19 +1,35 @@
 {
-  "timestamp": "2025-12-30T00:05:02.607Z",
+  "timestamp": "2025-12-30T02:38:10.841Z",
   "states": [
     {
       "name": "Pennsylvania",
       "code": "PA",
-      "topTopic": "flu symptoms",
+      "topTopic": "hospital",
       "category": "Law and Government",
-      "trendingScore": 90,
+      "trendingScore": 100,
       "topics": [
+        {
+          "name": "hospital",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "1K+",
+          "started": "15h ago",
+          "percentageIncrease": "1000%"
+        },
+        {
+          "name": "somali daycare minnesota",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "10h ago",
+          "percentageIncrease": "300%"
+        },
         {
           "name": "flu symptoms",
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "11h ago",
+          "started": "14h ago",
           "percentageIncrease": "100%"
         }
       ]

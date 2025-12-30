@@ -1,35 +1,19 @@
 {
-  "timestamp": "2025-12-30T00:05:02.607Z",
+  "timestamp": "2025-12-30T02:38:10.841Z",
   "states": [
     {
       "name": "Texas",
       "code": "TX",
-      "topTopic": "iran",
+      "topTopic": "somali daycare minnesota",
       "category": "Law and Government",
-      "trendingScore": 100,
+      "trendingScore": 95,
       "topics": [
-        {
-          "name": "iran",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "10K+",
-          "started": "22h ago",
-          "percentageIncrease": "800%"
-        },
-        {
-          "name": "chad ollinger",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "2K+",
-          "started": "21h ago",
-          "percentageIncrease": "500%"
-        },
         {
           "name": "somali daycare minnesota",
           "relevanceScore": 95,
           "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "7h ago",
+          "searchVolume": "1K+",
+          "started": "10h ago",
           "percentageIncrease": "200%"
         },
         {
@@ -37,7 +21,7 @@
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "9h ago",
+          "started": "12h ago",
           "percentageIncrease": "100%"
         },
         {
@@ -45,7 +29,7 @@
           "relevanceScore": 85,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "8h ago",
+          "started": "10h ago",
           "percentageIncrease": "75%"
         }
       ]

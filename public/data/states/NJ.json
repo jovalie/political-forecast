@@ -1,27 +1,28 @@
 {
-  "timestamp": "2025-12-30T00:05:02.607Z",
+  "timestamp": "2025-12-30T02:38:10.841Z",
   "states": [
     {
       "name": "New Jersey",
       "code": "NJ",
-      "topTopic": "iran",
+      "topTopic": "somali daycare minnesota",
       "category": "Law and Government",
-      "trendingScore": 100,
+      "trendingScore": 95,
       "topics": [
         {
-          "name": "iran",
-          "relevanceScore": 100,
+          "name": "somali daycare minnesota",
+          "relevanceScore": 95,
           "category": "Law and Government",
-          "searchVolume": "2K+",
-          "started": "21h ago",
-          "percentageIncrease": "600%"
+          "searchVolume": "500+",
+          "started": "10 minutes ago",
+          "trendBreakdown": "tim",
+          "percentageIncrease": "200%"
         },
         {
           "name": "flu symptoms",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "10h ago",
+          "started": "13h ago",
           "percentageIncrease": "200%"
         }
       ]

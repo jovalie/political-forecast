@@ -1,20 +1,28 @@
 {
-  "timestamp": "2025-12-30T00:05:02.607Z",
+  "timestamp": "2025-12-30T02:38:10.841Z",
   "states": [
     {
       "name": "Iowa",
       "code": "IA",
-      "topTopic": "laredo",
+      "topTopic": "kwwl",
       "category": "Law and Government",
-      "trendingScore": 100,
+      "trendingScore": 90,
       "topics": [
         {
-          "name": "laredo",
-          "relevanceScore": 100,
+          "name": "kwwl",
+          "relevanceScore": 90,
           "category": "Law and Government",
-          "searchVolume": "2K+",
-          "started": "22h ago",
-          "percentageIncrease": "1000%"
+          "searchVolume": "100+",
+          "started": "14h ago",
+          "percentageIncrease": "100%"
+        },
+        {
+          "name": "kimt",
+          "relevanceScore": 90,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "15h ago",
+          "percentageIncrease": "100%"
         }
       ]
     }
