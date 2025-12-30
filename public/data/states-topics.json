@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-12-30T06:04:47.592Z",
+  "timestamp": "2025-12-30T08:04:38.132Z",
   "states": [
     {
       "name": "California",
@@ -12,33 +12,59 @@
           "name": "ryan wedding",
           "relevanceScore": 95,
           "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "3h ago",
+          "searchVolume": "2K+",
+          "started": "5h ago",
           "trendBreakdown": "ryan",
           "percentageIncrease": "400%"
+        },
+        {
+          "name": "alberto prieto valencia",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "5h ago",
+          "percentageIncrease": "200%"
+        },
+        {
+          "name": "tony mccollister",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "1K+",
+          "started": "6h ago",
+          "percentageIncrease": "200%"
+        },
+        {
+          "name": "did iran declare war on the us",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "9h ago",
+          "trendBreakdown": "the",
+          "percentageIncrease": "200%"
         },
         {
           "name": "california minimum wage",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "14h ago",
+          "started": "16h ago",
+          "trendBreakdown": "california",
           "percentageIncrease": "200%"
         },
         {
-          "name": "war",
-          "relevanceScore": 95,
+          "name": "minnesota daycare fraud",
+          "relevanceScore": 90,
           "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "23h ago",
-          "percentageIncrease": "200%"
+          "searchVolume": "100+",
+          "started": "1h ago",
+          "percentageIncrease": "100%"
         },
         {
           "name": "blue shield",
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "11h ago",
+          "started": "13h ago",
           "percentageIncrease": "100%"
         },
         {
@@ -46,7 +72,7 @@
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "12h ago",
+          "started": "14h ago",
           "percentageIncrease": "100%"
         },
         {
@@ -54,23 +80,15 @@
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "12h ago",
+          "started": "14h ago",
           "percentageIncrease": "100%"
-        },
-        {
-          "name": "american airlines",
-          "relevanceScore": 85,
-          "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "13h ago",
-          "percentageIncrease": "50%"
         },
         {
           "name": "white",
           "relevanceScore": 85,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "19h ago",
+          "started": "21h ago",
           "percentageIncrease": "50%"
         }
       ]
@@ -112,7 +130,7 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "3h ago",
+          "started": "5h ago",
           "percentageIncrease": "300%"
         },
         {
@@ -120,7 +138,7 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "5h ago",
+          "started": "7h ago",
           "percentageIncrease": "400%"
         },
         {
@@ -128,7 +146,7 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "19h ago",
+          "started": "21h ago",
           "percentageIncrease": "200%"
         }
       ]
@@ -145,7 +163,7 @@
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "2h ago",
+          "started": "4h ago",
           "percentageIncrease": "100%"
         },
         {
@@ -153,7 +171,7 @@
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "18h ago",
+          "started": "20h ago",
           "percentageIncrease": "100%"
         },
         {
@@ -161,7 +179,7 @@
           "relevanceScore": 85,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "21h ago",
+          "started": "23h ago",
           "percentageIncrease": "75%"
         }
       ]
@@ -169,17 +187,24 @@
     {
       "name": "Illinois",
       "code": "IL",
-      "topTopic": "somali daycare minnesota",
+      "topTopic": "southern university",
       "category": "Law and Government",
-      "trendingScore": 95,
+      "trendingScore": 100,
       "topics": [
+        {
+          "name": "southern university",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "1K+",
+          "started": "13h ago",
+          "percentageIncrease": "1000%"
+        },
         {
           "name": "somali daycare minnesota",
           "relevanceScore": 95,
           "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "15h ago",
-          "trendBreakdown": "tim",
+          "searchVolume": "500+",
+          "started": "17h ago",
           "percentageIncrease": "200%"
         },
         {
@@ -187,7 +212,7 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "19h ago",
+          "started": "21h ago",
           "percentageIncrease": "200%"
         }
       ]
@@ -221,7 +246,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "16h ago",
+          "started": "18h ago",
           "percentageIncrease": "800%"
         }
       ]
@@ -238,7 +263,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "14h ago",
+          "started": "16h ago",
           "percentageIncrease": "500%"
         },
         {
@@ -246,7 +271,7 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "11h ago",
+          "started": "13h ago",
           "percentageIncrease": "300%"
         },
         {
@@ -254,7 +279,7 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "19h ago",
+          "started": "21h ago",
           "percentageIncrease": "200%"
         },
         {
@@ -262,7 +287,7 @@
           "relevanceScore": 85,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "18h ago",
+          "started": "20h ago",
           "percentageIncrease": "50%"
         }
       ]
@@ -279,8 +304,17 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "2K+",
-          "started": "10h ago",
+          "started": "12h ago",
           "percentageIncrease": "1000%"
+        },
+        {
+          "name": "did iran declare war on us",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "18h ago",
+          "trendBreakdown": "iran",
+          "percentageIncrease": "400%"
         }
       ]
     },
@@ -314,7 +348,7 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "16h ago",
+          "started": "18h ago",
           "trendBreakdown": "somali",
           "percentageIncrease": "200%"
         },
@@ -323,7 +357,7 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "18h ago",
+          "started": "20h ago",
           "percentageIncrease": "400%"
         },
         {
@@ -331,7 +365,7 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "16h ago",
+          "started": "18h ago",
           "percentageIncrease": "200%"
         }
       ]
@@ -348,7 +382,7 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "18h ago",
+          "started": "20h ago",
           "trendBreakdown": "somali",
           "percentageIncrease": "200%"
         },
@@ -357,7 +391,7 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "18h ago",
+          "started": "20h ago",
           "percentageIncrease": "300%"
         }
       ]
@@ -365,16 +399,24 @@
     {
       "name": "New York",
       "code": "NY",
-      "topTopic": "bryant park",
+      "topTopic": "did iran declare war on the us",
       "category": "Law and Government",
       "trendingScore": 95,
       "topics": [
+        {
+          "name": "did iran declare war on the us",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "7h ago",
+          "percentageIncrease": "200%"
+        },
         {
           "name": "bryant park",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "3h ago",
+          "started": "5h ago",
           "percentageIncrease": "200%"
         },
         {
@@ -382,7 +424,7 @@
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "18h ago",
+          "started": "20h ago",
           "percentageIncrease": "100%"
         }
       ]
@@ -407,18 +449,18 @@
     {
       "name": "Oregon",
       "code": "OR",
-      "topTopic": "minnesota fraud",
+      "topTopic": "nick shirley",
       "category": "Law and Government",
-      "trendingScore": 90,
+      "trendingScore": 95,
       "topics": [
         {
-          "name": "minnesota fraud",
-          "relevanceScore": 90,
+          "name": "nick shirley",
+          "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "3h ago",
-          "trendBreakdown": "nick",
-          "percentageIncrease": "100%"
+          "started": "17h ago",
+          "trendBreakdown": "minnesota",
+          "percentageIncrease": "200%"
         }
       ]
     },
@@ -434,7 +476,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "19h ago",
+          "started": "21h ago",
           "percentageIncrease": "1000%"
         },
         {
@@ -442,7 +484,7 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "13h ago",
+          "started": "15h ago",
           "percentageIncrease": "300%"
         },
         {
@@ -450,7 +492,7 @@
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "17h ago",
+          "started": "19h ago",
           "percentageIncrease": "100%"
         }
       ]
@@ -458,17 +500,17 @@
     {
       "name": "South Carolina",
       "code": "SC",
-      "topTopic": "iran",
+      "topTopic": "did iran declare war on us",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
         {
-          "name": "iran",
+          "name": "did iran declare war on us",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "20h ago",
-          "percentageIncrease": "500%"
+          "searchVolume": "100+",
+          "started": "18h ago",
+          "percentageIncrease": "600%"
         }
       ]
     },
@@ -501,7 +543,7 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "2K+",
-          "started": "13h ago",
+          "started": "15h ago",
           "percentageIncrease": "200%"
         },
         {
@@ -509,7 +551,7 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "3h ago",
+          "started": "5h ago",
           "percentageIncrease": "300%"
         },
         {
@@ -517,7 +559,7 @@
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "15h ago",
+          "started": "17h ago",
           "percentageIncrease": "100%"
         },
         {
@@ -525,7 +567,7 @@
           "relevanceScore": 85,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "14h ago",
+          "started": "16h ago",
           "percentageIncrease": "75%"
         }
       ]
@@ -533,17 +575,17 @@
     {
       "name": "Virginia",
       "code": "VA",
-      "topTopic": "minnesota",
+      "topTopic": "somali daycare minnesota",
       "category": "Law and Government",
       "trendingScore": 95,
       "topics": [
         {
-          "name": "minnesota",
+          "name": "somali daycare minnesota",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "3h ago",
-          "trendBreakdown": "somali",
+          "started": "16h ago",
+          "trendBreakdown": "walztim",
           "percentageIncrease": "200%"
         }
       ]
@@ -602,17 +644,18 @@
     {
       "name": "Washington",
       "code": "WA",
-      "topTopic": "iran news",
+      "topTopic": "somali daycare minnesota",
       "category": "Law and Government",
       "trendingScore": 95,
       "topics": [
         {
-          "name": "iran news",
+          "name": "somali daycare minnesota",
           "relevanceScore": 95,
           "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "24h ago",
-          "percentageIncrease": "300%"
+          "searchVolume": "500+",
+          "started": "15h ago",
+          "trendBreakdown": "tim",
+          "percentageIncrease": "200%"
         }
       ]
     },
@@ -696,7 +739,7 @@
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "18h ago",
+          "started": "20h ago",
           "percentageIncrease": "100%"
         },
         {
@@ -704,7 +747,7 @@
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "19h ago",
+          "started": "21h ago",
           "percentageIncrease": "100%"
         }
       ]
@@ -729,25 +772,25 @@
     {
       "name": "Minnesota",
       "code": "MN",
-      "topTopic": "tim walz",
+      "topTopic": "jonathan chet winch",
       "category": "Law and Government",
-      "trendingScore": 90,
+      "trendingScore": 95,
       "topics": [
         {
-          "name": "tim walz",
+          "name": "jonathan chet winch",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "4h ago",
+          "percentageIncrease": "400%"
+        },
+        {
+          "name": "quality learning center",
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "2K+",
-          "started": "16h ago",
-          "trendBreakdown": "quality",
-          "percentageIncrease": "100%"
-        },
-        {
-          "name": "tiktok",
-          "relevanceScore": 90,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "23h ago",
+          "started": "7h ago",
+          "trendBreakdown": "tim",
           "percentageIncrease": "100%"
         }
       ]
@@ -781,7 +824,7 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "14h ago",
+          "started": "16h ago",
           "percentageIncrease": "300%"
         }
       ]
@@ -798,7 +841,7 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "17h ago",
+          "started": "19h ago",
           "percentageIncrease": "200%"
         }
       ]
@@ -823,33 +866,17 @@
     {
       "name": "Kentucky",
       "code": "KY",
-      "topTopic": "iran",
+      "topTopic": "did iran declare war on us",
       "category": "Law and Government",
-      "trendingScore": 100,
+      "trendingScore": 95,
       "topics": [
         {
-          "name": "iran",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "18h ago",
-          "percentageIncrease": "500%"
-        },
-        {
-          "name": "wdrb",
+          "name": "did iran declare war on us",
           "relevanceScore": 95,
           "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "21h ago",
-          "percentageIncrease": "400%"
-        },
-        {
-          "name": "fox news",
-          "relevanceScore": 85,
-          "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "12h ago",
-          "percentageIncrease": "50%"
+          "started": "18h ago",
+          "percentageIncrease": "300%"
         }
       ]
     },
@@ -882,7 +909,7 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "18h ago",
+          "started": "20h ago",
           "percentageIncrease": "400%"
         }
       ]
@@ -1001,7 +1028,7 @@
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "18h ago",
+          "started": "20h ago",
           "percentageIncrease": "100%"
         }
       ]

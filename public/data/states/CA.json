@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-12-30T06:04:47.592Z",
+  "timestamp": "2025-12-30T08:04:38.132Z",
   "states": [
     {
       "name": "California",
@@ -12,33 +12,59 @@
           "name": "ryan wedding",
           "relevanceScore": 95,
           "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "3h ago",
+          "searchVolume": "2K+",
+          "started": "5h ago",
           "trendBreakdown": "ryan",
           "percentageIncrease": "400%"
+        },
+        {
+          "name": "alberto prieto valencia",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "5h ago",
+          "percentageIncrease": "200%"
+        },
+        {
+          "name": "tony mccollister",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "1K+",
+          "started": "6h ago",
+          "percentageIncrease": "200%"
+        },
+        {
+          "name": "did iran declare war on the us",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "9h ago",
+          "trendBreakdown": "the",
+          "percentageIncrease": "200%"
         },
         {
           "name": "california minimum wage",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "14h ago",
+          "started": "16h ago",
+          "trendBreakdown": "california",
           "percentageIncrease": "200%"
         },
         {
-          "name": "war",
-          "relevanceScore": 95,
+          "name": "minnesota daycare fraud",
+          "relevanceScore": 90,
           "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "23h ago",
-          "percentageIncrease": "200%"
+          "searchVolume": "100+",
+          "started": "1h ago",
+          "percentageIncrease": "100%"
         },
         {
           "name": "blue shield",
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "11h ago",
+          "started": "13h ago",
           "percentageIncrease": "100%"
         },
         {
@@ -46,7 +72,7 @@
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "12h ago",
+          "started": "14h ago",
           "percentageIncrease": "100%"
         },
         {
@@ -54,23 +80,15 @@
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "12h ago",
+          "started": "14h ago",
           "percentageIncrease": "100%"
-        },
-        {
-          "name": "american airlines",
-          "relevanceScore": 85,
-          "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "13h ago",
-          "percentageIncrease": "50%"
         },
         {
           "name": "white",
           "relevanceScore": 85,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "19h ago",
+          "started": "21h ago",
           "percentageIncrease": "50%"
         }
       ]

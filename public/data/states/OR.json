@@ -1,21 +1,21 @@
 {
-  "timestamp": "2025-12-30T06:04:47.592Z",
+  "timestamp": "2025-12-30T08:04:38.132Z",
   "states": [
     {
       "name": "Oregon",
       "code": "OR",
-      "topTopic": "minnesota fraud",
+      "topTopic": "nick shirley",
       "category": "Law and Government",
-      "trendingScore": 90,
+      "trendingScore": 95,
       "topics": [
         {
-          "name": "minnesota fraud",
-          "relevanceScore": 90,
+          "name": "nick shirley",
+          "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "3h ago",
-          "trendBreakdown": "nick",
-          "percentageIncrease": "100%"
+          "started": "17h ago",
+          "trendBreakdown": "minnesota",
+          "percentageIncrease": "200%"
         }
       ]
     }
