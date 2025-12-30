@@ -1,27 +1,27 @@
 {
-  "timestamp": "2025-12-30T14:05:01.056Z",
+  "timestamp": "2025-12-30T16:04:40.946Z",
   "states": [
     {
       "name": "Ohio",
       "code": "OH",
-      "topTopic": "melissa hortman",
+      "topTopic": "somali daycare minnesota",
       "category": "Law and Government",
       "trendingScore": 95,
       "topics": [
+        {
+          "name": "somali daycare minnesota",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "20h ago",
+          "percentageIncrease": "400%"
+        },
         {
           "name": "melissa hortman",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "10h ago",
-          "percentageIncrease": "200%"
-        },
-        {
-          "name": "bidfta strongsville",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "14h ago",
+          "started": "12h ago",
           "percentageIncrease": "200%"
         },
         {
@@ -29,7 +29,7 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "13h ago",
+          "started": "15h ago",
           "percentageIncrease": "200%"
         }
       ]

@@ -1,19 +1,20 @@
 {
-  "timestamp": "2025-12-30T14:05:01.056Z",
+  "timestamp": "2025-12-30T16:04:40.946Z",
   "states": [
     {
       "name": "Wisconsin",
       "code": "WI",
-      "topTopic": "fox",
+      "topTopic": "tim walz",
       "category": "Law and Government",
       "trendingScore": 95,
       "topics": [
         {
-          "name": "fox",
+          "name": "tim walz",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "23h ago",
+          "started": "1h ago",
+          "trendBreakdown": "minnesota",
           "percentageIncrease": "200%"
         }
       ]

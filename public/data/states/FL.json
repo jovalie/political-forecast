@@ -1,44 +1,28 @@
 {
-  "timestamp": "2025-12-30T14:05:01.056Z",
+  "timestamp": "2025-12-30T16:04:40.946Z",
   "states": [
     {
       "name": "Florida",
       "code": "FL",
       "topTopic": "ryan wedding",
       "category": "Law and Government",
-      "trendingScore": 95,
+      "trendingScore": 100,
       "topics": [
         {
           "name": "ryan wedding",
-          "relevanceScore": 95,
+          "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "11h ago",
+          "searchVolume": "1K+",
+          "started": "13h ago",
           "trendBreakdown": "ryan",
-          "percentageIncrease": "400%"
-        },
-        {
-          "name": "chad ollinger",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "3h ago",
-          "percentageIncrease": "200%"
-        },
-        {
-          "name": "fort myers weather",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "2h ago",
-          "percentageIncrease": "200%"
+          "percentageIncrease": "500%"
         },
         {
           "name": "did iran declare war on the us",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "13h ago",
+          "started": "15h ago",
           "percentageIncrease": "200%"
         },
         {
@@ -46,7 +30,7 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "11h ago",
+          "started": "13h ago",
           "percentageIncrease": "300%"
         },
         {
@@ -54,23 +38,23 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "13h ago",
+          "started": "15h ago",
           "percentageIncrease": "400%"
-        },
-        {
-          "name": "melissa hortman",
-          "relevanceScore": 90,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "3h ago",
-          "percentageIncrease": "100%"
         },
         {
           "name": "minnesota daycare fraud",
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "3h ago",
+          "started": "5h ago",
+          "percentageIncrease": "100%"
+        },
+        {
+          "name": "melissa hortman",
+          "relevanceScore": 90,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "5h ago",
           "percentageIncrease": "100%"
         }
       ]

@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-12-30T14:05:01.056Z",
+  "timestamp": "2025-12-30T16:04:40.946Z",
   "states": [
     {
       "name": "California",
@@ -13,7 +13,7 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "2K+",
-          "started": "11h ago",
+          "started": "13h ago",
           "trendBreakdown": "ryan",
           "percentageIncrease": "300%"
         },
@@ -22,16 +22,7 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "12h ago",
-          "percentageIncrease": "200%"
-        },
-        {
-          "name": "california minimum wage",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "22h ago",
-          "trendBreakdown": "california",
+          "started": "14h ago",
           "percentageIncrease": "200%"
         },
         {
@@ -39,15 +30,16 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "15h ago",
+          "started": "17h ago",
           "percentageIncrease": "200%"
         },
         {
-          "name": "blue shield",
+          "name": "alberto prieto valencia",
           "relevanceScore": 90,
           "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "19h ago",
+          "searchVolume": "1K+",
+          "started": "13h ago",
+          "trendBreakdown": "alberto",
           "percentageIncrease": "100%"
         },
         {
@@ -55,7 +47,23 @@
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "7h ago",
+          "started": "9h ago",
+          "percentageIncrease": "100%"
+        },
+        {
+          "name": "blue shield",
+          "relevanceScore": 90,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "21h ago",
+          "percentageIncrease": "100%"
+        },
+        {
+          "name": "venezuela news",
+          "relevanceScore": 90,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "19h ago",
           "percentageIncrease": "100%"
         },
         {
@@ -63,7 +71,7 @@
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "20h ago",
+          "started": "22h ago",
           "percentageIncrease": "100%"
         },
         {
@@ -71,24 +79,15 @@
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "20h ago",
+          "started": "22h ago",
           "percentageIncrease": "100%"
-        },
-        {
-          "name": "alberto prieto",
-          "relevanceScore": 85,
-          "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "1h ago",
-          "trendBreakdown": "alberto",
-          "percentageIncrease": "50%"
         },
         {
           "name": "american airlines",
           "relevanceScore": 85,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "21h ago",
+          "started": "23h ago",
           "percentageIncrease": "50%"
         }
       ]
@@ -105,7 +104,7 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "13h ago",
+          "started": "15h ago",
           "percentageIncrease": "300%"
         }
       ]
@@ -115,39 +114,23 @@
       "code": "FL",
       "topTopic": "ryan wedding",
       "category": "Law and Government",
-      "trendingScore": 95,
+      "trendingScore": 100,
       "topics": [
         {
           "name": "ryan wedding",
-          "relevanceScore": 95,
+          "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "11h ago",
+          "searchVolume": "1K+",
+          "started": "13h ago",
           "trendBreakdown": "ryan",
-          "percentageIncrease": "400%"
-        },
-        {
-          "name": "chad ollinger",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "3h ago",
-          "percentageIncrease": "200%"
-        },
-        {
-          "name": "fort myers weather",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "2h ago",
-          "percentageIncrease": "200%"
+          "percentageIncrease": "500%"
         },
         {
           "name": "did iran declare war on the us",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "13h ago",
+          "started": "15h ago",
           "percentageIncrease": "200%"
         },
         {
@@ -155,7 +138,7 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "11h ago",
+          "started": "13h ago",
           "percentageIncrease": "300%"
         },
         {
@@ -163,23 +146,23 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "13h ago",
+          "started": "15h ago",
           "percentageIncrease": "400%"
-        },
-        {
-          "name": "melissa hortman",
-          "relevanceScore": 90,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "3h ago",
-          "percentageIncrease": "100%"
         },
         {
           "name": "minnesota daycare fraud",
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "3h ago",
+          "started": "5h ago",
+          "percentageIncrease": "100%"
+        },
+        {
+          "name": "melissa hortman",
+          "relevanceScore": 90,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "5h ago",
           "percentageIncrease": "100%"
         }
       ]
@@ -222,32 +205,15 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "19h ago",
+          "started": "21h ago",
           "percentageIncrease": "1000%"
-        },
-        {
-          "name": "somali daycare minnesota",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "23h ago",
-          "trendBreakdown": "minnesota",
-          "percentageIncrease": "200%"
-        },
-        {
-          "name": "ryan wedding",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "7h ago",
-          "percentageIncrease": "200%"
         },
         {
           "name": "dmv",
           "relevanceScore": 85,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "1h ago",
+          "started": "3h ago",
           "percentageIncrease": "50%"
         }
       ]
@@ -255,16 +221,24 @@
     {
       "name": "Indiana",
       "code": "IN",
-      "topTopic": "somali daycare minnesota",
+      "topTopic": "ryan wedding",
       "category": "Law and Government",
-      "trendingScore": 95,
+      "trendingScore": 100,
       "topics": [
+        {
+          "name": "ryan wedding",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "1h ago",
+          "percentageIncrease": "500%"
+        },
         {
           "name": "somali daycare minnesota",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "10h ago",
+          "started": "12h ago",
           "percentageIncrease": "200%"
         }
       ]
@@ -315,7 +289,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "2K+",
-          "started": "18h ago",
+          "started": "20h ago",
           "percentageIncrease": "700%"
         }
       ]
@@ -323,24 +297,74 @@
     {
       "name": "Missouri",
       "code": "MO",
-      "topTopic": "minnesota fraud",
+      "topTopic": "ryan wedding",
       "category": "Law and Government",
       "trendingScore": 95,
       "topics": [
         {
-          "name": "minnesota fraud",
+          "name": "ryan wedding",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "7h ago",
-          "trendBreakdown": "nick",
-          "percentageIncrease": "300%"
+          "started": "1h ago",
+          "percentageIncrease": "400%"
+        },
+        {
+          "name": "jackson county property tax",
+          "relevanceScore": 90,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "20 minutes ago",
+          "percentageIncrease": "100%"
         }
       ]
     },
     {
       "name": "New Jersey",
       "code": "NJ",
+      "topTopic": "somali daycare minnesota",
+      "category": "Law and Government",
+      "trendingScore": 95,
+      "topics": [
+        {
+          "name": "somali daycare minnesota",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "13h ago",
+          "percentageIncrease": "200%"
+        }
+      ]
+    },
+    {
+      "name": "North Carolina",
+      "code": "NC",
+      "topTopic": "michelle lane masiello",
+      "category": "Law and Government",
+      "trendingScore": 100,
+      "topics": [
+        {
+          "name": "michelle lane masiello",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "1h ago",
+          "trendBreakdown": "satellite",
+          "percentageIncrease": "1000%"
+        },
+        {
+          "name": "ryan wedding",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "5h ago",
+          "percentageIncrease": "400%"
+        }
+      ]
+    },
+    {
+      "name": "New York",
+      "code": "NY",
       "topTopic": "ryan wedding",
       "category": "Law and Government",
       "trendingScore": 100,
@@ -349,50 +373,48 @@
           "name": "ryan wedding",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "1h ago",
-          "percentageIncrease": "600%"
-        }
-      ]
-    },
-    {
-      "name": "North Carolina",
-      "code": "NC",
-      "topTopic": "somali daycare minnesota",
-      "category": "Law and Government",
-      "trendingScore": 95,
-      "topics": [
+          "searchVolume": "500+",
+          "started": "9h ago",
+          "percentageIncrease": "500%"
+        },
         {
-          "name": "somali daycare minnesota",
+          "name": "did iran declare war on the us",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "10h ago",
+          "started": "15h ago",
           "percentageIncrease": "200%"
-        }
-      ]
-    },
-    {
-      "name": "New York",
-      "code": "NY",
-      "topTopic": "bryant park",
-      "category": "Law and Government",
-      "trendingScore": 95,
-      "topics": [
+        },
         {
           "name": "bryant park",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "11h ago",
+          "started": "13h ago",
           "percentageIncrease": "200%"
+        },
+        {
+          "name": "minnesota daycare fraud",
+          "relevanceScore": 90,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "2h ago",
+          "percentageIncrease": "100%"
         },
         {
           "name": "chad ollinger",
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "5h ago",
+          "started": "7h ago",
+          "percentageIncrease": "100%"
+        },
+        {
+          "name": "syracuse news",
+          "relevanceScore": 90,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "2h ago",
           "percentageIncrease": "100%"
         },
         {
@@ -400,7 +422,7 @@
           "relevanceScore": 85,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "4h ago",
+          "started": "6h ago",
           "percentageIncrease": "50%"
         }
       ]
@@ -408,57 +430,6 @@
     {
       "name": "Ohio",
       "code": "OH",
-      "topTopic": "melissa hortman",
-      "category": "Law and Government",
-      "trendingScore": 95,
-      "topics": [
-        {
-          "name": "melissa hortman",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "10h ago",
-          "percentageIncrease": "200%"
-        },
-        {
-          "name": "bidfta strongsville",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "14h ago",
-          "percentageIncrease": "200%"
-        },
-        {
-          "name": "did iran declare war on the us",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "13h ago",
-          "percentageIncrease": "200%"
-        }
-      ]
-    },
-    {
-      "name": "Oregon",
-      "code": "OR",
-      "topTopic": "nick shirley",
-      "category": "Law and Government",
-      "trendingScore": 95,
-      "topics": [
-        {
-          "name": "nick shirley",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "23h ago",
-          "trendBreakdown": "minnesota",
-          "percentageIncrease": "200%"
-        }
-      ]
-    },
-    {
-      "name": "Pennsylvania",
-      "code": "PA",
       "topTopic": "somali daycare minnesota",
       "category": "Law and Government",
       "trendingScore": 95,
@@ -467,17 +438,91 @@
           "name": "somali daycare minnesota",
           "relevanceScore": 95,
           "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "20h ago",
+          "percentageIncrease": "400%"
+        },
+        {
+          "name": "melissa hortman",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "12h ago",
+          "percentageIncrease": "200%"
+        },
+        {
+          "name": "did iran declare war on the us",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "15h ago",
+          "percentageIncrease": "200%"
+        }
+      ]
+    },
+    {
+      "name": "Oregon",
+      "code": "OR",
+      "topTopic": "cnn",
+      "category": "Law and Government",
+      "trendingScore": 85,
+      "topics": [
+        {
+          "name": "cnn",
+          "relevanceScore": 85,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "2h ago",
+          "percentageIncrease": "50%"
+        }
+      ]
+    },
+    {
+      "name": "Pennsylvania",
+      "code": "PA",
+      "topTopic": "ryan wedding",
+      "category": "Law and Government",
+      "trendingScore": 100,
+      "topics": [
+        {
+          "name": "ryan wedding",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "7h ago",
+          "percentageIncrease": "500%"
+        },
+        {
+          "name": "somali daycare minnesota",
+          "relevanceScore": 95,
+          "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "21h ago",
+          "started": "23h ago",
           "trendBreakdown": "minnesota",
           "percentageIncrease": "400%"
+        },
+        {
+          "name": "chad ollinger",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "4h ago",
+          "percentageIncrease": "200%"
+        },
+        {
+          "name": "kdka",
+          "relevanceScore": 85,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "4h ago",
+          "percentageIncrease": "50%"
         },
         {
           "name": "tiktok",
           "relevanceScore": 85,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "6h ago",
+          "started": "8h ago",
           "percentageIncrease": "75%"
         }
       ]
@@ -502,17 +547,17 @@
     {
       "name": "Tennessee",
       "code": "TN",
-      "topTopic": "tiktok",
+      "topTopic": "ryan wedding",
       "category": "Law and Government",
-      "trendingScore": 90,
+      "trendingScore": 95,
       "topics": [
         {
-          "name": "tiktok",
-          "relevanceScore": 90,
+          "name": "ryan wedding",
+          "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "22h ago",
-          "percentageIncrease": "100%"
+          "started": "2h ago",
+          "percentageIncrease": "300%"
         }
       ]
     },
@@ -527,48 +572,50 @@
           "name": "somali daycare minnesota",
           "relevanceScore": 95,
           "category": "Law and Government",
-          "searchVolume": "2K+",
-          "started": "21h ago",
+          "searchVolume": "1K+",
+          "started": "23h ago",
+          "trendBreakdown": "sweet",
           "percentageIncrease": "200%"
         },
         {
           "name": "ryan wedding",
           "relevanceScore": 95,
           "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "11h ago",
+          "searchVolume": "1K+",
+          "started": "13h ago",
           "trendBreakdown": "ryan",
-          "percentageIncrease": "200%"
+          "percentageIncrease": "300%"
         },
         {
           "name": "mccollister",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "11h ago",
+          "started": "13h ago",
           "percentageIncrease": "300%"
-        },
-        {
-          "name": "unemployment benefits",
-          "relevanceScore": 90,
-          "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "23h ago",
-          "percentageIncrease": "100%"
-        },
-        {
-          "name": "texas department of public safety",
-          "relevanceScore": 85,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "22h ago",
-          "percentageIncrease": "75%"
         }
       ]
     },
     {
       "name": "Virginia",
       "code": "VA",
+      "topTopic": "minnesota",
+      "category": "Law and Government",
+      "trendingScore": 95,
+      "topics": [
+        {
+          "name": "minnesota",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "13h ago",
+          "percentageIncrease": "200%"
+        }
+      ]
+    },
+    {
+      "name": "District of Columbia",
+      "code": "DC",
       "topTopic": "ryan wedding",
       "category": "Law and Government",
       "trendingScore": 95,
@@ -578,24 +625,15 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "2h ago",
-          "percentageIncrease": "400%"
-        }
-      ]
-    },
-    {
-      "name": "District of Columbia",
-      "code": "DC",
-      "topTopic": "somali daycare minnesota",
-      "category": "Law and Government",
-      "trendingScore": 90,
-      "topics": [
+          "started": "3h ago",
+          "percentageIncrease": "300%"
+        },
         {
           "name": "somali daycare minnesota",
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "9h ago",
+          "started": "11h ago",
           "percentageIncrease": "100%"
         }
       ]
@@ -637,18 +675,17 @@
     {
       "name": "Washington",
       "code": "WA",
-      "topTopic": "somali daycare minnesota",
+      "topTopic": "ryan wedding",
       "category": "Law and Government",
       "trendingScore": 95,
       "topics": [
         {
-          "name": "somali daycare minnesota",
+          "name": "ryan wedding",
           "relevanceScore": 95,
           "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "21h ago",
-          "trendBreakdown": "tim",
-          "percentageIncrease": "200%"
+          "searchVolume": "100+",
+          "started": "2h ago",
+          "percentageIncrease": "300%"
         }
       ]
     },
@@ -774,8 +811,16 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "14h ago",
+          "started": "16h ago",
           "trendBreakdown": "quality",
+          "percentageIncrease": "200%"
+        },
+        {
+          "name": "ryan wedding",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "2h ago",
           "percentageIncrease": "200%"
         }
       ]
@@ -800,33 +845,34 @@
     {
       "name": "Nevada",
       "code": "NV",
-      "topTopic": "nick shirley",
+      "topTopic": "cnn",
       "category": "Law and Government",
-      "trendingScore": 95,
+      "trendingScore": 85,
       "topics": [
         {
-          "name": "nick shirley",
-          "relevanceScore": 95,
+          "name": "cnn",
+          "relevanceScore": 85,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "22h ago",
-          "percentageIncrease": "300%"
+          "started": "3h ago",
+          "percentageIncrease": "75%"
         }
       ]
     },
     {
       "name": "Wisconsin",
       "code": "WI",
-      "topTopic": "fox",
+      "topTopic": "tim walz",
       "category": "Law and Government",
       "trendingScore": 95,
       "topics": [
         {
-          "name": "fox",
+          "name": "tim walz",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "23h ago",
+          "started": "1h ago",
+          "trendBreakdown": "minnesota",
           "percentageIncrease": "200%"
         }
       ]
@@ -877,7 +923,7 @@
           "relevanceScore": 85,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "3h ago",
+          "started": "5h ago",
           "percentageIncrease": "50%"
         }
       ]

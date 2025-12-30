@@ -1,21 +1,20 @@
 {
-  "timestamp": "2025-12-30T14:05:01.056Z",
+  "timestamp": "2025-12-30T16:04:40.946Z",
   "states": [
     {
       "name": "Oregon",
       "code": "OR",
-      "topTopic": "nick shirley",
+      "topTopic": "cnn",
       "category": "Law and Government",
-      "trendingScore": 95,
+      "trendingScore": 85,
       "topics": [
         {
-          "name": "nick shirley",
-          "relevanceScore": 95,
+          "name": "cnn",
+          "relevanceScore": 85,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "23h ago",
-          "trendBreakdown": "minnesota",
-          "percentageIncrease": "200%"
+          "started": "2h ago",
+          "percentageIncrease": "50%"
         }
       ]
     }

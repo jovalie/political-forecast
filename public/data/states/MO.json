@@ -1,21 +1,28 @@
 {
-  "timestamp": "2025-12-30T14:05:01.056Z",
+  "timestamp": "2025-12-30T16:04:40.946Z",
   "states": [
     {
       "name": "Missouri",
       "code": "MO",
-      "topTopic": "minnesota fraud",
+      "topTopic": "ryan wedding",
       "category": "Law and Government",
       "trendingScore": 95,
       "topics": [
         {
-          "name": "minnesota fraud",
+          "name": "ryan wedding",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "7h ago",
-          "trendBreakdown": "nick",
-          "percentageIncrease": "300%"
+          "started": "1h ago",
+          "percentageIncrease": "400%"
+        },
+        {
+          "name": "jackson county property tax",
+          "relevanceScore": 90,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "20 minutes ago",
+          "percentageIncrease": "100%"
         }
       ]
     }
