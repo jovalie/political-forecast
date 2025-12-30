@@ -1,20 +1,21 @@
 {
-  "timestamp": "2025-12-30T16:04:40.946Z",
+  "timestamp": "2025-12-30T18:04:45.318Z",
   "states": [
     {
       "name": "Puerto Rico",
       "code": "PR",
-      "topTopic": "el vocero",
+      "topTopic": "el nuevo dia",
       "category": "Law and Government",
       "trendingScore": 85,
       "topics": [
         {
-          "name": "el vocero",
+          "name": "el nuevo dia",
           "relevanceScore": 85,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "5h ago",
-          "percentageIncrease": "50%"
+          "started": "7h ago",
+          "trendBreakdown": "voceroel",
+          "percentageIncrease": "75%"
         }
       ]
     }

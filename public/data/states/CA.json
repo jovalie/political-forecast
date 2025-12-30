@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-12-30T16:04:40.946Z",
+  "timestamp": "2025-12-30T18:04:45.318Z",
   "states": [
     {
       "name": "California",
@@ -13,16 +13,24 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "2K+",
-          "started": "13h ago",
+          "started": "15h ago",
           "trendBreakdown": "ryan",
-          "percentageIncrease": "300%"
+          "percentageIncrease": "400%"
+        },
+        {
+          "name": "measles",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "2K+",
+          "started": "19h ago",
+          "percentageIncrease": "400%"
         },
         {
           "name": "tony mccollister",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "14h ago",
+          "started": "16h ago",
           "percentageIncrease": "200%"
         },
         {
@@ -30,32 +38,16 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "17h ago",
+          "started": "19h ago",
           "percentageIncrease": "200%"
         },
         {
-          "name": "alberto prieto valencia",
+          "name": "alberto prieto",
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "13h ago",
+          "started": "5h ago",
           "trendBreakdown": "alberto",
-          "percentageIncrease": "100%"
-        },
-        {
-          "name": "minnesota daycare fraud",
-          "relevanceScore": 90,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "9h ago",
-          "percentageIncrease": "100%"
-        },
-        {
-          "name": "blue shield",
-          "relevanceScore": 90,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "21h ago",
           "percentageIncrease": "100%"
         },
         {
@@ -63,15 +55,15 @@
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "19h ago",
+          "started": "21h ago",
           "percentageIncrease": "100%"
         },
         {
-          "name": "rsv",
+          "name": "blue shield",
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "22h ago",
+          "started": "23h ago",
           "percentageIncrease": "100%"
         },
         {
@@ -79,16 +71,8 @@
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "22h ago",
+          "started": "24h ago",
           "percentageIncrease": "100%"
-        },
-        {
-          "name": "american airlines",
-          "relevanceScore": 85,
-          "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "23h ago",
-          "percentageIncrease": "50%"
         }
       ]
     }

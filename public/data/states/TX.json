@@ -1,28 +1,19 @@
 {
-  "timestamp": "2025-12-30T16:04:40.946Z",
+  "timestamp": "2025-12-30T18:04:45.318Z",
   "states": [
     {
       "name": "Texas",
       "code": "TX",
-      "topTopic": "somali daycare minnesota",
+      "topTopic": "ryan wedding",
       "category": "Law and Government",
       "trendingScore": 95,
       "topics": [
-        {
-          "name": "somali daycare minnesota",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "23h ago",
-          "trendBreakdown": "sweet",
-          "percentageIncrease": "200%"
-        },
         {
           "name": "ryan wedding",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "13h ago",
+          "started": "15h ago",
           "trendBreakdown": "ryan",
           "percentageIncrease": "300%"
         },
@@ -31,8 +22,16 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "13h ago",
+          "started": "15h ago",
           "percentageIncrease": "300%"
+        },
+        {
+          "name": "social security administration",
+          "relevanceScore": 90,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "4h ago",
+          "percentageIncrease": "100%"
         }
       ]
     }

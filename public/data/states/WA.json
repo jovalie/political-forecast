@@ -1,20 +1,28 @@
 {
-  "timestamp": "2025-12-30T16:04:40.946Z",
+  "timestamp": "2025-12-30T18:04:45.318Z",
   "states": [
     {
       "name": "Washington",
       "code": "WA",
-      "topTopic": "ryan wedding",
+      "topTopic": "social security",
       "category": "Law and Government",
-      "trendingScore": 95,
+      "trendingScore": 90,
       "topics": [
         {
-          "name": "ryan wedding",
-          "relevanceScore": 95,
+          "name": "social security",
+          "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "2h ago",
-          "percentageIncrease": "300%"
+          "started": "1h ago",
+          "percentageIncrease": "100%"
+        },
+        {
+          "name": "alaska airlines",
+          "relevanceScore": 85,
+          "category": "Law and Government",
+          "searchVolume": "1K+",
+          "started": "1h ago",
+          "percentageIncrease": "75%"
         }
       ]
     }
