@@ -1,29 +1,29 @@
 {
-  "timestamp": "2025-12-30T10:05:14.817Z",
+  "timestamp": "2025-12-30T12:04:50.338Z",
   "states": [
     {
       "name": "Minnesota",
       "code": "MN",
-      "topTopic": "jonathan chet winch",
+      "topTopic": "startribune",
       "category": "Law and Government",
       "trendingScore": 95,
       "topics": [
+        {
+          "name": "startribune",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "1K+",
+          "started": "10 minutes ago",
+          "trendBreakdown": "tim",
+          "percentageIncrease": "200%"
+        },
         {
           "name": "jonathan chet winch",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "6h ago",
-          "percentageIncrease": "400%"
-        },
-        {
-          "name": "tim walz",
-          "relevanceScore": 90,
-          "category": "Law and Government",
-          "searchVolume": "2K+",
-          "started": "20h ago",
-          "trendBreakdown": "quality",
-          "percentageIncrease": "100%"
+          "started": "8h ago",
+          "percentageIncrease": "200%"
         }
       ]
     }
