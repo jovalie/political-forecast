@@ -1,19 +1,27 @@
 {
-  "timestamp": "2025-12-30T02:38:10.841Z",
+  "timestamp": "2025-12-30T04:17:17.778Z",
   "states": [
     {
       "name": "Georgia",
       "code": "GA",
-      "topTopic": "wtoc",
+      "topTopic": "tim walz",
       "category": "Law and Government",
       "trendingScore": 90,
       "topics": [
+        {
+          "name": "tim walz",
+          "relevanceScore": 90,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "1h ago",
+          "percentageIncrease": "100%"
+        },
         {
           "name": "wtoc",
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "14h ago",
+          "started": "16h ago",
           "percentageIncrease": "100%"
         },
         {
@@ -21,7 +29,7 @@
           "relevanceScore": 85,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "18h ago",
+          "started": "19h ago",
           "percentageIncrease": "75%"
         }
       ]

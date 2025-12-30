@@ -1,20 +1,21 @@
 {
-  "timestamp": "2025-12-30T02:38:10.841Z",
+  "timestamp": "2025-12-30T04:17:17.778Z",
   "states": [
     {
       "name": "Oregon",
       "code": "OR",
-      "topTopic": "iran",
+      "topTopic": "minnesota fraud",
       "category": "Law and Government",
-      "trendingScore": 95,
+      "trendingScore": 90,
       "topics": [
         {
-          "name": "iran",
-          "relevanceScore": 95,
+          "name": "minnesota fraud",
+          "relevanceScore": 90,
           "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "13h ago",
-          "percentageIncrease": "300%"
+          "searchVolume": "100+",
+          "started": "1h ago",
+          "trendBreakdown": "nick",
+          "percentageIncrease": "100%"
         }
       ]
     }

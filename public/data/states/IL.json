@@ -1,29 +1,29 @@
 {
-  "timestamp": "2025-12-30T02:38:10.841Z",
+  "timestamp": "2025-12-30T04:17:17.778Z",
   "states": [
     {
       "name": "Illinois",
       "code": "IL",
-      "topTopic": "idot",
+      "topTopic": "somali daycare minnesota",
       "category": "Law and Government",
       "trendingScore": 95,
       "topics": [
+        {
+          "name": "somali daycare minnesota",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "1K+",
+          "started": "13h ago",
+          "trendBreakdown": "tim",
+          "percentageIncrease": "200%"
+        },
         {
           "name": "idot",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "15h ago",
+          "started": "17h ago",
           "percentageIncrease": "200%"
-        },
-        {
-          "name": "minnesota",
-          "relevanceScore": 90,
-          "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "30 minutes ago",
-          "trendBreakdown": "somali",
-          "percentageIncrease": "100%"
         }
       ]
     }
