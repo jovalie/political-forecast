@@ -1,19 +1,27 @@
 {
-  "timestamp": "2025-12-30T18:04:45.318Z",
+  "timestamp": "2025-12-30T20:04:41.023Z",
   "states": [
     {
       "name": "Maryland",
       "code": "MD",
-      "topTopic": "ryan wedding",
+      "topTopic": "bibi",
       "category": "Law and Government",
-      "trendingScore": 95,
+      "trendingScore": 100,
       "topics": [
+        {
+          "name": "bibi",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "9h ago",
+          "percentageIncrease": "1000%"
+        },
         {
           "name": "ryan wedding",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "3h ago",
+          "started": "5h ago",
           "percentageIncrease": "300%"
         }
       ]

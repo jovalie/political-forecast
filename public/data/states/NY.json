@@ -1,27 +1,35 @@
 {
-  "timestamp": "2025-12-30T18:04:45.318Z",
+  "timestamp": "2025-12-30T20:04:41.023Z",
   "states": [
     {
       "name": "New York",
       "code": "NY",
-      "topTopic": "ryan wedding",
+      "topTopic": "saudi arabia uae yemen",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
         {
-          "name": "ryan wedding",
+          "name": "saudi arabia uae yemen",
           "relevanceScore": 100,
           "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "1h ago",
+          "percentageIncrease": "600%"
+        },
+        {
+          "name": "ryan wedding",
+          "relevanceScore": 95,
+          "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "11h ago",
-          "percentageIncrease": "500%"
+          "started": "13h ago",
+          "percentageIncrease": "400%"
         },
         {
           "name": "did iran declare war on the us",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "17h ago",
+          "started": "19h ago",
           "percentageIncrease": "200%"
         },
         {
@@ -29,7 +37,7 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "15h ago",
+          "started": "17h ago",
           "percentageIncrease": "200%"
         },
         {
@@ -37,7 +45,7 @@
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "9h ago",
+          "started": "11h ago",
           "percentageIncrease": "100%"
         },
         {
@@ -45,7 +53,7 @@
           "relevanceScore": 85,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "8h ago",
+          "started": "10h ago",
           "percentageIncrease": "50%"
         }
       ]

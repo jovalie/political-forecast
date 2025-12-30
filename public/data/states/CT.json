@@ -1,20 +1,20 @@
 {
-  "timestamp": "2025-12-30T18:04:45.318Z",
+  "timestamp": "2025-12-30T20:04:41.023Z",
   "states": [
     {
       "name": "Connecticut",
       "code": "CT",
-      "topTopic": "iran",
+      "topTopic": "bibi",
       "category": "Law and Government",
-      "trendingScore": 95,
+      "trendingScore": 100,
       "topics": [
         {
-          "name": "iran",
-          "relevanceScore": 95,
+          "name": "bibi",
+          "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "12h ago",
-          "percentageIncrease": "300%"
+          "started": "9h ago",
+          "percentageIncrease": "1000%"
         }
       ]
     }
