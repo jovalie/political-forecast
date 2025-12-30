@@ -1,29 +1,29 @@
 {
-  "timestamp": "2025-12-30T20:04:41.023Z",
+  "timestamp": "2025-12-30T22:04:36.149Z",
   "states": [
     {
       "name": "Minnesota",
       "code": "MN",
-      "topTopic": "ryan wedding",
+      "topTopic": "quality learning center minneapolis",
       "category": "Law and Government",
       "trendingScore": 95,
       "topics": [
+        {
+          "name": "quality learning center minneapolis",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "1K+",
+          "started": "22h ago",
+          "trendBreakdown": "quality",
+          "percentageIncrease": "200%"
+        },
         {
           "name": "ryan wedding",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "6h ago",
+          "started": "8h ago",
           "percentageIncrease": "200%"
-        },
-        {
-          "name": "quality learning center",
-          "relevanceScore": 90,
-          "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "19h ago",
-          "trendBreakdown": "quality",
-          "percentageIncrease": "100%"
         }
       ]
     }

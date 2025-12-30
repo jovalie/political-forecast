@@ -1,27 +1,19 @@
 {
-  "timestamp": "2025-12-30T20:04:41.023Z",
+  "timestamp": "2025-12-30T22:04:36.149Z",
   "states": [
     {
       "name": "New Jersey",
       "code": "NJ",
-      "topTopic": "bibi",
+      "topTopic": "somali daycare minnesota",
       "category": "Law and Government",
-      "trendingScore": 100,
+      "trendingScore": 95,
       "topics": [
-        {
-          "name": "bibi",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "9h ago",
-          "percentageIncrease": "1000%"
-        },
         {
           "name": "somali daycare minnesota",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "17h ago",
+          "started": "19h ago",
           "percentageIncrease": "200%"
         }
       ]

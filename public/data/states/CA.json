@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-12-30T20:04:41.023Z",
+  "timestamp": "2025-12-30T22:04:36.149Z",
   "states": [
     {
       "name": "California",
@@ -13,24 +13,16 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "5K+",
-          "started": "17h ago",
+          "started": "19h ago",
           "trendBreakdown": "ryan",
           "percentageIncrease": "500%"
-        },
-        {
-          "name": "measles",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "2K+",
-          "started": "21h ago",
-          "percentageIncrease": "400%"
         },
         {
           "name": "tony mccollister",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "18h ago",
+          "started": "20h ago",
           "percentageIncrease": "200%"
         },
         {
@@ -38,15 +30,15 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "21h ago",
+          "started": "23h ago",
           "percentageIncrease": "200%"
         },
         {
           "name": "alberto prieto",
           "relevanceScore": 90,
           "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "7h ago",
+          "searchVolume": "2K+",
+          "started": "9h ago",
           "trendBreakdown": "alberto",
           "percentageIncrease": "100%"
         },
@@ -55,24 +47,8 @@
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "50 minutes ago",
+          "started": "2h ago",
           "percentageIncrease": "100%"
-        },
-        {
-          "name": "venezuela news",
-          "relevanceScore": 90,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "23h ago",
-          "percentageIncrease": "100%"
-        },
-        {
-          "name": "covered california",
-          "relevanceScore": 85,
-          "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "1h ago",
-          "percentageIncrease": "75%"
         }
       ]
     }

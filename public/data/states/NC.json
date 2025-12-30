@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-12-30T20:04:41.023Z",
+  "timestamp": "2025-12-30T22:04:36.149Z",
   "states": [
     {
       "name": "North Carolina",
@@ -13,17 +13,8 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "2K+",
-          "started": "3h ago",
+          "started": "5h ago",
           "trendBreakdown": "michelle",
-          "percentageIncrease": "1000%"
-        },
-        {
-          "name": "biltmore winery fire",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "2h ago",
-          "trendBreakdown": "biltmore",
           "percentageIncrease": "1000%"
         },
         {
@@ -31,7 +22,16 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "10h ago",
+          "started": "12h ago",
+          "percentageIncrease": "1000%"
+        },
+        {
+          "name": "biltmore winery fire",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "4h ago",
+          "trendBreakdown": "biltmore",
           "percentageIncrease": "1000%"
         },
         {
@@ -39,7 +39,7 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "9h ago",
+          "started": "11h ago",
           "percentageIncrease": "400%"
         }
       ]
