@@ -1,19 +1,36 @@
 {
-  "timestamp": "2025-12-31T04:16:49.617Z",
+  "timestamp": "2025-12-31T06:04:34.870Z",
   "states": [
     {
       "name": "Washington",
       "code": "WA",
-      "topTopic": "ryan wedding",
+      "topTopic": "somali daycare",
       "category": "Law and Government",
-      "trendingScore": 95,
+      "trendingScore": 100,
       "topics": [
+        {
+          "name": "somali daycare",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "7h ago",
+          "trendBreakdown": "child",
+          "percentageIncrease": "500%"
+        },
+        {
+          "name": "mercer island",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "1h ago",
+          "percentageIncrease": "300%"
+        },
         {
           "name": "ryan wedding",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "15h ago",
+          "started": "16h ago",
           "percentageIncrease": "400%"
         }
       ]
