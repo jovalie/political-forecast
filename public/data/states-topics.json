@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-12-31T14:04:47.984Z",
+  "timestamp": "2025-12-31T16:04:38.837Z",
   "states": [
     {
       "name": "California",
@@ -13,7 +13,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "2K+",
-          "started": "5h ago",
+          "started": "7h ago",
           "trendBreakdown": "child",
           "percentageIncrease": "1000%"
         },
@@ -22,16 +22,8 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "6h ago",
+          "started": "8h ago",
           "percentageIncrease": "1000%"
-        },
-        {
-          "name": "nbc news",
-          "relevanceScore": 85,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "22h ago",
-          "percentageIncrease": "50%"
         }
       ]
     },
@@ -72,24 +64,16 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "5h ago",
+          "started": "7h ago",
           "trendBreakdown": "carechild",
           "percentageIncrease": "1000%"
-        },
-        {
-          "name": "alberto prieto",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "2h ago",
-          "percentageIncrease": "300%"
         },
         {
           "name": "bank",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "6h ago",
+          "started": "8h ago",
           "percentageIncrease": "200%"
         }
       ]
@@ -114,16 +98,24 @@
     {
       "name": "Illinois",
       "code": "IL",
-      "topTopic": "childcare",
+      "topTopic": "alberto prieto",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
+        {
+          "name": "alberto prieto",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "1h ago",
+          "percentageIncrease": "500%"
+        },
         {
           "name": "childcare",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "12h ago",
+          "started": "14h ago",
           "trendBreakdown": "child",
           "percentageIncrease": "1000%"
         }
@@ -175,7 +167,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "12h ago",
+          "started": "14h ago",
           "trendBreakdown": "carechild",
           "percentageIncrease": "1000%"
         }
@@ -193,7 +185,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "6h ago",
+          "started": "8h ago",
           "percentageIncrease": "1000%"
         },
         {
@@ -201,7 +193,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "12h ago",
+          "started": "14h ago",
           "trendBreakdown": "child",
           "percentageIncrease": "1000%"
         }
@@ -219,23 +211,15 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "5h ago",
+          "started": "7h ago",
           "percentageIncrease": "800%"
-        },
-        {
-          "name": "ryan wedding",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "23h ago",
-          "percentageIncrease": "400%"
         },
         {
           "name": "jackson county property tax",
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "22h ago",
+          "started": "1h ago",
           "percentageIncrease": "100%"
         }
       ]
@@ -252,7 +236,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "9h ago",
+          "started": "11h ago",
           "percentageIncrease": "500%"
         },
         {
@@ -260,7 +244,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "5h ago",
+          "started": "7h ago",
           "trendBreakdown": "carechild",
           "percentageIncrease": "1000%"
         }
@@ -278,16 +262,16 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "2K+",
-          "started": "21h ago",
-          "trendBreakdown": "michelle",
-          "percentageIncrease": "1000%"
+          "started": "23h ago",
+          "trendBreakdown": "alec",
+          "percentageIncrease": "900%"
         },
         {
           "name": "sycamore brewing charlotte",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "15h ago",
+          "started": "17h ago",
           "percentageIncrease": "1000%"
         },
         {
@@ -295,7 +279,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "20h ago",
+          "started": "22h ago",
           "trendBreakdown": "firebiltmore",
           "percentageIncrease": "1000%"
         }
@@ -312,8 +296,8 @@
           "name": "kamar samuels",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "2K+",
-          "started": "13h ago",
+          "searchVolume": "5K+",
+          "started": "15h ago",
           "trendBreakdown": "kamar",
           "percentageIncrease": "1000%"
         },
@@ -321,17 +305,17 @@
           "name": "willowbrook mall",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "13h ago",
+          "searchVolume": "2K+",
+          "started": "15h ago",
           "trendBreakdown": "willowbrook",
-          "percentageIncrease": "800%"
+          "percentageIncrease": "700%"
         },
         {
           "name": "saudi arabia uae yemen",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "19h ago",
+          "started": "21h ago",
           "percentageIncrease": "600%"
         },
         {
@@ -339,7 +323,7 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "16h ago",
+          "started": "18h ago",
           "percentageIncrease": "200%"
         }
       ]
@@ -347,18 +331,35 @@
     {
       "name": "Ohio",
       "code": "OH",
-      "topTopic": "daycare",
+      "topTopic": "spencer tepe",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
+        {
+          "name": "spencer tepe",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "1K+",
+          "started": "14h ago",
+          "trendBreakdown": "newstv",
+          "percentageIncrease": "600%"
+        },
         {
           "name": "daycare",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "12h ago",
+          "started": "14h ago",
           "trendBreakdown": "carechild",
           "percentageIncrease": "1000%"
+        },
+        {
+          "name": "ohio minimum wage",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "2h ago",
+          "percentageIncrease": "200%"
         }
       ]
     },
@@ -374,25 +375,9 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "12h ago",
+          "started": "14h ago",
           "trendBreakdown": "child",
           "percentageIncrease": "1000%"
-        },
-        {
-          "name": "ryan wedding",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "22h ago",
-          "percentageIncrease": "200%"
-        },
-        {
-          "name": "news",
-          "relevanceScore": 85,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "10 minutes ago",
-          "percentageIncrease": "50%"
         }
       ]
     },
@@ -408,7 +393,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "2K+",
-          "started": "16h ago",
+          "started": "18h ago",
           "trendBreakdown": "south",
           "percentageIncrease": "1000%"
         },
@@ -417,7 +402,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "18h ago",
+          "started": "20h ago",
           "percentageIncrease": "1000%"
         }
       ]
@@ -468,7 +453,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "5h ago",
+          "started": "7h ago",
           "trendBreakdown": "carechild",
           "percentageIncrease": "600%"
         },
@@ -477,7 +462,7 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "5h ago",
+          "started": "7h ago",
           "percentageIncrease": "300%"
         }
       ]
@@ -562,17 +547,9 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "15h ago",
+          "started": "17h ago",
           "trendBreakdown": "child",
           "percentageIncrease": "400%"
-        },
-        {
-          "name": "mercer island",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "9h ago",
-          "percentageIncrease": "200%"
         }
       ]
     },
@@ -689,17 +666,17 @@
     {
       "name": "Minnesota",
       "code": "MN",
-      "topTopic": "ryan wedding",
+      "topTopic": "mn paid leave",
       "category": "Law and Government",
-      "trendingScore": 95,
+      "trendingScore": 90,
       "topics": [
         {
-          "name": "ryan wedding",
-          "relevanceScore": 95,
+          "name": "mn paid leave",
+          "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "22h ago",
-          "percentageIncrease": "200%"
+          "started": "1h ago",
+          "percentageIncrease": "100%"
         }
       ]
     },
@@ -740,18 +717,17 @@
     {
       "name": "Wisconsin",
       "code": "WI",
-      "topTopic": "minnesota fraud",
+      "topTopic": "cnn",
       "category": "Law and Government",
-      "trendingScore": 90,
+      "trendingScore": 85,
       "topics": [
         {
-          "name": "minnesota fraud",
-          "relevanceScore": 90,
+          "name": "cnn",
+          "relevanceScore": 85,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "50 minutes ago",
-          "trendBreakdown": "tim",
-          "percentageIncrease": "100%"
+          "started": "3h ago",
+          "percentageIncrease": "50%"
         }
       ]
     },

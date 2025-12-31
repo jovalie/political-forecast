@@ -1,20 +1,20 @@
 {
-  "timestamp": "2025-12-31T14:04:47.984Z",
+  "timestamp": "2025-12-31T16:04:38.837Z",
   "states": [
     {
       "name": "Minnesota",
       "code": "MN",
-      "topTopic": "ryan wedding",
+      "topTopic": "mn paid leave",
       "category": "Law and Government",
-      "trendingScore": 95,
+      "trendingScore": 90,
       "topics": [
         {
-          "name": "ryan wedding",
-          "relevanceScore": 95,
+          "name": "mn paid leave",
+          "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "22h ago",
-          "percentageIncrease": "200%"
+          "started": "1h ago",
+          "percentageIncrease": "100%"
         }
       ]
     }
