@@ -1,27 +1,19 @@
 {
-  "timestamp": "2025-12-30T22:04:36.149Z",
+  "timestamp": "2025-12-31T00:05:02.179Z",
   "states": [
     {
       "name": "Arizona",
       "code": "AZ",
-      "topTopic": "bibi",
+      "topTopic": "keon joubert",
       "category": "Law and Government",
-      "trendingScore": 100,
+      "trendingScore": 95,
       "topics": [
-        {
-          "name": "bibi",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "12h ago",
-          "percentageIncrease": "1000%"
-        },
         {
           "name": "keon joubert",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "21h ago",
+          "started": "23h ago",
           "percentageIncrease": "300%"
         },
         {
@@ -29,7 +21,7 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "7h ago",
+          "started": "9h ago",
           "percentageIncrease": "300%"
         }
       ]

@@ -1,19 +1,27 @@
 {
-  "timestamp": "2025-12-30T22:04:36.149Z",
+  "timestamp": "2025-12-31T00:05:02.179Z",
   "states": [
     {
       "name": "Wisconsin",
       "code": "WI",
-      "topTopic": "ryan wedding",
+      "topTopic": "bibi",
       "category": "Law and Government",
-      "trendingScore": 95,
+      "trendingScore": 100,
       "topics": [
+        {
+          "name": "bibi",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "12h ago",
+          "percentageIncrease": "1000%"
+        },
         {
           "name": "ryan wedding",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "8h ago",
+          "started": "10h ago",
           "percentageIncrease": "400%"
         },
         {
@@ -21,7 +29,7 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "9h ago",
+          "started": "11h ago",
           "trendBreakdown": "tim",
           "percentageIncrease": "200%"
         }

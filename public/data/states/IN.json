@@ -1,27 +1,19 @@
 {
-  "timestamp": "2025-12-30T22:04:36.149Z",
+  "timestamp": "2025-12-31T00:05:02.179Z",
   "states": [
     {
       "name": "Indiana",
       "code": "IN",
-      "topTopic": "bibi",
+      "topTopic": "somali daycare minnesota",
       "category": "Law and Government",
-      "trendingScore": 100,
+      "trendingScore": 95,
       "topics": [
-        {
-          "name": "bibi",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "12h ago",
-          "percentageIncrease": "1000%"
-        },
         {
           "name": "somali daycare minnesota",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "18h ago",
+          "started": "20h ago",
           "percentageIncrease": "200%"
         }
       ]
