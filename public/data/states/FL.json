@@ -1,53 +1,36 @@
 {
-  "timestamp": "2025-12-31T02:37:36.276Z",
+  "timestamp": "2025-12-31T04:16:49.617Z",
   "states": [
     {
       "name": "Florida",
       "code": "FL",
-      "topTopic": "willowbrook mall",
+      "topTopic": "childcare",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
-        {
-          "name": "willowbrook mall",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "50 minutes ago",
-          "percentageIncrease": "500%"
-        },
         {
           "name": "childcare",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "1h ago",
+          "started": "2h ago",
           "trendBreakdown": "child",
           "percentageIncrease": "1000%"
         },
         {
-          "name": "ryan wedding",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "2K+",
-          "started": "23h ago",
-          "trendBreakdown": "ryan",
-          "percentageIncrease": "400%"
-        },
-        {
-          "name": "mccollister",
+          "name": "is new year's eve a federal",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "23h ago",
-          "percentageIncrease": "300%"
+          "started": "15h ago",
+          "percentageIncrease": "200%"
         },
         {
           "name": "melissa hortman",
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "15h ago",
+          "started": "17h ago",
           "percentageIncrease": "100%"
         },
         {
@@ -55,7 +38,7 @@
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "15h ago",
+          "started": "17h ago",
           "percentageIncrease": "100%"
         }
       ]

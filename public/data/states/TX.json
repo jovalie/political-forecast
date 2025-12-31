@@ -1,36 +1,28 @@
 {
-  "timestamp": "2025-12-31T02:37:36.276Z",
+  "timestamp": "2025-12-31T04:16:49.617Z",
   "states": [
     {
       "name": "Texas",
       "code": "TX",
-      "topTopic": "child care",
+      "topTopic": "daycare",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
         {
-          "name": "child care",
+          "name": "daycare",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "1h ago",
+          "started": "3h ago",
+          "trendBreakdown": "child",
           "percentageIncrease": "1000%"
-        },
-        {
-          "name": "ryan wedding",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "2K+",
-          "started": "23h ago",
-          "trendBreakdown": "ryan",
-          "percentageIncrease": "300%"
         },
         {
           "name": "social security administration",
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "12h ago",
+          "started": "14h ago",
           "percentageIncrease": "100%"
         }
       ]

@@ -1,28 +1,19 @@
 {
-  "timestamp": "2025-12-31T02:37:36.276Z",
+  "timestamp": "2025-12-31T04:16:49.617Z",
   "states": [
     {
       "name": "New Jersey",
       "code": "NJ",
-      "topTopic": "willowbrook mall",
+      "topTopic": "daycare",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
-        {
-          "name": "willowbrook mall",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "10K+",
-          "started": "2h ago",
-          "trendBreakdown": "willowbrook",
-          "percentageIncrease": "1000%"
-        },
         {
           "name": "daycare",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "1h ago",
+          "started": "2h ago",
           "trendBreakdown": "child",
           "percentageIncrease": "1000%"
         }

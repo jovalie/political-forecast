@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-12-31T02:37:36.276Z",
+  "timestamp": "2025-12-31T04:16:49.617Z",
   "states": [
     {
       "name": "California",
@@ -13,17 +13,24 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "1h ago",
+          "started": "3h ago",
           "trendBreakdown": "daycare",
           "percentageIncrease": "900%"
+        },
+        {
+          "name": "is new year's eve a federal",
+          "relevanceScore": 90,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "9h ago",
+          "percentageIncrease": "100%"
         },
         {
           "name": "alberto prieto",
           "relevanceScore": 90,
           "category": "Law and Government",
-          "searchVolume": "2K+",
-          "started": "13h ago",
-          "trendBreakdown": "alberto",
+          "searchVolume": "500+",
+          "started": "15h ago",
           "percentageIncrease": "100%"
         },
         {
@@ -31,15 +38,7 @@
           "relevanceScore": 85,
           "category": "Law and Government",
           "searchVolume": "2K+",
-          "started": "7h ago",
-          "percentageIncrease": "50%"
-        },
-        {
-          "name": "nbc news",
-          "relevanceScore": 85,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "11h ago",
+          "started": "9h ago",
           "percentageIncrease": "50%"
         }
       ]
@@ -56,7 +55,7 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "12h ago",
+          "started": "14h ago",
           "percentageIncrease": "200%"
         },
         {
@@ -64,7 +63,7 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "11h ago",
+          "started": "13h ago",
           "percentageIncrease": "300%"
         }
       ]
@@ -72,50 +71,33 @@
     {
       "name": "Florida",
       "code": "FL",
-      "topTopic": "willowbrook mall",
+      "topTopic": "childcare",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
-        {
-          "name": "willowbrook mall",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "50 minutes ago",
-          "percentageIncrease": "500%"
-        },
         {
           "name": "childcare",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "1h ago",
+          "started": "2h ago",
           "trendBreakdown": "child",
           "percentageIncrease": "1000%"
         },
         {
-          "name": "ryan wedding",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "2K+",
-          "started": "23h ago",
-          "trendBreakdown": "ryan",
-          "percentageIncrease": "400%"
-        },
-        {
-          "name": "mccollister",
+          "name": "is new year's eve a federal",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "23h ago",
-          "percentageIncrease": "300%"
+          "started": "15h ago",
+          "percentageIncrease": "200%"
         },
         {
           "name": "melissa hortman",
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "15h ago",
+          "started": "17h ago",
           "percentageIncrease": "100%"
         },
         {
@@ -123,7 +105,7 @@
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "15h ago",
+          "started": "17h ago",
           "percentageIncrease": "100%"
         }
       ]
@@ -140,7 +122,7 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "15h ago",
+          "started": "17h ago",
           "percentageIncrease": "400%"
         }
       ]
@@ -148,49 +130,33 @@
     {
       "name": "Illinois",
       "code": "IL",
-      "topTopic": "childcare",
+      "topTopic": "ryan wedding",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
-        {
-          "name": "childcare",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "1h ago",
-          "trendBreakdown": "child",
-          "percentageIncrease": "1000%"
-        },
         {
           "name": "ryan wedding",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "20h ago",
+          "started": "21h ago",
           "percentageIncrease": "500%"
         },
         {
-          "name": "illinois",
-          "relevanceScore": 95,
+          "name": "childcare",
+          "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "40 minutes ago",
-          "percentageIncrease": "200%"
-        },
-        {
-          "name": "illinois department of transportation",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "12h ago",
-          "percentageIncrease": "200%"
+          "searchVolume": "500+",
+          "started": "3h ago",
+          "trendBreakdown": "child",
+          "percentageIncrease": "1000%"
         },
         {
           "name": "dmv",
           "relevanceScore": 85,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "13h ago",
+          "started": "15h ago",
           "percentageIncrease": "50%"
         }
       ]
@@ -224,7 +190,7 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "11h ago",
+          "started": "13h ago",
           "percentageIncrease": "300%"
         },
         {
@@ -232,7 +198,7 @@
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "12h ago",
+          "started": "14h ago",
           "trendBreakdown": "tim",
           "percentageIncrease": "100%"
         }
@@ -250,7 +216,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "50 minutes ago",
+          "started": "2h ago",
           "trendBreakdown": "carechild",
           "percentageIncrease": "1000%"
         },
@@ -259,7 +225,7 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "14h ago",
+          "started": "15h ago",
           "percentageIncrease": "300%"
         }
       ]
@@ -276,7 +242,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "1h ago",
+          "started": "2h ago",
           "trendBreakdown": "child",
           "percentageIncrease": "1000%"
         },
@@ -285,7 +251,7 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "15h ago",
+          "started": "16h ago",
           "percentageIncrease": "300%"
         }
       ]
@@ -302,7 +268,7 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "11h ago",
+          "started": "13h ago",
           "percentageIncrease": "400%"
         },
         {
@@ -310,7 +276,7 @@
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "10h ago",
+          "started": "12h ago",
           "percentageIncrease": "100%"
         }
       ]
@@ -318,25 +284,16 @@
     {
       "name": "New Jersey",
       "code": "NJ",
-      "topTopic": "willowbrook mall",
+      "topTopic": "daycare",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
-        {
-          "name": "willowbrook mall",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "10K+",
-          "started": "2h ago",
-          "trendBreakdown": "willowbrook",
-          "percentageIncrease": "1000%"
-        },
         {
           "name": "daycare",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "1h ago",
+          "started": "2h ago",
           "trendBreakdown": "child",
           "percentageIncrease": "1000%"
         }
@@ -354,7 +311,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "2K+",
-          "started": "9h ago",
+          "started": "11h ago",
           "trendBreakdown": "satellite",
           "percentageIncrease": "1000%"
         },
@@ -363,7 +320,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "3h ago",
+          "started": "5h ago",
           "percentageIncrease": "1000%"
         },
         {
@@ -371,7 +328,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "8h ago",
+          "started": "10h ago",
           "trendBreakdown": "firebiltmore",
           "percentageIncrease": "1000%"
         },
@@ -380,7 +337,7 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "16h ago",
+          "started": "18h ago",
           "percentageIncrease": "400%"
         }
       ]
@@ -396,8 +353,8 @@
           "name": "kamar samuels",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "2h ago",
+          "searchVolume": "2K+",
+          "started": "3h ago",
           "percentageIncrease": "1000%"
         },
         {
@@ -405,7 +362,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "1h ago",
+          "started": "3h ago",
           "percentageIncrease": "1000%"
         },
         {
@@ -413,7 +370,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "8h ago",
+          "started": "9h ago",
           "percentageIncrease": "600%"
         },
         {
@@ -421,7 +378,15 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "20h ago",
+          "started": "21h ago",
+          "percentageIncrease": "400%"
+        },
+        {
+          "name": "ramzi kassem",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "1h ago",
           "percentageIncrease": "400%"
         },
         {
@@ -429,7 +394,7 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "5h ago",
+          "started": "7h ago",
           "percentageIncrease": "200%"
         },
         {
@@ -437,7 +402,7 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "17h ago",
+          "started": "19h ago",
           "percentageIncrease": "200%"
         },
         {
@@ -445,7 +410,7 @@
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "17h ago",
+          "started": "19h ago",
           "percentageIncrease": "100%"
         },
         {
@@ -453,7 +418,7 @@
           "relevanceScore": 85,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "16h ago",
+          "started": "18h ago",
           "percentageIncrease": "50%"
         }
       ]
@@ -470,7 +435,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "1h ago",
+          "started": "2h ago",
           "trendBreakdown": "carechild",
           "percentageIncrease": "1000%"
         },
@@ -479,16 +444,8 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "15h ago",
+          "started": "16h ago",
           "percentageIncrease": "500%"
-        },
-        {
-          "name": "melissa hortman",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "22h ago",
-          "percentageIncrease": "200%"
         }
       ]
     },
@@ -504,8 +461,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "50 minutes ago",
-          "trendBreakdown": "fraudminnesota",
+          "started": "2h ago",
           "percentageIncrease": "1000%"
         },
         {
@@ -513,7 +469,7 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "11h ago",
+          "started": "13h ago",
           "percentageIncrease": "200%"
         }
       ]
@@ -530,7 +486,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "2K+",
-          "started": "5h ago",
+          "started": "6h ago",
           "trendBreakdown": "south",
           "percentageIncrease": "1000%"
         },
@@ -539,7 +495,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "17h ago",
+          "started": "19h ago",
           "percentageIncrease": "500%"
         },
         {
@@ -547,23 +503,15 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "6h ago",
+          "started": "8h ago",
           "percentageIncrease": "1000%"
-        },
-        {
-          "name": "wpxi",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "15h ago",
-          "percentageIncrease": "200%"
         },
         {
           "name": "chad ollinger",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "15h ago",
+          "started": "17h ago",
           "percentageIncrease": "200%"
         },
         {
@@ -571,7 +519,7 @@
           "relevanceScore": 85,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "18h ago",
+          "started": "20h ago",
           "percentageIncrease": "75%"
         }
       ]
@@ -613,33 +561,25 @@
     {
       "name": "Texas",
       "code": "TX",
-      "topTopic": "child care",
+      "topTopic": "daycare",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
         {
-          "name": "child care",
+          "name": "daycare",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "1h ago",
+          "started": "3h ago",
+          "trendBreakdown": "child",
           "percentageIncrease": "1000%"
-        },
-        {
-          "name": "ryan wedding",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "2K+",
-          "started": "23h ago",
-          "trendBreakdown": "ryan",
-          "percentageIncrease": "300%"
         },
         {
           "name": "social security administration",
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "12h ago",
+          "started": "14h ago",
           "percentageIncrease": "100%"
         }
       ]
@@ -656,7 +596,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "2K+",
-          "started": "16h ago",
+          "started": "18h ago",
           "percentageIncrease": "1000%"
         },
         {
@@ -664,7 +604,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "15h ago",
+          "started": "16h ago",
           "percentageIncrease": "500%"
         },
         {
@@ -672,7 +612,7 @@
           "relevanceScore": 85,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "13h ago",
+          "started": "14h ago",
           "percentageIncrease": "75%"
         }
       ]
@@ -740,7 +680,7 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "13h ago",
+          "started": "15h ago",
           "percentageIncrease": "400%"
         }
       ]
@@ -867,7 +807,7 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "2h ago",
+          "started": "3h ago",
           "percentageIncrease": "200%"
         },
         {
@@ -875,7 +815,7 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "12h ago",
+          "started": "14h ago",
           "percentageIncrease": "200%"
         }
       ]
@@ -909,7 +849,7 @@
           "relevanceScore": 85,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "11h ago",
+          "started": "15h ago",
           "percentageIncrease": "75%"
         }
       ]
@@ -926,7 +866,7 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "12h ago",
+          "started": "14h ago",
           "percentageIncrease": "400%"
         },
         {
@@ -934,7 +874,7 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "14h ago",
+          "started": "15h ago",
           "trendBreakdown": "tim",
           "percentageIncrease": "200%"
         }
@@ -960,17 +900,17 @@
     {
       "name": "Kentucky",
       "code": "KY",
-      "topTopic": "did iran declare war on us",
+      "topTopic": "bibi",
       "category": "Law and Government",
-      "trendingScore": 95,
+      "trendingScore": 100,
       "topics": [
         {
-          "name": "did iran declare war on us",
-          "relevanceScore": 95,
+          "name": "bibi",
+          "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "22h ago",
-          "percentageIncrease": "300%"
+          "searchVolume": "500+",
+          "started": "18h ago",
+          "percentageIncrease": "1000%"
         }
       ]
     },
