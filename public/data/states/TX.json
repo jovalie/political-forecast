@@ -1,27 +1,19 @@
 {
-  "timestamp": "2025-12-31T20:04:28.139Z",
+  "timestamp": "2025-12-31T22:04:41.689Z",
   "states": [
     {
       "name": "Texas",
       "code": "TX",
-      "topTopic": "diego pavia",
+      "topTopic": "kansas city international airport",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
         {
-          "name": "diego pavia",
+          "name": "kansas city international airport",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "3h ago",
-          "percentageIncrease": "900%"
-        },
-        {
-          "name": "alberto prieto",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "6h ago",
+          "searchVolume": "100+",
+          "started": "1h ago",
           "percentageIncrease": "500%"
         },
         {
@@ -29,16 +21,32 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "11h ago",
+          "started": "13h ago",
           "trendBreakdown": "carechild",
           "percentageIncrease": "600%"
+        },
+        {
+          "name": "alberto prieto",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "1K+",
+          "started": "8h ago",
+          "percentageIncrease": "400%"
+        },
+        {
+          "name": "new year",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "4h ago",
+          "percentageIncrease": "200%"
         },
         {
           "name": "bank",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "11h ago",
+          "started": "13h ago",
           "percentageIncrease": "300%"
         }
       ]

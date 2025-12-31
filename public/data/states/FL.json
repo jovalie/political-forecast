@@ -1,36 +1,36 @@
 {
-  "timestamp": "2025-12-31T20:04:28.139Z",
+  "timestamp": "2025-12-31T22:04:41.689Z",
   "states": [
     {
       "name": "Florida",
       "code": "FL",
-      "topTopic": "diego pavia",
+      "topTopic": "learning center",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
-        {
-          "name": "diego pavia",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "3h ago",
-          "percentageIncrease": "1000%"
-        },
         {
           "name": "learning center",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "11h ago",
+          "started": "13h ago",
           "trendBreakdown": "carechild",
           "percentageIncrease": "1000%"
+        },
+        {
+          "name": "new year",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "9h ago",
+          "percentageIncrease": "200%"
         },
         {
           "name": "alberto prieto",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "8h ago",
+          "started": "10h ago",
           "percentageIncrease": "300%"
         },
         {
@@ -38,7 +38,7 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "12h ago",
+          "started": "14h ago",
           "percentageIncrease": "200%"
         }
       ]

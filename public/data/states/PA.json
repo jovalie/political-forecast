@@ -1,29 +1,20 @@
 {
-  "timestamp": "2025-12-31T20:04:28.139Z",
+  "timestamp": "2025-12-31T22:04:41.689Z",
   "states": [
     {
       "name": "Pennsylvania",
       "code": "PA",
-      "topTopic": "diego pavia",
+      "topTopic": "outback steakhouse",
       "category": "Law and Government",
-      "trendingScore": 100,
+      "trendingScore": 95,
       "topics": [
         {
-          "name": "diego pavia",
-          "relevanceScore": 100,
+          "name": "outback steakhouse",
+          "relevanceScore": 95,
           "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "2h ago",
-          "percentageIncrease": "1000%"
-        },
-        {
-          "name": "south hills village",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "2K+",
-          "started": "22h ago",
-          "trendBreakdown": "south",
-          "percentageIncrease": "1000%"
+          "searchVolume": "100+",
+          "started": "1h ago",
+          "percentageIncrease": "200%"
         }
       ]
     }

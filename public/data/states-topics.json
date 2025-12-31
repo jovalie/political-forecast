@@ -1,27 +1,19 @@
 {
-  "timestamp": "2025-12-31T20:04:28.139Z",
+  "timestamp": "2025-12-31T22:04:41.689Z",
   "states": [
     {
       "name": "California",
       "code": "CA",
-      "topTopic": "diego pavia",
+      "topTopic": "bank",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
-        {
-          "name": "diego pavia",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "2h ago",
-          "percentageIncrease": "800%"
-        },
         {
           "name": "bank",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "12h ago",
+          "started": "14h ago",
           "percentageIncrease": "700%"
         },
         {
@@ -29,16 +21,33 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "2K+",
-          "started": "11h ago",
+          "started": "13h ago",
           "trendBreakdown": "child",
           "percentageIncrease": "1000%"
+        },
+        {
+          "name": "new year",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "1K+",
+          "started": "8h ago",
+          "trendBreakdown": "new",
+          "percentageIncrease": "200%"
+        },
+        {
+          "name": "post office",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "1h ago",
+          "percentageIncrease": "200%"
         },
         {
           "name": "tina peters",
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "2h ago",
+          "started": "4h ago",
           "percentageIncrease": "100%"
         }
       ]
@@ -71,33 +80,33 @@
     {
       "name": "Florida",
       "code": "FL",
-      "topTopic": "diego pavia",
+      "topTopic": "learning center",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
-        {
-          "name": "diego pavia",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "3h ago",
-          "percentageIncrease": "1000%"
-        },
         {
           "name": "learning center",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "11h ago",
+          "started": "13h ago",
           "trendBreakdown": "carechild",
           "percentageIncrease": "1000%"
+        },
+        {
+          "name": "new year",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "9h ago",
+          "percentageIncrease": "200%"
         },
         {
           "name": "alberto prieto",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "8h ago",
+          "started": "10h ago",
           "percentageIncrease": "300%"
         },
         {
@@ -105,7 +114,7 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "12h ago",
+          "started": "14h ago",
           "percentageIncrease": "200%"
         }
       ]
@@ -130,24 +139,16 @@
     {
       "name": "Illinois",
       "code": "IL",
-      "topTopic": "diego pavia",
+      "topTopic": "bank",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
-        {
-          "name": "diego pavia",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "3h ago",
-          "percentageIncrease": "1000%"
-        },
         {
           "name": "bank",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "12h ago",
+          "started": "14h ago",
           "percentageIncrease": "1000%"
         },
         {
@@ -155,9 +156,17 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "18h ago",
+          "started": "20h ago",
           "trendBreakdown": "child",
           "percentageIncrease": "1000%"
+        },
+        {
+          "name": "new year",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "3h ago",
+          "percentageIncrease": "300%"
         }
       ]
     },
@@ -198,24 +207,16 @@
     {
       "name": "Michigan",
       "code": "MI",
-      "topTopic": "diego pavia",
+      "topTopic": "daycare",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
-        {
-          "name": "diego pavia",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "2h ago",
-          "percentageIncrease": "1000%"
-        },
         {
           "name": "daycare",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "18h ago",
+          "started": "20h ago",
           "trendBreakdown": "carechild",
           "percentageIncrease": "1000%"
         }
@@ -233,7 +234,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "12h ago",
+          "started": "14h ago",
           "percentageIncrease": "1000%"
         },
         {
@@ -241,7 +242,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "18h ago",
+          "started": "20h ago",
           "trendBreakdown": "child",
           "percentageIncrease": "1000%"
         }
@@ -258,9 +259,17 @@
           "name": "kci airport",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "2K+",
+          "searchVolume": "5K+",
+          "started": "4h ago",
+          "trendBreakdown": "kansas",
+          "percentageIncrease": "1000%"
+        },
+        {
+          "name": "hospital",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "100+",
           "started": "2h ago",
-          "trendBreakdown": "mci",
           "percentageIncrease": "1000%"
         },
         {
@@ -268,23 +277,15 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "11h ago",
+          "started": "13h ago",
           "percentageIncrease": "800%"
-        },
-        {
-          "name": "diego pavia",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "1h ago",
-          "percentageIncrease": "400%"
         },
         {
           "name": "jackson county property tax",
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "5h ago",
+          "started": "7h ago",
           "percentageIncrease": "100%"
         }
       ]
@@ -301,7 +302,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "15h ago",
+          "started": "17h ago",
           "percentageIncrease": "500%"
         },
         {
@@ -309,7 +310,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "11h ago",
+          "started": "13h ago",
           "trendBreakdown": "carechild",
           "percentageIncrease": "1000%"
         }
@@ -327,7 +328,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "21h ago",
+          "started": "23h ago",
           "percentageIncrease": "1000%"
         },
         {
@@ -335,7 +336,7 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "2h ago",
+          "started": "4h ago",
           "percentageIncrease": "300%"
         }
       ]
@@ -352,24 +353,25 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "5K+",
-          "started": "19h ago",
+          "started": "21h ago",
           "trendBreakdown": "kamar",
           "percentageIncrease": "1000%"
         },
         {
-          "name": "diego pavia",
+          "name": "kansas city international airport",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "2h ago",
-          "percentageIncrease": "600%"
+          "started": "30 minutes ago",
+          "trendBreakdown": "kansas",
+          "percentageIncrease": "800%"
         },
         {
           "name": "willowbrook mall",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "2K+",
-          "started": "19h ago",
+          "started": "21h ago",
           "trendBreakdown": "willowbrook",
           "percentageIncrease": "700%"
         },
@@ -378,49 +380,49 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "8h ago",
+          "started": "10h ago",
           "percentageIncrease": "200%"
         },
         {
           "name": "ramzi kassem",
           "relevanceScore": 95,
           "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "16h ago",
+          "searchVolume": "1K+",
+          "started": "18h ago",
           "percentageIncrease": "200%"
         },
         {
-          "name": "jasper mills",
-          "relevanceScore": 95,
+          "name": "outback steakhouse",
+          "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "22h ago",
-          "percentageIncrease": "200%"
+          "started": "20 minutes ago",
+          "percentageIncrease": "100%"
+        },
+        {
+          "name": "putin",
+          "relevanceScore": 90,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "8h ago",
+          "percentageIncrease": "100%"
         }
       ]
     },
     {
       "name": "Ohio",
       "code": "OH",
-      "topTopic": "diego pavia",
+      "topTopic": "spencer tepe",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
-        {
-          "name": "diego pavia",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "2h ago",
-          "percentageIncrease": "1000%"
-        },
         {
           "name": "spencer tepe",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "2K+",
-          "started": "18h ago",
-          "trendBreakdown": "weinland",
+          "started": "20h ago",
+          "trendBreakdown": "newstv",
           "percentageIncrease": "600%"
         },
         {
@@ -428,7 +430,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "18h ago",
+          "started": "20h ago",
           "trendBreakdown": "carechild",
           "percentageIncrease": "1000%"
         },
@@ -437,7 +439,7 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "6h ago",
+          "started": "8h ago",
           "percentageIncrease": "200%"
         }
       ]
@@ -454,7 +456,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "18h ago",
+          "started": "20h ago",
           "trendBreakdown": "child",
           "percentageIncrease": "1000%"
         }
@@ -463,26 +465,17 @@
     {
       "name": "Pennsylvania",
       "code": "PA",
-      "topTopic": "diego pavia",
+      "topTopic": "outback steakhouse",
       "category": "Law and Government",
-      "trendingScore": 100,
+      "trendingScore": 95,
       "topics": [
         {
-          "name": "diego pavia",
-          "relevanceScore": 100,
+          "name": "outback steakhouse",
+          "relevanceScore": 95,
           "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "2h ago",
-          "percentageIncrease": "1000%"
-        },
-        {
-          "name": "south hills village",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "2K+",
-          "started": "22h ago",
-          "trendBreakdown": "south",
-          "percentageIncrease": "1000%"
+          "searchVolume": "100+",
+          "started": "1h ago",
+          "percentageIncrease": "200%"
         }
       ]
     },
@@ -523,24 +516,16 @@
     {
       "name": "Texas",
       "code": "TX",
-      "topTopic": "diego pavia",
+      "topTopic": "kansas city international airport",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
         {
-          "name": "diego pavia",
+          "name": "kansas city international airport",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "3h ago",
-          "percentageIncrease": "900%"
-        },
-        {
-          "name": "alberto prieto",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "6h ago",
+          "searchVolume": "100+",
+          "started": "1h ago",
           "percentageIncrease": "500%"
         },
         {
@@ -548,16 +533,32 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "11h ago",
+          "started": "13h ago",
           "trendBreakdown": "carechild",
           "percentageIncrease": "600%"
+        },
+        {
+          "name": "alberto prieto",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "1K+",
+          "started": "8h ago",
+          "percentageIncrease": "400%"
+        },
+        {
+          "name": "new year",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "4h ago",
+          "percentageIncrease": "200%"
         },
         {
           "name": "bank",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "11h ago",
+          "started": "13h ago",
           "percentageIncrease": "300%"
         }
       ]
@@ -565,34 +566,34 @@
     {
       "name": "Virginia",
       "code": "VA",
-      "topTopic": "social security",
+      "topTopic": "outback steakhouse",
       "category": "Law and Government",
-      "trendingScore": 85,
+      "trendingScore": 90,
       "topics": [
         {
-          "name": "social security",
-          "relevanceScore": 85,
+          "name": "outback steakhouse",
+          "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "22h ago",
-          "percentageIncrease": "75%"
+          "started": "40 minutes ago",
+          "percentageIncrease": "100%"
         }
       ]
     },
     {
       "name": "District of Columbia",
       "code": "DC",
-      "topTopic": "bibi",
+      "topTopic": "outback steakhouse",
       "category": "Law and Government",
-      "trendingScore": 100,
+      "trendingScore": 90,
       "topics": [
         {
-          "name": "bibi",
-          "relevanceScore": 100,
+          "name": "outback steakhouse",
+          "relevanceScore": 90,
           "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "16h ago",
-          "percentageIncrease": "1000%"
+          "searchVolume": "100+",
+          "started": "20 minutes ago",
+          "percentageIncrease": "100%"
         }
       ]
     },
@@ -608,7 +609,7 @@
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "4h ago",
+          "started": "6h ago",
           "percentageIncrease": "100%"
         }
       ]
@@ -677,8 +678,16 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "2K+",
-          "started": "2h ago",
+          "started": "4h ago",
           "trendBreakdown": "mci",
+          "percentageIncrease": "1000%"
+        },
+        {
+          "name": "hospital",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "2K+",
+          "started": "13h ago",
           "percentageIncrease": "1000%"
         }
       ]
@@ -763,7 +772,7 @@
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "5h ago",
+          "started": "7h ago",
           "percentageIncrease": "100%"
         }
       ]

@@ -1,27 +1,19 @@
 {
-  "timestamp": "2025-12-31T20:04:28.139Z",
+  "timestamp": "2025-12-31T22:04:41.689Z",
   "states": [
     {
       "name": "California",
       "code": "CA",
-      "topTopic": "diego pavia",
+      "topTopic": "bank",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
-        {
-          "name": "diego pavia",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "2h ago",
-          "percentageIncrease": "800%"
-        },
         {
           "name": "bank",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "12h ago",
+          "started": "14h ago",
           "percentageIncrease": "700%"
         },
         {
@@ -29,16 +21,33 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "2K+",
-          "started": "11h ago",
+          "started": "13h ago",
           "trendBreakdown": "child",
           "percentageIncrease": "1000%"
+        },
+        {
+          "name": "new year",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "1K+",
+          "started": "8h ago",
+          "trendBreakdown": "new",
+          "percentageIncrease": "200%"
+        },
+        {
+          "name": "post office",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "1h ago",
+          "percentageIncrease": "200%"
         },
         {
           "name": "tina peters",
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "2h ago",
+          "started": "4h ago",
           "percentageIncrease": "100%"
         }
       ]
