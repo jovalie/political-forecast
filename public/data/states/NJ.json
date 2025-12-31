@@ -1,19 +1,27 @@
 {
-  "timestamp": "2025-12-31T10:04:44.999Z",
+  "timestamp": "2025-12-31T12:04:42.648Z",
   "states": [
     {
       "name": "New Jersey",
       "code": "NJ",
-      "topTopic": "learning center",
+      "topTopic": "kamar samuels",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
         {
+          "name": "kamar samuels",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "7h ago",
+          "percentageIncrease": "500%"
+        },
+        {
           "name": "learning center",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "1h ago",
+          "searchVolume": "1K+",
+          "started": "3h ago",
           "trendBreakdown": "carechild",
           "percentageIncrease": "1000%"
         }
