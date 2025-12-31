@@ -1,19 +1,27 @@
 {
-  "timestamp": "2025-12-31T18:04:33.240Z",
+  "timestamp": "2025-12-31T20:04:28.139Z",
   "states": [
     {
       "name": "Wisconsin",
       "code": "WI",
-      "topTopic": "cnn",
+      "topTopic": "diego pavia",
       "category": "Law and Government",
-      "trendingScore": 85,
+      "trendingScore": 100,
       "topics": [
+        {
+          "name": "diego pavia",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "40 minutes ago",
+          "percentageIncrease": "1000%"
+        },
         {
           "name": "cnn",
           "relevanceScore": 85,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "5h ago",
+          "started": "7h ago",
           "percentageIncrease": "50%"
         }
       ]

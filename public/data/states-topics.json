@@ -1,29 +1,45 @@
 {
-  "timestamp": "2025-12-31T18:04:33.240Z",
+  "timestamp": "2025-12-31T20:04:28.139Z",
   "states": [
     {
       "name": "California",
       "code": "CA",
-      "topTopic": "learning center",
+      "topTopic": "diego pavia",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
         {
-          "name": "learning center",
+          "name": "diego pavia",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "2K+",
-          "started": "9h ago",
-          "trendBreakdown": "child",
-          "percentageIncrease": "1000%"
+          "searchVolume": "1K+",
+          "started": "2h ago",
+          "percentageIncrease": "800%"
         },
         {
           "name": "bank",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "10h ago",
+          "started": "12h ago",
+          "percentageIncrease": "700%"
+        },
+        {
+          "name": "learning center",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "2K+",
+          "started": "11h ago",
+          "trendBreakdown": "child",
           "percentageIncrease": "1000%"
+        },
+        {
+          "name": "tina peters",
+          "relevanceScore": 90,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "2h ago",
+          "percentageIncrease": "100%"
         }
       ]
     },
@@ -55,16 +71,24 @@
     {
       "name": "Florida",
       "code": "FL",
-      "topTopic": "learning center",
+      "topTopic": "diego pavia",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
+        {
+          "name": "diego pavia",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "1K+",
+          "started": "3h ago",
+          "percentageIncrease": "1000%"
+        },
         {
           "name": "learning center",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "9h ago",
+          "started": "11h ago",
           "trendBreakdown": "carechild",
           "percentageIncrease": "1000%"
         },
@@ -73,7 +97,7 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "6h ago",
+          "started": "8h ago",
           "percentageIncrease": "300%"
         },
         {
@@ -81,7 +105,7 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "10h ago",
+          "started": "12h ago",
           "percentageIncrease": "200%"
         }
       ]
@@ -89,41 +113,49 @@
     {
       "name": "Georgia",
       "code": "GA",
-      "topTopic": "ryan wedding",
+      "topTopic": "diego pavia",
       "category": "Law and Government",
-      "trendingScore": 95,
+      "trendingScore": 100,
       "topics": [
         {
-          "name": "ryan wedding",
-          "relevanceScore": 95,
+          "name": "diego pavia",
+          "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "22h ago",
-          "percentageIncrease": "400%"
+          "started": "2h ago",
+          "percentageIncrease": "1000%"
         }
       ]
     },
     {
       "name": "Illinois",
       "code": "IL",
-      "topTopic": "alberto prieto",
+      "topTopic": "diego pavia",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
         {
-          "name": "alberto prieto",
+          "name": "diego pavia",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "100+",
+          "searchVolume": "1K+",
           "started": "3h ago",
-          "percentageIncrease": "500%"
+          "percentageIncrease": "1000%"
+        },
+        {
+          "name": "bank",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "12h ago",
+          "percentageIncrease": "1000%"
         },
         {
           "name": "childcare",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "16h ago",
+          "started": "18h ago",
           "trendBreakdown": "child",
           "percentageIncrease": "1000%"
         }
@@ -166,16 +198,24 @@
     {
       "name": "Michigan",
       "code": "MI",
-      "topTopic": "daycare",
+      "topTopic": "diego pavia",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
+        {
+          "name": "diego pavia",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "2h ago",
+          "percentageIncrease": "1000%"
+        },
         {
           "name": "daycare",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "16h ago",
+          "started": "18h ago",
           "trendBreakdown": "carechild",
           "percentageIncrease": "1000%"
         }
@@ -193,7 +233,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "10h ago",
+          "started": "12h ago",
           "percentageIncrease": "1000%"
         },
         {
@@ -201,7 +241,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "16h ago",
+          "started": "18h ago",
           "trendBreakdown": "child",
           "percentageIncrease": "1000%"
         }
@@ -218,8 +258,8 @@
           "name": "kci airport",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "30 minutes ago",
+          "searchVolume": "2K+",
+          "started": "2h ago",
           "trendBreakdown": "mci",
           "percentageIncrease": "1000%"
         },
@@ -228,15 +268,23 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "9h ago",
+          "started": "11h ago",
           "percentageIncrease": "800%"
+        },
+        {
+          "name": "diego pavia",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "1h ago",
+          "percentageIncrease": "400%"
         },
         {
           "name": "jackson county property tax",
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "3h ago",
+          "started": "5h ago",
           "percentageIncrease": "100%"
         }
       ]
@@ -253,7 +301,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "13h ago",
+          "started": "15h ago",
           "percentageIncrease": "500%"
         },
         {
@@ -261,7 +309,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "9h ago",
+          "started": "11h ago",
           "trendBreakdown": "carechild",
           "percentageIncrease": "1000%"
         }
@@ -279,7 +327,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "19h ago",
+          "started": "21h ago",
           "percentageIncrease": "1000%"
         },
         {
@@ -287,7 +335,7 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "30 minutes ago",
+          "started": "2h ago",
           "percentageIncrease": "300%"
         }
       ]
@@ -304,33 +352,33 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "5K+",
-          "started": "17h ago",
+          "started": "19h ago",
           "trendBreakdown": "kamar",
           "percentageIncrease": "1000%"
+        },
+        {
+          "name": "diego pavia",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "2h ago",
+          "percentageIncrease": "600%"
         },
         {
           "name": "willowbrook mall",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "2K+",
-          "started": "17h ago",
+          "started": "19h ago",
           "trendBreakdown": "willowbrook",
           "percentageIncrease": "700%"
         },
         {
-          "name": "saudi arabia uae yemen",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "23h ago",
-          "percentageIncrease": "600%"
-        },
-        {
-          "name": "alberto prieto",
+          "name": "new year",
           "relevanceScore": 95,
           "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "1h ago",
+          "searchVolume": "500+",
+          "started": "8h ago",
           "percentageIncrease": "200%"
         },
         {
@@ -338,7 +386,7 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "14h ago",
+          "started": "16h ago",
           "percentageIncrease": "200%"
         },
         {
@@ -346,32 +394,32 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "20h ago",
+          "started": "22h ago",
           "percentageIncrease": "200%"
-        },
-        {
-          "name": "putin",
-          "relevanceScore": 90,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "4h ago",
-          "percentageIncrease": "100%"
         }
       ]
     },
     {
       "name": "Ohio",
       "code": "OH",
-      "topTopic": "spencer tepe",
+      "topTopic": "diego pavia",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
         {
-          "name": "spencer tepe",
+          "name": "diego pavia",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "16h ago",
+          "started": "2h ago",
+          "percentageIncrease": "1000%"
+        },
+        {
+          "name": "spencer tepe",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "2K+",
+          "started": "18h ago",
           "trendBreakdown": "weinland",
           "percentageIncrease": "600%"
         },
@@ -380,7 +428,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "16h ago",
+          "started": "18h ago",
           "trendBreakdown": "carechild",
           "percentageIncrease": "1000%"
         },
@@ -389,7 +437,7 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "4h ago",
+          "started": "6h ago",
           "percentageIncrease": "200%"
         }
       ]
@@ -406,7 +454,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "16h ago",
+          "started": "18h ago",
           "trendBreakdown": "child",
           "percentageIncrease": "1000%"
         }
@@ -415,51 +463,43 @@
     {
       "name": "Pennsylvania",
       "code": "PA",
-      "topTopic": "south hills village",
+      "topTopic": "diego pavia",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
+        {
+          "name": "diego pavia",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "2h ago",
+          "percentageIncrease": "1000%"
+        },
         {
           "name": "south hills village",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "2K+",
-          "started": "20h ago",
+          "started": "22h ago",
           "trendBreakdown": "south",
           "percentageIncrease": "1000%"
-        },
-        {
-          "name": "donald trump ukraine",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "22h ago",
-          "percentageIncrease": "1000%"
-        },
-        {
-          "name": "post office",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "1h ago",
-          "percentageIncrease": "300%"
         }
       ]
     },
     {
       "name": "South Carolina",
       "code": "SC",
-      "topTopic": "news",
+      "topTopic": "diego pavia",
       "category": "Law and Government",
-      "trendingScore": 85,
+      "trendingScore": 100,
       "topics": [
         {
-          "name": "news",
-          "relevanceScore": 85,
+          "name": "diego pavia",
+          "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "2h ago",
-          "percentageIncrease": "75%"
+          "started": "40 minutes ago",
+          "percentageIncrease": "1000%"
         }
       ]
     },
@@ -483,33 +523,41 @@
     {
       "name": "Texas",
       "code": "TX",
-      "topTopic": "learning center",
+      "topTopic": "diego pavia",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
+        {
+          "name": "diego pavia",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "1K+",
+          "started": "3h ago",
+          "percentageIncrease": "900%"
+        },
+        {
+          "name": "alberto prieto",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "1K+",
+          "started": "6h ago",
+          "percentageIncrease": "500%"
+        },
         {
           "name": "learning center",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "9h ago",
+          "started": "11h ago",
           "trendBreakdown": "carechild",
           "percentageIncrease": "600%"
-        },
-        {
-          "name": "alberto prieto",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "4h ago",
-          "percentageIncrease": "400%"
         },
         {
           "name": "bank",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "9h ago",
+          "started": "11h ago",
           "percentageIncrease": "300%"
         }
       ]
@@ -551,17 +599,17 @@
     {
       "name": "Oklahoma",
       "code": "OK",
-      "topTopic": "iran",
+      "topTopic": "pso",
       "category": "Law and Government",
-      "trendingScore": 95,
+      "trendingScore": 90,
       "topics": [
         {
-          "name": "iran",
-          "relevanceScore": 95,
+          "name": "pso",
+          "relevanceScore": 90,
           "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "18h ago",
-          "percentageIncrease": "300%"
+          "searchVolume": "100+",
+          "started": "4h ago",
+          "percentageIncrease": "100%"
         }
       ]
     },
@@ -603,34 +651,34 @@
     {
       "name": "Alabama",
       "code": "AL",
-      "topTopic": "iran",
+      "topTopic": "diego pavia",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
         {
-          "name": "iran",
+          "name": "diego pavia",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "18h ago",
-          "percentageIncrease": "500%"
+          "searchVolume": "100+",
+          "started": "1h ago",
+          "percentageIncrease": "600%"
         }
       ]
     },
     {
       "name": "Kansas",
       "code": "KS",
-      "topTopic": "mci airport",
+      "topTopic": "kci airport",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
         {
-          "name": "mci airport",
+          "name": "kci airport",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "30 minutes ago",
-          "trendBreakdown": "kci",
+          "searchVolume": "2K+",
+          "started": "2h ago",
+          "trendBreakdown": "mci",
           "percentageIncrease": "1000%"
         }
       ]
@@ -655,42 +703,34 @@
     {
       "name": "Colorado",
       "code": "CO",
-      "topTopic": "iran",
+      "topTopic": "diego pavia",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
         {
-          "name": "iran",
+          "name": "diego pavia",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "20h ago",
-          "percentageIncrease": "500%"
+          "searchVolume": "100+",
+          "started": "40 minutes ago",
+          "percentageIncrease": "1000%"
         }
       ]
     },
     {
       "name": "Iowa",
       "code": "IA",
-      "topTopic": "kwwl",
+      "topTopic": "diego pavia",
       "category": "Law and Government",
-      "trendingScore": 90,
+      "trendingScore": 100,
       "topics": [
         {
-          "name": "kwwl",
-          "relevanceScore": 90,
+          "name": "diego pavia",
+          "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "22h ago",
-          "percentageIncrease": "100%"
-        },
-        {
-          "name": "kimt",
-          "relevanceScore": 90,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "23h ago",
-          "percentageIncrease": "100%"
+          "searchVolume": "1K+",
+          "started": "4h ago",
+          "percentageIncrease": "1000%"
         }
       ]
     },
@@ -723,7 +763,7 @@
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "3h ago",
+          "started": "5h ago",
           "percentageIncrease": "100%"
         }
       ]
@@ -731,17 +771,17 @@
     {
       "name": "Nebraska",
       "code": "NE",
-      "topTopic": "laredo",
+      "topTopic": "diego pavia",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
         {
-          "name": "laredo",
+          "name": "diego pavia",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "23h ago",
-          "percentageIncrease": "800%"
+          "searchVolume": "100+",
+          "started": "30 minutes ago",
+          "percentageIncrease": "1000%"
         }
       ]
     },
@@ -765,16 +805,24 @@
     {
       "name": "Wisconsin",
       "code": "WI",
-      "topTopic": "cnn",
+      "topTopic": "diego pavia",
       "category": "Law and Government",
-      "trendingScore": 85,
+      "trendingScore": 100,
       "topics": [
+        {
+          "name": "diego pavia",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "40 minutes ago",
+          "percentageIncrease": "1000%"
+        },
         {
           "name": "cnn",
           "relevanceScore": 85,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "5h ago",
+          "started": "7h ago",
           "percentageIncrease": "50%"
         }
       ]

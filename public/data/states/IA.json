@@ -1,28 +1,20 @@
 {
-  "timestamp": "2025-12-31T18:04:33.240Z",
+  "timestamp": "2025-12-31T20:04:28.139Z",
   "states": [
     {
       "name": "Iowa",
       "code": "IA",
-      "topTopic": "kwwl",
+      "topTopic": "diego pavia",
       "category": "Law and Government",
-      "trendingScore": 90,
+      "trendingScore": 100,
       "topics": [
         {
-          "name": "kwwl",
-          "relevanceScore": 90,
+          "name": "diego pavia",
+          "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "22h ago",
-          "percentageIncrease": "100%"
-        },
-        {
-          "name": "kimt",
-          "relevanceScore": 90,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "23h ago",
-          "percentageIncrease": "100%"
+          "searchVolume": "1K+",
+          "started": "4h ago",
+          "percentageIncrease": "1000%"
         }
       ]
     }

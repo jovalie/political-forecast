@@ -1,36 +1,44 @@
 {
-  "timestamp": "2025-12-31T18:04:33.240Z",
+  "timestamp": "2025-12-31T20:04:28.139Z",
   "states": [
     {
       "name": "Texas",
       "code": "TX",
-      "topTopic": "learning center",
+      "topTopic": "diego pavia",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
+        {
+          "name": "diego pavia",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "1K+",
+          "started": "3h ago",
+          "percentageIncrease": "900%"
+        },
+        {
+          "name": "alberto prieto",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "1K+",
+          "started": "6h ago",
+          "percentageIncrease": "500%"
+        },
         {
           "name": "learning center",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "9h ago",
+          "started": "11h ago",
           "trendBreakdown": "carechild",
           "percentageIncrease": "600%"
-        },
-        {
-          "name": "alberto prieto",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "4h ago",
-          "percentageIncrease": "400%"
         },
         {
           "name": "bank",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "9h ago",
+          "started": "11h ago",
           "percentageIncrease": "300%"
         }
       ]
