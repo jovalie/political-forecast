@@ -1,20 +1,20 @@
 {
-  "timestamp": "2025-12-31T08:04:38.398Z",
+  "timestamp": "2025-12-31T10:04:44.999Z",
   "states": [
     {
       "name": "Florida",
       "code": "FL",
-      "topTopic": "childcare",
+      "topTopic": "learning center",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
         {
-          "name": "childcare",
+          "name": "learning center",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "6h ago",
-          "trendBreakdown": "child",
+          "searchVolume": "1K+",
+          "started": "1h ago",
+          "trendBreakdown": "carechild",
           "percentageIncrease": "1000%"
         },
         {
@@ -22,7 +22,7 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "40 minutes ago",
+          "started": "2h ago",
           "percentageIncrease": "300%"
         },
         {
@@ -30,7 +30,15 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "19h ago",
+          "started": "21h ago",
+          "percentageIncrease": "200%"
+        },
+        {
+          "name": "benjamin netanyahu",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "10h ago",
           "percentageIncrease": "200%"
         },
         {
@@ -38,7 +46,7 @@
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "21h ago",
+          "started": "23h ago",
           "percentageIncrease": "100%"
         },
         {
@@ -46,7 +54,7 @@
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "21h ago",
+          "started": "23h ago",
           "percentageIncrease": "100%"
         }
       ]

@@ -1,28 +1,36 @@
 {
-  "timestamp": "2025-12-31T08:04:38.398Z",
+  "timestamp": "2025-12-31T10:04:44.999Z",
   "states": [
     {
       "name": "Texas",
       "code": "TX",
-      "topTopic": "daycare",
+      "topTopic": "learning center",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
         {
-          "name": "daycare",
+          "name": "learning center",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "6h ago",
-          "trendBreakdown": "child",
-          "percentageIncrease": "1000%"
+          "started": "1h ago",
+          "trendBreakdown": "carechild",
+          "percentageIncrease": "600%"
+        },
+        {
+          "name": "bank",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "1h ago",
+          "percentageIncrease": "300%"
         },
         {
           "name": "social security administration",
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "18h ago",
+          "started": "20h ago",
           "percentageIncrease": "100%"
         }
       ]
