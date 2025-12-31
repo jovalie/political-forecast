@@ -1,38 +1,28 @@
 {
-  "timestamp": "2025-12-31T16:04:38.837Z",
+  "timestamp": "2025-12-31T18:04:33.240Z",
   "states": [
     {
       "name": "North Carolina",
       "code": "NC",
-      "topTopic": "alec chambers wilmington nc",
+      "topTopic": "sycamore brewing charlotte",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
-        {
-          "name": "alec chambers wilmington nc",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "2K+",
-          "started": "23h ago",
-          "trendBreakdown": "alec",
-          "percentageIncrease": "900%"
-        },
         {
           "name": "sycamore brewing charlotte",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "17h ago",
+          "started": "19h ago",
           "percentageIncrease": "1000%"
         },
         {
-          "name": "biltmore winery fire",
-          "relevanceScore": 100,
+          "name": "post office",
+          "relevanceScore": 95,
           "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "22h ago",
-          "trendBreakdown": "firebiltmore",
-          "percentageIncrease": "1000%"
+          "searchVolume": "100+",
+          "started": "30 minutes ago",
+          "percentageIncrease": "300%"
         }
       ]
     }

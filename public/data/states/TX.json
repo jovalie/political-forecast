@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-12-31T16:04:38.837Z",
+  "timestamp": "2025-12-31T18:04:33.240Z",
   "states": [
     {
       "name": "Texas",
@@ -13,16 +13,24 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "7h ago",
+          "started": "9h ago",
           "trendBreakdown": "carechild",
           "percentageIncrease": "600%"
+        },
+        {
+          "name": "alberto prieto",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "4h ago",
+          "percentageIncrease": "400%"
         },
         {
           "name": "bank",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "7h ago",
+          "started": "9h ago",
           "percentageIncrease": "300%"
         }
       ]
