@@ -1,29 +1,21 @@
 {
-  "timestamp": "2025-12-31T12:04:42.648Z",
+  "timestamp": "2025-12-31T14:04:47.984Z",
   "states": [
     {
       "name": "Wisconsin",
       "code": "WI",
-      "topTopic": "ryan wedding",
+      "topTopic": "minnesota fraud",
       "category": "Law and Government",
-      "trendingScore": 95,
+      "trendingScore": 90,
       "topics": [
         {
-          "name": "ryan wedding",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "22h ago",
-          "percentageIncrease": "400%"
-        },
-        {
           "name": "minnesota fraud",
-          "relevanceScore": 95,
+          "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "23h ago",
+          "started": "50 minutes ago",
           "trendBreakdown": "tim",
-          "percentageIncrease": "200%"
+          "percentageIncrease": "100%"
         }
       ]
     }

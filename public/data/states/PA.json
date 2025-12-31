@@ -1,28 +1,28 @@
 {
-  "timestamp": "2025-12-31T12:04:42.648Z",
+  "timestamp": "2025-12-31T14:04:47.984Z",
   "states": [
     {
       "name": "Pennsylvania",
       "code": "PA",
-      "topTopic": "south hills village mall",
+      "topTopic": "south hills village",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
         {
-          "name": "south hills village mall",
+          "name": "south hills village",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "2K+",
-          "started": "14h ago",
+          "started": "16h ago",
           "trendBreakdown": "south",
-          "percentageIncrease": "800%"
+          "percentageIncrease": "1000%"
         },
         {
           "name": "donald trump ukraine",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "16h ago",
+          "started": "18h ago",
           "percentageIncrease": "1000%"
         }
       ]
