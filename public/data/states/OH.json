@@ -1,29 +1,29 @@
 {
-  "timestamp": "2025-12-31T06:04:34.870Z",
+  "timestamp": "2025-12-31T08:04:38.398Z",
   "states": [
     {
       "name": "Ohio",
       "code": "OH",
-      "topTopic": "daycare",
+      "topTopic": "ryan wedding",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
-        {
-          "name": "daycare",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "4h ago",
-          "trendBreakdown": "carechild",
-          "percentageIncrease": "1000%"
-        },
         {
           "name": "ryan wedding",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "18h ago",
+          "started": "20h ago",
           "percentageIncrease": "500%"
+        },
+        {
+          "name": "daycare",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "6h ago",
+          "trendBreakdown": "carechild",
+          "percentageIncrease": "1000%"
         }
       ]
     }
