@@ -1,19 +1,28 @@
 {
-  "timestamp": "2025-12-31T00:05:02.179Z",
+  "timestamp": "2025-12-31T02:37:36.276Z",
   "states": [
     {
       "name": "Michigan",
       "code": "MI",
-      "topTopic": "ryan wedding",
+      "topTopic": "daycare",
       "category": "Law and Government",
-      "trendingScore": 95,
+      "trendingScore": 100,
       "topics": [
+        {
+          "name": "daycare",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "50 minutes ago",
+          "trendBreakdown": "carechild",
+          "percentageIncrease": "1000%"
+        },
         {
           "name": "ryan wedding",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "11h ago",
+          "started": "14h ago",
           "percentageIncrease": "300%"
         }
       ]

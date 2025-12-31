@@ -1,28 +1,28 @@
 {
-  "timestamp": "2025-12-31T00:05:02.179Z",
+  "timestamp": "2025-12-31T02:37:36.276Z",
   "states": [
     {
       "name": "Minnesota",
       "code": "MN",
-      "topTopic": "ryan wedding",
+      "topTopic": "aimee bock",
       "category": "Law and Government",
       "trendingScore": 95,
       "topics": [
+        {
+          "name": "aimee bock",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "2h ago",
+          "percentageIncrease": "200%"
+        },
         {
           "name": "ryan wedding",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "10h ago",
+          "started": "12h ago",
           "percentageIncrease": "200%"
-        },
-        {
-          "name": "quality learning center",
-          "relevanceScore": 90,
-          "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "23h ago",
-          "percentageIncrease": "100%"
         }
       ]
     }

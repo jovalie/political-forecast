@@ -1,19 +1,19 @@
 {
-  "timestamp": "2025-12-31T00:05:02.179Z",
+  "timestamp": "2025-12-31T02:37:36.276Z",
   "states": [
     {
       "name": "Louisiana",
       "code": "LA",
-      "topTopic": "bibi",
+      "topTopic": "act",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
         {
-          "name": "bibi",
+          "name": "act",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "12h ago",
+          "searchVolume": "100+",
+          "started": "9h ago",
           "percentageIncrease": "1000%"
         }
       ]

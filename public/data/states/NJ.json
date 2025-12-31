@@ -1,20 +1,30 @@
 {
-  "timestamp": "2025-12-31T00:05:02.179Z",
+  "timestamp": "2025-12-31T02:37:36.276Z",
   "states": [
     {
       "name": "New Jersey",
       "code": "NJ",
-      "topTopic": "somali daycare minnesota",
+      "topTopic": "willowbrook mall",
       "category": "Law and Government",
-      "trendingScore": 95,
+      "trendingScore": 100,
       "topics": [
         {
-          "name": "somali daycare minnesota",
-          "relevanceScore": 95,
+          "name": "willowbrook mall",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "10K+",
+          "started": "2h ago",
+          "trendBreakdown": "willowbrook",
+          "percentageIncrease": "1000%"
+        },
+        {
+          "name": "daycare",
+          "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "21h ago",
-          "percentageIncrease": "200%"
+          "started": "1h ago",
+          "trendBreakdown": "child",
+          "percentageIncrease": "1000%"
         }
       ]
     }

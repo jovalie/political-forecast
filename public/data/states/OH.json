@@ -1,43 +1,36 @@
 {
-  "timestamp": "2025-12-31T00:05:02.179Z",
+  "timestamp": "2025-12-31T02:37:36.276Z",
   "states": [
     {
       "name": "Ohio",
       "code": "OH",
-      "topTopic": "ryan wedding",
+      "topTopic": "daycare",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
+        {
+          "name": "daycare",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "1h ago",
+          "trendBreakdown": "carechild",
+          "percentageIncrease": "1000%"
+        },
         {
           "name": "ryan wedding",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "12h ago",
+          "started": "15h ago",
           "percentageIncrease": "500%"
-        },
-        {
-          "name": "tony mccollister",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "13h ago",
-          "percentageIncrease": "300%"
         },
         {
           "name": "melissa hortman",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "20h ago",
-          "percentageIncrease": "200%"
-        },
-        {
-          "name": "did iran declare war on the us",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "23h ago",
+          "started": "22h ago",
           "percentageIncrease": "200%"
         }
       ]

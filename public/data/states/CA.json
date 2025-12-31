@@ -1,38 +1,46 @@
 {
-  "timestamp": "2025-12-31T00:05:02.179Z",
+  "timestamp": "2025-12-31T02:37:36.276Z",
   "states": [
     {
       "name": "California",
       "code": "CA",
-      "topTopic": "ryan wedding",
+      "topTopic": "child care",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
         {
-          "name": "ryan wedding",
+          "name": "child care",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "5K+",
-          "started": "21h ago",
-          "trendBreakdown": "ryan",
-          "percentageIncrease": "500%"
-        },
-        {
-          "name": "tony mccollister",
-          "relevanceScore": 95,
-          "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "22h ago",
-          "percentageIncrease": "200%"
+          "started": "1h ago",
+          "trendBreakdown": "daycare",
+          "percentageIncrease": "900%"
         },
         {
           "name": "alberto prieto",
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "2K+",
-          "started": "11h ago",
+          "started": "13h ago",
           "trendBreakdown": "alberto",
           "percentageIncrease": "100%"
+        },
+        {
+          "name": "covered california",
+          "relevanceScore": 85,
+          "category": "Law and Government",
+          "searchVolume": "2K+",
+          "started": "7h ago",
+          "percentageIncrease": "50%"
+        },
+        {
+          "name": "nbc news",
+          "relevanceScore": 85,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "11h ago",
+          "percentageIncrease": "50%"
         }
       ]
     }

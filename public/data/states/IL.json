@@ -1,27 +1,52 @@
 {
-  "timestamp": "2025-12-31T00:05:02.179Z",
+  "timestamp": "2025-12-31T02:37:36.276Z",
   "states": [
     {
       "name": "Illinois",
       "code": "IL",
-      "topTopic": "ryan wedding",
+      "topTopic": "childcare",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
+        {
+          "name": "childcare",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "1h ago",
+          "trendBreakdown": "child",
+          "percentageIncrease": "1000%"
+        },
         {
           "name": "ryan wedding",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "17h ago",
-          "percentageIncrease": "600%"
+          "started": "20h ago",
+          "percentageIncrease": "500%"
+        },
+        {
+          "name": "illinois",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "40 minutes ago",
+          "percentageIncrease": "200%"
+        },
+        {
+          "name": "illinois department of transportation",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "12h ago",
+          "percentageIncrease": "200%"
         },
         {
           "name": "dmv",
           "relevanceScore": 85,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "11h ago",
+          "started": "13h ago",
           "percentageIncrease": "50%"
         }
       ]

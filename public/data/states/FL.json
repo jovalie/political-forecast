@@ -1,60 +1,53 @@
 {
-  "timestamp": "2025-12-31T00:05:02.179Z",
+  "timestamp": "2025-12-31T02:37:36.276Z",
   "states": [
     {
       "name": "Florida",
       "code": "FL",
-      "topTopic": "ryan wedding",
+      "topTopic": "willowbrook mall",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
         {
-          "name": "ryan wedding",
+          "name": "willowbrook mall",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "2K+",
-          "started": "21h ago",
-          "trendBreakdown": "ryan",
+          "searchVolume": "100+",
+          "started": "50 minutes ago",
           "percentageIncrease": "500%"
         },
         {
-          "name": "is new year's eve a federal",
-          "relevanceScore": 95,
+          "name": "childcare",
+          "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "11h ago",
-          "percentageIncrease": "200%"
+          "searchVolume": "500+",
+          "started": "1h ago",
+          "trendBreakdown": "child",
+          "percentageIncrease": "1000%"
         },
         {
-          "name": "did iran declare war on the us",
+          "name": "ryan wedding",
           "relevanceScore": 95,
           "category": "Law and Government",
-          "searchVolume": "100+",
+          "searchVolume": "2K+",
           "started": "23h ago",
-          "percentageIncrease": "200%"
+          "trendBreakdown": "ryan",
+          "percentageIncrease": "400%"
         },
         {
           "name": "mccollister",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "21h ago",
-          "percentageIncrease": "300%"
-        },
-        {
-          "name": "silver alert",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "100+",
           "started": "23h ago",
-          "percentageIncrease": "400%"
+          "percentageIncrease": "300%"
         },
         {
           "name": "melissa hortman",
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "13h ago",
+          "started": "15h ago",
           "percentageIncrease": "100%"
         },
         {
@@ -62,7 +55,7 @@
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "13h ago",
+          "started": "15h ago",
           "percentageIncrease": "100%"
         }
       ]
