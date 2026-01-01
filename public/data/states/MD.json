@@ -1,27 +1,19 @@
 {
-  "timestamp": "2026-01-01T20:04:43.082Z",
+  "timestamp": "2026-01-01T22:04:29.925Z",
   "states": [
     {
       "name": "Maryland",
       "code": "MD",
-      "topTopic": "chief justice john roberts",
+      "topTopic": "abc",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
-        {
-          "name": "chief justice john roberts",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "30 minutes ago",
-          "percentageIncrease": "1000%"
-        },
         {
           "name": "abc",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "18h ago",
+          "started": "20h ago",
           "percentageIncrease": "500%"
         }
       ]

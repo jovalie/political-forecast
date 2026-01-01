@@ -1,19 +1,19 @@
 {
-  "timestamp": "2026-01-01T20:04:43.082Z",
+  "timestamp": "2026-01-01T22:04:29.925Z",
   "states": [
     {
       "name": "Massachusetts",
       "code": "MA",
-      "topTopic": "chief justice john roberts",
+      "topTopic": "super flu",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
         {
-          "name": "chief justice john roberts",
+          "name": "super flu",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "40 minutes ago",
+          "started": "1h ago",
           "percentageIncrease": "1000%"
         },
         {
@@ -21,7 +21,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "19h ago",
+          "started": "21h ago",
           "percentageIncrease": "700%"
         },
         {
@@ -29,7 +29,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "21h ago",
+          "started": "23h ago",
           "percentageIncrease": "800%"
         }
       ]

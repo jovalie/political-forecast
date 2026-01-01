@@ -1,19 +1,20 @@
 {
-  "timestamp": "2026-01-01T20:04:43.082Z",
+  "timestamp": "2026-01-01T22:04:29.925Z",
   "states": [
     {
       "name": "Illinois",
       "code": "IL",
-      "topTopic": "abc",
+      "topTopic": "abc chicago",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
         {
-          "name": "abc",
+          "name": "abc chicago",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "14h ago",
+          "searchVolume": "500+",
+          "started": "17h ago",
+          "trendBreakdown": "abc",
           "percentageIncrease": "1000%"
         },
         {
@@ -21,16 +22,16 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "7h ago",
+          "started": "9h ago",
           "trendBreakdown": "new",
           "percentageIncrease": "300%"
         },
         {
-          "name": "abc news chicago",
+          "name": "mall",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "14h ago",
+          "started": "3h ago",
           "percentageIncrease": "300%"
         },
         {
@@ -38,7 +39,7 @@
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "14h ago",
+          "started": "16h ago",
           "percentageIncrease": "100%"
         }
       ]
