@@ -1,27 +1,19 @@
 {
-  "timestamp": "2026-01-01T16:04:42.562Z",
+  "timestamp": "2026-01-01T18:04:56.238Z",
   "states": [
     {
       "name": "North Carolina",
       "code": "NC",
-      "topTopic": "post office",
+      "topTopic": "fox news",
       "category": "Law and Government",
-      "trendingScore": 95,
+      "trendingScore": 85,
       "topics": [
-        {
-          "name": "post office",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "22h ago",
-          "percentageIncrease": "300%"
-        },
         {
           "name": "fox news",
           "relevanceScore": 85,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "3h ago",
+          "started": "5h ago",
           "percentageIncrease": "50%"
         }
       ]

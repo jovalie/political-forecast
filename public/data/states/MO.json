@@ -1,20 +1,20 @@
 {
-  "timestamp": "2026-01-01T16:04:42.562Z",
+  "timestamp": "2026-01-01T18:04:56.238Z",
   "states": [
     {
       "name": "Missouri",
       "code": "MO",
-      "topTopic": "kci airport",
+      "topTopic": "mci lockdown",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
         {
-          "name": "kci airport",
+          "name": "mci lockdown",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "5K+",
-          "started": "22h ago",
-          "trendBreakdown": "kansas",
+          "searchVolume": "500+",
+          "started": "23h ago",
+          "trendBreakdown": "airportkc",
           "percentageIncrease": "1000%"
         }
       ]

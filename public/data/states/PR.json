@@ -1,27 +1,27 @@
 {
-  "timestamp": "2026-01-01T16:04:42.562Z",
+  "timestamp": "2026-01-01T18:04:56.238Z",
   "states": [
     {
       "name": "Puerto Rico",
       "code": "PR",
-      "topTopic": "telemundo en vivo",
+      "topTopic": "aibonito",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
         {
-          "name": "telemundo en vivo",
+          "name": "aibonito",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "14h ago",
-          "percentageIncrease": "1000%"
+          "searchVolume": "100+",
+          "started": "2h ago",
+          "percentageIncrease": "600%"
         },
         {
           "name": "primera hora",
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "10h ago",
+          "started": "12h ago",
           "percentageIncrease": "100%"
         }
       ]

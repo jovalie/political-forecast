@@ -1,21 +1,20 @@
 {
-  "timestamp": "2026-01-01T16:04:42.562Z",
+  "timestamp": "2026-01-01T18:04:56.238Z",
   "states": [
     {
       "name": "Georgia",
       "code": "GA",
-      "topTopic": "videos",
+      "topTopic": "learning center",
       "category": "Law and Government",
-      "trendingScore": 90,
+      "trendingScore": 95,
       "topics": [
         {
-          "name": "videos",
-          "relevanceScore": 90,
+          "name": "learning center",
+          "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "6h ago",
-          "trendBreakdown": "learning",
-          "percentageIncrease": "100%"
+          "started": "12h ago",
+          "percentageIncrease": "400%"
         }
       ]
     }
