@@ -1,20 +1,20 @@
 {
-  "timestamp": "2026-01-01T08:04:38.863Z",
+  "timestamp": "2026-01-01T10:04:39.815Z",
   "states": [
     {
       "name": "Maryland",
       "code": "MD",
-      "topTopic": "ryan wedding",
+      "topTopic": "puerto rico",
       "category": "Law and Government",
-      "trendingScore": 95,
+      "trendingScore": 100,
       "topics": [
         {
-          "name": "ryan wedding",
-          "relevanceScore": 95,
+          "name": "puerto rico",
+          "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "23h ago",
-          "percentageIncrease": "300%"
+          "started": "6h ago",
+          "percentageIncrease": "1000%"
         }
       ]
     }

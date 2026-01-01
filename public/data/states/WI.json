@@ -1,28 +1,20 @@
 {
-  "timestamp": "2026-01-01T08:04:38.863Z",
+  "timestamp": "2026-01-01T10:04:39.815Z",
   "states": [
     {
       "name": "Wisconsin",
       "code": "WI",
-      "topTopic": "diego pavia",
+      "topTopic": "puerto rico",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
         {
-          "name": "diego pavia",
+          "name": "puerto rico",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "40 minutes ago",
+          "started": "6h ago",
           "percentageIncrease": "1000%"
-        },
-        {
-          "name": "cnn",
-          "relevanceScore": 85,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "7h ago",
-          "percentageIncrease": "50%"
         }
       ]
     }

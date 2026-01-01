@@ -1,21 +1,20 @@
 {
-  "timestamp": "2026-01-01T08:04:38.863Z",
+  "timestamp": "2026-01-01T10:04:39.815Z",
   "states": [
     {
       "name": "Washington",
       "code": "WA",
-      "topTopic": "somali daycare",
+      "topTopic": "puerto rico",
       "category": "Law and Government",
-      "trendingScore": 95,
+      "trendingScore": 100,
       "topics": [
         {
-          "name": "somali daycare",
-          "relevanceScore": 95,
+          "name": "puerto rico",
+          "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "19h ago",
-          "trendBreakdown": "child",
-          "percentageIncrease": "400%"
+          "searchVolume": "100+",
+          "started": "3h ago",
+          "percentageIncrease": "900%"
         }
       ]
     }

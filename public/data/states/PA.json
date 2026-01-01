@@ -1,19 +1,27 @@
 {
-  "timestamp": "2026-01-01T08:04:38.863Z",
+  "timestamp": "2026-01-01T10:04:39.815Z",
   "states": [
     {
       "name": "Pennsylvania",
       "code": "PA",
-      "topTopic": "kansas city international airport",
+      "topTopic": "puerto rico",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
+        {
+          "name": "puerto rico",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "6h ago",
+          "percentageIncrease": "1000%"
+        },
         {
           "name": "kansas city international airport",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "10h ago",
+          "started": "12h ago",
           "trendBreakdown": "kansas",
           "percentageIncrease": "1000%"
         }

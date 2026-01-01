@@ -1,27 +1,27 @@
 {
-  "timestamp": "2026-01-01T08:04:38.863Z",
+  "timestamp": "2026-01-01T10:04:39.815Z",
   "states": [
     {
       "name": "California",
       "code": "CA",
-      "topTopic": "learning center",
+      "topTopic": "kron",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
         {
-          "name": "learning center",
+          "name": "kron",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "1K+",
+          "searchVolume": "500+",
           "started": "2h ago",
-          "percentageIncrease": "1000%"
+          "percentageIncrease": "600%"
         },
         {
-          "name": "jack smith",
+          "name": "post office",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "10h ago",
+          "started": "13h ago",
           "percentageIncrease": "200%"
         },
         {
@@ -29,15 +29,7 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "1h ago",
-          "percentageIncrease": "200%"
-        },
-        {
-          "name": "post office",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "11h ago",
+          "started": "3h ago",
           "percentageIncrease": "200%"
         },
         {
@@ -45,7 +37,42 @@
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "500+",
+          "started": "6h ago",
+          "percentageIncrease": "100%"
+        },
+        {
+          "name": "new laws in california",
+          "relevanceScore": 90,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "8h ago",
+          "trendBreakdown": "new",
+          "percentageIncrease": "100%"
+        },
+        {
+          "name": "chicago",
+          "relevanceScore": 90,
+          "category": "Law and Government",
+          "searchVolume": "500+",
           "started": "4h ago",
+          "trendBreakdown": "timela",
+          "percentageIncrease": "100%"
+        },
+        {
+          "name": "news",
+          "relevanceScore": 90,
+          "category": "Law and Government",
+          "searchVolume": "2K+",
+          "started": "1h ago",
+          "trendBreakdown": "jack",
+          "percentageIncrease": "100%"
+        },
+        {
+          "name": "fireworks los angeles",
+          "relevanceScore": 90,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "2h ago",
           "percentageIncrease": "100%"
         },
         {
@@ -53,7 +80,7 @@
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "9h ago",
+          "started": "11h ago",
           "percentageIncrease": "100%"
         },
         {
@@ -61,15 +88,7 @@
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "13h ago",
-          "percentageIncrease": "100%"
-        },
-        {
-          "name": "tina peters",
-          "relevanceScore": 90,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "14h ago",
+          "started": "15h ago",
           "percentageIncrease": "100%"
         }
       ]
