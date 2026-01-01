@@ -1,21 +1,37 @@
 {
-  "timestamp": "2026-01-01T10:04:39.815Z",
+  "timestamp": "2026-01-01T12:04:53.001Z",
   "states": [
     {
       "name": "New Jersey",
       "code": "NJ",
-      "topTopic": "kansas city international airport",
+      "topTopic": "abc",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
+        {
+          "name": "abc",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "1K+",
+          "started": "11h ago",
+          "percentageIncrease": "1000%"
+        },
         {
           "name": "kansas city international airport",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "11h ago",
+          "started": "13h ago",
           "trendBreakdown": "kansas",
           "percentageIncrease": "800%"
+        },
+        {
+          "name": "learning center",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "6h ago",
+          "percentageIncrease": "1000%"
         }
       ]
     }

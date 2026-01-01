@@ -1,19 +1,27 @@
 {
-  "timestamp": "2026-01-01T10:04:39.815Z",
+  "timestamp": "2026-01-01T12:04:53.001Z",
   "states": [
     {
       "name": "Maryland",
       "code": "MD",
-      "topTopic": "puerto rico",
+      "topTopic": "abc",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
+        {
+          "name": "abc",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "10h ago",
+          "percentageIncrease": "500%"
+        },
         {
           "name": "puerto rico",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "6h ago",
+          "started": "8h ago",
           "percentageIncrease": "1000%"
         }
       ]

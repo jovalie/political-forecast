@@ -1,20 +1,20 @@
 {
-  "timestamp": "2026-01-01T10:04:39.815Z",
+  "timestamp": "2026-01-01T12:04:53.001Z",
   "states": [
     {
       "name": "Colorado",
       "code": "CO",
-      "topTopic": "diego pavia",
+      "topTopic": "abc",
       "category": "Law and Government",
-      "trendingScore": 100,
+      "trendingScore": 95,
       "topics": [
         {
-          "name": "diego pavia",
-          "relevanceScore": 100,
+          "name": "abc",
+          "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "40 minutes ago",
-          "percentageIncrease": "1000%"
+          "started": "7h ago",
+          "percentageIncrease": "400%"
         }
       ]
     }
