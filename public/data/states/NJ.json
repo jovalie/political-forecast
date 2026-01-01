@@ -1,21 +1,30 @@
 {
-  "timestamp": "2026-01-01T00:05:00.888Z",
+  "timestamp": "2026-01-01T02:46:33.413Z",
   "states": [
     {
       "name": "New Jersey",
       "code": "NJ",
-      "topTopic": "learning center",
+      "topTopic": "kansas city international airport",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
         {
-          "name": "learning center",
+          "name": "kansas city international airport",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "15h ago",
-          "trendBreakdown": "carechild",
-          "percentageIncrease": "1000%"
+          "searchVolume": "500+",
+          "started": "4h ago",
+          "trendBreakdown": "kansas",
+          "percentageIncrease": "800%"
+        },
+        {
+          "name": "willowbrook mall shots fired",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "12h ago",
+          "trendBreakdown": "willowbrook",
+          "percentageIncrease": "600%"
         }
       ]
     }

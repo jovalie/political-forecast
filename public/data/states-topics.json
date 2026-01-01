@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-01-01T00:05:00.888Z",
+  "timestamp": "2026-01-01T02:46:33.413Z",
   "states": [
     {
       "name": "California",
@@ -13,40 +13,55 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "16h ago",
+          "started": "18h ago",
           "percentageIncrease": "700%"
         },
         {
           "name": "learning center",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "2K+",
-          "started": "15h ago",
-          "trendBreakdown": "child",
+          "searchVolume": "500+",
+          "started": "18h ago",
           "percentageIncrease": "1000%"
         },
         {
-          "name": "kansas city international airport",
+          "name": "jack smith",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "4h ago",
+          "percentageIncrease": "200%"
+        },
+        {
+          "name": "time in new york",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
           "started": "1h ago",
-          "percentageIncrease": "300%"
+          "percentageIncrease": "200%"
         },
         {
           "name": "post office",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "3h ago",
+          "started": "6h ago",
           "percentageIncrease": "200%"
         },
         {
           "name": "outback steakhouse",
           "relevanceScore": 90,
           "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "3h ago",
+          "percentageIncrease": "100%"
+        },
+        {
+          "name": "audrey hale",
+          "relevanceScore": 90,
+          "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "1h ago",
+          "started": "7h ago",
           "percentageIncrease": "100%"
         },
         {
@@ -54,7 +69,7 @@
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "6h ago",
+          "started": "9h ago",
           "percentageIncrease": "100%"
         },
         {
@@ -62,7 +77,7 @@
           "relevanceScore": 85,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "7h ago",
+          "started": "9h ago",
           "percentageIncrease": "75%"
         }
       ]
@@ -95,25 +110,16 @@
     {
       "name": "Florida",
       "code": "FL",
-      "topTopic": "learning center",
+      "topTopic": "alberto prieto",
       "category": "Law and Government",
-      "trendingScore": 100,
+      "trendingScore": 95,
       "topics": [
-        {
-          "name": "learning center",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "15h ago",
-          "trendBreakdown": "carechild",
-          "percentageIncrease": "1000%"
-        },
         {
           "name": "alberto prieto",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "12h ago",
+          "started": "14h ago",
           "percentageIncrease": "300%"
         },
         {
@@ -121,7 +127,7 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "16h ago",
+          "started": "19h ago",
           "percentageIncrease": "200%"
         },
         {
@@ -129,7 +135,7 @@
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "1h ago",
+          "started": "4h ago",
           "percentageIncrease": "100%"
         }
       ]
@@ -163,25 +169,8 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "16h ago",
+          "started": "18h ago",
           "percentageIncrease": "1000%"
-        },
-        {
-          "name": "childcare",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "22h ago",
-          "trendBreakdown": "child",
-          "percentageIncrease": "1000%"
-        },
-        {
-          "name": "outback steakhouse",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "50 minutes ago",
-          "percentageIncrease": "200%"
         }
       ]
     },
@@ -249,24 +238,15 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "1h ago",
-          "percentageIncrease": "1000%"
+          "started": "3h ago",
+          "percentageIncrease": "800%"
         },
         {
           "name": "bank",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "16h ago",
-          "percentageIncrease": "1000%"
-        },
-        {
-          "name": "childcare",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "22h ago",
-          "trendBreakdown": "child",
+          "started": "18h ago",
           "percentageIncrease": "1000%"
         }
       ]
@@ -283,7 +263,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "5K+",
-          "started": "6h ago",
+          "started": "9h ago",
           "trendBreakdown": "mci",
           "percentageIncrease": "1000%"
         },
@@ -292,7 +272,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "15h ago",
+          "started": "17h ago",
           "percentageIncrease": "800%"
         },
         {
@@ -300,7 +280,7 @@
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "9h ago",
+          "started": "12h ago",
           "percentageIncrease": "100%"
         }
       ]
@@ -308,18 +288,27 @@
     {
       "name": "New Jersey",
       "code": "NJ",
-      "topTopic": "learning center",
+      "topTopic": "kansas city international airport",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
         {
-          "name": "learning center",
+          "name": "kansas city international airport",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "15h ago",
-          "trendBreakdown": "carechild",
-          "percentageIncrease": "1000%"
+          "searchVolume": "500+",
+          "started": "4h ago",
+          "trendBreakdown": "kansas",
+          "percentageIncrease": "800%"
+        },
+        {
+          "name": "willowbrook mall shots fired",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "12h ago",
+          "trendBreakdown": "willowbrook",
+          "percentageIncrease": "600%"
         }
       ]
     },
@@ -335,7 +324,7 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "6h ago",
+          "started": "9h ago",
           "percentageIncrease": "300%"
         }
       ]
@@ -343,35 +332,17 @@
     {
       "name": "New York",
       "code": "NY",
-      "topTopic": "kamar samuels",
+      "topTopic": "kansas city international airport",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
-        {
-          "name": "kamar samuels",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "5K+",
-          "started": "23h ago",
-          "trendBreakdown": "kamar",
-          "percentageIncrease": "1000%"
-        },
         {
           "name": "kansas city international airport",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "2h ago",
+          "started": "5h ago",
           "trendBreakdown": "kansas",
-          "percentageIncrease": "800%"
-        },
-        {
-          "name": "willowbrook mall",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "2K+",
-          "started": "23h ago",
-          "trendBreakdown": "willowbrook",
           "percentageIncrease": "700%"
         },
         {
@@ -379,31 +350,15 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "20h ago",
+          "started": "23h ago",
           "percentageIncrease": "200%"
-        },
-        {
-          "name": "jack smith",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "1h ago",
-          "percentageIncrease": "300%"
         },
         {
           "name": "outback steakhouse",
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "2h ago",
-          "percentageIncrease": "100%"
-        },
-        {
-          "name": "putin",
-          "relevanceScore": 90,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "10h ago",
+          "started": "5h ago",
           "percentageIncrease": "100%"
         }
       ]
@@ -411,34 +366,24 @@
     {
       "name": "Ohio",
       "code": "OH",
-      "topTopic": "spencer tepe",
+      "topTopic": "ohio minimum wage",
       "category": "Law and Government",
-      "trendingScore": 100,
+      "trendingScore": 95,
       "topics": [
-        {
-          "name": "spencer tepe",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "2K+",
-          "started": "22h ago",
-          "trendBreakdown": "weinland",
-          "percentageIncrease": "600%"
-        },
-        {
-          "name": "daycare",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "22h ago",
-          "trendBreakdown": "carechild",
-          "percentageIncrease": "1000%"
-        },
         {
           "name": "ohio minimum wage",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "10h ago",
+          "started": "13h ago",
+          "percentageIncrease": "300%"
+        },
+        {
+          "name": "weinland park",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "2h ago",
           "percentageIncrease": "200%"
         }
       ]
@@ -446,18 +391,17 @@
     {
       "name": "Oregon",
       "code": "OR",
-      "topTopic": "daycare",
+      "topTopic": "news",
       "category": "Law and Government",
-      "trendingScore": 100,
+      "trendingScore": 85,
       "topics": [
         {
-          "name": "daycare",
-          "relevanceScore": 100,
+          "name": "news",
+          "relevanceScore": 85,
           "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "22h ago",
-          "trendBreakdown": "child",
-          "percentageIncrease": "1000%"
+          "searchVolume": "100+",
+          "started": "12h ago",
+          "percentageIncrease": "50%"
         }
       ]
     },
@@ -473,7 +417,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "2h ago",
+          "started": "5h ago",
           "trendBreakdown": "kansas",
           "percentageIncrease": "1000%"
         }
@@ -482,17 +426,17 @@
     {
       "name": "South Carolina",
       "code": "SC",
-      "topTopic": "diego pavia",
+      "topTopic": "news",
       "category": "Law and Government",
-      "trendingScore": 100,
+      "trendingScore": 85,
       "topics": [
         {
-          "name": "diego pavia",
-          "relevanceScore": 100,
+          "name": "news",
+          "relevanceScore": 85,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "40 minutes ago",
-          "percentageIncrease": "1000%"
+          "started": "15h ago",
+          "percentageIncrease": "75%"
         }
       ]
     },
@@ -516,50 +460,49 @@
     {
       "name": "Texas",
       "code": "TX",
-      "topTopic": "learning center",
+      "topTopic": "ut",
       "category": "Law and Government",
-      "trendingScore": 100,
+      "trendingScore": 95,
       "topics": [
         {
-          "name": "learning center",
-          "relevanceScore": 100,
+          "name": "ut",
+          "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "15h ago",
-          "trendBreakdown": "carechild",
-          "percentageIncrease": "600%"
+          "started": "6h ago",
+          "percentageIncrease": "400%"
         },
         {
           "name": "alberto prieto",
           "relevanceScore": 95,
           "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "10h ago",
+          "searchVolume": "2K+",
+          "started": "13h ago",
           "percentageIncrease": "400%"
         },
         {
-          "name": "ut",
+          "name": "kansas city international airport",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "3h ago",
-          "percentageIncrease": "400%"
+          "started": "5h ago",
+          "percentageIncrease": "300%"
         },
         {
           "name": "bank",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "15h ago",
+          "started": "18h ago",
           "percentageIncrease": "300%"
         },
         {
-          "name": "outback steakhouse",
-          "relevanceScore": 85,
+          "name": "new york",
+          "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "50 minutes ago",
-          "percentageIncrease": "75%"
+          "started": "20 minutes ago",
+          "percentageIncrease": "100%"
         }
       ]
     },
@@ -592,8 +535,8 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "40 minutes ago",
-          "percentageIncrease": "1000%"
+          "started": "3h ago",
+          "percentageIncrease": "700%"
         }
       ]
     },
@@ -609,7 +552,7 @@
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "8h ago",
+          "started": "11h ago",
           "percentageIncrease": "100%"
         }
       ]
@@ -678,7 +621,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "2K+",
-          "started": "6h ago",
+          "started": "9h ago",
           "trendBreakdown": "mci",
           "percentageIncrease": "1000%"
         }
@@ -764,7 +707,7 @@
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "9h ago",
+          "started": "12h ago",
           "percentageIncrease": "100%"
         }
       ]

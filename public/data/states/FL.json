@@ -1,28 +1,19 @@
 {
-  "timestamp": "2026-01-01T00:05:00.888Z",
+  "timestamp": "2026-01-01T02:46:33.413Z",
   "states": [
     {
       "name": "Florida",
       "code": "FL",
-      "topTopic": "learning center",
+      "topTopic": "alberto prieto",
       "category": "Law and Government",
-      "trendingScore": 100,
+      "trendingScore": 95,
       "topics": [
-        {
-          "name": "learning center",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "15h ago",
-          "trendBreakdown": "carechild",
-          "percentageIncrease": "1000%"
-        },
         {
           "name": "alberto prieto",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "12h ago",
+          "started": "14h ago",
           "percentageIncrease": "300%"
         },
         {
@@ -30,7 +21,7 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "16h ago",
+          "started": "19h ago",
           "percentageIncrease": "200%"
         },
         {
@@ -38,7 +29,7 @@
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "1h ago",
+          "started": "4h ago",
           "percentageIncrease": "100%"
         }
       ]

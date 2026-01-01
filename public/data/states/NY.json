@@ -1,38 +1,20 @@
 {
-  "timestamp": "2026-01-01T00:05:00.888Z",
+  "timestamp": "2026-01-01T02:46:33.413Z",
   "states": [
     {
       "name": "New York",
       "code": "NY",
-      "topTopic": "kamar samuels",
+      "topTopic": "kansas city international airport",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
-        {
-          "name": "kamar samuels",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "5K+",
-          "started": "23h ago",
-          "trendBreakdown": "kamar",
-          "percentageIncrease": "1000%"
-        },
         {
           "name": "kansas city international airport",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "2h ago",
+          "started": "5h ago",
           "trendBreakdown": "kansas",
-          "percentageIncrease": "800%"
-        },
-        {
-          "name": "willowbrook mall",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "2K+",
-          "started": "23h ago",
-          "trendBreakdown": "willowbrook",
           "percentageIncrease": "700%"
         },
         {
@@ -40,31 +22,15 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "20h ago",
+          "started": "23h ago",
           "percentageIncrease": "200%"
-        },
-        {
-          "name": "jack smith",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "1h ago",
-          "percentageIncrease": "300%"
         },
         {
           "name": "outback steakhouse",
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "2h ago",
-          "percentageIncrease": "100%"
-        },
-        {
-          "name": "putin",
-          "relevanceScore": 90,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "10h ago",
+          "started": "5h ago",
           "percentageIncrease": "100%"
         }
       ]
