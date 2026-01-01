@@ -1,68 +1,76 @@
 {
-  "timestamp": "2026-01-01T14:04:28.707Z",
+  "timestamp": "2026-01-01T16:04:42.562Z",
   "states": [
     {
       "name": "New York",
       "code": "NY",
-      "topTopic": "abc",
+      "topTopic": "kansas city international airport",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
-        {
-          "name": "abc",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "2K+",
-          "started": "14h ago",
-          "percentageIncrease": "1000%"
-        },
         {
           "name": "kansas city international airport",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "16h ago",
+          "started": "18h ago",
           "trendBreakdown": "kansas",
           "percentageIncrease": "700%"
-        },
-        {
-          "name": "puerto rico",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "10h ago",
-          "percentageIncrease": "1000%"
         },
         {
           "name": "eric adams",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "10h ago",
+          "started": "12h ago",
           "percentageIncrease": "300%"
         },
         {
-          "name": "mike flynn",
+          "name": "jack smith",
           "relevanceScore": 95,
           "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "7h ago",
+          "searchVolume": "500+",
+          "started": "17h ago",
           "percentageIncrease": "200%"
+        },
+        {
+          "name": "nbc",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "14h ago",
+          "percentageIncrease": "400%"
         },
         {
           "name": "taxi",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "8h ago",
+          "started": "10h ago",
           "percentageIncrease": "200%"
+        },
+        {
+          "name": "cnn news",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "11h ago",
+          "percentageIncrease": "200%"
+        },
+        {
+          "name": "american dream mall",
+          "relevanceScore": 90,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "1h ago",
+          "percentageIncrease": "100%"
         },
         {
           "name": "prince",
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "9h ago",
+          "started": "11h ago",
           "percentageIncrease": "100%"
         },
         {
@@ -70,7 +78,7 @@
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "16h ago",
+          "started": "18h ago",
           "percentageIncrease": "100%"
         }
       ]

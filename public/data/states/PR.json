@@ -1,35 +1,27 @@
 {
-  "timestamp": "2026-01-01T14:04:28.707Z",
+  "timestamp": "2026-01-01T16:04:42.562Z",
   "states": [
     {
       "name": "Puerto Rico",
       "code": "PR",
-      "topTopic": "happy new year",
+      "topTopic": "telemundo en vivo",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
         {
-          "name": "happy new year",
+          "name": "telemundo en vivo",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "21h ago",
-          "percentageIncrease": "800%"
+          "started": "14h ago",
+          "percentageIncrease": "1000%"
         },
         {
           "name": "primera hora",
           "relevanceScore": 90,
           "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "8h ago",
-          "percentageIncrease": "100%"
-        },
-        {
-          "name": "metro pr",
-          "relevanceScore": 90,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "2h ago",
+          "searchVolume": "1K+",
+          "started": "10h ago",
           "percentageIncrease": "100%"
         }
       ]

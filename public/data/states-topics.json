@@ -1,27 +1,19 @@
 {
-  "timestamp": "2026-01-01T14:04:28.707Z",
+  "timestamp": "2026-01-01T16:04:42.562Z",
   "states": [
     {
       "name": "California",
       "code": "CA",
-      "topTopic": "puerto rico",
+      "topTopic": "kron",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
-        {
-          "name": "puerto rico",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "10h ago",
-          "percentageIncrease": "500%"
-        },
         {
           "name": "kron",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "6h ago",
+          "started": "8h ago",
           "percentageIncrease": "600%"
         },
         {
@@ -29,23 +21,15 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "2K+",
-          "started": "11h ago",
+          "started": "13h ago",
           "percentageIncrease": "400%"
-        },
-        {
-          "name": "jack smith",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "16h ago",
-          "percentageIncrease": "200%"
         },
         {
           "name": "post office",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "17h ago",
+          "started": "19h ago",
           "percentageIncrease": "200%"
         },
         {
@@ -53,24 +37,32 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "7h ago",
+          "started": "9h ago",
           "percentageIncrease": "200%"
+        },
+        {
+          "name": "new laws in california",
+          "relevanceScore": 90,
+          "category": "Law and Government",
+          "searchVolume": "1K+",
+          "started": "14h ago",
+          "trendBreakdown": "san",
+          "percentageIncrease": "100%"
+        },
+        {
+          "name": "jack smith",
+          "relevanceScore": 90,
+          "category": "Law and Government",
+          "searchVolume": "1K+",
+          "started": "18h ago",
+          "percentageIncrease": "100%"
         },
         {
           "name": "prince",
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "10h ago",
-          "percentageIncrease": "100%"
-        },
-        {
-          "name": "new laws in california",
-          "relevanceScore": 90,
-          "category": "Law and Government",
-          "searchVolume": "500+",
           "started": "12h ago",
-          "trendBreakdown": "new",
           "percentageIncrease": "100%"
         },
         {
@@ -78,7 +70,7 @@
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "8h ago",
+          "started": "10h ago",
           "trendBreakdown": "timela",
           "percentageIncrease": "100%"
         },
@@ -87,7 +79,15 @@
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "15h ago",
+          "started": "17h ago",
+          "percentageIncrease": "100%"
+        },
+        {
+          "name": "ktvu",
+          "relevanceScore": 90,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "8h ago",
           "percentageIncrease": "100%"
         }
       ]
@@ -129,31 +129,39 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "8h ago",
+          "started": "10h ago",
           "percentageIncrease": "800%"
+        },
+        {
+          "name": "nbc",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "11h ago",
+          "percentageIncrease": "300%"
         },
         {
           "name": "prince",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "11h ago",
+          "started": "13h ago",
           "percentageIncrease": "200%"
         },
         {
-          "name": "lee county arrest",
-          "relevanceScore": 90,
+          "name": "greenland",
+          "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "5h ago",
-          "percentageIncrease": "100%"
+          "started": "13h ago",
+          "percentageIncrease": "200%"
         },
         {
           "name": "outback steakhouse",
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "15h ago",
+          "started": "17h ago",
           "percentageIncrease": "100%"
         },
         {
@@ -161,7 +169,7 @@
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "9h ago",
+          "started": "11h ago",
           "percentageIncrease": "100%"
         },
         {
@@ -169,7 +177,7 @@
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "8h ago",
+          "started": "10h ago",
           "percentageIncrease": "100%"
         }
       ]
@@ -177,24 +185,16 @@
     {
       "name": "Georgia",
       "code": "GA",
-      "topTopic": "usher",
+      "topTopic": "videos",
       "category": "Law and Government",
-      "trendingScore": 95,
+      "trendingScore": 90,
       "topics": [
-        {
-          "name": "usher",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "10h ago",
-          "percentageIncrease": "200%"
-        },
         {
           "name": "videos",
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "4h ago",
+          "started": "6h ago",
           "trendBreakdown": "learning",
           "percentageIncrease": "100%"
         }
@@ -203,66 +203,32 @@
     {
       "name": "Illinois",
       "code": "IL",
-      "topTopic": "abc",
+      "topTopic": "pavia",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
-        {
-          "name": "abc",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "12h ago",
-          "percentageIncrease": "700%"
-        },
-        {
-          "name": "abc chicago",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "9h ago",
-          "trendBreakdown": "abc",
-          "percentageIncrease": "1000%"
-        },
-        {
-          "name": "puerto rico",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "10h ago",
-          "percentageIncrease": "900%"
-        },
-        {
-          "name": "abc",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "8h ago",
-          "percentageIncrease": "1000%"
-        },
         {
           "name": "pavia",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "18h ago",
+          "started": "20h ago",
           "percentageIncrease": "500%"
         },
         {
-          "name": "new laws in illinois",
+          "name": "abc news chicago",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "1h ago",
-          "trendBreakdown": "new",
-          "percentageIncrease": "200%"
+          "started": "10h ago",
+          "percentageIncrease": "300%"
         },
         {
           "name": "chicago news",
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "8h ago",
+          "started": "10h ago",
           "percentageIncrease": "100%"
         }
       ]
@@ -296,33 +262,25 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "12h ago",
+          "started": "14h ago",
           "percentageIncrease": "500%"
-        },
-        {
-          "name": "puerto rico",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "10h ago",
-          "percentageIncrease": "1000%"
         }
       ]
     },
     {
       "name": "Michigan",
       "code": "MI",
-      "topTopic": "abc",
+      "topTopic": "google news",
       "category": "Law and Government",
-      "trendingScore": 100,
+      "trendingScore": 90,
       "topics": [
         {
-          "name": "abc",
-          "relevanceScore": 100,
+          "name": "google news",
+          "relevanceScore": 90,
           "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "15h ago",
-          "percentageIncrease": "700%"
+          "searchVolume": "100+",
+          "started": "4h ago",
+          "percentageIncrease": "100%"
         }
       ]
     },
@@ -338,7 +296,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "13h ago",
+          "started": "15h ago",
           "percentageIncrease": "700%"
         },
         {
@@ -346,7 +304,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "15h ago",
+          "started": "17h ago",
           "percentageIncrease": "800%"
         }
       ]
@@ -363,17 +321,9 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "5K+",
-          "started": "20h ago",
+          "started": "22h ago",
           "trendBreakdown": "kansas",
           "percentageIncrease": "1000%"
-        },
-        {
-          "name": "jackson county property tax",
-          "relevanceScore": 90,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "23h ago",
-          "percentageIncrease": "100%"
         }
       ]
     },
@@ -389,7 +339,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "13h ago",
+          "started": "15h ago",
           "percentageIncrease": "1000%"
         },
         {
@@ -397,7 +347,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "15h ago",
+          "started": "17h ago",
           "trendBreakdown": "kansas",
           "percentageIncrease": "800%"
         },
@@ -406,8 +356,40 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "8h ago",
+          "started": "10h ago",
           "percentageIncrease": "1000%"
+        },
+        {
+          "name": "mikie sherrill",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "4h ago",
+          "percentageIncrease": "300%"
+        },
+        {
+          "name": "nbc",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "11h ago",
+          "percentageIncrease": "300%"
+        },
+        {
+          "name": "american dream mall",
+          "relevanceScore": 90,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "40 minutes ago",
+          "percentageIncrease": "100%"
+        },
+        {
+          "name": "american dream",
+          "relevanceScore": 90,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "40 minutes ago",
+          "percentageIncrease": "100%"
         }
       ]
     },
@@ -423,73 +405,89 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "20h ago",
+          "started": "22h ago",
           "percentageIncrease": "300%"
+        },
+        {
+          "name": "fox news",
+          "relevanceScore": 85,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "3h ago",
+          "percentageIncrease": "50%"
         }
       ]
     },
     {
       "name": "New York",
       "code": "NY",
-      "topTopic": "abc",
+      "topTopic": "kansas city international airport",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
-        {
-          "name": "abc",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "2K+",
-          "started": "14h ago",
-          "percentageIncrease": "1000%"
-        },
         {
           "name": "kansas city international airport",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "16h ago",
+          "started": "18h ago",
           "trendBreakdown": "kansas",
           "percentageIncrease": "700%"
-        },
-        {
-          "name": "puerto rico",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "10h ago",
-          "percentageIncrease": "1000%"
         },
         {
           "name": "eric adams",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "10h ago",
+          "started": "12h ago",
           "percentageIncrease": "300%"
         },
         {
-          "name": "mike flynn",
+          "name": "jack smith",
           "relevanceScore": 95,
           "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "7h ago",
+          "searchVolume": "500+",
+          "started": "17h ago",
           "percentageIncrease": "200%"
+        },
+        {
+          "name": "nbc",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "14h ago",
+          "percentageIncrease": "400%"
         },
         {
           "name": "taxi",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "8h ago",
+          "started": "10h ago",
           "percentageIncrease": "200%"
+        },
+        {
+          "name": "cnn news",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "11h ago",
+          "percentageIncrease": "200%"
+        },
+        {
+          "name": "american dream mall",
+          "relevanceScore": 90,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "1h ago",
+          "percentageIncrease": "100%"
         },
         {
           "name": "prince",
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "9h ago",
+          "started": "11h ago",
           "percentageIncrease": "100%"
         },
         {
@@ -497,7 +495,7 @@
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "16h ago",
+          "started": "18h ago",
           "percentageIncrease": "100%"
         }
       ]
@@ -505,25 +503,34 @@
     {
       "name": "Ohio",
       "code": "OH",
-      "topTopic": "puerto rico",
+      "topTopic": "pavia",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
-        {
-          "name": "puerto rico",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "10h ago",
-          "percentageIncrease": "1000%"
-        },
         {
           "name": "pavia",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "18h ago",
+          "started": "20h ago",
           "percentageIncrease": "800%"
+        },
+        {
+          "name": "weinland park",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "15h ago",
+          "trendBreakdown": "columbus",
+          "percentageIncrease": "200%"
+        },
+        {
+          "name": "nbc",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "11h ago",
+          "percentageIncrease": "400%"
         }
       ]
     },
@@ -556,15 +563,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "13h ago",
-          "percentageIncrease": "1000%"
-        },
-        {
-          "name": "puerto rico",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "10h ago",
+          "started": "15h ago",
           "percentageIncrease": "1000%"
         },
         {
@@ -572,9 +571,17 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "16h ago",
+          "started": "18h ago",
           "trendBreakdown": "kansas",
           "percentageIncrease": "1000%"
+        },
+        {
+          "name": "nbc",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "11h ago",
+          "percentageIncrease": "400%"
         }
       ]
     },
@@ -615,24 +622,16 @@
     {
       "name": "Texas",
       "code": "TX",
-      "topTopic": "abc",
+      "topTopic": "kansas city international airport",
       "category": "Law and Government",
       "trendingScore": 95,
       "topics": [
-        {
-          "name": "abc",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "18h ago",
-          "percentageIncrease": "300%"
-        },
         {
           "name": "kansas city international airport",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "17h ago",
+          "started": "19h ago",
           "percentageIncrease": "300%"
         },
         {
@@ -640,7 +639,7 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "11h ago",
+          "started": "13h ago",
           "percentageIncrease": "200%"
         },
         {
@@ -648,15 +647,23 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "8h ago",
+          "started": "10h ago",
           "percentageIncrease": "200%"
+        },
+        {
+          "name": "google news",
+          "relevanceScore": 90,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "1h ago",
+          "percentageIncrease": "100%"
         },
         {
           "name": "home",
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "7h ago",
+          "started": "9h ago",
           "percentageIncrease": "100%"
         }
       ]
@@ -690,7 +697,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "14h ago",
+          "started": "16h ago",
           "percentageIncrease": "700%"
         },
         {
@@ -698,7 +705,7 @@
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "1h ago",
+          "started": "3h ago",
           "percentageIncrease": "100%"
         }
       ]
@@ -715,16 +722,8 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "8h ago",
+          "started": "10h ago",
           "percentageIncrease": "300%"
-        },
-        {
-          "name": "pso",
-          "relevanceScore": 90,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "22h ago",
-          "percentageIncrease": "100%"
         }
       ]
     },
@@ -791,7 +790,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "2K+",
-          "started": "20h ago",
+          "started": "22h ago",
           "trendBreakdown": "mci",
           "percentageIncrease": "1000%"
         }
@@ -826,7 +825,7 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "9h ago",
+          "started": "11h ago",
           "percentageIncrease": "400%"
         }
       ]
@@ -868,26 +867,18 @@
     {
       "name": "Minnesota",
       "code": "MN",
-      "topTopic": "mn news",
+      "topTopic": "childcare",
       "category": "Law and Government",
-      "trendingScore": 90,
+      "trendingScore": 95,
       "topics": [
         {
-          "name": "mn news",
-          "relevanceScore": 90,
+          "name": "childcare",
+          "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "30 minutes ago",
-          "trendBreakdown": "newstrump",
-          "percentageIncrease": "100%"
-        },
-        {
-          "name": "mn paid leave",
-          "relevanceScore": 90,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "23h ago",
-          "percentageIncrease": "100%"
+          "started": "7h ago",
+          "trendBreakdown": "newsmn",
+          "percentageIncrease": "300%"
         }
       ]
     },
@@ -971,7 +962,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "9h ago",
+          "started": "11h ago",
           "percentageIncrease": "500%"
         }
       ]
@@ -979,32 +970,24 @@
     {
       "name": "Puerto Rico",
       "code": "PR",
-      "topTopic": "happy new year",
+      "topTopic": "telemundo en vivo",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
         {
-          "name": "happy new year",
+          "name": "telemundo en vivo",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "21h ago",
-          "percentageIncrease": "800%"
+          "started": "14h ago",
+          "percentageIncrease": "1000%"
         },
         {
           "name": "primera hora",
           "relevanceScore": 90,
           "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "8h ago",
-          "percentageIncrease": "100%"
-        },
-        {
-          "name": "metro pr",
-          "relevanceScore": 90,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "2h ago",
+          "searchVolume": "1K+",
+          "started": "10h ago",
           "percentageIncrease": "100%"
         }
       ]

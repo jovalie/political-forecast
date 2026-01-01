@@ -1,28 +1,37 @@
 {
-  "timestamp": "2026-01-01T14:04:28.707Z",
+  "timestamp": "2026-01-01T16:04:42.562Z",
   "states": [
     {
       "name": "Ohio",
       "code": "OH",
-      "topTopic": "puerto rico",
+      "topTopic": "pavia",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
-        {
-          "name": "puerto rico",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "10h ago",
-          "percentageIncrease": "1000%"
-        },
         {
           "name": "pavia",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "18h ago",
+          "started": "20h ago",
           "percentageIncrease": "800%"
+        },
+        {
+          "name": "weinland park",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "15h ago",
+          "trendBreakdown": "columbus",
+          "percentageIncrease": "200%"
+        },
+        {
+          "name": "nbc",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "11h ago",
+          "percentageIncrease": "400%"
         }
       ]
     }

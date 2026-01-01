@@ -1,27 +1,19 @@
 {
-  "timestamp": "2026-01-01T14:04:28.707Z",
+  "timestamp": "2026-01-01T16:04:42.562Z",
   "states": [
     {
       "name": "California",
       "code": "CA",
-      "topTopic": "puerto rico",
+      "topTopic": "kron",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
-        {
-          "name": "puerto rico",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "10h ago",
-          "percentageIncrease": "500%"
-        },
         {
           "name": "kron",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "6h ago",
+          "started": "8h ago",
           "percentageIncrease": "600%"
         },
         {
@@ -29,23 +21,15 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "2K+",
-          "started": "11h ago",
+          "started": "13h ago",
           "percentageIncrease": "400%"
-        },
-        {
-          "name": "jack smith",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "16h ago",
-          "percentageIncrease": "200%"
         },
         {
           "name": "post office",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "17h ago",
+          "started": "19h ago",
           "percentageIncrease": "200%"
         },
         {
@@ -53,24 +37,32 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "7h ago",
+          "started": "9h ago",
           "percentageIncrease": "200%"
+        },
+        {
+          "name": "new laws in california",
+          "relevanceScore": 90,
+          "category": "Law and Government",
+          "searchVolume": "1K+",
+          "started": "14h ago",
+          "trendBreakdown": "san",
+          "percentageIncrease": "100%"
+        },
+        {
+          "name": "jack smith",
+          "relevanceScore": 90,
+          "category": "Law and Government",
+          "searchVolume": "1K+",
+          "started": "18h ago",
+          "percentageIncrease": "100%"
         },
         {
           "name": "prince",
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "10h ago",
-          "percentageIncrease": "100%"
-        },
-        {
-          "name": "new laws in california",
-          "relevanceScore": 90,
-          "category": "Law and Government",
-          "searchVolume": "500+",
           "started": "12h ago",
-          "trendBreakdown": "new",
           "percentageIncrease": "100%"
         },
         {
@@ -78,7 +70,7 @@
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "8h ago",
+          "started": "10h ago",
           "trendBreakdown": "timela",
           "percentageIncrease": "100%"
         },
@@ -87,7 +79,15 @@
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "15h ago",
+          "started": "17h ago",
+          "percentageIncrease": "100%"
+        },
+        {
+          "name": "ktvu",
+          "relevanceScore": 90,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "8h ago",
           "percentageIncrease": "100%"
         }
       ]
