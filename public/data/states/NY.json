@@ -1,28 +1,62 @@
 {
-  "timestamp": "2026-01-01T04:22:23.112Z",
+  "timestamp": "2026-01-01T06:05:05.563Z",
   "states": [
     {
       "name": "New York",
       "code": "NY",
-      "topTopic": "kansas city international airport",
+      "topTopic": "learning center",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
+        {
+          "name": "learning center",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "50 minutes ago",
+          "trendBreakdown": "quality",
+          "percentageIncrease": "900%"
+        },
+        {
+          "name": "puerto rico",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "2h ago",
+          "percentageIncrease": "1000%"
+        },
         {
           "name": "kansas city international airport",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "6h ago",
+          "started": "8h ago",
           "trendBreakdown": "kansas",
           "percentageIncrease": "700%"
+        },
+        {
+          "name": "cnn news",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "1h ago",
+          "percentageIncrease": "200%"
+        },
+        {
+          "name": "news",
+          "relevanceScore": 90,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "30 minutes ago",
+          "trendBreakdown": "jack",
+          "percentageIncrease": "100%"
         },
         {
           "name": "outback steakhouse",
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "6h ago",
+          "started": "8h ago",
           "percentageIncrease": "100%"
         },
         {
@@ -30,7 +64,7 @@
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "14h ago",
+          "started": "16h ago",
           "percentageIncrease": "100%"
         }
       ]

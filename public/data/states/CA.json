@@ -1,43 +1,43 @@
 {
-  "timestamp": "2026-01-01T04:22:23.112Z",
+  "timestamp": "2026-01-01T06:05:05.563Z",
   "states": [
     {
       "name": "California",
       "code": "CA",
-      "topTopic": "bank",
+      "topTopic": "learning center",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
+        {
+          "name": "learning center",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "1K+",
+          "started": "50 minutes ago",
+          "percentageIncrease": "1000%"
+        },
         {
           "name": "bank",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "20h ago",
+          "started": "22h ago",
           "percentageIncrease": "700%"
         },
         {
-          "name": "learning center",
-          "relevanceScore": 100,
+          "name": "new york time now",
+          "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "19h ago",
-          "percentageIncrease": "1000%"
+          "started": "3h ago",
+          "percentageIncrease": "400%"
         },
         {
           "name": "jack smith",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "6h ago",
-          "percentageIncrease": "200%"
-        },
-        {
-          "name": "prince",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "50 minutes ago",
+          "started": "8h ago",
           "percentageIncrease": "200%"
         },
         {
@@ -45,15 +45,32 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "8h ago",
+          "started": "9h ago",
           "percentageIncrease": "200%"
+        },
+        {
+          "name": "uae",
+          "relevanceScore": 90,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "1h ago",
+          "percentageIncrease": "100%"
+        },
+        {
+          "name": "chicago",
+          "relevanceScore": 90,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "50 minutes ago",
+          "trendBreakdown": "trump",
+          "percentageIncrease": "100%"
         },
         {
           "name": "outback steakhouse",
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "5h ago",
+          "started": "7h ago",
           "percentageIncrease": "100%"
         },
         {
@@ -61,15 +78,7 @@
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "9h ago",
-          "percentageIncrease": "100%"
-        },
-        {
-          "name": "tina peters",
-          "relevanceScore": 90,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "10h ago",
+          "started": "11h ago",
           "percentageIncrease": "100%"
         },
         {
@@ -77,7 +86,7 @@
           "relevanceScore": 85,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "11h ago",
+          "started": "13h ago",
           "percentageIncrease": "75%"
         }
       ]

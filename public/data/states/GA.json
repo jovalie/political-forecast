@@ -1,20 +1,20 @@
 {
-  "timestamp": "2026-01-01T04:22:23.112Z",
+  "timestamp": "2026-01-01T06:05:05.563Z",
   "states": [
     {
       "name": "Georgia",
       "code": "GA",
-      "topTopic": "diego pavia",
+      "topTopic": "usher",
       "category": "Law and Government",
-      "trendingScore": 100,
+      "trendingScore": 95,
       "topics": [
         {
-          "name": "diego pavia",
-          "relevanceScore": 100,
+          "name": "usher",
+          "relevanceScore": 95,
           "category": "Law and Government",
-          "searchVolume": "500+",
+          "searchVolume": "100+",
           "started": "2h ago",
-          "percentageIncrease": "1000%"
+          "percentageIncrease": "200%"
         }
       ]
     }
