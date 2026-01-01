@@ -1,20 +1,20 @@
 {
-  "timestamp": "2026-01-01T02:46:33.413Z",
+  "timestamp": "2026-01-01T04:22:23.112Z",
   "states": [
     {
       "name": "Nevada",
       "code": "NV",
-      "topTopic": "cnn",
+      "topTopic": "las vegas",
       "category": "Law and Government",
-      "trendingScore": 85,
+      "trendingScore": 90,
       "topics": [
         {
-          "name": "cnn",
-          "relevanceScore": 85,
+          "name": "las vegas",
+          "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "23h ago",
-          "percentageIncrease": "75%"
+          "started": "20 minutes ago",
+          "percentageIncrease": "100%"
         }
       ]
     }
