@@ -1,27 +1,19 @@
 {
-  "timestamp": "2025-12-31T22:04:41.689Z",
+  "timestamp": "2026-01-01T00:05:00.888Z",
   "states": [
     {
       "name": "Texas",
       "code": "TX",
-      "topTopic": "kansas city international airport",
+      "topTopic": "learning center",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
-        {
-          "name": "kansas city international airport",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "1h ago",
-          "percentageIncrease": "500%"
-        },
         {
           "name": "learning center",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "13h ago",
+          "started": "15h ago",
           "trendBreakdown": "carechild",
           "percentageIncrease": "600%"
         },
@@ -30,24 +22,32 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "8h ago",
+          "started": "10h ago",
           "percentageIncrease": "400%"
         },
         {
-          "name": "new year",
+          "name": "ut",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "4h ago",
-          "percentageIncrease": "200%"
+          "started": "3h ago",
+          "percentageIncrease": "400%"
         },
         {
           "name": "bank",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "13h ago",
+          "started": "15h ago",
           "percentageIncrease": "300%"
+        },
+        {
+          "name": "outback steakhouse",
+          "relevanceScore": 85,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "50 minutes ago",
+          "percentageIncrease": "75%"
         }
       ]
     }
