@@ -1,54 +1,45 @@
 {
-  "timestamp": "2026-01-01T06:05:05.563Z",
+  "timestamp": "2026-01-01T08:04:38.863Z",
   "states": [
     {
       "name": "New York",
       "code": "NY",
-      "topTopic": "learning center",
+      "topTopic": "kansas city international airport",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
-        {
-          "name": "learning center",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "50 minutes ago",
-          "trendBreakdown": "quality",
-          "percentageIncrease": "900%"
-        },
-        {
-          "name": "puerto rico",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "2h ago",
-          "percentageIncrease": "1000%"
-        },
         {
           "name": "kansas city international airport",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "8h ago",
+          "started": "10h ago",
           "trendBreakdown": "kansas",
           "percentageIncrease": "700%"
         },
         {
-          "name": "cnn news",
+          "name": "learning center",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "2h ago",
+          "trendBreakdown": "quality",
+          "percentageIncrease": "900%"
+        },
+        {
+          "name": "jack smith",
           "relevanceScore": 95,
           "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "1h ago",
+          "searchVolume": "500+",
+          "started": "9h ago",
           "percentageIncrease": "200%"
         },
         {
-          "name": "news",
+          "name": "prince",
           "relevanceScore": 90,
           "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "30 minutes ago",
-          "trendBreakdown": "jack",
+          "searchVolume": "100+",
+          "started": "3h ago",
           "percentageIncrease": "100%"
         },
         {
@@ -56,7 +47,7 @@
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "8h ago",
+          "started": "10h ago",
           "percentageIncrease": "100%"
         },
         {
@@ -64,7 +55,7 @@
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "16h ago",
+          "started": "18h ago",
           "percentageIncrease": "100%"
         }
       ]

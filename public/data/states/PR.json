@@ -1,20 +1,20 @@
 {
-  "timestamp": "2026-01-01T06:05:05.563Z",
+  "timestamp": "2026-01-01T08:04:38.863Z",
   "states": [
     {
       "name": "Puerto Rico",
       "code": "PR",
-      "topTopic": "el vocero",
+      "topTopic": "telemundo en vivo",
       "category": "Law and Government",
-      "trendingScore": 85,
+      "trendingScore": 100,
       "topics": [
         {
-          "name": "el vocero",
-          "relevanceScore": 85,
+          "name": "telemundo en vivo",
+          "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "13h ago",
-          "percentageIncrease": "50%"
+          "searchVolume": "1K+",
+          "started": "6h ago",
+          "percentageIncrease": "1000%"
         }
       ]
     }

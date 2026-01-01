@@ -1,27 +1,27 @@
 {
-  "timestamp": "2026-01-01T06:05:05.563Z",
+  "timestamp": "2026-01-01T08:04:38.863Z",
   "states": [
     {
       "name": "Oklahoma",
       "code": "OK",
       "topTopic": "koco",
       "category": "Law and Government",
-      "trendingScore": 100,
+      "trendingScore": 95,
       "topics": [
         {
           "name": "koco",
-          "relevanceScore": 100,
+          "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "20 minutes ago",
-          "percentageIncrease": "500%"
+          "started": "2h ago",
+          "percentageIncrease": "300%"
         },
         {
           "name": "pso",
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "14h ago",
+          "started": "16h ago",
           "percentageIncrease": "100%"
         }
       ]

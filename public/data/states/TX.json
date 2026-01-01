@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-01-01T06:05:05.563Z",
+  "timestamp": "2026-01-01T08:04:38.863Z",
   "states": [
     {
       "name": "Texas",
@@ -13,56 +13,40 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "50 minutes ago",
-          "percentageIncrease": "700%"
-        },
-        {
-          "name": "puerto rico",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "500+",
           "started": "2h ago",
-          "percentageIncrease": "1000%"
-        },
-        {
-          "name": "ut",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "9h ago",
-          "percentageIncrease": "400%"
+          "percentageIncrease": "700%"
         },
         {
           "name": "alberto prieto",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "2K+",
-          "started": "16h ago",
+          "started": "18h ago",
           "percentageIncrease": "400%"
         },
         {
-          "name": "prince",
+          "name": "ut",
           "relevanceScore": 95,
           "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "3h ago",
-          "percentageIncrease": "200%"
+          "searchVolume": "1K+",
+          "started": "11h ago",
+          "percentageIncrease": "400%"
         },
         {
           "name": "kansas city international airport",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "9h ago",
+          "started": "11h ago",
           "percentageIncrease": "300%"
         },
         {
-          "name": "las vegas",
-          "relevanceScore": 90,
+          "name": "prince",
+          "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "30 minutes ago",
-          "percentageIncrease": "100%"
+          "started": "5h ago",
+          "percentageIncrease": "200%"
         }
       ]
     }
