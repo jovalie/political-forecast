@@ -1,27 +1,19 @@
 {
-  "timestamp": "2026-01-01T18:04:56.238Z",
+  "timestamp": "2026-01-01T20:04:43.082Z",
   "states": [
     {
       "name": "Ohio",
       "code": "OH",
-      "topTopic": "pavia",
+      "topTopic": "weinland park",
       "category": "Law and Government",
-      "trendingScore": 100,
+      "trendingScore": 95,
       "topics": [
-        {
-          "name": "pavia",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "22h ago",
-          "percentageIncrease": "800%"
-        },
         {
           "name": "weinland park",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "17h ago",
+          "started": "19h ago",
           "trendBreakdown": "columbus",
           "percentageIncrease": "200%"
         }

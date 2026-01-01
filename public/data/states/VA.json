@@ -1,20 +1,28 @@
 {
-  "timestamp": "2026-01-01T18:04:56.238Z",
+  "timestamp": "2026-01-01T20:04:43.082Z",
   "states": [
     {
       "name": "Virginia",
       "code": "VA",
-      "topTopic": "abc",
+      "topTopic": "chief justice john roberts",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
         {
-          "name": "abc",
+          "name": "chief justice john roberts",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "2K+",
-          "started": "15h ago",
-          "percentageIncrease": "700%"
+          "searchVolume": "100+",
+          "started": "50 minutes ago",
+          "percentageIncrease": "1000%"
+        },
+        {
+          "name": "wavy",
+          "relevanceScore": 90,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "9h ago",
+          "percentageIncrease": "100%"
         }
       ]
     }
