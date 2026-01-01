@@ -1,19 +1,28 @@
 {
-  "timestamp": "2026-01-01T12:04:53.001Z",
+  "timestamp": "2026-01-01T14:04:28.707Z",
   "states": [
     {
       "name": "Minnesota",
       "code": "MN",
-      "topTopic": "mn paid leave",
+      "topTopic": "mn news",
       "category": "Law and Government",
       "trendingScore": 90,
       "topics": [
+        {
+          "name": "mn news",
+          "relevanceScore": 90,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "30 minutes ago",
+          "trendBreakdown": "newstrump",
+          "percentageIncrease": "100%"
+        },
         {
           "name": "mn paid leave",
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "21h ago",
+          "started": "23h ago",
           "percentageIncrease": "100%"
         }
       ]

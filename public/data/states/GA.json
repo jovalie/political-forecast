@@ -1,27 +1,27 @@
 {
-  "timestamp": "2026-01-01T12:04:53.001Z",
+  "timestamp": "2026-01-01T14:04:28.707Z",
   "states": [
     {
       "name": "Georgia",
       "code": "GA",
-      "topTopic": "abc",
+      "topTopic": "usher",
       "category": "Law and Government",
-      "trendingScore": 100,
+      "trendingScore": 95,
       "topics": [
         {
-          "name": "abc",
-          "relevanceScore": 100,
+          "name": "usher",
+          "relevanceScore": 95,
           "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "11h ago",
-          "percentageIncrease": "600%"
+          "searchVolume": "100+",
+          "started": "10h ago",
+          "percentageIncrease": "200%"
         },
         {
           "name": "videos",
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "2h ago",
+          "started": "4h ago",
           "trendBreakdown": "learning",
           "percentageIncrease": "100%"
         }

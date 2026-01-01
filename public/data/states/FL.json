@@ -1,59 +1,51 @@
 {
-  "timestamp": "2026-01-01T12:04:53.001Z",
+  "timestamp": "2026-01-01T14:04:28.707Z",
   "states": [
     {
       "name": "Florida",
       "code": "FL",
-      "topTopic": "puerto rico",
+      "topTopic": "learning center",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
-        {
-          "name": "puerto rico",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "8h ago",
-          "percentageIncrease": "600%"
-        },
         {
           "name": "learning center",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "6h ago",
+          "started": "8h ago",
           "percentageIncrease": "800%"
-        },
-        {
-          "name": "abc",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "2K+",
-          "started": "13h ago",
-          "percentageIncrease": "400%"
         },
         {
           "name": "prince",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "9h ago",
+          "started": "11h ago",
           "percentageIncrease": "200%"
         },
         {
-          "name": "greenland",
-          "relevanceScore": 95,
+          "name": "lee county arrest",
+          "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "9h ago",
-          "percentageIncrease": "200%"
+          "started": "5h ago",
+          "percentageIncrease": "100%"
         },
         {
           "name": "outback steakhouse",
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "13h ago",
+          "started": "15h ago",
+          "percentageIncrease": "100%"
+        },
+        {
+          "name": "fort lauderdale",
+          "relevanceScore": 90,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "9h ago",
           "percentageIncrease": "100%"
         },
         {
@@ -61,7 +53,7 @@
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "6h ago",
+          "started": "8h ago",
           "percentageIncrease": "100%"
         }
       ]

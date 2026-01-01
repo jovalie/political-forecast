@@ -1,27 +1,19 @@
 {
-  "timestamp": "2026-01-01T12:04:53.001Z",
+  "timestamp": "2026-01-01T14:04:28.707Z",
   "states": [
     {
       "name": "Ohio",
       "code": "OH",
-      "topTopic": "abc",
+      "topTopic": "puerto rico",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
-        {
-          "name": "abc",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "11h ago",
-          "percentageIncrease": "1000%"
-        },
         {
           "name": "puerto rico",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "8h ago",
+          "started": "10h ago",
           "percentageIncrease": "1000%"
         },
         {
@@ -29,16 +21,8 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "16h ago",
+          "started": "18h ago",
           "percentageIncrease": "800%"
-        },
-        {
-          "name": "ohio minimum wage",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "22h ago",
-          "percentageIncrease": "300%"
         }
       ]
     }
