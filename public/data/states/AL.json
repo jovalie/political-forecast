@@ -1,19 +1,28 @@
 {
-  "timestamp": "2026-01-02T20:04:36.703Z",
+  "timestamp": "2026-01-02T22:04:42.274Z",
   "states": [
     {
       "name": "Alabama",
       "code": "AL",
-      "topTopic": "ferris state",
+      "topTopic": "jonathan boley",
       "category": "Law and Government",
-      "trendingScore": 95,
+      "trendingScore": 100,
       "topics": [
+        {
+          "name": "jonathan boley",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "1h ago",
+          "trendBreakdown": "walker",
+          "percentageIncrease": "600%"
+        },
         {
           "name": "ferris state",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "15h ago",
+          "started": "17h ago",
           "percentageIncrease": "300%"
         }
       ]

@@ -1,19 +1,37 @@
 {
-  "timestamp": "2026-01-02T20:04:36.703Z",
+  "timestamp": "2026-01-02T22:04:42.274Z",
   "states": [
     {
       "name": "South Carolina",
       "code": "SC",
-      "topTopic": "first",
+      "topTopic": "car accident lawyers",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
+        {
+          "name": "car accident lawyers",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "2K+",
+          "started": "40 minutes ago",
+          "trendBreakdown": "car",
+          "percentageIncrease": "1000%"
+        },
+        {
+          "name": "personal injury lawyers",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "1K+",
+          "started": "50 minutes ago",
+          "trendBreakdown": "personal",
+          "percentageIncrease": "1000%"
+        },
         {
           "name": "first",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "19h ago",
+          "started": "21h ago",
           "percentageIncrease": "600%"
         }
       ]
