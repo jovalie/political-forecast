@@ -1,35 +1,19 @@
 {
-  "timestamp": "2026-01-02T18:04:36.473Z",
+  "timestamp": "2026-01-02T20:04:36.703Z",
   "states": [
     {
       "name": "Illinois",
       "code": "IL",
-      "topTopic": "mall",
+      "topTopic": "vaccinations",
       "category": "Law and Government",
-      "trendingScore": 95,
+      "trendingScore": 90,
       "topics": [
-        {
-          "name": "mall",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "23h ago",
-          "percentageIncrease": "300%"
-        },
         {
           "name": "vaccinations",
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "15h ago",
-          "percentageIncrease": "100%"
-        },
-        {
-          "name": "waste management",
-          "relevanceScore": 90,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "2h ago",
+          "started": "17h ago",
           "percentageIncrease": "100%"
         }
       ]

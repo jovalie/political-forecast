@@ -1,27 +1,19 @@
 {
-  "timestamp": "2026-01-02T18:04:36.473Z",
+  "timestamp": "2026-01-02T20:04:36.703Z",
   "states": [
     {
       "name": "Alabama",
       "code": "AL",
-      "topTopic": "choose act alabama",
+      "topTopic": "ferris state",
       "category": "Law and Government",
       "trendingScore": 95,
       "topics": [
-        {
-          "name": "choose act alabama",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "3h ago",
-          "percentageIncrease": "300%"
-        },
         {
           "name": "ferris state",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "13h ago",
+          "started": "15h ago",
           "percentageIncrease": "300%"
         }
       ]
