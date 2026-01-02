@@ -1,27 +1,19 @@
 {
-  "timestamp": "2026-01-02T06:04:54.406Z",
+  "timestamp": "2026-01-02T08:04:47.421Z",
   "states": [
     {
       "name": "Illinois",
       "code": "IL",
-      "topTopic": "abc",
+      "topTopic": "new laws in illinois",
       "category": "Law and Government",
-      "trendingScore": 100,
+      "trendingScore": 95,
       "topics": [
-        {
-          "name": "abc",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "24h ago",
-          "percentageIncrease": "1000%"
-        },
         {
           "name": "new laws in illinois",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "17h ago",
+          "started": "19h ago",
           "trendBreakdown": "new",
           "percentageIncrease": "300%"
         },
@@ -30,7 +22,7 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "11h ago",
+          "started": "13h ago",
           "percentageIncrease": "300%"
         },
         {
@@ -38,7 +30,7 @@
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "3h ago",
+          "started": "5h ago",
           "percentageIncrease": "100%"
         }
       ]
