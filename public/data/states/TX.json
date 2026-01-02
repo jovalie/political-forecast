@@ -1,45 +1,35 @@
 {
-  "timestamp": "2026-01-02T08:04:47.421Z",
+  "timestamp": "2026-01-02T10:04:46.068Z",
   "states": [
     {
       "name": "Texas",
       "code": "TX",
-      "topTopic": "zeethewizard",
+      "topTopic": "ferris state",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
-        {
-          "name": "zeethewizard",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "2K+",
-          "started": "11h ago",
-          "trendBreakdown": "zee",
-          "percentageIncrease": "500%"
-        },
         {
           "name": "ferris state",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "7h ago",
+          "started": "9h ago",
           "percentageIncrease": "900%"
         },
         {
-          "name": "passenger overboard cruise ship",
+          "name": "zeethewizard",
           "relevanceScore": 95,
           "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "3h ago",
-          "trendBreakdown": "woman",
-          "percentageIncrease": "200%"
+          "searchVolume": "2K+",
+          "started": "13h ago",
+          "percentageIncrease": "400%"
         },
         {
           "name": "chief justice john roberts",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "13h ago",
+          "started": "15h ago",
           "percentageIncrease": "400%"
         },
         {
@@ -47,15 +37,24 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "18h ago",
+          "started": "20h ago",
           "percentageIncrease": "200%"
+        },
+        {
+          "name": "passenger overboard cruise ship",
+          "relevanceScore": 90,
+          "category": "Law and Government",
+          "searchVolume": "1K+",
+          "started": "5h ago",
+          "trendBreakdown": "woman",
+          "percentageIncrease": "100%"
         },
         {
           "name": "vaccines",
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "5h ago",
+          "started": "7h ago",
           "percentageIncrease": "100%"
         },
         {
@@ -63,15 +62,7 @@
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "17h ago",
-          "percentageIncrease": "100%"
-        },
-        {
-          "name": "videos",
-          "relevanceScore": 90,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "22h ago",
+          "started": "19h ago",
           "percentageIncrease": "100%"
         }
       ]

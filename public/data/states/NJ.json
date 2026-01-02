@@ -1,28 +1,36 @@
 {
-  "timestamp": "2026-01-02T08:04:47.421Z",
+  "timestamp": "2026-01-02T10:04:46.068Z",
   "states": [
     {
       "name": "New Jersey",
       "code": "NJ",
-      "topTopic": "passenger overboard cruise ship",
+      "topTopic": "jumaane williams",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
         {
-          "name": "passenger overboard cruise ship",
+          "name": "jumaane williams",
           "relevanceScore": 100,
           "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "14h ago",
+          "percentageIncrease": "1000%"
+        },
+        {
+          "name": "passenger overboard cruise ship",
+          "relevanceScore": 95,
+          "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "2h ago",
+          "started": "4h ago",
           "trendBreakdown": "holland",
-          "percentageIncrease": "600%"
+          "percentageIncrease": "400%"
         },
         {
           "name": "garden state plaza",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "17h ago",
+          "started": "19h ago",
           "trendBreakdown": "garden",
           "percentageIncrease": "200%"
         },
@@ -31,7 +39,7 @@
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "2K+",
-          "started": "16h ago",
+          "started": "18h ago",
           "percentageIncrease": "100%"
         },
         {
@@ -39,7 +47,7 @@
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "8h ago",
+          "started": "10h ago",
           "percentageIncrease": "100%"
         }
       ]

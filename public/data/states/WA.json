@@ -1,27 +1,19 @@
 {
-  "timestamp": "2026-01-02T08:04:47.421Z",
+  "timestamp": "2026-01-02T10:04:46.068Z",
   "states": [
     {
       "name": "Washington",
       "code": "WA",
-      "topTopic": "uber",
+      "topTopic": "vaccines",
       "category": "Law and Government",
-      "trendingScore": 90,
+      "trendingScore": 85,
       "topics": [
-        {
-          "name": "uber",
-          "relevanceScore": 90,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "23h ago",
-          "percentageIncrease": "100%"
-        },
         {
           "name": "vaccines",
           "relevanceScore": 85,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "5h ago",
+          "started": "7h ago",
           "percentageIncrease": "50%"
         }
       ]

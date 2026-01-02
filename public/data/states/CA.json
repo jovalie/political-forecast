@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-01-02T08:04:47.421Z",
+  "timestamp": "2026-01-02T10:04:46.068Z",
   "states": [
     {
       "name": "California",
@@ -13,24 +13,15 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "9h ago",
+          "started": "11h ago",
           "percentageIncrease": "900%"
-        },
-        {
-          "name": "car accident lawyer",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "7h ago",
-          "trendBreakdown": "personal",
-          "percentageIncrease": "800%"
         },
         {
           "name": "passenger overboard cruise ship",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "3h ago",
+          "started": "5h ago",
           "trendBreakdown": "woman",
           "percentageIncrease": "300%"
         },
@@ -39,7 +30,7 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "2K+",
-          "started": "17h ago",
+          "started": "19h ago",
           "trendBreakdown": "california",
           "percentageIncrease": "200%"
         },
@@ -48,7 +39,7 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "8h ago",
+          "started": "10h ago",
           "percentageIncrease": "200%"
         },
         {
@@ -56,7 +47,7 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "13h ago",
+          "started": "15h ago",
           "percentageIncrease": "300%"
         },
         {
@@ -64,23 +55,23 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "8h ago",
+          "started": "10h ago",
           "percentageIncrease": "300%"
         },
         {
-          "name": "super flu",
+          "name": "jumaane williams",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "11h ago",
+          "started": "13h ago",
           "percentageIncrease": "200%"
         },
         {
-          "name": "fireworks los angeles",
+          "name": "new years day",
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "24h ago",
+          "started": "17h ago",
           "percentageIncrease": "100%"
         },
         {
@@ -88,7 +79,16 @@
           "relevanceScore": 85,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "5h ago",
+          "started": "7h ago",
+          "percentageIncrease": "50%"
+        },
+        {
+          "name": "flu shots",
+          "relevanceScore": 85,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "7h ago",
+          "trendBreakdown": "super",
           "percentageIncrease": "50%"
         }
       ]
