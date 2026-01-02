@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-01-02T16:04:39.976Z",
+  "timestamp": "2026-01-02T18:04:36.473Z",
   "states": [
     {
       "name": "Illinois",
@@ -13,15 +13,23 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "21h ago",
+          "started": "23h ago",
           "percentageIncrease": "300%"
+        },
+        {
+          "name": "vaccinations",
+          "relevanceScore": 90,
+          "category": "Law and Government",
+          "searchVolume": "1K+",
+          "started": "15h ago",
+          "percentageIncrease": "100%"
         },
         {
           "name": "waste management",
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "40 minutes ago",
+          "started": "2h ago",
           "percentageIncrease": "100%"
         }
       ]

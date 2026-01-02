@@ -1,19 +1,35 @@
 {
-  "timestamp": "2026-01-02T16:04:39.976Z",
+  "timestamp": "2026-01-02T18:04:36.473Z",
   "states": [
     {
       "name": "Texas",
       "code": "TX",
-      "topTopic": "ferris state",
+      "topTopic": "personal injury lawyer",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
+        {
+          "name": "personal injury lawyer",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "1h ago",
+          "percentageIncrease": "1000%"
+        },
+        {
+          "name": "accident lawyer",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "1h ago",
+          "percentageIncrease": "900%"
+        },
         {
           "name": "ferris state",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "15h ago",
+          "started": "17h ago",
           "percentageIncrease": "900%"
         },
         {
@@ -21,16 +37,16 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "2K+",
-          "started": "19h ago",
+          "started": "21h ago",
           "trendBreakdown": "zee",
-          "percentageIncrease": "400%"
+          "percentageIncrease": "300%"
         },
         {
           "name": "chief justice john roberts",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "21h ago",
+          "started": "23h ago",
           "percentageIncrease": "400%"
         },
         {
@@ -38,16 +54,32 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "17h ago",
+          "started": "19h ago",
           "percentageIncrease": "300%"
+        },
+        {
+          "name": "cigna",
+          "relevanceScore": 90,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "3h ago",
+          "percentageIncrease": "100%"
         },
         {
           "name": "passenger overboard cruise ship",
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "11h ago",
+          "started": "13h ago",
           "trendBreakdown": "woman",
+          "percentageIncrease": "100%"
+        },
+        {
+          "name": "vaccines",
+          "relevanceScore": 90,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "15h ago",
           "percentageIncrease": "100%"
         }
       ]

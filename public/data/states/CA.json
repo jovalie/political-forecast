@@ -1,19 +1,36 @@
 {
-  "timestamp": "2026-01-02T16:04:39.976Z",
+  "timestamp": "2026-01-02T18:04:36.473Z",
   "states": [
     {
       "name": "California",
       "code": "CA",
-      "topTopic": "stealth bombers",
+      "topTopic": "personal injury lawyer",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
+        {
+          "name": "personal injury lawyer",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "40 minutes ago",
+          "percentageIncrease": "1000%"
+        },
+        {
+          "name": "supreme",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "2h ago",
+          "trendBreakdown": "chief",
+          "percentageIncrease": "600%"
+        },
         {
           "name": "stealth bombers",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "17h ago",
+          "started": "19h ago",
           "percentageIncrease": "900%"
         },
         {
@@ -21,7 +38,7 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "2K+",
-          "started": "11h ago",
+          "started": "13h ago",
           "trendBreakdown": "woman",
           "percentageIncrease": "200%"
         },
@@ -30,7 +47,7 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "1h ago",
+          "started": "3h ago",
           "percentageIncrease": "300%"
         },
         {
@@ -38,23 +55,15 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "16h ago",
+          "started": "18h ago",
           "percentageIncrease": "200%"
-        },
-        {
-          "name": "chief justice john roberts",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "21h ago",
-          "percentageIncrease": "300%"
         },
         {
           "name": "oj simpson",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "16h ago",
+          "started": "18h ago",
           "percentageIncrease": "300%"
         },
         {
@@ -62,34 +71,25 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "19h ago",
+          "started": "21h ago",
           "percentageIncrease": "200%"
         },
         {
-          "name": "california minimum wage",
+          "name": "minimum wage in california",
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "19h ago",
-          "trendBreakdown": "minimum",
+          "started": "23h ago",
+          "trendBreakdown": "california",
           "percentageIncrease": "100%"
         },
         {
-          "name": "new years day",
+          "name": "cigna",
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "23h ago",
+          "started": "20 minutes ago",
           "percentageIncrease": "100%"
-        },
-        {
-          "name": "flu shots",
-          "relevanceScore": 85,
-          "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "13h ago",
-          "trendBreakdown": "super",
-          "percentageIncrease": "50%"
         }
       ]
     }

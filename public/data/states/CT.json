@@ -1,20 +1,19 @@
 {
-  "timestamp": "2026-01-02T16:04:39.976Z",
+  "timestamp": "2026-01-02T18:04:36.473Z",
   "states": [
     {
       "name": "Connecticut",
       "code": "CT",
-      "topTopic": "accident lawyer",
+      "topTopic": "personal injury lawyer",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
         {
-          "name": "accident lawyer",
+          "name": "personal injury lawyer",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "20 minutes ago",
-          "trendBreakdown": "personal",
+          "started": "2h ago",
           "percentageIncrease": "1000%"
         }
       ]

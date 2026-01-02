@@ -1,20 +1,20 @@
 {
-  "timestamp": "2026-01-02T16:04:39.976Z",
+  "timestamp": "2026-01-02T18:04:36.473Z",
   "states": [
     {
       "name": "Tennessee",
       "code": "TN",
-      "topTopic": "new year's",
+      "topTopic": "cigna",
       "category": "Law and Government",
-      "trendingScore": 100,
+      "trendingScore": 95,
       "topics": [
         {
-          "name": "new year's",
-          "relevanceScore": 100,
+          "name": "cigna",
+          "relevanceScore": 95,
           "category": "Law and Government",
-          "searchVolume": "50K+",
-          "started": "23h ago",
-          "percentageIncrease": "1000%"
+          "searchVolume": "100+",
+          "started": "2h ago",
+          "percentageIncrease": "200%"
         }
       ]
     }

@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-01-02T16:04:39.976Z",
+  "timestamp": "2026-01-02T18:04:36.473Z",
   "states": [
     {
       "name": "Arizona",
@@ -13,15 +13,31 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "10h ago",
+          "started": "12h ago",
           "percentageIncrease": "800%"
+        },
+        {
+          "name": "cigna",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "1h ago",
+          "percentageIncrease": "200%"
         },
         {
           "name": "waste management",
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "20 minutes ago",
+          "started": "2h ago",
+          "percentageIncrease": "100%"
+        },
+        {
+          "name": "vaccinations",
+          "relevanceScore": 90,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "15h ago",
           "percentageIncrease": "100%"
         }
       ]
