@@ -1,19 +1,27 @@
 {
-  "timestamp": "2026-01-02T02:39:32.752Z",
+  "timestamp": "2026-01-02T04:18:35.273Z",
   "states": [
     {
       "name": "South Carolina",
       "code": "SC",
-      "topTopic": "news",
+      "topTopic": "first",
       "category": "Law and Government",
-      "trendingScore": 90,
+      "trendingScore": 100,
       "topics": [
+        {
+          "name": "first",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "1K+",
+          "started": "3h ago",
+          "percentageIncrease": "900%"
+        },
         {
           "name": "news",
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "11h ago",
+          "started": "15h ago",
           "percentageIncrease": "100%"
         }
       ]

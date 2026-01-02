@@ -1,19 +1,27 @@
 {
-  "timestamp": "2026-01-02T02:39:32.752Z",
+  "timestamp": "2026-01-02T04:18:35.273Z",
   "states": [
     {
       "name": "Puerto Rico",
       "code": "PR",
-      "topTopic": "primera hora",
+      "topTopic": "walmart",
       "category": "Law and Government",
       "trendingScore": 90,
       "topics": [
+        {
+          "name": "walmart",
+          "relevanceScore": 90,
+          "category": "Law and Government",
+          "searchVolume": "2K+",
+          "started": "14h ago",
+          "percentageIncrease": "100%"
+        },
         {
           "name": "primera hora",
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "20h ago",
+          "started": "22h ago",
           "percentageIncrease": "100%"
         },
         {
@@ -21,7 +29,7 @@
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "16h ago",
+          "started": "17h ago",
           "percentageIncrease": "100%"
         }
       ]

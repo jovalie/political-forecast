@@ -1,36 +1,60 @@
 {
-  "timestamp": "2026-01-02T02:39:32.752Z",
+  "timestamp": "2026-01-02T04:18:35.273Z",
   "states": [
     {
       "name": "Illinois",
       "code": "IL",
-      "topTopic": "new laws in illinois",
+      "topTopic": "abc",
       "category": "Law and Government",
-      "trendingScore": 95,
+      "trendingScore": 100,
       "topics": [
+        {
+          "name": "abc",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "22h ago",
+          "percentageIncrease": "1000%"
+        },
         {
           "name": "new laws in illinois",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "13h ago",
+          "started": "15h ago",
           "trendBreakdown": "new",
           "percentageIncrease": "300%"
+        },
+        {
+          "name": "chicago",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "22h ago",
+          "percentageIncrease": "200%"
         },
         {
           "name": "abc news chicago",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "20h ago",
+          "started": "22h ago",
           "percentageIncrease": "300%"
+        },
+        {
+          "name": "vaccinations",
+          "relevanceScore": 90,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "1h ago",
+          "percentageIncrease": "100%"
         },
         {
           "name": "chicago news",
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "20h ago",
+          "started": "22h ago",
           "percentageIncrease": "100%"
         }
       ]

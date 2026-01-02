@@ -1,27 +1,28 @@
 {
-  "timestamp": "2026-01-02T02:39:32.752Z",
+  "timestamp": "2026-01-02T04:18:35.273Z",
   "states": [
     {
       "name": "New York",
       "code": "NY",
-      "topTopic": "holland america cruise ship",
+      "topTopic": "woman overboard cruise ship",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
         {
-          "name": "holland america cruise ship",
+          "name": "woman overboard cruise ship",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "3h ago",
-          "percentageIncrease": "900%"
+          "searchVolume": "1K+",
+          "started": "1h ago",
+          "trendBreakdown": "holland",
+          "percentageIncrease": "1000%"
         },
         {
           "name": "chief justice john roberts",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "8h ago",
+          "started": "9h ago",
           "trendBreakdown": "john",
           "percentageIncrease": "700%"
         },
@@ -30,7 +31,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "21h ago",
+          "started": "23h ago",
           "percentageIncrease": "900%"
         },
         {
@@ -38,7 +39,7 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "2h ago",
+          "started": "4h ago",
           "percentageIncrease": "300%"
         },
         {
@@ -46,7 +47,7 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "22h ago",
+          "started": "23h ago",
           "percentageIncrease": "200%"
         },
         {
@@ -54,7 +55,7 @@
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "11h ago",
+          "started": "13h ago",
           "percentageIncrease": "100%"
         },
         {
@@ -62,7 +63,7 @@
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "2h ago",
+          "started": "4h ago",
           "trendBreakdown": "minimum",
           "percentageIncrease": "100%"
         },
@@ -71,7 +72,7 @@
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "9h ago",
+          "started": "11h ago",
           "percentageIncrease": "100%"
         }
       ]

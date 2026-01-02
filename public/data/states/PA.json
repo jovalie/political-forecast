@@ -1,36 +1,37 @@
 {
-  "timestamp": "2026-01-02T02:39:32.752Z",
+  "timestamp": "2026-01-02T04:18:35.273Z",
   "states": [
     {
       "name": "Pennsylvania",
       "code": "PA",
-      "topTopic": "chief justice john roberts",
+      "topTopic": "woman overboard cruise ship",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
+        {
+          "name": "woman overboard cruise ship",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "1h ago",
+          "trendBreakdown": "holland",
+          "percentageIncrease": "1000%"
+        },
         {
           "name": "chief justice john roberts",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "7h ago",
+          "started": "9h ago",
           "trendBreakdown": "john",
           "percentageIncrease": "1000%"
-        },
-        {
-          "name": "pa minimum wage",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "23h ago",
-          "percentageIncrease": "300%"
         },
         {
           "name": "pittsburgh post gazette",
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "13h ago",
+          "started": "15h ago",
           "trendBreakdown": "post",
           "percentageIncrease": "100%"
         }
