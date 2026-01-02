@@ -1,36 +1,36 @@
 {
-  "timestamp": "2026-01-02T10:04:46.068Z",
+  "timestamp": "2026-01-02T12:04:38.604Z",
   "states": [
     {
       "name": "New York",
       "code": "NY",
-      "topTopic": "passenger overboard cruise ship",
+      "topTopic": "jumaane williams",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
-        {
-          "name": "passenger overboard cruise ship",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "2K+",
-          "started": "5h ago",
-          "trendBreakdown": "holland",
-          "percentageIncrease": "700%"
-        },
         {
           "name": "jumaane williams",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "2K+",
-          "started": "15h ago",
+          "started": "17h ago",
           "percentageIncrease": "1000%"
+        },
+        {
+          "name": "passenger overboard cruise ship",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "2K+",
+          "started": "7h ago",
+          "trendBreakdown": "holland",
+          "percentageIncrease": "600%"
         },
         {
           "name": "chief justice john roberts",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "15h ago",
+          "started": "17h ago",
           "trendBreakdown": "john",
           "percentageIncrease": "700%"
         },
@@ -39,39 +39,23 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "5h ago",
+          "started": "7h ago",
           "percentageIncrease": "700%"
-        },
-        {
-          "name": "mark levine comptroller",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "15h ago",
-          "percentageIncrease": "1000%"
         },
         {
           "name": "tennessee driver's license law",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "11h ago",
+          "started": "13h ago",
           "percentageIncrease": "400%"
-        },
-        {
-          "name": "pentagon",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "9h ago",
-          "percentageIncrease": "300%"
         },
         {
           "name": "american dream mall",
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "19h ago",
+          "started": "21h ago",
           "percentageIncrease": "100%"
         },
         {
@@ -79,7 +63,7 @@
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "10h ago",
+          "started": "12h ago",
           "trendBreakdown": "minimum",
           "percentageIncrease": "100%"
         },
@@ -88,7 +72,7 @@
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "17h ago",
+          "started": "19h ago",
           "percentageIncrease": "100%"
         }
       ]

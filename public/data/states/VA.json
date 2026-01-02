@@ -1,27 +1,19 @@
 {
-  "timestamp": "2026-01-02T10:04:46.068Z",
+  "timestamp": "2026-01-02T12:04:38.604Z",
   "states": [
     {
       "name": "Virginia",
       "code": "VA",
-      "topTopic": "pentagon",
+      "topTopic": "passenger overboard cruise ship",
       "category": "Law and Government",
-      "trendingScore": 100,
+      "trendingScore": 95,
       "topics": [
-        {
-          "name": "pentagon",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "10h ago",
-          "percentageIncrease": "500%"
-        },
         {
           "name": "passenger overboard cruise ship",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "3h ago",
+          "started": "5h ago",
           "trendBreakdown": "holland",
           "percentageIncrease": "200%"
         },
@@ -30,7 +22,7 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "5h ago",
+          "started": "7h ago",
           "percentageIncrease": "400%"
         }
       ]
