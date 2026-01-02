@@ -1,37 +1,37 @@
 {
-  "timestamp": "2026-01-02T04:18:35.273Z",
+  "timestamp": "2026-01-02T06:04:54.406Z",
   "states": [
     {
       "name": "Virginia",
       "code": "VA",
-      "topTopic": "woman overboard cruise ship",
+      "topTopic": "ferris state",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
         {
-          "name": "woman overboard cruise ship",
+          "name": "ferris state",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "30 minutes ago",
-          "trendBreakdown": "holland",
-          "percentageIncrease": "1000%"
+          "searchVolume": "100+",
+          "started": "1h ago",
+          "percentageIncrease": "500%"
         },
         {
           "name": "pentagon",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "4h ago",
+          "started": "6h ago",
           "percentageIncrease": "500%"
         },
         {
-          "name": "uber",
+          "name": "holland america cruise ship",
           "relevanceScore": 95,
           "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "22h ago",
-          "percentageIncrease": "200%"
+          "searchVolume": "500+",
+          "started": "6h ago",
+          "trendBreakdown": "woman",
+          "percentageIncrease": "400%"
         }
       ]
     }

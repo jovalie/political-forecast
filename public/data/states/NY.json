@@ -1,61 +1,53 @@
 {
-  "timestamp": "2026-01-02T04:18:35.273Z",
+  "timestamp": "2026-01-02T06:04:54.406Z",
   "states": [
     {
       "name": "New York",
       "code": "NY",
-      "topTopic": "woman overboard cruise ship",
+      "topTopic": "passenger overboard cruise ship",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
         {
-          "name": "woman overboard cruise ship",
+          "name": "passenger overboard cruise ship",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "1K+",
           "started": "1h ago",
-          "trendBreakdown": "holland",
+          "trendBreakdown": "woman",
           "percentageIncrease": "1000%"
+        },
+        {
+          "name": "ferris state",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "1h ago",
+          "percentageIncrease": "700%"
         },
         {
           "name": "chief justice john roberts",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "9h ago",
+          "started": "11h ago",
           "trendBreakdown": "john",
           "percentageIncrease": "700%"
-        },
-        {
-          "name": "learning center",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "23h ago",
-          "percentageIncrease": "900%"
         },
         {
           "name": "pentagon",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "4h ago",
+          "started": "5h ago",
           "percentageIncrease": "300%"
-        },
-        {
-          "name": "univision",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "23h ago",
-          "percentageIncrease": "200%"
         },
         {
           "name": "american dream mall",
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "13h ago",
+          "started": "15h ago",
           "percentageIncrease": "100%"
         },
         {
@@ -63,7 +55,7 @@
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "4h ago",
+          "started": "6h ago",
           "trendBreakdown": "minimum",
           "percentageIncrease": "100%"
         },
@@ -72,7 +64,7 @@
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "11h ago",
+          "started": "13h ago",
           "percentageIncrease": "100%"
         }
       ]

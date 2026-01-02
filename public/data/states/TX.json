@@ -1,20 +1,37 @@
 {
-  "timestamp": "2026-01-02T04:18:35.273Z",
+  "timestamp": "2026-01-02T06:04:54.406Z",
   "states": [
     {
       "name": "Texas",
       "code": "TX",
-      "topTopic": "woman overboard cruise ship",
+      "topTopic": "zeethewizard",
       "category": "Law and Government",
-      "trendingScore": 95,
+      "trendingScore": 100,
       "topics": [
+        {
+          "name": "zeethewizard",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "2K+",
+          "started": "9h ago",
+          "trendBreakdown": "zee",
+          "percentageIncrease": "600%"
+        },
+        {
+          "name": "ferris state",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "5h ago",
+          "percentageIncrease": "900%"
+        },
         {
           "name": "woman overboard cruise ship",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "2h ago",
-          "trendBreakdown": "holland",
+          "started": "4h ago",
+          "trendBreakdown": "passenger",
           "percentageIncrease": "400%"
         },
         {
@@ -22,7 +39,7 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "9h ago",
+          "started": "11h ago",
           "percentageIncrease": "400%"
         },
         {
@@ -30,39 +47,23 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "14h ago",
+          "started": "16h ago",
           "percentageIncrease": "200%"
-        },
-        {
-          "name": "bank",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "22h ago",
-          "percentageIncrease": "200%"
-        },
-        {
-          "name": "vaccines",
-          "relevanceScore": 90,
-          "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "1h ago",
-          "percentageIncrease": "100%"
         },
         {
           "name": "google news",
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "13h ago",
+          "started": "15h ago",
           "percentageIncrease": "100%"
         },
         {
-          "name": "wfaa",
+          "name": "videos",
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "22h ago",
+          "started": "20h ago",
           "percentageIncrease": "100%"
         }
       ]

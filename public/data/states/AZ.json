@@ -1,19 +1,27 @@
 {
-  "timestamp": "2026-01-02T04:18:35.273Z",
+  "timestamp": "2026-01-02T06:04:54.406Z",
   "states": [
     {
       "name": "Arizona",
       "code": "AZ",
-      "topTopic": "arizona minimum wage",
+      "topTopic": "ferris state",
       "category": "Law and Government",
-      "trendingScore": 95,
+      "trendingScore": 100,
       "topics": [
+        {
+          "name": "ferris state",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "50 minutes ago",
+          "percentageIncrease": "800%"
+        },
         {
           "name": "arizona minimum wage",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "3h ago",
+          "started": "5h ago",
           "percentageIncrease": "200%"
         },
         {
@@ -21,7 +29,7 @@
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "1h ago",
+          "started": "3h ago",
           "percentageIncrease": "100%"
         }
       ]

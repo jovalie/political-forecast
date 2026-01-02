@@ -1,51 +1,35 @@
 {
-  "timestamp": "2026-01-02T04:18:35.273Z",
+  "timestamp": "2026-01-02T06:04:54.406Z",
   "states": [
     {
       "name": "Florida",
       "code": "FL",
-      "topTopic": "learning center",
+      "topTopic": "ferris state",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
         {
-          "name": "learning center",
+          "name": "ferris state",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "23h ago",
-          "percentageIncrease": "800%"
+          "searchVolume": "500+",
+          "started": "5h ago",
+          "percentageIncrease": "500%"
         },
         {
           "name": "pentagon",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "4h ago",
+          "started": "6h ago",
           "percentageIncrease": "400%"
-        },
-        {
-          "name": "fort lauderdale",
-          "relevanceScore": 90,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "23h ago",
-          "percentageIncrease": "100%"
-        },
-        {
-          "name": "news",
-          "relevanceScore": 85,
-          "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "22h ago",
-          "percentageIncrease": "75%"
         },
         {
           "name": "nbc news",
           "relevanceScore": 85,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "15h ago",
+          "started": "17h ago",
           "percentageIncrease": "75%"
         }
       ]

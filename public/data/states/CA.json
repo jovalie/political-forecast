@@ -1,37 +1,37 @@
 {
-  "timestamp": "2026-01-02T04:18:35.273Z",
+  "timestamp": "2026-01-02T06:04:54.406Z",
   "states": [
     {
       "name": "California",
       "code": "CA",
-      "topTopic": "car accident lawyer",
+      "topTopic": "stealth bombers",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
-        {
-          "name": "car accident lawyer",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "3h ago",
-          "trendBreakdown": "personal",
-          "percentageIncrease": "800%"
-        },
         {
           "name": "stealth bombers",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "5h ago",
+          "started": "7h ago",
           "percentageIncrease": "900%"
         },
         {
-          "name": "woman overboard cruise ship",
-          "relevanceScore": 95,
+          "name": "car accident lawyer",
+          "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "2h ago",
-          "trendBreakdown": "holland",
+          "started": "5h ago",
+          "trendBreakdown": "personal",
+          "percentageIncrease": "800%"
+        },
+        {
+          "name": "passenger overboard cruise ship",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "1K+",
+          "started": "1h ago",
+          "trendBreakdown": "woman",
           "percentageIncrease": "300%"
         },
         {
@@ -39,8 +39,8 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "2K+",
-          "started": "13h ago",
-          "trendBreakdown": "minimum",
+          "started": "15h ago",
+          "trendBreakdown": "california",
           "percentageIncrease": "200%"
         },
         {
@@ -48,15 +48,7 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "9h ago",
-          "percentageIncrease": "300%"
-        },
-        {
-          "name": "ktla",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "20h ago",
+          "started": "11h ago",
           "percentageIncrease": "300%"
         },
         {
@@ -64,32 +56,41 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "5h ago",
+          "started": "6h ago",
           "percentageIncrease": "300%"
-        },
-        {
-          "name": "super flu",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "7h ago",
-          "percentageIncrease": "200%"
         },
         {
           "name": "rush hour",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "21h ago",
+          "started": "23h ago",
           "percentageIncrease": "200%"
         },
         {
-          "name": "ferris state",
+          "name": "fireworks los angeles",
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "10 minutes ago",
+          "started": "22h ago",
           "percentageIncrease": "100%"
+        },
+        {
+          "name": "vaccines",
+          "relevanceScore": 85,
+          "category": "Law and Government",
+          "searchVolume": "1K+",
+          "started": "3h ago",
+          "percentageIncrease": "50%"
+        },
+        {
+          "name": "flu shots",
+          "relevanceScore": 85,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "3h ago",
+          "trendBreakdown": "super",
+          "percentageIncrease": "50%"
         }
       ]
     }

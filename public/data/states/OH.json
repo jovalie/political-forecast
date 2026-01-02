@@ -1,20 +1,20 @@
 {
-  "timestamp": "2026-01-02T04:18:35.273Z",
+  "timestamp": "2026-01-02T06:04:54.406Z",
   "states": [
     {
       "name": "Ohio",
       "code": "OH",
-      "topTopic": "news",
+      "topTopic": "ferris state",
       "category": "Law and Government",
-      "trendingScore": 85,
+      "trendingScore": 100,
       "topics": [
         {
-          "name": "news",
-          "relevanceScore": 85,
+          "name": "ferris state",
+          "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "14h ago",
-          "percentageIncrease": "50%"
+          "started": "5h ago",
+          "percentageIncrease": "1000%"
         }
       ]
     }

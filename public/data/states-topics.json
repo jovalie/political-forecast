@@ -1,37 +1,37 @@
 {
-  "timestamp": "2026-01-02T04:18:35.273Z",
+  "timestamp": "2026-01-02T06:04:54.406Z",
   "states": [
     {
       "name": "California",
       "code": "CA",
-      "topTopic": "car accident lawyer",
+      "topTopic": "stealth bombers",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
-        {
-          "name": "car accident lawyer",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "3h ago",
-          "trendBreakdown": "personal",
-          "percentageIncrease": "800%"
-        },
         {
           "name": "stealth bombers",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "5h ago",
+          "started": "7h ago",
           "percentageIncrease": "900%"
         },
         {
-          "name": "woman overboard cruise ship",
-          "relevanceScore": 95,
+          "name": "car accident lawyer",
+          "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "2h ago",
-          "trendBreakdown": "holland",
+          "started": "5h ago",
+          "trendBreakdown": "personal",
+          "percentageIncrease": "800%"
+        },
+        {
+          "name": "passenger overboard cruise ship",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "1K+",
+          "started": "1h ago",
+          "trendBreakdown": "woman",
           "percentageIncrease": "300%"
         },
         {
@@ -39,8 +39,8 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "2K+",
-          "started": "13h ago",
-          "trendBreakdown": "minimum",
+          "started": "15h ago",
+          "trendBreakdown": "california",
           "percentageIncrease": "200%"
         },
         {
@@ -48,15 +48,7 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "9h ago",
-          "percentageIncrease": "300%"
-        },
-        {
-          "name": "ktla",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "20h ago",
+          "started": "11h ago",
           "percentageIncrease": "300%"
         },
         {
@@ -64,48 +56,65 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "5h ago",
+          "started": "6h ago",
           "percentageIncrease": "300%"
-        },
-        {
-          "name": "super flu",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "7h ago",
-          "percentageIncrease": "200%"
         },
         {
           "name": "rush hour",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "21h ago",
+          "started": "23h ago",
           "percentageIncrease": "200%"
         },
         {
-          "name": "ferris state",
+          "name": "fireworks los angeles",
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "10 minutes ago",
+          "started": "22h ago",
           "percentageIncrease": "100%"
+        },
+        {
+          "name": "vaccines",
+          "relevanceScore": 85,
+          "category": "Law and Government",
+          "searchVolume": "1K+",
+          "started": "3h ago",
+          "percentageIncrease": "50%"
+        },
+        {
+          "name": "flu shots",
+          "relevanceScore": 85,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "3h ago",
+          "trendBreakdown": "super",
+          "percentageIncrease": "50%"
         }
       ]
     },
     {
       "name": "Arizona",
       "code": "AZ",
-      "topTopic": "arizona minimum wage",
+      "topTopic": "ferris state",
       "category": "Law and Government",
-      "trendingScore": 95,
+      "trendingScore": 100,
       "topics": [
+        {
+          "name": "ferris state",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "50 minutes ago",
+          "percentageIncrease": "800%"
+        },
         {
           "name": "arizona minimum wage",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "3h ago",
+          "started": "5h ago",
           "percentageIncrease": "200%"
         },
         {
@@ -113,7 +122,7 @@
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "1h ago",
+          "started": "3h ago",
           "percentageIncrease": "100%"
         }
       ]
@@ -121,48 +130,32 @@
     {
       "name": "Florida",
       "code": "FL",
-      "topTopic": "learning center",
+      "topTopic": "ferris state",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
         {
-          "name": "learning center",
+          "name": "ferris state",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "23h ago",
-          "percentageIncrease": "800%"
+          "searchVolume": "500+",
+          "started": "5h ago",
+          "percentageIncrease": "500%"
         },
         {
           "name": "pentagon",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "4h ago",
+          "started": "6h ago",
           "percentageIncrease": "400%"
-        },
-        {
-          "name": "fort lauderdale",
-          "relevanceScore": 90,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "23h ago",
-          "percentageIncrease": "100%"
-        },
-        {
-          "name": "news",
-          "relevanceScore": 85,
-          "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "22h ago",
-          "percentageIncrease": "75%"
         },
         {
           "name": "nbc news",
           "relevanceScore": 85,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "15h ago",
+          "started": "17h ago",
           "percentageIncrease": "75%"
         }
       ]
@@ -179,24 +172,8 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "3h ago",
+          "started": "5h ago",
           "percentageIncrease": "1000%"
-        },
-        {
-          "name": "pentagon",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "4h ago",
-          "percentageIncrease": "300%"
-        },
-        {
-          "name": "learning center",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "22h ago",
-          "percentageIncrease": "400%"
         }
       ]
     },
@@ -212,7 +189,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "22h ago",
+          "started": "24h ago",
           "percentageIncrease": "1000%"
         },
         {
@@ -220,24 +197,16 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "15h ago",
+          "started": "17h ago",
           "trendBreakdown": "new",
           "percentageIncrease": "300%"
         },
         {
-          "name": "chicago",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "22h ago",
-          "percentageIncrease": "200%"
-        },
-        {
-          "name": "abc news chicago",
+          "name": "mall",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "22h ago",
+          "started": "11h ago",
           "percentageIncrease": "300%"
         },
         {
@@ -245,15 +214,7 @@
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "1h ago",
-          "percentageIncrease": "100%"
-        },
-        {
-          "name": "chicago news",
-          "relevanceScore": 90,
-          "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "22h ago",
+          "started": "3h ago",
           "percentageIncrease": "100%"
         }
       ]
@@ -270,7 +231,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "5h ago",
+          "started": "6h ago",
           "percentageIncrease": "800%"
         }
       ]
@@ -304,7 +265,7 @@
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "16h ago",
+          "started": "17h ago",
           "percentageIncrease": "100%"
         },
         {
@@ -312,7 +273,7 @@
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "16h ago",
+          "started": "18h ago",
           "percentageIncrease": "100%"
         },
         {
@@ -320,7 +281,7 @@
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "21h ago",
+          "started": "23h ago",
           "percentageIncrease": "100%"
         }
       ]
@@ -337,7 +298,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "7h ago",
+          "started": "9h ago",
           "percentageIncrease": "1000%"
         }
       ]
@@ -362,50 +323,34 @@
     {
       "name": "New Jersey",
       "code": "NJ",
-      "topTopic": "woman overboard cruise ship",
+      "topTopic": "passenger overboard cruise ship",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
         {
-          "name": "woman overboard cruise ship",
+          "name": "passenger overboard cruise ship",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "50 minutes ago",
-          "trendBreakdown": "holland",
-          "percentageIncrease": "1000%"
-        },
-        {
-          "name": "learning center",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "23h ago",
-          "percentageIncrease": "1000%"
+          "searchVolume": "1K+",
+          "started": "30 minutes ago",
+          "trendBreakdown": "woman",
+          "percentageIncrease": "900%"
         },
         {
           "name": "garden state plaza",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "13h ago",
+          "started": "15h ago",
           "trendBreakdown": "garden",
           "percentageIncrease": "200%"
-        },
-        {
-          "name": "nbc news",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "23h ago",
-          "percentageIncrease": "300%"
         },
         {
           "name": "american dream mall",
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "2K+",
-          "started": "12h ago",
+          "started": "14h ago",
           "percentageIncrease": "100%"
         },
         {
@@ -413,91 +358,75 @@
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "4h ago",
+          "started": "6h ago",
           "percentageIncrease": "100%"
-        },
-        {
-          "name": "news",
-          "relevanceScore": 85,
-          "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "22h ago",
-          "percentageIncrease": "75%"
         }
       ]
     },
     {
       "name": "North Carolina",
       "code": "NC",
-      "topTopic": "ferris state",
+      "topTopic": "fox news",
       "category": "Law and Government",
-      "trendingScore": 100,
+      "trendingScore": 85,
       "topics": [
         {
-          "name": "ferris state",
-          "relevanceScore": 100,
+          "name": "fox news",
+          "relevanceScore": 85,
           "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "2h ago",
-          "percentageIncrease": "500%"
+          "searchVolume": "500+",
+          "started": "17h ago",
+          "percentageIncrease": "50%"
         }
       ]
     },
     {
       "name": "New York",
       "code": "NY",
-      "topTopic": "woman overboard cruise ship",
+      "topTopic": "passenger overboard cruise ship",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
         {
-          "name": "woman overboard cruise ship",
+          "name": "passenger overboard cruise ship",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "1K+",
           "started": "1h ago",
-          "trendBreakdown": "holland",
+          "trendBreakdown": "woman",
           "percentageIncrease": "1000%"
+        },
+        {
+          "name": "ferris state",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "1h ago",
+          "percentageIncrease": "700%"
         },
         {
           "name": "chief justice john roberts",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "9h ago",
+          "started": "11h ago",
           "trendBreakdown": "john",
           "percentageIncrease": "700%"
-        },
-        {
-          "name": "learning center",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "23h ago",
-          "percentageIncrease": "900%"
         },
         {
           "name": "pentagon",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "4h ago",
+          "started": "5h ago",
           "percentageIncrease": "300%"
-        },
-        {
-          "name": "univision",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "23h ago",
-          "percentageIncrease": "200%"
         },
         {
           "name": "american dream mall",
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "13h ago",
+          "started": "15h ago",
           "percentageIncrease": "100%"
         },
         {
@@ -505,7 +434,7 @@
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "4h ago",
+          "started": "6h ago",
           "trendBreakdown": "minimum",
           "percentageIncrease": "100%"
         },
@@ -514,7 +443,7 @@
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "11h ago",
+          "started": "13h ago",
           "percentageIncrease": "100%"
         }
       ]
@@ -522,17 +451,17 @@
     {
       "name": "Ohio",
       "code": "OH",
-      "topTopic": "news",
+      "topTopic": "ferris state",
       "category": "Law and Government",
-      "trendingScore": 85,
+      "trendingScore": 100,
       "topics": [
         {
-          "name": "news",
-          "relevanceScore": 85,
+          "name": "ferris state",
+          "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "14h ago",
-          "percentageIncrease": "50%"
+          "started": "5h ago",
+          "percentageIncrease": "1000%"
         }
       ]
     },
@@ -556,16 +485,24 @@
     {
       "name": "Pennsylvania",
       "code": "PA",
-      "topTopic": "woman overboard cruise ship",
+      "topTopic": "ferris state",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
+        {
+          "name": "ferris state",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "1h ago",
+          "percentageIncrease": "500%"
+        },
         {
           "name": "woman overboard cruise ship",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "1h ago",
+          "started": "3h ago",
           "trendBreakdown": "holland",
           "percentageIncrease": "1000%"
         },
@@ -574,7 +511,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "9h ago",
+          "started": "11h ago",
           "trendBreakdown": "john",
           "percentageIncrease": "1000%"
         },
@@ -583,7 +520,7 @@
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "15h ago",
+          "started": "16h ago",
           "trendBreakdown": "post",
           "percentageIncrease": "100%"
         }
@@ -601,15 +538,15 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "3h ago",
-          "percentageIncrease": "900%"
+          "started": "5h ago",
+          "percentageIncrease": "600%"
         },
         {
           "name": "news",
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "15h ago",
+          "started": "17h ago",
           "percentageIncrease": "100%"
         }
       ]
@@ -634,17 +571,34 @@
     {
       "name": "Texas",
       "code": "TX",
-      "topTopic": "woman overboard cruise ship",
+      "topTopic": "zeethewizard",
       "category": "Law and Government",
-      "trendingScore": 95,
+      "trendingScore": 100,
       "topics": [
+        {
+          "name": "zeethewizard",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "2K+",
+          "started": "9h ago",
+          "trendBreakdown": "zee",
+          "percentageIncrease": "600%"
+        },
+        {
+          "name": "ferris state",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "5h ago",
+          "percentageIncrease": "900%"
+        },
         {
           "name": "woman overboard cruise ship",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "2h ago",
-          "trendBreakdown": "holland",
+          "started": "4h ago",
+          "trendBreakdown": "passenger",
           "percentageIncrease": "400%"
         },
         {
@@ -652,7 +606,7 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "9h ago",
+          "started": "11h ago",
           "percentageIncrease": "400%"
         },
         {
@@ -660,39 +614,23 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "14h ago",
+          "started": "16h ago",
           "percentageIncrease": "200%"
-        },
-        {
-          "name": "bank",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "22h ago",
-          "percentageIncrease": "200%"
-        },
-        {
-          "name": "vaccines",
-          "relevanceScore": 90,
-          "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "1h ago",
-          "percentageIncrease": "100%"
         },
         {
           "name": "google news",
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "13h ago",
+          "started": "15h ago",
           "percentageIncrease": "100%"
         },
         {
-          "name": "wfaa",
+          "name": "videos",
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "22h ago",
+          "started": "20h ago",
           "percentageIncrease": "100%"
         }
       ]
@@ -700,34 +638,34 @@
     {
       "name": "Virginia",
       "code": "VA",
-      "topTopic": "woman overboard cruise ship",
+      "topTopic": "ferris state",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
         {
-          "name": "woman overboard cruise ship",
+          "name": "ferris state",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "30 minutes ago",
-          "trendBreakdown": "holland",
-          "percentageIncrease": "1000%"
+          "searchVolume": "100+",
+          "started": "1h ago",
+          "percentageIncrease": "500%"
         },
         {
           "name": "pentagon",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "4h ago",
+          "started": "6h ago",
           "percentageIncrease": "500%"
         },
         {
-          "name": "uber",
+          "name": "holland america cruise ship",
           "relevanceScore": 95,
           "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "22h ago",
-          "percentageIncrease": "200%"
+          "searchVolume": "500+",
+          "started": "6h ago",
+          "trendBreakdown": "woman",
+          "percentageIncrease": "400%"
         }
       ]
     },
@@ -794,7 +732,7 @@
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "19h ago",
+          "started": "21h ago",
           "percentageIncrease": "100%"
         },
         {
@@ -802,7 +740,7 @@
           "relevanceScore": 85,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "1h ago",
+          "started": "3h ago",
           "percentageIncrease": "50%"
         }
       ]
@@ -810,16 +748,24 @@
     {
       "name": "Alabama",
       "code": "AL",
-      "topTopic": "jacks",
+      "topTopic": "ferris state",
       "category": "Law and Government",
-      "trendingScore": 90,
+      "trendingScore": 100,
       "topics": [
+        {
+          "name": "ferris state",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "1h ago",
+          "percentageIncrease": "700%"
+        },
         {
           "name": "jacks",
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "16h ago",
+          "started": "18h ago",
           "percentageIncrease": "100%"
         }
       ]
@@ -861,17 +807,17 @@
     {
       "name": "Colorado",
       "code": "CO",
-      "topTopic": "abc",
+      "topTopic": "ferris state",
       "category": "Law and Government",
-      "trendingScore": 95,
+      "trendingScore": 100,
       "topics": [
         {
-          "name": "abc",
-          "relevanceScore": 95,
+          "name": "ferris state",
+          "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "23h ago",
-          "percentageIncrease": "400%"
+          "started": "1h ago",
+          "percentageIncrease": "900%"
         }
       ]
     },
@@ -921,7 +867,7 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "19h ago",
+          "started": "21h ago",
           "trendBreakdown": "newsmn",
           "percentageIncrease": "300%"
         }
@@ -1015,32 +961,16 @@
     {
       "name": "Puerto Rico",
       "code": "PR",
-      "topTopic": "walmart",
+      "topTopic": "el nuevo dia",
       "category": "Law and Government",
       "trendingScore": 90,
       "topics": [
-        {
-          "name": "walmart",
-          "relevanceScore": 90,
-          "category": "Law and Government",
-          "searchVolume": "2K+",
-          "started": "14h ago",
-          "percentageIncrease": "100%"
-        },
-        {
-          "name": "primera hora",
-          "relevanceScore": 90,
-          "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "22h ago",
-          "percentageIncrease": "100%"
-        },
         {
           "name": "el nuevo dia",
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "17h ago",
+          "started": "19h ago",
           "percentageIncrease": "100%"
         }
       ]
