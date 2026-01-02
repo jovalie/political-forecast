@@ -1,19 +1,35 @@
 {
-  "timestamp": "2026-01-02T00:05:04.049Z",
+  "timestamp": "2026-01-02T02:39:32.752Z",
   "states": [
     {
       "name": "Virginia",
       "code": "VA",
-      "topTopic": "wavy",
+      "topTopic": "pentagon",
       "category": "Law and Government",
-      "trendingScore": 90,
+      "trendingScore": 100,
       "topics": [
+        {
+          "name": "pentagon",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "2h ago",
+          "percentageIncrease": "500%"
+        },
+        {
+          "name": "uber",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "20h ago",
+          "percentageIncrease": "200%"
+        },
         {
           "name": "wavy",
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "13h ago",
+          "started": "16h ago",
           "percentageIncrease": "100%"
         }
       ]

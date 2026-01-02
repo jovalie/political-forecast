@@ -1,28 +1,28 @@
 {
-  "timestamp": "2026-01-02T00:05:04.049Z",
+  "timestamp": "2026-01-02T02:39:32.752Z",
   "states": [
     {
       "name": "Massachusetts",
       "code": "MA",
-      "topTopic": "super flu",
+      "topTopic": "holland america cruise ship",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
+        {
+          "name": "holland america cruise ship",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "2h ago",
+          "percentageIncrease": "500%"
+        },
         {
           "name": "super flu",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "3h ago",
+          "started": "5h ago",
           "percentageIncrease": "1000%"
-        },
-        {
-          "name": "abc",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "23h ago",
-          "percentageIncrease": "700%"
         }
       ]
     }

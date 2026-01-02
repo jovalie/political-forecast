@@ -1,20 +1,37 @@
 {
-  "timestamp": "2026-01-02T00:05:04.049Z",
+  "timestamp": "2026-01-02T02:39:32.752Z",
   "states": [
     {
       "name": "California",
       "code": "CA",
-      "topTopic": "new laws in california",
+      "topTopic": "car accident lawyer",
       "category": "Law and Government",
-      "trendingScore": 95,
+      "trendingScore": 100,
       "topics": [
         {
-          "name": "new laws in california",
+          "name": "car accident lawyer",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "2h ago",
+          "trendBreakdown": "personal",
+          "percentageIncrease": "800%"
+        },
+        {
+          "name": "stealth bombers",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "3h ago",
+          "percentageIncrease": "900%"
+        },
+        {
+          "name": "new california laws",
           "relevanceScore": 95,
           "category": "Law and Government",
-          "searchVolume": "5K+",
-          "started": "22h ago",
-          "trendBreakdown": "new",
+          "searchVolume": "2K+",
+          "started": "12h ago",
+          "trendBreakdown": "california",
           "percentageIncrease": "200%"
         },
         {
@@ -22,31 +39,23 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "5h ago",
+          "started": "7h ago",
           "percentageIncrease": "300%"
         },
         {
-          "name": "ktla",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "16h ago",
-          "percentageIncrease": "300%"
-        },
-        {
-          "name": "super flu",
+          "name": "oj simpson",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
           "started": "3h ago",
-          "percentageIncrease": "200%"
+          "percentageIncrease": "300%"
         },
         {
           "name": "kris jenner",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "20h ago",
+          "started": "23h ago",
           "percentageIncrease": "300%"
         },
         {
@@ -54,7 +63,7 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "17h ago",
+          "started": "19h ago",
           "percentageIncrease": "200%"
         },
         {
@@ -62,7 +71,7 @@
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "20h ago",
+          "started": "23h ago",
           "percentageIncrease": "100%"
         },
         {
@@ -70,7 +79,7 @@
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "18h ago",
+          "started": "21h ago",
           "trendBreakdown": "timela",
           "percentageIncrease": "100%"
         },
@@ -79,16 +88,8 @@
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "16h ago",
+          "started": "18h ago",
           "percentageIncrease": "100%"
-        },
-        {
-          "name": "barnes and noble",
-          "relevanceScore": 85,
-          "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "5h ago",
-          "percentageIncrease": "75%"
         }
       ]
     }

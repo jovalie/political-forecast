@@ -1,52 +1,28 @@
 {
-  "timestamp": "2026-01-02T00:05:04.049Z",
+  "timestamp": "2026-01-02T02:39:32.752Z",
   "states": [
     {
       "name": "Pennsylvania",
       "code": "PA",
-      "topTopic": "holland america cruise ship",
+      "topTopic": "chief justice john roberts",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
-        {
-          "name": "holland america cruise ship",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "20 minutes ago",
-          "percentageIncrease": "800%"
-        },
         {
           "name": "chief justice john roberts",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "5h ago",
+          "started": "7h ago",
           "trendBreakdown": "john",
           "percentageIncrease": "1000%"
-        },
-        {
-          "name": "abc",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "23h ago",
-          "percentageIncrease": "1000%"
-        },
-        {
-          "name": "drake",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "1h ago",
-          "percentageIncrease": "300%"
         },
         {
           "name": "pa minimum wage",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "20h ago",
+          "started": "23h ago",
           "percentageIncrease": "300%"
         },
         {
@@ -54,18 +30,9 @@
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "10h ago",
+          "started": "13h ago",
           "trendBreakdown": "post",
           "percentageIncrease": "100%"
-        },
-        {
-          "name": "news",
-          "relevanceScore": 85,
-          "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "18h ago",
-          "trendBreakdown": "jack",
-          "percentageIncrease": "75%"
         }
       ]
     }

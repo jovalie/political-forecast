@@ -1,43 +1,44 @@
 {
-  "timestamp": "2026-01-02T00:05:04.049Z",
+  "timestamp": "2026-01-02T02:39:32.752Z",
   "states": [
     {
       "name": "Texas",
       "code": "TX",
-      "topTopic": "drake",
+      "topTopic": "woman overboard cruise ship",
       "category": "Law and Government",
-      "trendingScore": 95,
+      "trendingScore": 100,
       "topics": [
         {
-          "name": "drake",
-          "relevanceScore": 95,
+          "name": "woman overboard cruise ship",
+          "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "2h ago",
-          "percentageIncrease": "300%"
-        },
-        {
-          "name": "holland america cruise ship",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "100+",
           "started": "1h ago",
-          "percentageIncrease": "400%"
+          "trendBreakdown": "holland",
+          "percentageIncrease": "500%"
         },
         {
           "name": "chief justice john roberts",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "5h ago",
+          "started": "8h ago",
           "percentageIncrease": "400%"
+        },
+        {
+          "name": "deaths this year",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "2h ago",
+          "percentageIncrease": "200%"
         },
         {
           "name": "austin news",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "10h ago",
+          "started": "12h ago",
           "percentageIncrease": "200%"
         },
         {
@@ -45,7 +46,7 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "21h ago",
+          "started": "23h ago",
           "percentageIncrease": "200%"
         },
         {
@@ -53,7 +54,7 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "18h ago",
+          "started": "21h ago",
           "percentageIncrease": "200%"
         },
         {
@@ -61,7 +62,7 @@
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "9h ago",
+          "started": "11h ago",
           "percentageIncrease": "100%"
         },
         {
@@ -69,7 +70,7 @@
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "18h ago",
+          "started": "20h ago",
           "percentageIncrease": "100%"
         }
       ]

@@ -1,27 +1,35 @@
 {
-  "timestamp": "2026-01-02T00:05:04.049Z",
+  "timestamp": "2026-01-02T02:39:32.752Z",
   "states": [
     {
       "name": "Georgia",
       "code": "GA",
-      "topTopic": "pentagon",
+      "topTopic": "ferris state",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
         {
-          "name": "pentagon",
+          "name": "ferris state",
           "relevanceScore": 100,
           "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "1h ago",
+          "percentageIncrease": "1000%"
+        },
+        {
+          "name": "pentagon",
+          "relevanceScore": 95,
+          "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "40 minutes ago",
-          "percentageIncrease": "700%"
+          "started": "3h ago",
+          "percentageIncrease": "300%"
         },
         {
           "name": "learning center",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "18h ago",
+          "started": "21h ago",
           "percentageIncrease": "400%"
         }
       ]

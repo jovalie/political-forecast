@@ -1,20 +1,37 @@
 {
-  "timestamp": "2026-01-02T00:05:04.049Z",
+  "timestamp": "2026-01-02T02:39:32.752Z",
   "states": [
     {
       "name": "California",
       "code": "CA",
-      "topTopic": "new laws in california",
+      "topTopic": "car accident lawyer",
       "category": "Law and Government",
-      "trendingScore": 95,
+      "trendingScore": 100,
       "topics": [
         {
-          "name": "new laws in california",
+          "name": "car accident lawyer",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "2h ago",
+          "trendBreakdown": "personal",
+          "percentageIncrease": "800%"
+        },
+        {
+          "name": "stealth bombers",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "3h ago",
+          "percentageIncrease": "900%"
+        },
+        {
+          "name": "new california laws",
           "relevanceScore": 95,
           "category": "Law and Government",
-          "searchVolume": "5K+",
-          "started": "22h ago",
-          "trendBreakdown": "new",
+          "searchVolume": "2K+",
+          "started": "12h ago",
+          "trendBreakdown": "california",
           "percentageIncrease": "200%"
         },
         {
@@ -22,31 +39,23 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "5h ago",
+          "started": "7h ago",
           "percentageIncrease": "300%"
         },
         {
-          "name": "ktla",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "16h ago",
-          "percentageIncrease": "300%"
-        },
-        {
-          "name": "super flu",
+          "name": "oj simpson",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
           "started": "3h ago",
-          "percentageIncrease": "200%"
+          "percentageIncrease": "300%"
         },
         {
           "name": "kris jenner",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "20h ago",
+          "started": "23h ago",
           "percentageIncrease": "300%"
         },
         {
@@ -54,7 +63,7 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "17h ago",
+          "started": "19h ago",
           "percentageIncrease": "200%"
         },
         {
@@ -62,7 +71,7 @@
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "20h ago",
+          "started": "23h ago",
           "percentageIncrease": "100%"
         },
         {
@@ -70,7 +79,7 @@
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "18h ago",
+          "started": "21h ago",
           "trendBreakdown": "timela",
           "percentageIncrease": "100%"
         },
@@ -79,41 +88,25 @@
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "16h ago",
+          "started": "18h ago",
           "percentageIncrease": "100%"
-        },
-        {
-          "name": "barnes and noble",
-          "relevanceScore": 85,
-          "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "5h ago",
-          "percentageIncrease": "75%"
         }
       ]
     },
     {
       "name": "Arizona",
       "code": "AZ",
-      "topTopic": "somali daycare minnesota",
+      "topTopic": "arizona minimum wage",
       "category": "Law and Government",
       "trendingScore": 95,
       "topics": [
         {
-          "name": "somali daycare minnesota",
+          "name": "arizona minimum wage",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "24h ago",
+          "started": "1h ago",
           "percentageIncrease": "200%"
-        },
-        {
-          "name": "chad ollinger",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "23h ago",
-          "percentageIncrease": "300%"
         }
       ]
     },
@@ -129,7 +122,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "18h ago",
+          "started": "21h ago",
           "percentageIncrease": "800%"
         },
         {
@@ -137,7 +130,7 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "30 minutes ago",
+          "started": "3h ago",
           "percentageIncrease": "400%"
         },
         {
@@ -145,7 +138,7 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "21h ago",
+          "started": "23h ago",
           "percentageIncrease": "200%"
         },
         {
@@ -153,7 +146,7 @@
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "19h ago",
+          "started": "21h ago",
           "percentageIncrease": "100%"
         },
         {
@@ -161,32 +154,48 @@
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "18h ago",
+          "started": "20h ago",
           "percentageIncrease": "100%"
+        },
+        {
+          "name": "nbc news",
+          "relevanceScore": 85,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "14h ago",
+          "percentageIncrease": "75%"
         }
       ]
     },
     {
       "name": "Georgia",
       "code": "GA",
-      "topTopic": "pentagon",
+      "topTopic": "ferris state",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
         {
-          "name": "pentagon",
+          "name": "ferris state",
           "relevanceScore": 100,
           "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "1h ago",
+          "percentageIncrease": "1000%"
+        },
+        {
+          "name": "pentagon",
+          "relevanceScore": 95,
+          "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "40 minutes ago",
-          "percentageIncrease": "700%"
+          "started": "3h ago",
+          "percentageIncrease": "300%"
         },
         {
           "name": "learning center",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "18h ago",
+          "started": "21h ago",
           "percentageIncrease": "400%"
         }
       ]
@@ -203,24 +212,8 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "11h ago",
+          "started": "13h ago",
           "trendBreakdown": "new",
-          "percentageIncrease": "300%"
-        },
-        {
-          "name": "chicago",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "18h ago",
-          "percentageIncrease": "200%"
-        },
-        {
-          "name": "mall",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "5h ago",
           "percentageIncrease": "300%"
         },
         {
@@ -228,41 +221,49 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "18h ago",
+          "started": "20h ago",
           "percentageIncrease": "300%"
+        },
+        {
+          "name": "chicago news",
+          "relevanceScore": 90,
+          "category": "Law and Government",
+          "searchVolume": "1K+",
+          "started": "20h ago",
+          "percentageIncrease": "100%"
         }
       ]
     },
     {
       "name": "Indiana",
       "code": "IN",
-      "topTopic": "somali daycare minnesota",
+      "topTopic": "oj simpson",
       "category": "Law and Government",
-      "trendingScore": 95,
+      "trendingScore": 100,
       "topics": [
         {
-          "name": "somali daycare minnesota",
-          "relevanceScore": 95,
+          "name": "oj simpson",
+          "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "23h ago",
-          "percentageIncrease": "200%"
+          "started": "3h ago",
+          "percentageIncrease": "800%"
         }
       ]
     },
     {
       "name": "Maryland",
       "code": "MD",
-      "topTopic": "abc",
+      "topTopic": "holland america cruise ship",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
         {
-          "name": "abc",
+          "name": "holland america cruise ship",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "22h ago",
+          "searchVolume": "100+",
+          "started": "1h ago",
           "percentageIncrease": "500%"
         }
       ]
@@ -270,32 +271,32 @@
     {
       "name": "Michigan",
       "code": "MI",
-      "topTopic": "new year's",
+      "topTopic": "michigan minimum wage",
       "category": "Law and Government",
-      "trendingScore": 100,
+      "trendingScore": 90,
       "topics": [
         {
-          "name": "new year's",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "50K+",
-          "started": "9h ago",
-          "percentageIncrease": "1000%"
-        },
-        {
           "name": "michigan minimum wage",
-          "relevanceScore": 95,
+          "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "11h ago",
-          "percentageIncrease": "200%"
+          "started": "14h ago",
+          "percentageIncrease": "100%"
         },
         {
           "name": "google news",
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "12h ago",
+          "started": "15h ago",
+          "percentageIncrease": "100%"
+        },
+        {
+          "name": "uber",
+          "relevanceScore": 90,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "20h ago",
           "percentageIncrease": "100%"
         }
       ]
@@ -303,25 +304,25 @@
     {
       "name": "Massachusetts",
       "code": "MA",
-      "topTopic": "super flu",
+      "topTopic": "holland america cruise ship",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
+        {
+          "name": "holland america cruise ship",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "2h ago",
+          "percentageIncrease": "500%"
+        },
         {
           "name": "super flu",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "3h ago",
+          "started": "5h ago",
           "percentageIncrease": "1000%"
-        },
-        {
-          "name": "abc",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "23h ago",
-          "percentageIncrease": "700%"
         }
       ]
     },
@@ -353,16 +354,8 @@
           "name": "holland america cruise ship",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "40 minutes ago",
-          "percentageIncrease": "1000%"
-        },
-        {
-          "name": "abc",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "23h ago",
+          "searchVolume": "500+",
+          "started": "3h ago",
           "percentageIncrease": "1000%"
         },
         {
@@ -370,7 +363,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "18h ago",
+          "started": "21h ago",
           "percentageIncrease": "1000%"
         },
         {
@@ -378,24 +371,32 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "9h ago",
+          "started": "12h ago",
           "trendBreakdown": "garden",
           "percentageIncrease": "200%"
         },
         {
-          "name": "nj minimum wage",
-          "relevanceScore": 90,
+          "name": "nbc news",
+          "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "20 minutes ago",
-          "percentageIncrease": "100%"
+          "started": "21h ago",
+          "percentageIncrease": "300%"
         },
         {
           "name": "american dream mall",
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "2K+",
-          "started": "8h ago",
+          "started": "11h ago",
+          "percentageIncrease": "100%"
+        },
+        {
+          "name": "nj minimum wage",
+          "relevanceScore": 90,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "2h ago",
           "percentageIncrease": "100%"
         }
       ]
@@ -403,68 +404,66 @@
     {
       "name": "North Carolina",
       "code": "NC",
-      "topTopic": "fox news",
+      "topTopic": "ferris state",
       "category": "Law and Government",
-      "trendingScore": 85,
+      "trendingScore": 100,
       "topics": [
         {
-          "name": "fox news",
-          "relevanceScore": 85,
+          "name": "ferris state",
+          "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "9h ago",
-          "percentageIncrease": "50%"
+          "searchVolume": "100+",
+          "started": "50 minutes ago",
+          "percentageIncrease": "500%"
         }
       ]
     },
     {
       "name": "New York",
       "code": "NY",
-      "topTopic": "new year's",
+      "topTopic": "holland america cruise ship",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
         {
-          "name": "new year's",
+          "name": "holland america cruise ship",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "100K+",
-          "started": "23h ago",
-          "trendBreakdown": "new",
-          "percentageIncrease": "1000%"
+          "searchVolume": "500+",
+          "started": "3h ago",
+          "percentageIncrease": "900%"
         },
         {
           "name": "chief justice john roberts",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "5h ago",
+          "started": "8h ago",
           "trendBreakdown": "john",
           "percentageIncrease": "700%"
-        },
-        {
-          "name": "mark levine",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "5h ago",
-          "trendBreakdown": "mark",
-          "percentageIncrease": "1000%"
         },
         {
           "name": "learning center",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "18h ago",
+          "started": "21h ago",
           "percentageIncrease": "900%"
+        },
+        {
+          "name": "pentagon",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "2h ago",
+          "percentageIncrease": "300%"
         },
         {
           "name": "univision",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "19h ago",
+          "started": "22h ago",
           "percentageIncrease": "200%"
         },
         {
@@ -472,7 +471,16 @@
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "9h ago",
+          "started": "11h ago",
+          "percentageIncrease": "100%"
+        },
+        {
+          "name": "nys minimum wage",
+          "relevanceScore": 90,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "2h ago",
+          "trendBreakdown": "minimum",
           "percentageIncrease": "100%"
         },
         {
@@ -480,15 +488,7 @@
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "7h ago",
-          "percentageIncrease": "100%"
-        },
-        {
-          "name": "prince",
-          "relevanceScore": 90,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "19h ago",
+          "started": "9h ago",
           "percentageIncrease": "100%"
         }
       ]
@@ -496,18 +496,17 @@
     {
       "name": "Ohio",
       "code": "OH",
-      "topTopic": "weinland park",
+      "topTopic": "news",
       "category": "Law and Government",
-      "trendingScore": 95,
+      "trendingScore": 85,
       "topics": [
         {
-          "name": "weinland park",
-          "relevanceScore": 95,
+          "name": "news",
+          "relevanceScore": 85,
           "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "23h ago",
-          "trendBreakdown": "columbus",
-          "percentageIncrease": "200%"
+          "searchVolume": "500+",
+          "started": "14h ago",
+          "percentageIncrease": "50%"
         }
       ]
     },
@@ -531,49 +530,25 @@
     {
       "name": "Pennsylvania",
       "code": "PA",
-      "topTopic": "holland america cruise ship",
+      "topTopic": "chief justice john roberts",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
-        {
-          "name": "holland america cruise ship",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "20 minutes ago",
-          "percentageIncrease": "800%"
-        },
         {
           "name": "chief justice john roberts",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "5h ago",
+          "started": "7h ago",
           "trendBreakdown": "john",
           "percentageIncrease": "1000%"
-        },
-        {
-          "name": "abc",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "23h ago",
-          "percentageIncrease": "1000%"
-        },
-        {
-          "name": "drake",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "1h ago",
-          "percentageIncrease": "300%"
         },
         {
           "name": "pa minimum wage",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "20h ago",
+          "started": "23h ago",
           "percentageIncrease": "300%"
         },
         {
@@ -581,18 +556,9 @@
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "10h ago",
+          "started": "13h ago",
           "trendBreakdown": "post",
           "percentageIncrease": "100%"
-        },
-        {
-          "name": "news",
-          "relevanceScore": 85,
-          "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "18h ago",
-          "trendBreakdown": "jack",
-          "percentageIncrease": "75%"
         }
       ]
     },
@@ -633,40 +599,41 @@
     {
       "name": "Texas",
       "code": "TX",
-      "topTopic": "drake",
+      "topTopic": "woman overboard cruise ship",
       "category": "Law and Government",
-      "trendingScore": 95,
+      "trendingScore": 100,
       "topics": [
         {
-          "name": "drake",
-          "relevanceScore": 95,
+          "name": "woman overboard cruise ship",
+          "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "2h ago",
-          "percentageIncrease": "300%"
-        },
-        {
-          "name": "holland america cruise ship",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "100+",
           "started": "1h ago",
-          "percentageIncrease": "400%"
+          "trendBreakdown": "holland",
+          "percentageIncrease": "500%"
         },
         {
           "name": "chief justice john roberts",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "5h ago",
+          "started": "8h ago",
           "percentageIncrease": "400%"
+        },
+        {
+          "name": "deaths this year",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "2h ago",
+          "percentageIncrease": "200%"
         },
         {
           "name": "austin news",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "10h ago",
+          "started": "12h ago",
           "percentageIncrease": "200%"
         },
         {
@@ -674,7 +641,7 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "21h ago",
+          "started": "23h ago",
           "percentageIncrease": "200%"
         },
         {
@@ -682,7 +649,7 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "18h ago",
+          "started": "21h ago",
           "percentageIncrease": "200%"
         },
         {
@@ -690,7 +657,7 @@
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "9h ago",
+          "started": "11h ago",
           "percentageIncrease": "100%"
         },
         {
@@ -698,7 +665,7 @@
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "18h ago",
+          "started": "20h ago",
           "percentageIncrease": "100%"
         }
       ]
@@ -706,16 +673,32 @@
     {
       "name": "Virginia",
       "code": "VA",
-      "topTopic": "wavy",
+      "topTopic": "pentagon",
       "category": "Law and Government",
-      "trendingScore": 90,
+      "trendingScore": 100,
       "topics": [
+        {
+          "name": "pentagon",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "2h ago",
+          "percentageIncrease": "500%"
+        },
+        {
+          "name": "uber",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "20h ago",
+          "percentageIncrease": "200%"
+        },
         {
           "name": "wavy",
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "13h ago",
+          "started": "16h ago",
           "percentageIncrease": "100%"
         }
       ]
@@ -774,17 +757,17 @@
     {
       "name": "Washington",
       "code": "WA",
-      "topTopic": "puerto rico",
+      "topTopic": "uber",
       "category": "Law and Government",
-      "trendingScore": 100,
+      "trendingScore": 90,
       "topics": [
         {
-          "name": "puerto rico",
-          "relevanceScore": 100,
+          "name": "uber",
+          "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "7h ago",
-          "percentageIncrease": "900%"
+          "started": "17h ago",
+          "percentageIncrease": "100%"
         }
       ]
     },
@@ -800,7 +783,7 @@
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "12h ago",
+          "started": "14h ago",
           "percentageIncrease": "100%"
         }
       ]
@@ -817,7 +800,7 @@
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "12h ago",
+          "started": "15h ago",
           "percentageIncrease": "100%"
         }
       ]
@@ -851,7 +834,7 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "19h ago",
+          "started": "22h ago",
           "percentageIncrease": "400%"
         }
       ]
@@ -902,7 +885,7 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "15h ago",
+          "started": "18h ago",
           "trendBreakdown": "newsmn",
           "percentageIncrease": "300%"
         }
@@ -988,7 +971,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "19h ago",
+          "started": "21h ago",
           "percentageIncrease": "500%"
         }
       ]
@@ -996,24 +979,24 @@
     {
       "name": "Puerto Rico",
       "code": "PR",
-      "topTopic": "aibonito",
+      "topTopic": "primera hora",
       "category": "Law and Government",
-      "trendingScore": 100,
+      "trendingScore": 90,
       "topics": [
-        {
-          "name": "aibonito",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "2h ago",
-          "percentageIncrease": "600%"
-        },
         {
           "name": "primera hora",
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "12h ago",
+          "started": "20h ago",
+          "percentageIncrease": "100%"
+        },
+        {
+          "name": "el nuevo dia",
+          "relevanceScore": 90,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "16h ago",
           "percentageIncrease": "100%"
         }
       ]

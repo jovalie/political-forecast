@@ -1,54 +1,52 @@
 {
-  "timestamp": "2026-01-02T00:05:04.049Z",
+  "timestamp": "2026-01-02T02:39:32.752Z",
   "states": [
     {
       "name": "New York",
       "code": "NY",
-      "topTopic": "new year's",
+      "topTopic": "holland america cruise ship",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
         {
-          "name": "new year's",
+          "name": "holland america cruise ship",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "100K+",
-          "started": "23h ago",
-          "trendBreakdown": "new",
-          "percentageIncrease": "1000%"
+          "searchVolume": "500+",
+          "started": "3h ago",
+          "percentageIncrease": "900%"
         },
         {
           "name": "chief justice john roberts",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "5h ago",
+          "started": "8h ago",
           "trendBreakdown": "john",
           "percentageIncrease": "700%"
-        },
-        {
-          "name": "mark levine",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "5h ago",
-          "trendBreakdown": "mark",
-          "percentageIncrease": "1000%"
         },
         {
           "name": "learning center",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "18h ago",
+          "started": "21h ago",
           "percentageIncrease": "900%"
+        },
+        {
+          "name": "pentagon",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "2h ago",
+          "percentageIncrease": "300%"
         },
         {
           "name": "univision",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "19h ago",
+          "started": "22h ago",
           "percentageIncrease": "200%"
         },
         {
@@ -56,7 +54,16 @@
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "9h ago",
+          "started": "11h ago",
+          "percentageIncrease": "100%"
+        },
+        {
+          "name": "nys minimum wage",
+          "relevanceScore": 90,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "2h ago",
+          "trendBreakdown": "minimum",
           "percentageIncrease": "100%"
         },
         {
@@ -64,15 +71,7 @@
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "7h ago",
-          "percentageIncrease": "100%"
-        },
-        {
-          "name": "prince",
-          "relevanceScore": 90,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "19h ago",
+          "started": "9h ago",
           "percentageIncrease": "100%"
         }
       ]

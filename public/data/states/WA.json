@@ -1,20 +1,20 @@
 {
-  "timestamp": "2026-01-02T00:05:04.049Z",
+  "timestamp": "2026-01-02T02:39:32.752Z",
   "states": [
     {
       "name": "Washington",
       "code": "WA",
-      "topTopic": "puerto rico",
+      "topTopic": "uber",
       "category": "Law and Government",
-      "trendingScore": 100,
+      "trendingScore": 90,
       "topics": [
         {
-          "name": "puerto rico",
-          "relevanceScore": 100,
+          "name": "uber",
+          "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "7h ago",
-          "percentageIncrease": "900%"
+          "started": "17h ago",
+          "percentageIncrease": "100%"
         }
       ]
     }

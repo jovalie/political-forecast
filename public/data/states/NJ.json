@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-01-02T00:05:04.049Z",
+  "timestamp": "2026-01-02T02:39:32.752Z",
   "states": [
     {
       "name": "New Jersey",
@@ -12,16 +12,8 @@
           "name": "holland america cruise ship",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "40 minutes ago",
-          "percentageIncrease": "1000%"
-        },
-        {
-          "name": "abc",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "23h ago",
+          "searchVolume": "500+",
+          "started": "3h ago",
           "percentageIncrease": "1000%"
         },
         {
@@ -29,7 +21,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "18h ago",
+          "started": "21h ago",
           "percentageIncrease": "1000%"
         },
         {
@@ -37,24 +29,32 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "9h ago",
+          "started": "12h ago",
           "trendBreakdown": "garden",
           "percentageIncrease": "200%"
         },
         {
-          "name": "nj minimum wage",
-          "relevanceScore": 90,
+          "name": "nbc news",
+          "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "20 minutes ago",
-          "percentageIncrease": "100%"
+          "started": "21h ago",
+          "percentageIncrease": "300%"
         },
         {
           "name": "american dream mall",
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "2K+",
-          "started": "8h ago",
+          "started": "11h ago",
+          "percentageIncrease": "100%"
+        },
+        {
+          "name": "nj minimum wage",
+          "relevanceScore": 90,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "2h ago",
           "percentageIncrease": "100%"
         }
       ]
