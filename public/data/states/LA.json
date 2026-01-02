@@ -1,20 +1,20 @@
 {
-  "timestamp": "2026-01-02T12:04:38.604Z",
+  "timestamp": "2026-01-02T14:04:30.985Z",
   "states": [
     {
       "name": "Louisiana",
       "code": "LA",
-      "topTopic": "new orleans",
+      "topTopic": "new year's",
       "category": "Law and Government",
-      "trendingScore": 95,
+      "trendingScore": 100,
       "topics": [
         {
-          "name": "new orleans",
-          "relevanceScore": 95,
+          "name": "new year's",
+          "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "7h ago",
-          "percentageIncrease": "200%"
+          "searchVolume": "50K+",
+          "started": "23h ago",
+          "percentageIncrease": "1000%"
         }
       ]
     }

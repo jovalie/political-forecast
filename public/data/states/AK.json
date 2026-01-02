@@ -1,20 +1,20 @@
 {
-  "timestamp": "2026-01-02T12:04:38.604Z",
+  "timestamp": "2026-01-02T14:04:30.985Z",
   "states": [
     {
       "name": "Alaska",
       "code": "AK",
-      "topTopic": "alaska airlines",
+      "topTopic": "new year's",
       "category": "Law and Government",
-      "trendingScore": 90,
+      "trendingScore": 100,
       "topics": [
         {
-          "name": "alaska airlines",
-          "relevanceScore": 90,
+          "name": "new year's",
+          "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "20 minutes ago",
-          "percentageIncrease": "100%"
+          "searchVolume": "5K+",
+          "started": "22h ago",
+          "percentageIncrease": "1000%"
         }
       ]
     }

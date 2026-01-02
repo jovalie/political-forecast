@@ -1,29 +1,28 @@
 {
-  "timestamp": "2026-01-02T12:04:38.604Z",
+  "timestamp": "2026-01-02T14:04:30.985Z",
   "states": [
     {
       "name": "Illinois",
       "code": "IL",
-      "topTopic": "new laws in illinois",
+      "topTopic": "mall",
       "category": "Law and Government",
       "trendingScore": 95,
       "topics": [
-        {
-          "name": "new laws in illinois",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "23h ago",
-          "trendBreakdown": "new",
-          "percentageIncrease": "300%"
-        },
         {
           "name": "mall",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "17h ago",
+          "started": "19h ago",
           "percentageIncrease": "300%"
+        },
+        {
+          "name": "flu shots",
+          "relevanceScore": 90,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "11h ago",
+          "percentageIncrease": "100%"
         }
       ]
     }

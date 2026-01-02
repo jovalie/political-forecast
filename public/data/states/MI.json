@@ -1,19 +1,27 @@
 {
-  "timestamp": "2026-01-02T12:04:38.604Z",
+  "timestamp": "2026-01-02T14:04:30.985Z",
   "states": [
     {
       "name": "Michigan",
       "code": "MI",
-      "topTopic": "michigan minimum wage",
+      "topTopic": "new year's",
       "category": "Law and Government",
-      "trendingScore": 90,
+      "trendingScore": 100,
       "topics": [
         {
-          "name": "michigan minimum wage",
+          "name": "new year's",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "100K+",
+          "started": "23h ago",
+          "percentageIncrease": "1000%"
+        },
+        {
+          "name": "will smith",
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "23h ago",
+          "started": "6h ago",
           "percentageIncrease": "100%"
         }
       ]

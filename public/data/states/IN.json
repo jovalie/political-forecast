@@ -1,19 +1,27 @@
 {
-  "timestamp": "2026-01-02T12:04:38.604Z",
+  "timestamp": "2026-01-02T14:04:30.985Z",
   "states": [
     {
       "name": "Indiana",
       "code": "IN",
-      "topTopic": "oj simpson",
+      "topTopic": "new year's",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
+        {
+          "name": "new year's",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "50K+",
+          "started": "24h ago",
+          "percentageIncrease": "1000%"
+        },
         {
           "name": "oj simpson",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "12h ago",
+          "started": "14h ago",
           "percentageIncrease": "800%"
         }
       ]

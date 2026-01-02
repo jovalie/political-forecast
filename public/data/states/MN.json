@@ -1,21 +1,20 @@
 {
-  "timestamp": "2026-01-02T12:04:38.604Z",
+  "timestamp": "2026-01-02T14:04:30.985Z",
   "states": [
     {
       "name": "Minnesota",
       "code": "MN",
-      "topTopic": "childcare",
+      "topTopic": "new year's",
       "category": "Law and Government",
-      "trendingScore": 95,
+      "trendingScore": 100,
       "topics": [
         {
-          "name": "childcare",
-          "relevanceScore": 95,
+          "name": "new year's",
+          "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "100+",
+          "searchVolume": "50K+",
           "started": "23h ago",
-          "trendBreakdown": "newsmn",
-          "percentageIncrease": "300%"
+          "percentageIncrease": "1000%"
         }
       ]
     }

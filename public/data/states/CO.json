@@ -1,20 +1,36 @@
 {
-  "timestamp": "2026-01-02T12:04:38.604Z",
+  "timestamp": "2026-01-02T14:04:30.985Z",
   "states": [
     {
       "name": "Colorado",
       "code": "CO",
-      "topTopic": "ferris state",
+      "topTopic": "new year's",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
+        {
+          "name": "new year's",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "50K+",
+          "started": "23h ago",
+          "percentageIncrease": "1000%"
+        },
         {
           "name": "ferris state",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "7h ago",
+          "started": "9h ago",
           "percentageIncrease": "900%"
+        },
+        {
+          "name": "colorado minimum wage",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "13h ago",
+          "percentageIncrease": "200%"
         }
       ]
     }

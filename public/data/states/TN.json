@@ -1,19 +1,19 @@
 {
-  "timestamp": "2026-01-02T12:04:38.604Z",
+  "timestamp": "2026-01-02T14:04:30.985Z",
   "states": [
     {
       "name": "Tennessee",
       "code": "TN",
-      "topTopic": "puerto rico",
+      "topTopic": "new year's",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
         {
-          "name": "puerto rico",
+          "name": "new year's",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "10h ago",
+          "searchVolume": "50K+",
+          "started": "23h ago",
           "percentageIncrease": "1000%"
         }
       ]

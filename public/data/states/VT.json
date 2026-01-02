@@ -1,20 +1,20 @@
 {
-  "timestamp": "2026-01-02T12:04:38.604Z",
+  "timestamp": "2026-01-02T14:04:30.985Z",
   "states": [
     {
       "name": "Vermont",
       "code": "VT",
-      "topTopic": "laredo",
+      "topTopic": "new year's",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
         {
-          "name": "laredo",
+          "name": "new year's",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "22h ago",
-          "percentageIncrease": "800%"
+          "searchVolume": "5K+",
+          "started": "23h ago",
+          "percentageIncrease": "1000%"
         }
       ]
     }
