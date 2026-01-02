@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-01-01T22:04:29.925Z",
+  "timestamp": "2026-01-02T00:05:04.049Z",
   "states": [
     {
       "name": "California",
@@ -12,8 +12,8 @@
           "name": "new laws in california",
           "relevanceScore": 95,
           "category": "Law and Government",
-          "searchVolume": "2K+",
-          "started": "20h ago",
+          "searchVolume": "5K+",
+          "started": "22h ago",
           "trendBreakdown": "new",
           "percentageIncrease": "200%"
         },
@@ -22,7 +22,7 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "3h ago",
+          "started": "5h ago",
           "percentageIncrease": "300%"
         },
         {
@@ -30,7 +30,7 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "14h ago",
+          "started": "16h ago",
           "percentageIncrease": "300%"
         },
         {
@@ -38,40 +38,31 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "1h ago",
+          "started": "3h ago",
           "percentageIncrease": "200%"
         },
         {
-          "name": "cnn live",
+          "name": "kris jenner",
           "relevanceScore": 95,
           "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "18h ago",
-          "trendBreakdown": "learning",
+          "searchVolume": "500+",
+          "started": "20h ago",
           "percentageIncrease": "300%"
-        },
-        {
-          "name": "jumaane williams",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "1h ago",
-          "percentageIncrease": "200%"
         },
         {
           "name": "rush hour",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "15h ago",
+          "started": "17h ago",
           "percentageIncrease": "200%"
         },
         {
           "name": "prince",
           "relevanceScore": 90,
           "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "18h ago",
+          "searchVolume": "1K+",
+          "started": "20h ago",
           "percentageIncrease": "100%"
         },
         {
@@ -79,17 +70,25 @@
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "16h ago",
+          "started": "18h ago",
           "trendBreakdown": "timela",
           "percentageIncrease": "100%"
         },
         {
-          "name": "outback steakhouse",
+          "name": "fireworks los angeles",
           "relevanceScore": 90,
           "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "23h ago",
+          "searchVolume": "100+",
+          "started": "16h ago",
           "percentageIncrease": "100%"
+        },
+        {
+          "name": "barnes and noble",
+          "relevanceScore": 85,
+          "category": "Law and Government",
+          "searchVolume": "1K+",
+          "started": "5h ago",
+          "percentageIncrease": "75%"
         }
       ]
     }

@@ -1,20 +1,20 @@
 {
-  "timestamp": "2026-01-01T22:04:29.925Z",
+  "timestamp": "2026-01-02T00:05:04.049Z",
   "states": [
     {
       "name": "District of Columbia",
       "code": "DC",
-      "topTopic": "kansas city international airport",
+      "topTopic": "drake",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
         {
-          "name": "kansas city international airport",
+          "name": "drake",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "22h ago",
-          "percentageIncrease": "700%"
+          "started": "1h ago",
+          "percentageIncrease": "500%"
         }
       ]
     }

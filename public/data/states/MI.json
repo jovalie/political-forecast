@@ -1,19 +1,27 @@
 {
-  "timestamp": "2026-01-01T22:04:29.925Z",
+  "timestamp": "2026-01-02T00:05:04.049Z",
   "states": [
     {
       "name": "Michigan",
       "code": "MI",
-      "topTopic": "coney island",
+      "topTopic": "new year's",
       "category": "Law and Government",
-      "trendingScore": 95,
+      "trendingScore": 100,
       "topics": [
         {
-          "name": "coney island",
+          "name": "new year's",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "50K+",
+          "started": "9h ago",
+          "percentageIncrease": "1000%"
+        },
+        {
+          "name": "michigan minimum wage",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "14h ago",
+          "started": "11h ago",
           "percentageIncrease": "200%"
         },
         {
@@ -21,7 +29,7 @@
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "10h ago",
+          "started": "12h ago",
           "percentageIncrease": "100%"
         }
       ]

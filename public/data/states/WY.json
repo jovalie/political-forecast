@@ -1,21 +1,20 @@
 {
-  "timestamp": "2026-01-01T22:04:29.925Z",
+  "timestamp": "2026-01-02T00:05:04.049Z",
   "states": [
     {
       "name": "Wyoming",
       "code": "WY",
-      "topTopic": "brown university",
+      "topTopic": "new year's",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
         {
-          "name": "brown university",
+          "name": "new year's",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "22h ago",
-          "trendBreakdown": "brown",
-          "percentageIncrease": "800%"
+          "searchVolume": "2K+",
+          "started": "8h ago",
+          "percentageIncrease": "1000%"
         }
       ]
     }

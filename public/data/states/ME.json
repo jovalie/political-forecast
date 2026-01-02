@@ -1,20 +1,20 @@
 {
-  "timestamp": "2026-01-01T22:04:29.925Z",
+  "timestamp": "2026-01-02T00:05:04.049Z",
   "states": [
     {
       "name": "Maine",
       "code": "ME",
-      "topTopic": "wabi",
+      "topTopic": "new year's",
       "category": "Law and Government",
-      "trendingScore": 90,
+      "trendingScore": 100,
       "topics": [
         {
-          "name": "wabi",
-          "relevanceScore": 90,
+          "name": "new year's",
+          "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "22h ago",
-          "percentageIncrease": "100%"
+          "searchVolume": "10K+",
+          "started": "9h ago",
+          "percentageIncrease": "1000%"
         }
       ]
     }

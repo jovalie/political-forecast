@@ -1,46 +1,45 @@
 {
-  "timestamp": "2026-01-01T22:04:29.925Z",
+  "timestamp": "2026-01-02T00:05:04.049Z",
   "states": [
     {
       "name": "Illinois",
       "code": "IL",
-      "topTopic": "abc chicago",
+      "topTopic": "new laws in illinois",
       "category": "Law and Government",
-      "trendingScore": 100,
+      "trendingScore": 95,
       "topics": [
-        {
-          "name": "abc chicago",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "17h ago",
-          "trendBreakdown": "abc",
-          "percentageIncrease": "1000%"
-        },
         {
           "name": "new laws in illinois",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "9h ago",
+          "started": "11h ago",
           "trendBreakdown": "new",
           "percentageIncrease": "300%"
+        },
+        {
+          "name": "chicago",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "18h ago",
+          "percentageIncrease": "200%"
         },
         {
           "name": "mall",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "3h ago",
+          "started": "5h ago",
           "percentageIncrease": "300%"
         },
         {
-          "name": "chicago news",
-          "relevanceScore": 90,
+          "name": "abc news chicago",
+          "relevanceScore": 95,
           "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "16h ago",
-          "percentageIncrease": "100%"
+          "searchVolume": "100+",
+          "started": "18h ago",
+          "percentageIncrease": "300%"
         }
       ]
     }
