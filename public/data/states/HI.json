@@ -1,27 +1,19 @@
 {
-  "timestamp": "2026-01-02T14:04:30.985Z",
+  "timestamp": "2026-01-02T16:04:39.976Z",
   "states": [
     {
       "name": "Hawaii",
       "code": "HI",
-      "topTopic": "new year's",
+      "topTopic": "hawaii news",
       "category": "Law and Government",
-      "trendingScore": 100,
+      "trendingScore": 95,
       "topics": [
-        {
-          "name": "new year's",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "10K+",
-          "started": "22h ago",
-          "percentageIncrease": "1000%"
-        },
         {
           "name": "hawaii news",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "21h ago",
+          "started": "23h ago",
           "percentageIncrease": "200%"
         }
       ]

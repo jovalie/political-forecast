@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-01-02T14:04:30.985Z",
+  "timestamp": "2026-01-02T16:04:39.976Z",
   "states": [
     {
       "name": "New York",
@@ -13,49 +13,65 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "2K+",
-          "started": "9h ago",
+          "started": "11h ago",
           "trendBreakdown": "holland",
-          "percentageIncrease": "600%"
+          "percentageIncrease": "700%"
         },
         {
           "name": "chief justice john roberts",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "19h ago",
+          "started": "21h ago",
           "trendBreakdown": "john",
           "percentageIncrease": "700%"
+        },
+        {
+          "name": "dentist",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "9h ago",
+          "percentageIncrease": "600%"
         },
         {
           "name": "ferris state",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "9h ago",
+          "started": "11h ago",
           "percentageIncrease": "700%"
+        },
+        {
+          "name": "personal injury lawyer",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "50 minutes ago",
+          "percentageIncrease": "400%"
         },
         {
           "name": "tennessee driver's license law",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "15h ago",
+          "started": "17h ago",
           "percentageIncrease": "400%"
         },
         {
-          "name": "american dream mall",
-          "relevanceScore": 90,
+          "name": "pentagon",
+          "relevanceScore": 95,
           "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "23h ago",
-          "percentageIncrease": "100%"
+          "searchVolume": "100+",
+          "started": "15h ago",
+          "percentageIncrease": "200%"
         },
         {
           "name": "nys minimum wage",
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "14h ago",
+          "started": "16h ago",
           "trendBreakdown": "minimum",
           "percentageIncrease": "100%"
         },
@@ -64,7 +80,7 @@
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "21h ago",
+          "started": "23h ago",
           "percentageIncrease": "100%"
         }
       ]

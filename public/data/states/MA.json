@@ -1,19 +1,28 @@
 {
-  "timestamp": "2026-01-02T14:04:30.985Z",
+  "timestamp": "2026-01-02T16:04:39.976Z",
   "states": [
     {
       "name": "Massachusetts",
       "code": "MA",
-      "topTopic": "super flu",
+      "topTopic": "personal injury lawyer",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
+        {
+          "name": "personal injury lawyer",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "1h ago",
+          "trendBreakdown": "accident",
+          "percentageIncrease": "1000%"
+        },
         {
           "name": "super flu",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "17h ago",
+          "started": "19h ago",
           "percentageIncrease": "1000%"
         },
         {
@@ -21,9 +30,9 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "5h ago",
+          "started": "7h ago",
           "trendBreakdown": "holland",
-          "percentageIncrease": "200%"
+          "percentageIncrease": "400%"
         }
       ]
     }

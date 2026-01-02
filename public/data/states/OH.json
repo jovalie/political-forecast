@@ -1,36 +1,36 @@
 {
-  "timestamp": "2026-01-02T14:04:30.985Z",
+  "timestamp": "2026-01-02T16:04:39.976Z",
   "states": [
     {
       "name": "Ohio",
       "code": "OH",
-      "topTopic": "ferris state",
+      "topTopic": "personal injury lawyer",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
+        {
+          "name": "personal injury lawyer",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "20 minutes ago",
+          "trendBreakdown": "accident",
+          "percentageIncrease": "1000%"
+        },
         {
           "name": "ferris state",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "13h ago",
+          "started": "15h ago",
           "percentageIncrease": "1000%"
-        },
-        {
-          "name": "columbus dentist killed",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "30 minutes ago",
-          "trendBreakdown": "spencer",
-          "percentageIncrease": "400%"
         },
         {
           "name": "drake",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "15h ago",
+          "started": "17h ago",
           "percentageIncrease": "300%"
         }
       ]

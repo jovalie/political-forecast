@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-01-02T14:04:30.985Z",
+  "timestamp": "2026-01-02T16:04:39.976Z",
   "states": [
     {
       "name": "Arizona",
@@ -13,23 +13,15 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "8h ago",
+          "started": "10h ago",
           "percentageIncrease": "800%"
         },
         {
-          "name": "arizona minimum wage",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "13h ago",
-          "percentageIncrease": "200%"
-        },
-        {
-          "name": "flu shots",
+          "name": "waste management",
           "relevanceScore": 90,
           "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "11h ago",
+          "searchVolume": "100+",
+          "started": "20 minutes ago",
           "percentageIncrease": "100%"
         }
       ]

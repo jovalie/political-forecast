@@ -1,35 +1,27 @@
 {
-  "timestamp": "2026-01-02T14:04:30.985Z",
+  "timestamp": "2026-01-02T16:04:39.976Z",
   "states": [
     {
       "name": "Colorado",
       "code": "CO",
-      "topTopic": "new year's",
+      "topTopic": "ferris state",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
-        {
-          "name": "new year's",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "50K+",
-          "started": "23h ago",
-          "percentageIncrease": "1000%"
-        },
         {
           "name": "ferris state",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "9h ago",
+          "started": "11h ago",
           "percentageIncrease": "900%"
         },
         {
-          "name": "colorado minimum wage",
+          "name": "waste management",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "13h ago",
+          "started": "1h ago",
           "percentageIncrease": "200%"
         }
       ]

@@ -1,28 +1,45 @@
 {
-  "timestamp": "2026-01-02T14:04:30.985Z",
+  "timestamp": "2026-01-02T16:04:39.976Z",
   "states": [
     {
       "name": "Florida",
       "code": "FL",
-      "topTopic": "ferris state",
+      "topTopic": "personal injury lawyer",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
+        {
+          "name": "personal injury lawyer",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "1K+",
+          "started": "1h ago",
+          "trendBreakdown": "accident",
+          "percentageIncrease": "1000%"
+        },
         {
           "name": "ferris state",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "13h ago",
+          "started": "15h ago",
           "percentageIncrease": "500%"
         },
         {
-          "name": "sawgrass mall",
+          "name": "dentist",
           "relevanceScore": 95,
           "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "23h ago",
-          "percentageIncrease": "200%"
+          "searchVolume": "100+",
+          "started": "8h ago",
+          "percentageIncrease": "400%"
+        },
+        {
+          "name": "pentagon",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "16h ago",
+          "percentageIncrease": "300%"
         }
       ]
     }

@@ -1,27 +1,19 @@
 {
-  "timestamp": "2026-01-02T14:04:30.985Z",
+  "timestamp": "2026-01-02T16:04:39.976Z",
   "states": [
     {
       "name": "South Carolina",
       "code": "SC",
-      "topTopic": "new year's",
+      "topTopic": "first",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
-        {
-          "name": "new year's",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "50K+",
-          "started": "24h ago",
-          "percentageIncrease": "1000%"
-        },
         {
           "name": "first",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "13h ago",
+          "started": "15h ago",
           "percentageIncrease": "600%"
         }
       ]

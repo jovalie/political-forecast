@@ -1,19 +1,20 @@
 {
-  "timestamp": "2026-01-02T14:04:30.985Z",
+  "timestamp": "2026-01-02T16:04:39.976Z",
   "states": [
     {
       "name": "Connecticut",
       "code": "CT",
-      "topTopic": "new year's",
+      "topTopic": "accident lawyer",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
         {
-          "name": "new year's",
+          "name": "accident lawyer",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "50K+",
-          "started": "23h ago",
+          "searchVolume": "500+",
+          "started": "20 minutes ago",
+          "trendBreakdown": "personal",
           "percentageIncrease": "1000%"
         }
       ]
