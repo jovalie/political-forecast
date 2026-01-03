@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-01-03T18:04:40.706Z",
+  "timestamp": "2026-01-03T20:04:43.909Z",
   "states": [
     {
       "name": "Wisconsin",
@@ -12,9 +12,17 @@
           "name": "monroe doctrine",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "1h ago",
+          "searchVolume": "1K+",
+          "started": "3h ago",
           "percentageIncrease": "1000%"
+        },
+        {
+          "name": "cnn news",
+          "relevanceScore": 90,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "7h ago",
+          "percentageIncrease": "100%"
         }
       ]
     }

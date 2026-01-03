@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-01-03T18:04:40.706Z",
+  "timestamp": "2026-01-03T20:04:43.909Z",
   "states": [
     {
       "name": "Arizona",
@@ -12,24 +12,32 @@
           "name": "monroe doctrine",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "2h ago",
+          "searchVolume": "1K+",
+          "started": "4h ago",
           "percentageIncrease": "1000%"
         },
         {
-          "name": "hugo chavez",
+          "name": "valenzuela",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "4h ago",
-          "percentageIncrease": "1000%"
+          "searchVolume": "100+",
+          "started": "3h ago",
+          "percentageIncrease": "500%"
+        },
+        {
+          "name": "first friday",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "1K+",
+          "started": "23h ago",
+          "percentageIncrease": "700%"
         },
         {
           "name": "dentist",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "2h ago",
+          "started": "4h ago",
           "percentageIncrease": "1000%"
         }
       ]

@@ -1,19 +1,28 @@
 {
-  "timestamp": "2026-01-03T18:04:40.706Z",
+  "timestamp": "2026-01-03T20:04:43.909Z",
   "states": [
     {
       "name": "New Jersey",
       "code": "NJ",
-      "topTopic": "monroe doctrine",
+      "topTopic": "akay diamonds",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
         {
+          "name": "akay diamonds",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "2K+",
+          "started": "23h ago",
+          "trendBreakdown": "nyctrax",
+          "percentageIncrease": "800%"
+        },
+        {
           "name": "monroe doctrine",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "3h ago",
+          "searchVolume": "2K+",
+          "started": "5h ago",
           "percentageIncrease": "1000%"
         },
         {
@@ -21,33 +30,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "1h ago",
-          "percentageIncrease": "1000%"
-        },
-        {
-          "name": "hugo chavez",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "5h ago",
-          "percentageIncrease": "1000%"
-        },
-        {
-          "name": "akay diamonds",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "2K+",
-          "started": "21h ago",
-          "trendBreakdown": "nyctrax",
-          "percentageIncrease": "900%"
-        },
-        {
-          "name": "cilia flores",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "4h ago",
-          "trendBreakdown": "captura",
+          "started": "3h ago",
           "percentageIncrease": "1000%"
         },
         {
@@ -55,8 +38,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "17h ago",
-          "trendBreakdown": "fox",
+          "started": "19h ago",
           "percentageIncrease": "800%"
         },
         {
@@ -64,7 +46,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "14h ago",
+          "started": "16h ago",
           "percentageIncrease": "1000%"
         },
         {
@@ -72,8 +54,17 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "5h ago",
+          "started": "7h ago",
           "percentageIncrease": "300%"
+        },
+        {
+          "name": "captura de maduro",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "5h ago",
+          "trendBreakdown": "maduro",
+          "percentageIncrease": "400%"
         }
       ]
     }
