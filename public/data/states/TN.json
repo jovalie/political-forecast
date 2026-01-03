@@ -1,20 +1,20 @@
 {
-  "timestamp": "2026-01-03T04:11:46.814Z",
+  "timestamp": "2026-01-03T06:04:39.215Z",
   "states": [
     {
       "name": "Tennessee",
       "code": "TN",
-      "topTopic": "cigna",
+      "topTopic": "jonathan boley",
       "category": "Law and Government",
-      "trendingScore": 95,
+      "trendingScore": 100,
       "topics": [
         {
-          "name": "cigna",
-          "relevanceScore": 95,
+          "name": "jonathan boley",
+          "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "100+",
+          "searchVolume": "500+",
           "started": "6h ago",
-          "percentageIncrease": "200%"
+          "percentageIncrease": "600%"
         }
       ]
     }

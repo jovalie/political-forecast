@@ -1,43 +1,35 @@
 {
-  "timestamp": "2026-01-03T04:11:46.814Z",
+  "timestamp": "2026-01-03T06:04:39.215Z",
   "states": [
     {
       "name": "New York",
       "code": "NY",
-      "topTopic": "passenger overboard cruise ship",
+      "topTopic": "dentist",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
-        {
-          "name": "passenger overboard cruise ship",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "23h ago",
-          "percentageIncrease": "700%"
-        },
         {
           "name": "dentist",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "21h ago",
+          "started": "23h ago",
           "percentageIncrease": "600%"
         },
         {
-          "name": "ferris state",
-          "relevanceScore": 100,
+          "name": "jonathan boley",
+          "relevanceScore": 95,
           "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "23h ago",
-          "percentageIncrease": "700%"
+          "searchVolume": "500+",
+          "started": "5h ago",
+          "percentageIncrease": "300%"
         },
         {
           "name": "drake rico case",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "7h ago",
+          "started": "9h ago",
           "percentageIncrease": "300%"
         },
         {
@@ -45,7 +37,7 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "13h ago",
+          "started": "14h ago",
           "percentageIncrease": "400%"
         }
       ]

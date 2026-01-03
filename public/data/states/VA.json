@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-01-03T04:11:46.814Z",
+  "timestamp": "2026-01-03T06:04:39.215Z",
   "states": [
     {
       "name": "Virginia",
@@ -13,41 +13,33 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "3h ago",
-          "percentageIncrease": "700%"
+          "started": "5h ago",
+          "percentageIncrease": "500%"
         },
         {
           "name": "passenger overboard cruise ship",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "21h ago",
+          "started": "23h ago",
           "percentageIncrease": "300%"
-        },
-        {
-          "name": "super flu virus",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "2h ago",
-          "trendBreakdown": "flu",
-          "percentageIncrease": "200%"
         },
         {
           "name": "brian king joseph",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "16h ago",
+          "started": "18h ago",
           "percentageIncrease": "200%"
         },
         {
-          "name": "ferris state",
+          "name": "super flu virus",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "23h ago",
-          "percentageIncrease": "400%"
+          "started": "4h ago",
+          "trendBreakdown": "flu",
+          "percentageIncrease": "200%"
         }
       ]
     }
