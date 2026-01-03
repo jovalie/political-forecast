@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-01-03T20:04:43.909Z",
+  "timestamp": "2026-01-03T22:04:33.228Z",
   "states": [
     {
       "name": "California",
@@ -12,88 +12,89 @@
           "name": "monroe doctrine",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "5K+",
-          "started": "11h ago",
+          "searchVolume": "10K+",
+          "started": "13h ago",
           "trendBreakdown": "donroe",
           "percentageIncrease": "1000%"
+        },
+        {
+          "name": "maria corina machado",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "5K+",
+          "started": "11h ago",
+          "trendBreakdown": "maria",
+          "percentageIncrease": "1000%"
+        },
+        {
+          "name": "noriega",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "5K+",
+          "started": "10h ago",
+          "trendBreakdown": "manuel",
+          "percentageIncrease": "500%"
         },
         {
           "name": "marco rubio",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "2K+",
-          "started": "3h ago",
+          "started": "5h ago",
+          "trendBreakdown": "secretary",
           "percentageIncrease": "1000%"
+        },
+        {
+          "name": "chevron stock",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "5K+",
+          "started": "5h ago",
+          "trendBreakdown": "where",
+          "percentageIncrease": "600%"
         },
         {
           "name": "arcata fire",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "5K+",
-          "started": "20h ago",
+          "started": "22h ago",
           "trendBreakdown": "lost",
-          "percentageIncrease": "800%"
-        },
-        {
-          "name": "venezuela vice president",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "3h ago",
-          "trendBreakdown": "vice",
-          "percentageIncrease": "500%"
-        },
-        {
-          "name": "redheaded blackbelt",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "2K+",
-          "started": "21h ago",
           "percentageIncrease": "700%"
-        },
-        {
-          "name": "traxnyc",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "10K+",
-          "started": "23h ago",
-          "trendBreakdown": "akay",
-          "percentageIncrease": "400%"
         },
         {
           "name": "open carry california",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "5K+",
-          "started": "18h ago",
+          "started": "20h ago",
           "trendBreakdown": "california",
           "percentageIncrease": "400%"
         },
         {
-          "name": "venezuela oil reserves",
+          "name": "delcy rodriguez",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "1K+",
           "started": "4h ago",
-          "trendBreakdown": "venezuela",
-          "percentageIncrease": "400%"
-        },
-        {
-          "name": "nicolas maduro captura",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "2K+",
-          "started": "3h ago",
-          "trendBreakdown": "noticias",
-          "percentageIncrease": "400%"
+          "trendBreakdown": "delcy",
+          "percentageIncrease": "300%"
         },
         {
           "name": "maría corina",
           "relevanceScore": 95,
           "category": "Law and Government",
+          "searchVolume": "1K+",
+          "started": "6h ago",
+          "percentageIncrease": "300%"
+        },
+        {
+          "name": "venezuela flag",
+          "relevanceScore": 95,
+          "category": "Law and Government",
           "searchVolume": "500+",
           "started": "4h ago",
-          "percentageIncrease": "400%"
+          "percentageIncrease": "200%"
         }
       ]
     }

@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-01-03T20:04:43.909Z",
+  "timestamp": "2026-01-03T22:04:33.228Z",
   "states": [
     {
       "name": "New York",
@@ -13,8 +13,26 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "5K+",
-          "started": "7h ago",
+          "started": "9h ago",
           "trendBreakdown": "donroe",
+          "percentageIncrease": "1000%"
+        },
+        {
+          "name": "maria corina machado",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "5K+",
+          "started": "9h ago",
+          "trendBreakdown": "machado",
+          "percentageIncrease": "1000%"
+        },
+        {
+          "name": "noriega",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "2K+",
+          "started": "8h ago",
+          "trendBreakdown": "manuel",
           "percentageIncrease": "1000%"
         },
         {
@@ -22,74 +40,59 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "2K+",
-          "started": "5h ago",
+          "started": "7h ago",
           "percentageIncrease": "1000%"
         },
         {
-          "name": "venezuela vice president",
-          "relevanceScore": 100,
+          "name": "aruba",
+          "relevanceScore": 95,
           "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "3h ago",
-          "trendBreakdown": "delcy",
-          "percentageIncrease": "600%"
-        },
-        {
-          "name": "nobel peace prize",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "5h ago",
-          "percentageIncrease": "500%"
+          "searchVolume": "5K+",
+          "started": "13h ago",
+          "trendBreakdown": "puerto",
+          "percentageIncrease": "400%"
         },
         {
           "name": "trax nyc",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "21h ago",
+          "started": "23h ago",
           "trendBreakdown": "maksud",
           "percentageIncrease": "300%"
         },
         {
-          "name": "lenny dykstra",
+          "name": "chevron stock",
           "relevanceScore": 95,
           "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "17h ago",
+          "searchVolume": "2K+",
+          "started": "4h ago",
+          "trendBreakdown": "venezuela",
           "percentageIncrease": "300%"
+        },
+        {
+          "name": "delcy rodriguez",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "4h ago",
+          "trendBreakdown": "delcy",
+          "percentageIncrease": "200%"
         },
         {
           "name": "maría corina",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "4h ago",
+          "started": "6h ago",
           "percentageIncrease": "400%"
         },
         {
-          "name": "colombia",
+          "name": "lenny dykstra",
           "relevanceScore": 95,
           "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "6h ago",
-          "percentageIncrease": "200%"
-        },
-        {
-          "name": "jonathan boley",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "500+",
+          "searchVolume": "1K+",
           "started": "19h ago",
-          "percentageIncrease": "300%"
-        },
-        {
-          "name": "where is venezuela on the map",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "5h ago",
-          "trendBreakdown": "venezuela",
           "percentageIncrease": "300%"
         }
       ]

@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-01-03T20:04:43.909Z",
+  "timestamp": "2026-01-03T22:04:33.228Z",
   "states": [
     {
       "name": "Puerto Rico",
@@ -12,17 +12,9 @@
           "name": "uss iwo jima",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "5K+",
-          "started": "4h ago",
-          "trendBreakdown": "hugo",
-          "percentageIncrease": "1000%"
-        },
-        {
-          "name": "cnn",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "2K+",
-          "started": "13h ago",
+          "searchVolume": "10K+",
+          "started": "6h ago",
+          "trendBreakdown": "newsvenezuela",
           "percentageIncrease": "1000%"
         },
         {
@@ -30,43 +22,34 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "2K+",
-          "started": "8h ago",
+          "started": "10h ago",
           "trendBreakdown": "puerto",
           "percentageIncrease": "1000%"
-        },
-        {
-          "name": "american airlines",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "2K+",
-          "started": "10h ago",
-          "trendBreakdown": "puerto",
-          "percentageIncrease": "400%"
-        },
-        {
-          "name": "united airlines",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "10h ago",
-          "percentageIncrease": "400%"
         },
         {
           "name": "frontier airlines",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "10h ago",
+          "started": "12h ago",
           "percentageIncrease": "300%"
         },
         {
-          "name": "el nuevo dia",
-          "relevanceScore": 90,
+          "name": "american airlines",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "5K+",
+          "started": "12h ago",
+          "trendBreakdown": "puerto",
+          "percentageIncrease": "300%"
+        },
+        {
+          "name": "united airlines",
+          "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "9h ago",
-          "trendBreakdown": "noticias",
-          "percentageIncrease": "100%"
+          "started": "12h ago",
+          "percentageIncrease": "400%"
         }
       ]
     }
