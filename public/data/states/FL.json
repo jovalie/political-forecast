@@ -1,35 +1,28 @@
 {
-  "timestamp": "2026-01-02T22:04:42.274Z",
+  "timestamp": "2026-01-03T00:04:59.952Z",
   "states": [
     {
       "name": "Florida",
       "code": "FL",
-      "topTopic": "personal injury lawyer",
+      "topTopic": "car accident lawyer",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
-        {
-          "name": "personal injury lawyer",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "7h ago",
-          "percentageIncrease": "1000%"
-        },
         {
           "name": "car accident lawyer",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "7h ago",
+          "started": "9h ago",
+          "trendBreakdown": "accident",
           "percentageIncrease": "1000%"
         },
         {
-          "name": "accident lawyer",
+          "name": "personal injury lawyer",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "7h ago",
+          "searchVolume": "1K+",
+          "started": "9h ago",
           "percentageIncrease": "1000%"
         },
         {
@@ -37,32 +30,24 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "21h ago",
+          "started": "23h ago",
           "percentageIncrease": "500%"
+        },
+        {
+          "name": "jonathan boley",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "40 minutes ago",
+          "percentageIncrease": "300%"
         },
         {
           "name": "dentist",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "14h ago",
+          "started": "16h ago",
           "percentageIncrease": "400%"
-        },
-        {
-          "name": "pentagon",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "22h ago",
-          "percentageIncrease": "300%"
-        },
-        {
-          "name": "cigna",
-          "relevanceScore": 90,
-          "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "7h ago",
-          "percentageIncrease": "100%"
         }
       ]
     }

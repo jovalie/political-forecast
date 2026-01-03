@@ -1,20 +1,20 @@
 {
-  "timestamp": "2026-01-02T22:04:42.274Z",
+  "timestamp": "2026-01-03T00:04:59.952Z",
   "states": [
     {
       "name": "North Carolina",
       "code": "NC",
-      "topTopic": "cigna",
+      "topTopic": "mint hill nc",
       "category": "Law and Government",
-      "trendingScore": 90,
+      "trendingScore": 100,
       "topics": [
         {
-          "name": "cigna",
-          "relevanceScore": 90,
+          "name": "mint hill nc",
+          "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "8h ago",
-          "percentageIncrease": "100%"
+          "searchVolume": "2K+",
+          "started": "7h ago",
+          "percentageIncrease": "1000%"
         }
       ]
     }
