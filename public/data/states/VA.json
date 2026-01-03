@@ -1,35 +1,27 @@
 {
-  "timestamp": "2026-01-03T06:04:39.215Z",
+  "timestamp": "2026-01-03T08:04:36.306Z",
   "states": [
     {
       "name": "Virginia",
       "code": "VA",
       "topTopic": "jonathan boley",
       "category": "Law and Government",
-      "trendingScore": 100,
+      "trendingScore": 95,
       "topics": [
         {
           "name": "jonathan boley",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "5h ago",
-          "percentageIncrease": "500%"
-        },
-        {
-          "name": "passenger overboard cruise ship",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "23h ago",
-          "percentageIncrease": "300%"
+          "started": "7h ago",
+          "percentageIncrease": "400%"
         },
         {
           "name": "brian king joseph",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "18h ago",
+          "started": "20h ago",
           "percentageIncrease": "200%"
         },
         {
@@ -37,7 +29,7 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "4h ago",
+          "started": "6h ago",
           "trendBreakdown": "flu",
           "percentageIncrease": "200%"
         }

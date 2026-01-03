@@ -1,28 +1,44 @@
 {
-  "timestamp": "2026-01-03T06:04:39.215Z",
+  "timestamp": "2026-01-03T08:04:36.306Z",
   "states": [
     {
       "name": "New Jersey",
       "code": "NJ",
-      "topTopic": "lenny dykstra",
+      "topTopic": "akay diamonds",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
+        {
+          "name": "akay diamonds",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "2K+",
+          "started": "11h ago",
+          "percentageIncrease": "1000%"
+        },
         {
           "name": "lenny dykstra",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "5h ago",
-          "percentageIncrease": "1000%"
+          "started": "7h ago",
+          "percentageIncrease": "900%"
         },
         {
           "name": "donna adelson",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "2h ago",
+          "started": "4h ago",
           "percentageIncrease": "1000%"
+        },
+        {
+          "name": "fox news",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "20 minutes ago",
+          "percentageIncrease": "200%"
         }
       ]
     }

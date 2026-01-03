@@ -1,19 +1,27 @@
 {
-  "timestamp": "2026-01-03T06:04:39.215Z",
+  "timestamp": "2026-01-03T08:04:36.306Z",
   "states": [
     {
       "name": "Washington",
       "code": "WA",
-      "topTopic": "jonathan boley",
+      "topTopic": "cnn",
       "category": "Law and Government",
       "trendingScore": 95,
       "topics": [
+        {
+          "name": "cnn",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "50 minutes ago",
+          "percentageIncrease": "400%"
+        },
         {
           "name": "jonathan boley",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "1h ago",
+          "started": "3h ago",
           "percentageIncrease": "400%"
         }
       ]

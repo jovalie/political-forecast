@@ -1,29 +1,53 @@
 {
-  "timestamp": "2026-01-03T06:04:39.215Z",
+  "timestamp": "2026-01-03T08:04:36.306Z",
   "states": [
     {
       "name": "California",
       "code": "CA",
-      "topTopic": "arcata fire",
+      "topTopic": "akay diamonds",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
+        {
+          "name": "akay diamonds",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "5K+",
+          "started": "11h ago",
+          "percentageIncrease": "700%"
+        },
         {
           "name": "arcata fire",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "5K+",
-          "started": "6h ago",
+          "started": "8h ago",
           "trendBreakdown": "lost",
-          "percentageIncrease": "1000%"
+          "percentageIncrease": "900%"
+        },
+        {
+          "name": "redheaded blackbelt",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "2K+",
+          "started": "9h ago",
+          "percentageIncrease": "800%"
         },
         {
           "name": "open carry california",
           "relevanceScore": 95,
           "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "4h ago",
+          "searchVolume": "2K+",
+          "started": "6h ago",
           "trendBreakdown": "california",
+          "percentageIncrease": "400%"
+        },
+        {
+          "name": "cnn",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "2K+",
+          "started": "50 minutes ago",
           "percentageIncrease": "300%"
         },
         {
@@ -31,31 +55,23 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "4h ago",
+          "started": "6h ago",
           "percentageIncrease": "200%"
         },
         {
-          "name": "dhs",
-          "relevanceScore": 95,
+          "name": "fox news",
+          "relevanceScore": 90,
           "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "5h ago",
-          "percentageIncrease": "300%"
-        },
-        {
-          "name": "dentist",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "15h ago",
-          "percentageIncrease": "300%"
+          "searchVolume": "500+",
+          "started": "30 minutes ago",
+          "percentageIncrease": "100%"
         },
         {
           "name": "real id california",
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "12h ago",
+          "started": "14h ago",
           "trendBreakdown": "dmvca",
           "percentageIncrease": "100%"
         },
@@ -64,7 +80,7 @@
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "2h ago",
+          "started": "4h ago",
           "percentageIncrease": "100%"
         }
       ]

@@ -1,19 +1,27 @@
 {
-  "timestamp": "2026-01-03T06:04:39.215Z",
+  "timestamp": "2026-01-03T08:04:36.306Z",
   "states": [
     {
       "name": "District of Columbia",
       "code": "DC",
-      "topTopic": "drake",
+      "topTopic": "akay diamonds",
       "category": "Law and Government",
       "trendingScore": 95,
       "topics": [
+        {
+          "name": "akay diamonds",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "7h ago",
+          "percentageIncrease": "400%"
+        },
         {
           "name": "drake",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "9h ago",
+          "started": "11h ago",
           "percentageIncrease": "200%"
         }
       ]
