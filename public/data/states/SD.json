@@ -1,20 +1,21 @@
 {
-  "timestamp": "2026-01-03T12:04:49.627Z",
+  "timestamp": "2026-01-03T14:04:36.407Z",
   "states": [
     {
       "name": "South Dakota",
       "code": "SD",
-      "topTopic": "new year's",
+      "topTopic": "venezuela",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
         {
-          "name": "new year's",
+          "name": "venezuela",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "10K+",
-          "started": "23h ago",
-          "percentageIncrease": "1000%"
+          "searchVolume": "500+",
+          "started": "3h ago",
+          "trendBreakdown": "fox",
+          "percentageIncrease": "800%"
         }
       ]
     }

@@ -1,20 +1,20 @@
 {
-  "timestamp": "2026-01-03T12:04:49.627Z",
+  "timestamp": "2026-01-03T14:04:36.407Z",
   "states": [
     {
       "name": "Maryland",
       "code": "MD",
-      "topTopic": "cnn",
+      "topTopic": "drake",
       "category": "Law and Government",
       "trendingScore": 95,
       "topics": [
         {
-          "name": "cnn",
+          "name": "drake",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "50 minutes ago",
-          "percentageIncrease": "300%"
+          "started": "17h ago",
+          "percentageIncrease": "200%"
         }
       ]
     }

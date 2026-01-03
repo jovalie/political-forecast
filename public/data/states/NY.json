@@ -1,32 +1,49 @@
 {
-  "timestamp": "2026-01-03T12:04:49.627Z",
+  "timestamp": "2026-01-03T14:04:36.407Z",
   "states": [
     {
       "name": "New York",
       "code": "NY",
-      "topTopic": "akay diamonds",
+      "topTopic": "traxnyc",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
         {
-          "name": "akay diamonds",
+          "name": "traxnyc",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "5K+",
-          "started": "17h ago",
-          "trendBreakdown": "agadjanimaksud",
+          "started": "18h ago",
+          "trendBreakdown": "akay",
+          "percentageIncrease": "900%"
+        },
+        {
+          "name": "cilia flores",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "1h ago",
+          "trendBreakdown": "noticias",
           "percentageIncrease": "1000%"
         },
         {
-          "name": "lenny dykstra",
-          "relevanceScore": 95,
+          "name": "maria corina machado",
+          "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "9h ago",
-          "percentageIncrease": "300%"
+          "searchVolume": "100+",
+          "started": "1h ago",
+          "percentageIncrease": "900%"
         },
         {
           "name": "jonathan boley",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "13h ago",
+          "percentageIncrease": "300%"
+        },
+        {
+          "name": "lenny dykstra",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "500+",
@@ -34,11 +51,27 @@
           "percentageIncrease": "300%"
         },
         {
+          "name": "china",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "1h ago",
+          "percentageIncrease": "200%"
+        },
+        {
+          "name": "spencer tepe",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "50 minutes ago",
+          "percentageIncrease": "200%"
+        },
+        {
           "name": "drake rico case",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "15h ago",
+          "started": "17h ago",
           "percentageIncrease": "300%"
         },
         {
@@ -46,8 +79,16 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "20h ago",
+          "started": "22h ago",
           "percentageIncrease": "400%"
+        },
+        {
+          "name": "jessica tisch",
+          "relevanceScore": 90,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "7h ago",
+          "percentageIncrease": "100%"
         }
       ]
     }

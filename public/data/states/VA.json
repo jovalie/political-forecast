@@ -1,29 +1,28 @@
 {
-  "timestamp": "2026-01-03T12:04:49.627Z",
+  "timestamp": "2026-01-03T14:04:36.407Z",
   "states": [
     {
       "name": "Virginia",
       "code": "VA",
-      "topTopic": "jonathan boley",
+      "topTopic": "cilia flores",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
         {
-          "name": "jonathan boley",
+          "name": "cilia flores",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "11h ago",
-          "percentageIncrease": "500%"
+          "searchVolume": "100+",
+          "started": "20 minutes ago",
+          "percentageIncrease": "1000%"
         },
         {
-          "name": "super flu virus",
-          "relevanceScore": 95,
+          "name": "hugo chavez",
+          "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "10h ago",
-          "trendBreakdown": "flu",
-          "percentageIncrease": "200%"
+          "started": "1h ago",
+          "percentageIncrease": "1000%"
         }
       ]
     }
