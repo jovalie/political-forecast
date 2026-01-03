@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-01-03T02:34:32.167Z",
+  "timestamp": "2026-01-03T04:11:46.814Z",
   "states": [
     {
       "name": "Massachusetts",
@@ -12,9 +12,16 @@
           "name": "car accident lawyer",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "11h ago",
-          "trendBreakdown": "accident",
+          "searchVolume": "500+",
+          "started": "13h ago",
+          "percentageIncrease": "1000%"
+        },
+        {
+          "name": "accident lawyer",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "13h ago",
           "percentageIncrease": "1000%"
         },
         {
@@ -22,17 +29,8 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "11h ago",
+          "started": "13h ago",
           "percentageIncrease": "1000%"
-        },
-        {
-          "name": "passenger overboard cruise ship",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "17h ago",
-          "trendBreakdown": "woman",
-          "percentageIncrease": "400%"
         }
       ]
     }

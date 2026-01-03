@@ -1,20 +1,35 @@
 {
-  "timestamp": "2026-01-03T02:34:32.167Z",
+  "timestamp": "2026-01-03T04:11:46.814Z",
   "states": [
     {
       "name": "New Jersey",
       "code": "NJ",
-      "topTopic": "passenger overboard cruise ship",
+      "topTopic": "lenny dykstra",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
         {
+          "name": "lenny dykstra",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "3h ago",
+          "percentageIncrease": "1000%"
+        },
+        {
+          "name": "donna adelson",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "20 minutes ago",
+          "percentageIncrease": "1000%"
+        },
+        {
           "name": "passenger overboard cruise ship",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "21h ago",
-          "trendBreakdown": "woman",
+          "searchVolume": "500+",
+          "started": "22h ago",
           "percentageIncrease": "500%"
         }
       ]

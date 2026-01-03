@@ -1,20 +1,20 @@
 {
-  "timestamp": "2026-01-03T02:34:32.167Z",
+  "timestamp": "2026-01-03T04:11:46.814Z",
   "states": [
     {
       "name": "Illinois",
       "code": "IL",
-      "topTopic": "vaccinations",
+      "topTopic": "donna adelson",
       "category": "Law and Government",
-      "trendingScore": 90,
+      "trendingScore": 100,
       "topics": [
         {
-          "name": "vaccinations",
-          "relevanceScore": 90,
+          "name": "donna adelson",
+          "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "23h ago",
-          "percentageIncrease": "100%"
+          "searchVolume": "100+",
+          "started": "10 minutes ago",
+          "percentageIncrease": "1000%"
         }
       ]
     }

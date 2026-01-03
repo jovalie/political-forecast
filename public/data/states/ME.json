@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-01-03T02:34:32.167Z",
+  "timestamp": "2026-01-03T04:11:46.814Z",
   "states": [
     {
       "name": "Maine",
@@ -12,10 +12,25 @@
           "name": "car accident lawyer",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "11h ago",
-          "trendBreakdown": "accident",
+          "searchVolume": "500+",
+          "started": "12h ago",
           "percentageIncrease": "1000%"
+        },
+        {
+          "name": "accident lawyer",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "12h ago",
+          "percentageIncrease": "1000%"
+        },
+        {
+          "name": "bangor daily news",
+          "relevanceScore": 85,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "17h ago",
+          "percentageIncrease": "75%"
         }
       ]
     }
