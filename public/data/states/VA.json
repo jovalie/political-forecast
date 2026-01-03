@@ -1,28 +1,53 @@
 {
-  "timestamp": "2026-01-03T00:04:59.952Z",
+  "timestamp": "2026-01-03T02:34:32.167Z",
   "states": [
     {
       "name": "Virginia",
       "code": "VA",
-      "topTopic": "passenger overboard cruise ship",
+      "topTopic": "jonathan boley",
       "category": "Law and Government",
-      "trendingScore": 95,
+      "trendingScore": 100,
       "topics": [
+        {
+          "name": "jonathan boley",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "1h ago",
+          "percentageIncrease": "800%"
+        },
+        {
+          "name": "super flu virus",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "30 minutes ago",
+          "trendBreakdown": "flu",
+          "percentageIncrease": "200%"
+        },
         {
           "name": "passenger overboard cruise ship",
           "relevanceScore": 95,
           "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "17h ago",
-          "trendBreakdown": "holland",
+          "searchVolume": "500+",
+          "started": "20h ago",
+          "trendBreakdown": "woman",
           "percentageIncrease": "300%"
+        },
+        {
+          "name": "brian king joseph",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "14h ago",
+          "percentageIncrease": "200%"
         },
         {
           "name": "ferris state",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "19h ago",
+          "started": "21h ago",
           "percentageIncrease": "400%"
         }
       ]

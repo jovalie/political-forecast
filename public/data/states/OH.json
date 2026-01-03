@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-01-03T00:04:59.952Z",
+  "timestamp": "2026-01-03T02:34:32.167Z",
   "states": [
     {
       "name": "Ohio",
@@ -12,17 +12,17 @@
           "name": "columbus dentist killed",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "10h ago",
+          "searchVolume": "2K+",
+          "started": "13h ago",
           "trendBreakdown": "dentist",
-          "percentageIncrease": "500%"
+          "percentageIncrease": "600%"
         },
         {
           "name": "accident lawyer",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "8h ago",
+          "started": "10h ago",
           "trendBreakdown": "car",
           "percentageIncrease": "1000%"
         },
@@ -31,15 +31,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "8h ago",
-          "percentageIncrease": "1000%"
-        },
-        {
-          "name": "ferris state",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "23h ago",
+          "started": "10h ago",
           "percentageIncrease": "1000%"
         }
       ]

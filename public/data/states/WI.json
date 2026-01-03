@@ -1,20 +1,20 @@
 {
-  "timestamp": "2026-01-03T00:04:59.952Z",
+  "timestamp": "2026-01-03T02:34:32.167Z",
   "states": [
     {
       "name": "Wisconsin",
       "code": "WI",
-      "topTopic": "new year's",
+      "topTopic": "yahoo",
       "category": "Law and Government",
-      "trendingScore": 100,
+      "trendingScore": 85,
       "topics": [
         {
-          "name": "new year's",
-          "relevanceScore": 100,
+          "name": "yahoo",
+          "relevanceScore": 85,
           "category": "Law and Government",
-          "searchVolume": "50K+",
-          "started": "23h ago",
-          "percentageIncrease": "1000%"
+          "searchVolume": "100+",
+          "started": "14h ago",
+          "percentageIncrease": "75%"
         }
       ]
     }

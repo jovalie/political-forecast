@@ -1,62 +1,69 @@
 {
-  "timestamp": "2026-01-03T00:04:59.952Z",
+  "timestamp": "2026-01-03T02:34:32.167Z",
   "states": [
     {
       "name": "California",
       "code": "CA",
-      "topTopic": "lost coast outpost",
+      "topTopic": "arcata fire",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
         {
-          "name": "lost coast outpost",
+          "name": "arcata fire",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "2K+",
-          "started": "1h ago",
-          "trendBreakdown": "redheaded",
-          "percentageIncrease": "900%"
+          "searchVolume": "5K+",
+          "started": "3h ago",
+          "trendBreakdown": "lost",
+          "percentageIncrease": "1000%"
         },
         {
-          "name": "personal injury lawyer",
-          "relevanceScore": 100,
+          "name": "jonathan boley",
+          "relevanceScore": 95,
           "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "6h ago",
-          "percentageIncrease": "1000%"
+          "searchVolume": "100+",
+          "started": "1h ago",
+          "percentageIncrease": "200%"
         },
         {
           "name": "passenger overboard cruise ship",
           "relevanceScore": 95,
           "category": "Law and Government",
-          "searchVolume": "2K+",
-          "started": "19h ago",
-          "trendBreakdown": "woman",
+          "searchVolume": "1K+",
+          "started": "22h ago",
           "percentageIncrease": "200%"
+        },
+        {
+          "name": "dhs",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "1h ago",
+          "percentageIncrease": "300%"
         },
         {
           "name": "dentist",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "9h ago",
+          "started": "11h ago",
           "percentageIncrease": "300%"
         },
         {
-          "name": "ca dmv",
-          "relevanceScore": 85,
+          "name": "real id california",
+          "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "6h ago",
-          "trendBreakdown": "california",
-          "percentageIncrease": "75%"
+          "started": "9h ago",
+          "trendBreakdown": "dmvca",
+          "percentageIncrease": "100%"
         },
         {
           "name": "vaccines",
           "relevanceScore": 85,
           "category": "Law and Government",
           "searchVolume": "2K+",
-          "started": "21h ago",
+          "started": "23h ago",
           "percentageIncrease": "50%"
         },
         {
@@ -64,7 +71,7 @@
           "relevanceScore": 85,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "21h ago",
+          "started": "23h ago",
           "percentageIncrease": "50%"
         }
       ]

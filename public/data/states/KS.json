@@ -1,19 +1,19 @@
 {
-  "timestamp": "2026-01-03T00:04:59.952Z",
+  "timestamp": "2026-01-03T02:34:32.167Z",
   "states": [
     {
       "name": "Kansas",
       "code": "KS",
-      "topTopic": "news",
+      "topTopic": "yahoo",
       "category": "Law and Government",
       "trendingScore": 90,
       "topics": [
         {
-          "name": "news",
+          "name": "yahoo",
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "15h ago",
+          "started": "13h ago",
           "percentageIncrease": "100%"
         }
       ]
