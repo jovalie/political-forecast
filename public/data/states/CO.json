@@ -1,28 +1,29 @@
 {
-  "timestamp": "2026-01-03T14:04:36.407Z",
+  "timestamp": "2026-01-03T16:04:40.397Z",
   "states": [
     {
       "name": "Colorado",
       "code": "CO",
-      "topTopic": "ferris state",
+      "topTopic": "cilia flores",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
         {
-          "name": "ferris state",
+          "name": "cilia flores",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "23h ago",
-          "percentageIncrease": "900%"
+          "searchVolume": "500+",
+          "started": "20 minutes ago",
+          "trendBreakdown": "diosdado",
+          "percentageIncrease": "800%"
         },
         {
-          "name": "denver news",
+          "name": "fox",
           "relevanceScore": 95,
           "category": "Law and Government",
-          "searchVolume": "500+",
+          "searchVolume": "100+",
           "started": "1h ago",
-          "percentageIncrease": "400%"
+          "percentageIncrease": "200%"
         }
       ]
     }

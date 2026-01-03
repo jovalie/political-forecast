@@ -1,37 +1,37 @@
 {
-  "timestamp": "2026-01-03T14:04:36.407Z",
+  "timestamp": "2026-01-03T16:04:40.397Z",
   "states": [
     {
       "name": "California",
       "code": "CA",
-      "topTopic": "akay diamonds",
+      "topTopic": "arcata fire",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
-        {
-          "name": "akay diamonds",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "5K+",
-          "started": "17h ago",
-          "trendBreakdown": "nyctrax",
-          "percentageIncrease": "600%"
-        },
         {
           "name": "arcata fire",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "5K+",
-          "started": "14h ago",
+          "started": "16h ago",
           "trendBreakdown": "lost",
-          "percentageIncrease": "900%"
+          "percentageIncrease": "800%"
+        },
+        {
+          "name": "cilia flores",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "1K+",
+          "started": "3h ago",
+          "trendBreakdown": "captura",
+          "percentageIncrease": "700%"
         },
         {
           "name": "redheaded blackbelt",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "2K+",
-          "started": "15h ago",
+          "started": "17h ago",
           "percentageIncrease": "800%"
         },
         {
@@ -39,33 +39,33 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "2K+",
-          "started": "12h ago",
+          "started": "14h ago",
           "trendBreakdown": "california",
           "percentageIncrease": "300%"
         },
         {
-          "name": "jonathan boley",
+          "name": "traxnyc",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "5K+",
+          "started": "19h ago",
+          "trendBreakdown": "akay",
+          "percentageIncrease": "400%"
+        },
+        {
+          "name": "maria corina machado",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "12h ago",
-          "percentageIncrease": "200%"
+          "started": "5h ago",
+          "percentageIncrease": "400%"
         },
         {
-          "name": "cilia flores",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "1h ago",
-          "trendBreakdown": "maduro",
-          "percentageIncrease": "300%"
-        },
-        {
-          "name": "white house",
+          "name": "trump twitter",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "4h ago",
+          "started": "5h ago",
           "percentageIncrease": "200%"
         },
         {
@@ -73,7 +73,7 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "13h ago",
+          "started": "15h ago",
           "percentageIncrease": "300%"
         },
         {
@@ -81,15 +81,15 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "10h ago",
+          "started": "12h ago",
           "percentageIncrease": "200%"
         },
         {
-          "name": "china",
+          "name": "jonathan boley",
           "relevanceScore": 90,
           "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "5h ago",
+          "searchVolume": "1K+",
+          "started": "14h ago",
           "percentageIncrease": "100%"
         }
       ]
@@ -97,17 +97,25 @@
     {
       "name": "Arizona",
       "code": "AZ",
-      "topTopic": "cnn",
+      "topTopic": "first friday phoenix",
       "category": "Law and Government",
-      "trendingScore": 95,
+      "trendingScore": 100,
       "topics": [
         {
-          "name": "cnn",
-          "relevanceScore": 95,
+          "name": "first friday phoenix",
+          "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "2h ago",
-          "percentageIncrease": "400%"
+          "searchVolume": "1K+",
+          "started": "20h ago",
+          "percentageIncrease": "700%"
+        },
+        {
+          "name": "fox",
+          "relevanceScore": 90,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "3h ago",
+          "percentageIncrease": "100%"
         }
       ]
     },
@@ -123,8 +131,17 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "10K+",
-          "started": "6h ago",
-          "trendBreakdown": "noticias",
+          "started": "8h ago",
+          "trendBreakdown": "cilia",
+          "percentageIncrease": "1000%"
+        },
+        {
+          "name": "maria corina machado",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "2K+",
+          "started": "3h ago",
+          "trendBreakdown": "edmundo",
           "percentageIncrease": "1000%"
         },
         {
@@ -132,7 +149,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "2K+",
-          "started": "16h ago",
+          "started": "18h ago",
           "percentageIncrease": "600%"
         },
         {
@@ -140,64 +157,56 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "14h ago",
+          "started": "16h ago",
           "percentageIncrease": "500%"
         },
         {
-          "name": "accident lawyer",
+          "name": "telemundo",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "2K+",
-          "started": "23h ago",
-          "trendBreakdown": "car",
-          "percentageIncrease": "900%"
+          "searchVolume": "500+",
+          "started": "6h ago",
+          "percentageIncrease": "500%"
         },
         {
-          "name": "personal injury lawyer",
-          "relevanceScore": 100,
+          "name": "fox",
+          "relevanceScore": 95,
           "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "23h ago",
-          "percentageIncrease": "1000%"
+          "searchVolume": "500+",
+          "started": "8h ago",
+          "percentageIncrease": "200%"
         },
         {
           "name": "spencer tepe",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "13h ago",
+          "started": "15h ago",
           "percentageIncrease": "200%"
         },
         {
-          "name": "fox news live",
+          "name": "ap",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "1h ago",
-          "percentageIncrease": "300%"
-        },
-        {
-          "name": "kat timpf",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "10h ago",
-          "percentageIncrease": "300%"
-        },
-        {
-          "name": "washington post",
-          "relevanceScore": 90,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "4h ago",
-          "percentageIncrease": "100%"
+          "started": "3h ago",
+          "percentageIncrease": "200%"
         },
         {
           "name": "el nuevo herald",
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "1h ago",
+          "started": "3h ago",
+          "percentageIncrease": "100%"
+        },
+        {
+          "name": "videos",
+          "relevanceScore": 90,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "8h ago",
+          "trendBreakdown": "kat",
           "percentageIncrease": "100%"
         }
       ]
@@ -205,50 +214,33 @@
     {
       "name": "Georgia",
       "code": "GA",
-      "topTopic": "jonathan boley",
+      "topTopic": "cilia flores",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
         {
+          "name": "cilia flores",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "2K+",
+          "started": "2h ago",
+          "trendBreakdown": "diosdado",
+          "percentageIncrease": "1000%"
+        },
+        {
           "name": "jonathan boley",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "15h ago",
+          "searchVolume": "1K+",
+          "started": "17h ago",
           "percentageIncrease": "500%"
         },
         {
-          "name": "diosdado cabello",
+          "name": "maria corina machado",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "5h ago",
-          "trendBreakdown": "cilia",
-          "percentageIncrease": "1000%"
-        },
-        {
-          "name": "car accident lawyer",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "23h ago",
-          "trendBreakdown": "auto",
-          "percentageIncrease": "1000%"
-        },
-        {
-          "name": "accident lawyer",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "23h ago",
-          "percentageIncrease": "1000%"
-        },
-        {
-          "name": "personal injury lawyer",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "23h ago",
+          "searchVolume": "100+",
+          "started": "30 minutes ago",
           "percentageIncrease": "1000%"
         },
         {
@@ -256,59 +248,50 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "9h ago",
+          "started": "11h ago",
           "percentageIncrease": "1000%"
+        },
+        {
+          "name": "fox",
+          "relevanceScore": 90,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "4h ago",
+          "percentageIncrease": "100%"
         }
       ]
     },
     {
       "name": "Illinois",
       "code": "IL",
-      "topTopic": "hugo chavez",
+      "topTopic": "cilia flores",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
         {
-          "name": "hugo chavez",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "1h ago",
-          "percentageIncrease": "700%"
-        },
-        {
-          "name": "padrino",
+          "name": "cilia flores",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "5h ago",
+          "started": "2h ago",
           "trendBreakdown": "diosdado",
-          "percentageIncrease": "900%"
+          "percentageIncrease": "1000%"
         },
         {
           "name": "donna adelson",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "10h ago",
+          "started": "12h ago",
           "percentageIncrease": "1000%"
         },
         {
-          "name": "traxnyc",
+          "name": "akay diamonds",
           "relevanceScore": 95,
           "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "14h ago",
-          "trendBreakdown": "akay",
+          "searchVolume": "2K+",
+          "started": "17h ago",
           "percentageIncrease": "400%"
-        },
-        {
-          "name": "online casino",
-          "relevanceScore": 90,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "4h ago",
-          "percentageIncrease": "100%"
         }
       ]
     },
@@ -332,90 +315,98 @@
     {
       "name": "Maryland",
       "code": "MD",
-      "topTopic": "drake",
+      "topTopic": "cilia flores",
       "category": "Law and Government",
-      "trendingScore": 95,
+      "trendingScore": 100,
       "topics": [
+        {
+          "name": "cilia flores",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "1h ago",
+          "percentageIncrease": "900%"
+        },
         {
           "name": "drake",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "17h ago",
+          "started": "19h ago",
           "percentageIncrease": "200%"
+        },
+        {
+          "name": "washington post",
+          "relevanceScore": 90,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "2h ago",
+          "percentageIncrease": "100%"
         }
       ]
     },
     {
       "name": "Michigan",
       "code": "MI",
-      "topTopic": "cnn",
+      "topTopic": "jonathan boley",
       "category": "Law and Government",
-      "trendingScore": 95,
+      "trendingScore": 100,
       "topics": [
         {
-          "name": "cnn",
-          "relevanceScore": 95,
+          "name": "jonathan boley",
+          "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "50 minutes ago",
-          "percentageIncrease": "300%"
-        },
-        {
-          "name": "fox news",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "10 minutes ago",
-          "percentageIncrease": "300%"
+          "searchVolume": "500+",
+          "started": "14h ago",
+          "percentageIncrease": "500%"
         }
       ]
     },
     {
       "name": "Massachusetts",
       "code": "MA",
-      "topTopic": "car accident lawyer",
+      "topTopic": "maria corina machado",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
         {
-          "name": "car accident lawyer",
+          "name": "maria corina machado",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "23h ago",
+          "searchVolume": "100+",
+          "started": "1h ago",
           "percentageIncrease": "1000%"
         },
         {
-          "name": "accident lawyer",
+          "name": "puerto rico",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "23h ago",
-          "percentageIncrease": "1000%"
-        },
-        {
-          "name": "personal injury lawyer",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "23h ago",
-          "percentageIncrease": "1000%"
+          "searchVolume": "100+",
+          "started": "1h ago",
+          "percentageIncrease": "500%"
         },
         {
           "name": "akay diamonds",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "14h ago",
+          "started": "16h ago",
           "percentageIncrease": "300%"
+        },
+        {
+          "name": "washington post",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "3h ago",
+          "percentageIncrease": "200%"
         },
         {
           "name": "drake",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "17h ago",
+          "started": "19h ago",
           "percentageIncrease": "200%"
         }
       ]
@@ -449,7 +440,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "2K+",
-          "started": "17h ago",
+          "started": "19h ago",
           "trendBreakdown": "nyctrax",
           "percentageIncrease": "900%"
         },
@@ -457,49 +448,66 @@
           "name": "lenny dykstra",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "13h ago",
+          "searchVolume": "1K+",
+          "started": "15h ago",
           "percentageIncrease": "800%"
         },
         {
           "name": "cilia flores",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "30 minutes ago",
+          "searchVolume": "500+",
+          "started": "2h ago",
+          "trendBreakdown": "captura",
           "percentageIncrease": "1000%"
+        },
+        {
+          "name": "puerto rico",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "2h ago",
+          "percentageIncrease": "600%"
         },
         {
           "name": "donna adelson",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "10h ago",
+          "started": "12h ago",
           "percentageIncrease": "1000%"
         },
         {
-          "name": "yahoo",
-          "relevanceScore": 85,
+          "name": "jonathan boley",
+          "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
           "started": "3h ago",
-          "percentageIncrease": "75%"
+          "percentageIncrease": "300%"
+        },
+        {
+          "name": "fox",
+          "relevanceScore": 90,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "3h ago",
+          "percentageIncrease": "100%"
         }
       ]
     },
     {
       "name": "North Carolina",
       "code": "NC",
-      "topTopic": "hugo chavez",
+      "topTopic": "maria corina machado",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
         {
-          "name": "hugo chavez",
+          "name": "maria corina machado",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "40 minutes ago",
+          "started": "50 minutes ago",
           "percentageIncrease": "1000%"
         },
         {
@@ -507,51 +515,93 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "13h ago",
+          "started": "15h ago",
           "percentageIncrease": "400%"
-        },
-        {
-          "name": "traxnyc",
-          "relevanceScore": 90,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "9h ago",
-          "trendBreakdown": "akay",
-          "percentageIncrease": "100%"
         }
       ]
     },
     {
       "name": "New York",
       "code": "NY",
-      "topTopic": "traxnyc",
+      "topTopic": "akay diamonds",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
         {
-          "name": "traxnyc",
+          "name": "akay diamonds",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "5K+",
-          "started": "18h ago",
-          "trendBreakdown": "akay",
-          "percentageIncrease": "900%"
+          "searchVolume": "10K+",
+          "started": "21h ago",
+          "trendBreakdown": "nyctrax",
+          "percentageIncrease": "1000%"
         },
         {
           "name": "cilia flores",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "1h ago",
-          "trendBreakdown": "noticias",
+          "searchVolume": "2K+",
+          "started": "3h ago",
+          "trendBreakdown": "diosdado",
           "percentageIncrease": "1000%"
         },
         {
           "name": "maria corina machado",
           "relevanceScore": 100,
           "category": "Law and Government",
+          "searchVolume": "1K+",
+          "started": "3h ago",
+          "trendBreakdown": "nobel",
+          "percentageIncrease": "1000%"
+        },
+        {
+          "name": "lenny dykstra",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "13h ago",
+          "percentageIncrease": "400%"
+        },
+        {
+          "name": "jonathan boley",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "15h ago",
+          "percentageIncrease": "300%"
+        },
+        {
+          "name": "drake rico case",
+          "relevanceScore": 95,
+          "category": "Law and Government",
           "searchVolume": "100+",
+          "started": "19h ago",
+          "percentageIncrease": "300%"
+        }
+      ]
+    },
+    {
+      "name": "Ohio",
+      "code": "OH",
+      "topTopic": "cilia flores",
+      "category": "Law and Government",
+      "trendingScore": 100,
+      "topics": [
+        {
+          "name": "cilia flores",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "500+",
           "started": "1h ago",
+          "trendBreakdown": "diosdado",
+          "percentageIncrease": "700%"
+        },
+        {
+          "name": "maria corina machado",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "50 minutes ago",
           "percentageIncrease": "900%"
         },
         {
@@ -559,99 +609,25 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "13h ago",
+          "started": "15h ago",
           "percentageIncrease": "300%"
         },
         {
-          "name": "lenny dykstra",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "11h ago",
-          "percentageIncrease": "300%"
-        },
-        {
-          "name": "china",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "1h ago",
-          "percentageIncrease": "200%"
-        },
-        {
-          "name": "spencer tepe",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "50 minutes ago",
-          "percentageIncrease": "200%"
-        },
-        {
-          "name": "drake rico case",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "17h ago",
-          "percentageIncrease": "300%"
-        },
-        {
-          "name": "personal injury lawyer",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "22h ago",
-          "percentageIncrease": "400%"
-        },
-        {
-          "name": "jessica tisch",
-          "relevanceScore": 90,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "7h ago",
-          "percentageIncrease": "100%"
-        }
-      ]
-    },
-    {
-      "name": "Ohio",
-      "code": "OH",
-      "topTopic": "car accident lawyer",
-      "category": "Law and Government",
-      "trendingScore": 100,
-      "topics": [
-        {
-          "name": "car accident lawyer",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "22h ago",
-          "trendBreakdown": "work",
-          "percentageIncrease": "1000%"
-        },
-        {
-          "name": "personal injury lawyer",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "22h ago",
-          "percentageIncrease": "1000%"
-        },
-        {
-          "name": "jonathan boley",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "13h ago",
-          "percentageIncrease": "300%"
-        },
-        {
-          "name": "ohio dentist and wife killed",
+          "name": "dentist and wife found dead",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "14h ago",
-          "trendBreakdown": "athens",
-          "percentageIncrease": "400%"
+          "started": "17h ago",
+          "trendBreakdown": "columbus",
+          "percentageIncrease": "300%"
+        },
+        {
+          "name": "fox",
+          "relevanceScore": 90,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "5h ago",
+          "percentageIncrease": "100%"
         }
       ]
     },
@@ -684,19 +660,19 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "2K+",
-          "started": "18h ago",
+          "started": "20h ago",
           "percentageIncrease": "1000%"
         },
         {
           "name": "jonathan boley",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "13h ago",
+          "searchVolume": "1K+",
+          "started": "15h ago",
           "percentageIncrease": "500%"
         },
         {
-          "name": "hugo chavez",
+          "name": "maria corina machado",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "100+",
@@ -704,29 +680,21 @@
           "percentageIncrease": "1000%"
         },
         {
-          "name": "cilia flores",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "30 minutes ago",
-          "percentageIncrease": "1000%"
-        },
-        {
-          "name": "personal injury lawyer",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "22h ago",
-          "percentageIncrease": "1000%"
-        },
-        {
           "name": "traxnyc",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "14h ago",
+          "started": "16h ago",
           "trendBreakdown": "akay",
           "percentageIncrease": "300%"
+        },
+        {
+          "name": "puerto rico",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "1h ago",
+          "percentageIncrease": "400%"
         }
       ]
     },
@@ -742,7 +710,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "2K+",
-          "started": "16h ago",
+          "started": "18h ago",
           "trendBreakdown": "car",
           "percentageIncrease": "1000%"
         },
@@ -751,7 +719,7 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "11h ago",
+          "started": "13h ago",
           "percentageIncrease": "200%"
         }
       ]
@@ -768,7 +736,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "14h ago",
+          "started": "16h ago",
           "percentageIncrease": "500%"
         }
       ]
@@ -784,17 +752,25 @@
           "name": "diosdado cabello",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "2K+",
-          "started": "5h ago",
+          "searchVolume": "5K+",
+          "started": "7h ago",
           "trendBreakdown": "cilia",
           "percentageIncrease": "1000%"
+        },
+        {
+          "name": "maria corina machado",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "2h ago",
+          "percentageIncrease": "800%"
         },
         {
           "name": "personal injury lawyer",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "21h ago",
+          "started": "23h ago",
           "percentageIncrease": "1000%"
         },
         {
@@ -802,7 +778,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "21h ago",
+          "started": "23h ago",
           "trendBreakdown": "truck",
           "percentageIncrease": "1000%"
         },
@@ -811,39 +787,23 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "21h ago",
+          "started": "23h ago",
           "percentageIncrease": "900%"
-        },
-        {
-          "name": "akay diamonds",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "2K+",
-          "started": "16h ago",
-          "percentageIncrease": "300%"
         },
         {
           "name": "jonathan boley",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "15h ago",
+          "started": "17h ago",
           "percentageIncrease": "300%"
         },
         {
-          "name": "maria corina machado",
+          "name": "akay diamonds",
           "relevanceScore": 95,
           "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "20 minutes ago",
-          "percentageIncrease": "300%"
-        },
-        {
-          "name": "sydney marquez",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "22h ago",
+          "searchVolume": "2K+",
+          "started": "18h ago",
           "percentageIncrease": "300%"
         },
         {
@@ -851,81 +811,73 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "17h ago",
+          "started": "19h ago",
           "percentageIncrease": "200%"
-        },
-        {
-          "name": "dmv",
-          "relevanceScore": 90,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "23h ago",
-          "percentageIncrease": "100%"
         }
       ]
     },
     {
       "name": "Virginia",
       "code": "VA",
-      "topTopic": "cilia flores",
+      "topTopic": "maria corina machado",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
         {
-          "name": "cilia flores",
+          "name": "maria corina machado",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "20 minutes ago",
-          "percentageIncrease": "1000%"
+          "started": "40 minutes ago",
+          "percentageIncrease": "800%"
         },
         {
-          "name": "hugo chavez",
-          "relevanceScore": 100,
+          "name": "jonathan boley",
+          "relevanceScore": 95,
           "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "1h ago",
-          "percentageIncrease": "1000%"
+          "searchVolume": "500+",
+          "started": "15h ago",
+          "percentageIncrease": "400%"
         }
       ]
     },
     {
       "name": "District of Columbia",
       "code": "DC",
-      "topTopic": "cilia flores",
+      "topTopic": "puerto rico",
       "category": "Law and Government",
-      "trendingScore": 100,
+      "trendingScore": 95,
       "topics": [
         {
-          "name": "cilia flores",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "10 minutes ago",
-          "percentageIncrease": "1000%"
-        },
-        {
-          "name": "politico",
+          "name": "puerto rico",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
           "started": "2h ago",
-          "percentageIncrease": "200%"
+          "percentageIncrease": "400%"
         },
         {
           "name": "akay diamonds",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "13h ago",
+          "started": "15h ago",
           "percentageIncrease": "300%"
+        },
+        {
+          "name": "jonathan boley",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "10h ago",
+          "percentageIncrease": "200%"
         },
         {
           "name": "drake",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "17h ago",
+          "started": "19h ago",
           "percentageIncrease": "200%"
         }
       ]
@@ -959,8 +911,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "2K+",
-          "started": "3h ago",
-          "trendBreakdown": "newsvenezuela",
+          "started": "5h ago",
           "percentageIncrease": "1000%"
         }
       ]
@@ -977,7 +928,7 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "9h ago",
+          "started": "11h ago",
           "percentageIncrease": "400%"
         }
       ]
@@ -994,7 +945,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "2K+",
-          "started": "17h ago",
+          "started": "19h ago",
           "trendBreakdown": "walker",
           "percentageIncrease": "500%"
         }
@@ -1037,25 +988,26 @@
     {
       "name": "Colorado",
       "code": "CO",
-      "topTopic": "ferris state",
+      "topTopic": "cilia flores",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
         {
-          "name": "ferris state",
+          "name": "cilia flores",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "23h ago",
-          "percentageIncrease": "900%"
+          "searchVolume": "500+",
+          "started": "20 minutes ago",
+          "trendBreakdown": "diosdado",
+          "percentageIncrease": "800%"
         },
         {
-          "name": "denver news",
+          "name": "fox",
           "relevanceScore": 95,
           "category": "Law and Government",
-          "searchVolume": "500+",
+          "searchVolume": "100+",
           "started": "1h ago",
-          "percentageIncrease": "400%"
+          "percentageIncrease": "200%"
         }
       ]
     },
@@ -1139,7 +1091,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "14h ago",
+          "started": "16h ago",
           "percentageIncrease": "500%"
         }
       ]
@@ -1198,16 +1150,25 @@
     {
       "name": "Puerto Rico",
       "code": "PR",
-      "topTopic": "frontier airlines",
+      "topTopic": "san juan airport",
       "category": "Law and Government",
-      "trendingScore": 95,
+      "trendingScore": 100,
       "topics": [
+        {
+          "name": "san juan airport",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "1K+",
+          "started": "4h ago",
+          "trendBreakdown": "puerto",
+          "percentageIncrease": "1000%"
+        },
         {
           "name": "frontier airlines",
           "relevanceScore": 95,
           "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "2h ago",
+          "searchVolume": "500+",
+          "started": "6h ago",
           "percentageIncrease": "300%"
         }
       ]
@@ -1241,7 +1202,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "5h ago",
+          "started": "7h ago",
           "percentageIncrease": "1000%"
         }
       ]
@@ -1435,10 +1396,9 @@
           "name": "venezuela",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "3h ago",
-          "trendBreakdown": "fox",
-          "percentageIncrease": "800%"
+          "searchVolume": "2K+",
+          "started": "5h ago",
+          "percentageIncrease": "1000%"
         }
       ]
     },
@@ -1470,9 +1430,10 @@
           "name": "venezuela",
           "relevanceScore": 95,
           "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "2h ago",
-          "percentageIncrease": "200%"
+          "searchVolume": "500+",
+          "started": "6h ago",
+          "trendBreakdown": "newsvenezuela",
+          "percentageIncrease": "400%"
         }
       ]
     }

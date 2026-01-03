@@ -1,94 +1,63 @@
 {
-  "timestamp": "2026-01-03T14:04:36.407Z",
+  "timestamp": "2026-01-03T16:04:40.397Z",
   "states": [
     {
       "name": "New York",
       "code": "NY",
-      "topTopic": "traxnyc",
+      "topTopic": "akay diamonds",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
         {
-          "name": "traxnyc",
+          "name": "akay diamonds",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "5K+",
-          "started": "18h ago",
-          "trendBreakdown": "akay",
-          "percentageIncrease": "900%"
+          "searchVolume": "10K+",
+          "started": "21h ago",
+          "trendBreakdown": "nyctrax",
+          "percentageIncrease": "1000%"
         },
         {
           "name": "cilia flores",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "1h ago",
-          "trendBreakdown": "noticias",
+          "searchVolume": "2K+",
+          "started": "3h ago",
+          "trendBreakdown": "diosdado",
           "percentageIncrease": "1000%"
         },
         {
           "name": "maria corina machado",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "1h ago",
-          "percentageIncrease": "900%"
-        },
-        {
-          "name": "jonathan boley",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "13h ago",
-          "percentageIncrease": "300%"
+          "searchVolume": "1K+",
+          "started": "3h ago",
+          "trendBreakdown": "nobel",
+          "percentageIncrease": "1000%"
         },
         {
           "name": "lenny dykstra",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "11h ago",
+          "started": "13h ago",
+          "percentageIncrease": "400%"
+        },
+        {
+          "name": "jonathan boley",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "15h ago",
           "percentageIncrease": "300%"
-        },
-        {
-          "name": "china",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "1h ago",
-          "percentageIncrease": "200%"
-        },
-        {
-          "name": "spencer tepe",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "50 minutes ago",
-          "percentageIncrease": "200%"
         },
         {
           "name": "drake rico case",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "17h ago",
+          "started": "19h ago",
           "percentageIncrease": "300%"
-        },
-        {
-          "name": "personal injury lawyer",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "22h ago",
-          "percentageIncrease": "400%"
-        },
-        {
-          "name": "jessica tisch",
-          "relevanceScore": 90,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "7h ago",
-          "percentageIncrease": "100%"
         }
       ]
     }

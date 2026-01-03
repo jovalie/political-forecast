@@ -1,19 +1,19 @@
 {
-  "timestamp": "2026-01-03T14:04:36.407Z",
+  "timestamp": "2026-01-03T16:04:40.397Z",
   "states": [
     {
       "name": "North Carolina",
       "code": "NC",
-      "topTopic": "hugo chavez",
+      "topTopic": "maria corina machado",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
         {
-          "name": "hugo chavez",
+          "name": "maria corina machado",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "40 minutes ago",
+          "started": "50 minutes ago",
           "percentageIncrease": "1000%"
         },
         {
@@ -21,17 +21,8 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "13h ago",
+          "started": "15h ago",
           "percentageIncrease": "400%"
-        },
-        {
-          "name": "traxnyc",
-          "relevanceScore": 90,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "9h ago",
-          "trendBreakdown": "akay",
-          "percentageIncrease": "100%"
         }
       ]
     }

@@ -1,20 +1,36 @@
 {
-  "timestamp": "2026-01-03T14:04:36.407Z",
+  "timestamp": "2026-01-03T16:04:40.397Z",
   "states": [
     {
       "name": "Maryland",
       "code": "MD",
-      "topTopic": "drake",
+      "topTopic": "cilia flores",
       "category": "Law and Government",
-      "trendingScore": 95,
+      "trendingScore": 100,
       "topics": [
+        {
+          "name": "cilia flores",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "1h ago",
+          "percentageIncrease": "900%"
+        },
         {
           "name": "drake",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "17h ago",
+          "started": "19h ago",
           "percentageIncrease": "200%"
+        },
+        {
+          "name": "washington post",
+          "relevanceScore": 90,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "2h ago",
+          "percentageIncrease": "100%"
         }
       ]
     }

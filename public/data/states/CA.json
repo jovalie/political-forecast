@@ -1,37 +1,37 @@
 {
-  "timestamp": "2026-01-03T14:04:36.407Z",
+  "timestamp": "2026-01-03T16:04:40.397Z",
   "states": [
     {
       "name": "California",
       "code": "CA",
-      "topTopic": "akay diamonds",
+      "topTopic": "arcata fire",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
-        {
-          "name": "akay diamonds",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "5K+",
-          "started": "17h ago",
-          "trendBreakdown": "nyctrax",
-          "percentageIncrease": "600%"
-        },
         {
           "name": "arcata fire",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "5K+",
-          "started": "14h ago",
+          "started": "16h ago",
           "trendBreakdown": "lost",
-          "percentageIncrease": "900%"
+          "percentageIncrease": "800%"
+        },
+        {
+          "name": "cilia flores",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "1K+",
+          "started": "3h ago",
+          "trendBreakdown": "captura",
+          "percentageIncrease": "700%"
         },
         {
           "name": "redheaded blackbelt",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "2K+",
-          "started": "15h ago",
+          "started": "17h ago",
           "percentageIncrease": "800%"
         },
         {
@@ -39,33 +39,33 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "2K+",
-          "started": "12h ago",
+          "started": "14h ago",
           "trendBreakdown": "california",
           "percentageIncrease": "300%"
         },
         {
-          "name": "jonathan boley",
+          "name": "traxnyc",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "5K+",
+          "started": "19h ago",
+          "trendBreakdown": "akay",
+          "percentageIncrease": "400%"
+        },
+        {
+          "name": "maria corina machado",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "12h ago",
-          "percentageIncrease": "200%"
+          "started": "5h ago",
+          "percentageIncrease": "400%"
         },
         {
-          "name": "cilia flores",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "1h ago",
-          "trendBreakdown": "maduro",
-          "percentageIncrease": "300%"
-        },
-        {
-          "name": "white house",
+          "name": "trump twitter",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "4h ago",
+          "started": "5h ago",
           "percentageIncrease": "200%"
         },
         {
@@ -73,7 +73,7 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "13h ago",
+          "started": "15h ago",
           "percentageIncrease": "300%"
         },
         {
@@ -81,15 +81,15 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "10h ago",
+          "started": "12h ago",
           "percentageIncrease": "200%"
         },
         {
-          "name": "china",
+          "name": "jonathan boley",
           "relevanceScore": 90,
           "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "5h ago",
+          "searchVolume": "1K+",
+          "started": "14h ago",
           "percentageIncrease": "100%"
         }
       ]

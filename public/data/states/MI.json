@@ -1,28 +1,20 @@
 {
-  "timestamp": "2026-01-03T14:04:36.407Z",
+  "timestamp": "2026-01-03T16:04:40.397Z",
   "states": [
     {
       "name": "Michigan",
       "code": "MI",
-      "topTopic": "cnn",
+      "topTopic": "jonathan boley",
       "category": "Law and Government",
-      "trendingScore": 95,
+      "trendingScore": 100,
       "topics": [
         {
-          "name": "cnn",
-          "relevanceScore": 95,
+          "name": "jonathan boley",
+          "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "50 minutes ago",
-          "percentageIncrease": "300%"
-        },
-        {
-          "name": "fox news",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "10 minutes ago",
-          "percentageIncrease": "300%"
+          "searchVolume": "500+",
+          "started": "14h ago",
+          "percentageIncrease": "500%"
         }
       ]
     }
