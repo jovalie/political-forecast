@@ -1,20 +1,36 @@
 {
-  "timestamp": "2026-01-03T16:04:40.397Z",
+  "timestamp": "2026-01-03T18:04:40.706Z",
   "states": [
     {
       "name": "Washington",
       "code": "WA",
-      "topTopic": "jonathan boley",
+      "topTopic": "monroe doctrine",
       "category": "Law and Government",
-      "trendingScore": 95,
+      "trendingScore": 100,
       "topics": [
         {
-          "name": "jonathan boley",
-          "relevanceScore": 95,
+          "name": "monroe doctrine",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "1h ago",
+          "percentageIncrease": "1000%"
+        },
+        {
+          "name": "dentist",
+          "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "11h ago",
-          "percentageIncrease": "400%"
+          "started": "50 minutes ago",
+          "percentageIncrease": "1000%"
+        },
+        {
+          "name": "guardian",
+          "relevanceScore": 90,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "3h ago",
+          "percentageIncrease": "100%"
         }
       ]
     }

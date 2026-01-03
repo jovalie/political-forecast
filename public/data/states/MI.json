@@ -1,19 +1,43 @@
 {
-  "timestamp": "2026-01-03T16:04:40.397Z",
+  "timestamp": "2026-01-03T18:04:40.706Z",
   "states": [
     {
       "name": "Michigan",
       "code": "MI",
-      "topTopic": "jonathan boley",
+      "topTopic": "monroe doctrine",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
+        {
+          "name": "monroe doctrine",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "1K+",
+          "started": "2h ago",
+          "percentageIncrease": "1000%"
+        },
+        {
+          "name": "hugo chavez",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "4h ago",
+          "percentageIncrease": "1000%"
+        },
+        {
+          "name": "marco rubio",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "1h ago",
+          "percentageIncrease": "1000%"
+        },
         {
           "name": "jonathan boley",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "14h ago",
+          "started": "16h ago",
           "percentageIncrease": "500%"
         }
       ]

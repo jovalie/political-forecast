@@ -1,20 +1,20 @@
 {
-  "timestamp": "2026-01-03T16:04:40.397Z",
+  "timestamp": "2026-01-03T18:04:40.706Z",
   "states": [
     {
       "name": "Missouri",
       "code": "MO",
-      "topTopic": "cnn",
+      "topTopic": "monroe doctrine",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
         {
-          "name": "cnn",
+          "name": "monroe doctrine",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "40 minutes ago",
-          "percentageIncrease": "500%"
+          "searchVolume": "500+",
+          "started": "1h ago",
+          "percentageIncrease": "1000%"
         }
       ]
     }

@@ -1,96 +1,96 @@
 {
-  "timestamp": "2026-01-03T16:04:40.397Z",
+  "timestamp": "2026-01-03T18:04:40.706Z",
   "states": [
     {
       "name": "California",
       "code": "CA",
-      "topTopic": "arcata fire",
+      "topTopic": "monroe doctrine",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
         {
-          "name": "arcata fire",
+          "name": "monroe doctrine",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "5K+",
-          "started": "16h ago",
-          "trendBreakdown": "lost",
-          "percentageIncrease": "800%"
+          "started": "9h ago",
+          "percentageIncrease": "1000%"
+        },
+        {
+          "name": "hugo chavez",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "2K+",
+          "started": "9h ago",
+          "percentageIncrease": "1000%"
+        },
+        {
+          "name": "akay diamonds",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "10K+",
+          "started": "21h ago",
+          "trendBreakdown": "nyctrax",
+          "percentageIncrease": "500%"
         },
         {
           "name": "cilia flores",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "3h ago",
-          "trendBreakdown": "captura",
-          "percentageIncrease": "700%"
+          "searchVolume": "5K+",
+          "started": "5h ago",
+          "trendBreakdown": "diosdado",
+          "percentageIncrease": "1000%"
+        },
+        {
+          "name": "marco rubio",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "2K+",
+          "started": "1h ago",
+          "percentageIncrease": "1000%"
+        },
+        {
+          "name": "arcata fire",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "5K+",
+          "started": "18h ago",
+          "trendBreakdown": "lost",
+          "percentageIncrease": "800%"
         },
         {
           "name": "redheaded blackbelt",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "2K+",
-          "started": "17h ago",
-          "percentageIncrease": "800%"
+          "started": "19h ago",
+          "percentageIncrease": "700%"
         },
         {
           "name": "open carry california",
           "relevanceScore": 95,
           "category": "Law and Government",
-          "searchVolume": "2K+",
-          "started": "14h ago",
+          "searchVolume": "5K+",
+          "started": "16h ago",
           "trendBreakdown": "california",
           "percentageIncrease": "300%"
         },
         {
-          "name": "traxnyc",
+          "name": "delcy",
           "relevanceScore": 95,
           "category": "Law and Government",
-          "searchVolume": "5K+",
-          "started": "19h ago",
-          "trendBreakdown": "akay",
+          "searchVolume": "1K+",
+          "started": "7h ago",
           "percentageIncrease": "400%"
-        },
-        {
-          "name": "maria corina machado",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "5h ago",
-          "percentageIncrease": "400%"
-        },
-        {
-          "name": "trump twitter",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "5h ago",
-          "percentageIncrease": "200%"
-        },
-        {
-          "name": "dhs",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "15h ago",
-          "percentageIncrease": "300%"
-        },
-        {
-          "name": "jury duty",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "12h ago",
-          "percentageIncrease": "200%"
         },
         {
           "name": "jonathan boley",
-          "relevanceScore": 90,
+          "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "14h ago",
-          "percentageIncrease": "100%"
+          "started": "16h ago",
+          "percentageIncrease": "200%"
         }
       ]
     }

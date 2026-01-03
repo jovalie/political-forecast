@@ -1,21 +1,20 @@
 {
-  "timestamp": "2026-01-03T16:04:40.397Z",
+  "timestamp": "2026-01-03T18:04:40.706Z",
   "states": [
     {
       "name": "Wyoming",
       "code": "WY",
       "topTopic": "venezuela",
       "category": "Law and Government",
-      "trendingScore": 95,
+      "trendingScore": 100,
       "topics": [
         {
           "name": "venezuela",
-          "relevanceScore": 95,
+          "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "6h ago",
-          "trendBreakdown": "newsvenezuela",
-          "percentageIncrease": "400%"
+          "searchVolume": "1K+",
+          "started": "8h ago",
+          "percentageIncrease": "600%"
         }
       ]
     }
