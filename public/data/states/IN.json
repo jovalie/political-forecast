@@ -1,27 +1,19 @@
 {
-  "timestamp": "2026-01-03T08:04:36.306Z",
+  "timestamp": "2026-01-03T10:04:34.610Z",
   "states": [
     {
       "name": "Indiana",
       "code": "IN",
-      "topTopic": "cnn",
+      "topTopic": "personal injury lawyer",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
-        {
-          "name": "cnn",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "40 minutes ago",
-          "percentageIncrease": "600%"
-        },
         {
           "name": "personal injury lawyer",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "16h ago",
+          "started": "18h ago",
           "percentageIncrease": "1000%"
         }
       ]

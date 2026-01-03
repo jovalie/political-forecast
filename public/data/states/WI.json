@@ -1,27 +1,19 @@
 {
-  "timestamp": "2026-01-03T08:04:36.306Z",
+  "timestamp": "2026-01-03T10:04:34.610Z",
   "states": [
     {
       "name": "Wisconsin",
       "code": "WI",
-      "topTopic": "cnn",
+      "topTopic": "yahoo",
       "category": "Law and Government",
-      "trendingScore": 95,
+      "trendingScore": 85,
       "topics": [
-        {
-          "name": "cnn",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "20 minutes ago",
-          "percentageIncrease": "200%"
-        },
         {
           "name": "yahoo",
           "relevanceScore": 85,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "20h ago",
+          "started": "22h ago",
           "percentageIncrease": "75%"
         }
       ]

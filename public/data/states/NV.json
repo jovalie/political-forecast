@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-01-03T08:04:36.306Z",
+  "timestamp": "2026-01-03T10:04:34.610Z",
   "states": [
     {
       "name": "Nevada",
@@ -13,16 +13,8 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "8h ago",
+          "started": "10h ago",
           "percentageIncrease": "500%"
-        },
-        {
-          "name": "cnn",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "100+",
-          "started": "50 minutes ago",
-          "percentageIncrease": "400%"
         }
       ]
     }
