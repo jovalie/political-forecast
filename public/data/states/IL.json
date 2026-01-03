@@ -1,43 +1,36 @@
 {
-  "timestamp": "2026-01-03T10:04:34.610Z",
+  "timestamp": "2026-01-03T12:04:49.627Z",
   "states": [
     {
       "name": "Illinois",
       "code": "IL",
-      "topTopic": "akay diamonds",
+      "topTopic": "donna adelson",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
-        {
-          "name": "akay diamonds",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "1K+",
-          "started": "11h ago",
-          "percentageIncrease": "500%"
-        },
         {
           "name": "donna adelson",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "6h ago",
+          "started": "8h ago",
           "percentageIncrease": "1000%"
         },
         {
-          "name": "cnn",
+          "name": "traxnyc",
           "relevanceScore": 95,
           "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "2h ago",
-          "percentageIncrease": "300%"
+          "searchVolume": "1K+",
+          "started": "12h ago",
+          "trendBreakdown": "akay",
+          "percentageIncrease": "400%"
         },
         {
           "name": "online casino",
           "relevanceScore": 90,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "20 minutes ago",
+          "started": "2h ago",
           "percentageIncrease": "100%"
         }
       ]
