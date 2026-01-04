@@ -1,35 +1,27 @@
 {
-  "timestamp": "2026-01-04T04:23:36.844Z",
+  "timestamp": "2026-01-04T06:04:46.108Z",
   "states": [
     {
       "name": "Florida",
       "code": "FL",
-      "topTopic": "monroe doctrine",
+      "topTopic": "delcy",
       "category": "Law and Government",
       "trendingScore": 100,
       "topics": [
+        {
+          "name": "delcy",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "10K+",
+          "started": "20h ago",
+          "percentageIncrease": "1000%"
+        },
         {
           "name": "monroe doctrine",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "10K+",
-          "started": "15h ago",
-          "percentageIncrease": "1000%"
-        },
-        {
-          "name": "delcy",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "5K+",
-          "started": "18h ago",
-          "percentageIncrease": "1000%"
-        },
-        {
-          "name": "marco rubio",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "5K+",
-          "started": "15h ago",
+          "started": "17h ago",
           "percentageIncrease": "1000%"
         },
         {
@@ -37,16 +29,25 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "10K+",
-          "started": "15h ago",
+          "started": "17h ago",
           "trendBreakdown": "edmundo",
+          "percentageIncrease": "1000%"
+        },
+        {
+          "name": "marco rubio",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "5K+",
+          "started": "16h ago",
           "percentageIncrease": "1000%"
         },
         {
           "name": "venezuela libre",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "16h ago",
+          "searchVolume": "1K+",
+          "started": "18h ago",
+          "trendBreakdown": "telemundo",
           "percentageIncrease": "500%"
         },
         {
@@ -54,24 +55,16 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "2K+",
-          "started": "11h ago",
+          "started": "13h ago",
           "trendBreakdown": "venezuela",
           "percentageIncrease": "400%"
-        },
-        {
-          "name": "el chapo",
-          "relevanceScore": 95,
-          "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "6h ago",
-          "percentageIncrease": "200%"
         },
         {
           "name": "venezuela flag",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "14h ago",
+          "started": "15h ago",
           "percentageIncrease": "400%"
         },
         {
@@ -79,7 +72,7 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "16h ago",
+          "started": "18h ago",
           "percentageIncrease": "200%"
         },
         {
@@ -87,8 +80,16 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "18h ago",
+          "started": "19h ago",
           "trendBreakdown": "timesny",
+          "percentageIncrease": "200%"
+        },
+        {
+          "name": "palm beach",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "13h ago",
           "percentageIncrease": "200%"
         }
       ]
