@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-01-03T22:04:33.228Z",
+  "timestamp": "2026-01-04T00:04:56.366Z",
   "states": [
     {
       "name": "Arizona",
@@ -12,7 +12,15 @@
           "name": "monroe doctrine",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "1K+",
+          "searchVolume": "2K+",
+          "started": "8h ago",
+          "percentageIncrease": "1000%"
+        },
+        {
+          "name": "marco rubio",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "500+",
           "started": "6h ago",
           "percentageIncrease": "1000%"
         },
@@ -21,24 +29,23 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "5h ago",
-          "trendBreakdown": "yahoo",
+          "started": "7h ago",
           "percentageIncrease": "600%"
         },
         {
-          "name": "marco rubio",
+          "name": "manuel noriega",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "4h ago",
-          "percentageIncrease": "1000%"
+          "started": "8h ago",
+          "percentageIncrease": "600%"
         },
         {
           "name": "valenzuela",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "5h ago",
+          "started": "7h ago",
           "percentageIncrease": "500%"
         },
         {
@@ -46,7 +53,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "6h ago",
+          "started": "8h ago",
           "percentageIncrease": "1000%"
         }
       ]

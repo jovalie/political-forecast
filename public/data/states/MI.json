@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-01-03T22:04:33.228Z",
+  "timestamp": "2026-01-04T00:04:56.366Z",
   "states": [
     {
       "name": "Michigan",
@@ -13,7 +13,7 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "2K+",
-          "started": "6h ago",
+          "started": "8h ago",
           "percentageIncrease": "1000%"
         },
         {
@@ -21,7 +21,15 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "5h ago",
+          "started": "7h ago",
+          "percentageIncrease": "1000%"
+        },
+        {
+          "name": "maria corina machado",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "500+",
+          "started": "7h ago",
           "percentageIncrease": "1000%"
         },
         {
@@ -29,16 +37,24 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "7h ago",
-          "percentageIncrease": "900%"
+          "started": "9h ago",
+          "percentageIncrease": "800%"
         },
         {
           "name": "jonathan boley",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "500+",
-          "started": "20h ago",
+          "started": "22h ago",
           "percentageIncrease": "500%"
+        },
+        {
+          "name": "aruba",
+          "relevanceScore": 100,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "9h ago",
+          "percentageIncrease": "700%"
         }
       ]
     }
