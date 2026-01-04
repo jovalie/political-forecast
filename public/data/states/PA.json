@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-01-04T02:47:17.846Z",
+  "timestamp": "2026-01-04T04:23:36.844Z",
   "states": [
     {
       "name": "Pennsylvania",
@@ -13,50 +13,40 @@
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "5K+",
-          "started": "12h ago",
+          "started": "14h ago",
           "percentageIncrease": "1000%"
         },
         {
-          "name": "marco rubio",
+          "name": "delcy",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "10h ago",
-          "percentageIncrease": "800%"
+          "started": "12h ago",
+          "percentageIncrease": "500%"
         },
         {
           "name": "maria corina machado",
           "relevanceScore": 100,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "11h ago",
+          "started": "13h ago",
           "trendBreakdown": "machado",
           "percentageIncrease": "600%"
         },
         {
-          "name": "noriega",
+          "name": "marco rubio",
           "relevanceScore": 100,
           "category": "Law and Government",
-          "searchVolume": "2K+",
-          "started": "12h ago",
-          "trendBreakdown": "manuel",
+          "searchVolume": "1K+",
+          "started": "11h ago",
           "percentageIncrease": "700%"
-        },
-        {
-          "name": "where is venezuela on the map",
-          "relevanceScore": 100,
-          "category": "Law and Government",
-          "searchVolume": "500+",
-          "started": "12h ago",
-          "trendBreakdown": "venezuela",
-          "percentageIncrease": "500%"
         },
         {
           "name": "aruba",
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "1K+",
-          "started": "14h ago",
+          "started": "16h ago",
           "trendBreakdown": "caribbean",
           "percentageIncrease": "400%"
         },
@@ -65,8 +55,25 @@
           "relevanceScore": 95,
           "category": "Law and Government",
           "searchVolume": "100+",
-          "started": "6h ago",
+          "started": "8h ago",
           "percentageIncrease": "200%"
+        },
+        {
+          "name": "venezuela oil",
+          "relevanceScore": 95,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "10h ago",
+          "trendBreakdown": "does",
+          "percentageIncrease": "300%"
+        },
+        {
+          "name": "nytimes",
+          "relevanceScore": 90,
+          "category": "Law and Government",
+          "searchVolume": "100+",
+          "started": "16h ago",
+          "percentageIncrease": "100%"
         }
       ]
     }
